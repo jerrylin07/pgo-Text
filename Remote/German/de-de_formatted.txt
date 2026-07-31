@@ -8396,11 +8396,11 @@ TEXT: T-Shirt zur GO Tour 2026 (Grau)
 
 RESOURCE ID: avatar_shirt_lego_hat_2026
 TEXT: LEGO(R)
-Pokémon-Kappe 2026
+ Pokémon-Kappe 2026
 
 RESOURCE ID: avatar_shirt_lego_jacket_2026
 TEXT: LEGO(R)
-Pokémon-Jacke 2026
+ Pokémon-Jacke 2026
 
 RESOURCE ID: avatar_shirt_mimikyu_hoodoff
 TEXT: Mimigma-Poncho (Entlarvte Form)
@@ -61956,10 +61956,10 @@ at SHA 4d4f3e80cc7fb911006bd14d198c9831ef66d005
 Pipeline 339838, job 2672172
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-07-31T01:05:17.722281+00:00 for de-DE
-at SHA 4aa31a5e103
-Pipeline 3841714, job 56495528
-Patch from: 0.423.0-SHA-7c73efa7-RC2, 0.421.0-SHA-12297e81-RC2
+TEXT: Built at 2026-07-31T22:18:45.421507+00:00 for de-DE
+at SHA d789e82319b
+Pipeline 3844025, job 56536182
+Patch from: 0.421.1-SHA-999cbf08-RC1, 0.423.0-SHA-bd5762dc-RC5
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: Befristete Forschung: Ansage vom Typ Kampf
