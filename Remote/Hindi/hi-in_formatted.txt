@@ -1166,40 +1166,40 @@ RESOURCE ID: apac_childrens_day_may2026_cc_2
 TEXT: विकास का समय कलेक्शन चैलेंज 2
 
 RESOURCE ID: apac_gameshow_2026_bonus_2_title
-TEXT: Hidden Stage! Massive Pokémon Time
+TEXT: छपिा स्टेज! पोकेमॉन पार्टी टाइम
 
 RESOURCE ID: apac_gameshow_2026_bonus_1_massive_spawn
-TEXT: Large numbers of Event-themed Pokémon will appear in the wild for 5 minutes every hour from 10:00 a.m. to 8:00 p.m.
+TEXT: दुपहर 10:00 बजे से शाम 8:00 के बीच, जंगल में हर घंटे 5 मनिटि के लिए इवेंट थीम वाले पोकेमॉन बड़ी संख्या में दखिाई देंगे।
 
 RESOURCE ID: apac_gameshow_2026_bonus_1_spawn_condition
-TEXT: Event-themed Pokémon attracted to Incense and Lure Modules
+TEXT: इवेंट थीम वाले पोकेमॉन इंसेंस और अट्रैक्ट मॉड्यूल की ओर आकर्षति
 
 RESOURCE ID: apac_gameshow_2026_bonus_1_unown_spawn
-TEXT: Incense and Lure module may attract Unown
+TEXT: इंसेंस और अट्रैक्ट मॉड्यूल से अनोन आकर्षति हो सकते हैं
 
 RESOURCE ID: apac_gameshow_2026_bonus_2_desc
-TEXT: A disguised Ditto is hiding among the many Pokémon!
+TEXT: इन सब पोकेमॉन के बीच, एक डट्टिो भी रूप बदलकर छपिा हुआ है।
 
 RESOURCE ID: apac_gameshow_2026_tr_name
-TEXT: Game Start Timed Research
+TEXT: गेम स्टार्ट सीमति समय वाली रसिर्च
 
 RESOURCE ID: apac_gameshow_2026_tr_name_1
-TEXT: Game Start Timed Research (1/3)
+TEXT: गेम स्टार्ट सीमति समय वाली रसिर्च (1/3)
 
 RESOURCE ID: apac_gameshow_2026_tr_name_1_desc
-TEXT: Stage 1
+TEXT: स्टेज 1
 
 RESOURCE ID: apac_gameshow_2026_tr_name_2
-TEXT: Game Start Timed Research (2/3)
+TEXT: गेम स्टार्ट सीमति समय वाली रसिर्च (2/3)
 
 RESOURCE ID: apac_gameshow_2026_tr_name_2_desc
-TEXT: Stage 2
+TEXT: स्टेज 2
 
 RESOURCE ID: apac_gameshow_2026_tr_name_3
-TEXT: Game Start Timed Research (3/3)
+TEXT: गेम स्टार्ट सीमति समय वाली रसिर्च (3/3)
 
 RESOURCE ID: apac_gameshow_2026_tr_name_3_desc
-TEXT: Final Stage
+TEXT: फ़ाइनल स्टेज
 
 RESOURCE ID: app_exit_confirmation_message
 TEXT: क्या आप Pokémon GO से बाहर जाना चाहते हैं?
@@ -2046,6 +2046,9 @@ TEXT: AR ट्रैकिंग में गड़बड़ी हुई। �
 RESOURCE ID: archen_mastery_mar2025
 TEXT: कैच मास्टरी - आर्केन
 
+RESOURCE ID: arctic_embers_event_name
+TEXT: समर मैराथन - हमि की चिंगारयिाँ
+
 RESOURCE ID: ardk_download_button
 TEXT: डाउनलोड करें
 
@@ -2443,7 +2446,7 @@ RESOURCE ID: attack_training_string_key
 TEXT: अटैक ट्रेनिंग {0}
 
 RESOURCE ID: au_pixel_expo_2026_bonus_1_title
-TEXT: Pixel Expo 2026 Event Bonus
+TEXT: Pixel Expo 2026 इवेंट बोनस
 
 RESOURCE ID: au_pixel_expo_2026_title
 TEXT: Pixel Expo 2026
@@ -7757,6 +7760,9 @@ TEXT: मेगा म्यूटू X | 100 Thieves हुडी
 RESOURCE ID: avatar_shirt_100thieves_y
 TEXT: मेगा म्यूटू Y | 100 Thieves हुडी
 
+RESOURCE ID: avatar_shirt_ jleague_2026
+TEXT: 2026 J.League टी-शर्ट
+
 RESOURCE ID: avatar_shirt_default_willow_coat
 TEXT: प्रोफ़ेसर वलिो-स्टाइल लैब कोट
 
@@ -7774,6 +7780,14 @@ TEXT: GO Tour 2026 टी-शर्ट (काली)
 
 RESOURCE ID: avatar_shirt_gotour_grey
 TEXT: GO Tour 2026 टी-शर्ट (स्लेटी)
+
+RESOURCE ID: avatar_shirt_lego_hat_2026
+TEXT: 2026 LEGO(R)
+पोकेमॉन टोपी
+
+RESOURCE ID: avatar_shirt_lego_jacket_2026
+TEXT: 2026 LEGO(R)
+पोकेमॉन जैकेट
 
 RESOURCE ID: avatar_shirt_mimikyu_hoodoff
 TEXT: मिमिक्यू हुडी (रिवील फ़ॉर्म)
@@ -13242,6 +13256,132 @@ TEXT: Pokémon GO City Safari
 RESOURCE ID: badge_safari_2025_vancouver_sunday_title
 TEXT: Pokémon GO City Safari
 
+RESOURCE ID: badge_safari_2026_boston_add_on_hatch_test_title
+TEXT: Pokémon GO City Safari—Egg-thusiast
+
+RESOURCE ID: badge_safari_2026_boston_add_on_hatch_title
+TEXT: Pokémon GO City Safari—Egg-thusiast
+
+RESOURCE ID: badge_safari_2026_boston_add_on_raid_test_title
+TEXT: Pokémon GO City Safari—Raid Lover
+
+RESOURCE ID: badge_safari_2026_boston_add_on_raid_title
+TEXT: Pokémon GO City Safari—Raid Lover
+
+RESOURCE ID: badge_safari_2026_boston_day_00_title
+TEXT: Pokémon GO City Safari
+
+RESOURCE ID: badge_safari_2026_boston_day_01_title
+TEXT: Pokémon GO City Safari
+
+RESOURCE ID: badge_safari_2026_boston_day_02_title
+TEXT: Pokémon GO City Safari
+
+RESOURCE ID: badge_safari_2026_brisbane_add_on_hatch_test_title
+TEXT: Pokémon GO City Safari—Egg-thusiast
+
+RESOURCE ID: badge_safari_2026_brisbane_add_on_hatch_title
+TEXT: Pokémon GO City Safari—Egg-thusiast
+
+RESOURCE ID: badge_safari_2026_brisbane_add_on_raid_test_title
+TEXT: Pokémon GO City Safari—Raid Lover
+
+RESOURCE ID: badge_safari_2026_brisbane_add_on_raid_title
+TEXT: Pokémon GO City Safari—Raid Lover
+
+RESOURCE ID: badge_safari_2026_brisbane_day_00_title
+TEXT: Pokémon GO City Safari
+
+RESOURCE ID: badge_safari_2026_brisbane_day_01_title
+TEXT: Pokémon GO City Safari
+
+RESOURCE ID: badge_safari_2026_brisbane_day_02_title
+TEXT: Pokémon GO City Safari
+
+RESOURCE ID: badge_safari_2026_lisbon_add_on_hatch_test_title
+TEXT: Pokémon GO City Safari—Egg-thusiast
+
+RESOURCE ID: badge_safari_2026_lisbon_add_on_hatch_title
+TEXT: Pokémon GO City Safari—Egg-thusiast
+
+RESOURCE ID: badge_safari_2026_lisbon_add_on_raid_test_title
+TEXT: Pokémon GO City Safari—Raid Lover
+
+RESOURCE ID: badge_safari_2026_lisbon_add_on_raid_title
+TEXT: Pokémon GO City Safari—Raid Lover
+
+RESOURCE ID: badge_safari_2026_lisbon_day_00_title
+TEXT: Pokémon GO City Safari
+
+RESOURCE ID: badge_safari_2026_lisbon_day_01_title
+TEXT: Pokémon GO City Safari
+
+RESOURCE ID: badge_safari_2026_lisbon_day_02_title
+TEXT: Pokémon GO City Safari
+
+RESOURCE ID: badge_safari_2026_marseille_add_on_hatch_test_title
+TEXT: Pokémon GO City Safari—Egg-thusiast
+
+RESOURCE ID: badge_safari_2026_marseille_add_on_hatch_title
+TEXT: Pokémon GO City Safari—Egg-thusiast
+
+RESOURCE ID: badge_safari_2026_marseille_add_on_raid_test_title
+TEXT: Pokémon GO City Safari—Raid Lover
+
+RESOURCE ID: badge_safari_2026_marseille_add_on_raid_title
+TEXT: Pokémon GO City Safari—Raid Lover
+
+RESOURCE ID: badge_safari_2026_marseille_day_00_title
+TEXT: Pokémon GO City Safari
+
+RESOURCE ID: badge_safari_2026_marseille_day_01_title
+TEXT: Pokémon GO City Safari
+
+RESOURCE ID: badge_safari_2026_marseille_day_02_title
+TEXT: Pokémon GO City Safari
+
+RESOURCE ID: badge_safari_2026_munich_add_on_hatch_test_title
+TEXT: Pokémon GO City Safari—Egg-thusiast
+
+RESOURCE ID: badge_safari_2026_munich_add_on_hatch_title
+TEXT: Pokémon GO City Safari—Egg-thusiast
+
+RESOURCE ID: badge_safari_2026_munich_add_on_raid_test_title
+TEXT: Pokémon GO City Safari—Raid Lover
+
+RESOURCE ID: badge_safari_2026_munich_add_on_raid_title
+TEXT: Pokémon GO City Safari—Raid Lover
+
+RESOURCE ID: badge_safari_2026_munich_day_00_title
+TEXT: Pokémon GO City Safari
+
+RESOURCE ID: badge_safari_2026_munich_day_01_title
+TEXT: Pokémon GO City Safari
+
+RESOURCE ID: badge_safari_2026_munich_day_02_title
+TEXT: Pokémon GO City Safari
+
+RESOURCE ID: badge_safari_2026_riodejaneiro_add_on_hatch_test_title
+TEXT: Pokémon GO City Safari—Egg-thusiast
+
+RESOURCE ID: badge_safari_2026_riodejaneiro_add_on_hatch_title
+TEXT: Pokémon GO City Safari—Egg-thusiast
+
+RESOURCE ID: badge_safari_2026_riodejaneiro_add_on_raid_test_title
+TEXT: Pokémon GO City Safari—Raid Lover
+
+RESOURCE ID: badge_safari_2026_riodejaneiro_add_on_raid_title
+TEXT: Pokémon GO City Safari—Raid Lover
+
+RESOURCE ID: badge_safari_2026_riodejaneiro_day_00_title
+TEXT: Pokémon GO City Safari
+
+RESOURCE ID: badge_safari_2026_riodejaneiro_day_01_title
+TEXT: Pokémon GO City Safari
+
+RESOURCE ID: badge_safari_2026_riodejaneiro_day_02_title
+TEXT: Pokémon GO City Safari
+
 RESOURCE ID: badge_safari_2023_barcelona_add_on_hatch
 TEXT: Pokémon GO City Safari
 
@@ -13715,6 +13855,132 @@ TEXT: वैंकूवर, 27 सितम्बर, 2025
 
 RESOURCE ID: badge_safari_2025_vancouver_sunday
 TEXT: वैंकूवर, 28 सितम्बर, 2025
+
+RESOURCE ID: badge_safari_2026_boston_add_on_hatch
+TEXT: Boston 2026
+
+RESOURCE ID: badge_safari_2026_boston_add_on_hatch_test
+TEXT: Boston 2026
+
+RESOURCE ID: badge_safari_2026_boston_add_on_raid
+TEXT: Boston 2026
+
+RESOURCE ID: badge_safari_2026_boston_add_on_raid_test
+TEXT: Boston 2026
+
+RESOURCE ID: badge_safari_2026_boston_day_00
+TEXT: Boston 2026
+
+RESOURCE ID: badge_safari_2026_boston_day_01
+TEXT: Boston, September 26, 2026
+
+RESOURCE ID: badge_safari_2026_boston_day_02
+TEXT: Boston, September 27, 2026
+
+RESOURCE ID: badge_safari_2026_brisbane_add_on_hatch
+TEXT: Brisbane 2026
+
+RESOURCE ID: badge_safari_2026_brisbane_add_on_hatch_test
+TEXT: Brisbane 2026
+
+RESOURCE ID: badge_safari_2026_brisbane_add_on_raid
+TEXT: Brisbane 2026
+
+RESOURCE ID: badge_safari_2026_brisbane_add_on_raid_test
+TEXT: Brisbane 2026
+
+RESOURCE ID: badge_safari_2026_brisbane_day_00
+TEXT: Brisbane 2026
+
+RESOURCE ID: badge_safari_2026_brisbane_day_01
+TEXT: Brisbane, September 26, 2026
+
+RESOURCE ID: badge_safari_2026_brisbane_day_02
+TEXT: Brisbane, September 27, 2026
+
+RESOURCE ID: badge_safari_2026_lisbon_add_on_hatch
+TEXT: Lisbon 2026
+
+RESOURCE ID: badge_safari_2026_lisbon_add_on_hatch_test
+TEXT: Lisbon 2026
+
+RESOURCE ID: badge_safari_2026_lisbon_add_on_raid
+TEXT: Lisbon 2026
+
+RESOURCE ID: badge_safari_2026_lisbon_add_on_raid_test
+TEXT: Lisbon 2026
+
+RESOURCE ID: badge_safari_2026_lisbon_day_00
+TEXT: Lisbon 2026
+
+RESOURCE ID: badge_safari_2026_lisbon_day_01
+TEXT: Lisbon, September 26, 2026
+
+RESOURCE ID: badge_safari_2026_lisbon_day_02
+TEXT: Lisbon, September 27, 2026
+
+RESOURCE ID: badge_safari_2026_marseille_add_on_hatch
+TEXT: Marseille 2026
+
+RESOURCE ID: badge_safari_2026_marseille_add_on_hatch_test
+TEXT: Marseille 2026
+
+RESOURCE ID: badge_safari_2026_marseille_add_on_raid
+TEXT: Marseille 2026
+
+RESOURCE ID: badge_safari_2026_marseille_add_on_raid_test
+TEXT: Marseille 2026
+
+RESOURCE ID: badge_safari_2026_marseille_day_00
+TEXT: Marseille 2026
+
+RESOURCE ID: badge_safari_2026_marseille_day_01
+TEXT: Marseille, September 26, 2026
+
+RESOURCE ID: badge_safari_2026_marseille_day_02
+TEXT: Marseille, September 27, 2026
+
+RESOURCE ID: badge_safari_2026_munich_add_on_hatch
+TEXT: Munich 2026
+
+RESOURCE ID: badge_safari_2026_munich_add_on_hatch_test
+TEXT: Munich 2026
+
+RESOURCE ID: badge_safari_2026_munich_add_on_raid
+TEXT: Munich 2026
+
+RESOURCE ID: badge_safari_2026_munich_add_on_raid_test
+TEXT: Munich 2026
+
+RESOURCE ID: badge_safari_2026_munich_day_00
+TEXT: Munich 2026
+
+RESOURCE ID: badge_safari_2026_munich_day_01
+TEXT: Munich, September 26, 2026
+
+RESOURCE ID: badge_safari_2026_munich_day_02
+TEXT: Munich, September 27, 2026
+
+RESOURCE ID: badge_safari_2026_riodejaneiro_add_on_hatch
+TEXT: Rio de Janeiro 2026
+
+RESOURCE ID: badge_safari_2026_riodejaneiro_add_on_hatch_test
+TEXT: Rio de Janeiro 2026
+
+RESOURCE ID: badge_safari_2026_riodejaneiro_add_on_raid
+TEXT: Rio de Janeiro 2026
+
+RESOURCE ID: badge_safari_2026_riodejaneiro_add_on_raid_test
+TEXT: Rio de Janeiro 2026
+
+RESOURCE ID: badge_safari_2026_riodejaneiro_day_00
+TEXT: Rio de Janeiro 2026
+
+RESOURCE ID: badge_safari_2026_riodejaneiro_day_01
+TEXT: Rio de Janeiro, September 26, 2026
+
+RESOURCE ID: badge_safari_2026_riodejaneiro_day_02
+TEXT: Rio de Janeiro, September 27, 2026
 
 RESOURCE ID: badge_safari_zone_europe_2017_title
 TEXT: GO सफ़ारी ज़ोन - यूरोप 2017
@@ -18781,6 +19047,9 @@ TEXT: FamilyMart की एक्सक्लूसिव प्रस्तु�
 RESOURCE ID: bonus_partner_campaign_sponsored_fr_aeon
 TEXT: AEON Mall की एक्सक्लूसवि प्रस्तुत की गई फ़ील्ड रसिर्च अब उपलब्ध है
 
+RESOURCE ID: bonus_partner_campaign_sponsored_fr_mcdonald's
+TEXT: McDonald’s की एक्सक्लूसवि प्रस्तुत की गई फ़ील्ड रसिर्च अब उपलब्ध है, जसिमें समय के साथ नए-नए रविॉर्ड आएंगे
+
 RESOURCE ID: bonus_partner_campaign_sponsored_fr_softbank
 TEXT: SoftBank की एक्सक्लूसवि प्रस्तुत की गई फ़ील्ड रसिर्च अब उपलब्ध है
 
@@ -21886,6 +22155,12 @@ TEXT: आपको कम्युनिटी दूत इवेंट मे�
 
 RESOURCE ID: campfire_checkin_notification
 TEXT: {0} मीटअप {1} पर शुरू होगा! अपना रिवॉर्ड पाने के लिए चेक-इन करें!
+
+RESOURCE ID: campfire_checkin_ended_notification
+TEXT: <b>{0} Meetup</b> started at {1}!
+
+RESOURCE ID: campfire_checkin_happening_now_notification
+TEXT: <b>{0} Meetup</b> is happening now! Check in to claim your reward!
 
 RESOURCE ID: campfire_invite_notification
 TEXT: {0} ने आपको Campfire में शामिल होने के लिए आमंत्रित किया है!
@@ -25764,6 +26039,15 @@ TEXT: नानाओ
 RESOURCE ID: city_manhole_473
 TEXT: शकिा
 
+RESOURCE ID: city_manhole_474
+TEXT: Wajima
+
+RESOURCE ID: city_manhole_475
+TEXT: Hasami
+
+RESOURCE ID: city_manhole_476
+TEXT: Goto
+
 RESOURCE ID: city_manhole_4(ibusuki)_d64e
 TEXT: इबुसुकि
 
@@ -27244,7 +27528,7 @@ RESOURCE ID: community_day_gastly_event_name
 TEXT: कम्युनिटी डे : गैस्टली
 
 RESOURCE ID: community_day_gible_event_name
-TEXT: कम्युनिटी डे : गिबल
+TEXT: कम्युनटिी डे - गबिल
 
 RESOURCE ID: community_day_goomy_event_name
 TEXT: कम्युनिटी डे - गूमी
@@ -28946,7 +29230,7 @@ RESOURCE ID: dynamic_punch+
 TEXT: डाइनैमकि पंच+
 
 RESOURCE ID: dynamic_punch_+_move_content
-TEXT: Mewtwo punches with full, concentrated power for {0}. Increases damage against Mega Pokémon in Raids and enables your Mega Pokémon to break two shields in Super Mega Raids.
+TEXT: म्यूटू {0} तक, अपनी पूरी एकाग्रति शक्ति से मुक्के बरसाता है। रेड में मेगा एवॉल्व पोकेमॉन के प्रति डैमेज बढ़ेगा, और आपके मेगा एवॉल्व पोकेमॉन सुपर मेगा रेड में दो शील्ड तोड़ पाएंगे।
 
 RESOURCE ID: dynamic_punch_adventure_effects_mapview_dialog
 TEXT: म्यूटू {0} तक, ठोस मुट्ठयिों से अटैक करता है। इससे आपके मेगा एवॉल्व पोकेमॉन सुपर मेगा रेड में दो शील्ड तोड़ पाएंगे।
@@ -29005,6 +29289,12 @@ TEXT: ईवी एक्सप्लोरर्स – बार्सिल�
 RESOURCE ID: eevee_explorers_barcelona_title_00
 TEXT: ईवी एक्सप्लोरर्स – बार्सिलोना (1/8)
 
+RESOURCE ID: eevee_explorers_boston_title
+TEXT: Eevee Explorers – Boston Stamp Rally
+
+RESOURCE ID: eevee_explorers_brisbane_title
+TEXT: Eevee Explorers – Brisbane Stamp Rally
+
 RESOURCE ID: eevee_explorers_buenosaires_title
 TEXT: ईवी एक्सप्लोरर – ब्यूनस आयर्स स्टैम्प रैली
 
@@ -29022,6 +29312,12 @@ TEXT: ईवी एक्सप्लोरर – जकार्ता
 
 RESOURCE ID: eevee_explorers_jakarta_title_00
 TEXT: ईवी एक्सप्लोरर – जकार्ता (1/1)
+
+RESOURCE ID: eevee_explorers_lisbon_title
+TEXT: Eevee Explorers – Lisbon Stamp Rally
+
+RESOURCE ID: eevee_explorers_marseille_title
+TEXT: Eevee Explorers – Marseille Stamp Rally
 
 RESOURCE ID: eevee_explorers_mexico_city_title
 TEXT: ईवी एक्सप्लोरर्स – मेक्सिको सिटी
@@ -29043,6 +29339,12 @@ TEXT: ईवी एक्सप्लोरर – मुम्बई
 
 RESOURCE ID: eevee_explorers_mumbai_title_00
 TEXT: ईवी एक्सप्लोरर – मुम्बई (1/1)
+
+RESOURCE ID: eevee_explorers_munich_title
+TEXT: Eevee Explorers – Munich Stamp Rally
+
+RESOURCE ID: eevee_explorers_riodejaneiro_title
+TEXT: Eevee Explorers – Rio de Janeiro Stamp Rally
 
 RESOURCE ID: eevee_explorers_santiago_title
 TEXT: ईवी एक्सप्लोरर – सैंटियागो
@@ -31900,6 +32202,33 @@ TEXT: GO पास - लेजेंड का पथ
 RESOURCE ID: event_pass_gofest2026_event_duration
 TEXT: 6 जुलाई – 12 जुलाई
 
+RESOURCE ID: event_pass_gofest2026_finale_base_track_title
+TEXT: GO Pass: Mega Finale
+
+RESOURCE ID: event_pass_gofest2026_finale_chosen_starter_shiny_bonus
+TEXT: Increased chance of encountering Shiny Pokémon from your chosen First Partner Pokémon's Evolution family
+
+RESOURCE ID: event_pass_gofest2026_finale_event_duration
+TEXT: August 31 – September 6
+
+RESOURCE ID: event_pass_gofest2026_finale_mega_raid_rewards_bonus
+TEXT: Earn 3 additional Candy, 1 additional Candy XL, and 5,000 additional XP from Mega Raids
+
+RESOURCE ID: event_pass_gofest2026_finale_premium_track_title
+TEXT: GO Pass Deluxe: Mega Finale
+
+RESOURCE ID: event_pass_gofest2026_finale_t4_mega_raid_shiny_bonus
+TEXT: Increased chance of encountering Shiny Pokémon from four-star Mega Raids
+
+RESOURCE ID: event_pass_gofest2026_finale_track_upgrade_header_description
+TEXT: Earn additional rewards in the Mega Finale Event Pass deluxe track!
+
+RESOURCE ID: event_pass_gofest2026_finale_upgrade_description
+TEXT: Purchase GO Pass Deluxe: GO Fest 2026 Mega Finale to unlock Finale-specific rewards and bonuses. You'll receive enough Mega Energy to raise your selected Pokémon to Mega Level 4, an avatar item featuring your chosen Pokémon, shiny boosts from selected Mega Raids and wild spawns, increased rewards from Mega Raids, and more!
+
+RESOURCE ID: event_pass_gofest2026_finale_weekend_wild_shiny_bonus
+TEXT: Increased chance of encountering Shiny featured Pokémon in the wild during GO Fest 2026 Finale event hours
+
 RESOURCE ID: event_pass_gofest2026_premium_track_title
 TEXT: GO पास डीलक्स - लेजेंड का पथ
 
@@ -34027,6 +34356,12 @@ TEXT: फ़िनियॉन ओ क्लॉक
 RESOURCE ID: finneon_o_clock_description
 TEXT: इस इलाके में बड़ी संख्या में फ़िनियॉन दिखाई दे रहे हैं!
 
+RESOURCE ID: fire_ice_hatch_day_timed_research
+TEXT: फ़ायर एंड आइस हैच डे सीमति समय वाली रसिर्च
+
+RESOURCE ID: fire_ice_hatch_event_name
+TEXT: फ़ायर एंड आइस हैच डे
+
 RESOURCE ID: fire_type_event
 TEXT: टाइप सर्ज : फ़ायर
 
@@ -35903,7 +36238,7 @@ RESOURCE ID: future_sight+
 TEXT: फ़्यूचर साइट+
 
 RESOURCE ID: future_sight_+_move_content
-TEXT: Mewtwo releases a hunk of psychic energy for {0}, revealing Pokémon with high stat potential before they are caught.
+TEXT: म्यूटू {0} तक, साइककि ऊर्जा का पुंज छोड़ता है, जसिसे मुलाकात होने वाले पोकेमॉन के उच्च आँकड़ों का पता चलता है।
 
 RESOURCE ID: future_sight_adventure_effects_mapview_dialog
 TEXT: म्यूटू {0} तक, साइककि ऊर्जा का पुंज छोड़ता है, जसिसे जंगल में या रेड के अंत में मुलाकात होने वाले पोकेमॉन के उच्च आँकड़ों का पता चलता है।
@@ -44503,6 +44838,9 @@ TEXT: टीम GO रॉकेट को हराएं
 RESOURCE ID: gofest2026_details_link
 TEXT: अधकि जानकारी की लिए <a href="https://pokemongo.com/news/road-of-legends-2026">वेबसाइट</a> पर जाएँ।
 
+RESOURCE ID: gofest2026_finale_details_link
+TEXT: For more details, visit the <a href="pokemongo.com/gofest/megafinale">GO Fest 2026 Mega Finale website</a>.
+
 RESOURCE ID: gofest2026_friendship_district
 TEXT: फ़्रेंडशपि डस्ट्रिक्टि
 
@@ -47823,6 +48161,9 @@ TEXT: AEON Mall
 
 RESOURCE ID: gym_sponsored_familymart
 TEXT: FamilyMart
+
+RESOURCE ID: gym_sponsored_mcdonalds
+TEXT: McDonald’s
 
 RESOURCE ID: gym_sponsored_softbank
 TEXT: SoftBank
@@ -52787,6 +53128,9 @@ TEXT: पैलडीया की जर्नी - वायलेट कल�
 RESOURCE ID: journeyer_box_title
 TEXT: Journeyer Box
 
+RESOURCE ID: jp_2026_ana_title
+TEXT: आसमानी उड़ान
+
 RESOURCE ID: jp_iap_link1
 TEXT: https://niantic.helpshift.com/hc/ja/6-pokemon-go/faq/2046-%E8%B3%87%E9%87%91%E6%B1%BA%E6%B8%88%E6%B3%95%E3%81%AB%E5%9F%BA%E3%81%A4%E3%81%8F%E8%A1%A8%E7%A4%BA/?s=others&f=%E8%B3%87%E9%87%91%E6%B1%BA%E6%B8%88%E6%B3%95%E3%81%AB%E5%9F%BA%E3%81%A4%E3%81%8F%E8%A1%A8%E7%A4%BA&l=ja&p=web
 
@@ -52798,6 +53142,36 @@ TEXT: लिंक 1
 
 RESOURCE ID: jp_iap_linkname2
 TEXT: लिंक 2
+
+RESOURCE ID: jp_jleague_collab_2026_title
+TEXT: Pokémon J.League Festival
+
+RESOURCE ID: jp_jleague_collab_2026_bonus_desc
+TEXT: एक्सक्लूसवि अवतार आइटम 2026 J.League टी-शर्ट को पाने के लिए, सीमति समय वाली रसिर्च पूरी करें
+
+RESOURCE ID: jp_jleague_collab_2026_tag
+TEXT: Pokémon J.League Festival
+
+RESOURCE ID: jp_jleague_collab_2026_tr_name
+TEXT: Pokémon J.League Festival सीमति समय वाली रसिर्च
+
+RESOURCE ID: jp_jleague_collab_2026_tr_name_1
+TEXT: Pokémon J.League Festival सीमति समय वाली रसिर्च (1/3)
+
+RESOURCE ID: jp_jleague_collab_2026_tr_name_1_desc
+TEXT: GO! पहला हाफ़
+
+RESOURCE ID: jp_jleague_collab_2026_tr_name_2
+TEXT: Pokémon J.League Festival सीमति समय वाली रसिर्च (2/3)
+
+RESOURCE ID: jp_jleague_collab_2026_tr_name_2_desc
+TEXT: GO! दूसरा हाफ़
+
+RESOURCE ID: jp_jleague_collab_2026_tr_name_3
+TEXT: Pokémon J.League Festival सीमति समय वाली रसिर्च (3/3)
+
+RESOURCE ID: jp_jleague_collab_2026_tr_name_3_desc
+TEXT: GO! एक्स्ट्रा टाइम
 
 RESOURCE ID: jp_uk_timed_header_0
 TEXT: Glittering Garden: Timed Research
@@ -57774,6 +58148,9 @@ TEXT: पावर अप टिकट - मई (3/4)
 RESOURCE ID: may_power_up_monthly_ticket_title_4
 TEXT: पावर अप टिकट - मई (4/4)
 
+RESOURCE ID: mcdonald_japan_ collab_2026_event_name
+TEXT: चलो चलें McDonald’s
+
 RESOURCE ID: me_forget_move_key
 TEXT: {0} will forget {1}.
 
@@ -58468,6 +58845,9 @@ TEXT: मेगा रेड चैलेंज
 RESOURCE ID: mega_raid_hour
 TEXT: मेगा बोनस आवर: [Candy]
 
+RESOURCE ID: mega_raid_shiny_boost
+TEXT: Increased chance of encountering Shiny Mega Raid Pokémon
+
 RESOURCE ID: mega_raids_increase
 TEXT: मेगा रेड की संख्या बढ़ी
 
@@ -58540,10 +58920,10 @@ at SHA 12701f1c07ae7f07a5d50583f697320977df7988
 Pipeline 1139111, job 13470914
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-07-17T17:47:45.205260+00:00 for hi-IN
-at SHA 7b00c52cda4
-Pipeline 3812865, job 56061874
-Patch from: 0.421.0-SHA-0dd50775-RC3, 0.419.0-SHA-e3824779-RC3, 0.417.6-SHA-d3997886-RC1
+TEXT: Built at 2026-07-31T01:05:17.722281+00:00 for hi-IN
+at SHA 4aa31a5e103
+Pipeline 3841714, job 56495528
+Patch from: 0.423.0-SHA-7c73efa7-RC2, 0.421.0-SHA-12297e81-RC2
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: Timed Research: Choose Your Fighting Type
@@ -63965,16 +64345,16 @@ RESOURCE ID: nt_july_tr_title
 TEXT: Pokémon GO - नैशनल ट्रस्ट सीमति समय वाली रसिर्च – जुलाई
 
 RESOURCE ID: nt_locations_tr_title
-TEXT: Pokémon GO: National Trust Local Timed Research
+TEXT: Pokémon GO - नैशनल ट्रस्ट लोकल सीमति समय वाली रसिर्च
 
 RESOURCE ID: nt_locations_tr_title_01
-TEXT: Pokémon GO: National Trust Local Timed Research (1/3)
+TEXT: Pokémon GO - नैशनल ट्रस्ट लोकल सीमति समय वाली रसिर्च (1/3)
 
 RESOURCE ID: nt_locations_tr_title_02
-TEXT: Pokémon GO: National Trust Local Timed Research (2/3)
+TEXT: Pokémon GO - नैशनल ट्रस्ट लोकल सीमति समय वाली रसिर्च (2/3)
 
 RESOURCE ID: nt_locations_tr_title_03
-TEXT: Pokémon GO: National Trust Local Timed Research (3/3)
+TEXT: Pokémon GO - नैशनल ट्रस्ट लोकल सीमति समय वाली रसिर्च (3/3)
 
 RESOURCE ID: nt_nationwide_tr_title
 TEXT: Pokémon GO - नैशनल ट्रस्ट सीमति समय वाली रसिर्च
@@ -65213,7 +65593,7 @@ RESOURCE ID: party_play_zone_warning_ok
 TEXT: ठीक है
 
 RESOURCE ID: party_power_combat_anim_text
-TEXT: Attack x2!
+TEXT: अटैक ×2!
 
 RESOURCE ID: party_share_avatar_gui_title
 TEXT: आप {0} {1} शेयर कर सकते हैं
@@ -65309,25 +65689,25 @@ RESOURCE ID: performance_successfully_updated
 TEXT: Your performance settings were successfully updated.
 
 RESOURCE ID: perk_extra_charged_attack
-TEXT: Extra Charged Attack
+TEXT: अतरिक्ति चार्ज्ड अटैक
 
 RESOURCE ID: perk_extra_charged_attack_excellent
-TEXT: Greatly Enhanced Extra Charged Attack
+TEXT: बहुत एनहांस्ड अतरिक्ति चार्ज्ड अटैक
 
 RESOURCE ID: perk_extra_charged_attack_excellentplus
-TEXT: Massively Enhanced Extra Charged Attack
+TEXT: भारी मात्रा में एनहांस्ड अतरिक्ति चार्ज्ड अटैक
 
 RESOURCE ID: perk_extra_charged_attack_great
-TEXT: Enhanced Extra Charged Attack
+TEXT: एनहांस्ड अतरिक्ति चार्ज्ड अटैक
 
 RESOURCE ID: pgo_code_redemption_default_tr_title
-TEXT: Bonus Timed Research
+TEXT: बोनस सीमति समय वाली रसिर्च
 
 RESOURCE ID: pgo_lego_code_redepemtion_tr_title
-TEXT: Pokémon GO and LEGO Collaboration Bonus Timed Research
+TEXT: Pokémon GO और LEGO कोलैबोरेशन बोनस सीमति समय वाली रसिर्च
 
 RESOURCE ID: pgo_lego_collab_2026_tr_title
-TEXT: Pokémon GO and LEGO Collaboration Timed Research
+TEXT: Pokémon GO और LEGO कोलैबोरेशन सीमति समय वाली रसिर्च
 
 RESOURCE ID: pgorelease.general1.ticket.2_pawprint_20250620_title
 TEXT: यैम्पर का बागीचा प्रीमियम सीमित समय वाली रिसर्च टिकट
@@ -80003,11 +80383,41 @@ TEXT: आपको गिफ़्ट में, लाइव इवेंट �
 RESOURCE ID: pvp_weak_network_connection
 TEXT: कनेक्शन कमज़ोर है
 
+RESOURCE ID: pxp_2026_loc_raids_academy
+TEXT: SF Raid! – California Academy of Sciences
+
+RESOURCE ID: pxp_2026_loc_raids_description
+TEXT: Explore San Francisco during Pokémon XP and enjoy special in-person Raids at certain locations featuring a San Francsico Location Background.
+
+RESOURCE ID: pxp_2026_loc_raids_dolores
+TEXT: SF Raid! – Dolores Park
+
+RESOURCE ID: pxp_2026_loc_raids_howard_st
+TEXT: SF Raid! – Howard Street
+
+RESOURCE ID: pxp_2026_loc_raids_lombard
+TEXT: SF Raid! – Lombard Street
+
+RESOURCE ID: pxp_2026_loc_raids_pier_39
+TEXT: SF Raid! – Pier 39
+
+RESOURCE ID: pxp_2026_loc_raids_transit_park
+TEXT: SF Raid! – Salesforce Park
+
+RESOURCE ID: pxp_2026_loc_raids_wharf
+TEXT: SF Raid! – Fisherman’s Wharf
+
 RESOURCE ID: qr_code_title
 TEXT: QR कोड स्कैन करें
 
 RESOURCE ID: qr_decode_problem
 TEXT: QR कोड की पहचान नहीं की जा सकी। कृपया मैन्यूअल इनपुट से कोशिश करें।
+
+RESOURCE ID: qualifier_limited _one_event_raid
+TEXT: Note: certain special event Raids can only be completed once per Trainer.
+
+RESOURCE ID: qualifier_limited_daily_event_raid
+TEXT: Note: certain special event Raids can only be completed once per Trainer per day.
 
 RESOURCE ID: quest_walk
 TEXT: मिशन : {0} km एक्सप्लोर करें
@@ -80505,6 +80915,15 @@ TEXT: क्वीन कट चुनें
 RESOURCE ID: quest_branch_choose_la_reine_desc
 TEXT: अपने फ़ुरफ़्रू के सभी आम रिजनल ट्रिम को इवेंट के समाप्त होने तक क्वीन कट में बदलने के लिए, यह ऑप्शन चुनें। अपने फ़ुरफ़्रू के लुक को किसी एक कट से दूसरे कट में बदलने के लिए 25 फ़ुरफ़्रू कैंडी और 10,000 स्टार-डस्ट लगेंगे।
 
+RESOURCE ID: quest_branch_choose_mega_chesnaught
+TEXT: Choose Mega Chesnaught
+
+RESOURCE ID: quest_branch_choose_mega_delphox
+TEXT: Choose Mega Delphox
+
+RESOURCE ID: quest_branch_choose_mega_greninja
+TEXT: Choose Mega Greninja
+
 RESOURCE ID: quest_branch_choose_oshawott_desc
 TEXT: सी ऑटर पोकेमॉन, ऑशावॉट के साथ एक अतिरिक्त मुलाकात के लिए इस पथ का चयन करें। इंसेंस से ऑशावॉट को आकर्षित करने की संभावना बढ़ जाती है।
 
@@ -80566,6 +80985,24 @@ RESOURCE ID: quest_branch_choose_y_desc
 TEXT: इस ऑप्शन को चुन कर, अपने GO Tour : कालोस एडवेंचर के समय Y Version मेडल और इवेल्टाल के थीम वाले रिवॉर्ड व बोनस प्राप्त करें।
 
 GO Tour : कालोस – ग्लोबल के समय, आप अनोन Y के साथ एक मुलाकात देने वाले अलग-अलग फ़ील्ड रिसर्च टास्क भी प्राप्त कर पाएंगे।
+
+RESOURCE ID: quest_branch_wcs_choose_mega_chesnaught
+TEXT: Choose Chesnaught
+
+RESOURCE ID: quest_branch_wcs_choose_mega_delphox
+TEXT: Choose Delphox
+
+RESOURCE ID: quest_branch_wcs_choose_mega_greninja
+TEXT: Choose Greninja
+
+RESOURCE ID: quest_branch_wcs_choose_mega_chesnaught_desc
+TEXT: Select this path for an encounter with Chespin, the Spiny Nut Pokémon, along with enough Chesnaught Mega Energy to Mega Evolve a Chesnaught for the first time
+
+RESOURCE ID: quest_branch_wcs_choose_mega_delphox_desc
+TEXT: Select this path for an encounter with Fennekin, the Fox Pokémon, along with enough Delphox Mega Energy to Mega Evolve a Delphox for the first time
+
+RESOURCE ID: quest_branch_wcs_choose_mega_greninja_desc
+TEXT: Select this path for an encounter with Froakie, the Bubble Frog Pokémon, along with enough Greninja Mega Energy to Mega Evolve a Greninja for the first time
 
 RESOURCE ID: quest_branching_special_dialogue_1
 TEXT: आपसे मिलकर बहुत खुशी हुई, %PLAYERNAME%! हमारे सामने एक रोमांचक रिसर्च है, लेकिन मुझे यह तय करने में आपकी मदद चाहिए कि हमें किस पर ढ्यान केंद्रित करना चाहिए।
@@ -80720,6 +81157,9 @@ TEXT: कार्बिंक को पकड़ें
 RESOURCE ID: quest_catch_celebi_types_plural
 TEXT: {0} ग्रास या साइकिक टाइप पोकेमॉन पकड़ें
 
+RESOURCE ID: quest_catch_chespin_family_plural
+TEXT: Catch {0} Chespin, Quilladin, or Chesnaught
+
 RESOURCE ID: quest_catch_collection_district_plural
 TEXT: कलेक्शन डिस्ट्रिक्ट में {0} पोकेमॉन पकड़ें
 
@@ -80765,8 +81205,14 @@ TEXT: {0} बेरी का इस्तेमाल कर पोकेमॉ
 RESOURCE ID: quest_catch_feed_singular
 TEXT: बेरी का इस्तेमाल करके पोकेमॉन पकड़ें
 
+RESOURCE ID: quest_catch_fennekin_family_plural
+TEXT: Catch {0} Fennekin, Braixen, or Delphox
+
 RESOURCE ID: quest_catch_friendship_district_plural
 TEXT: फ़्रेंडशिप डिस्ट्रिक्ट में {0} पोकेमॉन पकड़ें
+
+RESOURCE ID: quest_catch_froakie_family_plural
+TEXT: Catch {0} Froakie, Frogadier, or Greninja
 
 RESOURCE ID: quest_catch_furfou_singular
 TEXT: फ़ुरफ़्रू पकड़ें
@@ -81866,6 +82312,27 @@ TEXT: जेसी: हम फिर से जा रहे हैं!
 RESOURCE ID: quest_defeat_mega_mewtwo
 TEXT: मेगा म्यूटू X या मेगा म्यूटू Y को हराएँ
 
+RESOURCE ID: quest_defeat_mega_dragonite_singular
+TEXT: Defeat Mega Dragonite
+
+RESOURCE ID: quest_defeat_mega_falinks_singular
+TEXT: Defeat Mega Falinks
+
+RESOURCE ID: quest_defeat_mega_malamar_singular
+TEXT: Defeat Mega Malamar
+
+RESOURCE ID: quest_defeat_mega_raichu_singular
+TEXT: Defeat Mega Raichu
+
+RESOURCE ID: quest_defeat_mega_skarmory_singular
+TEXT: Defeat Mega Skarmory
+
+RESOURCE ID: quest_defeat_mega_starmie_singular
+TEXT: Defeat Mega Starmie
+
+RESOURCE ID: quest_defeat_mega_victreebel_singular
+TEXT: Defeat Mega Victreebel
+
 RESOURCE ID: quest_defeat_rocket_singular
 TEXT: P
 
@@ -82529,6 +82996,12 @@ TEXT: बैंकॉक में अपने ईवी का स्नैप
 RESOURCE ID: quest_event_eevee_snapshot_barcelona
 TEXT: बार्सिलोना में अपने ईवी का एक स्नैपशॉट लें
 
+RESOURCE ID: quest_event_eevee_snapshot_boston
+TEXT: Take a snapshot of your Eevee in Boston
+
+RESOURCE ID: quest_event_eevee_snapshot_brisbane
+TEXT: Take a snapshot of your Eevee in Brisbane
+
 RESOURCE ID: quest_event_eevee_snapshot_buenosaires
 TEXT: ब्यूनस आयर्स में अपने ईवी का स्नैपशॉट लें
 
@@ -82538,6 +83011,12 @@ TEXT: कान्कुन में अपने ईवी का एक स�
 RESOURCE ID: quest_event_eevee_snapshot_jakarta
 TEXT: जकार्ता में अपने ईवी का एक स्नैपशॉट लें
 
+RESOURCE ID: quest_event_eevee_snapshot_lisbon
+TEXT: Take a snapshot of your Eevee in Lisbon
+
+RESOURCE ID: quest_event_eevee_snapshot_marseille
+TEXT: Take a snapshot of your Eevee in Marseille
+
 RESOURCE ID: quest_event_eevee_snapshot_miami
 TEXT: सिडनी में अपने ईवी का स्नैपशॉट लें
 
@@ -82546,6 +83025,12 @@ TEXT: मिलान में अपने ईवी का एक स्न�
 
 RESOURCE ID: quest_event_eevee_snapshot_mumbai
 TEXT: मुम्बई में अपने ईवी का एक स्नैपशॉट लें
+
+RESOURCE ID: quest_event_eevee_snapshot_munich
+TEXT: Take a snapshot of your Eevee in Munich
+
+RESOURCE ID: quest_event_eevee_snapshot_riodejaneiro
+TEXT: Take a snapshot of your Eevee in Rio de Janeiro
 
 RESOURCE ID: quest_event_eevee_snapshot_santiago
 TEXT: सैंटियागो में अपने ईवी का एक स्नैपशॉट लें
@@ -82598,6 +83083,12 @@ TEXT: बैंकॉक में किसी पोकेस्टॉप य�
 RESOURCE ID: quest_event_spin_barcelona
 TEXT: बार्सिलोना में एक पोकेस्टॉप या जिम को स्पिन करें
 
+RESOURCE ID: quest_event_spin_boston
+TEXT: Spin a PokéStop or Gym in Boston
+
+RESOURCE ID: quest_event_spin_brisbane
+TEXT: Spin a PokéStop or Gym in Brisbane
+
 RESOURCE ID: quest_event_spin_buenosaires
 TEXT: ब्यूनस आयर्स में किसी पोकेस्टॉप या जिम को स्पिन करें
 
@@ -82610,6 +83101,12 @@ TEXT: इन्छॉन में एक पोकेस्टॉप या ज
 RESOURCE ID: quest_event_spin_jakarta
 TEXT: जकार्ता में एक पोकेस्टॉप या जिम को स्पिन करें
 
+RESOURCE ID: quest_event_spin_lisbon
+TEXT: Spin a PokéStop or Gym in Lisbon
+
+RESOURCE ID: quest_event_spin_marseille
+TEXT: Spin a PokéStop or Gym in Marseille
+
 RESOURCE ID: quest_event_spin_miami
 TEXT: मियामी में किसी पोकेस्टॉप या जिम को स्पिन करें
 
@@ -82618,6 +83115,12 @@ TEXT: मिलान में एक पोकेस्टॉप या जि
 
 RESOURCE ID: quest_event_spin_mumbai
 TEXT: मुम्बई में एक पोकेस्टॉप या जिम को स्पिन करें
+
+RESOURCE ID: quest_event_spin_munich
+TEXT: Spin a PokéStop or Gym in Munich
+
+RESOURCE ID: quest_event_spin_riodejaneiro
+TEXT: Spin a PokéStop or Gym in Rio de Janeiro
 
 RESOURCE ID: quest_event_spin_santiago
 TEXT: सैंटियागो में एक पोकेस्टॉप या जिम स्पिन करें
@@ -85441,6 +85944,9 @@ TEXT: डूवॉट को विकसित करें
 RESOURCE ID: quest_partner_spin_rally_aeonmall
 TEXT: AEON Mall के {0} पोकेस्टॉप या जमि को स्पनि करें
 
+RESOURCE ID: quest_partner_spin_rally_mcdonalds
+TEXT: McDonald’s के {0} पोकेस्टॉप या जमि को स्पनि करें
+
 RESOURCE ID: quest_partner_spin_rally_softbank
 TEXT: SoftBank के {0} पोकेस्टॉप या जमि को स्पनि करें
 
@@ -86217,6 +86723,15 @@ TEXT: रेजीरॉक का स्नैपशॉट लें
 
 RESOURCE ID: quest_snapshot_regi_steel
 TEXT: रेजीस्टील का स्नैपशॉट लें
+
+RESOURCE ID: quest_snapshot_storage_chespin
+TEXT: Take a Snapshot with your Chespin
+
+RESOURCE ID: quest_snapshot_storage_fennekin
+TEXT: Take a Snapshot with your Fennekin
+
+RESOURCE ID: quest_snapshot_storage_froakie
+TEXT: Take a Snapshot with your Froakie
 
 RESOURCE ID: quest_snapshot_storage_bug_unique_plural
 TEXT: Take snapshots of {0} different Bug-type Pokémon that you caught
@@ -101106,6 +101621,9 @@ TEXT: Play Lab में पोकेस्टॉप को स्पिन क�
 RESOURCE ID: quest_wcs_2024_spin_02
 TEXT: Collect & Trade Corner में पोकेस्टॉप को स्पिन करें
 
+RESOURCE ID: quest_wcs_2026_catch_water_or_normal_plural
+TEXT: Catch {0} Water or Normal type Pokémon
+
 RESOURCE ID: quest_wcs_anaheim_scav_hunt_00
 TEXT: Pokémon GO ज़ोन के पोकेस्टॉप को स्पिन करें
 
@@ -101117,6 +101635,15 @@ TEXT: Welcome to Worlds 2025! के पोकेस्टॉप को स्�
 
 RESOURCE ID: quest_wcs_anaheim_scav_hunt_03
 TEXT:  WCS Arena के पोकेस्टॉप को स्पिन करें
+
+RESOURCE ID: quest_wcs_san_francisco_scav_hunt_00
+TEXT: Spin the PokéStop at "Giant Pikachu at Yerba Buena Gardens"
+
+RESOURCE ID: quest_wcs_san_francisco_scav_hunt_01
+TEXT: Spin the PokéStop at "Rayquaza Trolley"
+
+RESOURCE ID: quest_wcs_san_francisco_scav_hunt_02
+TEXT: Spin the PokéStop at "World Championships Stage"
 
 RESOURCE ID: quest_weepinbell_evolve_b_plural
 TEXT:  {0} वीपिनबेल को विकसित करें
@@ -106464,6 +106991,78 @@ TEXT: वैंकूवर, कनाडा
 RESOURCE ID: rally_city_safari_2025_vancouver_rewards_desc_general
 TEXT: वैंकूवर वाले विशेष लोकेशन बैकग्राउंड के साथ, एक्सप्लोरर हैट पहने ईवी से मुलाकात करने के लिए शहर को एक्सप्लोर करें।
 
+RESOURCE ID: rally_city_safari_2026_boston_desc
+TEXT: Welcome to City Safari: Boston!
+
+RESOURCE ID: rally_city_safari_2026_boston_desc_detail
+TEXT: Encounter up to eight Eevee per ticketed event day by visiting special PokéStops around the Boston. See the map for more details.
+
+RESOURCE ID: rally_city_safari_2026_boston_location
+TEXT: Boston, USA
+
+RESOURCE ID: rally_city_safari_2026_boston_rewards_desc_general
+TEXT: Explore the city to encounter Eevee wearing an explorer hat, featuring an exclusive Boston Location Background.
+
+RESOURCE ID: rally_city_safari_2026_brisbane_desc
+TEXT: Welcome to City Safari: Brisbane!
+
+RESOURCE ID: rally_city_safari_2026_brisbane_desc_detail
+TEXT: Encounter up to eight Eevee per ticketed event day by visiting special PokéStops around Brisbane. See the map for more details.
+
+RESOURCE ID: rally_city_safari_2026_brisbane_location
+TEXT: Brisbane, Australia
+
+RESOURCE ID: rally_city_safari_2026_brisbane_rewards_desc_general
+TEXT: Explore the city to encounter Eevee wearing an explorer hat, featuring an exclusive Brisbane Location Background.
+
+RESOURCE ID: rally_city_safari_2026_lisbon_desc
+TEXT: Welcome to City Safari: Lisbon!
+
+RESOURCE ID: rally_city_safari_2026_lisbon_desc_detail
+TEXT: Encounter up to eight Eevee per ticketed event day by visiting special PokéStops around Lisbon. See the map for more details.
+
+RESOURCE ID: rally_city_safari_2026_lisbon_location
+TEXT: Lisbon, Portugal
+
+RESOURCE ID: rally_city_safari_2026_lisbon_rewards_desc_general
+TEXT: Explore the city to encounter Eevee wearing an explorer hat, featuring an exclusive Lisbon Location Background.
+
+RESOURCE ID: rally_city_safari_2026_marseille_desc
+TEXT: Welcome to City Safari: Marseille!
+
+RESOURCE ID: rally_city_safari_2026_marseille_desc_detail
+TEXT: Encounter up to eight Eevee per ticketed event day by visiting special PokéStops around Marseille. See the map for more details.
+
+RESOURCE ID: rally_city_safari_2026_marseille_location
+TEXT: Marseille, France
+
+RESOURCE ID: rally_city_safari_2026_marseille_rewards_desc_general
+TEXT: Explore the city to encounter Eevee wearing an explorer hat, featuring an exclusive Marseille Location Background.
+
+RESOURCE ID: rally_city_safari_2026_munich_desc
+TEXT: Welcome to City Safari: Munich!
+
+RESOURCE ID: rally_city_safari_2026_munich_desc_detail
+TEXT: Encounter up to eight Eevee per ticketed event day by visiting special PokéStops around Munich. See the map for more details.
+
+RESOURCE ID: rally_city_safari_2026_munich_location
+TEXT: Munich, Germany
+
+RESOURCE ID: rally_city_safari_2026_munich_rewards_desc_general
+TEXT: Explore the city to encounter Eevee wearing an explorer hat, featuring an exclusive Munich Location Background.
+
+RESOURCE ID: rally_city_safari_2026_riodejaneiro_desc
+TEXT: Welcome to City Safari: Rio de Janeiro!
+
+RESOURCE ID: rally_city_safari_2026_riodejaneiro_desc_detail
+TEXT: Encounter up to eight Eevee per ticketed event day by visiting special PokéStops around the Rio de Janeiro. See the map for more details.
+
+RESOURCE ID: rally_city_safari_2026_riodejaneiro_location
+TEXT: Rio de Janeiro, Brazil
+
+RESOURCE ID: rally_city_safari_2026_riodejaneiro_rewards_desc_general
+TEXT: Explore the city to encounter Eevee wearing an explorer hat, featuring an exclusive Rio de Janeiro Location Background.
+
 RESOURCE ID: rally_expo_2025_title
 TEXT: EXPO 2025 स्टैम्प रैली
 
@@ -106486,19 +107085,19 @@ RESOURCE ID: rally_expo_2025_rewards_desc_general
 TEXT: विभिन्न थीम वाले रिवॉर्ड और मुलाकातें प्राप्त करने के लिए EXPO 2025 ओसाका स्टैम्प रैली को पूरा करें!
 
 RESOURCE ID: rally_global_lego_2026_title
-TEXT: Pokémon GO and LEGO Collaboration Stamp Rally
+TEXT: Pokémon GO और LEGO कोलैबोरेशन स्टैम्प रैली
 
 RESOURCE ID: rally_global_lego_2026_desc
-TEXT: Explore the magic of Pokémon GO and LEGO!
+TEXT: Pokémon GO और LEGO के जादू का साथ-साथ आनंद लें!
 
 RESOURCE ID: rally_global_lego_2026_desc_detail
-TEXT: Collect stamps by visiting participating LEGO Stores!
+TEXT: LEGO स्टोर जाकर अलग-अलग स्टैम्प इकट्ठा करें!
 
 RESOURCE ID: rally_global_lego_2026_location
-TEXT: Check out the Stamp Rally Map to find participating LEGO stores!
+TEXT: स्टैम्प रैली के मैप को देखकर, इस ईवेंट में भाग लेने वाले अलग-अलग LEGO स्टोर ढूंढें!
 
 RESOURCE ID: rally_global_lego_2026_rewards_desc
-TEXT: Encounter Pikachu with an exclusive LEGO Special Background at each participating LEGO Store you visit!
+TEXT: इस ईवेंट में भाग लेने वाले कसिी भी LEGO स्टोर पर जाकर, एक्सक्लूसवि LEGO स्पैशल बैकग्राउंड वाले पकिाचू के साथ मुलाकात पाएँ!
 
 RESOURCE ID: rally_gowa_2025_title
 TEXT: GO वाइल्ड एरिया 2025 स्टैम्प रैली
@@ -106617,6 +107216,120 @@ TEXT: Les Halles के Westfield मॉल में पर्यटन के�
 
 RESOURCE ID: rally_paris_2025_stamp_description_7
 TEXT: अपनी एडवेंचर यात्रा में क्लासिक पेरिसियाई दृश्यों के संग, Louvre के सामने स्थित Jardin des Tuileries की आनंददायी सैर का अनुभव करें।
+
+RESOURCE ID: rally_pxp_2026_title
+TEXT: Pokémon XP 2026 Stamp Rally
+
+RESOURCE ID: rally_pxp_2026_desc
+TEXT: Earn encounters with Pikachu wearing an astronaut suit by completing the rally!
+
+RESOURCE ID: rally_pxp_2026_desc_detail
+TEXT: Collect stamps by visiting GO Stamp Rally PokéStops at scenic locations around San Francisco.
+
+RESOURCE ID: rally_pxp_2026_location
+TEXT: San Francisco, California, USA
+
+RESOURCE ID: rally_pxp_2026_rewards_desc
+TEXT: Complete this stamp rally to earn up to six encounters with Pikachu wearing an astronaut suit featuring an exclusive San Francisco Location Background.
+
+RESOURCE ID: rally_pxp_2026_stamp_description_1
+TEXT: A small but iconic Ross Alley bakery, in operation since 1962.
+
+RESOURCE ID: rally_pxp_2026_stamp_description_10
+TEXT: A quirky arcade museum packed with antique coin-operated games and mechanical curiosities.
+
+RESOURCE ID: rally_pxp_2026_stamp_description_11
+TEXT: A historic chocolate-factory complex turned waterfront hangout.
+
+RESOURCE ID: rally_pxp_2026_stamp_description_12
+TEXT: A 3.5-mile Pacific-facing beach shaped by strong surf, fog, and coastal winds.
+
+RESOURCE ID: rally_pxp_2026_stamp_description_13
+TEXT: World-class modern art museum with bold architecture and major works from contemporary and 20th-century artists.
+
+RESOURCE ID: rally_pxp_2026_stamp_description_14
+TEXT: A refurbished 1898 transit terminal on the Embarcadero that now functions as a food hall and market.
+
+RESOURCE ID: rally_pxp_2026_stamp_description_15
+TEXT: San Francisco’s 1915 Beaux-Arts civic building, rebuilt after the 1906 earthquake.
+
+RESOURCE ID: rally_pxp_2026_stamp_description_16
+TEXT: The heart of SF Japantown, marked by its Peace Pagoda.
+
+RESOURCE ID: rally_pxp_2026_stamp_description_17
+TEXT: A hands-on museum for kids near Yerba Buena Gardens.
+
+RESOURCE ID: rally_pxp_2026_stamp_description_18
+TEXT: A playful waterfront photo stop designed and created by married artist duo, Claes Oldenburg and Coosje van Bruggen.
+
+RESOURCE ID: rally_pxp_2026_stamp_description_19
+TEXT: A colorful mosaic staircase featuring a delicate floral motif.
+
+RESOURCE ID: rally_pxp_2026_stamp_description_2
+TEXT: The ruins of an enormous 1890s public bathhouse built by Adolph Sutro, now a coastal liesure site.
+
+RESOURCE ID: rally_pxp_2026_stamp_description_20
+TEXT: Home to the Golden State Warriors.
+
+RESOURCE ID: rally_pxp_2026_stamp_description_21
+TEXT: A tribute to one of baseball’s greatest players and a popular gathering point outside Oracle Park.
+
+RESOURCE ID: rally_pxp_2026_stamp_description_22
+TEXT: This paddock has been home to Golden Gate Park's resident bison herd since the 1890's.
+
+RESOURCE ID: rally_pxp_2026_stamp_description_23
+TEXT: A formal plaza created for the 1894 California Midwinter International Exposition, now neighbored by the de Young Museum and California Academy of Sciences.
+
+RESOURCE ID: rally_pxp_2026_stamp_description_24
+TEXT: A charming Golden Gate Park lakeside spot offering snacks and paddle boat rentals.
+
+RESOURCE ID: rally_pxp_2026_stamp_description_25
+TEXT: A Civil War-era brick fortress tucked beneath the Golden Gate Bridge.
+
+RESOURCE ID: rally_pxp_2026_stamp_description_26
+TEXT: A former military post turned national park.
+
+RESOURCE ID: rally_pxp_2026_stamp_description_27
+TEXT: A sandy Presidio beach with close-up bridge views.
+
+RESOURCE ID: rally_pxp_2026_stamp_description_28
+TEXT: A breezy waterfront lawn and popular picnic spot.
+
+RESOURCE ID: rally_pxp_2026_stamp_description_29
+TEXT: A 1986 sound sculpture by Peter Richards and George Gonzales that uses pipes, stone, and tidal movement to create low acoustic tones from the Bay.
+
+RESOURCE ID: rally_pxp_2026_stamp_description_3
+TEXT: An art deco tower atop Telegraph Hill.
+
+RESOURCE ID: rally_pxp_2026_stamp_description_30
+TEXT: One of the Presidio’s oldest footpaths.
+
+RESOURCE ID: rally_pxp_2026_stamp_description_31
+TEXT: The Presidio Tunnel Tops’ main lawn, built over the Doyle Drive tunnels.
+
+RESOURCE ID: rally_pxp_2026_stamp_description_32
+TEXT: A classic downtown shopping plaza; also home to the San Francisco Nintendo Store!
+
+RESOURCE ID: rally_pxp_2026_stamp_description_33
+TEXT: The ceremonial entrance to Chinatown on Grant Avenue, flanked by traditional stone lions.
+
+RESOURCE ID: rally_pxp_2026_stamp_description_4
+TEXT: A stone labyrinth near Eagle Point, accessible by coastal trail.
+
+RESOURCE ID: rally_pxp_2026_stamp_description_5
+TEXT: A 2011 Andy Goldsworthy installation in the Presidio made from eucalyptus branches laid in a winding line.
+
+RESOURCE ID: rally_pxp_2026_stamp_description_6
+TEXT: A remnant of the 1915 Panama-Pacific International Exposition, rebuilt in permanent materials after the fair.
+
+RESOURCE ID: rally_pxp_2026_stamp_description_7
+TEXT: A lively North Beach green space boasting old-school SF character.
+
+RESOURCE ID: rally_pxp_2026_stamp_description_8
+TEXT: Completed in 1972, this William Pereira-designed skyscraper is one of the most recognizable shapes in the San Francisco skyline.
+
+RESOURCE ID: rally_pxp_2026_stamp_description_9
+TEXT: A famous row of colorful Victorian homes.
 
 RESOURCE ID: rally_rewards_desc_general
 TEXT: मुलाकातें और रिवॉर्ड पाने के लिए स्टैम्प रैली को पूरा करें
@@ -110757,6 +111470,24 @@ TEXT: City Safari - वैलेंसिया 2025
 RESOURCE ID: safari_city_2025_vancouver_title
 TEXT: City Safari - वैंकूवर 2025
 
+RESOURCE ID: safari_city_2026_boston_title
+TEXT: City Safari: Boston 2026
+
+RESOURCE ID: safari_city_2026_brisbane_title
+TEXT: City Safari: Brisbane 2026
+
+RESOURCE ID: safari_city_2026_lisbon_title
+TEXT: City Safari: Lisbon 2026
+
+RESOURCE ID: safari_city_2026_marseille_title
+TEXT: City Safari: Marseille 2026
+
+RESOURCE ID: safari_city_2026_munich_title
+TEXT: City Safari: Munich 2026
+
+RESOURCE ID: safari_city_2026_riodejaneiro_title
+TEXT: City Safari: Rio de Janeiro 2026
+
 RESOURCE ID: safari_city_2023_barcelona_title_00
 TEXT: City Safari : बार्सिलोना 2023 (1/3)
 
@@ -110813,6 +111544,24 @@ TEXT: City Safari - वैलेंसिया 2025 (1/3)
 
 RESOURCE ID: safari_city_2025_vancouver_title_00
 TEXT: City Safari - वैंकूवर 2025 (1/3)
+
+RESOURCE ID: safari_city_2026_boston_title_00
+TEXT: City Safari: Boston 2026 (1/3)
+
+RESOURCE ID: safari_city_2026_brisbane_title_00
+TEXT: City Safari: Brisbane 2026 (1/3)
+
+RESOURCE ID: safari_city_2026_lisbon_title_00
+TEXT: City Safari: Lisbon 2026 (1/3)
+
+RESOURCE ID: safari_city_2026_marseille_title_00
+TEXT: City Safari: Marseille 2026 (1/3)
+
+RESOURCE ID: safari_city_2026_munich_title_00
+TEXT: City Safari: Munich 2026 (1/3)
+
+RESOURCE ID: safari_city_2026_riodejaneiro_title_00
+TEXT: City Safari: Rio de Janeiro 2026 (1/3)
 
 RESOURCE ID: safari_city_2023_barcelona_title_01
 TEXT: City Safari : बार्सिलोना 2023 (2/3)
@@ -110871,6 +111620,24 @@ TEXT: City Safari - वैलेंसिया 2025 (2/3)
 RESOURCE ID: safari_city_2025_vancouver_title_01
 TEXT: City Safari - वैंकूवर 2025 (2/3)
 
+RESOURCE ID: safari_city_2026_boston_title_01
+TEXT: City Safari: Boston 2026 (2/3)
+
+RESOURCE ID: safari_city_2026_brisbane_title_01
+TEXT: City Safari: Brisbane 2026 (2/3)
+
+RESOURCE ID: safari_city_2026_lisbon_title_01
+TEXT: City Safari: Lisbon 2026 (2/3)
+
+RESOURCE ID: safari_city_2026_marseille_title_01
+TEXT: City Safari: Marseille 2026 (2/3)
+
+RESOURCE ID: safari_city_2026_munich_title_01
+TEXT: City Safari: Munich 2026 (2/3)
+
+RESOURCE ID: safari_city_2026_riodejaneiro_title_01
+TEXT: City Safari: Rio de Janeiro 2026 (2/3)
+
 RESOURCE ID: safari_city_2023_barcelona_title_02
 TEXT: City Safari : बार्सिलोना 2023 (3/3)
 
@@ -110927,6 +111694,24 @@ TEXT: City Safari - वैलेंसिया 2025 (3/3)
 
 RESOURCE ID: safari_city_2025_vancouver_title_02
 TEXT: City Safari - वैंकूवर 2025 (3/3)
+
+RESOURCE ID: safari_city_2026_boston_title_02
+TEXT: City Safari: Boston 2026 (3/3)
+
+RESOURCE ID: safari_city_2026_brisbane_title_02
+TEXT: City Safari: Brisbane 2026 (3/3)
+
+RESOURCE ID: safari_city_2026_lisbon_title_02
+TEXT: City Safari: Lisbon 2026 (3/3)
+
+RESOURCE ID: safari_city_2026_marseille_title_02
+TEXT: City Safari: Marseille 2026 (3/3)
+
+RESOURCE ID: safari_city_2026_munich_title_02
+TEXT: City Safari: Munich 2026 (3/3)
+
+RESOURCE ID: safari_city_2026_riodejaneiro_title_02
+TEXT: City Safari: Rio de Janeiro 2026 (3/3)
 
 RESOURCE ID: safari_city_leave_behind_dialog_00_00
 TEXT: हैलो %PLAYERNAME%। आपको यहाँ देख कर बहुत अच्छा लगा।यह शहर मेरे पसंदीदा शहरों में से एक है, और यह बाकी पोकेमॉन ट्रेनर में भी बहुत मशुहर है।
@@ -112163,6 +112948,19 @@ TEXT: नीचे दिये गए रिवॉर्ड को अनलॉ
 • एक  <a href="https://niantic.helpshift.com/hc/faq/4945-what-is-the-lucky-trinket/"> लकी चार्म</a>, जो आपको अपनी पसंद के दोस्त के साथ तुरंत लकी दोस्त बनाएगा
 • और और-भी बहुत कुछ! 
 
+RESOURCE ID: season_pass_august2026_event_duration
+TEXT: 4 अगस्त – 8 सतिम्बर
+
+RESOURCE ID: season_pass_august2026_track_upgrade_header_description
+TEXT: अतरिक्ति रविॉर्ड जीत कर रैंक 100 पर एक <b>लकी चार्म</b> अनलॉक करें!
+
+RESOURCE ID: season_pass_august2026_upgrade_description
+TEXT: नीचे दयिे गए रविॉर्ड को अनलॉक करने के लिए GO पास डीलक्स - अगस्त खरीदें!
+
+• अपने पहले पोकेस्टॉप स्पनि के लिए प्रतदिनि एक सिंगल-यूज़ इनक्यूबेटर प्राप्त करें
+• एक  <a href="https://niantic.helpshift.com/hc/faq/4945-what-is-the-lucky-trinket/"> लकी चार्म</a>, जो आपको अपनी पसंद के दोस्त के साथ तुरंत लकी दोस्त बनाएगा
+• और-भी बहुत कुछ!
+
 RESOURCE ID: season_pass_base_track_title_april
 TEXT: GO पास - अप्रैल
 
@@ -112204,6 +113002,9 @@ TEXT: GO पास - अक्तूबर
 
 RESOURCE ID: season_pass_base_track_title_sep
 TEXT: GO पास - सितम्बर
+
+RESOURCE ID: season_pass_base_track_title_summermarathon2026
+TEXT: GO पास - समर मैराथन
 
 RESOURCE ID: season_pass_base_track_title_sustainabilityweek2026
 TEXT: GO पास - सस्टेनेबिलिटी वीक
@@ -112306,6 +113107,9 @@ TEXT: अधिक जानकारी की लिए <a href="https://pokem
 RESOURCE ID: season_pass_details_link_aug
 TEXT: अधिक जानकारी की लिए, <a href="https://pokemongo.com/post/monthly-rewards-august-2025">वेबसाइट</a> पर जाएं।
 
+RESOURCE ID: season_pass_details_link_august2026
+TEXT: अधकि जानकारी की लिए <a href="https://pokemongo.com/news/go-pass-august-2026">वेबसाइट</a> पर जाएँ।
+
 RESOURCE ID: season_pass_details_link_blanche2026
 TEXT: अधकि जानकारी की लिए <a href="https://pokemongolive.com/news/global-events-gofest2026-overlays">वेबसाइट</a> पर जाएँ।
 
@@ -112353,6 +113157,9 @@ TEXT: अधिक जानकारी की लिए <a href="https://pokem
 
 RESOURCE ID: season_pass_details_link_september2025
 TEXT: अधिक जानकारी के लिए, <a href="https://pokemongo.com/go-pass">वेबसाइट</a> देखें।
+
+RESOURCE ID: season_pass_details_link_summermarathon2026
+TEXT: अधकि जानकारी की लिए <a href="https://pokemongo.com/news/summer-marathon-2026">वेबसाइट</a> पर जाएँ।
 
 RESOURCE ID: season_pass_details_link_sustainabilityweek2026
 TEXT: अधिक जानकारी की लिए <a href="https://pokemongolive.com/news/sustainability-week-2026">वेबसाइट</a> पर जाएँ।
@@ -112584,6 +113391,9 @@ TEXT: रैंक बढ़ने के साथ-साथ रिवॉर्
 RESOURCE ID: season_pass_premium_track_plus_six_ranks_title_blanche2026
 TEXT: GO पास डीलक्स - ब्लांच की ज्ञान की खोज + 6 रैंक
 
+RESOURCE ID: season_pass_premium_track_plus_six_ranks_title_summermarathon2026
+TEXT: GO पास डीलक्स - समर मैराथन + 6 रैंक
+
 RESOURCE ID: season_pass_premium_track_plus_six_ranks_title_sustainabilityweek2026
 TEXT: GO पास डीलक्स - सस्टेनेबिलिटी वीक + 6 रैंक
 
@@ -112704,6 +113514,9 @@ TEXT: GO पास डीलक्स - अक्तूबर
 RESOURCE ID: season_pass_premium_track_title_sep
 TEXT: GO पास डीलक्स - सितम्बर
 
+RESOURCE ID: season_pass_premium_track_title_summermarathon2026
+TEXT: GO पास डीलक्स - समर मैराथन
+
 RESOURCE ID: season_pass_premium_track_title_sustainabilityweek2026
 TEXT: GO पास डीलक्स - सस्टेनेबिलिटी वीक
 
@@ -112797,6 +113610,17 @@ TEXT: नीचे दयिे गए रविॉर्ड को अनलॉ
 
 • पॉन्यार्ड, होनेज और मेल्टन जैसे कई पोकेमॉन से मुलाकातें
 • और और-भी बहुत कुछ!
+
+RESOURCE ID: season_pass_summermarathon2026_event_duration
+TEXT: 4 अगस्त – 10 अगस्त
+
+RESOURCE ID: season_pass_summermarathon2026_upgrade_description
+TEXT: नीचे दयिे गए रविॉर्ड को अनलॉक करने के लिए GO पास डीलक्स - समर मैराथन  खरीदें!
+
+• सुपर इनक्यूबेटर
+• इवेंट की थीम वाले पोकेमॉन से मुलाकातें
+• रेयर कैंडी XL
+• और-भी बहुत कुछ! 
 
 RESOURCE ID: season_pass_sustainabilityweek2026_event_duration
 TEXT: 14 अप्रैल – 20 अप्रैल
@@ -114373,6 +115197,18 @@ TEXT: +1 रेड के लिए कैंडी XL
 RESOURCE ID: short_bonus_raid_3_candy
 TEXT: +3 रेड के लिए कैंडी
 
+RESOURCE ID: short_event_pass_gofest2026_finale_chosen_starter_shiny_bonus
+TEXT: Higher starter shiny chance
+
+RESOURCE ID: short_event_pass_gofest2026_finale_mega_raid_rewards_bonus
+TEXT: +3 Candy, +1 Candy XL, +5K XP from Mega Raids
+
+RESOURCE ID: short_event_pass_gofest2026_finale_t4_mega_raid_shiny_bonus
+TEXT: Higher T4 mega raid shiny chance
+
+RESOURCE ID: short_event_pass_gofest2026_finale_weekend_wild_shiny_bonus
+TEXT: Higher weekend spawn shiny chance
+
 RESOURCE ID: short_hatch_candy_double
 TEXT: 2× हैच कैंडी
 
@@ -115017,12 +115853,13 @@ RESOURCE ID: soft_sfida_btn_view_summary
 TEXT: सारांश देखें
 
 RESOURCE ID: soft_sfida_foreground_ftue_title
-TEXT: NEW!/nCatch and spin while you play
+TEXT: नया!
+खेलते खेलते कैच और स्पनि करते चलें!
 
 RESOURCE ID: soft_sfida_foreground_ftue_description
-TEXT: Explorer Gadget now works while you are playing.
+TEXT: एक्सप्लोरर गैजेट अब आपके Pokémon GO खेलते समय भी चलता रहेगा।
 
-It will continue to work while Pokémon GO is closed too.
+और यह गेम बंद कर देने पर भी चलता रहेगा।
 
 RESOURCE ID: soft_sfida_ftue_description_text
 TEXT: आपके एक्सप्लोर करते समय, यह गैजेट अपने-आप पोके बॉल फैंकता और पोकेस्टॉप स्पनि करता है।
@@ -120104,6 +120941,24 @@ TEXT: Summer Cup: Ultra League Edition
 RESOURCE ID: summer_event_name
 TEXT: ग्रीष्म इवेंट
 
+RESOURCE ID: summer_marathon_timed_research
+TEXT: समर मैराथन सीमति समय वाली रसिर्च
+
+RESOURCE ID: summer_quest_title
+TEXT: Pokémon GO - समर क्वेस्ट
+
+RESOURCE ID: summer_quest_nationwide_title
+TEXT: Pokémon GO - समर क्वेस्ट देशव्यापी सीमति समय वाली रसिर्च
+
+RESOURCE ID: summer_quest_site_title
+TEXT: Pokémon GO - समर क्वेस्ट लोकल सीमति समय वाली रसिर्च
+
+RESOURCE ID: summer_quest_site_01
+TEXT: Pokémon GO - समर क्वेस्ट लोकल सीमति समय वाली रसिर्च (1/2)
+
+RESOURCE ID: summer_quest_site_02
+TEXT: Pokémon GO - समर क्वेस्ट लोकल सीमति समय वाली रसिर्च (2/2)
+
 RESOURCE ID: summer_solstice_event_name
 TEXT: समर इवेंट
 
@@ -123637,6 +124492,12 @@ TEXT: 2025 पोकेमॉन वर्ल्ड चैंपियनशि�
 RESOURCE ID: title_wcs_2025_scavenger_hunt_00
 TEXT: 2025 पोकेमॉन वर्ल्ड चैंपियनशिप खज़ाने की खोज (1/1)
 
+RESOURCE ID: title_wcs_2026_scavenger_hunt
+TEXT: 2026 Pokémon World Championships Scavenger Hunt
+
+RESOURCE ID: title_wcs_2026_scavenger_hunt_00
+TEXT: 2026 Pokémon World Championships Scavenger Hunt (1/1)
+
 RESOURCE ID: title_zorua_o_clock
 TEXT: ज़ोरुआ का सामूहिक प्रकोप
 
@@ -124354,6 +125215,18 @@ TEXT: मेगा म्यूटू Y
 
 RESOURCE ID: tr_gofest2026_branch_y_description
 TEXT: मेगा म्यूटू Y को खोजने के लिए यह पथ चुनें।
+
+RESOURCE ID: tr_gofest2026_finale_branch_chespin_desc
+TEXT: By choosing this path, you'll receive enough Mega Energy to Mega Evolve Chesnaught, an increased chance of encountering Shiny Chespin, encounters with Chespin that have a special background, and Candy and Candy XL for Chespin.
+
+RESOURCE ID: tr_gofest2026_finale_branch_fennekin_desc
+TEXT: By choosing this path, you'll receive enough Mega Energy to Mega Evolve Delphox, an increased chance of encountering Shiny Fennekin, encounters with Fennekin that have a special background, and Candy and Candy XL for Fennekin.
+
+RESOURCE ID: tr_gofest2026_finale_branch_froakie_desc
+TEXT: By choosing this path, you'll receive enough Mega Energy to Mega Evolve Greninja, an increased chance of encountering Shiny Froakie, encounters with Froakie that have a special background, and Candy and Candy XL for Froakie.
+
+RESOURCE ID: tr_gofest2026_finale_starter_choice
+TEXT: GO Fest 2026 Mega Finale Mega Choice
 
 RESOURCE ID: tr_gofest2026_global_mewtwo
 TEXT: GO Fest 2026 - जेनेटकि मास्टरी
@@ -125529,6 +126402,15 @@ TEXT: अल्ट्रा बीस्ट का आगमन सीमित 
 RESOURCE ID: tr_inbound_from_ultra_space_raid_paid_00
 TEXT: अल्ट्रा बीस्ट का आगमन प्रीमियम सीमित समय वाली रिसर्च (1/1)
 
+RESOURCE ID: tr_jp_2026_ana_group_blue_0_header
+TEXT: आसमानी उड़ान सीमति समय वाली रसिर्च - ब्लू
+
+RESOURCE ID: tr_jp_2026_ana_group_green_0_header
+TEXT: आसमानी उड़ान सीमति समय वाली रसिर्च - ग्रीन
+
+RESOURCE ID: tr_jp_2026_ana_group_red_0_header
+TEXT: आसमानी उड़ान सीमति समय वाली रसिर्च - रेड
+
 RESOURCE ID: tr_jp2025_aeon_mall_title
 TEXT: Pokémon GO मेगा ट्रेनिंग!
 
@@ -125669,6 +126551,12 @@ TEXT: Sapphire: Latios Photo Safari – Global
 
 RESOURCE ID: tr_latios_photo_safari_live
 TEXT: Sapphire: Latios Photo Safari – Las Vegas
+
+RESOURCE ID: tr_mcdonalds_collab_july2026
+TEXT: चलो चलें McDonald’s बोनस सीमति समय वाली रसिर्च
+
+RESOURCE ID: tr_mcdonalds_collab_july2026_header_0
+TEXT: चलो चलें McDonald’s बोनस सीमति समय वाली रसिर्च (1/1)
 
 RESOURCE ID: tr_mesprit_photo_safari
 TEXT: GO Tour : मेस्प्रिट फ़ोटो सफ़ारी
@@ -126035,6 +126923,9 @@ TEXT: युक्सी फ़ोटो सफ़ारी - ग्लोबल
 
 RESOURCE ID: tr_uxie_photo_safari_live
 TEXT: युक्सी फ़ोटो सफ़ारी - लॉस एंजेलीस
+
+RESOURCE ID: tr_wcs2026_finale_header
+TEXT: Worlds 2026 Finale
 
 RESOURCE ID: tr_weekend_booster_title
 TEXT: वीकेंड रिवॉर्ड
@@ -126931,6 +127822,12 @@ TEXT: ऐसा लगता है कि आपको एक कैंडी X
 
 RESOURCE ID: tutorial_xl_candy_2
 TEXT: आपको पोकेमॉन पकड़ने के बाद भी कैंडी XL मिल सकते हैं। पोकेमॉन जितना ताकतवर होगा, आपको कैंडी XL मिलने की संभावना उतनी ही ज़्यादा होगी।
+
+RESOURCE ID: tv_bonus_costume_pika_sf_background
+TEXT: WCS Costume Pikachu and PXP Costume Pikachu from T1 Raids have a chance of San Francisco Location Background
+
+RESOURCE ID: tv_bonus_gold_rush
+TEXT: Large quantities of Golden PokéStops will appear every day from 12:00 p.m. to 1:00 p.m.
 
 RESOURCE ID: tv_title_go_tour_2026_global
 TEXT: GO Tour : कालोस – ग्लोबल
@@ -128837,6 +129734,9 @@ TEXT: बीच पर टहलना सीमित समय वाली �
 RESOURCE ID: wandering_waddles_tr_name
 TEXT: बीच पर टहलना
 
+RESOURCE ID: water_festival_2026_event_name
+TEXT: अल्ट्रा अनलॉक - वॉटर फ़ेस्टविल
+
 RESOURCE ID: water_festival_catch_timed_research
 TEXT: Water Festival: Catch Challenge
 
@@ -128960,6 +129860,9 @@ TEXT: अनाहाइम 2025 पोकेमॉन वर्ल्ड चै
 RESOURCE ID: wcs_2025_anaheim_irl_event_title
 TEXT: अनाहाइम 2025 पोकेमॉन वर्ल्ड चैंपियनशिप
 
+RESOURCE ID: wcs_2026_sf_event_title
+TEXT: San Francisco 2026 Pokémon World Championships
+
 RESOURCE ID: wcs_2023_battle_tr_title_00
 TEXT: Great League Greatness (1/3)
 
@@ -129049,6 +129952,9 @@ TEXT: सेंट्रेट चुनें
 
 RESOURCE ID: wcs_2025_great_league_tr_path_c_desc
 TEXT: फ़रेट, क्वैगसायर और गोलाइसोपॉड को अपनी GO बैटल लीग के ग्रेट लीग टीम में शामिल कर ट्रेन करें।
+
+RESOURCE ID: wcs_2026_sf_event_title_extended
+TEXT: San Francisco 2026 Pokémon World Championships Extended Bonuses
 
 RESOURCE ID: wcs2022_london_collection_challenge
 TEXT: 2022 Worlds Collection Challenge
@@ -129143,6 +130049,18 @@ TEXT: If 20 Trainers work together to successfully complete a Raid Battle, then 
 RESOURCE ID: wcs_pgo_snapshot
 TEXT: Take a snapshot of your buddy at the Pokémon GO booth
 
+RESOURCE ID: wcs_surprise_tr_title
+TEXT: Mega Pursuit Timed Research
+
+RESOURCE ID: wcs_surprise_tr_title_00
+TEXT: Mega Pursuit Timed Research (1/2)
+
+RESOURCE ID: wcs_surprise_tr_title_01
+TEXT: Mega Pursuit Timed Research (2/2)
+
+RESOURCE ID: wcs_surprise_tr_quest_desc_placeholder
+TEXT: Check back during the Pokémon World Championships 2026 Pokémon GO Finals for a special surprise!
+
 RESOURCE ID: wcs_week_event
 TEXT: Pokémon World Championships 2022
 
@@ -129195,7 +130113,7 @@ RESOURCE ID: weather_boost_active_3
 TEXT: मौसम की वजह से {0} के {1}, {2} और {3} बूस्ट हुए हैं!
 
 RESOURCE ID: weather_boost_active_4
-TEXT: {0}'s {1}, {2}, {3}, and {4} are boosted by the weather!
+TEXT: मौसम के प्रभाव से {0} के {1}, {2}, {3} और {4} बूस्ट हुए!
 
 RESOURCE ID: weather_boost_bonus_stardust
 TEXT: मौसम बूस्ट से पोकेमॉन पकड़ने पर ज़्यादा स्टार-डस्ट पाएँ
