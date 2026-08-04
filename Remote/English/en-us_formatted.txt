@@ -7858,11 +7858,11 @@ RESOURCE ID: avatar_shirt_gotour_grey
 TEXT: GO Tour 2026 Tee (Grey)
 
 RESOURCE ID: avatar_shirt_lego_hat_2026
-TEXT: 2026 LEGO(R)
+TEXT: 2026 LEGO®
  Pokémon Cap
 
 RESOURCE ID: avatar_shirt_lego_jacket_2026
-TEXT: 2026 LEGO(R)
+TEXT: 2026 LEGO®
  Pokémon Jacket
 
 RESOURCE ID: avatar_shirt_mimikyu_hoodoff
@@ -15137,6 +15137,12 @@ TEXT: Got Candy from the professor.
 RESOURCE ID: batch_transfer_100_pokemon
 TEXT: {0} ★ 100% Pokémon
 
+RESOURCE ID: batch_transfer_100_pokemon_plural
+TEXT: {0} ★ 100% Pokémon
+
+RESOURCE ID: batch_transfer_100_pokemon_singular
+TEXT: {0} ★ 100% Pokémon
+
 RESOURCE ID: batch_transfer_eligible_confirm
 TEXT: <size=36><b>Only {0} of the selected Pokémon can be transferred to the professor.</b></size>
 
@@ -15151,6 +15157,12 @@ RESOURCE ID: batch_transfer_eligible_confirm_singular
 TEXT: <size=36><b>Only one of the selected Pokémon can be transferred to the professor.</b></size>
 
 Any Pokémon that can’t be transferred will remain in your Pokémon storage. You cannot undo a transfer.
+
+RESOURCE ID: batch_transfer_hyper_trained_pokemon_plural
+TEXT: {0} completed Hyper Training
+
+RESOURCE ID: batch_transfer_hyper_trained_pokemon_singular
+TEXT: {0} completed Hyper Training
 
 RESOURCE ID: batch_transfer_last_more_pokemon
 TEXT: Your only {0}, {1}, and {2} more
@@ -15170,7 +15182,19 @@ TEXT: You have selected at least one Legendary Pokémon, Mythical Pokémon, Ultr
 RESOURCE ID: batch_transfer_unique_bread_dough_level_pokemon
 TEXT: {0} Gigantamax
 
+RESOURCE ID: batch_transfer_unique_bread_dough_level_pokemon_plural
+TEXT: {0} Gigantamax
+
+RESOURCE ID: batch_transfer_unique_bread_dough_level_pokemon_singular
+TEXT: {0} Gigantamax
+
 RESOURCE ID: batch_transfer_unique_bread_level_pokemon
+TEXT: {0} Dynamax
+
+RESOURCE ID: batch_transfer_unique_bread_level_pokemon_plural
+TEXT: {0} Dynamax
+
+RESOURCE ID: batch_transfer_unique_bread_level_pokemon_singular
 TEXT: {0} Dynamax
 
 RESOURCE ID: batch_transfer_unique_day_night_level_pokemon
@@ -15179,11 +15203,23 @@ TEXT: {0} Pokémon with a Portrait
 RESOURCE ID: batch_transfer_unique_event_pokemon
 TEXT: {0} Event Pokémon
 
+RESOURCE ID: batch_transfer_unique_event_pokemon_plural
+TEXT: {0} Event
+
+RESOURCE ID: batch_transfer_unique_event_pokemon_singular
+TEXT: {0} Event
+
 RESOURCE ID: batch_transfer_unique_legendary_or_mythical_pokemon
 TEXT: {0} Legendary or Mythical Pokémon
 
 RESOURCE ID: batch_transfer_unique_legendary_or_mythical_or_ultra_beast_pokemon
 TEXT: {0} Legendary Pokémon, Mythical Pokémon, or Ultra Beasts
+
+RESOURCE ID: batch_transfer_unique_location_background_pokemon_plural
+TEXT: {0} Location Backgrounds
+
+RESOURCE ID: batch_transfer_unique_location_background_pokemon_singular
+TEXT: {0} Location Background
 
 RESOURCE ID: batch_transfer_unique_location_card_pokemon
 TEXT: {0} Pokémon with a rare background
@@ -15191,8 +15227,20 @@ TEXT: {0} Pokémon with a rare background
 RESOURCE ID: batch_transfer_unique_mega_level_pokemon
 TEXT: {0} Mega-Leveled Pokémon
 
+RESOURCE ID: batch_transfer_unique_mega_level_pokemon_plural
+TEXT: {0} Mega- or Primal- Leveled
+
+RESOURCE ID: batch_transfer_unique_mega_level_pokemon_singular
+TEXT: {0} Mega- or Primal- Leveled
+
 RESOURCE ID: batch_transfer_unique_not_included
 TEXT: You have not selected any Legendary Pokémon, Mythical Pokémon, Ultra Beasts, or event Pokémon.
+
+RESOURCE ID: batch_transfer_unique_special_background_pokemon_plural
+TEXT: {0} Special Backgrounds
+
+RESOURCE ID: batch_transfer_unique_special_background_pokemon_singular
+TEXT: {0} Special Background
 
 RESOURCE ID: batch_transfer_unique_warning_title
 TEXT: Your Selection Contains These Pokémon:
@@ -15203,8 +15251,20 @@ TEXT: Are you sure you want to transfer these Pokémon to the professor?
 RESOURCE ID: batch_transfer_unique_xxl_pokemon
 TEXT: {0} XXL Pokémon
 
+RESOURCE ID: batch_transfer_unique_xxl_pokemon_plural
+TEXT: {0} XXL
+
+RESOURCE ID: batch_transfer_unique_xxl_pokemon_singular
+TEXT: {0} XXL
+
 RESOURCE ID: batch_transfer_unique_xxs_pokemon
 TEXT: {0} XXS Pokémon
+
+RESOURCE ID: batch_transfer_unique_xxs_pokemon_plural
+TEXT: {0} XXS
+
+RESOURCE ID: batch_transfer_unique_xxs_pokemon_singular
+TEXT: {0} XXS
 
 RESOURCE ID: battle_box
 TEXT: Battle Box
@@ -30077,7 +30137,7 @@ RESOURCE ID: complete_geotarget_quest
 TEXT: Complete an AR Mapping task
 
 RESOURCE ID: complete_lucky_remote_trade_prompt
-TEXT: Review and complete Lucky Remote Trade!
+TEXT: Review and complete <color=#F2A64B><b>Lucky Remote Trade</b></color>!
 
 RESOURCE ID: complete_remote_trade_prompt
 TEXT: Review and complete Remote Trade!
@@ -38246,7 +38306,10 @@ RESOURCE ID: friend_sort_online_not_available_ok_button
 TEXT: Yes
 
 RESOURCE ID: friend_wants_to_lucky_remote_trade_prompt
-TEXT: {0} sent you a Lucky Remote Trade request.
+TEXT: {0} sent you a <color=#F2A64B><b>Lucky Remote Trade</b></color> request.
+
+RESOURCE ID: friend_wants_to_lucky_trade_prompt
+TEXT: {0} wants to <color=#F2A64B><b>Lucky Trade</b></color> with you.
 
 RESOURCE ID: friend_wants_to_remote_trade_prompt
 TEXT: {0} sent you a Remote Trade request.
@@ -58963,11 +59026,23 @@ TEXT: Your next trade together will be Lucky! This means both Pokémon traded wi
 RESOURCE ID: lucky_friends_notification_details_from_charm
 TEXT: {0} and you became Lucky Friends with a Lucky Trinket!
 
+RESOURCE ID: lucky_remote_trade_completion_overlay_message
+TEXT: {0} completed the <color=#F2A64B><b>Lucky Remote Trade</b></color>!
+
 RESOURCE ID: lucky_remote_trade_confirm_body
-TEXT: Complete your Lucky Remote Trade with {0}!
+TEXT: Complete <color=#F2A64B><b>Lucky Remote Trade</b></color> with {0}!
 
 RESOURCE ID: lucky_remote_trade_initiate_body
-TEXT: {0} sent you a Lucky Remote Trade request!
+TEXT: {0} sent you a <color=#F2A64B><b>Lucky Remote Trade</b></color> request!
+
+RESOURCE ID: lucky_remote_trade_overlay_complete
+TEXT: Review and complete <color=#F2A64B><b>Lucky Remote Trade</b></color> Request
+
+RESOURCE ID: lucky_remote_trade_overlay_respond
+TEXT: Review <color=#F2A64B><b>Lucky Remote Trade</b></color> Request
+
+RESOURCE ID: lucky_remote_trade_waiting_for_response
+TEXT: Waiting for response to <color=#F2A64B><b>Lucky Remote Trade</b></color>.
 
 RESOURCE ID: lucky_trade_increase
 TEXT: Increased chance for Lucky Pokémon in trades
@@ -61351,10 +61426,10 @@ at SHA 4d4f3e80cc7fb911006bd14d198c9831ef66d005
 Pipeline 339838, job 2672172
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-07-31T22:18:45.421507+00:00 for en-US
-at SHA d789e82319b
-Pipeline 3844025, job 56536182
-Patch from: 0.421.1-SHA-999cbf08-RC1, 0.423.0-SHA-bd5762dc-RC5
+TEXT: Built at 2026-08-04T01:45:51.243955+00:00 for en-US
+at SHA e1ec9c62007
+Pipeline 3849348, job 56600256
+Patch from: 0.421.1-SHA-11fbf718-RC2, 0.423.0-SHA-7c3b231c-RC1, 0.425.0-SHA-e7185dda-RC1
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: Timed Research: Choose Your Fighting Type
@@ -77994,6 +78069,9 @@ TEXT: Learn a new Fast Attack
 RESOURCE ID: pokemon_legendary_info_transfer_to_professor_confirmation
 TEXT: Do you really want to transfer this Legendary Pokémon?
 
+RESOURCE ID: pokemon_location_background_info_transfer_to_professor_confirmation
+TEXT: Do you really want to transfer this Pokémon with a Location Background?
+
 RESOURCE ID: pokemon_location_card_info_transfer_to_professor_confirmation
 TEXT: Do you really want to transfer this Pokémon with a rare background?
 
@@ -81540,6 +81618,9 @@ TEXT: New Weight Record
 RESOURCE ID: pokemon_size_tiny_encounter
 TEXT: It's tiny!
 
+RESOURCE ID: pokemon_special_background_info_transfer_to_professor_confirmation
+TEXT: Do you really want to transfer this Pokémon with a Special Background?
+
 RESOURCE ID: pokemon_species_form_0888_2576
 TEXT: Crowned Sword Zacian
 
@@ -81554,6 +81635,12 @@ TEXT: Pokémon Town 2024 – Lapras Lake
 
 RESOURCE ID: pokemon_transfer_legendary_confirmation
 TEXT: Your selection contains Legendary Pokémon or Mythical Pokémon! Are you sure you want to transfer the selected Pokémon?
+
+RESOURCE ID: pokemon_transfer_to_professor_warning_title
+TEXT: Your selected Pokémon is/has:
+
+RESOURCE ID: pokemon_transfer_to_professor_warning_message
+TEXT: Are you sure you want to transfer this Pokémon to the professor?
 
 RESOURCE ID: pokemon_tutorial_ibfc_desc
 TEXT: This Pokémon can change form in battle.
@@ -117960,6 +118047,48 @@ TEXT: You got a Silver Bottle Cap!
 
 RESOURCE ID: single_stat_increase_ftue_body
 TEXT: Enables a year-long Hyper Training course where you can fully raise one of a Pokémon’s stats.
+
+RESOURCE ID: single_transfer_100_pokemon
+TEXT: ★ 100% Pokémon
+
+RESOURCE ID: single_transfer_bread_dough_level_pokemon
+TEXT: Gigantamax
+
+RESOURCE ID: single_transfer_bread_level_pokemon
+TEXT: Dynamax
+
+RESOURCE ID: single_transfer_buddy_level_pokemon
+TEXT: Buddy Leveled
+
+RESOURCE ID: single_transfer_event_pokemon
+TEXT: Event
+
+RESOURCE ID: single_transfer_hyper_trained_pokemon
+TEXT: completed Hyper Training
+
+RESOURCE ID: single_transfer_legendary_or_mythical_or_ultra_beast_pokemon
+TEXT: Legendary Pokémon, Mythical Pokémon, or Ultra Beasts
+
+RESOURCE ID: single_transfer_location_background_pokemon
+TEXT: Location Background
+
+RESOURCE ID: single_transfer_lucky_pokemon
+TEXT: Lucky
+
+RESOURCE ID: single_transfer_shiny_pokemon
+TEXT: Shiny
+
+RESOURCE ID: single_transfer_special_background_pokemon
+TEXT: Special Background
+
+RESOURCE ID: single_transfer_unique_mega_level_pokemon
+TEXT: Mega- or Primal- Leveled
+
+RESOURCE ID: single_transfer_xxl_pokemon
+TEXT: XXL
+
+RESOURCE ID: single_transfer_xxs_pokemon
+TEXT: XXS
 
 RESOURCE ID: single_type_great_title
 TEXT: Single-type Cup: Great League Edition

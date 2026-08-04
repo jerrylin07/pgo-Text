@@ -7805,11 +7805,11 @@ RESOURCE ID: avatar_shirt_gotour_grey
 TEXT: Kaus Tur GO 2026 (Abu-Abu)
 
 RESOURCE ID: avatar_shirt_lego_hat_2026
-TEXT: Topi LEGO(R)
+TEXT: Topi LEGO®
  Pokémon 2026
 
 RESOURCE ID: avatar_shirt_lego_jacket_2026
-TEXT: Jaket LEGO(R)
+TEXT: Jaket LEGO®
  Pokémon 2026
 
 RESOURCE ID: avatar_shirt_mimikyu_hoodoff
@@ -13303,13 +13303,13 @@ RESOURCE ID: badge_safari_2026_brisbane_add_on_hatch_test_title
 TEXT: Pokémon GO City Safari—Egg-thusiast
 
 RESOURCE ID: badge_safari_2026_brisbane_add_on_hatch_title
-TEXT: Pokémon GO City Safari—Egg-thusiast
+TEXT: Pokémon GO City Safari—Penggila Telur
 
 RESOURCE ID: badge_safari_2026_brisbane_add_on_raid_test_title
 TEXT: Pokémon GO City Safari—Raid Lover
 
 RESOURCE ID: badge_safari_2026_brisbane_add_on_raid_title
-TEXT: Pokémon GO City Safari—Raid Lover
+TEXT: Pokémon GO City Safari—Pecinta Raid
 
 RESOURCE ID: badge_safari_2026_brisbane_day_00_title
 TEXT: Pokémon GO City Safari
@@ -13345,13 +13345,13 @@ RESOURCE ID: badge_safari_2026_marseille_add_on_hatch_test_title
 TEXT: Pokémon GO City Safari—Egg-thusiast
 
 RESOURCE ID: badge_safari_2026_marseille_add_on_hatch_title
-TEXT: Pokémon GO City Safari—Egg-thusiast
+TEXT: Pokémon GO City Safari—Penggila Telur
 
 RESOURCE ID: badge_safari_2026_marseille_add_on_raid_test_title
 TEXT: Pokémon GO City Safari—Raid Lover
 
 RESOURCE ID: badge_safari_2026_marseille_add_on_raid_title
-TEXT: Pokémon GO City Safari—Raid Lover
+TEXT: Pokémon GO City Safari—Pecinta Raid
 
 RESOURCE ID: badge_safari_2026_marseille_day_00_title
 TEXT: Pokémon GO City Safari
@@ -13366,13 +13366,13 @@ RESOURCE ID: badge_safari_2026_munich_add_on_hatch_test_title
 TEXT: Pokémon GO City Safari—Egg-thusiast
 
 RESOURCE ID: badge_safari_2026_munich_add_on_hatch_title
-TEXT: Pokémon GO City Safari—Egg-thusiast
+TEXT: Pokémon GO City Safari—Penggila Telur
 
 RESOURCE ID: badge_safari_2026_munich_add_on_raid_test_title
 TEXT: Pokémon GO City Safari—Raid Lover
 
 RESOURCE ID: badge_safari_2026_munich_add_on_raid_title
-TEXT: Pokémon GO City Safari—Raid Lover
+TEXT: Pokémon GO City Safari—Pecinta Raid
 
 RESOURCE ID: badge_safari_2026_munich_day_00_title
 TEXT: Pokémon GO City Safari
@@ -13915,10 +13915,10 @@ RESOURCE ID: badge_safari_2026_brisbane_day_00
 TEXT: Brisbane 2026
 
 RESOURCE ID: badge_safari_2026_brisbane_day_01
-TEXT: Brisbane, September 26, 2026
+TEXT: Brisbane, 26 September 2026
 
 RESOURCE ID: badge_safari_2026_brisbane_day_02
-TEXT: Brisbane, September 27, 2026
+TEXT: Brisbane, 27 September 2026
 
 RESOURCE ID: badge_safari_2026_lisbon_add_on_hatch
 TEXT: Lisbon 2026
@@ -13957,10 +13957,10 @@ RESOURCE ID: badge_safari_2026_marseille_day_00
 TEXT: Marseille 2026
 
 RESOURCE ID: badge_safari_2026_marseille_day_01
-TEXT: Marseille, September 26, 2026
+TEXT: Marseille, 26 September 2026
 
 RESOURCE ID: badge_safari_2026_marseille_day_02
-TEXT: Marseille, September 27, 2026
+TEXT: Marseille, 27 September 2026
 
 RESOURCE ID: badge_safari_2026_munich_add_on_hatch
 TEXT: Munich 2026
@@ -13978,10 +13978,10 @@ RESOURCE ID: badge_safari_2026_munich_day_00
 TEXT: Munich 2026
 
 RESOURCE ID: badge_safari_2026_munich_day_01
-TEXT: Munich, September 26, 2026
+TEXT: Munich, 26 September 2026
 
 RESOURCE ID: badge_safari_2026_munich_day_02
-TEXT: Munich, September 27, 2026
+TEXT: Munich, 27 September 2026
 
 RESOURCE ID: badge_safari_2026_riodejaneiro_add_on_hatch
 TEXT: Rio de Janeiro 2026
@@ -15074,6 +15074,12 @@ TEXT: Menerima Permen dari Profesor.
 RESOURCE ID: batch_transfer_100_pokemon
 TEXT: {0} Pokémon ★ 100%
 
+RESOURCE ID: batch_transfer_100_pokemon_plural
+TEXT: {0} ★ 100% Pokémon
+
+RESOURCE ID: batch_transfer_100_pokemon_singular
+TEXT: {0} ★ 100% Pokémon
+
 RESOURCE ID: batch_transfer_eligible_confirm_plural
 TEXT: <size=36><b>Hanya {0} dari Pokémon terpilih yang dapat ditransfer ke profesor.</b></size>
 
@@ -15083,6 +15089,12 @@ RESOURCE ID: batch_transfer_eligible_confirm_singular
 TEXT: <size=36><b>Hanya 1 dari Pokémon terpilih yang dapat ditransfer ke profesor.</b></size>
 
 Pokémon yang tidak dapat ditransfer akan tetap berada di penyimpanan Pokémonmu. Pentransferan tidak bisa dibatalkan.
+
+RESOURCE ID: batch_transfer_hyper_trained_pokemon_plural
+TEXT: {0} completed Hyper Training
+
+RESOURCE ID: batch_transfer_hyper_trained_pokemon_singular
+TEXT: {0} completed Hyper Training
 
 RESOURCE ID: batch_transfer_last_more_pokemon
 TEXT: Satu-satunya {0}, {1}, dan {2} lainnya
@@ -15102,7 +15114,19 @@ TEXT: Setidaknya satu Pokémon Legendaris, Mitos, Ultra Beast atau Pokémon Even
 RESOURCE ID: batch_transfer_unique_bread_dough_level_pokemon
 TEXT: {0} Gigantamax
 
+RESOURCE ID: batch_transfer_unique_bread_dough_level_pokemon_plural
+TEXT: {0} Gigantamax
+
+RESOURCE ID: batch_transfer_unique_bread_dough_level_pokemon_singular
+TEXT: {0} Gigantamax
+
 RESOURCE ID: batch_transfer_unique_bread_level_pokemon
+TEXT: {0} Dynamax
+
+RESOURCE ID: batch_transfer_unique_bread_level_pokemon_plural
+TEXT: {0} Dynamax
+
+RESOURCE ID: batch_transfer_unique_bread_level_pokemon_singular
 TEXT: {0} Dynamax
 
 RESOURCE ID: batch_transfer_unique_day_night_level_pokemon
@@ -15111,11 +15135,23 @@ TEXT: {0} Pokémon ber-Potret
 RESOURCE ID: batch_transfer_unique_event_pokemon
 TEXT: {0} Pokémon Event
 
+RESOURCE ID: batch_transfer_unique_event_pokemon_plural
+TEXT: {0} Event
+
+RESOURCE ID: batch_transfer_unique_event_pokemon_singular
+TEXT: {0} Event
+
 RESOURCE ID: batch_transfer_unique_legendary_or_mythical_pokemon
 TEXT: {0} Pokémon Mitos atau Legendaris
 
 RESOURCE ID: batch_transfer_unique_legendary_or_mythical_or_ultra_beast_pokemon
 TEXT: {0} Legendary Pokémon, Mythical Pokémon, or Ultra Beasts
+
+RESOURCE ID: batch_transfer_unique_location_background_pokemon_plural
+TEXT: {0} Location Backgrounds
+
+RESOURCE ID: batch_transfer_unique_location_background_pokemon_singular
+TEXT: {0} Location Background
 
 RESOURCE ID: batch_transfer_unique_location_card_pokemon
 TEXT: {0} Pokémon dengan Latar Belakang langka 
@@ -15123,8 +15159,20 @@ TEXT: {0} Pokémon dengan Latar Belakang langka
 RESOURCE ID: batch_transfer_unique_mega_level_pokemon
 TEXT: {0} Mega-Leveled Pokémon
 
+RESOURCE ID: batch_transfer_unique_mega_level_pokemon_plural
+TEXT: {0} Mega- or Primal- Leveled
+
+RESOURCE ID: batch_transfer_unique_mega_level_pokemon_singular
+TEXT: {0} Mega- or Primal- Leveled
+
 RESOURCE ID: batch_transfer_unique_not_included
 TEXT: Belum memilih Pokémon Legendaris, Mitos, atau Event.
+
+RESOURCE ID: batch_transfer_unique_special_background_pokemon_plural
+TEXT: {0} Special Backgrounds
+
+RESOURCE ID: batch_transfer_unique_special_background_pokemon_singular
+TEXT: {0} Special Background
 
 RESOURCE ID: batch_transfer_unique_warning_title
 TEXT: Pokémon Yang Dipilih:
@@ -15135,8 +15183,20 @@ TEXT: Yakin ingin mentransfer Pokémon ini ke profesor?
 RESOURCE ID: batch_transfer_unique_xxl_pokemon
 TEXT: {0} XXL Pokémon
 
+RESOURCE ID: batch_transfer_unique_xxl_pokemon_plural
+TEXT: {0} XXL
+
+RESOURCE ID: batch_transfer_unique_xxl_pokemon_singular
+TEXT: {0} XXL
+
 RESOURCE ID: batch_transfer_unique_xxs_pokemon
 TEXT: {0} XXS Pokémon
+
+RESOURCE ID: batch_transfer_unique_xxs_pokemon_plural
+TEXT: {0} XXS
+
+RESOURCE ID: batch_transfer_unique_xxs_pokemon_singular
+TEXT: {0} XXS
 
 RESOURCE ID: battle_box
 TEXT: Kotak Pertarungan
@@ -35900,6 +35960,9 @@ TEXT: Ya
 RESOURCE ID: friend_wants_to_lucky_remote_trade_prompt
 TEXT: {0} mengirimimu permintaan Pertukaran Jarak Jauh Istimewa.
 
+RESOURCE ID: friend_wants_to_lucky_trade_prompt
+TEXT: {0} wants to <color=#F2A64B><b>Lucky Trade</b></color> with you.
+
 RESOURCE ID: friend_wants_to_remote_trade_prompt
 TEXT: {0} mengirimimu permintaan Pertukaran Jarak Jauh.
 
@@ -56636,11 +56699,23 @@ TEXT: Pertukaran selanjutnya akan menjadi Keberuntungan! Kedua Pokémon yang dit
 RESOURCE ID: lucky_friends_notification_details_from_charm
 TEXT: {0} dan kamu telah menjadi Teman Istimewa menggunakan Ornamen Istimewa!
 
+RESOURCE ID: lucky_remote_trade_completion_overlay_message
+TEXT: {0} completed the <color=#F2A64B><b>Lucky Remote Trade</b></color>!
+
 RESOURCE ID: lucky_remote_trade_confirm_body
 TEXT: Selesaikan Pertukaran Jarak Jauh Istimewa dengan {0}!
 
 RESOURCE ID: lucky_remote_trade_initiate_body
 TEXT: {0} mengirimimu permintaan Pertukaran Jarak Jauh Istimewa!
+
+RESOURCE ID: lucky_remote_trade_overlay_complete
+TEXT: Review and complete <color=#F2A64B><b>Lucky Remote Trade</b></color> Request
+
+RESOURCE ID: lucky_remote_trade_overlay_respond
+TEXT: Review <color=#F2A64B><b>Lucky Remote Trade</b></color> Request
+
+RESOURCE ID: lucky_remote_trade_waiting_for_response
+TEXT: Waiting for response to <color=#F2A64B><b>Lucky Remote Trade</b></color>.
 
 RESOURCE ID: lucky_trade_increase
 TEXT: Peningkatan kesempatan mendapatkan Pokémon Istimewa saat Pertukaran
@@ -58992,10 +59067,10 @@ at SHA 12701f1c07ae7f07a5d50583f697320977df7988
 Pipeline 1139111, job 13470914
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-07-31T22:18:45.421507+00:00 for id-ID
-at SHA d789e82319b
-Pipeline 3844025, job 56536182
-Patch from: 0.421.1-SHA-999cbf08-RC1, 0.423.0-SHA-bd5762dc-RC5
+TEXT: Built at 2026-08-04T01:45:51.243955+00:00 for id-ID
+at SHA e1ec9c62007
+Pipeline 3849348, job 56600256
+Patch from: 0.421.1-SHA-11fbf718-RC2, 0.423.0-SHA-7c3b231c-RC1, 0.425.0-SHA-e7185dda-RC1
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: Penelitian Berwaktu: Pilih Tipe Petarungmu
@@ -75644,6 +75719,9 @@ TEXT: Mempelajari Jurus Cepat baru
 RESOURCE ID: pokemon_legendary_info_transfer_to_professor_confirmation
 TEXT: Yakin ingin mentransfer Pokémon Legendaris ini?
 
+RESOURCE ID: pokemon_location_background_info_transfer_to_professor_confirmation
+TEXT: Do you really want to transfer this Pokémon with a Location Background?
+
 RESOURCE ID: pokemon_location_card_info_transfer_to_professor_confirmation
 TEXT: Yakin ingin mentransfer Pokémon dengan latar belakang langka ini?
 
@@ -79190,6 +79268,9 @@ TEXT: New Weight Record
 RESOURCE ID: pokemon_size_tiny_encounter
 TEXT: It’s tiny!
 
+RESOURCE ID: pokemon_special_background_info_transfer_to_professor_confirmation
+TEXT: Do you really want to transfer this Pokémon with a Special Background?
+
 RESOURCE ID: pokemon_species_form_0888_2576
 TEXT: Zacian (Raja Pedang)
 
@@ -79204,6 +79285,12 @@ TEXT: Pokémon Town 2024 – Danau Lapras
 
 RESOURCE ID: pokemon_transfer_legendary_confirmation
 TEXT: Terdapat Pokémon Legendaris atau Pokémon Mitos dalam pilihanmu! Tetap transfer Pokémon yang dipilih?
+
+RESOURCE ID: pokemon_transfer_to_professor_warning_title
+TEXT: Your selected Pokémon is/has:
+
+RESOURCE ID: pokemon_transfer_to_professor_warning_message
+TEXT: Are you sure you want to transfer this Pokémon to the professor?
 
 RESOURCE ID: pokemon_tutorial_ibfc_desc
 TEXT: Pokémon ini dapat berubah bentuk di pertarungan.
@@ -83116,7 +83203,7 @@ RESOURCE ID: quest_event_eevee_snapshot_boston
 TEXT: Take a snapshot of your Eevee in Boston
 
 RESOURCE ID: quest_event_eevee_snapshot_brisbane
-TEXT: Take a snapshot of your Eevee in Brisbane
+TEXT: Ambil foto Eevee milikmu di Brisbane
 
 RESOURCE ID: quest_event_eevee_snapshot_buenosaires
 TEXT: Ambil foto Eevee milikmu di Buenos Aires
@@ -83131,7 +83218,7 @@ RESOURCE ID: quest_event_eevee_snapshot_lisbon
 TEXT: Take a snapshot of your Eevee in Lisbon
 
 RESOURCE ID: quest_event_eevee_snapshot_marseille
-TEXT: Take a snapshot of your Eevee in Marseille
+TEXT: Ambil foto Eevee milikmu di Marseille
 
 RESOURCE ID: quest_event_eevee_snapshot_miami
 TEXT: Ambil foto Eevee milikmu di Miami
@@ -83143,7 +83230,7 @@ RESOURCE ID: quest_event_eevee_snapshot_mumbai
 TEXT: Ambil foto Eevee milikmu di Mumbai
 
 RESOURCE ID: quest_event_eevee_snapshot_munich
-TEXT: Take a snapshot of your Eevee in Munich
+TEXT: Ambil foto Eevee milikmu di Munich
 
 RESOURCE ID: quest_event_eevee_snapshot_riodejaneiro
 TEXT: Take a snapshot of your Eevee in Rio de Janeiro
@@ -83203,7 +83290,7 @@ RESOURCE ID: quest_event_spin_boston
 TEXT: Spin a PokéStop or Gym in Boston
 
 RESOURCE ID: quest_event_spin_brisbane
-TEXT: Spin a PokéStop or Gym in Brisbane
+TEXT: Putar PokéStop atau Gym di Brisbane
 
 RESOURCE ID: quest_event_spin_buenosaires
 TEXT: Putar PokéStop atau Gym di Buenos Aires
@@ -83218,10 +83305,10 @@ RESOURCE ID: quest_event_spin_jakarta
 TEXT: Putar PokéStop atau Gym di Jakarta
 
 RESOURCE ID: quest_event_spin_lisbon
-TEXT: Spin a PokéStop or Gym in Lisbon
+TEXT: Putar PokéStop atau Gym di Lisbon
 
 RESOURCE ID: quest_event_spin_marseille
-TEXT: Spin a PokéStop or Gym in Marseille
+TEXT: Putar PokéStop atau Gym di Marseille
 
 RESOURCE ID: quest_event_spin_miami
 TEXT: Putar PokéStop atau Gym di Miami
@@ -83233,7 +83320,7 @@ RESOURCE ID: quest_event_spin_mumbai
 TEXT: Putar PokéStop atau Gym di Mumbai
 
 RESOURCE ID: quest_event_spin_munich
-TEXT: Spin a PokéStop or Gym in Munich
+TEXT: Putar PokéStop atau Gym di Munich
 
 RESOURCE ID: quest_event_spin_riodejaneiro
 TEXT: Spin a PokéStop or Gym in Rio de Janeiro
@@ -115480,6 +115567,48 @@ TEXT: Kamu mendapatkan Tutup Botol Perak!
 
 RESOURCE ID: single_stat_increase_ftue_body
 TEXT: Memungkinkan Latihan Luar Biasa sepanjang tahun yang dapat meningkatkan satu statistik Pokémon sepenuhnya.
+
+RESOURCE ID: single_transfer_100_pokemon
+TEXT: ★ 100% Pokémon
+
+RESOURCE ID: single_transfer_bread_dough_level_pokemon
+TEXT: Gigantamax
+
+RESOURCE ID: single_transfer_bread_level_pokemon
+TEXT: Dynamax
+
+RESOURCE ID: single_transfer_buddy_level_pokemon
+TEXT: Buddy Leveled
+
+RESOURCE ID: single_transfer_event_pokemon
+TEXT: Event
+
+RESOURCE ID: single_transfer_hyper_trained_pokemon
+TEXT: completed Hyper Training
+
+RESOURCE ID: single_transfer_legendary_or_mythical_or_ultra_beast_pokemon
+TEXT: Legendary Pokémon, Mythical Pokémon, or Ultra Beasts
+
+RESOURCE ID: single_transfer_location_background_pokemon
+TEXT: Location Background
+
+RESOURCE ID: single_transfer_lucky_pokemon
+TEXT: Lucky
+
+RESOURCE ID: single_transfer_shiny_pokemon
+TEXT: Shiny
+
+RESOURCE ID: single_transfer_special_background_pokemon
+TEXT: Special Background
+
+RESOURCE ID: single_transfer_unique_mega_level_pokemon
+TEXT: Mega- or Primal- Leveled
+
+RESOURCE ID: single_transfer_xxl_pokemon
+TEXT: XXL
+
+RESOURCE ID: single_transfer_xxs_pokemon
+TEXT: XXS
 
 RESOURCE ID: single_type_great_title
 TEXT: Kejuaraan Mono-Tipe: Edisi Liga Great

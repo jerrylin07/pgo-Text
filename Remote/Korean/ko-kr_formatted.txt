@@ -7736,11 +7736,11 @@ RESOURCE ID: avatar_shirt_gotour_grey
 TEXT: GO Tour 2026 티셔츠(그레이)
 
 RESOURCE ID: avatar_shirt_lego_hat_2026
-TEXT: LEGO(R) Pokémon
+TEXT: LEGO® Pokémon
 모자2026
 
 RESOURCE ID: avatar_shirt_lego_jacket_2026
-TEXT: LEGO(R) Pokémon
+TEXT: LEGO® Pokémon
 재킷2026
 
 RESOURCE ID: avatar_shirt_mimikyu_hoodoff
@@ -14991,6 +14991,12 @@ TEXT: 박사에게 사탕을 받았다
 RESOURCE ID: batch_transfer_100_pokemon
 TEXT: ★ 100% 포켓몬 {0}마리
 
+RESOURCE ID: batch_transfer_100_pokemon_plural
+TEXT: {0} ★ 100% Pokémon
+
+RESOURCE ID: batch_transfer_100_pokemon_singular
+TEXT: {0} ★ 100% Pokémon
+
 RESOURCE ID: batch_transfer_eligible_confirm
 TEXT: <size=36><b>선택한 포켓몬 중 {0}마리만 박사에게 보낼 수 있습니다.</b></size>
 
@@ -15005,6 +15011,12 @@ RESOURCE ID: batch_transfer_eligible_confirm_singular
 TEXT: <size=36><b>선택한 포켓몬 중 {0}마리만 연구소에 보낼 수 있습니다.
 
 보낼 수 없는 포켓몬은 박스에 남습니다. 보낸 포켓몬은 되돌릴 수 없습니다.
+
+RESOURCE ID: batch_transfer_hyper_trained_pokemon_plural
+TEXT: {0} completed Hyper Training
+
+RESOURCE ID: batch_transfer_hyper_trained_pokemon_singular
+TEXT: {0} completed Hyper Training
 
 RESOURCE ID: batch_transfer_last_more_pokemon
 TEXT: 1마리만 있는 {0}, {1} 그 외 {2}마리
@@ -15024,8 +15036,20 @@ TEXT: 전설, 환상, 울트라비스트, 또는 특별한 포켓몬을 포함�
 RESOURCE ID: batch_transfer_unique_bread_dough_level_pokemon
 TEXT: 거다이맥스 {0}
 
+RESOURCE ID: batch_transfer_unique_bread_dough_level_pokemon_plural
+TEXT: {0} Gigantamax
+
+RESOURCE ID: batch_transfer_unique_bread_dough_level_pokemon_singular
+TEXT: {0} Gigantamax
+
 RESOURCE ID: batch_transfer_unique_bread_level_pokemon
 TEXT: 다이맥스 {0}
+
+RESOURCE ID: batch_transfer_unique_bread_level_pokemon_plural
+TEXT: {0} Dynamax
+
+RESOURCE ID: batch_transfer_unique_bread_level_pokemon_singular
+TEXT: {0} Dynamax
 
 RESOURCE ID: batch_transfer_unique_day_night_level_pokemon
 TEXT: 포트레이트가 있는 포켓몬 {0}마리
@@ -15033,11 +15057,23 @@ TEXT: 포트레이트가 있는 포켓몬 {0}마리
 RESOURCE ID: batch_transfer_unique_event_pokemon
 TEXT: 특별한 포켓몬: {0}마리
 
+RESOURCE ID: batch_transfer_unique_event_pokemon_plural
+TEXT: {0} Event
+
+RESOURCE ID: batch_transfer_unique_event_pokemon_singular
+TEXT: {0} Event
+
 RESOURCE ID: batch_transfer_unique_legendary_or_mythical_pokemon
 TEXT: 전설 또는 환상의 포켓몬: {0}마리
 
 RESOURCE ID: batch_transfer_unique_legendary_or_mythical_or_ultra_beast_pokemon
 TEXT: 전설, 환상의 포켓몬 또는 울트라비스트 {0}마리
+
+RESOURCE ID: batch_transfer_unique_location_background_pokemon_plural
+TEXT: {0} Location Backgrounds
+
+RESOURCE ID: batch_transfer_unique_location_background_pokemon_singular
+TEXT: {0} Location Background
 
 RESOURCE ID: batch_transfer_unique_location_card_pokemon
 TEXT: {0} Special Location Backgrounds
@@ -15045,8 +15081,20 @@ TEXT: {0} Special Location Backgrounds
 RESOURCE ID: batch_transfer_unique_mega_level_pokemon
 TEXT: 메가레벨 포켓몬: {0}마리
 
+RESOURCE ID: batch_transfer_unique_mega_level_pokemon_plural
+TEXT: {0} Mega- or Primal- Leveled
+
+RESOURCE ID: batch_transfer_unique_mega_level_pokemon_singular
+TEXT: {0} Mega- or Primal- Leveled
+
 RESOURCE ID: batch_transfer_unique_not_included
 TEXT: 전설, 환상, 울트라비스트,  특별한 포켓몬을 선택하지 않았습니다
+
+RESOURCE ID: batch_transfer_unique_special_background_pokemon_plural
+TEXT: {0} Special Backgrounds
+
+RESOURCE ID: batch_transfer_unique_special_background_pokemon_singular
+TEXT: {0} Special Background
 
 RESOURCE ID: batch_transfer_unique_warning_title
 TEXT: 선택한 포켓몬:
@@ -15057,8 +15105,20 @@ TEXT: 정말로 연구소에 보내겠습니까?
 RESOURCE ID: batch_transfer_unique_xxl_pokemon
 TEXT: {0} XXL Pokémon
 
+RESOURCE ID: batch_transfer_unique_xxl_pokemon_plural
+TEXT: {0} XXL
+
+RESOURCE ID: batch_transfer_unique_xxl_pokemon_singular
+TEXT: {0} XXL
+
 RESOURCE ID: batch_transfer_unique_xxs_pokemon
 TEXT: {0} XXS Pokémon
+
+RESOURCE ID: batch_transfer_unique_xxs_pokemon_plural
+TEXT: {0} XXS
+
+RESOURCE ID: batch_transfer_unique_xxs_pokemon_singular
+TEXT: {0} XXS
 
 RESOURCE ID: battle_box
 TEXT: 배틀 박스
@@ -38085,6 +38145,9 @@ TEXT: 온라인 상황 표시하기
 RESOURCE ID: friend_wants_to_lucky_remote_trade_prompt
 TEXT: {0}님의 반짝반짝 리모트 교환 요청이 있습니다
 
+RESOURCE ID: friend_wants_to_lucky_trade_prompt
+TEXT: {0} wants to <color=#F2A64B><b>Lucky Trade</b></color> with you.
+
 RESOURCE ID: friend_wants_to_remote_trade_prompt
 TEXT: {0}님의 리모트 교환 요청이 있습니다
 
@@ -58677,11 +58740,23 @@ TEXT: Your next trade together will be Lucky! This means both Pokémon traded wi
 RESOURCE ID: lucky_friends_notification_details_from_charm
 TEXT: 반짝이 참을 사용해서 {0}님과 반짝반짝 프렌드가 되었다!
 
+RESOURCE ID: lucky_remote_trade_completion_overlay_message
+TEXT: {0} completed the <color=#F2A64B><b>Lucky Remote Trade</b></color>!
+
 RESOURCE ID: lucky_remote_trade_confirm_body
 TEXT: {0}님과의 반짝반짝 리모트 교환을 완료해 주세요!
 
 RESOURCE ID: lucky_remote_trade_initiate_body
 TEXT: {0}님의 반짝반짝 리모트 교환 요청이 있습니다
+
+RESOURCE ID: lucky_remote_trade_overlay_complete
+TEXT: Review and complete <color=#F2A64B><b>Lucky Remote Trade</b></color> Request
+
+RESOURCE ID: lucky_remote_trade_overlay_respond
+TEXT: Review <color=#F2A64B><b>Lucky Remote Trade</b></color> Request
+
+RESOURCE ID: lucky_remote_trade_waiting_for_response
+TEXT: Waiting for response to <color=#F2A64B><b>Lucky Remote Trade</b></color>.
 
 RESOURCE ID: lucky_trade_increase
 TEXT: 교환으로 반짝반짝 포켓몬 가능성 증가
@@ -61044,10 +61119,10 @@ at SHA 4d4f3e80cc7fb911006bd14d198c9831ef66d005
 Pipeline 339838, job 2672172
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-07-31T22:18:45.421507+00:00 for ko-KR
-at SHA d789e82319b
-Pipeline 3844025, job 56536182
-Patch from: 0.421.1-SHA-999cbf08-RC1, 0.423.0-SHA-bd5762dc-RC5
+TEXT: Built at 2026-08-04T01:45:51.243955+00:00 for ko-KR
+at SHA e1ec9c62007
+Pipeline 3849348, job 56600256
+Patch from: 0.421.1-SHA-11fbf718-RC2, 0.423.0-SHA-7c3b231c-RC1, 0.425.0-SHA-e7185dda-RC1
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: 시간제한 리서치: 격투타입
@@ -77721,6 +77796,9 @@ TEXT: 새로운 노말어택을 배운다
 RESOURCE ID: pokemon_legendary_info_transfer_to_professor_confirmation
 TEXT: 정말로 이 포켓몬을 보내도 되겠습니까?
 
+RESOURCE ID: pokemon_location_background_info_transfer_to_professor_confirmation
+TEXT: Do you really want to transfer this Pokémon with a Location Background?
+
 RESOURCE ID: pokemon_location_card_info_transfer_to_professor_confirmation
 TEXT: 희귀한 배경이 있는 포켓몬을 정말로 보내겠습니까?
 
@@ -81268,6 +81346,9 @@ TEXT: New Weight Record
 RESOURCE ID: pokemon_size_tiny_encounter
 TEXT: It's tiny!
 
+RESOURCE ID: pokemon_special_background_info_transfer_to_professor_confirmation
+TEXT: Do you really want to transfer this Pokémon with a Special Background?
+
 RESOURCE ID: pokemon_species_form_0888_2576
 TEXT: 자시안(검왕)
 
@@ -81282,6 +81363,12 @@ TEXT: Pokémon Town 2024 -라프라스의 호수
 
 RESOURCE ID: pokemon_transfer_legendary_confirmation
 TEXT: 전설의 포켓몬과 환상의 포켓몬을 포함하고 있습니다. 정말로 보내겠습니까?
+
+RESOURCE ID: pokemon_transfer_to_professor_warning_title
+TEXT: Your selected Pokémon is/has:
+
+RESOURCE ID: pokemon_transfer_to_professor_warning_message
+TEXT: Are you sure you want to transfer this Pokémon to the professor?
 
 RESOURCE ID: pokemon_tutorial_ibfc_desc
 TEXT: 이 포켓몬은 배틀 중 폼을 바꿀 수 있습니다.
@@ -117620,6 +117707,48 @@ TEXT: 은색병뚜껑을 손에 넣었다!
 
 RESOURCE ID: single_stat_increase_ftue_body
 TEXT: 포켓몬을 1년에 걸쳐 부분적으로 단련할 때 필요한 왕관.
+
+RESOURCE ID: single_transfer_100_pokemon
+TEXT: ★ 100% Pokémon
+
+RESOURCE ID: single_transfer_bread_dough_level_pokemon
+TEXT: Gigantamax
+
+RESOURCE ID: single_transfer_bread_level_pokemon
+TEXT: Dynamax
+
+RESOURCE ID: single_transfer_buddy_level_pokemon
+TEXT: Buddy Leveled
+
+RESOURCE ID: single_transfer_event_pokemon
+TEXT: Event
+
+RESOURCE ID: single_transfer_hyper_trained_pokemon
+TEXT: completed Hyper Training
+
+RESOURCE ID: single_transfer_legendary_or_mythical_or_ultra_beast_pokemon
+TEXT: Legendary Pokémon, Mythical Pokémon, or Ultra Beasts
+
+RESOURCE ID: single_transfer_location_background_pokemon
+TEXT: Location Background
+
+RESOURCE ID: single_transfer_lucky_pokemon
+TEXT: Lucky
+
+RESOURCE ID: single_transfer_shiny_pokemon
+TEXT: Shiny
+
+RESOURCE ID: single_transfer_special_background_pokemon
+TEXT: Special Background
+
+RESOURCE ID: single_transfer_unique_mega_level_pokemon
+TEXT: Mega- or Primal- Leveled
+
+RESOURCE ID: single_transfer_xxl_pokemon
+TEXT: XXL
+
+RESOURCE ID: single_transfer_xxs_pokemon
+TEXT: XXS
 
 RESOURCE ID: single_type_great_title
 TEXT: 싱글컵: 슈퍼리그 버전

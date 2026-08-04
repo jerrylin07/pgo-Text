@@ -8037,11 +8037,11 @@ RESOURCE ID: avatar_shirt_gotour_grey
 TEXT: เสื้อยืด GO Tour 2026 (สีเทา)
 
 RESOURCE ID: avatar_shirt_lego_hat_2026
-TEXT: หมวก LEGO(R)
+TEXT: หมวก LEGO®
  โปเกมอน 2026
 
 RESOURCE ID: avatar_shirt_lego_jacket_2026
-TEXT: เสื้อแจ็กเก็ต LEGO(R)
+TEXT: เสื้อแจ็กเก็ต LEGO®
  โปเกมอน 2026
 
 RESOURCE ID: avatar_shirt_mimikyu_hoodoff
@@ -15335,6 +15335,12 @@ TEXT: ได้รับลูกอมจากศาสตราจารย�
 RESOURCE ID: batch_transfer_100_pokemon
 TEXT: โปเกมอน ★ 100% {0} ตัว
 
+RESOURCE ID: batch_transfer_100_pokemon_plural
+TEXT: {0} ★ 100% Pokémon
+
+RESOURCE ID: batch_transfer_100_pokemon_singular
+TEXT: {0} ★ 100% Pokémon
+
 RESOURCE ID: batch_transfer_eligible_confirm
 TEXT: <size=36><b>มีโปเกมอนเพียง {0} ตัวที่สามารถถ่ายโอนได้</b></size>
 
@@ -15357,6 +15363,12 @@ TEXT: <size=36><b>มีโปเกมอนเพียง 1 ตัวที�
 โปเกมอนที่ถ่ายโอนไปแล้วจะไม่
 สามารถเรียกคืนได้
 
+RESOURCE ID: batch_transfer_hyper_trained_pokemon_plural
+TEXT: {0} completed Hyper Training
+
+RESOURCE ID: batch_transfer_hyper_trained_pokemon_singular
+TEXT: {0} completed Hyper Training
+
 RESOURCE ID: batch_transfer_last_more_pokemon
 TEXT: {0}และ{1}ที่มีเพียงตัวเดียว (อื่น ๆ อีก {2} ตัว)
 
@@ -15377,14 +15389,32 @@ TEXT: มีโปเกมอนในตำนาน โปเกมอนม�
 RESOURCE ID: batch_transfer_unique_bread_dough_level_pokemon
 TEXT: กิกะแมกซ์ ({0})
 
+RESOURCE ID: batch_transfer_unique_bread_dough_level_pokemon_plural
+TEXT: {0} Gigantamax
+
+RESOURCE ID: batch_transfer_unique_bread_dough_level_pokemon_singular
+TEXT: {0} Gigantamax
+
 RESOURCE ID: batch_transfer_unique_bread_level_pokemon
 TEXT: ไดแมกซ์ ({0})
+
+RESOURCE ID: batch_transfer_unique_bread_level_pokemon_plural
+TEXT: {0} Dynamax
+
+RESOURCE ID: batch_transfer_unique_bread_level_pokemon_singular
+TEXT: {0} Dynamax
 
 RESOURCE ID: batch_transfer_unique_day_night_level_pokemon
 TEXT: โปเกมอนที่มีภาพเหมือน {0} ตัว
 
 RESOURCE ID: batch_transfer_unique_event_pokemon
 TEXT: โปเกมอนอีเวนต์ {0} ตัว
+
+RESOURCE ID: batch_transfer_unique_event_pokemon_plural
+TEXT: {0} Event
+
+RESOURCE ID: batch_transfer_unique_event_pokemon_singular
+TEXT: {0} Event
 
 RESOURCE ID: batch_transfer_unique_legendary_or_mythical_pokemon
 TEXT: โปเกมอนในตำนานหรือมายา {0} ตัว
@@ -15393,14 +15423,32 @@ RESOURCE ID: batch_transfer_unique_legendary_or_mythical_or_ultra_beast_pokemon
 TEXT: โปเกมอนในตำนาน โปเกมอนมายา
 หรืออัลตร้าบีสต์ {0} ตัว
 
+RESOURCE ID: batch_transfer_unique_location_background_pokemon_plural
+TEXT: {0} Location Backgrounds
+
+RESOURCE ID: batch_transfer_unique_location_background_pokemon_singular
+TEXT: {0} Location Background
+
 RESOURCE ID: batch_transfer_unique_location_card_pokemon
 TEXT: โปเกมอนที่มีพื้นหลังหายาก {0} ตัว
 
 RESOURCE ID: batch_transfer_unique_mega_level_pokemon
 TEXT: โปเกมอนที่มีระดับเมก้า {0} ตัว
 
+RESOURCE ID: batch_transfer_unique_mega_level_pokemon_plural
+TEXT: {0} Mega- or Primal- Leveled
+
+RESOURCE ID: batch_transfer_unique_mega_level_pokemon_singular
+TEXT: {0} Mega- or Primal- Leveled
+
 RESOURCE ID: batch_transfer_unique_not_included
 TEXT: ไม่มีโปเกมอนในตำนาน มายา อัลตร้าบีสต์ หรืออีเวนต์รวมอยู่ด้วย
+
+RESOURCE ID: batch_transfer_unique_special_background_pokemon_plural
+TEXT: {0} Special Backgrounds
+
+RESOURCE ID: batch_transfer_unique_special_background_pokemon_singular
+TEXT: {0} Special Background
 
 RESOURCE ID: batch_transfer_unique_warning_title
 TEXT: มีโปเกมอนดังนี้รวมอยู่:
@@ -15411,8 +15459,20 @@ TEXT: คุณแน่ใจหรือไม่ว่าต้องกา�
 RESOURCE ID: batch_transfer_unique_xxl_pokemon
 TEXT: {0} XXL Pokémon
 
+RESOURCE ID: batch_transfer_unique_xxl_pokemon_plural
+TEXT: {0} XXL
+
+RESOURCE ID: batch_transfer_unique_xxl_pokemon_singular
+TEXT: {0} XXL
+
 RESOURCE ID: batch_transfer_unique_xxs_pokemon
 TEXT: {0} XXS Pokémon
+
+RESOURCE ID: batch_transfer_unique_xxs_pokemon_plural
+TEXT: {0} XXS
+
+RESOURCE ID: batch_transfer_unique_xxs_pokemon_singular
+TEXT: {0} XXS
 
 RESOURCE ID: battle_box
 TEXT: กล่องแบตเทิล
@@ -22706,10 +22766,10 @@ RESOURCE ID: campfire_checkin_notification
 TEXT: งานพบปะ "{0}" จะเริ่มใน {1}! เช็กอินเพื่อรับของรางวัล!
 
 RESOURCE ID: campfire_checkin_ended_notification
-TEXT: <b>{0} Meetup</b> started at {1}!
+TEXT: <b>งานพบปะ "{0}"</b> เริ่มแล้วใน {1}!
 
 RESOURCE ID: campfire_checkin_happening_now_notification
-TEXT: <b>{0} Meetup</b> is happening now! Check in to claim your reward!
+TEXT: <b>งานพบปะ "{0}"</b> กำลังจะเริ่ม! เช็กอินเพื่อรับของรางวัล!
 
 RESOURCE ID: campfire_invite_notification
 TEXT: {0} ได้เชิญให้คุณเข้าร่วม Campfire!
@@ -38927,6 +38987,9 @@ TEXT: ใช่
 
 RESOURCE ID: friend_wants_to_lucky_remote_trade_prompt
 TEXT: {0} ส่งคำขอแลกเปลี่ยนระยะไกลนำโชคมาให้คุณ
+
+RESOURCE ID: friend_wants_to_lucky_trade_prompt
+TEXT: {0} wants to <color=#F2A64B><b>Lucky Trade</b></color> with you.
 
 RESOURCE ID: friend_wants_to_remote_trade_prompt
 TEXT: {0} ส่งคำขอแลกเปลี่ยนระยะไกลมาให้คุณ
@@ -63401,11 +63464,23 @@ TEXT: ใช้เครื่องรางนำโชคแล้ว
 {0} กับคุณจึง
 กลายเป็นเพื่อนนำโชค!
 
+RESOURCE ID: lucky_remote_trade_completion_overlay_message
+TEXT: {0} completed the <color=#F2A64B><b>Lucky Remote Trade</b></color>!
+
 RESOURCE ID: lucky_remote_trade_confirm_body
 TEXT: กรุณาเสร็จสิ้นการแลกเปลี่ยนระยะไกลนำโชคกับ {0}!
 
 RESOURCE ID: lucky_remote_trade_initiate_body
 TEXT: {0} ส่งคำขอแลกเปลี่ยนระยะไกลนำโชคมาให้คุณ!
+
+RESOURCE ID: lucky_remote_trade_overlay_complete
+TEXT: Review and complete <color=#F2A64B><b>Lucky Remote Trade</b></color> Request
+
+RESOURCE ID: lucky_remote_trade_overlay_respond
+TEXT: Review <color=#F2A64B><b>Lucky Remote Trade</b></color> Request
+
+RESOURCE ID: lucky_remote_trade_waiting_for_response
+TEXT: Waiting for response to <color=#F2A64B><b>Lucky Remote Trade</b></color>.
 
 RESOURCE ID: lucky_trade_increase
 TEXT: เพิ่มโอกาสได้รับโปเกมอนนำโชค
@@ -66052,10 +66127,10 @@ at SHA da71d231c41a4d4f7aef0d6fd71061652ff15a0a
 Pipeline 441624, job 3600523
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-07-31T22:18:45.421507+00:00 for th-TH
-at SHA d789e82319b
-Pipeline 3844025, job 56536182
-Patch from: 0.421.1-SHA-999cbf08-RC1, 0.423.0-SHA-bd5762dc-RC5
+TEXT: Built at 2026-08-04T01:45:51.243955+00:00 for th-TH
+at SHA e1ec9c62007
+Pipeline 3849348, job 56600256
+Patch from: 0.421.1-SHA-11fbf718-RC2, 0.423.0-SHA-7c3b231c-RC1, 0.425.0-SHA-e7185dda-RC1
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: งานวิจัยแบบจำกัดเวลา: ประเภทต่อสู้ของคุณ
@@ -85165,6 +85240,9 @@ RESOURCE ID: pokemon_legendary_info_transfer_to_professor_confirmation
 TEXT: คุณแน่ใจใช่ไหมว่าต้องการถ่ายโอน
 โปเกมอนในตำนาน?
 
+RESOURCE ID: pokemon_location_background_info_transfer_to_professor_confirmation
+TEXT: Do you really want to transfer this Pokémon with a Location Background?
+
 RESOURCE ID: pokemon_location_card_info_transfer_to_professor_confirmation
 TEXT: คุณแน่ใจใช่ไหมว่าต้องการถ่ายโอน
 โปเกมอนที่มีพื้นหลังหายาก?
@@ -88715,6 +88793,9 @@ TEXT: New Weight Record
 RESOURCE ID: pokemon_size_tiny_encounter
 TEXT: It's tiny!
 
+RESOURCE ID: pokemon_special_background_info_transfer_to_professor_confirmation
+TEXT: Do you really want to transfer this Pokémon with a Special Background?
+
 RESOURCE ID: pokemon_species_form_0888_2576
 TEXT: ซาเชียน (ราชาแห่งดาบ)
 
@@ -88729,6 +88810,12 @@ TEXT: Pokémon Town 2024 - ทะเลสาบลาพลาซ
 
 RESOURCE ID: pokemon_transfer_legendary_confirmation
 TEXT: มีโปเกมอนในตำนาน หรือโปเกมอนมายารวมอยู่ด้วย! แน่ใจหรือไม่ว่าจะถ่ายโอน?
+
+RESOURCE ID: pokemon_transfer_to_professor_warning_title
+TEXT: Your selected Pokémon is/has:
+
+RESOURCE ID: pokemon_transfer_to_professor_warning_message
+TEXT: Are you sure you want to transfer this Pokémon to the professor?
 
 RESOURCE ID: pokemon_tutorial_ibfc_desc
 TEXT: โปเกมอนตัวนี้สามารถเปลี่ยนฟอร์ม
@@ -129090,6 +129177,48 @@ TEXT: คุณได้รับฝาเงินแล้ว!
 
 RESOURCE ID: single_stat_increase_ftue_body
 TEXT: ใช้เข้าคอร์สการฝึกขั้นสุดยอดระยะเวลา 1 ปี เพื่อเพิ่มค่าพลังใดค่าหนึ่งของโปเกมอนให้เต็ม
+
+RESOURCE ID: single_transfer_100_pokemon
+TEXT: ★ 100% Pokémon
+
+RESOURCE ID: single_transfer_bread_dough_level_pokemon
+TEXT: Gigantamax
+
+RESOURCE ID: single_transfer_bread_level_pokemon
+TEXT: Dynamax
+
+RESOURCE ID: single_transfer_buddy_level_pokemon
+TEXT: Buddy Leveled
+
+RESOURCE ID: single_transfer_event_pokemon
+TEXT: Event
+
+RESOURCE ID: single_transfer_hyper_trained_pokemon
+TEXT: completed Hyper Training
+
+RESOURCE ID: single_transfer_legendary_or_mythical_or_ultra_beast_pokemon
+TEXT: Legendary Pokémon, Mythical Pokémon, or Ultra Beasts
+
+RESOURCE ID: single_transfer_location_background_pokemon
+TEXT: Location Background
+
+RESOURCE ID: single_transfer_lucky_pokemon
+TEXT: Lucky
+
+RESOURCE ID: single_transfer_shiny_pokemon
+TEXT: Shiny
+
+RESOURCE ID: single_transfer_special_background_pokemon
+TEXT: Special Background
+
+RESOURCE ID: single_transfer_unique_mega_level_pokemon
+TEXT: Mega- or Primal- Leveled
+
+RESOURCE ID: single_transfer_xxl_pokemon
+TEXT: XXL
+
+RESOURCE ID: single_transfer_xxs_pokemon
+TEXT: XXS
 
 RESOURCE ID: single_type_great_title
 TEXT: การแข่งขันแบบประเภทเดี่ยว (ver. เกรตลีก)
