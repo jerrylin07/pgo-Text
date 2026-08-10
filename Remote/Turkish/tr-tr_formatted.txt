@@ -19473,6 +19473,9 @@ TEXT: Lucario yakalarken bir Nadir Büyük Şeker kazanma garantisi
 RESOURCE ID: bonus_rare_candy_xl_catch_origin
 TEXT: Orijin Formu Dialga veya Orijin Formu Palkia yakalayınca bir garantili Nadir Büyük Şeker
 
+RESOURCE ID: bonus_rare_candy_xl_catch_starmie
+TEXT: One guaranteed Rare Candy XL when catching Starmie
+
 RESOURCE ID: bonus_rare_candy_xl_chance_raids
 TEXT: Akınlarda daha yüksek Büyük Nadir Şeker alma şansı
 
@@ -19823,6 +19826,9 @@ TEXT: Doğada Unova bölgesinden Pokémon’lar ortaya çıkıyor!
 
 RESOURCE ID: bonus_today_zygarde_cell
 TEXT: Zygarde Hücreleri günde 5 adede kadar rotanın sonunda ortaya çıkabilir
+
+RESOURCE ID: bonus_today_zygarde_cell_temp
+TEXT: Zygarde Cells can be claimed when completing a Route up to 5 times per day
 
 RESOURCE ID: bonus_total_6_special_trades
 TEXT: Her gün toplam 6 özel takas fırsatı
@@ -21310,6 +21316,9 @@ TEXT: {1} MP toplamak için {0} km katedin
 
 RESOURCE ID: breakfast_tappable_tutorial_body
 TEXT: Rota takip ederken Zygarde Hücresi bulabilirsiniz. Zygarde Hücrelerini birleştirerek farklı Zygarde formları oluşturabilirsiniz.
+
+RESOURCE ID: breakfast_tappable_tutorial_body_temp
+TEXT: You can find Zygarde Cells after completing a Route. You can assemble Zygarde Cells to create different Zygarde forms.
 
 RESOURCE ID: breakthrough_free_remote_raid_pass
 TEXT: Araştırmada Büyük İlerlemelerden Uzak Akın Bileti ödülü
@@ -26300,6 +26309,12 @@ TEXT: Hasami
 RESOURCE ID: city_manhole_476
 TEXT: Goto
 
+RESOURCE ID: city_manhole_480
+TEXT: Isahaya
+
+RESOURCE ID: city_manhole_481
+TEXT: Saikai
+
 RESOURCE ID: city_manhole_4(ibusuki)_d64e
 TEXT: Ibusuki
 
@@ -29487,7 +29502,7 @@ RESOURCE ID: dynamic_punch_+_move_content
 TEXT: Mewtwo {0} boyunca tüm gücüyle yumruk atar. Akınlarda mega evrimleşmiş Pokémon’lara verilen hasarı artırır ve mega evrimleşmiş Pokémon’larınızın süper mega akınlarda iki kalkan kırabilmesini sağlar.
 
 RESOURCE ID: dynamic_punch_adventure_effects_mapview_dialog
-TEXT: Mewtwo punches with full, concentrated power. Increases damage against Mega Pokémon in Raids and enables your Mega Pokémon to break two shields in Super Mega Raids.
+TEXT: Mewtwo punches with full, concentrated power. Increases damage against Mega-Evolved Pokémon in raids and enables your Mega-Evolved Pokémon to break two shields in Super Mega Raids.
 
 RESOURCE ID: dynamic_punch_adventure_effects_mapview_dialog_out
 TEXT: Mewtwo {0} boyunca sert yumruklarla saldırır. Mega evrimleşmiş Pokémon’larınızın süper mega akınlarda iki kalkan kırabilmesini sağlar.
@@ -31271,7 +31286,7 @@ RESOURCE ID: event_datetime_range_key_megaskarmoryraidday
 TEXT: 27 Haziran, 14.00-17.00
 
 RESOURCE ID: event_datetime_range_key_megastarmieraidday
-TEXT: 20 Ağustos, 11.00-17.00
+TEXT: 22 Ağustos, 11.00-17.00
 
 RESOURCE ID: event_datetime_range_key_monochromeholidaysdec2024
 TEXT: 22 Aralık, 10.00 –
@@ -32490,7 +32505,7 @@ TEXT: Purchase GO Pass Deluxe: GO Fest 2026 Mega Finale to unlock the following!
 • And more!
 
 RESOURCE ID: event_pass_gofest2026_finale_weekend_wild_shiny_bonus
-TEXT: Increased chance of encountering Shiny featured Pokémon in the wild during GO Fest 2026: Mega Finale event hours
+TEXT: Increased chance of encountering Shiny featured Pokémon in the wild during GO Fest 2026: Mega Finale weekend event hours
 
 RESOURCE ID: event_pass_gofest2026_premium_track_title
 TEXT: Lüks GO Bileti: Efsanelerin Yolu
@@ -36529,7 +36544,7 @@ RESOURCE ID: future_sight_+_move_content
 TEXT: Mewtwo {0} boyunca büyük bir psişik enerji öbeği salar ve karşılaşılan Pokémon’ların yüksek istatistiğe sahip olduklarını gösterebilir.
 
 RESOURCE ID: future_sight_adventure_effects_mapview_dialog
-TEXT: Mewtwo releases a hunk of psychic energy, revealing Pokémon with high stats before they are caught.
+TEXT: Mewtwo releases a hunk of psychic energy, revealing when encountered Pokémon have high stats.
 
 RESOURCE ID: future_sight_adventure_effects_mapview_dialog_out
 TEXT: Mewtwo {0} boyunca büyük bir psişik enerji öbeği salar ve doğada veya akınlardan sonra karşılaşılan Pokémon’ların yüksek istatistiğe sahip olduklarını gösterebilir.
@@ -36698,6 +36713,9 @@ TEXT: GO Maç Ligi’nde toplam 10 taneye kadar maç seti
 
 RESOURCE ID: gbl_sets_extra_twenty_total
 TEXT: GO Maç Ligi'nde toplam 20 maç seti
+
+RESOURCE ID: gbl_stat_variance_bonus
+TEXT: Non-Legendary Pokémon caught from the GO Battle League will have a wider variance of Attack, Defense, and HP
 
 RESOURCE ID: gbl_ticket_research_title
 TEXT: GO Maç Ligi Süreli Araştırması
@@ -38770,6 +38788,9 @@ TEXT: Pokémon GO Vahşi Bölgesi 2025: Küresel Bilet
 
 RESOURCE ID: general2.ticket._gowa25_leadup_title
 TEXT: Vahşi Maceraya Hazırlık Premium Süreli Araştırması Bileti
+
+RESOURCE ID: general2.ticket._gowa26_title
+TEXT: Pokémon GO Wild Area 2026 Global Ticket
 
 RESOURCE ID: general2.ticket._megagalladeraidday_title
 TEXT: Mega Gallade Akın Günü Bileti
@@ -52471,6 +52492,9 @@ TEXT: 23-24 Kasım 2024 tarihlerinde gerçekleşecek Pokémon GO Vahşi Bölgesi
 RESOURCE ID: item_global_event_ticket_desc_gowa25
 TEXT: 15-16 Kasım 2025’te, yerel saatle gerçekleşecek Pokémon GO Vahşi Bölgesi 2025: Küresel özel araştırmasına dilediğiniz yerden katılmanıza olanak tanıyan bir bilet.
 
+RESOURCE ID: item_global_event_ticket_desc_gowa26
+TEXT: A ticket to access the Pokémon GO Wild Area 2026: Global Special Research on November 14 and November 15, 2026, local time, wherever you are.
+
 RESOURCE ID: item_global_event_ticket_desc_hisuiandecidueye
 TEXT: 11 Şubat 2024 Pazar, yerel saatle 14.00-22.00 arasında geçerli olacak özel bonuslara dilediğiniz yerden hak kazanmanıza olanak tanıyan bir bilet.
 
@@ -52526,6 +52550,11 @@ RESOURCE ID: item_global_event_ticket_details_gowa25
 TEXT: Bu bilet 15-16 Kasım 2025’te, yerel saatle gerçekleşecek Pokémon GO Vahşi Bölgesi 2025: Küresel özel araştırmasına dilediğiniz yerden erişebilmeniz için otomatik olarak etkinleştirilecek. Ayrıntıları oyun içi Haberler bölümünde bulabilirsiniz.
 
 Etkinliğe ait tüm bonusları alabilmek için oyunu belirtilen saatlerde oynamalısınız.
+
+RESOURCE ID: item_global_event_ticket_details_gowa26
+TEXT: This ticket will automatically activate to give you access to the Pokémon GO Wild Area 2026: Global Special Research on November 14 and 15, local time, wherever you are. Details can be found in the in-game News.
+
+You must play during the specified time to receive all the event bonuses.
 
 RESOURCE ID: item_global_event_ticket_details_hisuiandecidueye
 TEXT: Bu bilet 11 Şubat’ta geçerli olacak özel bonuslara dilediğiniz yerden hak kazanabilmeniz için otomatik olarak etkinleştirilecek.
@@ -56638,7 +56667,7 @@ RESOURCE ID: lobby_ready_progress
 TEXT: {0}/{1} Eğitmen hazır
 
 RESOURCE ID: lobby_shield_break_power
-TEXT: Shield break potential
+TEXT: {0}/{1} Shield break potential
 
 RESOURCE ID: local_bonus_event_tag
 TEXT: Yerel Bonus
@@ -59293,10 +59322,10 @@ at SHA 413df5befdbe0d00a543f8a142221526d63b719a
 Pipeline 834428, job 8736424
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-08-06T02:14:44.768040+00:00 for tr-TR
-at SHA 46aa1b7c9a2
-Pipeline 3855357, job 56696459
-Patch from: 0.421.0-SHA-1cc74f81-RC5, 0.423.1-SHA-70644676-RC1, 0.425.0-SHA-18d2732c-RC2
+TEXT: Built at 2026-08-10T23:29:18.099028+00:00 for tr-TR
+at SHA 7467817e563
+Pipeline 3866309, job 56846989
+Patch from: 0.425.0-SHA-73e817e6-RC3, 0.423.1-SHA-70644676-RC1
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: Süreli Araştırma: Dövüşçünüzü Seçin
@@ -79473,8 +79502,29 @@ TEXT: Pokémon Presents
 RESOURCE ID: pokemon_purified_message
 TEXT: {0} arındırıldı!
 
+RESOURCE ID: pokemon_run_2026_hongkong_title
+TEXT: Pokémon RUN 30: Hong Kong
+
+RESOURCE ID: pokemon_run_2026_indonesia_title
+TEXT: Pokémon RUN 30: Endonezya
+
+RESOURCE ID: pokemon_run_2026_malaysia_title
+TEXT: Pokémon RUN 30: Malezya
+
+RESOURCE ID: pokemon_run_2026_philippines_title
+TEXT: Pokémon RUN 30: Filipinler
+
 RESOURCE ID: pokemon_run_2026_seoul_title
 TEXT: Pokémon RUN 2026 Seul
+
+RESOURCE ID: pokemon_run_2026_singapore_title
+TEXT: Pokémon RUN 30: Singapur
+
+RESOURCE ID: pokemon_run_2026_taiwan_title
+TEXT: Pokémon RUN 30: Tayvan
+
+RESOURCE ID: pokemon_run_2026_thailand_title
+TEXT: Pokémon RUN 30: Tayland
 
 RESOURCE ID: pokemon_shiny_info_transfer_to_professor_confirmation
 TEXT: Bu Parlak Pokémon gerçekten gönderilsin mi?
@@ -97277,8 +97327,14 @@ TEXT: Sen dışarıdayken ben de yerel Eğitmenlerin gözlem raporlarını okuma
 RESOURCE ID: quest_special_dialogue_zygarde_1_2
 TEXT: İlginçtir ki bazıları rotalar üzerinde yeşil, biçimsiz kütlelere rastladıklarını yazmışlar. Kimi Eğitmenler bunların canlı olabileceğini bile belirtmiş!
 
+RESOURCE ID: quest_special_dialogue_zygarde_1_2_temp
+TEXT: Curiously, several mentioned unusual activity along nearby Routes. Some Trainers even said they spotted something they couldn’t quite identify!
+
 RESOURCE ID: quest_special_dialogue_zygarde_1_3
 TEXT: Bu oynak kütlelerin ne olabileceği hakkında bir teorim var ama önce araştırma notlarımı gözden geçirmek istiyorum. Belki daha önce bahsettiğim makaleyi de tekrar okurum...
+
+RESOURCE ID: quest_special_dialogue_zygarde_1_3_temp
+TEXT: I have a theory about what might be drawing attention out there, but I’d like to look through my research materials a tad more first. Maybe even reread that article from earlier...
 
 RESOURCE ID: quest_special_dialogue_zygarde_1_4
 TEXT: Bu arada sen alan araştırmana devam et lütfen. Döndüğünde sana vereceğim bilgiler biraz daha biçim almış olacak eminim.
@@ -97315,6 +97371,9 @@ TEXT: Sana verdiğim hediye de bununla alakalı! Zygarde Küpünü bulduğun Zyg
 
 RESOURCE ID: quest_special_dialogue_zygarde_3_5
 TEXT: Hücreleri nerede bulabileceğine gelince... Rotaların üstünde keşfedilen o yeşil, biçimsiz kütleleri hatırlıyor musun? Bahse girerim onlar aslında Zygarde Hücreleriydi!
+
+RESOURCE ID: quest_special_dialogue_zygarde_3_5_temp
+TEXT: And where can you find those Cells? Well, do you recall the unusual activity along Routes I mentioned earlier? I reckon it may have been caused by Zygarde Cells!
 
 RESOURCE ID: quest_special_dialogue_zygarde_3_6
 TEXT: Senden bu varsayımı test etmeni rica edebilir miyim %PLAYERNAME%?
@@ -108684,6 +108743,9 @@ TEXT: Katettiğiniz mesafenin doğru bir şekilde işlenmesi için rota güzerg�
 
 RESOURCE ID: report_route_bug_info_zygarde
 TEXT: Zygard Hücrelerinin her rotada çıkacağı garantili değildir.
+
+RESOURCE ID: report_route_bug_info_zygarde_temp
+TEXT: Zygarde Cells are not guaranteed to appear at the end of every Route.
 
 RESOURCE ID: report_route_bug_reason_candy
 TEXT: Dostum bu rotada daha hızlı şeker kazanmadı.
@@ -122429,6 +122491,16 @@ TEXT: <b>Şu bonusları içerir:</b>
 
 <a href="https://pokemongolive.com/gowildarea/global">Bilet bonusları hakkındaki ayrıntıları buradan öğrenebilirsiniz.</a>
 
+RESOURCE ID: text_rewards_key_gowa26
+TEXT: <b>Includes:</b>
+• Up to 6 free Raid Passes each day from spinning Gym Photo Discs
+• Increased chance of receiving event 10 km Eggs from Poké Stops
+• Up to 6 Special Trades per day and reduced Stardust cost for trades
+• 1/2 hatch distance for eggs placed in incubators
+• 2x catch candy for catching Pokémon
+• A higher chance to encounter Shiny Pokémon during the event
+Learn more about the ticket bonuses <a href=“pokemongo.com/gowildarea/global”>here</a>.
+
 RESOURCE ID: text_rewards_key_growingup0525
 TEXT: <b>Şu ödülleri içerir:</b>
 • Magikarp, Wailmer, Swablu, Lucario, Wimpod, Rookidee ve Tandemaus ile karşılaşmalar
@@ -124958,6 +125030,12 @@ TEXT: Maksi Gizem Bonus Süreli Araştırması
 RESOURCE ID: title_tr_max_mystery_00
 TEXT: Maksi Gizem Bonus Süreli Araştırması (1/1)
 
+RESOURCE ID: title_tr_pxp_2026_stream
+TEXT: PokémonXP Bonus Timed Research
+
+RESOURCE ID: title_tr_pxp_2026_stream_00
+TEXT: PokémonXP Bonus Timed Research (1/1)
+
 RESOURCE ID: title_tr_wcs_2023_champ
 TEXT: 2023 Pokémon Dünya Şampiyonu Bonus Süreli Araştırması
 
@@ -124988,6 +125066,48 @@ TEXT: Takım Ruhu: Süper Lig – Bonus Süreli Araştırma (2/3)
 RESOURCE ID: title_tr_wcs_2024_team_building_02
 TEXT: Takım Ruhu: Süper Lig – Bonus Süreli Araştırma (3/3)
 
+RESOURCE ID: title_tr_wcs_2025_champ
+TEXT: 2025 Pokémon Dünya Şampiyonu Bonus Süreli Araştırması
+
+RESOURCE ID: title_tr_wcs_2025_champ_00
+TEXT: 2025 Pokémon Dünya Şampiyonu Bonus Süreli Araştırması (1/2)
+
+RESOURCE ID: title_tr_wcs_2025_champ_01
+TEXT: 2025 Pokémon Dünya Şampiyonu Bonus Süreli Araştırması (2/2)
+
+RESOURCE ID: title_tr_wcs_2026_team_building
+TEXT: Takım Ruhu: Süper Lig – Bonus Süreli Araştırma
+
+RESOURCE ID: title_tr_wcs_2026_team_building_00
+TEXT: Takım Ruhu: Süper Lig – Bonus Süreli Araştırma (1/3)
+
+RESOURCE ID: title_tr_wcs_2026_team_building_01
+TEXT: Takım Ruhu: Süper Lig – Bonus Süreli Araştırma (2/3)
+
+RESOURCE ID: title_tr_wcs_2026_team_building_02
+TEXT: Takım Ruhu: Süper Lig – Bonus Süreli Araştırma (3/3)
+
+RESOURCE ID: title_tr_wcs_2026_team_building_dialog_00
+TEXT: Selam %PLAYERNAME%! Bir tercih yapma vakti geldi. Maç yeteneklerini test etmek için takımını seçmelisin.
+
+RESOURCE ID: title_tr_wcs_2026_team_building_path_a
+TEXT: Lickitung’ı seçin
+
+RESOURCE ID: title_tr_wcs_2026_team_building_path_a_desc
+TEXT: Lickitung, Swablu ve Piplup ile karşılaşmaların yanı sıra yıldız tozu ve şeker gibi ödüller için bu yolu seçin.
+
+RESOURCE ID: title_tr_wcs_2026_team_building_path_b
+TEXT: Totodile’ı seçin
+
+RESOURCE ID: title_tr_wcs_2026_team_building_path_b_desc
+TEXT: Totodile, Marill ve Pineco ile karşılaşmaların yanı sıra yıldız tozu ve şeker gibi ödüller için bu yolu seçin.
+
+RESOURCE ID: title_tr_wcs_2026_team_building_path_c
+TEXT: Paldealı Wooper’ı seçin
+
+RESOURCE ID: title_tr_wcs_2026_team_building_path_c_desc
+TEXT: Sentret, Kecleon ve Paldealı Wooper ile karşılaşmaların yanı sıra yıldız tozu ve şeker gibi ödüller için bu yolu seçin.
+
 RESOURCE ID: title_tr_wcs_anaheim_greetings
 TEXT: Anaheim’dan Sevgiler! Bonus Süreli Araştırması
 
@@ -124999,6 +125119,12 @@ TEXT: Honolulu’dan Sevgiler! Bonus Süreli Araştırması
 
 RESOURCE ID: title_tr_wcs_honolulu_greetings_00
 TEXT: Honolulu’dan Sevgiler! Bonus Süreli Araştırması (1/1)
+
+RESOURCE ID: title_tr_wcs_sanfrancisco_greetings
+TEXT: San Francisco Hatırası Bonus Süreli Araştırması
+
+RESOURCE ID: title_tr_wcs_sanfrancisco_greetings_00
+TEXT: San Francisco Hatırası Bonus Süreli Araştırması (1/1)
 
 RESOURCE ID: title_unown_o_clock
 TEXT: Unown Vakti
@@ -130473,6 +130599,24 @@ TEXT: Sentret’i seçin
 
 RESOURCE ID: wcs_2025_great_league_tr_path_c_desc
 TEXT: GO Maç Ligi’nin Süper Lig’inde Furret, Quagsire ve Golisopod’dan oluşan bir takım kurup eğitmek için bu seçeneği seçin.
+
+RESOURCE ID: wcs_2026_irl_surprise_tr_dialog_00_00
+TEXT: %PLAYERNAME%! Mega evrimi araştırırken dikkatimi özellikle üç Pokémon çekti: Chesnaught, Delphox ve Greninja.
+
+RESOURCE ID: wcs_2026_irl_surprise_tr_dialog_00_01
+TEXT: Bunların her üçü de gerçekten kayda değer! Üçü de ayrı ayrı yetenekliler, yani burada yanlış seçim diye bir şey söz konusu olamaz. Olsa olsa üç birbirinden heyecanlı keşif yolundan söz edebiliriz!
+
+RESOURCE ID: wcs_2026_irl_surprise_tr_dialog_01_00
+TEXT: Harika bir seçim! Onu seçeceğini tahmin etmiştim. Şimdi mega evrimi daha iyi anlamak için incelemeye koyulma vakti.
+
+RESOURCE ID: wcs_2026_irl_surprise_tr_dialog_01_01_chesnaught
+TEXT: Mega Chesnaught’ı seçtin demek, öyle mi? Onun hem zırhı hem de savunma yapma azmi gerçekten şaşılacak derecede kuvvetlidir. Çetin ceviz diye işte ben buna derim!
+
+RESOURCE ID: wcs_2026_irl_surprise_tr_dialog_01_01_delphox
+TEXT: Mega Delphox’ı seçtin demek, öyle mi? Alevli dallarla düşmanlarını şaşırtıp ardından onları devasa bir alev topuyla küle çevirir. Bu araştırmada iyice hararetlendi!
+
+RESOURCE ID: wcs_2026_irl_surprise_tr_dialog_01_01_greninja
+TEXT: Mega Greninja’yı seçtin demek, öyle mi? Devasa bir ninja yıldızını yüksek hızla döndürerek havada asılı kalmasını sağlar, ardından ona baş aşağı asılarak rakiplerini gafil avlar. Tam bir sürpriz saldırı!
 
 RESOURCE ID: wcs_2026_sf_event_title_extended
 TEXT: San Francisco 2026 Pokémon World Championships Extended Bonuses

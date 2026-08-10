@@ -13572,127 +13572,127 @@ RESOURCE ID: badge_safari_2026_boston_add_on_hatch_test_title
 TEXT: Pokémon GO City Safari—Egg-thusiast
 
 RESOURCE ID: badge_safari_2026_boston_add_on_hatch_title
-TEXT: Pokémon GO City Safari—Egg-thusiast
+TEXT: Pokémon GO City Safari – Bien-œufs-reux
 
 RESOURCE ID: badge_safari_2026_boston_add_on_raid_test_title
 TEXT: Pokémon GO City Safari—Raid Lover
 
 RESOURCE ID: badge_safari_2026_boston_add_on_raid_title
-TEXT: Pokémon GO City Safari—Raid Lover
+TEXT: Pokémon GO City Safari – Amoureux des Raids
 
 RESOURCE ID: badge_safari_2026_boston_day_00_title
-TEXT: Pokémon GO City Safari
+TEXT: Pokémon GO City Safari
 
 RESOURCE ID: badge_safari_2026_boston_day_01_title
-TEXT: Pokémon GO City Safari
+TEXT: Pokémon GO City Safari
 
 RESOURCE ID: badge_safari_2026_boston_day_02_title
-TEXT: Pokémon GO City Safari
+TEXT: Pokémon GO City Safari
 
 RESOURCE ID: badge_safari_2026_brisbane_add_on_hatch_test_title
 TEXT: Pokémon GO City Safari—Egg-thusiast
 
 RESOURCE ID: badge_safari_2026_brisbane_add_on_hatch_title
-TEXT: Pokémon GO City Safari—Egg-thusiast
+TEXT: Pokémon GO City Safari – Bien-œufs-reux
 
 RESOURCE ID: badge_safari_2026_brisbane_add_on_raid_test_title
 TEXT: Pokémon GO City Safari—Raid Lover
 
 RESOURCE ID: badge_safari_2026_brisbane_add_on_raid_title
-TEXT: Pokémon GO City Safari—Raid Lover
+TEXT: Pokémon GO City Safari – Amoureux des Raids
 
 RESOURCE ID: badge_safari_2026_brisbane_day_00_title
-TEXT: Pokémon GO City Safari
+TEXT: Pokémon GO City Safari
 
 RESOURCE ID: badge_safari_2026_brisbane_day_01_title
-TEXT: Pokémon GO City Safari
+TEXT: Pokémon GO City Safari
 
 RESOURCE ID: badge_safari_2026_brisbane_day_02_title
-TEXT: Pokémon GO City Safari
+TEXT: Pokémon GO City Safari
 
 RESOURCE ID: badge_safari_2026_lisbon_add_on_hatch_test_title
 TEXT: Pokémon GO City Safari—Egg-thusiast
 
 RESOURCE ID: badge_safari_2026_lisbon_add_on_hatch_title
-TEXT: Pokémon GO City Safari—Egg-thusiast
+TEXT: Pokémon GO City Safari – Bien-œufs-reux
 
 RESOURCE ID: badge_safari_2026_lisbon_add_on_raid_test_title
 TEXT: Pokémon GO City Safari—Raid Lover
 
 RESOURCE ID: badge_safari_2026_lisbon_add_on_raid_title
-TEXT: Pokémon GO City Safari—Raid Lover
+TEXT: Pokémon GO City Safari – Amoureux des Raids
 
 RESOURCE ID: badge_safari_2026_lisbon_day_00_title
-TEXT: Pokémon GO City Safari
+TEXT: Pokémon GO City Safari
 
 RESOURCE ID: badge_safari_2026_lisbon_day_01_title
-TEXT: Pokémon GO City Safari
+TEXT: Pokémon GO City Safari
 
 RESOURCE ID: badge_safari_2026_lisbon_day_02_title
-TEXT: Pokémon GO City Safari
+TEXT: Pokémon GO City Safari
 
 RESOURCE ID: badge_safari_2026_marseille_add_on_hatch_test_title
 TEXT: Pokémon GO City Safari—Egg-thusiast
 
 RESOURCE ID: badge_safari_2026_marseille_add_on_hatch_title
-TEXT: Pokémon GO City Safari—Egg-thusiast
+TEXT: Pokémon GO City Safari – Bien-œufs-reux
 
 RESOURCE ID: badge_safari_2026_marseille_add_on_raid_test_title
 TEXT: Pokémon GO City Safari—Raid Lover
 
 RESOURCE ID: badge_safari_2026_marseille_add_on_raid_title
-TEXT: Pokémon GO City Safari—Raid Lover
+TEXT: Pokémon GO City Safari – Amoureux des Raids
 
 RESOURCE ID: badge_safari_2026_marseille_day_00_title
-TEXT: Pokémon GO City Safari
+TEXT: Pokémon GO City Safari
 
 RESOURCE ID: badge_safari_2026_marseille_day_01_title
-TEXT: Pokémon GO City Safari
+TEXT: Pokémon GO City Safari
 
 RESOURCE ID: badge_safari_2026_marseille_day_02_title
-TEXT: Pokémon GO City Safari
+TEXT: Pokémon GO City Safari
 
 RESOURCE ID: badge_safari_2026_munich_add_on_hatch_test_title
 TEXT: Pokémon GO City Safari—Egg-thusiast
 
 RESOURCE ID: badge_safari_2026_munich_add_on_hatch_title
-TEXT: Pokémon GO City Safari—Egg-thusiast
+TEXT: Pokémon GO City Safari – Bien-œufs-reux
 
 RESOURCE ID: badge_safari_2026_munich_add_on_raid_test_title
 TEXT: Pokémon GO City Safari—Raid Lover
 
 RESOURCE ID: badge_safari_2026_munich_add_on_raid_title
-TEXT: Pokémon GO City Safari—Raid Lover
+TEXT: Pokémon GO City Safari – Amoureux des Raids
 
 RESOURCE ID: badge_safari_2026_munich_day_00_title
-TEXT: Pokémon GO City Safari
+TEXT: Pokémon GO City Safari
 
 RESOURCE ID: badge_safari_2026_munich_day_01_title
-TEXT: Pokémon GO City Safari
+TEXT: Pokémon GO City Safari
 
 RESOURCE ID: badge_safari_2026_munich_day_02_title
-TEXT: Pokémon GO City Safari
+TEXT: Pokémon GO City Safari
 
 RESOURCE ID: badge_safari_2026_riodejaneiro_add_on_hatch_test_title
 TEXT: Pokémon GO City Safari—Egg-thusiast
 
 RESOURCE ID: badge_safari_2026_riodejaneiro_add_on_hatch_title
-TEXT: Pokémon GO City Safari—Egg-thusiast
+TEXT: Pokémon GO City Safari – Bien-œufs-reux
 
 RESOURCE ID: badge_safari_2026_riodejaneiro_add_on_raid_test_title
 TEXT: Pokémon GO City Safari—Raid Lover
 
 RESOURCE ID: badge_safari_2026_riodejaneiro_add_on_raid_title
-TEXT: Pokémon GO City Safari—Raid Lover
+TEXT: Pokémon GO City Safari – Amoureux des Raids
 
 RESOURCE ID: badge_safari_2026_riodejaneiro_day_00_title
-TEXT: Pokémon GO City Safari
+TEXT: Pokémon GO City Safari
 
 RESOURCE ID: badge_safari_2026_riodejaneiro_day_01_title
-TEXT: Pokémon GO City Safari
+TEXT: Pokémon GO City Safari
 
 RESOURCE ID: badge_safari_2026_riodejaneiro_day_02_title
-TEXT: Pokémon GO City Safari
+TEXT: Pokémon GO City Safari
 
 RESOURCE ID: badge_safari_2023_barcelona_add_on_hatch
 TEXT: Pokémon GO City Safari
@@ -14169,130 +14169,130 @@ RESOURCE ID: badge_safari_2025_vancouver_sunday
 TEXT: Vancouver le 28 septembre 2025
 
 RESOURCE ID: badge_safari_2026_boston_add_on_hatch
-TEXT: Boston 2026
+TEXT: Boston 2026
 
 RESOURCE ID: badge_safari_2026_boston_add_on_hatch_test
 TEXT: Boston 2026
 
 RESOURCE ID: badge_safari_2026_boston_add_on_raid
-TEXT: Boston 2026
+TEXT: Boston 2026
 
 RESOURCE ID: badge_safari_2026_boston_add_on_raid_test
 TEXT: Boston 2026
 
 RESOURCE ID: badge_safari_2026_boston_day_00
-TEXT: Boston 2026
+TEXT: Boston 2026
 
 RESOURCE ID: badge_safari_2026_boston_day_01
-TEXT: Boston, September 26, 2026
+TEXT: Boston, le 26 septembre 2026
 
 RESOURCE ID: badge_safari_2026_boston_day_02
-TEXT: Boston, September 27, 2026
+TEXT: Boston, le 27 septembre 2026
 
 RESOURCE ID: badge_safari_2026_brisbane_add_on_hatch
-TEXT: Brisbane 2026
+TEXT: Brisbane 2026
 
 RESOURCE ID: badge_safari_2026_brisbane_add_on_hatch_test
 TEXT: Brisbane 2026
 
 RESOURCE ID: badge_safari_2026_brisbane_add_on_raid
-TEXT: Brisbane 2026
+TEXT: Brisbane 2026
 
 RESOURCE ID: badge_safari_2026_brisbane_add_on_raid_test
 TEXT: Brisbane 2026
 
 RESOURCE ID: badge_safari_2026_brisbane_day_00
-TEXT: Brisbane 2026
+TEXT: Brisbane 2026
 
 RESOURCE ID: badge_safari_2026_brisbane_day_01
-TEXT: Brisbane, September 26, 2026
+TEXT: Brisbane, le 26 septembre 2026
 
 RESOURCE ID: badge_safari_2026_brisbane_day_02
-TEXT: Brisbane, September 27, 2026
+TEXT: Brisbane, le 27 septembre 2026
 
 RESOURCE ID: badge_safari_2026_lisbon_add_on_hatch
-TEXT: Lisbon 2026
+TEXT: Lisbonne 2026
 
 RESOURCE ID: badge_safari_2026_lisbon_add_on_hatch_test
 TEXT: Lisbon 2026
 
 RESOURCE ID: badge_safari_2026_lisbon_add_on_raid
-TEXT: Lisbon 2026
+TEXT: Lisbonne 2026
 
 RESOURCE ID: badge_safari_2026_lisbon_add_on_raid_test
 TEXT: Lisbon 2026
 
 RESOURCE ID: badge_safari_2026_lisbon_day_00
-TEXT: Lisbon 2026
+TEXT: Lisbonne 2026
 
 RESOURCE ID: badge_safari_2026_lisbon_day_01
-TEXT: Lisbon, September 26, 2026
+TEXT: Lisbonne, le 26 septembre 2026
 
 RESOURCE ID: badge_safari_2026_lisbon_day_02
-TEXT: Lisbon, September 27, 2026
+TEXT: Lisbonne, le 27 septembre 2026
 
 RESOURCE ID: badge_safari_2026_marseille_add_on_hatch
-TEXT: Marseille 2026
+TEXT: Marseille 2026
 
 RESOURCE ID: badge_safari_2026_marseille_add_on_hatch_test
 TEXT: Marseille 2026
 
 RESOURCE ID: badge_safari_2026_marseille_add_on_raid
-TEXT: Marseille 2026
+TEXT: Marseille 2026
 
 RESOURCE ID: badge_safari_2026_marseille_add_on_raid_test
 TEXT: Marseille 2026
 
 RESOURCE ID: badge_safari_2026_marseille_day_00
-TEXT: Marseille 2026
+TEXT: Marseille 2026
 
 RESOURCE ID: badge_safari_2026_marseille_day_01
-TEXT: Marseille, September 26, 2026
+TEXT: Marseille, le 26 septembre 2026
 
 RESOURCE ID: badge_safari_2026_marseille_day_02
-TEXT: Marseille, September 27, 2026
+TEXT: Marseille, le 27 septembre 2026
 
 RESOURCE ID: badge_safari_2026_munich_add_on_hatch
-TEXT: Munich 2026
+TEXT: Munich 2026
 
 RESOURCE ID: badge_safari_2026_munich_add_on_hatch_test
 TEXT: Munich 2026
 
 RESOURCE ID: badge_safari_2026_munich_add_on_raid
-TEXT: Munich 2026
+TEXT: Munich 2026
 
 RESOURCE ID: badge_safari_2026_munich_add_on_raid_test
 TEXT: Munich 2026
 
 RESOURCE ID: badge_safari_2026_munich_day_00
-TEXT: Munich 2026
+TEXT: Munich 2026
 
 RESOURCE ID: badge_safari_2026_munich_day_01
-TEXT: Munich, September 26, 2026
+TEXT: Munich, le 26 septembre 2026
 
 RESOURCE ID: badge_safari_2026_munich_day_02
-TEXT: Munich, September 27, 2026
+TEXT: Munich, le 27 septembre 2026
 
 RESOURCE ID: badge_safari_2026_riodejaneiro_add_on_hatch
-TEXT: Rio de Janeiro 2026
+TEXT: Rio de Janeiro 2026
 
 RESOURCE ID: badge_safari_2026_riodejaneiro_add_on_hatch_test
 TEXT: Rio de Janeiro 2026
 
 RESOURCE ID: badge_safari_2026_riodejaneiro_add_on_raid
-TEXT: Rio de Janeiro 2026
+TEXT: Rio de Janeiro 2026
 
 RESOURCE ID: badge_safari_2026_riodejaneiro_add_on_raid_test
 TEXT: Rio de Janeiro 2026
 
 RESOURCE ID: badge_safari_2026_riodejaneiro_day_00
-TEXT: Rio de Janeiro 2026
+TEXT: Rio de Janeiro 2026
 
 RESOURCE ID: badge_safari_2026_riodejaneiro_day_01
-TEXT: Rio de Janeiro, September 26, 2026
+TEXT: Rio de Janeiro, le 26 septembre 2026
 
 RESOURCE ID: badge_safari_2026_riodejaneiro_day_02
-TEXT: Rio de Janeiro, September 27, 2026
+TEXT: Rio de Janeiro, le 27 septembre 2026
 
 RESOURCE ID: badge_safari_zone_europe_2017_title
 TEXT: Parc Safari GO - Europe 2017
@@ -19629,6 +19629,9 @@ TEXT: 1 Super Bonbon L garanti pour chaque Lucario attrapé
 RESOURCE ID: bonus_rare_candy_xl_catch_origin
 TEXT: Un Super Bonbon L garanti pour chaque Dialga Originel ou Palkia Originel attrapé
 
+RESOURCE ID: bonus_rare_candy_xl_catch_starmie
+TEXT: One guaranteed Rare Candy XL when catching Starmie
+
 RESOURCE ID: bonus_rare_candy_xl_chance_raids
 TEXT: Plus de chances de recevoir un Super Bonbon L dans les Combats de Raids
 
@@ -19979,6 +19982,9 @@ TEXT: Les Pokémon de la région d’Unys apparaissent dans la nature !
 
 RESOURCE ID: bonus_today_zygarde_cell
 TEXT: Des Cellules de Zygarde peuvent apparaître à la fin de 5 Routes maximum
+
+RESOURCE ID: bonus_today_zygarde_cell_temp
+TEXT: Zygarde Cells can be claimed when completing a Route up to 5 times per day
 
 RESOURCE ID: bonus_total_6_special_trades
 TEXT: Un total de six Échanges spéciaux par jour
@@ -21466,6 +21472,9 @@ TEXT: Marche {0} km pour obtenir {1} PM
 
 RESOURCE ID: breakfast_tappable_tutorial_body
 TEXT: Tu peux trouver des Cellules de Zygarde lorsque tu suis une Route. Tu peux assembler les Cellules de Zygarde pour créer différentes formes de Zygarde.
+
+RESOURCE ID: breakfast_tappable_tutorial_body_temp
+TEXT: You can find Zygarde Cells after completing a Route. You can assemble Zygarde Cells to create different Zygarde forms.
 
 RESOURCE ID: breakthrough_free_remote_raid_pass
 TEXT: Passe de Raid à distance des Phases d’Études
@@ -28634,6 +28643,12 @@ TEXT: Hasami
 RESOURCE ID: city_manhole_476
 TEXT: Goto
 
+RESOURCE ID: city_manhole_480
+TEXT: Isahaya
+
+RESOURCE ID: city_manhole_481
+TEXT: Saikai
+
 RESOURCE ID: city_manhole_4(ibusuki)_d64e
 TEXT: Ibusuki
 
@@ -31824,7 +31839,7 @@ RESOURCE ID: dynamic_punch_+_move_content
 TEXT: Mewtwo rassemble ses forces et envoie des coups de poing à la cible pendant {0}. Augmente les dégâts contre les Pokémon méga-évolués dans les Raids et permet à ton Pokémon méga-évolué de briser deux boucliers dans les Super Méga-Raids.
 
 RESOURCE ID: dynamic_punch_adventure_effects_mapview_dialog
-TEXT: Mewtwo punches with full, concentrated power. Increases damage against Mega Pokémon in Raids and enables your Mega Pokémon to break two shields in Super Mega Raids.
+TEXT: Mewtwo punches with full, concentrated power. Increases damage against Mega-Evolved Pokémon in raids and enables your Mega-Evolved Pokémon to break two shields in Super Mega Raids.
 
 RESOURCE ID: dynamic_punch_adventure_effects_mapview_dialog_out
 TEXT: Mewtwo rassemble ses forces et envoie des coups de poing à la cible pendant {0}. Permet à ton Pokémon méga-évolué de briser deux boucliers dans les Super Méga-Raids.
@@ -31884,10 +31899,10 @@ RESOURCE ID: eevee_explorers_barcelona_title_00
 TEXT: Explorateurs Évoli – Barcelone (1/8)
 
 RESOURCE ID: eevee_explorers_boston_title
-TEXT: Eevee Explorers – Boston Stamp Rally
+TEXT: Explorateurs Évoli – Chasse aux tampons Boston
 
 RESOURCE ID: eevee_explorers_brisbane_title
-TEXT: Eevee Explorers – Brisbane Stamp Rally
+TEXT: Explorateurs Évoli – Chasse aux tampons Brisbane
 
 RESOURCE ID: eevee_explorers_buenosaires_title
 TEXT: Explorateurs Évoli – Chasse aux tampons Buenos Aires
@@ -31908,10 +31923,10 @@ RESOURCE ID: eevee_explorers_jakarta_title_00
 TEXT: Explorateurs Évoli – Jakarta (1/1)
 
 RESOURCE ID: eevee_explorers_lisbon_title
-TEXT: Eevee Explorers – Lisbon Stamp Rally
+TEXT: Explorateurs Évoli – Chasse aux tampons Lisbonne
 
 RESOURCE ID: eevee_explorers_marseille_title
-TEXT: Eevee Explorers – Marseille Stamp Rally
+TEXT: Explorateurs Évoli – Chasse aux tampons Marseille
 
 RESOURCE ID: eevee_explorers_mexico_city_title
 TEXT: Explorateurs Évoli – Mexico
@@ -31935,10 +31950,10 @@ RESOURCE ID: eevee_explorers_mumbai_title_00
 TEXT: Explorateurs Évoli – Mumbai (1/1)
 
 RESOURCE ID: eevee_explorers_munich_title
-TEXT: Eevee Explorers – Munich Stamp Rally
+TEXT: Explorateurs Évoli – Chasse aux tampons Munich
 
 RESOURCE ID: eevee_explorers_riodejaneiro_title
-TEXT: Eevee Explorers – Rio de Janeiro Stamp Rally
+TEXT: Explorateurs Évoli – Chasse aux tampons Rio de Janeiro
 
 RESOURCE ID: eevee_explorers_santiago_title
 TEXT: Explorateurs Évoli – Santiago
@@ -33613,7 +33628,7 @@ RESOURCE ID: event_datetime_range_key_megaskarmoryraidday
 TEXT: Le 27 juin de 14h à 17h
 
 RESOURCE ID: event_datetime_range_key_megastarmieraidday
-TEXT: Le 20 août de 11h à 17h
+TEXT: Le 22 août de 11h à 17h
 
 RESOURCE ID: event_datetime_range_key_monochromeholidaysdec2024
 TEXT: Du 22 décembre à 10h 
@@ -34830,7 +34845,7 @@ TEXT: Purchase GO Pass Deluxe: GO Fest 2026 Mega Finale to unlock the following!
 • And more!
 
 RESOURCE ID: event_pass_gofest2026_finale_weekend_wild_shiny_bonus
-TEXT: Increased chance of encountering Shiny featured Pokémon in the wild during GO Fest 2026: Mega Finale event hours
+TEXT: Increased chance of encountering Shiny featured Pokémon in the wild during GO Fest 2026: Mega Finale weekend event hours
 
 RESOURCE ID: event_pass_gofest2026_premium_track_title
 TEXT: Passe GO deluxe : Voie des légendes
@@ -38969,7 +38984,7 @@ RESOURCE ID: future_sight_+_move_content
 TEXT: Mewtwo libère de l’énergie psychique pendant {0}, révélant les Pokémon aux stats élevées.
 
 RESOURCE ID: future_sight_adventure_effects_mapview_dialog
-TEXT: Mewtwo releases a hunk of psychic energy, revealing Pokémon with high stats before they are caught.
+TEXT: Mewtwo releases a hunk of psychic energy, revealing when encountered Pokémon have high stats.
 
 RESOURCE ID: future_sight_adventure_effects_mapview_dialog_out
 TEXT: Mewtwo libère de l’énergie psychique pendant {0}, révélant les Pokémon aux stats élevées rencontrés dans la nature ou après qu’un Raid a été remporté.
@@ -39141,6 +39156,9 @@ TEXT: Un total de 10 séries de combats dans la Ligue Combat GO
 
 RESOURCE ID: gbl_sets_extra_twenty_total
 TEXT: Un total de 20 séries de combats dans la Ligue Combat GO
+
+RESOURCE ID: gbl_stat_variance_bonus
+TEXT: Non-Legendary Pokémon caught from the GO Battle League will have a wider variance of Attack, Defense, and HP
 
 RESOURCE ID: gbl_ticket_research_title
 TEXT: Étude ponctuelle Ligue Combat GO
@@ -41202,6 +41220,9 @@ TEXT: Ticket pour l’évènement Terres Sauvages Pokémon GO 2025 : Mondial
 
 RESOURCE ID: general2.ticket._gowa25_leadup_title
 TEXT: Ticket pour l’Étude ponctuelle premium Préparatifs sauvages
+
+RESOURCE ID: general2.ticket._gowa26_title
+TEXT: Pokémon GO Wild Area 2026 Global Ticket
 
 RESOURCE ID: general2.ticket._megagalladeraidday_title
 TEXT: Ticket pour la Journée de Raids Méga-Gallame
@@ -54906,6 +54927,9 @@ TEXT: Un ticket pour accéder à l’Étude spéciale de l’évènement Terres 
 RESOURCE ID: item_global_event_ticket_desc_gowa25
 TEXT: Un ticket pour accéder à l’Étude spéciale Terres Sauvages Pokémon GO 2025 : Mondial les 15 et 16 novembre 2025, heures locales, où que tu sois.
 
+RESOURCE ID: item_global_event_ticket_desc_gowa26
+TEXT: A ticket to access the Pokémon GO Wild Area 2026: Global Special Research on November 14 and November 15, 2026, local time, wherever you are.
+
 RESOURCE ID: item_global_event_ticket_desc_hisuiandecidueye
 TEXT: Un ticket pour accéder à des bonus spéciaux le dimanche 11 février 2024 de 14h à 22h (heures locales), où que tu sois.
 
@@ -54961,6 +54985,11 @@ RESOURCE ID: item_global_event_ticket_details_gowa25
 TEXT: Ce ticket s’activera automatiquement pour te donner accès à l’Étude spéciale Terres Sauvages Pokémon GO 2025 : Mondial les 15 et 16 novembre, heures locales, où que tu sois. Consulte les Actualités en jeu pour plus d’infos.
 
 Tu dois jouer pendant les heures indiquées pour recevoir tous les bonus de cet évènement spécial.
+
+RESOURCE ID: item_global_event_ticket_details_gowa26
+TEXT: This ticket will automatically activate to give you access to the Pokémon GO Wild Area 2026: Global Special Research on November 14 and 15, local time, wherever you are. Details can be found in the in-game News.
+
+You must play during the specified time to receive all the event bonuses.
 
 RESOURCE ID: item_global_event_ticket_details_hisuiandecidueye
 TEXT: Ce ticket s’activera automatiquement pour te donner accès à des bonus spéciaux le 11 février, où que tu sois.
@@ -59076,7 +59105,7 @@ RESOURCE ID: lobby_ready_progress
 TEXT: Prêtes : {0} sur {1}
 
 RESOURCE ID: lobby_shield_break_power
-TEXT: Shield break potential
+TEXT: {0}/{1} Shield break potential
 
 RESOURCE ID: local_bonus_event_tag
 TEXT: Bonus local
@@ -61751,10 +61780,10 @@ at SHA 4d4f3e80cc7fb911006bd14d198c9831ef66d005
 Pipeline 339838, job 2672172
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-08-06T02:14:44.768040+00:00 for fr-FR
-at SHA 46aa1b7c9a2
-Pipeline 3855357, job 56696459
-Patch from: 0.421.0-SHA-1cc74f81-RC5, 0.423.1-SHA-70644676-RC1, 0.425.0-SHA-18d2732c-RC2
+TEXT: Built at 2026-08-10T23:29:18.099028+00:00 for fr-FR
+at SHA 7467817e563
+Pipeline 3866309, job 56846989
+Patch from: 0.425.0-SHA-73e817e6-RC3, 0.423.1-SHA-70644676-RC1
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: Étude ponctuelle : Choisis ton type de combat
@@ -82000,8 +82029,29 @@ TEXT: Pokémon Presents
 RESOURCE ID: pokemon_purified_message
 TEXT: Tu as purifié {pokemon_display_name}.
 
+RESOURCE ID: pokemon_run_2026_hongkong_title
+TEXT: Pokémon RUN 30 : Édition Hong Kong
+
+RESOURCE ID: pokemon_run_2026_indonesia_title
+TEXT: Pokémon RUN 30 : Édition Indonésie
+
+RESOURCE ID: pokemon_run_2026_malaysia_title
+TEXT: Pokémon RUN 30 : Édition Malaisie
+
+RESOURCE ID: pokemon_run_2026_philippines_title
+TEXT: Pokémon RUN 30 : Édition Philippines
+
 RESOURCE ID: pokemon_run_2026_seoul_title
 TEXT: Pokémon RUN 2026 à Séoul
+
+RESOURCE ID: pokemon_run_2026_singapore_title
+TEXT: Pokémon RUN 30 : Édition Singapour
+
+RESOURCE ID: pokemon_run_2026_taiwan_title
+TEXT: Pokémon RUN 30 : Édition Taïwan
+
+RESOURCE ID: pokemon_run_2026_thailand_title
+TEXT: Pokémon RUN 30 : Édition Thaïlande
 
 RESOURCE ID: pokemon_shiny_info_transfer_to_professor_confirmation
 TEXT: Veux-tu vraiment transférer ce Pokémon chromatique ?
@@ -85973,10 +86023,10 @@ RESOURCE ID: quest_event_eevee_snapshot_barcelona
 TEXT: Prends une photo de ton Évoli à Barcelone
 
 RESOURCE ID: quest_event_eevee_snapshot_boston
-TEXT: Take a snapshot of your Eevee in Boston
+TEXT: Prends une photo de ton Évoli à Boston
 
 RESOURCE ID: quest_event_eevee_snapshot_brisbane
-TEXT: Take a snapshot of your Eevee in Brisbane
+TEXT: Prends une photo de ton Évoli à Brisbane
 
 RESOURCE ID: quest_event_eevee_snapshot_buenosaires
 TEXT: Prends une photo de ton Évoli à Buenos Aires
@@ -85988,10 +86038,10 @@ RESOURCE ID: quest_event_eevee_snapshot_jakarta
 TEXT: Prends une photo de ton Évoli à Jakarta
 
 RESOURCE ID: quest_event_eevee_snapshot_lisbon
-TEXT: Take a snapshot of your Eevee in Lisbon
+TEXT: Prends une photo de ton Évoli à Lisbonne
 
 RESOURCE ID: quest_event_eevee_snapshot_marseille
-TEXT: Take a snapshot of your Eevee in Marseille
+TEXT: Prends une photo de ton Évoli à Marseille
 
 RESOURCE ID: quest_event_eevee_snapshot_miami
 TEXT: Prends une photo de ton Évoli à Miami
@@ -86003,10 +86053,10 @@ RESOURCE ID: quest_event_eevee_snapshot_mumbai
 TEXT: Prends une photo de ton Évoli à Mumbai
 
 RESOURCE ID: quest_event_eevee_snapshot_munich
-TEXT: Take a snapshot of your Eevee in Munich
+TEXT: Prends une photo de ton Évoli à Munich
 
 RESOURCE ID: quest_event_eevee_snapshot_riodejaneiro
-TEXT: Take a snapshot of your Eevee in Rio de Janeiro
+TEXT: Prends une photo de ton Évoli à Rio de Janeiro
 
 RESOURCE ID: quest_event_eevee_snapshot_santiago
 TEXT: Prends une photo de ton Évoli à Santiago
@@ -86060,10 +86110,10 @@ RESOURCE ID: quest_event_spin_barcelona
 TEXT: Fais tourner un PokéStop ou une Arène à Barcelone
 
 RESOURCE ID: quest_event_spin_boston
-TEXT: Spin a PokéStop or Gym in Boston
+TEXT: Fais tourner un PokéStop ou une Arène à Boston
 
 RESOURCE ID: quest_event_spin_brisbane
-TEXT: Spin a PokéStop or Gym in Brisbane
+TEXT: Fais tourner un PokéStop ou une Arène à Brisbane
 
 RESOURCE ID: quest_event_spin_buenosaires
 TEXT: Fais tourner un PokéStop ou une Arène à Buenos Aires
@@ -86078,10 +86128,10 @@ RESOURCE ID: quest_event_spin_jakarta
 TEXT: Fais tourner un PokéStop ou une Arène à Jakarta
 
 RESOURCE ID: quest_event_spin_lisbon
-TEXT: Spin a PokéStop or Gym in Lisbon
+TEXT: Fais tourner un PokéStop ou une Arène à Lisbonne
 
 RESOURCE ID: quest_event_spin_marseille
-TEXT: Spin a PokéStop or Gym in Marseille
+TEXT: Fais tourner un PokéStop ou une Arène à Marseille
 
 RESOURCE ID: quest_event_spin_miami
 TEXT: Fais tourner un PokéStop ou une Arène à Miami
@@ -86093,10 +86143,10 @@ RESOURCE ID: quest_event_spin_mumbai
 TEXT: Fais tourner un PokéStop ou une Arène à Mumbai
 
 RESOURCE ID: quest_event_spin_munich
-TEXT: Spin a PokéStop or Gym in Munich
+TEXT: Fais tourner un PokéStop ou une Arène à Munich
 
 RESOURCE ID: quest_event_spin_riodejaneiro
-TEXT: Spin a PokéStop or Gym in Rio de Janeiro
+TEXT: Fais tourner un PokéStop ou Arène à Rio de Janeiro
 
 RESOURCE ID: quest_event_spin_santiago
 TEXT: Fais tourner un PokéStop ou une Arène à Santiago
@@ -99884,8 +99934,14 @@ TEXT: Pendant que tu explorais, j’ai lu des rapports d’observation provenant
 RESOURCE ID: quest_special_dialogue_zygarde_1_2
 TEXT: Plusieurs d’entre eux affirmaient avoir trouvé des masses vertes et informes en explorant des Routes. Certains pensent même qu’elles sont vivantes !
 
+RESOURCE ID: quest_special_dialogue_zygarde_1_2_temp
+TEXT: Curiously, several mentioned unusual activity along nearby Routes. Some Trainers even said they spotted something they couldn’t quite identify!
+
 RESOURCE ID: quest_special_dialogue_zygarde_1_3
 TEXT: J’ai une théorie sur ce que ces masses peuvent être, mais je voudrais faire quelques recherches supplémentaires, et peut-être relire l’article dont je te parlais plus tôt...
+
+RESOURCE ID: quest_special_dialogue_zygarde_1_3_temp
+TEXT: I have a theory about what might be drawing attention out there, but I’d like to look through my research materials a tad more first. Maybe even reread that article from earlier...
 
 RESOURCE ID: quest_special_dialogue_zygarde_1_4
 TEXT: Continue tes explorations. Je suis sûr que j’aurai des informations plus substantielles à te donner quand tu reviendras me voir.
@@ -99922,6 +99978,9 @@ TEXT: C’est là que mon cadeau entre en jeu ! Tu peux utiliser la Boîte Zyga
 
 RESOURCE ID: quest_special_dialogue_zygarde_3_5
 TEXT: Tu te demandes sans doute où trouver ces Cellules... Tu te souviens de ces masses vertes et informes dont la présence a été signalée sur les Routes ? Eh bien, je pense que ce sont des Cellules de Zygarde !
+
+RESOURCE ID: quest_special_dialogue_zygarde_3_5_temp
+TEXT: And where can you find those Cells? Well, do you recall the unusual activity along Routes I mentioned earlier? I reckon it may have been caused by Zygarde Cells!
 
 RESOURCE ID: quest_special_dialogue_zygarde_3_6
 TEXT: Pourrais-tu vérifier cette hypothèse, %PLAYERNAME% ?
@@ -110105,76 +110164,76 @@ RESOURCE ID: rally_city_safari_2025_vancouver_rewards_desc_general
 TEXT: Parcours la ville pour rencontrer Évoli coiffé d’un chapeau d’explorateur et doté d’un Fond de lieu de Vancouver exclusif.
 
 RESOURCE ID: rally_city_safari_2026_boston_desc
-TEXT: Welcome to City Safari: Boston!
+TEXT: Bienvenue au City Safari : Boston !
 
 RESOURCE ID: rally_city_safari_2026_boston_desc_detail
-TEXT: Encounter up to eight Eevee per ticketed event day by visiting special PokéStops around the Boston. See the map for more details.
+TEXT: Rencontre jusqu’à huit Évoli par journée d’évènement avec ticket en visitant des PokéStops spéciaux dans Boston. Consulte la carte pour plus d’informations.
 
 RESOURCE ID: rally_city_safari_2026_boston_location
-TEXT: Boston, USA
+TEXT: Boston, États-Unis
 
 RESOURCE ID: rally_city_safari_2026_boston_rewards_desc_general
-TEXT: Explore the city to encounter Eevee wearing an explorer hat, featuring an exclusive Boston Location Background.
+TEXT: Parcours la ville pour rencontrer Évoli coiffé d’un chapeau d’explorateur et doté d’un Fond de lieu de Boston exclusif.
 
 RESOURCE ID: rally_city_safari_2026_brisbane_desc
-TEXT: Welcome to City Safari: Brisbane!
+TEXT: Bienvenue dans le City Safari : Brisbane !
 
 RESOURCE ID: rally_city_safari_2026_brisbane_desc_detail
-TEXT: Encounter up to eight Eevee per ticketed event day by visiting special PokéStops around Brisbane. See the map for more details.
+TEXT: Rencontre jusqu’à huit Évoli par journée d’évènement avec ticket en visitant des PokéStops spéciaux dans Brisbane. Consulte la carte pour plus d’informations.
 
 RESOURCE ID: rally_city_safari_2026_brisbane_location
-TEXT: Brisbane, Australia
+TEXT: Brisbane, Australie
 
 RESOURCE ID: rally_city_safari_2026_brisbane_rewards_desc_general
-TEXT: Explore the city to encounter Eevee wearing an explorer hat, featuring an exclusive Brisbane Location Background.
+TEXT: Parcours la ville pour rencontrer Évoli coiffé d’un chapeau d’explorateur et doté d’un Fond de lieu de Brisbane exclusif.
 
 RESOURCE ID: rally_city_safari_2026_lisbon_desc
-TEXT: Welcome to City Safari: Lisbon!
+TEXT: Bienvenue dans le City Safari : Lisbonne !
 
 RESOURCE ID: rally_city_safari_2026_lisbon_desc_detail
-TEXT: Encounter up to eight Eevee per ticketed event day by visiting special PokéStops around Lisbon. See the map for more details.
+TEXT: Rencontre jusqu’à huit Évoli par journée d’évènement avec ticket en visitant des PokéStops spéciaux dans Lisbonne. Consulte la carte pour plus d’informations.
 
 RESOURCE ID: rally_city_safari_2026_lisbon_location
-TEXT: Lisbon, Portugal
+TEXT: Lisbonne, Portugal
 
 RESOURCE ID: rally_city_safari_2026_lisbon_rewards_desc_general
-TEXT: Explore the city to encounter Eevee wearing an explorer hat, featuring an exclusive Lisbon Location Background.
+TEXT: Parcours la ville pour rencontrer Évoli coiffé d’un chapeau d’explorateur et doté d’un Fond de lieu de Lisbonne exclusif.
 
 RESOURCE ID: rally_city_safari_2026_marseille_desc
-TEXT: Welcome to City Safari: Marseille!
+TEXT: Bienvenue dans le City Safari : Marseille !
 
 RESOURCE ID: rally_city_safari_2026_marseille_desc_detail
-TEXT: Encounter up to eight Eevee per ticketed event day by visiting special PokéStops around Marseille. See the map for more details.
+TEXT: Rencontre jusqu’à huit Évoli par journée d’évènement avec ticket en visitant des PokéStops spéciaux dans Marseille. Consulte la carte pour plus d’informations.
 
 RESOURCE ID: rally_city_safari_2026_marseille_location
 TEXT: Marseille, France
 
 RESOURCE ID: rally_city_safari_2026_marseille_rewards_desc_general
-TEXT: Explore the city to encounter Eevee wearing an explorer hat, featuring an exclusive Marseille Location Background.
+TEXT: Parcours la ville pour rencontrer Évoli coiffé d’un chapeau d’explorateur et doté d’un Fond de lieu de Marseille exclusif.
 
 RESOURCE ID: rally_city_safari_2026_munich_desc
-TEXT: Welcome to City Safari: Munich!
+TEXT: Bienvenue dans le City Safari : Munich !
 
 RESOURCE ID: rally_city_safari_2026_munich_desc_detail
-TEXT: Encounter up to eight Eevee per ticketed event day by visiting special PokéStops around Munich. See the map for more details.
+TEXT: Rencontre jusqu’à huit Évoli par journée d’évènement avec ticket en visitant des PokéStops spéciaux dans Munich. Consulte la carte pour plus d’informations.
 
 RESOURCE ID: rally_city_safari_2026_munich_location
-TEXT: Munich, Germany
+TEXT: Munich, Allemagne
 
 RESOURCE ID: rally_city_safari_2026_munich_rewards_desc_general
-TEXT: Explore the city to encounter Eevee wearing an explorer hat, featuring an exclusive Munich Location Background.
+TEXT: Parcours la ville pour rencontrer Évoli coiffé d’un chapeau d’explorateur et doté d’un Fond de lieu de Munich exclusif.
 
 RESOURCE ID: rally_city_safari_2026_riodejaneiro_desc
-TEXT: Welcome to City Safari: Rio de Janeiro!
+TEXT: Bienvenue dans le City Safari : Rio de Janeiro !
 
 RESOURCE ID: rally_city_safari_2026_riodejaneiro_desc_detail
-TEXT: Encounter up to eight Eevee per ticketed event day by visiting special PokéStops around the Rio de Janeiro. See the map for more details.
+TEXT: Rencontre jusqu’à huit Évoli par journée d’évènement avec ticket en visitant des PokéStops spéciaux dans Rio de Janeiro. Consulte la carte pour plus d’informations.
 
 RESOURCE ID: rally_city_safari_2026_riodejaneiro_location
-TEXT: Rio de Janeiro, Brazil
+TEXT: Rio de Janeiro, Brésil
 
 RESOURCE ID: rally_city_safari_2026_riodejaneiro_rewards_desc_general
-TEXT: Explore the city to encounter Eevee wearing an explorer hat, featuring an exclusive Rio de Janeiro Location Background.
+TEXT: Parcours la ville pour rencontrer Évoli coiffé d’un chapeau d’explorateur et doté d’un Fond de lieu de Rio de Janeiro exclusif.
 
 RESOURCE ID: rally_expo_2025_title
 TEXT: Chasse aux tampons EXPO 2025
@@ -111347,6 +111406,9 @@ TEXT: Reste près de l’itinéraire de la Route pour que la distance soit enreg
 
 RESOURCE ID: report_route_bug_info_zygarde
 TEXT: Les Cellules de Zygarde n’apparaissent pas forcément sur toutes les Routes.
+
+RESOURCE ID: report_route_bug_info_zygarde_temp
+TEXT: Zygarde Cells are not guaranteed to appear at the end of every Route.
 
 RESOURCE ID: report_route_bug_reason_candy
 TEXT: Mon copain n’a pas gagné des Bonbons plus vite sur cette Route.
@@ -114588,22 +114650,22 @@ RESOURCE ID: safari_city_2025_vancouver_title
 TEXT: City Safari : Vancouver 2025
 
 RESOURCE ID: safari_city_2026_boston_title
-TEXT: City Safari: Boston 2026
+TEXT: City Safari : Boston 2026
 
 RESOURCE ID: safari_city_2026_brisbane_title
-TEXT: City Safari: Brisbane 2026
+TEXT: City Safari : Brisbane 2026
 
 RESOURCE ID: safari_city_2026_lisbon_title
-TEXT: City Safari: Lisbon 2026
+TEXT: City Safari : Lisbonne 2026
 
 RESOURCE ID: safari_city_2026_marseille_title
-TEXT: City Safari: Marseille 2026
+TEXT: City Safari : Marseille 2026
 
 RESOURCE ID: safari_city_2026_munich_title
-TEXT: City Safari: Munich 2026
+TEXT: City Safari : Munich 2026
 
 RESOURCE ID: safari_city_2026_riodejaneiro_title
-TEXT: City Safari: Rio de Janeiro 2026
+TEXT: City Safari: Rio de Janeiro 2026
 
 RESOURCE ID: safari_city_2023_barcelona_title_00
 TEXT: City Safari : Barcelone 2023 (1/3)
@@ -114663,22 +114725,22 @@ RESOURCE ID: safari_city_2025_vancouver_title_00
 TEXT: City Safari : Vancouver 2025 (1/3)
 
 RESOURCE ID: safari_city_2026_boston_title_00
-TEXT: City Safari: Boston 2026 (1/3)
+TEXT: City Safari : Boston 2026 (1/3)
 
 RESOURCE ID: safari_city_2026_brisbane_title_00
-TEXT: City Safari: Brisbane 2026 (1/3)
+TEXT: City Safari : Brisbane 2026 (1/3)
 
 RESOURCE ID: safari_city_2026_lisbon_title_00
-TEXT: City Safari: Lisbon 2026 (1/3)
+TEXT: City Safari : Lisbonne 2026 (1/3)
 
 RESOURCE ID: safari_city_2026_marseille_title_00
-TEXT: City Safari: Marseille 2026 (1/3)
+TEXT: City Safari : Marseille 2026 (1/3)
 
 RESOURCE ID: safari_city_2026_munich_title_00
-TEXT: City Safari: Munich 2026 (1/3)
+TEXT: City Safari : Munich 2026 (1/3)
 
 RESOURCE ID: safari_city_2026_riodejaneiro_title_00
-TEXT: City Safari: Rio de Janeiro 2026 (1/3)
+TEXT: City Safari : Rio de Janeiro 2026 (1/3)
 
 RESOURCE ID: safari_city_2023_barcelona_title_01
 TEXT: City Safari : Barcelone 2023 (2/3)
@@ -114738,22 +114800,22 @@ RESOURCE ID: safari_city_2025_vancouver_title_01
 TEXT: City Safari : Vancouver 2025 (2/3)
 
 RESOURCE ID: safari_city_2026_boston_title_01
-TEXT: City Safari: Boston 2026 (2/3)
+TEXT: City Safari : Boston 2026 (2/3)
 
 RESOURCE ID: safari_city_2026_brisbane_title_01
-TEXT: City Safari: Brisbane 2026 (2/3)
+TEXT: City Safari : Brisbane 2026 (2/3)
 
 RESOURCE ID: safari_city_2026_lisbon_title_01
-TEXT: City Safari: Lisbon 2026 (2/3)
+TEXT: City Safari : Lisbonne 2026 (2/3)
 
 RESOURCE ID: safari_city_2026_marseille_title_01
-TEXT: City Safari: Marseille 2026 (2/3)
+TEXT: City Safari : Marseille 2026 (2/3)
 
 RESOURCE ID: safari_city_2026_munich_title_01
-TEXT: City Safari: Munich 2026 (2/3)
+TEXT: City Safari : Munich 2026 (2/3)
 
 RESOURCE ID: safari_city_2026_riodejaneiro_title_01
-TEXT: City Safari: Rio de Janeiro 2026 (2/3)
+TEXT: City Safari : Rio de Janeiro 2026 (2/3)
 
 RESOURCE ID: safari_city_2023_barcelona_title_02
 TEXT: City Safari : Barcelone 2023 (3/3)
@@ -114813,22 +114875,22 @@ RESOURCE ID: safari_city_2025_vancouver_title_02
 TEXT: City Safari : Vancouver 2025 (3/3)
 
 RESOURCE ID: safari_city_2026_boston_title_02
-TEXT: City Safari: Boston 2026 (3/3)
+TEXT: City Safari : Boston 2026 (3/3)
 
 RESOURCE ID: safari_city_2026_brisbane_title_02
-TEXT: City Safari: Brisbane 2026 (3/3)
+TEXT: City Safari : Brisbane 2026 (3/3)
 
 RESOURCE ID: safari_city_2026_lisbon_title_02
-TEXT: City Safari: Lisbon 2026 (3/3)
+TEXT: City Safari : Lisbonne 2026 (3/3)
 
 RESOURCE ID: safari_city_2026_marseille_title_02
-TEXT: City Safari: Marseille 2026 (3/3)
+TEXT: City Safari : Marseille 2026 (3/3)
 
 RESOURCE ID: safari_city_2026_munich_title_02
-TEXT: City Safari: Munich 2026 (3/3)
+TEXT: City Safari : Munich 2026 (3/3)
 
 RESOURCE ID: safari_city_2026_riodejaneiro_title_02
-TEXT: City Safari: Rio de Janeiro 2026 (3/3)
+TEXT: City Safari : Rio de Janeiro 2026 (3/3)
 
 RESOURCE ID: safari_city_leave_behind_dialog_00_00
 TEXT: Bonjour, %PLAYERNAME%. C’est super de te voir ici ! C’est l’une de mes villes préférées, et elle est aussi très appréciée par d’autres Dresseurs et Dresseuses Pokémon !
@@ -125119,6 +125181,16 @@ TEXT: <b>Donne accès aux bonus suivants :</b>
 
 <a href="https://pokemongolive.com/gowildarea/global">Obtiens plus d’informations sur les bonus du ticket ici</a>.
 
+RESOURCE ID: text_rewards_key_gowa26
+TEXT: <b>Includes:</b>
+• Up to 6 free Raid Passes each day from spinning Gym Photo Discs
+• Increased chance of receiving event 10 km Eggs from Poké Stops
+• Up to 6 Special Trades per day and reduced Stardust cost for trades
+• 1/2 hatch distance for eggs placed in incubators
+• 2x catch candy for catching Pokémon
+• A higher chance to encounter Shiny Pokémon during the event
+Learn more about the ticket bonuses <a href=“pokemongo.com/gowildarea/global”>here</a>.
+
 RESOURCE ID: text_rewards_key_growingup0525
 TEXT: <b>Donne accès aux récompenses suivantes :</b>
 • Des rencontres avec Magicarpe, Wailmer, Tylton, Lucario, Sovkipou, Minisange et Compagnol
@@ -127659,6 +127731,12 @@ TEXT: Étude ponctuelle bonus Mystère Max
 RESOURCE ID: title_tr_max_mystery_00
 TEXT: Étude ponctuelle bonus Mystère Max (1/1)
 
+RESOURCE ID: title_tr_pxp_2026_stream
+TEXT: PokémonXP Bonus Timed Research
+
+RESOURCE ID: title_tr_pxp_2026_stream_00
+TEXT: PokémonXP Bonus Timed Research (1/1)
+
 RESOURCE ID: title_tr_wcs_2023_champ
 TEXT: Champion du Monde Pokémon 2023 : Étude ponctuelle bonus
 
@@ -127689,6 +127767,48 @@ TEXT: Esprit d’équipe : Ligue Super – Étude ponctuelle bonus (2/3)
 RESOURCE ID: title_tr_wcs_2024_team_building_02
 TEXT: Esprit d’équipe : Ligue Super – Étude ponctuelle bonus (3/3)
 
+RESOURCE ID: title_tr_wcs_2025_champ
+TEXT: Étude ponctuelle bonus Champion du Monde Pokémon 2025
+
+RESOURCE ID: title_tr_wcs_2025_champ_00
+TEXT: Étude ponctuelle bonus Champion du Monde Pokémon 2025 (1/2)
+
+RESOURCE ID: title_tr_wcs_2025_champ_01
+TEXT: Étude ponctuelle bonus Champion du Monde Pokémon 2025 (2/2)
+
+RESOURCE ID: title_tr_wcs_2026_team_building
+TEXT: Étude ponctuelle bonus Esprit d’équipe : Ligue Super
+
+RESOURCE ID: title_tr_wcs_2026_team_building_00
+TEXT: Étude ponctuelle bonus Esprit d’équipe : Ligue Super (1/3)
+
+RESOURCE ID: title_tr_wcs_2026_team_building_01
+TEXT: Étude ponctuelle bonus Esprit d’équipe : Ligue Super (2/3)
+
+RESOURCE ID: title_tr_wcs_2026_team_building_02
+TEXT: Étude ponctuelle bonus Esprit d’équipe : Ligue Super (3/3)
+
+RESOURCE ID: title_tr_wcs_2026_team_building_dialog_00
+TEXT: Bonjour, %PLAYERNAME% ! Le moment est venu de choisir ton équipe pour tester tes compétences en combat.
+
+RESOURCE ID: title_tr_wcs_2026_team_building_path_a
+TEXT: Choisir Excelangue
+
+RESOURCE ID: title_tr_wcs_2026_team_building_path_a_desc
+TEXT: Choisis ce parcours pour obtenir des rencontres avec Excelangue, Tylton et Tiplouf ainsi que des récompenses telles que des Poussières Étoiles et des Bonbons.
+
+RESOURCE ID: title_tr_wcs_2026_team_building_path_b
+TEXT: Choisir Kaiminus
+
+RESOURCE ID: title_tr_wcs_2026_team_building_path_b_desc
+TEXT: Choisis ce parcours pour obtenir des rencontres avec Kaiminus, Marill et Pomdepik ainsi que des récompenses telles que des Poussières Étoiles et des Bonbons.
+
+RESOURCE ID: title_tr_wcs_2026_team_building_path_c
+TEXT: Choisir Axoloto de Paldea
+
+RESOURCE ID: title_tr_wcs_2026_team_building_path_c_desc
+TEXT: Choisis ce parcours pour obtenir des rencontres avec Fouinette, Kecleon et Axoloto de Paldea ainsi que des récompenses telles que des Poussières Étoiles et des Bonbons.
+
 RESOURCE ID: title_tr_wcs_anaheim_greetings
 TEXT: Étude ponctuelle bonus Bonjour d’Anaheim !
 
@@ -127700,6 +127820,12 @@ TEXT: Étude ponctuelle bonus : Bonjour d’Honolulu !
 
 RESOURCE ID: title_tr_wcs_honolulu_greetings_00
 TEXT: Étude ponctuelle bonus : Bonjour d’Honolulu ! (1/1)
+
+RESOURCE ID: title_tr_wcs_sanfrancisco_greetings
+TEXT: Étude ponctuelle bonus Bonjour de San Francisco !
+
+RESOURCE ID: title_tr_wcs_sanfrancisco_greetings_00
+TEXT: Étude ponctuelle bonus Bonjour de San Francisco ! (1/1)
 
 RESOURCE ID: title_unown_o_clock
 TEXT: Heure de Zarbi
@@ -133186,6 +133312,24 @@ TEXT: Choisis Fouinette
 
 RESOURCE ID: wcs_2025_great_league_tr_path_c_desc
 TEXT: Crée et entraîne une équipe pour la Ligue Super de la Ligue Combat GO comprenant Fouinar, Maraiste et Sarmuraï.
+
+RESOURCE ID: wcs_2026_irl_surprise_tr_dialog_00_00
+TEXT: Tu sais, %PLAYERNAME%... Je me suis penché sur le phénomène de la Méga-Évolution, et je dois dire que trois Pokémon hors du commun ont retenu mon attention. Je veux bien sûr parler de Blindépique, Goupelin et Amphinobi !
+
+RESOURCE ID: wcs_2026_irl_surprise_tr_dialog_00_01
+TEXT: Tout ce qui sort de l’ordinaire mérite d’être étudié, et chacun de ces Pokémon a sa propre particularité. Alors, quel que soit le parcours choisi, tu feras forcément des découvertes fascinantes !
+
+RESOURCE ID: wcs_2026_irl_surprise_tr_dialog_01_00
+TEXT: Excellent choix ! À vrai dire, je savais que tu opterais pour celui-là ! Voyons ce Pokémon de plus près... Que peut bien nous apprendre sa Méga-Évolution ?
+
+RESOURCE ID: wcs_2026_irl_surprise_tr_dialog_01_01_chesnaught
+TEXT: Méga-Blindépique... Son armure est aussi solide que sa détermination. Percer ses secrets est une tâche épineuse !
+
+RESOURCE ID: wcs_2026_irl_surprise_tr_dialog_01_01_delphox
+TEXT: Méga-Goupelin... Ce Pokémon manipule des branches enflammées pour envoûter ses adversaires, puis réduit ces derniers en cendres avec une énorme boule de feu. Un sujet de recherche parfait pour celles et ceux qui aiment jouer avec le feu !
+
+RESOURCE ID: wcs_2026_irl_surprise_tr_dialog_01_01_greninja
+TEXT: Méga-Amphinobi... Ce Pokémon fait tournoyer un shuriken géant à toute vitesse pour le faire flotter, puis s’y accroche la tête en bas afin de prendre ses ennemis par surprise. Et ça, je ne l’avais pas vu venir !
 
 RESOURCE ID: wcs_2026_sf_event_title_extended
 TEXT: San Francisco 2026 Pokémon World Championships Extended Bonuses

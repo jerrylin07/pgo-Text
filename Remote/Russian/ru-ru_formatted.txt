@@ -13427,127 +13427,127 @@ RESOURCE ID: badge_safari_2026_boston_add_on_hatch_test_title
 TEXT: Pokémon GO City Safari—Egg-thusiast
 
 RESOURCE ID: badge_safari_2026_boston_add_on_hatch_title
-TEXT: Pokémon GO City Safari—Egg-thusiast
+TEXT: Городское Сафари Pokémon GO – Яичный Энтузиазм
 
 RESOURCE ID: badge_safari_2026_boston_add_on_raid_test_title
 TEXT: Pokémon GO City Safari—Raid Lover
 
 RESOURCE ID: badge_safari_2026_boston_add_on_raid_title
-TEXT: Pokémon GO City Safari—Raid Lover
+TEXT: Городское Сафари Pokémon GO – Любовь к Рейдам
 
 RESOURCE ID: badge_safari_2026_boston_day_00_title
-TEXT: Pokémon GO City Safari
+TEXT: Городское Сафари Pokémon GO
 
 RESOURCE ID: badge_safari_2026_boston_day_01_title
-TEXT: Pokémon GO City Safari
+TEXT: Городское Сафари Pokémon GO
 
 RESOURCE ID: badge_safari_2026_boston_day_02_title
-TEXT: Pokémon GO City Safari
+TEXT: Городское Сафари Pokémon GO
 
 RESOURCE ID: badge_safari_2026_brisbane_add_on_hatch_test_title
 TEXT: Pokémon GO City Safari—Egg-thusiast
 
 RESOURCE ID: badge_safari_2026_brisbane_add_on_hatch_title
-TEXT: Pokémon GO City Safari—Egg-thusiast
+TEXT: Городское Сафари Pokémon GO – Яичный Энтузиазм
 
 RESOURCE ID: badge_safari_2026_brisbane_add_on_raid_test_title
 TEXT: Pokémon GO City Safari—Raid Lover
 
 RESOURCE ID: badge_safari_2026_brisbane_add_on_raid_title
-TEXT: Pokémon GO City Safari—Raid Lover
+TEXT: Городское Сафари Pokémon GO – Любовь к Рейдам
 
 RESOURCE ID: badge_safari_2026_brisbane_day_00_title
-TEXT: Pokémon GO City Safari
+TEXT: Городское Сафари Pokémon GO
 
 RESOURCE ID: badge_safari_2026_brisbane_day_01_title
-TEXT: Pokémon GO City Safari
+TEXT: Городское Сафари Pokémon GO
 
 RESOURCE ID: badge_safari_2026_brisbane_day_02_title
-TEXT: Pokémon GO City Safari
+TEXT: Городское Сафари Pokémon GO
 
 RESOURCE ID: badge_safari_2026_lisbon_add_on_hatch_test_title
 TEXT: Pokémon GO City Safari—Egg-thusiast
 
 RESOURCE ID: badge_safari_2026_lisbon_add_on_hatch_title
-TEXT: Pokémon GO City Safari—Egg-thusiast
+TEXT: Городское Сафари Pokémon GO – Яичный Энтузиазм
 
 RESOURCE ID: badge_safari_2026_lisbon_add_on_raid_test_title
 TEXT: Pokémon GO City Safari—Raid Lover
 
 RESOURCE ID: badge_safari_2026_lisbon_add_on_raid_title
-TEXT: Pokémon GO City Safari—Raid Lover
+TEXT: Городское Сафари Pokémon GO – Любовь к Рейдам
 
 RESOURCE ID: badge_safari_2026_lisbon_day_00_title
-TEXT: Pokémon GO City Safari
+TEXT: Городское Сафари Pokémon GO
 
 RESOURCE ID: badge_safari_2026_lisbon_day_01_title
-TEXT: Pokémon GO City Safari
+TEXT: Городское Сафари Pokémon GO
 
 RESOURCE ID: badge_safari_2026_lisbon_day_02_title
-TEXT: Pokémon GO City Safari
+TEXT: Городское Сафари Pokémon GO
 
 RESOURCE ID: badge_safari_2026_marseille_add_on_hatch_test_title
 TEXT: Pokémon GO City Safari—Egg-thusiast
 
 RESOURCE ID: badge_safari_2026_marseille_add_on_hatch_title
-TEXT: Pokémon GO City Safari—Egg-thusiast
+TEXT: Городское Сафари Pokémon GO – Яичный Энтузиазм
 
 RESOURCE ID: badge_safari_2026_marseille_add_on_raid_test_title
 TEXT: Pokémon GO City Safari—Raid Lover
 
 RESOURCE ID: badge_safari_2026_marseille_add_on_raid_title
-TEXT: Pokémon GO City Safari—Raid Lover
+TEXT: Городское Сафари Pokémon GO – Любовь к Рейдам
 
 RESOURCE ID: badge_safari_2026_marseille_day_00_title
-TEXT: Pokémon GO City Safari
+TEXT: Городское Сафари Pokémon GO
 
 RESOURCE ID: badge_safari_2026_marseille_day_01_title
-TEXT: Pokémon GO City Safari
+TEXT: Городское Сафари Pokémon GO
 
 RESOURCE ID: badge_safari_2026_marseille_day_02_title
-TEXT: Pokémon GO City Safari
+TEXT: Городское Сафари Pokémon GO
 
 RESOURCE ID: badge_safari_2026_munich_add_on_hatch_test_title
 TEXT: Pokémon GO City Safari—Egg-thusiast
 
 RESOURCE ID: badge_safari_2026_munich_add_on_hatch_title
-TEXT: Pokémon GO City Safari—Egg-thusiast
+TEXT: Городское Сафари Pokémon GO – Яичный Энтузиазм
 
 RESOURCE ID: badge_safari_2026_munich_add_on_raid_test_title
 TEXT: Pokémon GO City Safari—Raid Lover
 
 RESOURCE ID: badge_safari_2026_munich_add_on_raid_title
-TEXT: Pokémon GO City Safari—Raid Lover
+TEXT: Городское Сафари Pokémon GO – Любовь к Рейдам
 
 RESOURCE ID: badge_safari_2026_munich_day_00_title
-TEXT: Pokémon GO City Safari
+TEXT: Городское Сафари Pokémon GO
 
 RESOURCE ID: badge_safari_2026_munich_day_01_title
-TEXT: Pokémon GO City Safari
+TEXT: Городское Сафари Pokémon GO
 
 RESOURCE ID: badge_safari_2026_munich_day_02_title
-TEXT: Pokémon GO City Safari
+TEXT: Городское Сафари Pokémon GO
 
 RESOURCE ID: badge_safari_2026_riodejaneiro_add_on_hatch_test_title
 TEXT: Pokémon GO City Safari—Egg-thusiast
 
 RESOURCE ID: badge_safari_2026_riodejaneiro_add_on_hatch_title
-TEXT: Pokémon GO City Safari—Egg-thusiast
+TEXT: Городское Сафари Pokémon GO – Яичный Энтузиазм
 
 RESOURCE ID: badge_safari_2026_riodejaneiro_add_on_raid_test_title
 TEXT: Pokémon GO City Safari—Raid Lover
 
 RESOURCE ID: badge_safari_2026_riodejaneiro_add_on_raid_title
-TEXT: Pokémon GO City Safari—Raid Lover
+TEXT: Городское Сафари Pokémon GO – Любовь к Рейдам
 
 RESOURCE ID: badge_safari_2026_riodejaneiro_day_00_title
-TEXT: Pokémon GO City Safari
+TEXT: Городское Сафари Pokémon GO
 
 RESOURCE ID: badge_safari_2026_riodejaneiro_day_01_title
-TEXT: Pokémon GO City Safari
+TEXT: Городское Сафари Pokémon GO
 
 RESOURCE ID: badge_safari_2026_riodejaneiro_day_02_title
-TEXT: Pokémon GO City Safari
+TEXT: Городское Сафари Pokémon GO
 
 RESOURCE ID: badge_safari_2023_barcelona_add_on_hatch
 TEXT: Городское сафари Pokémon GO
@@ -14024,130 +14024,130 @@ RESOURCE ID: badge_safari_2025_vancouver_sunday
 TEXT: Ванкувер, 28 сентября 2025
 
 RESOURCE ID: badge_safari_2026_boston_add_on_hatch
-TEXT: Boston 2026
+TEXT: Бостон 2026
 
 RESOURCE ID: badge_safari_2026_boston_add_on_hatch_test
 TEXT: Boston 2026
 
 RESOURCE ID: badge_safari_2026_boston_add_on_raid
-TEXT: Boston 2026
+TEXT: Бостон 2026
 
 RESOURCE ID: badge_safari_2026_boston_add_on_raid_test
 TEXT: Boston 2026
 
 RESOURCE ID: badge_safari_2026_boston_day_00
-TEXT: Boston 2026
+TEXT: Бостон 2026
 
 RESOURCE ID: badge_safari_2026_boston_day_01
-TEXT: Boston, September 26, 2026
+TEXT: Бостон, 26 сентября 2026
 
 RESOURCE ID: badge_safari_2026_boston_day_02
-TEXT: Boston, September 27, 2026
+TEXT: Бостон, 27 сентября 2026
 
 RESOURCE ID: badge_safari_2026_brisbane_add_on_hatch
-TEXT: Brisbane 2026
+TEXT: Брисбен 2026
 
 RESOURCE ID: badge_safari_2026_brisbane_add_on_hatch_test
 TEXT: Brisbane 2026
 
 RESOURCE ID: badge_safari_2026_brisbane_add_on_raid
-TEXT: Brisbane 2026
+TEXT: Брисбен 2026
 
 RESOURCE ID: badge_safari_2026_brisbane_add_on_raid_test
 TEXT: Brisbane 2026
 
 RESOURCE ID: badge_safari_2026_brisbane_day_00
-TEXT: Brisbane 2026
+TEXT: Брисбен 2026
 
 RESOURCE ID: badge_safari_2026_brisbane_day_01
-TEXT: Brisbane, September 26, 2026
+TEXT: Брисбен, 26 сентября 2026
 
 RESOURCE ID: badge_safari_2026_brisbane_day_02
-TEXT: Brisbane, September 27, 2026
+TEXT: Брисбен, 27 сентября 2026
 
 RESOURCE ID: badge_safari_2026_lisbon_add_on_hatch
-TEXT: Lisbon 2026
+TEXT: Лиссабон 2026
 
 RESOURCE ID: badge_safari_2026_lisbon_add_on_hatch_test
 TEXT: Lisbon 2026
 
 RESOURCE ID: badge_safari_2026_lisbon_add_on_raid
-TEXT: Lisbon 2026
+TEXT: Лиссабон 2026
 
 RESOURCE ID: badge_safari_2026_lisbon_add_on_raid_test
 TEXT: Lisbon 2026
 
 RESOURCE ID: badge_safari_2026_lisbon_day_00
-TEXT: Lisbon 2026
+TEXT: Лиссабон 2026
 
 RESOURCE ID: badge_safari_2026_lisbon_day_01
-TEXT: Lisbon, September 26, 2026
+TEXT: Лиссабон, 26 сентября 2026
 
 RESOURCE ID: badge_safari_2026_lisbon_day_02
-TEXT: Lisbon, September 27, 2026
+TEXT: Лиссабон, 27 сентября 2026
 
 RESOURCE ID: badge_safari_2026_marseille_add_on_hatch
-TEXT: Marseille 2026
+TEXT: Марсель 2026
 
 RESOURCE ID: badge_safari_2026_marseille_add_on_hatch_test
 TEXT: Marseille 2026
 
 RESOURCE ID: badge_safari_2026_marseille_add_on_raid
-TEXT: Marseille 2026
+TEXT: Марсель 2026
 
 RESOURCE ID: badge_safari_2026_marseille_add_on_raid_test
 TEXT: Marseille 2026
 
 RESOURCE ID: badge_safari_2026_marseille_day_00
-TEXT: Marseille 2026
+TEXT: Марсель 2026
 
 RESOURCE ID: badge_safari_2026_marseille_day_01
-TEXT: Marseille, September 26, 2026
+TEXT: Марсель, 26 сентября 2026
 
 RESOURCE ID: badge_safari_2026_marseille_day_02
-TEXT: Marseille, September 27, 2026
+TEXT: Марсель, 27 сентября 2026
 
 RESOURCE ID: badge_safari_2026_munich_add_on_hatch
-TEXT: Munich 2026
+TEXT: Мюнхен 2026
 
 RESOURCE ID: badge_safari_2026_munich_add_on_hatch_test
 TEXT: Munich 2026
 
 RESOURCE ID: badge_safari_2026_munich_add_on_raid
-TEXT: Munich 2026
+TEXT: Мюнхен 2026
 
 RESOURCE ID: badge_safari_2026_munich_add_on_raid_test
 TEXT: Munich 2026
 
 RESOURCE ID: badge_safari_2026_munich_day_00
-TEXT: Munich 2026
+TEXT: Мюнхен 2026
 
 RESOURCE ID: badge_safari_2026_munich_day_01
-TEXT: Munich, September 26, 2026
+TEXT: Мюнхен, 26 сентября 2026
 
 RESOURCE ID: badge_safari_2026_munich_day_02
-TEXT: Munich, September 27, 2026
+TEXT: Мюнхен, 27 сентября 2026
 
 RESOURCE ID: badge_safari_2026_riodejaneiro_add_on_hatch
-TEXT: Rio de Janeiro 2026
+TEXT: Рио-де-Жанейро 2026
 
 RESOURCE ID: badge_safari_2026_riodejaneiro_add_on_hatch_test
 TEXT: Rio de Janeiro 2026
 
 RESOURCE ID: badge_safari_2026_riodejaneiro_add_on_raid
-TEXT: Rio de Janeiro 2026
+TEXT: Рио-де-Жанейро 2026
 
 RESOURCE ID: badge_safari_2026_riodejaneiro_add_on_raid_test
 TEXT: Rio de Janeiro 2026
 
 RESOURCE ID: badge_safari_2026_riodejaneiro_day_00
-TEXT: Rio de Janeiro 2026
+TEXT: Рио-де-Жанейро 2026
 
 RESOURCE ID: badge_safari_2026_riodejaneiro_day_01
-TEXT: Rio de Janeiro, September 26, 2026
+TEXT: Рио-де-Жанейро, 26 сентября 2026
 
 RESOURCE ID: badge_safari_2026_riodejaneiro_day_02
-TEXT: Rio de Janeiro, September 27, 2026
+TEXT: Рио-де-Жанейро, 27 сентября 2026
 
 RESOURCE ID: badge_safari_zone_europe_2017_title
 TEXT: Зона Сафари GO – Европа 2017
@@ -19480,6 +19480,9 @@ TEXT: 1  гарантированная Редкая Конфета XL за �
 RESOURCE ID: bonus_rare_candy_xl_catch_origin
 TEXT: Одна гарантированная Редкая Конфета XL за поимку Диалги-Исходная Форма или Палкии-Исходная Форма
 
+RESOURCE ID: bonus_rare_candy_xl_catch_starmie
+TEXT: One guaranteed Rare Candy XL when catching Starmie
+
 RESOURCE ID: bonus_rare_candy_xl_chance_raids
 TEXT: Больше шансов получить Редкие Конфеты XL в рейдах
 
@@ -19830,6 +19833,9 @@ TEXT: Появляются дикие Покемоны из региона Юн�
 
 RESOURCE ID: bonus_today_zygarde_cell
 TEXT: Клетки Зайгарда могут появляться в конце Маршрутов, до 5 Маршрутов в день
+
+RESOURCE ID: bonus_today_zygarde_cell_temp
+TEXT: Zygarde Cells can be claimed when completing a Route up to 5 times per day
 
 RESOURCE ID: bonus_total_6_special_trades
 TEXT: Шесть специальных обменов в день
@@ -21316,6 +21322,9 @@ TEXT: Пройди {0} км, чтобы собрать {1} ЧМ
 
 RESOURCE ID: breakfast_tappable_tutorial_body
 TEXT: Во время прохождения маршрута ты можешь найти клетки Зайгарда. Их можно соединить, чтобы создать разные формы Зайгарда.
+
+RESOURCE ID: breakfast_tappable_tutorial_body_temp
+TEXT: You can find Zygarde Cells after completing a Route. You can assemble Zygarde Cells to create different Zygarde forms.
 
 RESOURCE ID: breakthrough_free_remote_raid_pass
 TEXT: Пропуск на удалённый рейд за научный прорыв
@@ -28487,6 +28496,12 @@ TEXT: Hasami
 RESOURCE ID: city_manhole_476
 TEXT: Goto
 
+RESOURCE ID: city_manhole_480
+TEXT: Isahaya
+
+RESOURCE ID: city_manhole_481
+TEXT: Saikai
+
 RESOURCE ID: city_manhole_4(ibusuki)_d64e
 TEXT: Ибусуки
 
@@ -31672,7 +31687,7 @@ RESOURCE ID: dynamic_punch_+_move_content
 TEXT: Мьюту наносит концентрированные удары в полную силу {0}. Увеличивается урон по Мегаэволюционировавшим Покемонам в рейдах и позволяет твоему Мегаэволюционировавшему Покемону сломать два щита в Супер-Мегарейдах.
 
 RESOURCE ID: dynamic_punch_adventure_effects_mapview_dialog
-TEXT: Mewtwo punches with full, concentrated power. Increases damage against Mega Pokémon in Raids and enables your Mega Pokémon to break two shields in Super Mega Raids.
+TEXT: Mewtwo punches with full, concentrated power. Increases damage against Mega-Evolved Pokémon in raids and enables your Mega-Evolved Pokémon to break two shields in Super Mega Raids.
 
 RESOURCE ID: dynamic_punch_adventure_effects_mapview_dialog_out
 TEXT: Мьюту наносит удары крепкими кулаками {0}. Позволяет твоему Мегаэволюционировавшему Покемону  сломать два щита в Супер-Мегарейдах.
@@ -31732,10 +31747,10 @@ RESOURCE ID: eevee_explorers_barcelona_title_00
 TEXT: Исследователи Иви – Барселона (1/8)
 
 RESOURCE ID: eevee_explorers_boston_title
-TEXT: Eevee Explorers – Boston Stamp Rally
+TEXT: Исследователи Иви – Марафон Печатей Бостон
 
 RESOURCE ID: eevee_explorers_brisbane_title
-TEXT: Eevee Explorers – Brisbane Stamp Rally
+TEXT: Исследователи Иви – Марафон Печатей Брисбен
 
 RESOURCE ID: eevee_explorers_buenosaires_title
 TEXT: Исследователи Иви – Марафон Печатей Буэнос-Айрес
@@ -31756,10 +31771,10 @@ RESOURCE ID: eevee_explorers_jakarta_title_00
 TEXT: Исследователи Иви – Джакарта (1/1)
 
 RESOURCE ID: eevee_explorers_lisbon_title
-TEXT: Eevee Explorers – Lisbon Stamp Rally
+TEXT: Исследователи Иви – Марафон Печатей Лиссабон
 
 RESOURCE ID: eevee_explorers_marseille_title
-TEXT: Eevee Explorers – Marseille Stamp Rally
+TEXT: Исследователи Иви – Марафон Печатей Марсель
 
 RESOURCE ID: eevee_explorers_mexico_city_title
 TEXT: Исследователи Иви – Мехико
@@ -31783,10 +31798,10 @@ RESOURCE ID: eevee_explorers_mumbai_title_00
 TEXT: Исследователи Иви – Мумбаи (1/1)
 
 RESOURCE ID: eevee_explorers_munich_title
-TEXT: Eevee Explorers – Munich Stamp Rally
+TEXT: Исследователи Иви – Марафон Печатей Мюнхен
 
 RESOURCE ID: eevee_explorers_riodejaneiro_title
-TEXT: Eevee Explorers – Rio de Janeiro Stamp Rally
+TEXT: Исследователи Иви – Марафон Печатей Рио-де-Жанейро
 
 RESOURCE ID: eevee_explorers_santiago_title
 TEXT: Исследователи Иви – Сантьяго 
@@ -33463,7 +33478,7 @@ RESOURCE ID: event_datetime_range_key_megaskarmoryraidday
 TEXT: 27 июня, 14:00 – 17:00
 
 RESOURCE ID: event_datetime_range_key_megastarmieraidday
-TEXT: 20 августа, 11:00 – 17:00
+TEXT: 22 августа, 11:00 – 17:00
 
 RESOURCE ID: event_datetime_range_key_monochromeholidaysdec2024
 TEXT: 10:00 22 декабря –
@@ -34682,7 +34697,7 @@ TEXT: Purchase GO Pass Deluxe: GO Fest 2026 Mega Finale to unlock the following!
 • And more!
 
 RESOURCE ID: event_pass_gofest2026_finale_weekend_wild_shiny_bonus
-TEXT: Increased chance of encountering Shiny featured Pokémon in the wild during GO Fest 2026: Mega Finale event hours
+TEXT: Increased chance of encountering Shiny featured Pokémon in the wild during GO Fest 2026: Mega Finale weekend event hours
 
 RESOURCE ID: event_pass_gofest2026_premium_track_title
 TEXT: Делюкс-Пропуск GO: Дорога Легенд
@@ -38806,7 +38821,7 @@ RESOURCE ID: future_sight_+_move_content
 TEXT: Мьюту выпускает психическую энергию {0}, показывая, когда у встречающихся Покемонов высокие характеристики.
 
 RESOURCE ID: future_sight_adventure_effects_mapview_dialog
-TEXT: Mewtwo releases a hunk of psychic energy, revealing Pokémon with high stats before they are caught.
+TEXT: Mewtwo releases a hunk of psychic energy, revealing when encountered Pokémon have high stats.
 
 RESOURCE ID: future_sight_adventure_effects_mapview_dialog_out
 TEXT: Мьюту выпускает психическую энергию {0}, показывая, когда у Покемонов, встречающихся в дикой природе или после рейдов, высокие характеристики.
@@ -38975,6 +38990,9 @@ TEXT: До 10 серий битв в Боевой Лиге GO
 
 RESOURCE ID: gbl_sets_extra_twenty_total
 TEXT: Всего 20 серий битв в Боевой лиге GO
+
+RESOURCE ID: gbl_stat_variance_bonus
+TEXT: Non-Legendary Pokémon caught from the GO Battle League will have a wider variance of Attack, Defense, and HP
 
 RESOURCE ID: gbl_ticket_research_title
 TEXT: Квест на время в Боевой Лиге GO
@@ -41057,6 +41075,9 @@ TEXT: Билет: Нетронутые Земли Pokémon GO 2025: По Все
 
 RESOURCE ID: general2.ticket._gowa25_leadup_title
 TEXT: Билет: Премиум-Квест на Время Приготовься к Неизведанному
+
+RESOURCE ID: general2.ticket._gowa26_title
+TEXT: Pokémon GO Wild Area 2026 Global Ticket
 
 RESOURCE ID: general2.ticket._megagalladeraidday_title
 TEXT: Билет: рейдовый день: Мега-Галлейд
@@ -54762,6 +54783,9 @@ TEXT: Билет, дающий доступ к специальному квес
 RESOURCE ID: item_global_event_ticket_desc_gowa25
 TEXT: Билет, дающий доступ к Специальному Квесту Нетронутые Земли Pokémon GO 2025: По Всему Миру 15 и 16 ноября 2025 по местному времени, вне зависимости от твоего местонахождения.
 
+RESOURCE ID: item_global_event_ticket_desc_gowa26
+TEXT: A ticket to access the Pokémon GO Wild Area 2026: Global Special Research on November 14 and November 15, 2026, local time, wherever you are.
+
 RESOURCE ID: item_global_event_ticket_desc_hisuiandecidueye
 TEXT: Билет, дающий доступ к специальным бонусам 11 февраля 2024 с 14:00 до 22:00 по местному времени, вне зависимости от твоего местонахождения.
 
@@ -54817,6 +54841,11 @@ RESOURCE ID: item_global_event_ticket_details_gowa25
 TEXT: Этот билет активируется автоматически, чтобы дать тебе доступ к Специальному Квесту Нетронутые Земли Pokémon GO 2025: По Всему Миру 15 и 16 ноября 2025 по местному времени, вне зависимости от твоего местонахождения. Подробности можно найти во внутриигровых Новостях.
 
 Чтобы получить все бонусы события, необходимо играть в указанное время.
+
+RESOURCE ID: item_global_event_ticket_details_gowa26
+TEXT: This ticket will automatically activate to give you access to the Pokémon GO Wild Area 2026: Global Special Research on November 14 and 15, local time, wherever you are. Details can be found in the in-game News.
+
+You must play during the specified time to receive all the event bonuses.
 
 RESOURCE ID: item_global_event_ticket_details_hisuiandecidueye
 TEXT: Этот билет активируется автоматически, чтобы дать тебе доступ к специальным бонусам 11 февраля, вне зависимости от твоего местонахождения.
@@ -58932,7 +58961,7 @@ RESOURCE ID: lobby_ready_progress
 TEXT: Готовы: {0} из {1}
 
 RESOURCE ID: lobby_shield_break_power
-TEXT: Shield break potential
+TEXT: {0}/{1} Shield break potential
 
 RESOURCE ID: local_bonus_event_tag
 TEXT: Местный бонус
@@ -61603,10 +61632,10 @@ at SHA bacc02371739993984570a6f5b31a993cf3b031b
 Pipeline 498004, job 4265729
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-08-06T02:14:44.768040+00:00 for ru-RU
-at SHA 46aa1b7c9a2
-Pipeline 3855357, job 56696459
-Patch from: 0.421.0-SHA-1cc74f81-RC5, 0.423.1-SHA-70644676-RC1, 0.425.0-SHA-18d2732c-RC2
+TEXT: Built at 2026-08-10T23:29:18.099028+00:00 for ru-RU
+at SHA 7467817e563
+Pipeline 3866309, job 56846989
+Patch from: 0.425.0-SHA-73e817e6-RC3, 0.423.1-SHA-70644676-RC1
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: ‎Квест на время: Боевой тип
@@ -81842,8 +81871,29 @@ TEXT: Pokémon Presents
 RESOURCE ID: pokemon_purified_message
 TEXT: You have purified {0}!
 
+RESOURCE ID: pokemon_run_2026_hongkong_title
+TEXT: Pokémon RUN 30: Гонконг
+
+RESOURCE ID: pokemon_run_2026_indonesia_title
+TEXT: Pokémon RUN 30: Индонезия
+
+RESOURCE ID: pokemon_run_2026_malaysia_title
+TEXT: Pokémon RUN 30: Малайзия
+
+RESOURCE ID: pokemon_run_2026_philippines_title
+TEXT: Pokémon RUN 30: Филиппины
+
 RESOURCE ID: pokemon_run_2026_seoul_title
 TEXT: Pokémon RUN 2026 в Сеуле
+
+RESOURCE ID: pokemon_run_2026_singapore_title
+TEXT: Pokémon RUN 30: Сингапур
+
+RESOURCE ID: pokemon_run_2026_taiwan_title
+TEXT: Pokémon RUN 30: Тайвань
+
+RESOURCE ID: pokemon_run_2026_thailand_title
+TEXT: Pokémon RUN 30: Таиланд
 
 RESOURCE ID: pokemon_shiny_info_transfer_to_professor_confirmation
 TEXT: Ты действительно хочешь передать этого Сияющего Покемона?
@@ -85816,10 +85866,10 @@ RESOURCE ID: quest_event_eevee_snapshot_barcelona
 TEXT: Сделай фото своего Иви в Барселоне
 
 RESOURCE ID: quest_event_eevee_snapshot_boston
-TEXT: Take a snapshot of your Eevee in Boston
+TEXT: Сделай фото своего Иви в Бостоне
 
 RESOURCE ID: quest_event_eevee_snapshot_brisbane
-TEXT: Take a snapshot of your Eevee in Brisbane
+TEXT: Сделай фото своего Иви в Брисбене
 
 RESOURCE ID: quest_event_eevee_snapshot_buenosaires
 TEXT: Сделай фото своего Иви в Буэнос-Айресе
@@ -85831,10 +85881,10 @@ RESOURCE ID: quest_event_eevee_snapshot_jakarta
 TEXT: Сделай фото своего Иви в Джакарте
 
 RESOURCE ID: quest_event_eevee_snapshot_lisbon
-TEXT: Take a snapshot of your Eevee in Lisbon
+TEXT: Сделай фото своего Иви в Лиссабоне
 
 RESOURCE ID: quest_event_eevee_snapshot_marseille
-TEXT: Take a snapshot of your Eevee in Marseille
+TEXT: Сделай фото своего Иви в Марселе
 
 RESOURCE ID: quest_event_eevee_snapshot_miami
 TEXT: Сделай фото своего Иви в Майами
@@ -85846,10 +85896,10 @@ RESOURCE ID: quest_event_eevee_snapshot_mumbai
 TEXT: Сделай фото своего Иви в Мумбаи
 
 RESOURCE ID: quest_event_eevee_snapshot_munich
-TEXT: Take a snapshot of your Eevee in Munich
+TEXT: Сделай фото своего Иви в Мюнхене
 
 RESOURCE ID: quest_event_eevee_snapshot_riodejaneiro
-TEXT: Take a snapshot of your Eevee in Rio de Janeiro
+TEXT: Сделай фото своего Иви в Рио-де-Жанейро
 
 RESOURCE ID: quest_event_eevee_snapshot_santiago
 TEXT: Сделай фото своего Иви в Сантьяго
@@ -85903,10 +85953,10 @@ RESOURCE ID: quest_event_spin_barcelona
 TEXT: Покрути 1 Покестоп или Гим в Барселоне
 
 RESOURCE ID: quest_event_spin_boston
-TEXT: Spin a PokéStop or Gym in Boston
+TEXT: Покрути 1 Покестоп или Гим в Бостоне
 
 RESOURCE ID: quest_event_spin_brisbane
-TEXT: Spin a PokéStop or Gym in Brisbane
+TEXT: Покрути 1 Покестоп или Гим в Брисбене
 
 RESOURCE ID: quest_event_spin_buenosaires
 TEXT: Покрути 1 Покестоп или Гим в Буэнос-Айресе
@@ -85921,10 +85971,10 @@ RESOURCE ID: quest_event_spin_jakarta
 TEXT: Покрути 1 Покестоп или Гим в Джакарте
 
 RESOURCE ID: quest_event_spin_lisbon
-TEXT: Spin a PokéStop or Gym in Lisbon
+TEXT: Покрути 1 Покестоп или Гим в Лиссабоне
 
 RESOURCE ID: quest_event_spin_marseille
-TEXT: Spin a PokéStop or Gym in Marseille
+TEXT: Покрути 1 Покестоп или Гим в Марселе
 
 RESOURCE ID: quest_event_spin_miami
 TEXT: Покрути 1 Покестоп или Гим в Майами
@@ -85936,10 +85986,10 @@ RESOURCE ID: quest_event_spin_mumbai
 TEXT: Покрути 1 Покестоп или Гим в Мумбаи
 
 RESOURCE ID: quest_event_spin_munich
-TEXT: Spin a PokéStop or Gym in Munich
+TEXT: Покрути 1 Покестоп или Гим в Мюнхене
 
 RESOURCE ID: quest_event_spin_riodejaneiro
-TEXT: Spin a PokéStop or Gym in Rio de Janeiro
+TEXT: Покрути 1 Покестоп или Гим в Рио-де-Жанейро
 
 RESOURCE ID: quest_event_spin_santiago
 TEXT: Покрути 1 Покестоп или Гим в Сантьяго
@@ -99711,8 +99761,14 @@ TEXT: Пока тебя не было, я читал отчёты с наблю�
 RESOURCE ID: quest_special_dialogue_zygarde_1_2
 TEXT: Любопытно, что несколько Тренеров упоминают бесформенные зелёные капли, которые они нашли на своих маршрутах. Некоторые Тренеры даже думали, что эти штуки могут быть живыми!
 
+RESOURCE ID: quest_special_dialogue_zygarde_1_2_temp
+TEXT: Curiously, several mentioned unusual activity along nearby Routes. Some Trainers even said they spotted something they couldn’t quite identify!
+
 RESOURCE ID: quest_special_dialogue_zygarde_1_3
 TEXT: У меня есть теория о том, что представляет собой эта нестабильная масса. Но я хочу снова просмотреть все материалы этого исследования. Может, даже перечитать статью, о которой я упоминал ранее...
+
+RESOURCE ID: quest_special_dialogue_zygarde_1_3_temp
+TEXT: I have a theory about what might be drawing attention out there, but I’d like to look through my research materials a tad more first. Maybe even reread that article from earlier...
 
 RESOURCE ID: quest_special_dialogue_zygarde_1_4
 TEXT: Ну а пока продолжай свои исследования. Я уверен, что смогу предоставить тебе менее бесформенные сведения, когда ты вернёшься.
@@ -99749,6 +99805,9 @@ TEXT: И тут как раз и пригодится мой подарок! К�
 
 RESOURCE ID: quest_special_dialogue_zygarde_3_5
 TEXT: По поводу того, где найти эти клетки... Помнишь те зелёные капли, которые мы обнаружили вдоль маршрутов? Я предполагаю, что они как раз и были клетками Зайгарда!
+
+RESOURCE ID: quest_special_dialogue_zygarde_3_5_temp
+TEXT: And where can you find those Cells? Well, do you recall the unusual activity along Routes I mentioned earlier? I reckon it may have been caused by Zygarde Cells!
 
 RESOURCE ID: quest_special_dialogue_zygarde_3_6
 TEXT: Можешь ли ты проверить эту гипотезу, %PLAYERNAME%?
@@ -109932,76 +109991,76 @@ RESOURCE ID: rally_city_safari_2025_vancouver_rewards_desc_general
 TEXT: Исследуй город, чтобы встретить Иви в шляпе исследователя с эксклюзивным Фоном Места Ванкувер.
 
 RESOURCE ID: rally_city_safari_2026_boston_desc
-TEXT: Welcome to City Safari: Boston!
+TEXT: Добро пожаловать на Городское Сафари: Бостон!
 
 RESOURCE ID: rally_city_safari_2026_boston_desc_detail
-TEXT: Encounter up to eight Eevee per ticketed event day by visiting special PokéStops around the Boston. See the map for more details.
+TEXT: До 8 встреч с Иви по билетам в день события при посещении специальных Покестопов по всему Бостону. Чтобы узнать больше, посмотри на карту.
 
 RESOURCE ID: rally_city_safari_2026_boston_location
-TEXT: Boston, USA
+TEXT: Бостон, США
 
 RESOURCE ID: rally_city_safari_2026_boston_rewards_desc_general
-TEXT: Explore the city to encounter Eevee wearing an explorer hat, featuring an exclusive Boston Location Background.
+TEXT: Исследуй город, чтобы встретить Иви в шляпе исследователя с эксклюзивным Фоном Места Бостон.
 
 RESOURCE ID: rally_city_safari_2026_brisbane_desc
-TEXT: Welcome to City Safari: Brisbane!
+TEXT: Добро пожаловать на Городское Сафари: Брисбен!
 
 RESOURCE ID: rally_city_safari_2026_brisbane_desc_detail
-TEXT: Encounter up to eight Eevee per ticketed event day by visiting special PokéStops around Brisbane. See the map for more details.
+TEXT: До 8 встреч с Иви по билетам в день события при посещении специальных Покестопов по всему Брисбену. Чтобы узнать больше, посмотри на карту.
 
 RESOURCE ID: rally_city_safari_2026_brisbane_location
-TEXT: Brisbane, Australia
+TEXT: Брисбен, Австралия
 
 RESOURCE ID: rally_city_safari_2026_brisbane_rewards_desc_general
-TEXT: Explore the city to encounter Eevee wearing an explorer hat, featuring an exclusive Brisbane Location Background.
+TEXT: Исследуй город, чтобы встретить Иви в шляпе исследователя с эксклюзивным Фоном Места Брисбен.
 
 RESOURCE ID: rally_city_safari_2026_lisbon_desc
-TEXT: Welcome to City Safari: Lisbon!
+TEXT: Добро пожаловать на Городское Сафари: Лиссабон!
 
 RESOURCE ID: rally_city_safari_2026_lisbon_desc_detail
-TEXT: Encounter up to eight Eevee per ticketed event day by visiting special PokéStops around Lisbon. See the map for more details.
+TEXT: До 8 встреч с Иви по билетам в день события при посещении специальных Покестопов по всему Лиссабону. Чтобы узнать больше, посмотри на карту.
 
 RESOURCE ID: rally_city_safari_2026_lisbon_location
-TEXT: Lisbon, Portugal
+TEXT: Лиссабон, Португалия
 
 RESOURCE ID: rally_city_safari_2026_lisbon_rewards_desc_general
-TEXT: Explore the city to encounter Eevee wearing an explorer hat, featuring an exclusive Lisbon Location Background.
+TEXT: Исследуй город, чтобы встретить Иви в шляпе исследователя с эксклюзивным Фоном Места Лиссабон.
 
 RESOURCE ID: rally_city_safari_2026_marseille_desc
-TEXT: Welcome to City Safari: Marseille!
+TEXT: Добро пожаловать на Городское Сафари: Марсель!
 
 RESOURCE ID: rally_city_safari_2026_marseille_desc_detail
-TEXT: Encounter up to eight Eevee per ticketed event day by visiting special PokéStops around Marseille. See the map for more details.
+TEXT: До 8 встреч с Иви по билетам в день события при посещении специальных Покестопов по всему Марселю. Чтобы узнать больше, посмотри на карту.
 
 RESOURCE ID: rally_city_safari_2026_marseille_location
-TEXT: Marseille, France
+TEXT: Марсель, Франция
 
 RESOURCE ID: rally_city_safari_2026_marseille_rewards_desc_general
-TEXT: Explore the city to encounter Eevee wearing an explorer hat, featuring an exclusive Marseille Location Background.
+TEXT: Исследуй город, чтобы встретить Иви в шляпе исследователя с эксклюзивным Фоном Места Марсель.
 
 RESOURCE ID: rally_city_safari_2026_munich_desc
-TEXT: Welcome to City Safari: Munich!
+TEXT: Добро пожаловать на Городское Сафари: Мюнхен!
 
 RESOURCE ID: rally_city_safari_2026_munich_desc_detail
-TEXT: Encounter up to eight Eevee per ticketed event day by visiting special PokéStops around Munich. See the map for more details.
+TEXT: До 8 встреч с Иви по билетам в день события при посещении специальных Покестопов по всему Мюнхену. Чтобы узнать больше, посмотри на карту.
 
 RESOURCE ID: rally_city_safari_2026_munich_location
-TEXT: Munich, Germany
+TEXT: Мюнхен, Германия
 
 RESOURCE ID: rally_city_safari_2026_munich_rewards_desc_general
-TEXT: Explore the city to encounter Eevee wearing an explorer hat, featuring an exclusive Munich Location Background.
+TEXT: Исследуй город, чтобы встретить Иви в шляпе исследователя с эксклюзивным Фоном Места Мюнхен.
 
 RESOURCE ID: rally_city_safari_2026_riodejaneiro_desc
-TEXT: Welcome to City Safari: Rio de Janeiro!
+TEXT: Добро пожаловать на Городское Сафари: Рио-де-Жанейро!
 
 RESOURCE ID: rally_city_safari_2026_riodejaneiro_desc_detail
-TEXT: Encounter up to eight Eevee per ticketed event day by visiting special PokéStops around the Rio de Janeiro. See the map for more details.
+TEXT: До 8 встреч с Иви по билетам в день события при посещении специальных Покестопов по всему Рио-де-Жанейро. Чтобы узнать больше, посмотри на карту.
 
 RESOURCE ID: rally_city_safari_2026_riodejaneiro_location
-TEXT: Rio de Janeiro, Brazil
+TEXT: Рио-де-Жанейро, Бразилия
 
 RESOURCE ID: rally_city_safari_2026_riodejaneiro_rewards_desc_general
-TEXT: Explore the city to encounter Eevee wearing an explorer hat, featuring an exclusive Rio de Janeiro Location Background.
+TEXT: Исследуй город, чтобы встретить Иви в шляпе исследователя с эксклюзивным Фоном Места Рио-де-Жанейро.
 
 RESOURCE ID: rally_expo_2025_title
 TEXT: Марафон печатей EXPO 2025
@@ -111175,6 +111234,9 @@ TEXT: Оставайся поблизости от пути маршрута, ч
 
 RESOURCE ID: report_route_bug_info_zygarde
 TEXT: Появление клеток Зайгарда на каждом маршруте не гарантировано.
+
+RESOURCE ID: report_route_bug_info_zygarde_temp
+TEXT: Zygarde Cells are not guaranteed to appear at the end of every Route.
 
 RESOURCE ID: report_route_bug_reason_candy
 TEXT: Мой Покемон-Приятель не зарабатывал Конфеты быстрее на этом Маршруте. 
@@ -114418,22 +114480,22 @@ RESOURCE ID: safari_city_2025_vancouver_title
 TEXT: Городское Сафари: Ванкувер 2025
 
 RESOURCE ID: safari_city_2026_boston_title
-TEXT: City Safari: Boston 2026
+TEXT: Городское Сафари: Бостон 2026
 
 RESOURCE ID: safari_city_2026_brisbane_title
-TEXT: City Safari: Brisbane 2026
+TEXT: Городское Сафари: Брисбен 2026
 
 RESOURCE ID: safari_city_2026_lisbon_title
-TEXT: City Safari: Lisbon 2026
+TEXT: Городское Сафари: Лиссабон 2026
 
 RESOURCE ID: safari_city_2026_marseille_title
-TEXT: City Safari: Marseille 2026
+TEXT: Городское Сафари: Марсель 2026
 
 RESOURCE ID: safari_city_2026_munich_title
-TEXT: City Safari: Munich 2026
+TEXT: Городское Сафари: Мюнхен 2026
 
 RESOURCE ID: safari_city_2026_riodejaneiro_title
-TEXT: City Safari: Rio de Janeiro 2026
+TEXT: Городское Сафари: Рио-де-Жанейро 2026
 
 RESOURCE ID: safari_city_2023_barcelona_title_00
 TEXT: Городское сафари: Барселона 2023 (1/3)
@@ -114493,22 +114555,22 @@ RESOURCE ID: safari_city_2025_vancouver_title_00
 TEXT: Городское Сафари: Ванкувер 2025 (1/3)
 
 RESOURCE ID: safari_city_2026_boston_title_00
-TEXT: City Safari: Boston 2026 (1/3)
+TEXT: Городское Сафари: Бостон 2026 (1/3)
 
 RESOURCE ID: safari_city_2026_brisbane_title_00
-TEXT: City Safari: Brisbane 2026 (1/3)
+TEXT: Городское Сафари: Брисбен 2026 (1/3)
 
 RESOURCE ID: safari_city_2026_lisbon_title_00
-TEXT: City Safari: Lisbon 2026 (1/3)
+TEXT: Городское Сафари: Лиссабон 2026 (1/3)
 
 RESOURCE ID: safari_city_2026_marseille_title_00
-TEXT: City Safari: Marseille 2026 (1/3)
+TEXT: Городское Сафари: Марсель 2026 (1/3)
 
 RESOURCE ID: safari_city_2026_munich_title_00
-TEXT: City Safari: Munich 2026 (1/3)
+TEXT: Городское Сафари: Мюнхен 2026 (1/3)
 
 RESOURCE ID: safari_city_2026_riodejaneiro_title_00
-TEXT: City Safari: Rio de Janeiro 2026 (1/3)
+TEXT: Городское Сафари: Рио-де-Жанейро 2026 (1/3)
 
 RESOURCE ID: safari_city_2023_barcelona_title_01
 TEXT: Городское сафари: Барселона 2023 (2/3)
@@ -114568,22 +114630,22 @@ RESOURCE ID: safari_city_2025_vancouver_title_01
 TEXT: Городское Сафари: Ванкувер 2025 (2/3)
 
 RESOURCE ID: safari_city_2026_boston_title_01
-TEXT: City Safari: Boston 2026 (2/3)
+TEXT: Городское Сафари: Бостон 2026 (2/3)
 
 RESOURCE ID: safari_city_2026_brisbane_title_01
-TEXT: City Safari: Brisbane 2026 (2/3)
+TEXT: Городское Сафари: Брисбен 2026 (2/3)
 
 RESOURCE ID: safari_city_2026_lisbon_title_01
-TEXT: City Safari: Lisbon 2026 (2/3)
+TEXT: Городское Сафари: Лиссабон 2026 (2/3)
 
 RESOURCE ID: safari_city_2026_marseille_title_01
-TEXT: City Safari: Marseille 2026 (2/3)
+TEXT: Городское Сафари: Марсель 2026 (2/3)
 
 RESOURCE ID: safari_city_2026_munich_title_01
-TEXT: City Safari: Munich 2026 (2/3)
+TEXT: Городское Сафари: Мюнхен 2026 (2/3)
 
 RESOURCE ID: safari_city_2026_riodejaneiro_title_01
-TEXT: City Safari: Rio de Janeiro 2026 (2/3)
+TEXT: Городское Сафари: Рио-де-Жанейро 2026 (2/3)
 
 RESOURCE ID: safari_city_2023_barcelona_title_02
 TEXT: Городское сафари: Барселона 2023 (3/3)
@@ -114643,22 +114705,22 @@ RESOURCE ID: safari_city_2025_vancouver_title_02
 TEXT: Городское Сафари: Ванкувер 2025 (3/3)
 
 RESOURCE ID: safari_city_2026_boston_title_02
-TEXT: City Safari: Boston 2026 (3/3)
+TEXT: Городское Сафари: Бостон 2026 (3/3)
 
 RESOURCE ID: safari_city_2026_brisbane_title_02
-TEXT: City Safari: Brisbane 2026 (3/3)
+TEXT: Городское Сафари: Брисбен 2026 (3/3)
 
 RESOURCE ID: safari_city_2026_lisbon_title_02
-TEXT: City Safari: Lisbon 2026 (3/3)
+TEXT: Городское Сафари: Лиссабон 2026 (3/3)
 
 RESOURCE ID: safari_city_2026_marseille_title_02
-TEXT: City Safari: Marseille 2026 (3/3)
+TEXT: Городское Сафари: Марсель 2026 (3/3)
 
 RESOURCE ID: safari_city_2026_munich_title_02
-TEXT: City Safari: Munich 2026 (3/3)
+TEXT: Городское Сафари: Мюнхен 2026 (3/3)
 
 RESOURCE ID: safari_city_2026_riodejaneiro_title_02
-TEXT: City Safari: Rio de Janeiro 2026 (3/3)
+TEXT: Городское Сафари: Рио-де-Жанейро 2026 (3/3)
 
 RESOURCE ID: safari_city_leave_behind_dialog_00_00
 TEXT: Привет, %PLAYERNAME%! Приятно встретить тебя здесь! Этот город – один из моих любимых, а ещё он популярен среди других Тренеров Покемонов!
@@ -124940,6 +125002,16 @@ TEXT: <b>Включает следующие награды:</b>
 
 <a href="https://pokemongo.com/gowildarea/global">Узнать больше о бонусах этого билета можно здесь.</a>
 
+RESOURCE ID: text_rewards_key_gowa26
+TEXT: <b>Includes:</b>
+• Up to 6 free Raid Passes each day from spinning Gym Photo Discs
+• Increased chance of receiving event 10 km Eggs from Poké Stops
+• Up to 6 Special Trades per day and reduced Stardust cost for trades
+• 1/2 hatch distance for eggs placed in incubators
+• 2x catch candy for catching Pokémon
+• A higher chance to encounter Shiny Pokémon during the event
+Learn more about the ticket bonuses <a href=“pokemongo.com/gowildarea/global”>here</a>.
+
 RESOURCE ID: text_rewards_key_growingup0525
 TEXT: <b>Включает следующие награды:</b>
 • Встречи с Мэджикарпом, Вэйлмером, Сваблу, Лукарио, Вимподом, Рукиди и Тандемаусом
@@ -127471,6 +127543,12 @@ TEXT: Дополнительный Квест на Время Загадка М�
 RESOURCE ID: title_tr_max_mystery_00
 TEXT: Дополнительный Квест на Время Загадка Макс (1/1)
 
+RESOURCE ID: title_tr_pxp_2026_stream
+TEXT: PokémonXP Bonus Timed Research
+
+RESOURCE ID: title_tr_pxp_2026_stream_00
+TEXT: PokémonXP Bonus Timed Research (1/1)
+
 RESOURCE ID: title_tr_wcs_2023_champ
 TEXT: Дополнительный квест на время Победитель Международного Чемпионата Покемон 2023
 
@@ -127501,6 +127579,48 @@ TEXT: Дополнительный квест на время Сплочённа
 RESOURCE ID: title_tr_wcs_2024_team_building_02
 TEXT: Дополнительный квест на время Сплочённая команда: Великая Лига (3/3)
 
+RESOURCE ID: title_tr_wcs_2025_champ
+TEXT: Дополнительный Квест на Время Победитель Международного Чемпионата Покемон 2025
+
+RESOURCE ID: title_tr_wcs_2025_champ_00
+TEXT: Дополнительный Квест на Время Победитель Международного Чемпионата Покемон 2025 (1/2)
+
+RESOURCE ID: title_tr_wcs_2025_champ_01
+TEXT: Дополнительный Квест на Время Победитель Международного Чемпионата Покемон 2025 (2/2)
+
+RESOURCE ID: title_tr_wcs_2026_team_building
+TEXT: Дополнительный Квест на Время Сплочённая Команда: Великая Лига
+
+RESOURCE ID: title_tr_wcs_2026_team_building_00
+TEXT: Дополнительный Квест на Время Сплочённая Команда: Великая Лига (1/3)
+
+RESOURCE ID: title_tr_wcs_2026_team_building_01
+TEXT: Дополнительный Квест на Время Сплочённая Команда: Великая Лига (2/3)
+
+RESOURCE ID: title_tr_wcs_2026_team_building_02
+TEXT: Дополнительный Квест на Время Сплочённая Команда: Великая Лига (3/3)
+
+RESOURCE ID: title_tr_wcs_2026_team_building_dialog_00
+TEXT: Привет, %PLAYERNAME%! Пора сделать выбор! Выбери себе команду, чтобы проверить свои боевые навыки.
+
+RESOURCE ID: title_tr_wcs_2026_team_building_path_a
+TEXT: Выбери Ликитанга
+
+RESOURCE ID: title_tr_wcs_2026_team_building_path_a_desc
+TEXT: Выбери этот путь, чтобы встретиться с Ликитангом, Сваблу и Пиплапом, а также чтобы заработать такие награды, как Звёздная Пыль и Конфеты.
+
+RESOURCE ID: title_tr_wcs_2026_team_building_path_b
+TEXT: Выбери Тотодайла
+
+RESOURCE ID: title_tr_wcs_2026_team_building_path_b_desc
+TEXT: Выбери этот путь, чтобы встретиться с Тотодайлом, Мэриллом и Пайнеко, а также чтобы заработать такие награды, как Звёздная Пыль и Конфеты.
+
+RESOURCE ID: title_tr_wcs_2026_team_building_path_c
+TEXT: Выбери Пальдейского Вупера
+
+RESOURCE ID: title_tr_wcs_2026_team_building_path_c_desc
+TEXT: Выбери этот путь, чтобы встретиться с Сентретом, Кеклеоном и Пальдейским Вупером, а также чтобы заработать такие награды, как Звёздная Пыль и Конфеты.
+
 RESOURCE ID: title_tr_wcs_anaheim_greetings
 TEXT: Дополнительный Квест на Время Привет из Анахайма!
 
@@ -127512,6 +127632,12 @@ TEXT: Дополнительный квест на время Привет из 
 
 RESOURCE ID: title_tr_wcs_honolulu_greetings_00
 TEXT: Дополнительный квест на время Привет из Гонолулу! (1/1)
+
+RESOURCE ID: title_tr_wcs_sanfrancisco_greetings
+TEXT: Дополнительный Квест на Время Привет из Сан-Франциско!
+
+RESOURCE ID: title_tr_wcs_sanfrancisco_greetings_00
+TEXT: Дополнительный Квест на Время Привет из Сан-Франциско! (1/1)
 
 RESOURCE ID: title_unown_o_clock
 TEXT: Аноун-Час
@@ -132995,6 +133121,24 @@ TEXT: Выбери Сентрета
 
 RESOURCE ID: wcs_2025_great_league_tr_path_c_desc
 TEXT: Собери и тренируй команду, состоящую из Фуррета, Квагсайра и Голисопода, для участия в Великой Лиге Боевой Лиги GO.
+
+RESOURCE ID: wcs_2026_irl_surprise_tr_dialog_00_00
+TEXT: %PLAYERNAME%! Я изучал Мегаэволюцию, и три выдающихся Покемона привлекли моё внимание – Чеснот, Делфокс и Грениндзя.
+
+RESOURCE ID: wcs_2026_irl_surprise_tr_dialog_00_01
+TEXT: А всё выдающееся заслуживает тщательного исследования! В каждом из этих Покемонов есть что-то особенное, так что ошибиться с выбором невозможно. Перед тобой три захватывающих пути к новым открытиям!
+
+RESOURCE ID: wcs_2026_irl_surprise_tr_dialog_01_00
+TEXT: Отличный выбор! У меня было предчувствие, что ты так поступишь. Давай посмотрим получше и узнаем, чему нас может научить эта Мегаэволюция.
+
+RESOURCE ID: wcs_2026_irl_surprise_tr_dialog_01_01_chesnaught
+TEXT: Мега-Чеснот, да? Его броня и готовность защищаться действительно поражают. Вот уж точно крепкий орешек!
+
+RESOURCE ID: wcs_2026_irl_surprise_tr_dialog_01_01_delphox
+TEXT: Мега-Делфокс, да? Он размахивает пылающими ветвями, ослепляя противников, а затем сжигает их огромным огненным шаром. Это исследование перешло в горячую фазу!
+
+RESOURCE ID: wcs_2026_irl_surprise_tr_dialog_01_01_greninja
+TEXT: Мега-Грениндзя, да? Он вращает гигантский сюрикен на высокой скорости, чтобы тот парил в воздухе, а затем цепляется к нему вниз головой, чтобы застигнуть противников врасплох. Вот уж неожиданное нападение!
 
 RESOURCE ID: wcs_2026_sf_event_title_extended
 TEXT: San Francisco 2026 Pokémon World Championships Extended Bonuses

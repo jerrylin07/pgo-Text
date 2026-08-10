@@ -19326,6 +19326,9 @@ TEXT: लुकारियो को पकड़ते समय एक रे
 RESOURCE ID: bonus_rare_candy_xl_catch_origin
 TEXT: ओरिजिन फ़ॉर्म डियाल्गा या ओरिजिन फ़ॉर्म पाल्किया को पकड़ने पर एक रेयर कैंडी XL मिलने की गारंटी
 
+RESOURCE ID: bonus_rare_candy_xl_catch_starmie
+TEXT: One guaranteed Rare Candy XL when catching Starmie
+
 RESOURCE ID: bonus_rare_candy_xl_chance_raids
 TEXT: रेड से रेयर कैंडी XL पाने की अधिक संभावना
 
@@ -19676,6 +19679,9 @@ TEXT: जंगल में युनोवा रीजन के पोके
 
 RESOURCE ID: bonus_today_zygarde_cell
 TEXT: ज़ाइगार्ड सेल प्रतिदिन 5 रूट तक के अंत पर दिखाई दे सकते हैं
+
+RESOURCE ID: bonus_today_zygarde_cell_temp
+TEXT: Zygarde Cells can be claimed when completing a Route up to 5 times per day
 
 RESOURCE ID: bonus_total_6_special_trades
 TEXT: हर दिन कुल छह स्पेशल ट्रेड
@@ -21163,6 +21169,9 @@ TEXT: {1} MP इकट्ठा करने के लिए {0} km पैद�
 
 RESOURCE ID: breakfast_tappable_tutorial_body
 TEXT: You can find Zygarde Cells while you’re following a Route. You can assemble Zygarde Cells to create different Zygarde forms.
+
+RESOURCE ID: breakfast_tappable_tutorial_body_temp
+TEXT: You can find Zygarde Cells after completing a Route. You can assemble Zygarde Cells to create different Zygarde forms.
 
 RESOURCE ID: breakthrough_free_remote_raid_pass
 TEXT: आइए, अब चलें!
@@ -26150,6 +26159,12 @@ TEXT: Hasami
 RESOURCE ID: city_manhole_476
 TEXT: Goto
 
+RESOURCE ID: city_manhole_480
+TEXT: Isahaya
+
+RESOURCE ID: city_manhole_481
+TEXT: Saikai
+
 RESOURCE ID: city_manhole_4(ibusuki)_d64e
 TEXT: इबुसुकि
 
@@ -29335,7 +29350,7 @@ RESOURCE ID: dynamic_punch_+_move_content
 TEXT: म्यूटू {0} तक, अपनी पूरी एकाग्रति शक्ति से मुक्के बरसाता है। रेड में मेगा एवॉल्व पोकेमॉन के प्रति डैमेज बढ़ेगा, और आपके मेगा एवॉल्व पोकेमॉन सुपर मेगा रेड में दो शील्ड तोड़ पाएंगे।
 
 RESOURCE ID: dynamic_punch_adventure_effects_mapview_dialog
-TEXT: Mewtwo punches with full, concentrated power. Increases damage against Mega Pokémon in Raids and enables your Mega Pokémon to break two shields in Super Mega Raids.
+TEXT: Mewtwo punches with full, concentrated power. Increases damage against Mega-Evolved Pokémon in raids and enables your Mega-Evolved Pokémon to break two shields in Super Mega Raids.
 
 RESOURCE ID: dynamic_punch_adventure_effects_mapview_dialog_out
 TEXT: म्यूटू {0} तक, ठोस मुट्ठयिों से अटैक करता है। इससे आपके मेगा एवॉल्व पोकेमॉन सुपर मेगा रेड में दो शील्ड तोड़ पाएंगे।
@@ -31120,7 +31135,7 @@ RESOURCE ID: event_datetime_range_key_megaskarmoryraidday
 TEXT: 27 जून, दुपहर 2:00 बजे – शाम 5:00 बजे
 
 RESOURCE ID: event_datetime_range_key_megastarmieraidday
-TEXT: 20 अगस्त, दुपहर 11:00 बजे – शाम 5:00 बजे
+TEXT: 22 अगस्त, दुपहर 11:00 बजे – शाम 5:00 बजे
 
 RESOURCE ID: event_datetime_range_key_monochromeholidaysdec2024
 TEXT: 22 दिसंबर, सुबह 10:00  –
@@ -32338,7 +32353,7 @@ TEXT: Purchase GO Pass Deluxe: GO Fest 2026 Mega Finale to unlock the following!
 • And more!
 
 RESOURCE ID: event_pass_gofest2026_finale_weekend_wild_shiny_bonus
-TEXT: Increased chance of encountering Shiny featured Pokémon in the wild during GO Fest 2026: Mega Finale event hours
+TEXT: Increased chance of encountering Shiny featured Pokémon in the wild during GO Fest 2026: Mega Finale weekend event hours
 
 RESOURCE ID: event_pass_gofest2026_premium_track_title
 TEXT: GO पास डीलक्स - लेजेंड का पथ
@@ -36355,7 +36370,7 @@ RESOURCE ID: future_sight_+_move_content
 TEXT: म्यूटू {0} तक, साइककि ऊर्जा का पुंज छोड़ता है, जसिसे मुलाकात होने वाले पोकेमॉन के उच्च आँकड़ों का पता चलता है।
 
 RESOURCE ID: future_sight_adventure_effects_mapview_dialog
-TEXT: Mewtwo releases a hunk of psychic energy, revealing Pokémon with high stats before they are caught.
+TEXT: Mewtwo releases a hunk of psychic energy, revealing when encountered Pokémon have high stats.
 
 RESOURCE ID: future_sight_adventure_effects_mapview_dialog_out
 TEXT: म्यूटू {0} तक, साइककि ऊर्जा का पुंज छोड़ता है, जसिसे जंगल में या रेड के अंत में मुलाकात होने वाले पोकेमॉन के उच्च आँकड़ों का पता चलता है।
@@ -36524,6 +36539,9 @@ TEXT: GO बैटल लीग में कुल मिलाकर अधि
 
 RESOURCE ID: gbl_sets_extra_twenty_total
 TEXT: GO बैटल लीग में, बैटल के कुल 20 सेट हैं
+
+RESOURCE ID: gbl_stat_variance_bonus
+TEXT: Non-Legendary Pokémon caught from the GO Battle League will have a wider variance of Attack, Defense, and HP
 
 RESOURCE ID: gbl_ticket_research_title
 TEXT: GO Battle League Timed Research
@@ -38560,6 +38578,9 @@ TEXT: GO वाइल्ड एरिया - 2025 ग्लोबल टिक�
 
 RESOURCE ID: general2.ticket._gowa25_leadup_title
 TEXT: वाइल्ड वीक प्रीमियम सीमित समय वाली रिसर्च के लिए तैयार हो जाएँ
+
+RESOURCE ID: general2.ticket._gowa26_title
+TEXT: Pokémon GO Wild Area 2026 Global Ticket
 
 RESOURCE ID: general2.ticket._megagalladeraidday_title
 TEXT: मेगा गलेड रेड दिवस टिकट
@@ -52268,6 +52289,9 @@ TEXT: स्थानीय समयानुसार, 23 नवंबर स�
 RESOURCE ID: item_global_event_ticket_desc_gowa25
 TEXT: स्ठानीय समयानुसार, 15 नवम्बर और 16 नवम्बर, 2025 को होने वाली Pokémon GO वाइल्ड एरिया 2025 - ग्लोबल स्पेशल रिसर्च को एक्सेस करने की टिकट।
 
+RESOURCE ID: item_global_event_ticket_desc_gowa26
+TEXT: A ticket to access the Pokémon GO Wild Area 2026: Global Special Research on November 14 and November 15, 2026, local time, wherever you are.
+
 RESOURCE ID: item_global_event_ticket_desc_hisuiandecidueye
 TEXT: स्थानीय समयानुसार, 11 जनवरी, 2024 को दुपहर 2:00 बजे से लेकर रात 10:00 बजे तक मिलने वाले स्पेशल बोनस की टिकट।
 
@@ -52323,6 +52347,11 @@ RESOURCE ID: item_global_event_ticket_details_gowa25
 TEXT: यह टिकट अपने आप ऐक्टिवेट होकर, आपको 15 नवम्बर और 16 नवम्बर को होने वाली Pokémon GO वाइल्ड एरिया 2025 - ग्लोबल स्पेशल रिसर्च का ऐक्सेस देगी। अधिक जानकारी के लिए इन-गेम न्यूज़ देखें।
 
 सभी इवेंट बोनस पाने के लिए आपको निर्धारित समय में खेलना आवश्यक है।
+
+RESOURCE ID: item_global_event_ticket_details_gowa26
+TEXT: This ticket will automatically activate to give you access to the Pokémon GO Wild Area 2026: Global Special Research on November 14 and 15, local time, wherever you are. Details can be found in the in-game News.
+
+You must play during the specified time to receive all the event bonuses.
 
 RESOURCE ID: item_global_event_ticket_details_hisuiandecidueye
 TEXT: यह टिकट अपने आप ऐक्टिवेट होकर 11 जनवरी को मिलने वाले स्पेशल बोनस का ऐक्सेस आपको देगा।
@@ -56435,7 +56464,7 @@ RESOURCE ID: lobby_ready_progress
 TEXT: {0} of {1} ready
 
 RESOURCE ID: lobby_shield_break_power
-TEXT: Shield break potential
+TEXT: {0}/{1} Shield break potential
 
 RESOURCE ID: local_bonus_event_tag
 TEXT: Local Bonus
@@ -59070,10 +59099,10 @@ at SHA 12701f1c07ae7f07a5d50583f697320977df7988
 Pipeline 1139111, job 13470914
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-08-06T02:14:44.768040+00:00 for hi-IN
-at SHA 46aa1b7c9a2
-Pipeline 3855357, job 56696459
-Patch from: 0.421.0-SHA-1cc74f81-RC5, 0.423.1-SHA-70644676-RC1, 0.425.0-SHA-18d2732c-RC2
+TEXT: Built at 2026-08-10T23:29:18.099028+00:00 for hi-IN
+at SHA 7467817e563
+Pipeline 3866309, job 56846989
+Patch from: 0.425.0-SHA-73e817e6-RC3, 0.423.1-SHA-70644676-RC1
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: Timed Research: Choose Your Fighting Type
@@ -79274,8 +79303,29 @@ TEXT: Pokémon Presents
 RESOURCE ID: pokemon_purified_message
 TEXT: आपने {0} को प्युरिफ़ाइ कर लिया है!
 
+RESOURCE ID: pokemon_run_2026_hongkong_title
+TEXT: Pokémon RUN 30 - हांगकांग एडशिन
+
+RESOURCE ID: pokemon_run_2026_indonesia_title
+TEXT: Pokémon RUN 30 - इंडोनेशयिा एडशिन
+
+RESOURCE ID: pokemon_run_2026_malaysia_title
+TEXT: Pokémon RUN 30 - मलेशयिा एडशिन
+
+RESOURCE ID: pokemon_run_2026_philippines_title
+TEXT: Pokémon RUN 30 - फ़लिीपींस एडशिन
+
 RESOURCE ID: pokemon_run_2026_seoul_title
 TEXT: Pokémon RUN 2026 सोउल
+
+RESOURCE ID: pokemon_run_2026_singapore_title
+TEXT: Pokémon RUN 30 - सिंगापुर एडशिन
+
+RESOURCE ID: pokemon_run_2026_taiwan_title
+TEXT: Pokémon RUN 30 - ताइवान एडशिन
+
+RESOURCE ID: pokemon_run_2026_thailand_title
+TEXT: Pokémon RUN 30 - थाईलैंड एडशिन
 
 RESOURCE ID: pokemon_shiny_info_transfer_to_professor_confirmation
 TEXT: क्या आप वाकई इस शाइनी पोकेमॉन को ट्रांसफ़र करना चाहते हैं?
@@ -97070,8 +97120,14 @@ TEXT: While you were out, I caught up on observational reports from local Traine
 RESOURCE ID: quest_special_dialogue_zygarde_1_2
 TEXT: Curiously, several mentioned amorphous, green blobs they found along Routes. Some Trainers even thought they might be alive!
 
+RESOURCE ID: quest_special_dialogue_zygarde_1_2_temp
+TEXT: Curiously, several mentioned unusual activity along nearby Routes. Some Trainers even said they spotted something they couldn’t quite identify!
+
 RESOURCE ID: quest_special_dialogue_zygarde_1_3
 TEXT: मेरे पास कुछ जानकारी है जो हमें बता सकती है कि यह अजीब चीज़ क्या है, लेकिन उससे पहले मैं अपनी शोध सामग्री देखूँगा और इस पर लिखे हुए आर्टिकल को भी दुबारा पढ़ने की कोशिश करूँगा|
+
+RESOURCE ID: quest_special_dialogue_zygarde_1_3_temp
+TEXT: I have a theory about what might be drawing attention out there, but I’d like to look through my research materials a tad more first. Maybe even reread that article from earlier...
 
 RESOURCE ID: quest_special_dialogue_zygarde_1_4
 TEXT: In the meantime, please continue your fieldwork. I’m positive I’ll have a less amorphous update by the time you get back.
@@ -97108,6 +97164,9 @@ TEXT: And that’s what my gift is for! The Zygarde Cube can be used to store th
 
 RESOURCE ID: quest_special_dialogue_zygarde_3_5
 TEXT: And as for where can you find those cells... Do you recall those green blobs that have been found along Routes? I reckon they were, in fact, Zygarde Cells!
+
+RESOURCE ID: quest_special_dialogue_zygarde_3_5_temp
+TEXT: And where can you find those Cells? Well, do you recall the unusual activity along Routes I mentioned earlier? I reckon it may have been caused by Zygarde Cells!
 
 RESOURCE ID: quest_special_dialogue_zygarde_3_6
 TEXT: Could I ask you to test that hypothesis, %PLAYERNAME%?
@@ -108474,6 +108533,9 @@ TEXT: रूट के पथ के करीब रहें ताकि आ�
 
 RESOURCE ID: report_route_bug_info_zygarde
 TEXT: ज़ाइगार्ड सेल के हर रूट पर मिलने की गारंटी नहीं है।
+
+RESOURCE ID: report_route_bug_info_zygarde_temp
+TEXT: Zygarde Cells are not guaranteed to appear at the end of every Route.
 
 RESOURCE ID: report_route_bug_reason_candy
 TEXT: इस रूट पर मेरे पार्टनर को जल्दी से कैंडी नहीं मिली।
@@ -122221,6 +122283,16 @@ TEXT: <b>शामिल :</b>
 
 <a href="https://pokemongo.com/gowildarea/global">टिकट बोनस के बारे में अधिक जानकारी यहाँ प्राप्त करें।</a>
 
+RESOURCE ID: text_rewards_key_gowa26
+TEXT: <b>Includes:</b>
+• Up to 6 free Raid Passes each day from spinning Gym Photo Discs
+• Increased chance of receiving event 10 km Eggs from Poké Stops
+• Up to 6 Special Trades per day and reduced Stardust cost for trades
+• 1/2 hatch distance for eggs placed in incubators
+• 2x catch candy for catching Pokémon
+• A higher chance to encounter Shiny Pokémon during the event
+Learn more about the ticket bonuses <a href=“pokemongo.com/gowildarea/global”>here</a>.
+
 RESOURCE ID: text_rewards_key_growingup0525
 TEXT: <b>शामिल रिवॉर्ड -</b>
 • मैजिकार्प, वेलमर, स्वाब्लू, लुकारियो, विम्पॉड, रुकिडी, और टैंडामाउस के साथ मुलाकातें
@@ -124738,6 +124810,12 @@ TEXT: मैक्स मिस्ट्री बोनस सीमित स�
 RESOURCE ID: title_tr_max_mystery_00
 TEXT: मैक्स मिस्ट्री बोनस सीमित समय वाली रिसर्च (1/1)
 
+RESOURCE ID: title_tr_pxp_2026_stream
+TEXT: PokémonXP Bonus Timed Research
+
+RESOURCE ID: title_tr_pxp_2026_stream_00
+TEXT: PokémonXP Bonus Timed Research (1/1)
+
 RESOURCE ID: title_tr_wcs_2023_champ
 TEXT: 2023 पोकेमॉन वर्ल्ड चैंपियनशिप बोनस सीमित समय वाली रिसर्च
 
@@ -124768,6 +124846,48 @@ TEXT: टीम बिल्डिंग : ग्रेट लीग - बोन
 RESOURCE ID: title_tr_wcs_2024_team_building_02
 TEXT: टीम बिल्डिंग : ग्रेट लीग - बोनस सीमित समय वाली रिसर्च (3/3)
 
+RESOURCE ID: title_tr_wcs_2025_champ
+TEXT: 2025 Pokémon WCS चैंपयिन बोनस सीमति समय वाली रसिर्च
+
+RESOURCE ID: title_tr_wcs_2025_champ_00
+TEXT: 2025 Pokémon WCS चैंपयिन बोनस सीमति समय वाली रसिर्च (1/2)
+
+RESOURCE ID: title_tr_wcs_2025_champ_01
+TEXT: 2025 Pokémon WCS चैंपयिन बोनस सीमति समय वाली रसिर्च (2/2)
+
+RESOURCE ID: title_tr_wcs_2026_team_building
+TEXT: टीम बल्डििंग - ग्रेट लीग – बोनस सीमति समय वाली रसिर्च
+
+RESOURCE ID: title_tr_wcs_2026_team_building_00
+TEXT: टीम बल्डििंग - ग्रेट लीग – बोनस सीमति समय वाली रसिर्च (1/3)
+
+RESOURCE ID: title_tr_wcs_2026_team_building_01
+TEXT: टीम बल्डििंग - ग्रेट लीग – बोनस सीमति समय वाली रसिर्च (2/3)
+
+RESOURCE ID: title_tr_wcs_2026_team_building_02
+TEXT: टीम बल्डििंग - ग्रेट लीग – बोनस सीमति समय वाली रसिर्च (3/3)
+
+RESOURCE ID: title_tr_wcs_2026_team_building_dialog_00
+TEXT: हैलो %PLAYERNAME%! अब चुनने का समय आ गया है। अपनी टीम चुनकर, बैटल में अपनी कुशलता परखकर देखें।
+
+RESOURCE ID: title_tr_wcs_2026_team_building_path_a
+TEXT: लकिटिंग चुनें
+
+RESOURCE ID: title_tr_wcs_2026_team_building_path_a_desc
+TEXT: लकिटिंग, स्वाब्लू और पपिलप से मुलाकातों के लिए इस पथ को चुनें, और साथ ही स्टार-डस्ट या कैंडी जैसे अन्य रविार्ड भी पाएँ।
+
+RESOURCE ID: title_tr_wcs_2026_team_building_path_b
+TEXT: टोटोडाइल चुनें
+
+RESOURCE ID: title_tr_wcs_2026_team_building_path_b_desc
+TEXT: टोटोडाइल, मैरलि और पाइनको से मुलाकातों के लिए इस पथ को चुनें, और साथ ही स्टार-डस्ट या कैंडी जैसे अन्य रविार्ड भी पाएँ।
+
+RESOURCE ID: title_tr_wcs_2026_team_building_path_c
+TEXT: पैलडीया वूपर चुनें
+
+RESOURCE ID: title_tr_wcs_2026_team_building_path_c_desc
+TEXT: सेंट्रेट, केक्लयिॉन और पैलडीया वूपर से मुलाकातों के लिए इस पथ को चुनें, और साथ ही स्टार-डस्ट या कैंडी जैसे अन्य रविार्ड भी पाएँ।
+
 RESOURCE ID: title_tr_wcs_anaheim_greetings
 TEXT: हेलो अनाहाइम! बोनस सीमित समय वाली रिसर्च
 
@@ -124779,6 +124899,12 @@ TEXT: नमस्ते, होनोलूलू से! सीमित स�
 
 RESOURCE ID: title_tr_wcs_honolulu_greetings_00
 TEXT: नमस्ते, होनोलूलू से! सीमित समय वाली रिसर्च (1/1)
+
+RESOURCE ID: title_tr_wcs_sanfrancisco_greetings
+TEXT: हेलो सैन फ़्रांसस्किो! बोनस सीमति समय वाली रसिर्च
+
+RESOURCE ID: title_tr_wcs_sanfrancisco_greetings_00
+TEXT: हेलो सैन फ़्रांसस्किो! बोनस सीमति समय वाली रसिर्च (1/1)
 
 RESOURCE ID: title_unown_o_clock
 TEXT: अनोन ही अनोन
@@ -130261,6 +130387,24 @@ TEXT: सेंट्रेट चुनें
 
 RESOURCE ID: wcs_2025_great_league_tr_path_c_desc
 TEXT: फ़रेट, क्वैगसायर और गोलाइसोपॉड को अपनी GO बैटल लीग के ग्रेट लीग टीम में शामिल कर ट्रेन करें।
+
+RESOURCE ID: wcs_2026_irl_surprise_tr_dialog_00_00
+TEXT: %PLAYERNAME%! मैं कुछ समय से मेगा एवोलूशन के बारे में जांच कर रहा हूँ, और इन तीन अद्भुत पोकेमॉन ने मेरा ध्यान आकर्षति कर रखा है—चेसनॉट, डेलफ़ॉक्स, और ग्रेनिंजा।
+
+RESOURCE ID: wcs_2026_irl_surprise_tr_dialog_00_01
+TEXT: और अद्भुत बातों के लिए रसिर्च तो बनती ही है! यह तीनों की तीनों पोकेमॉन में कुछ स्पेशल बात तो है ही, इसलिए आप कोई सा भी पथ चुनें, रोमांच तो पक्का है!
+
+RESOURCE ID: wcs_2026_irl_surprise_tr_dialog_01_00
+TEXT: बहुत बढ़यिा चुनाव! मुझे लग ही रहा था कि आप इसे चुनेंगे। चलिए तो इस मेगा एवोलूशन को और ध्यान से देखते हैं, और यह देखते हैं कि इससे हम क्या सीख सकते हैं।
+
+RESOURCE ID: wcs_2026_irl_surprise_tr_dialog_01_01_chesnaught
+TEXT: मेगा चेसनॉट, ना! इसका आर्मर और डफ़िेंस का नश्चिय, दोनों ही आश्चर्यजनक हैं। इसे तोड़ पान तो बहुत ही कड़ी चुनौती होगी!
+
+RESOURCE ID: wcs_2026_irl_surprise_tr_dialog_01_01_delphox
+TEXT: मेगा डेलफ़ॉक्स, ना! यह अपनी जलती शाखाओं से वरिोधयिों को चौंधयिा देने के बाद, उन्हें एक बड़े फ़ायरबॉल से जलाकर भस्म कर देता है। रसिर्च की तो गर्मी बढ़ गई है!
+
+RESOURCE ID: wcs_2026_irl_surprise_tr_dialog_01_01_greninja
+TEXT: मेगा ग्रेनिंजा, ना! यह एक बड़े शुरकिेन को इतनी तेज़ी से घुमाता है कि वह हवा में उड़ने लगता है, फरि यह उससे उल्टा लटक कर अपने वरिोधयिों से छुपकर उनपर वार करता है। सरप्राइज़ अटैक करना तो कोई इससे सीखे!
 
 RESOURCE ID: wcs_2026_sf_event_title_extended
 TEXT: San Francisco 2026 Pokémon World Championships Extended Bonuses

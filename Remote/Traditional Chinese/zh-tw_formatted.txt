@@ -19585,6 +19585,9 @@ TEXT: 捕捉到路卡利歐時一定可獲得1個額外的神奇糖果XL
 RESOURCE ID: bonus_rare_candy_xl_catch_origin
 TEXT: 捕捉到帝牙盧卡（起源形態）或帕路奇亞（起源形態）時，一定可獲得1個神奇糖果XL
 
+RESOURCE ID: bonus_rare_candy_xl_catch_starmie
+TEXT: 捕捉到寶石海星時一定可獲得1個額外的神奇糖果XL
+
 RESOURCE ID: bonus_rare_candy_xl_chance_raids
 TEXT: 在團體戰後獲得神奇糖果XL的機率提高
 
@@ -19935,6 +19938,9 @@ TEXT: 合眾地區的寶可夢出現在地圖上！
 
 RESOURCE ID: bonus_today_zygarde_cell
 TEXT: 每天最多可能在5條路線的最後發現基格爾德・細胞
+
+RESOURCE ID: bonus_today_zygarde_cell_temp
+TEXT: Zygarde Cells can be claimed when completing a Route up to 5 times per day
 
 RESOURCE ID: bonus_total_6_special_trades
 TEXT: 一天最多6次特殊交換
@@ -21422,6 +21428,9 @@ TEXT: 走{0}公里來收集{1}MP吧
 
 RESOURCE ID: breakfast_tappable_tutorial_body
 TEXT: 只要遊玩路線，就有機會找到基格爾德・細胞。收集到所需數量的細胞後，即可合成基格爾德。
+
+RESOURCE ID: breakfast_tappable_tutorial_body_temp
+TEXT: You can find Zygarde Cells after completing a Route. You can assemble Zygarde Cells to create different Zygarde forms.
 
 RESOURCE ID: breakthrough_free_remote_raid_pass
 TEXT: 完成突破性進展，獲得遠距團體戰入場券
@@ -28593,6 +28602,12 @@ TEXT: Hasami
 RESOURCE ID: city_manhole_476
 TEXT: Goto
 
+RESOURCE ID: city_manhole_480
+TEXT: Isahaya
+
+RESOURCE ID: city_manhole_481
+TEXT: Saikai
+
 RESOURCE ID: city_manhole_4(ibusuki)_d64e
 TEXT: 指宿市
 
@@ -31788,7 +31803,7 @@ RESOURCE ID: dynamic_punch_+_move_content
 TEXT: 超夢會使出渾身力量持續出拳{0}，期間內在團體戰中對超級進化寶可夢造成的傷害會增加，且你的超級進化寶可夢在極致超級團體戰中可擊破巨大防禦網2次。
 
 RESOURCE ID: dynamic_punch_adventure_effects_mapview_dialog
-TEXT: Mewtwo punches with full, concentrated power. Increases damage against Mega Pokémon in Raids and enables your Mega Pokémon to break two shields in Super Mega Raids.
+TEXT: Mewtwo punches with full, concentrated power. Increases damage against Mega-Evolved Pokémon in raids and enables your Mega-Evolved Pokémon to break two shields in Super Mega Raids.
 
 RESOURCE ID: dynamic_punch_adventure_effects_mapview_dialog_out
 TEXT: 超夢會使出渾身力量持續出拳{0}，讓你的超級進化寶可夢在極致超級團體戰中可擊破巨大防禦網2次。
@@ -33607,7 +33622,7 @@ RESOURCE ID: event_datetime_range_key_megaskarmoryraidday
 TEXT: 6月27日14:00～17:00
 
 RESOURCE ID: event_datetime_range_key_megastarmieraidday
-TEXT: 8月20日11:00～17:00
+TEXT: 8月22日11:00～17:00
 
 RESOURCE ID: event_datetime_range_key_monochromeholidaysdec2024
 TEXT: 12月22日10:00～
@@ -34826,7 +34841,7 @@ TEXT: Purchase GO Pass Deluxe: GO Fest 2026 Mega Finale to unlock the following!
 • And more!
 
 RESOURCE ID: event_pass_gofest2026_finale_weekend_wild_shiny_bonus
-TEXT: Increased chance of encountering Shiny featured Pokémon in the wild during GO Fest 2026: Mega Finale event hours
+TEXT: Increased chance of encountering Shiny featured Pokémon in the wild during GO Fest 2026: Mega Finale weekend event hours
 
 RESOURCE ID: event_pass_gofest2026_premium_track_title
 TEXT: GO Pass豪華版：卓越軌跡
@@ -37543,7 +37558,7 @@ RESOURCE ID: form_arceus_fire
 TEXT: Fire-Type
 
 RESOURCE ID: form_arceus_flying
-TEXT: Flying-Type
+TEXT: 飛行屬性
 
 RESOURCE ID: form_arceus_ghost
 TEXT: Ghost-Type
@@ -38946,7 +38961,7 @@ RESOURCE ID: future_sight_+_move_content
 TEXT: 超夢會在{0}內不斷發送一團念力，藉此分辨出隱藏著優秀能力的寶可夢。
 
 RESOURCE ID: future_sight_adventure_effects_mapview_dialog
-TEXT: Mewtwo releases a hunk of psychic energy, revealing Pokémon with high stats before they are caught.
+TEXT: Mewtwo releases a hunk of psychic energy, revealing when encountered Pokémon have high stats.
 
 RESOURCE ID: future_sight_adventure_effects_mapview_dialog_out
 TEXT: 超夢會在{0}內不斷發送一團念力，藉此分辨出隱藏著優秀能力的寶可夢。
@@ -39118,6 +39133,9 @@ TEXT: 最多可參加10組GO對戰聯盟對戰
 
 RESOURCE ID: gbl_sets_extra_twenty_total
 TEXT: GO對戰聯盟20組對戰
+
+RESOURCE ID: gbl_stat_variance_bonus
+TEXT: 在GO對戰聯盟捕捉到的寶可夢（不包含傳說的寶可夢）擁有更高的攻擊、防禦和HP。
 
 RESOURCE ID: gbl_ticket_research_title
 TEXT: GO對戰聯盟限時挑戰
@@ -41101,6 +41119,9 @@ TEXT: Pokémon GO 曠野地帶2025全球入場券
 
 RESOURCE ID: general2.ticket._gowa25_leadup_title
 TEXT: 曠野週特級限時調查入場券
+
+RESOURCE ID: general2.ticket._gowa26_title
+TEXT: Pokémon GO Wild Area 2026 Global Ticket
 
 RESOURCE ID: general2.ticket._megagalladeraidday_title
 TEXT: 超級艾路雷朵團體戰日入場券
@@ -54814,6 +54835,9 @@ TEXT: 只要擁有這張入場券，不論你身在何處，都能在當地時�
 RESOURCE ID: item_global_event_ticket_desc_gowa25
 TEXT: 只要擁有這張入場券，不論你身在何處，都能在當地時間2025年11月15日、16日開始參與Pokémon GO 曠野地帶2025：全球特殊調查。
 
+RESOURCE ID: item_global_event_ticket_desc_gowa26
+TEXT: A ticket to access the Pokémon GO Wild Area 2026: Global Special Research on November 14 and November 15, 2026, local time, wherever you are.
+
 RESOURCE ID: item_global_event_ticket_desc_hisuiandecidueye
 TEXT: 只要擁有這張入場券，不論你身在何處，都能在當地時間2024年2月11日14:00~22:00領取特別的獎勵。
 
@@ -54869,6 +54893,11 @@ RESOURCE ID: item_global_event_ticket_details_gowa25
 TEXT: 入場券將會自動啟用，不論你身在何處，都能在當地時間11月15日、16日開始參與Pokémon GO曠野地帶：全球特殊調查。詳情請至遊戲內快訊確認。
 
 請務必在舉辦時間內完成活動指定的課題，以領取所有活動獎勵。
+
+RESOURCE ID: item_global_event_ticket_details_gowa26
+TEXT: This ticket will automatically activate to give you access to the Pokémon GO Wild Area 2026: Global Special Research on November 14 and 15, local time, wherever you are. Details can be found in the in-game News.
+
+You must play during the specified time to receive all the event bonuses.
 
 RESOURCE ID: item_global_event_ticket_details_hisuiandecidueye
 TEXT: 入場券將會自動啟用，不論你身在何處，都能在當地時間2024年2月11日領取特別的獎勵。
@@ -58989,7 +59018,7 @@ RESOURCE ID: lobby_ready_progress
 TEXT: {0}/{1} 準備完成
 
 RESOURCE ID: lobby_shield_break_power
-TEXT: Shield break potential
+TEXT: {0}/{1} Shield break potential
 
 RESOURCE ID: local_bonus_event_tag
 TEXT: 當地獎勵
@@ -61658,10 +61687,10 @@ at SHA 4d4f3e80cc7fb911006bd14d198c9831ef66d005
 Pipeline 339838, job 2672172
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-08-06T02:14:44.768040+00:00 for zh-TW
-at SHA 46aa1b7c9a2
-Pipeline 3855357, job 56696459
-Patch from: 0.421.0-SHA-1cc74f81-RC5, 0.423.1-SHA-70644676-RC1, 0.425.0-SHA-18d2732c-RC2
+TEXT: Built at 2026-08-10T23:29:18.099028+00:00 for zh-TW
+at SHA 7467817e563
+Pipeline 3866309, job 56846989
+Patch from: 0.425.0-SHA-73e817e6-RC3, 0.423.1-SHA-70644676-RC1
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: 限時調查：格鬥屬性
@@ -82011,8 +82040,29 @@ TEXT: Pokémon Presents
 RESOURCE ID: pokemon_purified_message
 TEXT: 成功淨化 {0} ！
 
+RESOURCE ID: pokemon_run_2026_hongkong_title
+TEXT: Pokémon RUN 30: 香港
+
+RESOURCE ID: pokemon_run_2026_indonesia_title
+TEXT: Pokémon RUN 30: 印尼
+
+RESOURCE ID: pokemon_run_2026_malaysia_title
+TEXT: Pokémon RUN 30: 馬來西亞
+
+RESOURCE ID: pokemon_run_2026_philippines_title
+TEXT: Pokémon RUN 30: 菲律賓
+
 RESOURCE ID: pokemon_run_2026_seoul_title
 TEXT: Pokémon RUN 2026首爾
+
+RESOURCE ID: pokemon_run_2026_singapore_title
+TEXT: Pokémon RUN 30: 新加坡
+
+RESOURCE ID: pokemon_run_2026_taiwan_title
+TEXT: Pokémon RUN 30: 台灣
+
+RESOURCE ID: pokemon_run_2026_thailand_title
+TEXT: Pokémon RUN 30: 泰國
 
 RESOURCE ID: pokemon_shiny_info_transfer_to_professor_confirmation
 TEXT: 確定要傳送這隻異色寶可夢嗎？
@@ -99953,8 +100003,14 @@ TEXT: 就在你出門探索的時候，訓練家們傳來了報告。
 RESOURCE ID: quest_special_dialogue_zygarde_1_2
 TEXT: 說是在路線的邊緣，他們發現了綠色物體。也有訓練家稱之為綠色生物。
 
+RESOURCE ID: quest_special_dialogue_zygarde_1_2_temp
+TEXT: Curiously, several mentioned unusual activity along nearby Routes. Some Trainers even said they spotted something they couldn’t quite identify!
+
 RESOURCE ID: quest_special_dialogue_zygarde_1_3
 TEXT: 我是有一些頭緒啦……但為了證明我的推論是正確的，我需要去多找點資料。啊不，再去讀一次雜誌的卡洛斯特輯應該就可以知道答案了。
+
+RESOURCE ID: quest_special_dialogue_zygarde_1_3_temp
+TEXT: I have a theory about what might be drawing attention out there, but I’d like to look through my research materials a tad more first. Maybe even reread that article from earlier...
 
 RESOURCE ID: quest_special_dialogue_zygarde_1_4
 TEXT: 你會繼續幫我做田野調查的吧，%PLAYERNAME%？
@@ -99991,6 +100047,9 @@ TEXT: 這時我剛剛給你的「基格爾德多面體」就派上用場了。�
 
 RESOURCE ID: quest_special_dialogue_zygarde_3_5
 TEXT: 另外，我彙整訓練家傳來的報告後，發現遊玩路線時發現基格爾德・細胞的機率很高。原來他們說的綠色物體，就是在指細胞啊。
+
+RESOURCE ID: quest_special_dialogue_zygarde_3_5_temp
+TEXT: And where can you find those Cells? Well, do you recall the unusual activity along Routes I mentioned earlier? I reckon it may have been caused by Zygarde Cells!
 
 RESOURCE ID: quest_special_dialogue_zygarde_3_6
 TEXT: %PLAYERNAME%，你可以幫我去查證一下嗎？
@@ -111426,6 +111485,9 @@ TEXT: 為了能追蹤正確的距離，遊玩路線時請避免脫離路徑。
 
 RESOURCE ID: report_route_bug_info_zygarde
 TEXT: 並非所有路線上都會出現基格爾德・細胞。
+
+RESOURCE ID: report_route_bug_info_zygarde_temp
+TEXT: Zygarde Cells are not guaranteed to appear at the end of every Route.
 
 RESOURCE ID: report_route_bug_reason_candy
 TEXT: 一起遊玩了此路線的夥伴寶可夢並未迅速找到糖果。
@@ -125202,6 +125264,16 @@ TEXT: <b>可獲得的獎勵：</b>
 
 <a href="https://pokemongo.com/gowildarea/global">關於入場券的獎勵詳情，請參照此處。</a>
 
+RESOURCE ID: text_rewards_key_gowa26
+TEXT: <b>Includes:</b>
+• Up to 6 free Raid Passes each day from spinning Gym Photo Discs
+• Increased chance of receiving event 10 km Eggs from Poké Stops
+• Up to 6 Special Trades per day and reduced Stardust cost for trades
+• 1/2 hatch distance for eggs placed in incubators
+• 2x catch candy for catching Pokémon
+• A higher chance to encounter Shiny Pokémon during the event
+Learn more about the ticket bonuses <a href=“pokemongo.com/gowildarea/global”>here</a>.
+
 RESOURCE ID: text_rewards_key_growingup0525
 TEXT: <b>可獲得的獎勵：</b>
 ・與鯉魚王、吼吼鯨、青綿鳥、路卡利歐、膽小蟲、稚山雀和一對鼠相遇
@@ -127751,6 +127823,12 @@ TEXT: 極巨謎團獎勵限時調查
 RESOURCE ID: title_tr_max_mystery_00
 TEXT: 極巨謎團獎勵限時調查(1/1)
 
+RESOURCE ID: title_tr_pxp_2026_stream
+TEXT: PokémonXP獎勵限時調查
+
+RESOURCE ID: title_tr_pxp_2026_stream_00
+TEXT: PokémonXP獎勵限時調查(1/1)
+
 RESOURCE ID: title_tr_wcs_2023_champ
 TEXT: 2023年寶可夢世界冠軍獎勵限時調查
 
@@ -127781,6 +127859,48 @@ TEXT: 團隊精神：超級聯盟 – 獎勵限時調查(2/3)
 RESOURCE ID: title_tr_wcs_2024_team_building_02
 TEXT: 團隊精神：超級聯盟 – 獎勵限時調查(3/3)
 
+RESOURCE ID: title_tr_wcs_2025_champ
+TEXT: 2025年寶可夢世界冠軍獎勵限時調查
+
+RESOURCE ID: title_tr_wcs_2025_champ_00
+TEXT: 2025年寶可夢世界冠軍獎勵限時調查(1/2)
+
+RESOURCE ID: title_tr_wcs_2025_champ_01
+TEXT: 2025年寶可夢世界冠軍獎勵限時調查(2/2)
+
+RESOURCE ID: title_tr_wcs_2026_team_building
+TEXT: 團隊精神：超級聯盟 – 獎勵限時調查
+
+RESOURCE ID: title_tr_wcs_2026_team_building_00
+TEXT: 團隊精神：超級聯盟 – 獎勵限時調查(1/3)
+
+RESOURCE ID: title_tr_wcs_2026_team_building_01
+TEXT: 團隊精神：超級聯盟 – 獎勵限時調查(2/3)
+
+RESOURCE ID: title_tr_wcs_2026_team_building_02
+TEXT: 團隊精神：超級聯盟 – 獎勵限時調查(3/3)
+
+RESOURCE ID: title_tr_wcs_2026_team_building_dialog_00
+TEXT: 嘿，%PLAYERNAME%！是時候做出選擇了。適合用來在對戰中試試身手的是？
+
+RESOURCE ID: title_tr_wcs_2026_team_building_path_a
+TEXT: 大舌頭
+
+RESOURCE ID: title_tr_wcs_2026_team_building_path_a_desc
+TEXT: 選擇這個分歧，就能與大舌頭、青綿鳥和波加曼相遇，並且獲得星星沙子及糖果。
+
+RESOURCE ID: title_tr_wcs_2026_team_building_path_b
+TEXT: 小鋸鱷
+
+RESOURCE ID: title_tr_wcs_2026_team_building_path_b_desc
+TEXT: 選擇這個分歧，就能與小鋸鱷、瑪力露和榛果球相遇，並且獲得星星沙子及糖果。
+
+RESOURCE ID: title_tr_wcs_2026_team_building_path_c
+TEXT: 烏波（帕底亞的樣子）
+
+RESOURCE ID: title_tr_wcs_2026_team_building_path_c_desc
+TEXT: 選擇這個分歧，就能與尾立、變隱龍和帕底亞烏波相遇，並且獲得星星沙子及糖果。
+
 RESOURCE ID: title_tr_wcs_anaheim_greetings
 TEXT: 來自安那翰的問候！獎勵限時調查
 
@@ -127792,6 +127912,12 @@ TEXT: 來自檀香山的問候！獎勵限時調查
 
 RESOURCE ID: title_tr_wcs_honolulu_greetings_00
 TEXT: 來自檀香山的問候！獎勵限時調查(1/1)
+
+RESOURCE ID: title_tr_wcs_sanfrancisco_greetings
+TEXT: 來自舊金山的問候！獎勵限時調查
+
+RESOURCE ID: title_tr_wcs_sanfrancisco_greetings_00
+TEXT: 來自舊金山的問候！獎勵限時調查(1/1)
 
 RESOURCE ID: title_unown_o_clock
 TEXT: 未知圖騰大量出現
@@ -133356,6 +133482,24 @@ TEXT: 尾立
 
 RESOURCE ID: wcs_2025_great_league_tr_path_c_desc
 TEXT: 選擇這個分岐來培育超級聯盟對戰小隊：大尾立、沼王及具甲武者
+
+RESOURCE ID: wcs_2026_irl_surprise_tr_dialog_00_00
+TEXT: 這不是%PLAYERNAME%嗎！我在研究超級進化的過程中，發現了令我想要進一步深入調查的寶可夢。那就是布里卡隆、妖火紅狐、甲賀忍蛙這3隻。
+
+RESOURCE ID: wcs_2026_irl_surprise_tr_dialog_00_01
+TEXT: 該請你負責哪一項調查呢……？
+
+RESOURCE ID: wcs_2026_irl_surprise_tr_dialog_01_00
+TEXT: 我就知道你會選牠！我來說明牠的超級進化吧。
+
+RESOURCE ID: wcs_2026_irl_surprise_tr_dialog_01_01_chesnaught
+TEXT: 超級布里卡隆擁有經過強化的裝甲以及守護到底的意志，是堅不可摧的寶可夢。就交給你了！
+
+RESOURCE ID: wcs_2026_irl_surprise_tr_dialog_01_01_delphox
+TEXT: 超級妖火紅狐會先操控點燃火焰的枝條來迷惑對手，再向對手丟出大火球。真是火熱啊！
+
+RESOURCE ID: wcs_2026_irl_surprise_tr_dialog_01_01_greninja
+TEXT: 超級甲賀忍蛙會高速旋轉巨大的手裡劍，令其浮在空中並讓自己倒貼在上面。牠很擅長出其不意地攻擊對手。就拜託你了！
 
 RESOURCE ID: wcs_2026_sf_event_title_extended
 TEXT: San Francisco 2026 Pokémon World Championships Extended Bonuses

@@ -19352,6 +19352,9 @@ TEXT: Dijamin 1 Permen XL saat menangkap Lucario
 RESOURCE ID: bonus_rare_candy_xl_catch_origin
 TEXT: Dijamin 1 Permen Langka XL ketika menangkap Dialga Bentuk Origin atau Palkia Bentuk Origin
 
+RESOURCE ID: bonus_rare_candy_xl_catch_starmie
+TEXT: Dijamin 1 Permen XL saat menangkap Starmie
+
 RESOURCE ID: bonus_rare_candy_xl_chance_raids
 TEXT: Peluang perolehan Permen Langka XL dari Raid meningkat
 
@@ -19702,6 +19705,9 @@ TEXT: Pokémon dari Daerah Unova muncul di alam liar!
 
 RESOURCE ID: bonus_today_zygarde_cell
 TEXT: Sel Zygarde dapat ditemukan di akhir hingga 5 rute per hari
+
+RESOURCE ID: bonus_today_zygarde_cell_temp
+TEXT: Zygarde Cells can be claimed when completing a Route up to 5 times per day
 
 RESOURCE ID: bonus_total_6_special_trades
 TEXT: Total Pertukaran Spesial per hari: 6 kali
@@ -21188,6 +21194,9 @@ TEXT: Berjalan {0} km untuk mengumpulkan {1} PM
 
 RESOURCE ID: breakfast_tappable_tutorial_body
 TEXT: Kamu dapat menemukan Sel Zygarde saat menelusuri Rute. Sel tersebut dapat digabungkan untuk membentuk bentuk lain dari Zygarde.
+
+RESOURCE ID: breakfast_tappable_tutorial_body_temp
+TEXT: You can find Zygarde Cells after completing a Route. You can assemble Zygarde Cells to create different Zygarde forms.
 
 RESOURCE ID: breakthrough_free_remote_raid_pass
 TEXT: Tiket Raid Jarak Jauh dari Inovasi Penelitian
@@ -26175,6 +26184,12 @@ TEXT: Hasami
 RESOURCE ID: city_manhole_476
 TEXT: Goto
 
+RESOURCE ID: city_manhole_480
+TEXT: Isahaya
+
+RESOURCE ID: city_manhole_481
+TEXT: Saikai
+
 RESOURCE ID: city_manhole_4(ibusuki)_d64e
 TEXT: Ibusuki
 
@@ -29362,7 +29377,7 @@ RESOURCE ID: dynamic_punch_+_move_content
 TEXT: Mewtwo meninju dengan sekuat tenaga untuk {0}. Meningkatkan kerusakan terhadap Pokémon Evolusi Mega dalam Raid dan memungkinkan Pokémon Evolusi Mega-mu menghancurkan 2 perisai dalam Raid Mega Super.
 
 RESOURCE ID: dynamic_punch_adventure_effects_mapview_dialog
-TEXT: Mewtwo punches with full, concentrated power. Increases damage against Mega Pokémon in Raids and enables your Mega Pokémon to break two shields in Super Mega Raids.
+TEXT: Mewtwo punches with full, concentrated power. Increases damage against Mega-Evolved Pokémon in raids and enables your Mega-Evolved Pokémon to break two shields in Super Mega Raids.
 
 RESOURCE ID: dynamic_punch_adventure_effects_mapview_dialog_out
 TEXT: Mewtwo menyerang dengan pukulan kuat selama {0}. Memungkinkan Pokémon Evolusi Mega-mu untuk menghancurkan 2 perisai dalam Raid Mega Super.
@@ -31148,7 +31163,7 @@ RESOURCE ID: event_datetime_range_key_megaskarmoryraidday
 TEXT: 27 Juni, 14.00 – 17.00
 
 RESOURCE ID: event_datetime_range_key_megastarmieraidday
-TEXT: 20 Agustus, 11.00 – 17.00
+TEXT: 22 Agustus, 11.00 – 17.00
 
 RESOURCE ID: event_datetime_range_key_monochromeholidaysdec2024
 TEXT: 22 Desember, 10.00 –
@@ -32366,7 +32381,7 @@ TEXT: Purchase GO Pass Deluxe: GO Fest 2026 Mega Finale to unlock the following!
 • And more!
 
 RESOURCE ID: event_pass_gofest2026_finale_weekend_wild_shiny_bonus
-TEXT: Increased chance of encountering Shiny featured Pokémon in the wild during GO Fest 2026: Mega Finale event hours
+TEXT: Increased chance of encountering Shiny featured Pokémon in the wild during GO Fest 2026: Mega Finale weekend event hours
 
 RESOURCE ID: event_pass_gofest2026_premium_track_title
 TEXT: Tiket GO Luks: Jalur Para Legenda
@@ -36393,7 +36408,7 @@ RESOURCE ID: future_sight_+_move_content
 TEXT: Mewtwo melepaskan energi psikokinesis besar selama {0}, mendeteksi ketika Pokémon yang ditemui memiliki statistik tinggi.
 
 RESOURCE ID: future_sight_adventure_effects_mapview_dialog
-TEXT: Mewtwo releases a hunk of psychic energy, revealing Pokémon with high stats before they are caught.
+TEXT: Mewtwo releases a hunk of psychic energy, revealing when encountered Pokémon have high stats.
 
 RESOURCE ID: future_sight_adventure_effects_mapview_dialog_out
 TEXT: Mewtwo melepaskan energi psikokinesis besar selama {0}, mendeteksi Pokémon berstatistik tinggi yang ditemui di alam liar atau setelah Raid.
@@ -36562,6 +36577,9 @@ TEXT: Total hingga 10 set pertarungan di GO Battle League
 
 RESOURCE ID: gbl_sets_extra_twenty_total
 TEXT: Total Pertarungan di Liga GO Battle: 20 set
+
+RESOURCE ID: gbl_stat_variance_bonus
+TEXT: Pokémon yang ditangkap dari GO Battle League (kecuali Pokémon Legendaris) akan memiliki lebih banyak variasi Serangan, Pertahanan, dan HP
 
 RESOURCE ID: gbl_ticket_research_title
 TEXT: GO Battle League Timed Research
@@ -38644,6 +38662,9 @@ TEXT: Tiket Global Pokémon GO Wild Area 2025
 
 RESOURCE ID: general2.ticket._gowa25_leadup_title
 TEXT: Penelitian Berwaktu Premium Bersiap untuk Alam Liar
+
+RESOURCE ID: general2.ticket._gowa26_title
+TEXT: Pokémon GO Wild Area 2026 Global Ticket
 
 RESOURCE ID: general2.ticket._megagalladeraidday_title
 TEXT: Tiket Hari Raid Mega Gallade
@@ -52338,6 +52359,9 @@ TEXT: Tiket untuk mengakses Penelitian Spesial dan bonus Pokémon GO Wild Area: 
 RESOURCE ID: item_global_event_ticket_desc_gowa25
 TEXT: Tiket untuk mengakses Penelitian Spesial Pokémon GO Wild Area 2025: Global pada tanggal 15 dan 16 November 2025 waktu setempat, di mana pun kamu berada.
 
+RESOURCE ID: item_global_event_ticket_desc_gowa26
+TEXT: A ticket to access the Pokémon GO Wild Area 2026: Global Special Research on November 14 and November 15, 2026, local time, wherever you are.
+
 RESOURCE ID: item_global_event_ticket_desc_hisuiandecidueye
 TEXT: Tiket untuk mengakses bonus spesial pada Minggu, 11 Februari 2024, mulai pukul 14.00 hingga 22.00 waktu setempat, di mana pun kamu berada.
 
@@ -52393,6 +52417,11 @@ RESOURCE ID: item_global_event_ticket_details_gowa25
 TEXT: Tiket ini akan aktif secara otomatis dan memberimu akses ke Penelitian Spesial Pokémon GO Wild Area 2025: Global pada tanggal 15 dan 16 November waktu setempat, di mana pun kamu berada. Detailnya bisa ditemukan di Berita dalam game.
 
 Kamu harus bermain salama waktu yang ditentukan untuk mendapatkan semua bonus event.
+
+RESOURCE ID: item_global_event_ticket_details_gowa26
+TEXT: This ticket will automatically activate to give you access to the Pokémon GO Wild Area 2026: Global Special Research on November 14 and 15, local time, wherever you are. Details can be found in the in-game News.
+
+You must play during the specified time to receive all the event bonuses.
 
 RESOURCE ID: item_global_event_ticket_details_hisuiandecidueye
 TEXT: Tiket ini akan aktif secara otomatis dan memberimu akses ke bonus spesial pada tanggal 11 Februari, di mana pun kamu berada.
@@ -56506,7 +56535,7 @@ RESOURCE ID: lobby_ready_progress
 TEXT: {0}/{1} siap
 
 RESOURCE ID: lobby_shield_break_power
-TEXT: Shield break potential
+TEXT: {0}/{1} Shield break potential
 
 RESOURCE ID: local_bonus_event_tag
 TEXT: Bonus Lokal
@@ -59142,10 +59171,10 @@ at SHA 12701f1c07ae7f07a5d50583f697320977df7988
 Pipeline 1139111, job 13470914
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-08-06T02:14:44.768040+00:00 for id-ID
-at SHA 46aa1b7c9a2
-Pipeline 3855357, job 56696459
-Patch from: 0.421.0-SHA-1cc74f81-RC5, 0.423.1-SHA-70644676-RC1, 0.425.0-SHA-18d2732c-RC2
+TEXT: Built at 2026-08-10T23:29:18.099028+00:00 for id-ID
+at SHA 7467817e563
+Pipeline 3866309, job 56846989
+Patch from: 0.425.0-SHA-73e817e6-RC3, 0.423.1-SHA-70644676-RC1
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: Penelitian Berwaktu: Pilih Tipe Petarungmu
@@ -79391,8 +79420,29 @@ TEXT: Pokémon Presents
 RESOURCE ID: pokemon_purified_message
 TEXT: {0} telah dipurifikasi!
 
+RESOURCE ID: pokemon_run_2026_hongkong_title
+TEXT: Pokémon RUN 30: Hong Kong
+
+RESOURCE ID: pokemon_run_2026_indonesia_title
+TEXT: Pokémon RUN 30: Indonesia
+
+RESOURCE ID: pokemon_run_2026_malaysia_title
+TEXT: Pokémon RUN 30: Malaysia
+
+RESOURCE ID: pokemon_run_2026_philippines_title
+TEXT: Pokémon RUN 30: Filipina
+
 RESOURCE ID: pokemon_run_2026_seoul_title
 TEXT: Pokémon RUN 2026 Seoul
+
+RESOURCE ID: pokemon_run_2026_singapore_title
+TEXT: Pokémon RUN 30: Singapura
+
+RESOURCE ID: pokemon_run_2026_taiwan_title
+TEXT: Pokémon RUN 30: Taiwan
+
+RESOURCE ID: pokemon_run_2026_thailand_title
+TEXT: Pokémon RUN 30: Thailand
 
 RESOURCE ID: pokemon_shiny_info_transfer_to_professor_confirmation
 TEXT: Yakin ingin mentransfer Pokémon Bersinar ini?
@@ -97187,8 +97237,14 @@ TEXT: Saat kamu sedang berjalan-jalan, aku menerima laporan dari beberapa Pelati
 RESOURCE ID: quest_special_dialogue_zygarde_1_2
 TEXT: Laporannya berisikan kesaksian akan beberapa objek berwarna hijau sepanjang Rute. Ada juga Pelatih yang menyebutnya "Makhluk Hijau".
 
+RESOURCE ID: quest_special_dialogue_zygarde_1_2_temp
+TEXT: Curiously, several mentioned unusual activity along nearby Routes. Some Trainers even said they spotted something they couldn’t quite identify!
+
 RESOURCE ID: quest_special_dialogue_zygarde_1_3
 TEXT: Aku punya teori lagi sih ... Tetapi, aku akan mencari dokumen lainnya agar jadi lebih yakin. Ah, sepertinya aku harus membaca kumpulan artikel Penelitian Pokémon Daerah Kalos sekali lagi.
+
+RESOURCE ID: quest_special_dialogue_zygarde_1_3_temp
+TEXT: I have a theory about what might be drawing attention out there, but I’d like to look through my research materials a tad more first. Maybe even reread that article from earlier...
 
 RESOURCE ID: quest_special_dialogue_zygarde_1_4
 TEXT: Bagaimana kalau kamu juga melanjutkan pekerjaan untukku di lapangan, %PLAYERNAME%?
@@ -97225,6 +97281,9 @@ TEXT: Dan untuk itu kamu perlu menggunakan alat yang tadi kuberikan padamu, Zyga
 
 RESOURCE ID: quest_special_dialogue_zygarde_3_5
 TEXT: Menurut laporan para Pelatih, peluang untuk menemukan Sel Zygarde dengan menjelajahi Rute itu tinggi. Makhluk Hijau itu ternyata adalah sel tersebut.
+
+RESOURCE ID: quest_special_dialogue_zygarde_3_5_temp
+TEXT: And where can you find those Cells? Well, do you recall the unusual activity along Routes I mentioned earlier? I reckon it may have been caused by Zygarde Cells!
 
 RESOURCE ID: quest_special_dialogue_zygarde_3_6
 TEXT: Bisakah kamu mengetes teoriku ini, %PLAYERNAME%?
@@ -108590,6 +108649,9 @@ TEXT: Hindari pergi terlalu jauh dari jalur Rute agar jarak dapat dilacak dengan
 
 RESOURCE ID: report_route_bug_info_zygarde
 TEXT: Sel Zygarde tidak selalu muncul di setiap Rute.
+
+RESOURCE ID: report_route_bug_info_zygarde_temp
+TEXT: Zygarde Cells are not guaranteed to appear at the end of every Route.
 
 RESOURCE ID: report_route_bug_reason_candy
 TEXT: Partner tidak mendapatkan Permen lebih cepat saat berada di Rute ini.
@@ -122341,6 +122403,16 @@ TEXT: <b>Termasuk:</b>
 
 <a href="https://pokemongo.com/gowildarea/global"> Pelajari lebih lanjut tentang bonus tiket di sini.</a>
 
+RESOURCE ID: text_rewards_key_gowa26
+TEXT: <b>Includes:</b>
+• Up to 6 free Raid Passes each day from spinning Gym Photo Discs
+• Increased chance of receiving event 10 km Eggs from Poké Stops
+• Up to 6 Special Trades per day and reduced Stardust cost for trades
+• 1/2 hatch distance for eggs placed in incubators
+• 2x catch candy for catching Pokémon
+• A higher chance to encounter Shiny Pokémon during the event
+Learn more about the ticket bonuses <a href=“pokemongo.com/gowildarea/global”>here</a>.
+
 RESOURCE ID: text_rewards_key_growingup0525
 TEXT: <b>Termasuk hadiah:</b>
 • Pertemuan dengan  Magikarp, Wailmer, Swablu, Lucario, Wimpod, Rookidee, dan Tandemaus
@@ -124857,6 +124929,12 @@ TEXT: Bonus Penelitian Berwaktu Misteri Max
 RESOURCE ID: title_tr_max_mystery_00
 TEXT: Bonus Penelitian Berwaktu Misteri Max (1/1)
 
+RESOURCE ID: title_tr_pxp_2026_stream
+TEXT: Bonus Penelitian Berwaktu PokémonXP
+
+RESOURCE ID: title_tr_pxp_2026_stream_00
+TEXT: Bonus Penelitian Berwaktu PokémonXP (1/1)
+
 RESOURCE ID: title_tr_wcs_2023_champ
 TEXT: Bonus Penelitian Berwaktu Pokémon World Championships 2023
 
@@ -124887,6 +124965,48 @@ TEXT: Pembentukan Tim: Liga Great – Bonus Penelitian Berwaktu (2/3)
 RESOURCE ID: title_tr_wcs_2024_team_building_02
 TEXT: Pembentukan Tim: Liga Great – Bonus Penelitian Berwaktu (3/3)
 
+RESOURCE ID: title_tr_wcs_2025_champ
+TEXT: Bonus Penelitian Berwaktu Pokémon Champion 2025
+
+RESOURCE ID: title_tr_wcs_2025_champ_00
+TEXT: Bonus Penelitian Berwaktu Pokémon World Champion 2025 (1/2)
+
+RESOURCE ID: title_tr_wcs_2025_champ_01
+TEXT: Bonus Penelitian Berwaktu Pokémon World Champion 2025 (2/2)
+
+RESOURCE ID: title_tr_wcs_2026_team_building
+TEXT: Pembentukan Tim: Liga Great – Bonus Penelitian Berwaktu
+
+RESOURCE ID: title_tr_wcs_2026_team_building_00
+TEXT: Pembentukan Tim: Liga Great – Bonus Penelitian Berwaktu (1/3)
+
+RESOURCE ID: title_tr_wcs_2026_team_building_01
+TEXT: Pembentukan Tim: Liga Great – Bonus Penelitian Berwaktu (2/3)
+
+RESOURCE ID: title_tr_wcs_2026_team_building_02
+TEXT: Pembentukan Tim: Liga Great – Bonus Penelitian Berwaktu (3/3)
+
+RESOURCE ID: title_tr_wcs_2026_team_building_dialog_00
+TEXT: Hei, %PLAYERNAME%! Waktunya untuk memilih. Pilih timmu untuk menguji kemampuanmu di pertarungan.
+
+RESOURCE ID: title_tr_wcs_2026_team_building_path_a
+TEXT: Pilih Lickitung
+
+RESOURCE ID: title_tr_wcs_2026_team_building_path_a_desc
+TEXT: Pilih rute ini untuk pertemuan dengan Lickitung, Swablu, dan Piplup, plus hadiah seperti Debu Bintang dan Permen.
+
+RESOURCE ID: title_tr_wcs_2026_team_building_path_b
+TEXT: Pilih Totodile
+
+RESOURCE ID: title_tr_wcs_2026_team_building_path_b_desc
+TEXT: Pilih rute ini untuk pertemuan dengan Totodile, Marill, dan Pineco, plus hadiah seperti Debu Bintang dan Permen.
+
+RESOURCE ID: title_tr_wcs_2026_team_building_path_c
+TEXT: Pilih Paldean Wooper
+
+RESOURCE ID: title_tr_wcs_2026_team_building_path_c_desc
+TEXT: Pilih rute ini untuk pertemuan dengan Sentret, Kecleon, dan Paldean Wooper, plus hadiah seperti Debu Bintang dan Permen.
+
 RESOURCE ID: title_tr_wcs_anaheim_greetings
 TEXT: Bonus Penelitian Berwaktu Hei dari Anaheim!
 
@@ -124898,6 +125018,12 @@ TEXT: Bonus Penelitian Berwaktu Aloha dari Honolulu!
 
 RESOURCE ID: title_tr_wcs_honolulu_greetings_00
 TEXT: Bonus Penelitian Berwaktu Aloha dari Honolulu! (1/1)
+
+RESOURCE ID: title_tr_wcs_sanfrancisco_greetings
+TEXT: Bonus Penelitian Berwaktu Salam dari San Francisco!
+
+RESOURCE ID: title_tr_wcs_sanfrancisco_greetings_00
+TEXT: Bonus Penelitian Berwaktu Salam dari San Francisco! (1/1)
 
 RESOURCE ID: title_unown_o_clock
 TEXT: Saatnya Unown
@@ -130373,6 +130499,24 @@ TEXT: Pilih Sentret
 
 RESOURCE ID: wcs_2025_great_league_tr_path_c_desc
 TEXT: Bentuk dan latih tim untuk Liga Great GO Battle League yang terdiri dari Furret, Quagsire, dan Golisopod.
+
+RESOURCE ID: wcs_2026_irl_surprise_tr_dialog_00_00
+TEXT: %PLAYERNAME%! Aku telah mempelajari tentang Evolusi Mega, dan ada tiga Pokémon luar biasa yang menarik perhatianku—Chesnaught, Delphox, dan Greninja.
+
+RESOURCE ID: wcs_2026_irl_surprise_tr_dialog_00_01
+TEXT: Dan hal yang luar biasa layak untuk diteliti! Setiap Pokémon ini memiliki keistimewaan tersendiri, jadi tidak ada pilihan yang salah di sini. Yang ada hanyalah tiga jalur menuju penemuan yang seru!
+
+RESOURCE ID: wcs_2026_irl_surprise_tr_dialog_01_00
+TEXT: Pilihan luar biasa! Aku sudah menduga kamu akan memilihnya. Mari kita lihat lebih dekat dan cari tahu apa yang bisa kita pelajari dari Evolusi Mega ini.
+
+RESOURCE ID: wcs_2026_irl_surprise_tr_dialog_01_01_chesnaught
+TEXT: Mega Chesnaught, ya? Baik armor maupun tekadnya untuk melindungi sungguh luar biasa. Nah, inilah yang namanya tantangan yang sulit dipecahkan!
+
+RESOURCE ID: wcs_2026_irl_surprise_tr_dialog_01_01_delphox
+TEXT: Mega Delphox, ya? Ia menyilaukan lawannya dengan dahan-dahan yang berkobar sebelum memanggang mereka menggunakan bola api raksasa. Penelitian ini benar-benar memanas!
+
+RESOURCE ID: wcs_2026_irl_surprise_tr_dialog_01_01_greninja
+TEXT: Mega Greninja, ya? Ia memutar syuriken raksasa dengan kecepatan tinggi hingga bisa melayang, lalu menempel dalam posisi terbalik untuk mengejutkan lawan. Benar-benar serangan kejutan!
 
 RESOURCE ID: wcs_2026_sf_event_title_extended
 TEXT: San Francisco 2026 Pokémon World Championships Extended Bonuses

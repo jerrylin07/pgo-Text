@@ -19574,6 +19574,9 @@ TEXT: Un Caramelo Raro XL garantizado cuando atrapes a Lucario
 RESOURCE ID: bonus_rare_candy_xl_catch_origin
 TEXT: Un Caramelo Raro XL garantizado al atrapar a Dialga Forma Origen o Palkia Forma Origen
 
+RESOURCE ID: bonus_rare_candy_xl_catch_starmie
+TEXT: One guaranteed Rare Candy XL when catching Starmie
+
 RESOURCE ID: bonus_rare_candy_xl_chance_raids
 TEXT: Mayor probabilidad de obtener Caramelos Raros XL en las incursiones
 
@@ -19924,6 +19927,9 @@ TEXT: ¡Están apareciendo Pokémon de la región de Unova en estado salvaje!
 
 RESOURCE ID: bonus_today_zygarde_cell
 TEXT: Las células de Zygarde pueden aparecer al final de hasta 5 Rutas cada día
+
+RESOURCE ID: bonus_today_zygarde_cell_temp
+TEXT: Zygarde Cells can be claimed when completing a Route up to 5 times per day
 
 RESOURCE ID: bonus_total_6_special_trades
 TEXT: Un total de seis intercambios especiales cada día
@@ -21411,6 +21417,9 @@ TEXT: Camina {0} km para recolectar {1} PM
 
 RESOURCE ID: breakfast_tappable_tutorial_body
 TEXT: Puedes encontrar células de Zygarde mientras completas esta Ruta. Reúne las células de Zygarde para sintetizar una forma diferente de Zygarde.
+
+RESOURCE ID: breakfast_tappable_tutorial_body_temp
+TEXT: You can find Zygarde Cells after completing a Route. You can assemble Zygarde Cells to create different Zygarde forms.
 
 RESOURCE ID: breakthrough_free_remote_raid_pass
 TEXT: Pase de Incursión Remota en los logros de investigación
@@ -26397,6 +26406,12 @@ TEXT: Hasami
 RESOURCE ID: city_manhole_476
 TEXT: Goto
 
+RESOURCE ID: city_manhole_480
+TEXT: Isahaya
+
+RESOURCE ID: city_manhole_481
+TEXT: Saikai
+
 RESOURCE ID: city_manhole_4(ibusuki)_d64e
 TEXT: Ibusuki
 
@@ -29579,7 +29594,7 @@ RESOURCE ID: dynamic_punch_+_move_content
 TEXT: Mewtwo da un puñetazo con toda la fuerza concentrada durante {0}. Aumenta el daño contra los Pokémon megaevolucionados en las incursiones y permite que tus Pokémon megaevolucionados rompan dos Escudos en las supermegaincursiones.
 
 RESOURCE ID: dynamic_punch_adventure_effects_mapview_dialog
-TEXT: Mewtwo punches with full, concentrated power. Increases damage against Mega Pokémon in Raids and enables your Mega Pokémon to break two shields in Super Mega Raids.
+TEXT: Mewtwo punches with full, concentrated power. Increases damage against Mega-Evolved Pokémon in raids and enables your Mega-Evolved Pokémon to break two shields in Super Mega Raids.
 
 RESOURCE ID: dynamic_punch_adventure_effects_mapview_dialog_out
 TEXT: Mewtwo ataca con unos potentes puños durante {0}. Permite que tus Pokémon megaevolucionados rompan dos Escudos en las supermegaincursiones.
@@ -31364,7 +31379,7 @@ RESOURCE ID: event_datetime_range_key_megaskarmoryraidday
 TEXT: 27 de junio de 2:00 p. m. a 5:00 p. m.
 
 RESOURCE ID: event_datetime_range_key_megastarmieraidday
-TEXT: 20 de agosto de 11:00 a. m. a 5:00 p. m.
+TEXT: 22 de agosto de 11:00 a. m. a 5:00 p. m.
 
 RESOURCE ID: event_datetime_range_key_monochromeholidaysdec2024
 TEXT: Del 22 de diciembre a las 10:00 a. m. 
@@ -32581,7 +32596,7 @@ TEXT: Purchase GO Pass Deluxe: GO Fest 2026 Mega Finale to unlock the following!
 • And more!
 
 RESOURCE ID: event_pass_gofest2026_finale_weekend_wild_shiny_bonus
-TEXT: Increased chance of encountering Shiny featured Pokémon in the wild during GO Fest 2026: Mega Finale event hours
+TEXT: Increased chance of encountering Shiny featured Pokémon in the wild during GO Fest 2026: Mega Finale weekend event hours
 
 RESOURCE ID: event_pass_gofest2026_premium_track_title
 TEXT: Pase de GO Deluxe: Camino legendario
@@ -36612,7 +36627,7 @@ RESOURCE ID: future_sight_+_move_content
 TEXT: Mewtwo desata energía psíquica concentrada durante {0} y revela cuando los Pokémon que te encuentres tienen características altas.
 
 RESOURCE ID: future_sight_adventure_effects_mapview_dialog
-TEXT: Mewtwo releases a hunk of psychic energy, revealing Pokémon with high stats before they are caught.
+TEXT: Mewtwo releases a hunk of psychic energy, revealing when encountered Pokémon have high stats.
 
 RESOURCE ID: future_sight_adventure_effects_mapview_dialog_out
 TEXT: Mewtwo desata energía psíquica concentrada durante {0} y revela cuando un Pokémon que te encuentres en estado salvaje o tras las incursiones tiene estadísticas altas.
@@ -36781,6 +36796,9 @@ TEXT: Hasta 10 series de combates en la Liga de Combates GO
 
 RESOURCE ID: gbl_sets_extra_twenty_total
 TEXT: Un total de 20 series de combates de la Liga de Combates GO
+
+RESOURCE ID: gbl_stat_variance_bonus
+TEXT: Non-Legendary Pokémon caught from the GO Battle League will have a wider variance of Attack, Defense, and HP
 
 RESOURCE ID: gbl_ticket_research_title
 TEXT: Investigación Temporal de la Liga de Combates GO
@@ -38842,6 +38860,9 @@ TEXT: Entrada: Área Silvestre de Pokémon GO 2025 (Global)
 
 RESOURCE ID: general2.ticket._gowa25_leadup_title
 TEXT: Entrada: Investigación Temporal Prémium de Preparativos silvestres
+
+RESOURCE ID: general2.ticket._gowa26_title
+TEXT: Pokémon GO Wild Area 2026 Global Ticket
 
 RESOURCE ID: general2.ticket._megagalladeraidday_title
 TEXT: Entrada: Día de Incursiones de Mega-Gallade
@@ -52493,6 +52514,9 @@ TEXT: Una entrada para acceder a la Investigación Especial y las bonificaciones
 RESOURCE ID: item_global_event_ticket_desc_gowa25
 TEXT: Una entrada para acceder a la Investigación Especial de Área Silvestre de Pokémon GO 2025: Global el 15 y 16 de noviembre de 2025 en tu hora local, estés donde estés.
 
+RESOURCE ID: item_global_event_ticket_desc_gowa26
+TEXT: A ticket to access the Pokémon GO Wild Area 2026: Global Special Research on November 14 and November 15, 2026, local time, wherever you are.
+
 RESOURCE ID: item_global_event_ticket_desc_hisuiandecidueye
 TEXT: Una entrada para acceder a bonificaciones especiales el domingo 11 de febrero de 2024 de 2 p. m. a 10 p. m. en tu hora local, estés donde estés.
 
@@ -52548,6 +52572,11 @@ RESOURCE ID: item_global_event_ticket_details_gowa25
 TEXT: Esta entrada se activará automáticamente el 15 y 16 de noviembre para darte acceso a la Investigación Especial de Área Silvestre de Pokémon GO 2025: Global en tu hora local, estés donde estés. Puedes encontrar más información en las Noticias dentro del juego.
 
 Debes jugar durante las horas especificadas para recibir todas las bonificaciones del evento.
+
+RESOURCE ID: item_global_event_ticket_details_gowa26
+TEXT: This ticket will automatically activate to give you access to the Pokémon GO Wild Area 2026: Global Special Research on November 14 and 15, local time, wherever you are. Details can be found in the in-game News.
+
+You must play during the specified time to receive all the event bonuses.
 
 RESOURCE ID: item_global_event_ticket_details_hisuiandecidueye
 TEXT: Esta entrada se activará automáticamente para darte acceso a las bonificaciones especiales el 11 de febrero, estés donde estés.
@@ -56652,7 +56681,7 @@ RESOURCE ID: lobby_ready_progress
 TEXT: Listos: {0} de {1}
 
 RESOURCE ID: lobby_shield_break_power
-TEXT: Shield break potential
+TEXT: {0}/{1} Shield break potential
 
 RESOURCE ID: local_bonus_event_tag
 TEXT: Bonificación local
@@ -59305,10 +59334,10 @@ at SHA 0b3915937aff7
 Pipeline 2177475, job 26434025
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-08-06T02:14:44.768040+00:00 for es-MX
-at SHA 46aa1b7c9a2
-Pipeline 3855357, job 56696459
-Patch from: 0.421.0-SHA-1cc74f81-RC5, 0.423.1-SHA-70644676-RC1, 0.425.0-SHA-18d2732c-RC2
+TEXT: Built at 2026-08-10T23:29:18.099028+00:00 for es-MX
+at SHA 7467817e563
+Pipeline 3866309, job 56846989
+Patch from: 0.425.0-SHA-73e817e6-RC3, 0.423.1-SHA-70644676-RC1
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: Investigación Temporal: Elige tu tipo de lucha
@@ -79418,8 +79447,29 @@ TEXT: Pokémon Presents
 RESOURCE ID: pokemon_purified_message
 TEXT: ¡Purificaste a {0}!
 
+RESOURCE ID: pokemon_run_2026_hongkong_title
+TEXT: Pokémon RUN 30: Edición Hong Kong
+
+RESOURCE ID: pokemon_run_2026_indonesia_title
+TEXT: Pokémon RUN 30: Edición Indonesia
+
+RESOURCE ID: pokemon_run_2026_malaysia_title
+TEXT: Pokémon RUN 30: Edición Malasia
+
+RESOURCE ID: pokemon_run_2026_philippines_title
+TEXT: Pokémon RUN 30: Edición Filipinas
+
 RESOURCE ID: pokemon_run_2026_seoul_title
 TEXT: Pokémon RUN 2026 en Seúl
+
+RESOURCE ID: pokemon_run_2026_singapore_title
+TEXT: Pokémon RUN 30: Edición Singapur
+
+RESOURCE ID: pokemon_run_2026_taiwan_title
+TEXT: Pokémon RUN 30: Edición Taiwán
+
+RESOURCE ID: pokemon_run_2026_thailand_title
+TEXT: Pokémon RUN 30: Edición Tailandia
 
 RESOURCE ID: pokemon_shiny_info_transfer_to_professor_confirmation
 TEXT: ¿De verdad quieres transferir este Pokémon brillante?
@@ -97226,8 +97276,14 @@ TEXT: Mientras estabas afuera, me puse al día con los informes de observación 
 RESOURCE ID: quest_special_dialogue_zygarde_1_2
 TEXT: Curiosamente, varios de ellos mencionaban haberse encontrado con unas sustancias verdes, blanditas y sin forma en las Rutas. ¡Y hay quien pensaba que estaban vivas!
 
+RESOURCE ID: quest_special_dialogue_zygarde_1_2_temp
+TEXT: Curiously, several mentioned unusual activity along nearby Routes. Some Trainers even said they spotted something they couldn’t quite identify!
+
 RESOURCE ID: quest_special_dialogue_zygarde_1_3
 TEXT: Tengo una teoría sobre lo que puede ser ese material blandito, aunque prefiero revisar antes toda la información que recopilé en mi investigación. Quizás hasta releo el artículo del que hablamos antes...
+
+RESOURCE ID: quest_special_dialogue_zygarde_1_3_temp
+TEXT: I have a theory about what might be drawing attention out there, but I’d like to look through my research materials a tad more first. Maybe even reread that article from earlier...
 
 RESOURCE ID: quest_special_dialogue_zygarde_1_4
 TEXT: Mientras tanto, sigue con el trabajo de campo. Estoy convencido de que podré darte noticias más sólidas cuando vuelvas.
@@ -97264,6 +97320,9 @@ TEXT: ¡Y para eso era el regalo que te di anteriormente! El Arca de Zygarde se 
 
 RESOURCE ID: quest_special_dialogue_zygarde_3_5
 TEXT: Y si te interesa saber dónde encontrar las células... ¿Recuerdas ese material verde y blandito que se vio por las Rutas? ¡Pues creo que eran células de Zygarde!
+
+RESOURCE ID: quest_special_dialogue_zygarde_3_5_temp
+TEXT: And where can you find those Cells? Well, do you recall the unusual activity along Routes I mentioned earlier? I reckon it may have been caused by Zygarde Cells!
 
 RESOURCE ID: quest_special_dialogue_zygarde_3_6
 TEXT: ¿Pondrías a prueba mi hipótesis, %PLAYERNAME%?
@@ -108628,6 +108687,9 @@ TEXT: Mantente cerca de la trayectoria de la Ruta para asegurarte de que la dist
 
 RESOURCE ID: report_route_bug_info_zygarde
 TEXT: No se garantiza que las células de Zygarde aparezcan en todas las Rutas.
+
+RESOURCE ID: report_route_bug_info_zygarde_temp
+TEXT: Zygarde Cells are not guaranteed to appear at the end of every Route.
 
 RESOURCE ID: report_route_bug_reason_candy
 TEXT: Mi compañero no encontró Caramelos más rápidamente en esta Ruta.
@@ -121918,6 +121980,16 @@ TEXT: <b>Incluye:</b>
 
 <a href="https://pokemongo.com/gowildarea/global">Obtén más información sobre las bonificaciones de la entrada aquí.</a>
 
+RESOURCE ID: text_rewards_key_gowa26
+TEXT: <b>Includes:</b>
+• Up to 6 free Raid Passes each day from spinning Gym Photo Discs
+• Increased chance of receiving event 10 km Eggs from Poké Stops
+• Up to 6 Special Trades per day and reduced Stardust cost for trades
+• 1/2 hatch distance for eggs placed in incubators
+• 2x catch candy for catching Pokémon
+• A higher chance to encounter Shiny Pokémon during the event
+Learn more about the ticket bonuses <a href=“pokemongo.com/gowildarea/global”>here</a>.
+
 RESOURCE ID: text_rewards_key_growingup0525
 TEXT: <b>Las recompensas incluyen:</b>
 • Encuentros con Magikarp, Wailmer, Swablu, Lucario, Wimpod, Rookidee y Tandemaus
@@ -124434,6 +124506,12 @@ TEXT: Bonificación de Investigación Temporal de Misterios Max
 RESOURCE ID: title_tr_max_mystery_00
 TEXT: Bonificación de Investigación Temporal de Misterios Max (1/1)
 
+RESOURCE ID: title_tr_pxp_2026_stream
+TEXT: PokémonXP Bonus Timed Research
+
+RESOURCE ID: title_tr_pxp_2026_stream_00
+TEXT: PokémonXP Bonus Timed Research (1/1)
+
 RESOURCE ID: title_tr_wcs_2023_champ
 TEXT: Bonificación de Investigación Temporal del Campeón del Mundial Pokémon 2023
 
@@ -124464,6 +124542,48 @@ TEXT: Bonificación de Investigación Temporal de Espíritu de Equipo: Liga Supe
 RESOURCE ID: title_tr_wcs_2024_team_building_02
 TEXT: Bonificación de Investigación Temporal de Espíritu de Equipo: Liga Superbola (3/3)
 
+RESOURCE ID: title_tr_wcs_2025_champ
+TEXT: Bonificación de Investigación Temporal del Campeón del Mundial Pokémon 2025
+
+RESOURCE ID: title_tr_wcs_2025_champ_00
+TEXT: Bonificación de Investigación Temporal del Campeón del Mundial Pokémon 2025 (1/2)
+
+RESOURCE ID: title_tr_wcs_2025_champ_01
+TEXT: Bonificación de Investigación Temporal del Campeón del Mundial Pokémon 2025 (2/2)
+
+RESOURCE ID: title_tr_wcs_2026_team_building
+TEXT: Bonificación de Investigación Temporal de Espíritu de Equipo: Liga Superbola
+
+RESOURCE ID: title_tr_wcs_2026_team_building_00
+TEXT: Bonificación de Investigación Temporal de Espíritu de Equipo: Liga Superbola (1/3)
+
+RESOURCE ID: title_tr_wcs_2026_team_building_01
+TEXT: Bonificación de Investigación Temporal de Espíritu de Equipo: Liga Superbola (2/3)
+
+RESOURCE ID: title_tr_wcs_2026_team_building_02
+TEXT: Bonificación de Investigación Temporal de Espíritu de Equipo: Liga Superbola (3/3)
+
+RESOURCE ID: title_tr_wcs_2026_team_building_dialog_00
+TEXT: ¡Hola, %PLAYERNAME%! Llegó el momento de tomar una decisión: elige tu equipo para poner a prueba tus habilidades en combate.
+
+RESOURCE ID: title_tr_wcs_2026_team_building_path_a
+TEXT: Elige a Lickitung
+
+RESOURCE ID: title_tr_wcs_2026_team_building_path_a_desc
+TEXT: Elige esta opción para encontrarte con Lickitung, Swablu y Piplup, así como para obtener recompensas como Polvo Estrella y Caramelos.
+
+RESOURCE ID: title_tr_wcs_2026_team_building_path_b
+TEXT: Elige a Totodile
+
+RESOURCE ID: title_tr_wcs_2026_team_building_path_b_desc
+TEXT: Elige esta opción para encontrarte con Totodile, Marill y Pineco, así como para obtener recompensas como Polvo Estrella y Caramelos.
+
+RESOURCE ID: title_tr_wcs_2026_team_building_path_c
+TEXT: Elige a Wooper de Paldea
+
+RESOURCE ID: title_tr_wcs_2026_team_building_path_c_desc
+TEXT: Elige esta opción para encontrarte con Sentret, Kecleon y Wooper de Paldea, así como para obtener recompensas como Polvo Estrella y Caramelos.
+
 RESOURCE ID: title_tr_wcs_anaheim_greetings
 TEXT: Bonificación de Investigación Temporal de ¡Saludos desde Anaheim!
 
@@ -124475,6 +124595,12 @@ TEXT: Bonificación de Investigación Temporal de ¡Saludos desde Honolulu!
 
 RESOURCE ID: title_tr_wcs_honolulu_greetings_00
 TEXT: Bonificación de Investigación Temporal de ¡Saludos desde Honolulu! (1/1)
+
+RESOURCE ID: title_tr_wcs_sanfrancisco_greetings
+TEXT: Bonificación de Investigación Temporal de ¡Saludos desde San Francisco!
+
+RESOURCE ID: title_tr_wcs_sanfrancisco_greetings_00
+TEXT: Bonificación de Investigación Temporal de ¡Saludos desde San Francisco! (1/1)
 
 RESOURCE ID: title_unown_o_clock
 TEXT: Las Unown en punto
@@ -129947,6 +130073,24 @@ TEXT: Elige a Sentret
 
 RESOURCE ID: wcs_2025_great_league_tr_path_c_desc
 TEXT: Forma y entrena un equipo Pokémon con Furret, Quagsire y Golisopod para la Liga Superbola de la Liga de Combates GO.
+
+RESOURCE ID: wcs_2026_irl_surprise_tr_dialog_00_00
+TEXT: ¡%PLAYERNAME%! Estuve investigando la megaevolución, y tres Pokémon extraordinarios me llamaron la atención: Chesnaught, Delphox y Greninja.
+
+RESOURCE ID: wcs_2026_irl_surprise_tr_dialog_00_01
+TEXT: ¡Y las cosas extraordinarias hay que investigarlas! Cada uno de estos Pokémon tiene algo diferente y especial, así que no hay forma de elegir mal. ¡Tenemos tres increíbles caminos por descubrir!
+
+RESOURCE ID: wcs_2026_irl_surprise_tr_dialog_01_00
+TEXT: ¡Una excelente elección! Tenía el presentimiento de que irías por este camino. Veamos qué podemos aprender de esta megaevolución.
+
+RESOURCE ID: wcs_2026_irl_surprise_tr_dialog_01_01_chesnaught
+TEXT: Conque Mega-Chesnaught, ¿no? Su coraza y su convicción para proteger a los demás son inquebrantables. ¡Como para meterse con él!
+
+RESOURCE ID: wcs_2026_irl_surprise_tr_dialog_01_01_delphox
+TEXT: Conque Mega-Delphox, ¿no? Hechiza a sus rivales con ramas llameantes y los calcina con una bola de fuego descomunal. ¡Esta investigación está que arde!
+
+RESOURCE ID: wcs_2026_irl_surprise_tr_dialog_01_01_greninja
+TEXT: Conque Mega-Greninja, ¿no? Hace girar un enorme shuriken para suspenderse en el aire, y se adhiere a él boca abajo para tomar por sorpresa a los rivales. ¡Eso sí que es un ataque sorpresa!
 
 RESOURCE ID: wcs_2026_sf_event_title_extended
 TEXT: San Francisco 2026 Pokémon World Championships Extended Bonuses
