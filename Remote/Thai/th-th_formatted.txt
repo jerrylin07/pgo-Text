@@ -8051,6 +8051,15 @@ TEXT: รองเท้าสไตล์ศาสตราจารย์ว�
 RESOURCE ID: avatar_shirt_gholdengo_jumpsuit
 TEXT: ชุดซาร์ฟโก
 
+RESOURCE ID: avatar_shirt_gofest_finale_chesnaught
+TEXT: เสื้อยืดบริการอน
+
+RESOURCE ID: avatar_shirt_gofest_finale_delphox
+TEXT: เสื้อยืดมาฟ็อกซี
+
+RESOURCE ID: avatar_shirt_gofest_finale_greninja
+TEXT: เสื้อยืดเก็คโคกะ
+
 RESOURCE ID: avatar_shirt_gotour_black
 TEXT: เสื้อยืด GO Tour 2026 (สีดำ)
 
@@ -19682,7 +19691,7 @@ RESOURCE ID: bonus_rare_candy_xl_catch_origin
 TEXT: การันตีลูกอมประหลาด XL 1 เม็ดจากการจับดีอัลกา (ฟอร์มดั้งเดิม) หรือพัลเกีย (ฟอร์มดั้งเดิม)
 
 RESOURCE ID: bonus_rare_candy_xl_catch_starmie
-TEXT: One guaranteed Rare Candy XL when catching Starmie
+TEXT: การันตีลูกอมประหลาด XL 1 เม็ด จากการจับสตาร์มี
 
 RESOURCE ID: bonus_rare_candy_xl_chance_raids
 TEXT: เพิ่มโอกาสได้รับลูกอมประหลาด XL จากตีบอส
@@ -20039,7 +20048,7 @@ RESOURCE ID: bonus_today_zygarde_cell
 TEXT: อาจพบซีการ์ดเซลล์ที่จุดสิ้นสุดเส้นทาง รวม 5 เส้นทาง (ต่อ 1 วัน)
 
 RESOURCE ID: bonus_today_zygarde_cell_temp
-TEXT: Zygarde Cells can be claimed when completing a Route up to 5 times per day
+TEXT: Zygarde Cells can appear at the end of up to 5 Routes per day
 
 RESOURCE ID: bonus_total_6_special_trades
 TEXT: แลกเปลี่ยนแบบพิเศษได้ 6 ครั้งต่อวัน
@@ -39615,7 +39624,7 @@ RESOURCE ID: gbl_sets_extra_twenty_total
 TEXT: โกแบตเทิลลีกสามารถแบตเทิลได้ 20 เซ็ตในวันนี้
 
 RESOURCE ID: gbl_stat_variance_bonus
-TEXT: Non-Legendary Pokémon caught from the GO Battle League will have a wider variance of Attack, Defense, and HP
+TEXT: พลังโจมตี พลังป้องกัน และ HP ของโปเกมอนที่จับจากโกแบตเทิลลีก (ยกเว้นโปเกมอนในตำนาน) จะหลากหลายยิ่งขึ้น
 
 RESOURCE ID: gbl_ticket_research_title
 TEXT: งานวิจัยแบบจำกัดเวลาโกแบตเทิลลีก
@@ -55925,6 +55934,42 @@ TEXT: แต้มบัตรผ่าน
 RESOURCE ID: item_event_pass_point_live_ops_08_name
 TEXT: แต้มบัตรผ่าน
 
+RESOURCE ID: item_event_pass_point_live_ops_09_name
+TEXT: แต้มบัตรผ่าน
+
+RESOURCE ID: item_event_pass_point_live_ops_10_name
+TEXT: แต้มบัตรผ่าน
+
+RESOURCE ID: item_event_pass_point_live_ops_11_name
+TEXT: แต้มบัตรผ่าน
+
+RESOURCE ID: item_event_pass_point_live_ops_12_name
+TEXT: แต้มบัตรผ่าน
+
+RESOURCE ID: item_event_pass_point_live_ops_13_name
+TEXT: แต้มบัตรผ่าน
+
+RESOURCE ID: item_event_pass_point_live_ops_14_name
+TEXT: แต้มบัตรผ่าน
+
+RESOURCE ID: item_event_pass_point_live_ops_15_name
+TEXT: แต้มบัตรผ่าน
+
+RESOURCE ID: item_event_pass_point_live_ops_16_name
+TEXT: แต้มบัตรผ่าน
+
+RESOURCE ID: item_event_pass_point_live_ops_17_name
+TEXT: แต้มบัตรผ่าน
+
+RESOURCE ID: item_event_pass_point_live_ops_18_name
+TEXT: แต้มบัตรผ่าน
+
+RESOURCE ID: item_event_pass_point_live_ops_19_name
+TEXT: แต้มบัตรผ่าน
+
+RESOURCE ID: item_event_pass_point_live_ops_20_name
+TEXT: แต้มบัตรผ่าน
+
 RESOURCE ID: item_event_pass_point_monthly_01_name
 TEXT: แต้มบัตรผ่าน
 
@@ -55935,6 +55980,30 @@ RESOURCE ID: item_event_pass_point_monthly_03_name
 TEXT: แต้มบัตรผ่าน
 
 RESOURCE ID: item_event_pass_point_monthly_04_name
+TEXT: แต้มบัตรผ่าน
+
+RESOURCE ID: item_event_pass_point_monthly_05_name
+TEXT: แต้มบัตรผ่าน
+
+RESOURCE ID: item_event_pass_point_monthly_06_name
+TEXT: แต้มบัตรผ่าน
+
+RESOURCE ID: item_event_pass_point_monthly_07_name
+TEXT: แต้มบัตรผ่าน
+
+RESOURCE ID: item_event_pass_point_monthly_08_name
+TEXT: แต้มบัตรผ่าน
+
+RESOURCE ID: item_event_pass_point_monthly_09_name
+TEXT: แต้มบัตรผ่าน
+
+RESOURCE ID: item_event_pass_point_monthly_10_name
+TEXT: แต้มบัตรผ่าน
+
+RESOURCE ID: item_event_pass_point_monthly_11_name
+TEXT: แต้มบัตรผ่าน
+
+RESOURCE ID: item_event_pass_point_monthly_12_name
 TEXT: แต้มบัตรผ่าน
 
 RESOURCE ID: item_event_ticket_desc_crown_clash_tgr
@@ -58879,7 +58948,7 @@ Pokémon GO ไวลด์แอเรีย 2025: ทั่วโลก
 ตามเวลาท้องถิ่นทั่วโลก
 
 RESOURCE ID: item_global_event_ticket_desc_gowa26
-TEXT: A ticket to access the Pokémon GO Wild Area 2026: Global Special Research on November 14 and November 15, 2026, local time, wherever you are.
+TEXT: A ticket to access the Pokémon GO Wild Area 2026: Global Special Research on November 14 and November 15, 2026, wherever you are.
 
 RESOURCE ID: item_global_event_ticket_desc_hisuiandecidueye
 TEXT: ตั๋วสำหรับรับโบนัสพิเศษในวันที่
@@ -58967,7 +59036,7 @@ TEXT: ตั๋วนี้จะทำให้คุณเข้าร่ว�
 เพื่อรับโบนัสทั้งหมดจากอีเวนต์
 
 RESOURCE ID: item_global_event_ticket_details_gowa26
-TEXT: This ticket will automatically activate to give you access to the Pokémon GO Wild Area 2026: Global Special Research on November 14 and 15, local time, wherever you are. Details can be found in the in-game News.
+TEXT: This ticket will automatically activate to give you access to the Pokémon GO Wild Area 2026: Global Special Research on November 14 and 15, wherever you are. Details can be found in the in-game News.
 
 You must play during the specified time to receive all the event bonuses.
 
@@ -66233,10 +66302,10 @@ at SHA da71d231c41a4d4f7aef0d6fd71061652ff15a0a
 Pipeline 441624, job 3600523
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-08-10T23:29:18.099028+00:00 for th-TH
-at SHA 7467817e563
-Pipeline 3866309, job 56846989
-Patch from: 0.425.0-SHA-73e817e6-RC3, 0.423.1-SHA-70644676-RC1
+TEXT: Built at 2026-08-13T01:16:57.546690+00:00 for th-TH
+at SHA 8365a56ec161
+Pipeline 3871833, job 56925460
+Patch from: 0.425.0-SHA-4f83d1f4-RC4, 0.423.1-SHA-70644676-RC1
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: งานวิจัยแบบจำกัดเวลา: ประเภทต่อสู้ของคุณ
@@ -109950,7 +110019,7 @@ TEXT: รายงานระบุว่ามีเทรนเนอร์�
 บางคนถึงกับเชื่อว่าก้อนที่ว่าอาจเป็นสิ่งมีชีวิต!
 
 RESOURCE ID: quest_special_dialogue_zygarde_1_2_temp
-TEXT: Curiously, several mentioned unusual activity along nearby Routes. Some Trainers even said they spotted something they couldn’t quite identify!
+TEXT: Curiously, several mentioned unusual activity along nearby Routes. Some Trainers even spotted something they couldn’t identify!
 
 RESOURCE ID: quest_special_dialogue_zygarde_1_3
 TEXT: ฉันพอจะคาดเดาได้อยู่ว่าก้อนพวกนี้คืออะไร แต่ฉันอยากจะกลับไปอ่านเอกสาร รวมถึงบทความนั่นอีกรอบก่อน...
@@ -137027,12 +137096,12 @@ TEXT: <b>สิ่งที่จะได้รับ:</b>
 RESOURCE ID: text_rewards_key_gowa26
 TEXT: <b>Includes:</b>
 • Up to 6 free Raid Passes each day from spinning Gym Photo Discs
-• Increased chance of receiving event 10 km Eggs from Poké Stops
+• Increased chance of receiving event 10 km Eggs from PokéStops
 • Up to 6 Special Trades per day and reduced Stardust cost for trades
-• 1/2 hatch distance for eggs placed in incubators
-• 2x catch candy for catching Pokémon
+• 1/2 Hatch Distance when Eggs are placed in an Incubator during the event
+• 2× Candy for catching Pokémon
 • A higher chance to encounter Shiny Pokémon during the event
-Learn more about the ticket bonuses <a href=“pokemongo.com/gowildarea/global”>here</a>.
+Learn more about the ticket bonuses <a href="pokemongo.com/gowildarea/global">here</a>.
 
 RESOURCE ID: text_rewards_key_growingup0525
 TEXT: <b>รางวัลที่จะได้รับ:</b>
@@ -139847,10 +139916,10 @@ RESOURCE ID: title_tr_max_mystery_00
 TEXT: งานวิจัยแบบจำกัดเวลาโบนัสปริศนาแห่งแมกซ์ (1/1)
 
 RESOURCE ID: title_tr_pxp_2026_stream
-TEXT: PokémonXP Bonus Timed Research
+TEXT: งานวิจัยแบบจำกัดเวลาโบนัสโปเกมอน XP
 
 RESOURCE ID: title_tr_pxp_2026_stream_00
-TEXT: PokémonXP Bonus Timed Research (1/1)
+TEXT: งานวิจัยแบบจำกัดเวลาโบนัสโปเกมอน XP (1/1)
 
 RESOURCE ID: title_tr_wcs_2023_champ
 TEXT: 2023 Pokémon World Champion: งานวิจัยแบบจำกัดเวลาโบนัส

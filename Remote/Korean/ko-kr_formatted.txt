@@ -7750,6 +7750,15 @@ TEXT: 윌로우박사 신발
 RESOURCE ID: avatar_shirt_gholdengo_jumpsuit
 TEXT: 타부자고 세트
 
+RESOURCE ID: avatar_shirt_gofest_finale_chesnaught
+TEXT: 브리가론 티셔츠
+
+RESOURCE ID: avatar_shirt_gofest_finale_delphox
+TEXT: 마폭시 티셔츠
+
+RESOURCE ID: avatar_shirt_gofest_finale_greninja
+TEXT: 개굴닌자 티셔츠
+
 RESOURCE ID: avatar_shirt_gotour_black
 TEXT: GO Tour 2026 티셔츠(블랙)
 
@@ -19626,7 +19635,7 @@ RESOURCE ID: bonus_today_zygarde_cell
 TEXT: 하루마다 5개까지 루트 마지막에 지가르데 셀을 발견할 수 있다
 
 RESOURCE ID: bonus_today_zygarde_cell_temp
-TEXT: Zygarde Cells can be claimed when completing a Route up to 5 times per day
+TEXT: Zygarde Cells can appear at the end of up to 5 Routes per day
 
 RESOURCE ID: bonus_total_6_special_trades
 TEXT: 하루에 가능한 특별한 교환 총 6회
@@ -52616,6 +52625,42 @@ TEXT: 패스 포인트
 RESOURCE ID: item_event_pass_point_live_ops_08_name
 TEXT: 패스 포인트
 
+RESOURCE ID: item_event_pass_point_live_ops_09_name
+TEXT: 패스 포인트
+
+RESOURCE ID: item_event_pass_point_live_ops_10_name
+TEXT: 패스 포인트
+
+RESOURCE ID: item_event_pass_point_live_ops_11_name
+TEXT: 패스 포인트
+
+RESOURCE ID: item_event_pass_point_live_ops_12_name
+TEXT: 패스 포인트
+
+RESOURCE ID: item_event_pass_point_live_ops_13_name
+TEXT: 패스 포인트
+
+RESOURCE ID: item_event_pass_point_live_ops_14_name
+TEXT: 패스 포인트
+
+RESOURCE ID: item_event_pass_point_live_ops_15_name
+TEXT: 패스 포인트
+
+RESOURCE ID: item_event_pass_point_live_ops_16_name
+TEXT: 패스 포인트
+
+RESOURCE ID: item_event_pass_point_live_ops_17_name
+TEXT: 패스 포인트
+
+RESOURCE ID: item_event_pass_point_live_ops_18_name
+TEXT: 패스 포인트
+
+RESOURCE ID: item_event_pass_point_live_ops_19_name
+TEXT: 패스 포인트
+
+RESOURCE ID: item_event_pass_point_live_ops_20_name
+TEXT: 패스 포인트
+
 RESOURCE ID: item_event_pass_point_monthly_01_name
 TEXT: 패스 포인트
 
@@ -52626,6 +52671,30 @@ RESOURCE ID: item_event_pass_point_monthly_03_name
 TEXT: 패스 포인트
 
 RESOURCE ID: item_event_pass_point_monthly_04_name
+TEXT: 패스 포인트
+
+RESOURCE ID: item_event_pass_point_monthly_05_name
+TEXT: 패스 포인트
+
+RESOURCE ID: item_event_pass_point_monthly_06_name
+TEXT: 패스 포인트
+
+RESOURCE ID: item_event_pass_point_monthly_07_name
+TEXT: 패스 포인트
+
+RESOURCE ID: item_event_pass_point_monthly_08_name
+TEXT: 패스 포인트
+
+RESOURCE ID: item_event_pass_point_monthly_09_name
+TEXT: 패스 포인트
+
+RESOURCE ID: item_event_pass_point_monthly_10_name
+TEXT: 패스 포인트
+
+RESOURCE ID: item_event_pass_point_monthly_11_name
+TEXT: 패스 포인트
+
+RESOURCE ID: item_event_pass_point_monthly_12_name
 TEXT: 패스 포인트
 
 RESOURCE ID: item_event_ticket_desc_crown_clash_tgr
@@ -54398,7 +54467,7 @@ RESOURCE ID: item_global_event_ticket_desc_gowa25
 TEXT: 현지시간 2025년 11월 15일, 16일에 Pokémon GO 와일드 에리어 2025: 글로벌 스페셜리서치를 진행할 수 있는 티켓.
 
 RESOURCE ID: item_global_event_ticket_desc_gowa26
-TEXT: A ticket to access the Pokémon GO Wild Area 2026: Global Special Research on November 14 and November 15, 2026, local time, wherever you are.
+TEXT: A ticket to access the Pokémon GO Wild Area 2026: Global Special Research on November 14 and November 15, 2026, wherever you are.
 
 RESOURCE ID: item_global_event_ticket_desc_hisuiandecidueye
 TEXT: 현지 시간 2024년 2월 11일 14시~ 22시에 보너스를 받기 위한 티켓.
@@ -54457,7 +54526,7 @@ TEXT: 이 티켓은 자동으로 활성화되어 현지시간 2025년 11월 15�
 이벤트 관련 모든 보너스를 받기 위해서는 개최 시간 내에 완료할 필요가 있습니다.
 
 RESOURCE ID: item_global_event_ticket_details_gowa26
-TEXT: This ticket will automatically activate to give you access to the Pokémon GO Wild Area 2026: Global Special Research on November 14 and 15, local time, wherever you are. Details can be found in the in-game News.
+TEXT: This ticket will automatically activate to give you access to the Pokémon GO Wild Area 2026: Global Special Research on November 14 and 15, wherever you are. Details can be found in the in-game News.
 
 You must play during the specified time to receive all the event bonuses.
 
@@ -61223,10 +61292,10 @@ at SHA 4d4f3e80cc7fb911006bd14d198c9831ef66d005
 Pipeline 339838, job 2672172
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-08-10T23:29:18.099028+00:00 for ko-KR
-at SHA 7467817e563
-Pipeline 3866309, job 56846989
-Patch from: 0.425.0-SHA-73e817e6-RC3, 0.423.1-SHA-70644676-RC1
+TEXT: Built at 2026-08-13T01:16:57.546690+00:00 for ko-KR
+at SHA 8365a56ec161
+Pipeline 3871833, job 56925460
+Patch from: 0.425.0-SHA-4f83d1f4-RC4, 0.423.1-SHA-70644676-RC1
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: 시간제한 리서치: 격투타입
@@ -99319,7 +99388,7 @@ RESOURCE ID: quest_special_dialogue_zygarde_1_2
 TEXT: 루트 구석에서 녹색 물체를 봤다는 보고야. 녹색의 생명체라고 말하는 트레이너도 있었어.
 
 RESOURCE ID: quest_special_dialogue_zygarde_1_2_temp
-TEXT: Curiously, several mentioned unusual activity along nearby Routes. Some Trainers even said they spotted something they couldn’t quite identify!
+TEXT: Curiously, several mentioned unusual activity along nearby Routes. Some Trainers even spotted something they couldn’t identify!
 
 RESOURCE ID: quest_special_dialogue_zygarde_1_3
 TEXT: 짐작은 했어도.... 확신을 가질 때까지 자료를 찾아볼게. 아니 칼로스지방 특집을 다시 한번 읽으면 알 것 같군.
@@ -124544,12 +124613,12 @@ TEXT: <b>받을 수 있는 것:</b>
 RESOURCE ID: text_rewards_key_gowa26
 TEXT: <b>Includes:</b>
 • Up to 6 free Raid Passes each day from spinning Gym Photo Discs
-• Increased chance of receiving event 10 km Eggs from Poké Stops
+• Increased chance of receiving event 10 km Eggs from PokéStops
 • Up to 6 Special Trades per day and reduced Stardust cost for trades
-• 1/2 hatch distance for eggs placed in incubators
-• 2x catch candy for catching Pokémon
+• 1/2 Hatch Distance when Eggs are placed in an Incubator during the event
+• 2× Candy for catching Pokémon
 • A higher chance to encounter Shiny Pokémon during the event
-Learn more about the ticket bonuses <a href=“pokemongo.com/gowildarea/global”>here</a>.
+Learn more about the ticket bonuses <a href="pokemongo.com/gowildarea/global">here</a>.
 
 RESOURCE ID: text_rewards_key_growingup0525
 TEXT: <b>받을 수 있는 리워드:</b>

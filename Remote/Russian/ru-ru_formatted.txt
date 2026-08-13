@@ -7934,6 +7934,15 @@ TEXT: Обувь в Стиле Профессора Уиллоу
 RESOURCE ID: avatar_shirt_gholdengo_jumpsuit
 TEXT: Наряд Голденго
 
+RESOURCE ID: avatar_shirt_gofest_finale_chesnaught
+TEXT: Футболка Чеснот
+
+RESOURCE ID: avatar_shirt_gofest_finale_delphox
+TEXT: Футболка Делфокс
+
+RESOURCE ID: avatar_shirt_gofest_finale_greninja
+TEXT: Футболка Грениндзя
+
 RESOURCE ID: avatar_shirt_gotour_black
 TEXT: Футболка Тур GO 2026 (Чёрная)
 
@@ -15220,10 +15229,10 @@ RESOURCE ID: batch_transfer_100_pokemon
 TEXT: ★ 100% Покемоны ×{0}
 
 RESOURCE ID: batch_transfer_100_pokemon_plural
-TEXT: {0} ★ 100% Pokémon
+TEXT: ★ 100% Покемоны: {0}
 
 RESOURCE ID: batch_transfer_100_pokemon_singular
-TEXT: {0} ★ 100% Pokémon
+TEXT: ★ 100% Покемон: {0}
 
 RESOURCE ID: batch_transfer_eligible_confirm
 TEXT: <size=36><b>Только {0} из выбранных Покемонов могут быть переданы профессору.</b></size>
@@ -15241,10 +15250,10 @@ TEXT: <size=36><b>Только 1 из выбранных Покемонов мо
 Любой Покемон, которого нельзя передать, останется в твоём хранилище Покемонов. Покемона, который был передан, нельзя вернуть.
 
 RESOURCE ID: batch_transfer_hyper_trained_pokemon_plural
-TEXT: {0} Hyper Trained
+TEXT: Прошедшие Гипертренировку: {0}
 
 RESOURCE ID: batch_transfer_hyper_trained_pokemon_singular
-TEXT: {0} Hyper Trained
+TEXT: Прошедший Гипертренировку: {0}
 
 RESOURCE ID: batch_transfer_last_more_pokemon
 TEXT: Твои единственные Покемоны {0}, {1} и ещё {2}
@@ -15265,19 +15274,19 @@ RESOURCE ID: batch_transfer_unique_bread_dough_level_pokemon
 TEXT: Гигантамакс ×{0}
 
 RESOURCE ID: batch_transfer_unique_bread_dough_level_pokemon_plural
-TEXT: {0} Gigantamax
+TEXT: Гигантамакс: {0}
 
 RESOURCE ID: batch_transfer_unique_bread_dough_level_pokemon_singular
-TEXT: {0} Gigantamax
+TEXT: Гигантамакс: {0}
 
 RESOURCE ID: batch_transfer_unique_bread_level_pokemon
 TEXT: Динамакс ×{0}
 
 RESOURCE ID: batch_transfer_unique_bread_level_pokemon_plural
-TEXT: {0} Dynamax
+TEXT: Динамакс: {0}
 
 RESOURCE ID: batch_transfer_unique_bread_level_pokemon_singular
-TEXT: {0} Dynamax
+TEXT: Динамакс: {0}
 
 RESOURCE ID: batch_transfer_unique_day_night_level_pokemon
 TEXT: Покемоны с Портретом ×{0}
@@ -15286,10 +15295,10 @@ RESOURCE ID: batch_transfer_unique_event_pokemon
 TEXT: Ивент-Покемоны: {0}
 
 RESOURCE ID: batch_transfer_unique_event_pokemon_plural
-TEXT: {0} Event
+TEXT: Ивент: {0}
 
 RESOURCE ID: batch_transfer_unique_event_pokemon_singular
-TEXT: {0} Event
+TEXT: Ивент: {0}
 
 RESOURCE ID: batch_transfer_unique_legendary_or_mythical_pokemon
 TEXT: Легендарные или Мифические Покемоны: {0}
@@ -15298,10 +15307,10 @@ RESOURCE ID: batch_transfer_unique_legendary_or_mythical_or_ultra_beast_pokemon
 TEXT: Легендарные и Мифические Покемоны или Ультрачудовища: {0}
 
 RESOURCE ID: batch_transfer_unique_location_background_pokemon_plural
-TEXT: {0} Location Backgrounds
+TEXT: С Фонами Места: {0}
 
 RESOURCE ID: batch_transfer_unique_location_background_pokemon_singular
-TEXT: {0} Location Background
+TEXT: С Фоном Места:{0}
 
 RESOURCE ID: batch_transfer_unique_location_card_pokemon
 TEXT: Покемоны с редким фоном: {0}
@@ -15310,22 +15319,22 @@ RESOURCE ID: batch_transfer_unique_mega_level_pokemon
 TEXT: Покемоны мегауровня: {0}
 
 RESOURCE ID: batch_transfer_unique_mega_level_pokemon_plural
-TEXT: {0} Mega- or Primal-Leveled
+TEXT: Покемоны Мегауровня или Протоуровня: {0}
 
 RESOURCE ID: batch_transfer_unique_mega_level_pokemon_singular
-TEXT: {0} Mega- or Primal-Leveled
+TEXT: Покемон Мегауровня или Протоуровня: {0}
 
 RESOURCE ID: batch_transfer_unique_not_included
 TEXT: Не выбран ни один Легендарный, Мифический или Ивент-Покемон, а также ни одно Ультрачудовище.
 
 RESOURCE ID: batch_transfer_unique_special_background_pokemon_plural
-TEXT: {0} Special Backgrounds
+TEXT: С Особыми Фонами: {0}
 
 RESOURCE ID: batch_transfer_unique_special_background_pokemon_singular
-TEXT: {0} Special Background
+TEXT: С Особым Фоном: {0}
 
 RESOURCE ID: batch_transfer_unique_warning_title
-TEXT: Твой выбор содержит следующих Покемонов:
+TEXT: Твой выбор содержит Покемонов, соответствующих следующим критериям:
 
 RESOURCE ID: batch_transfer_unique_warning_message
 TEXT: Ты действительно хочешь добавить этих Покемонов для передачи профессору?
@@ -15334,19 +15343,19 @@ RESOURCE ID: batch_transfer_unique_xxl_pokemon
 TEXT: {0} XXL Pokémon
 
 RESOURCE ID: batch_transfer_unique_xxl_pokemon_plural
-TEXT: {0} XXL
+TEXT: XXL: {0}
 
 RESOURCE ID: batch_transfer_unique_xxl_pokemon_singular
-TEXT: {0} XXL
+TEXT: XXL: {0}
 
 RESOURCE ID: batch_transfer_unique_xxs_pokemon
 TEXT: {0} XXS Pokémon
 
 RESOURCE ID: batch_transfer_unique_xxs_pokemon_plural
-TEXT: {0} XXS
+TEXT: XXS: {0}
 
 RESOURCE ID: batch_transfer_unique_xxs_pokemon_singular
-TEXT: {0} XXS
+TEXT: XXS: {0}
 
 RESOURCE ID: battle_box
 TEXT: Боевая коробка
@@ -19475,13 +19484,13 @@ RESOURCE ID: bonus_raid_trainers_gym_bug_types
 TEXT: Если Тренеры вместе участвуют в рейде, то в течение 15 минут в окрестностях будет появляться много насекомых Покемонов
 
 RESOURCE ID: bonus_rare_candy_xl_catch_lucario
-TEXT: 1  гарантированная Редкая Конфета XL за поимку Лукарио
+TEXT: 1 гарантированная Редкая Конфета XL за поимку Лукарио
 
 RESOURCE ID: bonus_rare_candy_xl_catch_origin
 TEXT: Одна гарантированная Редкая Конфета XL за поимку Диалги-Исходная Форма или Палкии-Исходная Форма
 
 RESOURCE ID: bonus_rare_candy_xl_catch_starmie
-TEXT: One guaranteed Rare Candy XL when catching Starmie
+TEXT: 1 гарантированная Редкая Конфета XL за поимку Старми
 
 RESOURCE ID: bonus_rare_candy_xl_chance_raids
 TEXT: Больше шансов получить Редкие Конфеты XL в рейдах
@@ -19835,7 +19844,7 @@ RESOURCE ID: bonus_today_zygarde_cell
 TEXT: Клетки Зайгарда могут появляться в конце Маршрутов, до 5 Маршрутов в день
 
 RESOURCE ID: bonus_today_zygarde_cell_temp
-TEXT: Zygarde Cells can be claimed when completing a Route up to 5 times per day
+TEXT: Zygarde Cells can appear at the end of up to 5 Routes per day
 
 RESOURCE ID: bonus_total_6_special_trades
 TEXT: Шесть специальных обменов в день
@@ -30254,7 +30263,7 @@ RESOURCE ID: complete_geotarget_quest
 TEXT: Выполни задание по AR-съёмке
 
 RESOURCE ID: complete_lucky_remote_trade_prompt
-TEXT: Просмотри и заверши Удачный Удалённый Обмен!
+TEXT: Просмотри и заверши <color=#F2A64B><b>Удачный Удалённый Обмен</b></color>!
 
 RESOURCE ID: complete_remote_trade_prompt
 TEXT: Просмотри и заверши Удалённый Обмен!
@@ -38437,10 +38446,10 @@ RESOURCE ID: friend_sort_online_not_available_ok_button
 TEXT: Share Online Status Now
 
 RESOURCE ID: friend_wants_to_lucky_remote_trade_prompt
-TEXT: Пришёл запрос на Удачный Удалённый Обмен от {0}.
+TEXT: Пришёл запрос на <color=#F2A64B><b>Удачный Удалённый Обмен</b></color>от Тренера {0}.
 
 RESOURCE ID: friend_wants_to_lucky_trade_prompt
-TEXT: {0} wants to <color=#F2A64B><b>Lucky Trade</b></color> with you.
+TEXT: {0} хочет совершить <color=#F2A64B><b>Удачный Обмен</b></color> с тобой.
 
 RESOURCE ID: friend_wants_to_remote_trade_prompt
 TEXT: Пришёл запрос на Удалённый Обмен от {0}.
@@ -53002,6 +53011,42 @@ TEXT: Очки Пропуска
 RESOURCE ID: item_event_pass_point_live_ops_08_name
 TEXT: Очки Пропуска
 
+RESOURCE ID: item_event_pass_point_live_ops_09_name
+TEXT: Очки Пропуска
+
+RESOURCE ID: item_event_pass_point_live_ops_10_name
+TEXT: Очки Пропуска
+
+RESOURCE ID: item_event_pass_point_live_ops_11_name
+TEXT: Очки Пропуска
+
+RESOURCE ID: item_event_pass_point_live_ops_12_name
+TEXT: Очки Пропуска
+
+RESOURCE ID: item_event_pass_point_live_ops_13_name
+TEXT: Очки Пропуска
+
+RESOURCE ID: item_event_pass_point_live_ops_14_name
+TEXT: Очки Пропуска
+
+RESOURCE ID: item_event_pass_point_live_ops_15_name
+TEXT: Очки Пропуска
+
+RESOURCE ID: item_event_pass_point_live_ops_16_name
+TEXT: Очки Пропуска
+
+RESOURCE ID: item_event_pass_point_live_ops_17_name
+TEXT: Очки Пропуска
+
+RESOURCE ID: item_event_pass_point_live_ops_18_name
+TEXT: Очки Пропуска
+
+RESOURCE ID: item_event_pass_point_live_ops_19_name
+TEXT: Очки Пропуска
+
+RESOURCE ID: item_event_pass_point_live_ops_20_name
+TEXT: Очки Пропуска
+
 RESOURCE ID: item_event_pass_point_monthly_01_name
 TEXT: Очки Пропуска
 
@@ -53012,6 +53057,30 @@ RESOURCE ID: item_event_pass_point_monthly_03_name
 TEXT: Очки Пропуска
 
 RESOURCE ID: item_event_pass_point_monthly_04_name
+TEXT: Очки Пропуска
+
+RESOURCE ID: item_event_pass_point_monthly_05_name
+TEXT: Очки Пропуска
+
+RESOURCE ID: item_event_pass_point_monthly_06_name
+TEXT: Очки Пропуска
+
+RESOURCE ID: item_event_pass_point_monthly_07_name
+TEXT: Очки Пропуска
+
+RESOURCE ID: item_event_pass_point_monthly_08_name
+TEXT: Очки Пропуска
+
+RESOURCE ID: item_event_pass_point_monthly_09_name
+TEXT: Очки Пропуска
+
+RESOURCE ID: item_event_pass_point_monthly_10_name
+TEXT: Очки Пропуска
+
+RESOURCE ID: item_event_pass_point_monthly_11_name
+TEXT: Очки Пропуска
+
+RESOURCE ID: item_event_pass_point_monthly_12_name
 TEXT: Очки Пропуска
 
 RESOURCE ID: item_event_ticket_desc_crown_clash_tgr
@@ -54784,7 +54853,7 @@ RESOURCE ID: item_global_event_ticket_desc_gowa25
 TEXT: Билет, дающий доступ к Специальному Квесту Нетронутые Земли Pokémon GO 2025: По Всему Миру 15 и 16 ноября 2025 по местному времени, вне зависимости от твоего местонахождения.
 
 RESOURCE ID: item_global_event_ticket_desc_gowa26
-TEXT: A ticket to access the Pokémon GO Wild Area 2026: Global Special Research on November 14 and November 15, 2026, local time, wherever you are.
+TEXT: A ticket to access the Pokémon GO Wild Area 2026: Global Special Research on November 14 and November 15, 2026, wherever you are.
 
 RESOURCE ID: item_global_event_ticket_desc_hisuiandecidueye
 TEXT: Билет, дающий доступ к специальным бонусам 11 февраля 2024 с 14:00 до 22:00 по местному времени, вне зависимости от твоего местонахождения.
@@ -54843,7 +54912,7 @@ TEXT: Этот билет активируется автоматически, �
 Чтобы получить все бонусы события, необходимо играть в указанное время.
 
 RESOURCE ID: item_global_event_ticket_details_gowa26
-TEXT: This ticket will automatically activate to give you access to the Pokémon GO Wild Area 2026: Global Special Research on November 14 and 15, local time, wherever you are. Details can be found in the in-game News.
+TEXT: This ticket will automatically activate to give you access to the Pokémon GO Wild Area 2026: Global Special Research on November 14 and 15, wherever you are. Details can be found in the in-game News.
 
 You must play during the specified time to receive all the event bonuses.
 
@@ -59218,22 +59287,22 @@ RESOURCE ID: lucky_friends_notification_details_from_charm
 TEXT: {0} и ты стали Удачливыми Друзьями с Удачливой Капсулой!
 
 RESOURCE ID: lucky_remote_trade_completion_overlay_message
-TEXT: {0} completed the <color=#F2A64B><b>Lucky Remote Trade</b></color>!
+TEXT: Игрок {0}завершил <color=#F2A64B><b>Удачный Удалённый Обмен</b></color>!
 
 RESOURCE ID: lucky_remote_trade_confirm_body
-TEXT: Заверши свой Удачный Удалённый Обмен с Тренером {0}!
+TEXT: Заверши <color=#F2A64B><b>Удачный Удалённый Обмен</b></color> с Тренером {0}!
 
 RESOURCE ID: lucky_remote_trade_initiate_body
-TEXT: Пришёл запрос на Удачный Удалённый Обмен от Тренера {0}!
+TEXT: Пришёл запрос на <color=#F2A64B><b>Удачный Удалённый Обмен</b></color>от Тренера {0}!
 
 RESOURCE ID: lucky_remote_trade_overlay_complete
-TEXT: Review and Complete <color=#F2A64B><b>Lucky Remote Trade</b></color>
+TEXT: Просмотри и Заверши <color=#F2A64B><b>Удачный Удалённый Обмен</b></color>
 
 RESOURCE ID: lucky_remote_trade_overlay_respond
-TEXT: Review <color=#F2A64B><b>Lucky Remote Trade</b></color> Request
+TEXT: Просмотри Запрос на <color=#F2A64B><b>Удачный Удалённый Обмен</b></color>
 
 RESOURCE ID: lucky_remote_trade_waiting_for_response
-TEXT: Waiting for response to <color=#F2A64B><b>Lucky Remote Trade</b></color>.
+TEXT: Ожидание ответа на <color=#F2A64B><b>Удачный Удалённый Обмен</b></color>.
 
 RESOURCE ID: lucky_trade_increase
 TEXT: Больше вероятность получить Удачливых Покемонов при обмене
@@ -61632,10 +61701,10 @@ at SHA bacc02371739993984570a6f5b31a993cf3b031b
 Pipeline 498004, job 4265729
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-08-10T23:29:18.099028+00:00 for ru-RU
-at SHA 7467817e563
-Pipeline 3866309, job 56846989
-Patch from: 0.425.0-SHA-73e817e6-RC3, 0.423.1-SHA-70644676-RC1
+TEXT: Built at 2026-08-13T01:16:57.546690+00:00 for ru-RU
+at SHA 8365a56ec161
+Pipeline 3871833, job 56925460
+Patch from: 0.425.0-SHA-4f83d1f4-RC4, 0.423.1-SHA-70644676-RC1
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: ‎Квест на время: Боевой тип
@@ -78348,7 +78417,7 @@ RESOURCE ID: pokemon_legendary_info_transfer_to_professor_confirmation
 TEXT: Ты действительно хочешь передать этого Легендарного Покемона?
 
 RESOURCE ID: pokemon_location_background_info_transfer_to_professor_confirmation
-TEXT: Do you really want to transfer this Pokémon with a Location Background?
+TEXT: Ты точно хочешь передать этого Покемона с Фоном Места?
 
 RESOURCE ID: pokemon_location_card_info_transfer_to_professor_confirmation
 TEXT: Ты точно хочешь передать этого Покемона с редким фоном?
@@ -81920,7 +81989,7 @@ RESOURCE ID: pokemon_size_tiny_encounter
 TEXT: It's tiny!
 
 RESOURCE ID: pokemon_special_background_info_transfer_to_professor_confirmation
-TEXT: Do you really want to transfer this Pokémon with a Special Background?
+TEXT: Ты точно хочешь передать этого Покемона с Особым Фоном?
 
 RESOURCE ID: pokemon_species_form_0888_2576
 TEXT: Зэйшиан-Коронованный Меч
@@ -81938,10 +82007,10 @@ RESOURCE ID: pokemon_transfer_legendary_confirmation
 TEXT: Среди выбранных тобой Покемонов есть Легендарные или Мифические Покемоны! Ты точно хочешь передать выбранных Покемонов?
 
 RESOURCE ID: pokemon_transfer_to_professor_warning_title
-TEXT: Your selected Pokémon meets the following criteria:
+TEXT: Выбранный тобой Покемон соответствует следующим критериям:
 
 RESOURCE ID: pokemon_transfer_to_professor_warning_message
-TEXT: Are you sure you want to transfer this Pokémon to the professor?
+TEXT: Ты точно хочешь передать этого Покемона профессору?
 
 RESOURCE ID: pokemon_tutorial_ibfc_desc
 TEXT: Этот Покемон может менять форму во время битвы.
@@ -99762,7 +99831,7 @@ RESOURCE ID: quest_special_dialogue_zygarde_1_2
 TEXT: Любопытно, что несколько Тренеров упоминают бесформенные зелёные капли, которые они нашли на своих маршрутах. Некоторые Тренеры даже думали, что эти штуки могут быть живыми!
 
 RESOURCE ID: quest_special_dialogue_zygarde_1_2_temp
-TEXT: Curiously, several mentioned unusual activity along nearby Routes. Some Trainers even said they spotted something they couldn’t quite identify!
+TEXT: Curiously, several mentioned unusual activity along nearby Routes. Some Trainers even spotted something they couldn’t identify!
 
 RESOURCE ID: quest_special_dialogue_zygarde_1_3
 TEXT: У меня есть теория о том, что представляет собой эта нестабильная масса. Но я хочу снова просмотреть все материалы этого исследования. Может, даже перечитать статью, о которой я упоминал ранее...
@@ -111012,7 +111081,7 @@ RESOURCE ID: remote_trade_offer_selection_title_singular
 TEXT: Выбери и предложи для обмена своего Покемона.
 
 RESOURCE ID: remote_trade_overlay_complete
-TEXT: Просмотри Звпрос и Заверши Удалённый Обмен
+TEXT: Просмотри и Заверши Запрос на Удалённый Обмен
 
 RESOURCE ID: remote_trade_overlay_respond
 TEXT: Просмотри Запрос на Удалённый Обмен
@@ -118402,40 +118471,40 @@ RESOURCE ID: single_stat_increase_ftue_body
 TEXT: Даёт доступ к курсу Гипертренировки продолжительностью в год, где ты можешь полностью увеличить одну из характеристик Покемона.
 
 RESOURCE ID: single_transfer_100_pokemon
-TEXT: ★ 100% Pokémon
+TEXT: ★ 100% Покемон
 
 RESOURCE ID: single_transfer_bread_dough_level_pokemon
-TEXT: Gigantamax
+TEXT: Гигантамакс
 
 RESOURCE ID: single_transfer_bread_level_pokemon
-TEXT: Dynamax
+TEXT: Динамакс
 
 RESOURCE ID: single_transfer_buddy_level_pokemon
-TEXT: Buddy Leveled
+TEXT: Уровень Приятеля
 
 RESOURCE ID: single_transfer_event_pokemon
-TEXT: Event
+TEXT: Ивент
 
 RESOURCE ID: single_transfer_hyper_trained_pokemon
-TEXT: Hyper Trained
+TEXT: Прошедший Гипертренировку
 
 RESOURCE ID: single_transfer_legendary_or_mythical_or_ultra_beast_pokemon
-TEXT: Legendary Pokémon, Mythical Pokémon, or Ultra Beast
+TEXT: Легендарный Покемон, Мифический Покемон или Ультрачудовище
 
 RESOURCE ID: single_transfer_location_background_pokemon
-TEXT: Location Background
+TEXT: С Фоном Места
 
 RESOURCE ID: single_transfer_lucky_pokemon
-TEXT: Lucky
+TEXT: Удачливый
 
 RESOURCE ID: single_transfer_shiny_pokemon
-TEXT: Shiny
+TEXT: Сияющий
 
 RESOURCE ID: single_transfer_special_background_pokemon
-TEXT: Special Background
+TEXT: С Особым Фоном
 
 RESOURCE ID: single_transfer_unique_mega_level_pokemon
-TEXT: Mega- or Primal-Leveled
+TEXT: Мегауровень или Протоуровень
 
 RESOURCE ID: single_transfer_xxl_pokemon
 TEXT: XXL
@@ -125005,12 +125074,12 @@ TEXT: <b>Включает следующие награды:</b>
 RESOURCE ID: text_rewards_key_gowa26
 TEXT: <b>Includes:</b>
 • Up to 6 free Raid Passes each day from spinning Gym Photo Discs
-• Increased chance of receiving event 10 km Eggs from Poké Stops
+• Increased chance of receiving event 10 km Eggs from PokéStops
 • Up to 6 Special Trades per day and reduced Stardust cost for trades
-• 1/2 hatch distance for eggs placed in incubators
-• 2x catch candy for catching Pokémon
+• 1/2 Hatch Distance when Eggs are placed in an Incubator during the event
+• 2× Candy for catching Pokémon
 • A higher chance to encounter Shiny Pokémon during the event
-Learn more about the ticket bonuses <a href=“pokemongo.com/gowildarea/global”>here</a>.
+Learn more about the ticket bonuses <a href="pokemongo.com/gowildarea/global">here</a>.
 
 RESOURCE ID: text_rewards_key_growingup0525
 TEXT: <b>Включает следующие награды:</b>
@@ -127544,10 +127613,10 @@ RESOURCE ID: title_tr_max_mystery_00
 TEXT: Дополнительный Квест на Время Загадка Макс (1/1)
 
 RESOURCE ID: title_tr_pxp_2026_stream
-TEXT: PokémonXP Bonus Timed Research
+TEXT: Дополнительный Квест на Время PokémonXP
 
 RESOURCE ID: title_tr_pxp_2026_stream_00
-TEXT: PokémonXP Bonus Timed Research (1/1)
+TEXT: Дополнительный Квест на Время PokémonXP (1/1)
 
 RESOURCE ID: title_tr_wcs_2023_champ
 TEXT: Дополнительный квест на время Победитель Международного Чемпионата Покемон 2023

@@ -8108,6 +8108,15 @@ TEXT: Scarpe stile Professor Willow
 RESOURCE ID: avatar_shirt_gholdengo_jumpsuit
 TEXT: Completo Gholdengo
 
+RESOURCE ID: avatar_shirt_gofest_finale_chesnaught
+TEXT: T-shirt Chesnaught
+
+RESOURCE ID: avatar_shirt_gofest_finale_delphox
+TEXT: T-shirt Delphox
+
+RESOURCE ID: avatar_shirt_gofest_finale_greninja
+TEXT: T-shirt Greninja
+
 RESOURCE ID: avatar_shirt_gotour_black
 TEXT: T-shirt Tour GO 2026 (nera)
 
@@ -15380,10 +15389,10 @@ RESOURCE ID: batch_transfer_100_pokemon
 TEXT: {0} Pokémon ★ 100%
 
 RESOURCE ID: batch_transfer_100_pokemon_plural
-TEXT: {0} ★ 100% Pokémon
+TEXT: {0} Pokémon ★ 100%
 
 RESOURCE ID: batch_transfer_100_pokemon_singular
-TEXT: {0} ★ 100% Pokémon
+TEXT: {0} Pokémon ★ 100%
 
 RESOURCE ID: batch_transfer_eligible_confirm
 TEXT: <size=36><b>Solo {0} dei Pokémon selezionati possono essere trasferiti al professore.</b></size>
@@ -15401,10 +15410,10 @@ TEXT: <size=36><b>Solo uno dei Pokémon selezionati può essere trasferito al pr
 Tutti i Pokémon che non possono essere trasferiti rimarranno nel tuo spazio Pokémon. I Pokémon trasferiti non possono essere recuperati.
 
 RESOURCE ID: batch_transfer_hyper_trained_pokemon_plural
-TEXT: {0} Hyper Trained
+TEXT: {0} con Allenamento Pro
 
 RESOURCE ID: batch_transfer_hyper_trained_pokemon_singular
-TEXT: {0} Hyper Trained
+TEXT: {0} con Allenamento Pro
 
 RESOURCE ID: batch_transfer_last_more_pokemon
 TEXT: Il tuo unico {0}, il tuo unico {1} e altri {2}
@@ -15425,10 +15434,10 @@ RESOURCE ID: batch_transfer_unique_bread_dough_level_pokemon
 TEXT: {0} Gigamax
 
 RESOURCE ID: batch_transfer_unique_bread_dough_level_pokemon_plural
-TEXT: {0} Gigantamax
+TEXT: {0} Gigamax
 
 RESOURCE ID: batch_transfer_unique_bread_dough_level_pokemon_singular
-TEXT: {0} Gigantamax
+TEXT: {0} Gigamax
 
 RESOURCE ID: batch_transfer_unique_bread_level_pokemon
 TEXT: {0} Dynamax
@@ -15446,10 +15455,10 @@ RESOURCE ID: batch_transfer_unique_event_pokemon
 TEXT: {0} Pokémon dell’evento
 
 RESOURCE ID: batch_transfer_unique_event_pokemon_plural
-TEXT: {0} Event
+TEXT: {0} Pokémon dell’evento
 
 RESOURCE ID: batch_transfer_unique_event_pokemon_singular
-TEXT: {0} Event
+TEXT: {0} Pokémon dell’evento
 
 RESOURCE ID: batch_transfer_unique_legendary_or_mythical_pokemon
 TEXT: Pokémon leggendari o misteriosi: {0}
@@ -15458,10 +15467,10 @@ RESOURCE ID: batch_transfer_unique_legendary_or_mythical_or_ultra_beast_pokemon
 TEXT: {0} Pokémon leggendari, Pokémon misteriosi o Ultracreature
 
 RESOURCE ID: batch_transfer_unique_location_background_pokemon_plural
-TEXT: {0} Location Backgrounds
+TEXT: {0} Sfondi di posizione
 
 RESOURCE ID: batch_transfer_unique_location_background_pokemon_singular
-TEXT: {0} Location Background
+TEXT: {0} Sfondo di posizione
 
 RESOURCE ID: batch_transfer_unique_location_card_pokemon
 TEXT: {0} Pokémon con uno sfondo raro
@@ -15470,19 +15479,19 @@ RESOURCE ID: batch_transfer_unique_mega_level_pokemon
 TEXT: {0} Pokémon con megalivello
 
 RESOURCE ID: batch_transfer_unique_mega_level_pokemon_plural
-TEXT: {0} Mega- or Primal-Leveled
+TEXT: {0} con megalivello o archeolivello
 
 RESOURCE ID: batch_transfer_unique_mega_level_pokemon_singular
-TEXT: {0} Mega- or Primal-Leveled
+TEXT: {0} con megalivello o archeolivello
 
 RESOURCE ID: batch_transfer_unique_not_included
 TEXT: Non hai selezionato alcun Pokémon leggendario, Pokémon misterioso, Ultracreatura o Pokémon di eventi.
 
 RESOURCE ID: batch_transfer_unique_special_background_pokemon_plural
-TEXT: {0} Special Backgrounds
+TEXT: {0} Sfondi speciali
 
 RESOURCE ID: batch_transfer_unique_special_background_pokemon_singular
-TEXT: {0} Special Background
+TEXT: {0} Sfondo speciale
 
 RESOURCE ID: batch_transfer_unique_warning_title
 TEXT: La tua selezione contiene questi Pokémon:
@@ -15494,19 +15503,19 @@ RESOURCE ID: batch_transfer_unique_xxl_pokemon
 TEXT: {0} XXL Pokémon
 
 RESOURCE ID: batch_transfer_unique_xxl_pokemon_plural
-TEXT: {0} XXL
+TEXT: {0} XXL
 
 RESOURCE ID: batch_transfer_unique_xxl_pokemon_singular
-TEXT: {0} XXL
+TEXT: {0} XXL
 
 RESOURCE ID: batch_transfer_unique_xxs_pokemon
 TEXT: {0} XXS Pokémon
 
 RESOURCE ID: batch_transfer_unique_xxs_pokemon_plural
-TEXT: {0} XXS
+TEXT: {0} XXS
 
 RESOURCE ID: batch_transfer_unique_xxs_pokemon_singular
-TEXT: {0} XXS
+TEXT: {0} XXS
 
 RESOURCE ID: battle_box
 TEXT: Pacco lotta
@@ -19639,7 +19648,7 @@ RESOURCE ID: bonus_rare_candy_xl_catch_origin
 TEXT: Una Caramella Rara L garantita per la cattura di Dialga Forma Originale o Palkia Forma Originale
 
 RESOURCE ID: bonus_rare_candy_xl_catch_starmie
-TEXT: One guaranteed Rare Candy XL when catching Starmie
+TEXT: Una Caramella Rara L garantita per la cattura di Starmie
 
 RESOURCE ID: bonus_rare_candy_xl_chance_raids
 TEXT: Maggiori probabilità di ottenere una Caramella Rara L nei raid
@@ -19993,7 +20002,7 @@ RESOURCE ID: bonus_today_zygarde_cell
 TEXT: Le cellule di Zygarde possono apparire al termine di un numero massimo di cinque percorsi al giorno
 
 RESOURCE ID: bonus_today_zygarde_cell_temp
-TEXT: Zygarde Cells can be claimed when completing a Route up to 5 times per day
+TEXT: Zygarde Cells can appear at the end of up to 5 Routes per day
 
 RESOURCE ID: bonus_total_6_special_trades
 TEXT: Sei scambi speciali in totale al giorno
@@ -30413,7 +30422,7 @@ RESOURCE ID: complete_geotarget_quest
 TEXT: Completa una missione di mappatura AR
 
 RESOURCE ID: complete_lucky_remote_trade_prompt
-TEXT: Rivedi e completa lo scambio da remoto fortunato!
+TEXT: Rivedi e completa lo <color=#F2A64B><b>scambio da remoto fortunato</b></color>!
 
 RESOURCE ID: complete_remote_trade_prompt
 TEXT: Rivedi e completa lo scambio da remoto!
@@ -38605,10 +38614,10 @@ RESOURCE ID: friend_sort_online_not_available_ok_button
 TEXT: Condividi il tuo stato “in linea”
 
 RESOURCE ID: friend_wants_to_lucky_remote_trade_prompt
-TEXT: {0} ti ha mandato una richiesta di scambio da remoto fortunato.
+TEXT: {0} ti ha mandato una richiesta di <color=#F2A64B><b>scambio da remoto fortunato</b></color>.
 
 RESOURCE ID: friend_wants_to_lucky_trade_prompt
-TEXT: {0} wants to <color=#F2A64B><b>Lucky Trade</b></color> with you.
+TEXT: {0} vuole fare uno <color=#F2A64B><b>scambio fortunato</b></color> con te.
 
 RESOURCE ID: friend_wants_to_remote_trade_prompt
 TEXT: {0} ti ha mandato una richiesta di scambio da remoto.
@@ -53162,6 +53171,42 @@ TEXT: Punti biglietto
 RESOURCE ID: item_event_pass_point_live_ops_08_name
 TEXT: Punti biglietto
 
+RESOURCE ID: item_event_pass_point_live_ops_09_name
+TEXT: Punti biglietto
+
+RESOURCE ID: item_event_pass_point_live_ops_10_name
+TEXT: Punti biglietto
+
+RESOURCE ID: item_event_pass_point_live_ops_11_name
+TEXT: Punti biglietto
+
+RESOURCE ID: item_event_pass_point_live_ops_12_name
+TEXT: Punti biglietto
+
+RESOURCE ID: item_event_pass_point_live_ops_13_name
+TEXT: Punti biglietto
+
+RESOURCE ID: item_event_pass_point_live_ops_14_name
+TEXT: Punti biglietto
+
+RESOURCE ID: item_event_pass_point_live_ops_15_name
+TEXT: Punti biglietto
+
+RESOURCE ID: item_event_pass_point_live_ops_16_name
+TEXT: Punti biglietto
+
+RESOURCE ID: item_event_pass_point_live_ops_17_name
+TEXT: Punti biglietto
+
+RESOURCE ID: item_event_pass_point_live_ops_18_name
+TEXT: Punti biglietto
+
+RESOURCE ID: item_event_pass_point_live_ops_19_name
+TEXT: Punti biglietto
+
+RESOURCE ID: item_event_pass_point_live_ops_20_name
+TEXT: Punti biglietto
+
 RESOURCE ID: item_event_pass_point_monthly_01_name
 TEXT: Punti biglietto
 
@@ -53172,6 +53217,30 @@ RESOURCE ID: item_event_pass_point_monthly_03_name
 TEXT: Punti biglietto
 
 RESOURCE ID: item_event_pass_point_monthly_04_name
+TEXT: Punti biglietto
+
+RESOURCE ID: item_event_pass_point_monthly_05_name
+TEXT: Punti biglietto
+
+RESOURCE ID: item_event_pass_point_monthly_06_name
+TEXT: Punti biglietto
+
+RESOURCE ID: item_event_pass_point_monthly_07_name
+TEXT: Punti biglietto
+
+RESOURCE ID: item_event_pass_point_monthly_08_name
+TEXT: Punti biglietto
+
+RESOURCE ID: item_event_pass_point_monthly_09_name
+TEXT: Punti biglietto
+
+RESOURCE ID: item_event_pass_point_monthly_10_name
+TEXT: Punti biglietto
+
+RESOURCE ID: item_event_pass_point_monthly_11_name
+TEXT: Punti biglietto
+
+RESOURCE ID: item_event_pass_point_monthly_12_name
 TEXT: Punti biglietto
 
 RESOURCE ID: item_event_ticket_desc_crown_clash_tgr
@@ -54944,7 +55013,7 @@ RESOURCE ID: item_global_event_ticket_desc_gowa25
 TEXT: Un biglietto per accedere alla ricerca speciale dell’evento “Terre Selvagge di Pokémon GO 2025 (globale)” dal 15 al 16 novembre 2025, ora locale, ovunque ti trovi.
 
 RESOURCE ID: item_global_event_ticket_desc_gowa26
-TEXT: A ticket to access the Pokémon GO Wild Area 2026: Global Special Research on November 14 and November 15, 2026, local time, wherever you are.
+TEXT: A ticket to access the Pokémon GO Wild Area 2026: Global Special Research on November 14 and November 15, 2026, wherever you are.
 
 RESOURCE ID: item_global_event_ticket_desc_hisuiandecidueye
 TEXT: Un biglietto per accedere ai bonus speciali domenica 11 febbraio 2024, dalle 14:00 alle 22:00 ora locale, ovunque ti trovi.
@@ -55003,7 +55072,7 @@ TEXT: Questo biglietto si attiverà automaticamente garantendoti l’accesso all
 Per ricevere i bonus, è necessario giocare durante la fascia oraria indicata.
 
 RESOURCE ID: item_global_event_ticket_details_gowa26
-TEXT: This ticket will automatically activate to give you access to the Pokémon GO Wild Area 2026: Global Special Research on November 14 and 15, local time, wherever you are. Details can be found in the in-game News.
+TEXT: This ticket will automatically activate to give you access to the Pokémon GO Wild Area 2026: Global Special Research on November 14 and 15, wherever you are. Details can be found in the in-game News.
 
 You must play during the specified time to receive all the event bonuses.
 
@@ -59379,22 +59448,22 @@ RESOURCE ID: lucky_friends_notification_details_from_charm
 TEXT: Tu e {0} siete diventati amici fortunati con un Portafortuna!
 
 RESOURCE ID: lucky_remote_trade_completion_overlay_message
-TEXT: {0} completed the <color=#F2A64B><b>Lucky Remote Trade</b></color>!
+TEXT: {0} ha completato lo <color=#F2A64B><b>scambio da remoto fortunato</b></color>!
 
 RESOURCE ID: lucky_remote_trade_confirm_body
-TEXT: Completa lo scambio da remoto fortunato con {0}!
+TEXT: Completa lo <color=#F2A64B><b>scambio da remoto fortunato</b></color> con {0}!
 
 RESOURCE ID: lucky_remote_trade_initiate_body
-TEXT: {0} ti ha mandato una richiesta di scambio da remoto fortunato!
+TEXT: {0} ti ha mandato una richiesta di <color=#F2A64B><b>scambio da remoto fortunato</b></color>!
 
 RESOURCE ID: lucky_remote_trade_overlay_complete
-TEXT: Review and Complete <color=#F2A64B><b>Lucky Remote Trade</b></color>
+TEXT: Rivedi e completa lo <color=#F2A64B><b>scambio da remoto fortunato</b></color>
 
 RESOURCE ID: lucky_remote_trade_overlay_respond
-TEXT: Review <color=#F2A64B><b>Lucky Remote Trade</b></color> Request
+TEXT: Rivedi la richiesta di <color=#F2A64B><b>scambio da remoto fortunato</b></color>
 
 RESOURCE ID: lucky_remote_trade_waiting_for_response
-TEXT: Waiting for response to <color=#F2A64B><b>Lucky Remote Trade</b></color>.
+TEXT: In attesa di risposta per lo <color=#F2A64B><b>scambio da remoto fortunato</b></color>.
 
 RESOURCE ID: lucky_trade_increase
 TEXT: Maggiore possibilità di ottenere Pokémon fortunati negli scambi
@@ -61792,10 +61861,10 @@ at SHA 4d4f3e80cc7fb911006bd14d198c9831ef66d005
 Pipeline 339838, job 2672172
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-08-10T23:29:18.099028+00:00 for it-IT
-at SHA 7467817e563
-Pipeline 3866309, job 56846989
-Patch from: 0.425.0-SHA-73e817e6-RC3, 0.423.1-SHA-70644676-RC1
+TEXT: Built at 2026-08-13T01:16:57.546690+00:00 for it-IT
+at SHA 8365a56ec161
+Pipeline 3871833, job 56925460
+Patch from: 0.425.0-SHA-4f83d1f4-RC4, 0.423.1-SHA-70644676-RC1
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: Ricerca a tempo: Scegli il tuo tipo Lotta
@@ -78519,7 +78588,7 @@ RESOURCE ID: pokemon_legendary_info_transfer_to_professor_confirmation
 TEXT: Vuoi davvero trasferire questo Pokémon leggendario?
 
 RESOURCE ID: pokemon_location_background_info_transfer_to_professor_confirmation
-TEXT: Do you really want to transfer this Pokémon with a Location Background?
+TEXT: Vuoi davvero trasferire questo Pokémon con uno Sfondo di posizione?
 
 RESOURCE ID: pokemon_location_card_info_transfer_to_professor_confirmation
 TEXT: Vuoi davvero trasferire questo Pokémon con uno sfondo raro?
@@ -82089,7 +82158,7 @@ RESOURCE ID: pokemon_size_tiny_encounter
 TEXT: It’s tiny!
 
 RESOURCE ID: pokemon_special_background_info_transfer_to_professor_confirmation
-TEXT: Do you really want to transfer this Pokémon with a Special Background?
+TEXT: Vuoi davvero trasferire questo Pokémon con uno Sfondo speciale?
 
 RESOURCE ID: pokemon_species_form_0888_2576
 TEXT: Zacian Re delle Spade
@@ -82107,10 +82176,10 @@ RESOURCE ID: pokemon_transfer_legendary_confirmation
 TEXT: Hai selezionato anche dei Pokémon leggendari o dei Pokémon misteriosi! Vuoi davvero trasferire i Pokémon selezionati?
 
 RESOURCE ID: pokemon_transfer_to_professor_warning_title
-TEXT: Your selected Pokémon meets the following criteria:
+TEXT: I Pokémon che hai selezionato rispettano i seguenti criteri:
 
 RESOURCE ID: pokemon_transfer_to_professor_warning_message
-TEXT: Are you sure you want to transfer this Pokémon to the professor?
+TEXT: Vuoi davvero trasferire questo Pokémon al professore?
 
 RESOURCE ID: pokemon_tutorial_ibfc_desc
 TEXT: Questo Pokémon può cambiare forma durante la lotta.
@@ -99946,7 +100015,7 @@ RESOURCE ID: quest_special_dialogue_zygarde_1_2
 TEXT: Stranamente, varie segnalazioni menzionavano che lungo i percorsi sono state osservate delle masse verdi informi. Alcuni Allenatori hanno persino pensato si trattasse di esseri viventi!
 
 RESOURCE ID: quest_special_dialogue_zygarde_1_2_temp
-TEXT: Curiously, several mentioned unusual activity along nearby Routes. Some Trainers even said they spotted something they couldn’t quite identify!
+TEXT: Curiously, several mentioned unusual activity along nearby Routes. Some Trainers even spotted something they couldn’t identify!
 
 RESOURCE ID: quest_special_dialogue_zygarde_1_3
 TEXT: Ho una teoria su quelle masse informi e su cosa potrebbero essere, ma prima vorrei rivedere i miei materiali di ricerca, e forse persino rileggere quell’articolo di prima...
@@ -118589,40 +118658,40 @@ RESOURCE ID: single_stat_increase_ftue_body
 TEXT: Attiva un corso di Allenamento Pro della durata di un anno che ti permetterà di potenziare al massimo una statistica di un Pokémon.
 
 RESOURCE ID: single_transfer_100_pokemon
-TEXT: ★ 100% Pokémon
+TEXT: Pokémon ★ 100%
 
 RESOURCE ID: single_transfer_bread_dough_level_pokemon
-TEXT: Gigantamax
+TEXT: Gigamax
 
 RESOURCE ID: single_transfer_bread_level_pokemon
 TEXT: Dynamax
 
 RESOURCE ID: single_transfer_buddy_level_pokemon
-TEXT: Buddy Leveled
+TEXT: Con livello affiatamento
 
 RESOURCE ID: single_transfer_event_pokemon
-TEXT: Event
+TEXT: Dell’evento
 
 RESOURCE ID: single_transfer_hyper_trained_pokemon
-TEXT: Hyper Trained
+TEXT: Con Allenamento Pro
 
 RESOURCE ID: single_transfer_legendary_or_mythical_or_ultra_beast_pokemon
-TEXT: Legendary Pokémon, Mythical Pokémon, or Ultra Beast
+TEXT: Pokémon leggendario, Pokémon misterioso o Ultracreatura
 
 RESOURCE ID: single_transfer_location_background_pokemon
-TEXT: Location Background
+TEXT: Sfondo di posizione
 
 RESOURCE ID: single_transfer_lucky_pokemon
-TEXT: Lucky
+TEXT: Fortunato
 
 RESOURCE ID: single_transfer_shiny_pokemon
-TEXT: Shiny
+TEXT: Cromatico
 
 RESOURCE ID: single_transfer_special_background_pokemon
-TEXT: Special Background
+TEXT: Sfondo speciale
 
 RESOURCE ID: single_transfer_unique_mega_level_pokemon
-TEXT: Mega- or Primal-Leveled
+TEXT: Con megalivello o archeolivello
 
 RESOURCE ID: single_transfer_xxl_pokemon
 TEXT: XXL
@@ -125196,12 +125265,12 @@ qui</a>.
 RESOURCE ID: text_rewards_key_gowa26
 TEXT: <b>Includes:</b>
 • Up to 6 free Raid Passes each day from spinning Gym Photo Discs
-• Increased chance of receiving event 10 km Eggs from Poké Stops
+• Increased chance of receiving event 10 km Eggs from PokéStops
 • Up to 6 Special Trades per day and reduced Stardust cost for trades
-• 1/2 hatch distance for eggs placed in incubators
-• 2x catch candy for catching Pokémon
+• 1/2 Hatch Distance when Eggs are placed in an Incubator during the event
+• 2× Candy for catching Pokémon
 • A higher chance to encounter Shiny Pokémon during the event
-Learn more about the ticket bonuses <a href=“pokemongo.com/gowildarea/global”>here</a>.
+Learn more about the ticket bonuses <a href="pokemongo.com/gowildarea/global">here</a>.
 
 RESOURCE ID: text_rewards_key_growingup0525
 TEXT: <b>Le ricompense includono:</b>
@@ -127747,10 +127816,10 @@ RESOURCE ID: title_tr_max_mystery_00
 TEXT: Ricerca a tempo aggiuntiva “Mistero Max” (1/1)
 
 RESOURCE ID: title_tr_pxp_2026_stream
-TEXT: PokémonXP Bonus Timed Research
+TEXT: Ricerca a tempo aggiuntiva di PokémonXP
 
 RESOURCE ID: title_tr_pxp_2026_stream_00
-TEXT: PokémonXP Bonus Timed Research (1/1)
+TEXT: Ricerca a tempo aggiuntiva di PokémonXP (1/1)
 
 RESOURCE ID: title_tr_wcs_2023_champ
 TEXT: Ricerca a tempo aggiuntiva “Campione dei Mondiali Pokémon 2023”
