@@ -8182,6 +8182,15 @@ TEXT: Zapatos estilo Profesor Willow
 RESOURCE ID: avatar_shirt_gholdengo_jumpsuit
 TEXT: Conjunto de Gholdengo
 
+RESOURCE ID: avatar_shirt_gofest_finale_chesnaught
+TEXT: Camiseta de Chesnaught
+
+RESOURCE ID: avatar_shirt_gofest_finale_delphox
+TEXT: Camiseta de Delphox
+
+RESOURCE ID: avatar_shirt_gofest_finale_greninja
+TEXT: Camiseta de Greninja
+
 RESOURCE ID: avatar_shirt_gotour_black
 TEXT: Camiseta negra del Tour de GO 2026
 
@@ -19929,7 +19938,7 @@ RESOURCE ID: bonus_today_zygarde_cell
 TEXT: Las células de Zygarde pueden aparecer al final de hasta 5 Rutas cada día
 
 RESOURCE ID: bonus_today_zygarde_cell_temp
-TEXT: Zygarde Cells can be claimed when completing a Route up to 5 times per day
+TEXT: Zygarde Cells can appear at the end of up to 5 Routes per day
 
 RESOURCE ID: bonus_total_6_special_trades
 TEXT: Un total de seis intercambios especiales cada día
@@ -50769,6 +50778,42 @@ TEXT: Puntos del Pase
 RESOURCE ID: item_event_pass_point_live_ops_08_name
 TEXT: Puntos del Pase
 
+RESOURCE ID: item_event_pass_point_live_ops_09_name
+TEXT: Puntos del Pase
+
+RESOURCE ID: item_event_pass_point_live_ops_10_name
+TEXT: Puntos del Pase
+
+RESOURCE ID: item_event_pass_point_live_ops_11_name
+TEXT: Puntos del Pase
+
+RESOURCE ID: item_event_pass_point_live_ops_12_name
+TEXT: Puntos del Pase
+
+RESOURCE ID: item_event_pass_point_live_ops_13_name
+TEXT: Puntos del Pase
+
+RESOURCE ID: item_event_pass_point_live_ops_14_name
+TEXT: Puntos del Pase
+
+RESOURCE ID: item_event_pass_point_live_ops_15_name
+TEXT: Puntos del Pase
+
+RESOURCE ID: item_event_pass_point_live_ops_16_name
+TEXT: Puntos del Pase
+
+RESOURCE ID: item_event_pass_point_live_ops_17_name
+TEXT: Puntos del Pase
+
+RESOURCE ID: item_event_pass_point_live_ops_18_name
+TEXT: Puntos del Pase
+
+RESOURCE ID: item_event_pass_point_live_ops_19_name
+TEXT: Puntos del Pase
+
+RESOURCE ID: item_event_pass_point_live_ops_20_name
+TEXT: Puntos del Pase
+
 RESOURCE ID: item_event_pass_point_monthly_01_name
 TEXT: Puntos del Pase
 
@@ -50779,6 +50824,30 @@ RESOURCE ID: item_event_pass_point_monthly_03_name
 TEXT: Puntos del Pase
 
 RESOURCE ID: item_event_pass_point_monthly_04_name
+TEXT: Puntos del Pase
+
+RESOURCE ID: item_event_pass_point_monthly_05_name
+TEXT: Puntos del Pase
+
+RESOURCE ID: item_event_pass_point_monthly_06_name
+TEXT: Puntos del Pase
+
+RESOURCE ID: item_event_pass_point_monthly_07_name
+TEXT: Puntos del Pase
+
+RESOURCE ID: item_event_pass_point_monthly_08_name
+TEXT: Puntos del Pase
+
+RESOURCE ID: item_event_pass_point_monthly_09_name
+TEXT: Puntos del Pase
+
+RESOURCE ID: item_event_pass_point_monthly_10_name
+TEXT: Puntos del Pase
+
+RESOURCE ID: item_event_pass_point_monthly_11_name
+TEXT: Puntos del Pase
+
+RESOURCE ID: item_event_pass_point_monthly_12_name
 TEXT: Puntos del Pase
 
 RESOURCE ID: item_event_ticket_desc_crown_clash_tgr
@@ -52515,7 +52584,7 @@ RESOURCE ID: item_global_event_ticket_desc_gowa25
 TEXT: Una entrada para acceder a la Investigación Especial de Área Silvestre de Pokémon GO 2025: Global el 15 y 16 de noviembre de 2025 en tu hora local, estés donde estés.
 
 RESOURCE ID: item_global_event_ticket_desc_gowa26
-TEXT: A ticket to access the Pokémon GO Wild Area 2026: Global Special Research on November 14 and November 15, 2026, local time, wherever you are.
+TEXT: A ticket to access the Pokémon GO Wild Area 2026: Global Special Research on November 14 and November 15, 2026, wherever you are.
 
 RESOURCE ID: item_global_event_ticket_desc_hisuiandecidueye
 TEXT: Una entrada para acceder a bonificaciones especiales el domingo 11 de febrero de 2024 de 2 p. m. a 10 p. m. en tu hora local, estés donde estés.
@@ -52574,7 +52643,7 @@ TEXT: Esta entrada se activará automáticamente el 15 y 16 de noviembre para da
 Debes jugar durante las horas especificadas para recibir todas las bonificaciones del evento.
 
 RESOURCE ID: item_global_event_ticket_details_gowa26
-TEXT: This ticket will automatically activate to give you access to the Pokémon GO Wild Area 2026: Global Special Research on November 14 and 15, local time, wherever you are. Details can be found in the in-game News.
+TEXT: This ticket will automatically activate to give you access to the Pokémon GO Wild Area 2026: Global Special Research on November 14 and 15, wherever you are. Details can be found in the in-game News.
 
 You must play during the specified time to receive all the event bonuses.
 
@@ -59334,10 +59403,10 @@ at SHA 0b3915937aff7
 Pipeline 2177475, job 26434025
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-08-10T23:29:18.099028+00:00 for es-MX
-at SHA 7467817e563
-Pipeline 3866309, job 56846989
-Patch from: 0.425.0-SHA-73e817e6-RC3, 0.423.1-SHA-70644676-RC1
+TEXT: Built at 2026-08-13T01:16:57.546690+00:00 for es-MX
+at SHA 8365a56ec161
+Pipeline 3871833, job 56925460
+Patch from: 0.425.0-SHA-4f83d1f4-RC4, 0.423.1-SHA-70644676-RC1
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: Investigación Temporal: Elige tu tipo de lucha
@@ -97277,7 +97346,7 @@ RESOURCE ID: quest_special_dialogue_zygarde_1_2
 TEXT: Curiosamente, varios de ellos mencionaban haberse encontrado con unas sustancias verdes, blanditas y sin forma en las Rutas. ¡Y hay quien pensaba que estaban vivas!
 
 RESOURCE ID: quest_special_dialogue_zygarde_1_2_temp
-TEXT: Curiously, several mentioned unusual activity along nearby Routes. Some Trainers even said they spotted something they couldn’t quite identify!
+TEXT: Curiously, several mentioned unusual activity along nearby Routes. Some Trainers even spotted something they couldn’t identify!
 
 RESOURCE ID: quest_special_dialogue_zygarde_1_3
 TEXT: Tengo una teoría sobre lo que puede ser ese material blandito, aunque prefiero revisar antes toda la información que recopilé en mi investigación. Quizás hasta releo el artículo del que hablamos antes...
@@ -121983,12 +122052,12 @@ TEXT: <b>Incluye:</b>
 RESOURCE ID: text_rewards_key_gowa26
 TEXT: <b>Includes:</b>
 • Up to 6 free Raid Passes each day from spinning Gym Photo Discs
-• Increased chance of receiving event 10 km Eggs from Poké Stops
+• Increased chance of receiving event 10 km Eggs from PokéStops
 • Up to 6 Special Trades per day and reduced Stardust cost for trades
-• 1/2 hatch distance for eggs placed in incubators
-• 2x catch candy for catching Pokémon
+• 1/2 Hatch Distance when Eggs are placed in an Incubator during the event
+• 2× Candy for catching Pokémon
 • A higher chance to encounter Shiny Pokémon during the event
-Learn more about the ticket bonuses <a href=“pokemongo.com/gowildarea/global”>here</a>.
+Learn more about the ticket bonuses <a href="pokemongo.com/gowildarea/global">here</a>.
 
 RESOURCE ID: text_rewards_key_growingup0525
 TEXT: <b>Las recompensas incluyen:</b>
