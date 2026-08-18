@@ -15709,10 +15709,10 @@ RESOURCE ID: batch_transfer_100_pokemon
 TEXT: {0} ★ 100-%-Pokémon
 
 RESOURCE ID: batch_transfer_100_pokemon_plural
-TEXT: {0} ★ 100% Pokémon
+TEXT: {0} ★ 100-%-Pokémon
 
 RESOURCE ID: batch_transfer_100_pokemon_singular
-TEXT: {0} ★ 100% Pokémon
+TEXT: {0} ★ 100-%-Pokémon
 
 RESOURCE ID: batch_transfer_eligible_confirm
 TEXT: <size=36><b>Nur {0} der ausgewählten Pokémon kann/können an den Professor verschickt werden.</b></size>
@@ -15730,10 +15730,10 @@ TEXT: <size=36><b>Nur 1 der ausgewählten Pokémon kann an den Professor verschi
 Alle Pokémon, die nicht verschickt werden können, bleiben in deiner Pokémon-Aufbewahrung. Verschickte Pokémon können nicht zurückgeholt werden.
 
 RESOURCE ID: batch_transfer_hyper_trained_pokemon_plural
-TEXT: {0} Hyper Trained
+TEXT: {0} super-spezialtrainiert
 
 RESOURCE ID: batch_transfer_hyper_trained_pokemon_singular
-TEXT: {0} Hyper Trained
+TEXT: {0} super-spezialtrainiert
 
 RESOURCE ID: batch_transfer_last_more_pokemon
 TEXT: Dein einziges {0}, {1} und {2} weitere
@@ -15754,10 +15754,10 @@ RESOURCE ID: batch_transfer_unique_bread_dough_level_pokemon
 TEXT: {0} Gigadynamax
 
 RESOURCE ID: batch_transfer_unique_bread_dough_level_pokemon_plural
-TEXT: {0} Gigantamax
+TEXT: {0} Gigadynamax
 
 RESOURCE ID: batch_transfer_unique_bread_dough_level_pokemon_singular
-TEXT: {0} Gigantamax
+TEXT: {0} Gigadynamax
 
 RESOURCE ID: batch_transfer_unique_bread_level_pokemon
 TEXT: {0} Dynamax
@@ -15787,10 +15787,10 @@ RESOURCE ID: batch_transfer_unique_legendary_or_mythical_or_ultra_beast_pokemon
 TEXT: {0} Legendäre Pokémon, Mysteriöse Pokémon oder Ultrabestien
 
 RESOURCE ID: batch_transfer_unique_location_background_pokemon_plural
-TEXT: {0} Location Backgrounds
+TEXT: {0} Ortshintergründe
 
 RESOURCE ID: batch_transfer_unique_location_background_pokemon_singular
-TEXT: {0} Location Background
+TEXT: {0} Ortshintergrund
 
 RESOURCE ID: batch_transfer_unique_location_card_pokemon
 TEXT: {0} Special Location Backgrounds
@@ -15799,19 +15799,19 @@ RESOURCE ID: batch_transfer_unique_mega_level_pokemon
 TEXT: {0} Mega-Level-Pokémon
 
 RESOURCE ID: batch_transfer_unique_mega_level_pokemon_plural
-TEXT: {0} Mega- or Primal-Leveled
+TEXT: {0} Mega- oder Proto-Level
 
 RESOURCE ID: batch_transfer_unique_mega_level_pokemon_singular
-TEXT: {0} Mega- or Primal-Leveled
+TEXT: {0} Mega- oder Proto-Level
 
 RESOURCE ID: batch_transfer_unique_not_included
 TEXT: Du hast keine Legendären, Mysteriösen oder Event-Pokémon und auch keine Ultrabestien ausgewählt.
 
 RESOURCE ID: batch_transfer_unique_special_background_pokemon_plural
-TEXT: {0} Special Backgrounds
+TEXT: {0} Spezialhintergründe
 
 RESOURCE ID: batch_transfer_unique_special_background_pokemon_singular
-TEXT: {0} Special Background
+TEXT: {0} Spezialhintergrund
 
 RESOURCE ID: batch_transfer_unique_warning_title
 TEXT: Deine Auswahl enthält diese Pokémon:
@@ -20322,7 +20322,7 @@ RESOURCE ID: bonus_today_zygarde_cell
 TEXT: Zygarde -Zellen können pro Tag am Ende von 5 Routen erscheinen
 
 RESOURCE ID: bonus_today_zygarde_cell_temp
-TEXT: Zygarde Cells can appear at the end of up to 5 Routes per day
+TEXT: Zygarde-Zellen können am Ende von bis zu 5 Routen pro Tag erscheinen
 
 RESOURCE ID: bonus_total_6_special_trades
 TEXT: Insgesamt sechs Spezial-Tausche pro Tag
@@ -20649,22 +20649,22 @@ RESOURCE ID: boot_safety_warning_4
 TEXT: Verhalte dich beim Spielen von Pokémon GO stets höflich gegenüber Menschen in der echten Welt.
 
 RESOURCE ID: box_gocatch
-TEXT: GO Catch Box
+TEXT: GO-Fangbox
 
 RESOURCE ID: box_gohatch
-TEXT: GO Hatch Box
+TEXT: GO-Schlüpfbox
 
 RESOURCE ID: box_gomaster
-TEXT: GO Master Box
+TEXT: GO-Meisterbox
 
 RESOURCE ID: box_goraid
-TEXT: GO Raid Box
+TEXT: GO-Raidbox
 
 RESOURCE ID: box_gostarter
-TEXT: GO Starter Box
+TEXT: GO-Starterbox
 
 RESOURCE ID: box_gosticker
-TEXT: GO Sticker Box
+TEXT: GO-Stickerbox
 
 RESOURCE ID: box_community_day
 TEXT: Community Day-Box im Shop erhältlich
@@ -21812,7 +21812,7 @@ RESOURCE ID: breakfast_tappable_tutorial_body
 TEXT: Du kannst beim Folgen einer Route Zygarde-Zellen finden. Aus Zygarde-Zellen kannst du verschiedene Zygarde-Formen synthetisieren.
 
 RESOURCE ID: breakfast_tappable_tutorial_body_temp
-TEXT: You can find Zygarde Cells after completing a Route. You can assemble Zygarde Cells to create different Zygarde forms.
+TEXT: Du kannst Zygarde-Zellen nach dem Abschluss einer Route finden. Aus Zygarde-Zellen kannst du verschiedene Zygarde-Formen synthetisieren.
 
 RESOURCE ID: breakthrough_free_remote_raid_pass
 TEXT: Fern-Raid-Pass von Forschungsdurchbrüchen
@@ -28988,6 +28988,15 @@ TEXT: Isahaya
 RESOURCE ID: city_manhole_481
 TEXT: Saikai
 
+RESOURCE ID: city_manhole_483
+TEXT: Tsushima
+
+RESOURCE ID: city_manhole_484
+TEXT: Okaya
+
+RESOURCE ID: city_manhole_485
+TEXT: Kiso
+
 RESOURCE ID: city_manhole_4(ibusuki)_d64e
 TEXT: Ibusuki
 
@@ -32178,7 +32187,7 @@ RESOURCE ID: dynamic_punch_+_move_content
 TEXT: Mewtu schlägt mit seiner vollen, konzentrierten Macht für {0} zu. Erhöht den Schaden gegen Mega-Entwicklungs-Pokémon in Raids und ermöglicht es deinen Mega-Entwicklungs-Pokémon, zwei Schilde in Super-Mega-Raids zu durchschlagen.
 
 RESOURCE ID: dynamic_punch_adventure_effects_mapview_dialog
-TEXT: Mewtwo punches with full, concentrated power. Increases damage against Mega-Evolved Pokémon in raids and enables your Mega-Evolved Pokémon to break two shields in Super Mega Raids.
+TEXT: Mewtu schlägt mit seiner vollen, konzentrierten Macht zu. Erhöht den Schaden gegen Mega-Entwicklungs-Pokémon in Raids und ermöglicht es deinen Mega-Entwicklungs-Pokémon, zwei Schilde in Super-Mega-Raids zu durchschlagen.
 
 RESOURCE ID: dynamic_punch_adventure_effects_mapview_dialog_out
 TEXT: Mewtu greift mit harten Schlägen für {0} an. Ermöglicht es deinen Mega-Entwicklungs-Pokémon, zwei Schilde in Super-Mega-Raids zu durchschlagen.
@@ -39329,7 +39338,7 @@ RESOURCE ID: future_sight_+_move_content
 TEXT: Mewtu entfesselt eine Welle Psycho-Energie für {0}, wodurch es enthüllt, ob Pokémon, denen du begegnest, hohe Statuswerte haben.
 
 RESOURCE ID: future_sight_adventure_effects_mapview_dialog
-TEXT: Mewtwo releases a hunk of psychic energy, revealing when encountered Pokémon have high stats.
+TEXT: Mewtu entfesselt gewaltige Psycho-Energie und enthüllt, wenn Pokémon, denen du begegnest, hohe Statuswerte haben.
 
 RESOURCE ID: future_sight_adventure_effects_mapview_dialog_out
 TEXT: Mewtu entfesselt eine Welle Psycho-Energie für {0} und enthüllt, wenn wilde Pokémon oder Raid-Begegnungen hohe Statuswerte haben.
@@ -39503,7 +39512,7 @@ RESOURCE ID: gbl_sets_extra_twenty_total
 TEXT: Insgesamt 20 Sätze von Kämpfen in der GO-Kampfliga
 
 RESOURCE ID: gbl_stat_variance_bonus
-TEXT: Non-Legendary Pokémon caught from the GO Battle League will have a wider variance of Attack, Defense, and HP
+TEXT: Pokémon, die nicht Legendär sind und durch die GO-Kampfliga gefangen wurden, haben eine größere Varianz bei Angriffs-, Verteidigungs- und KP-Werten.
 
 RESOURCE ID: gbl_ticket_research_title
 TEXT: Befristete GO-Kampfliga-Forschung
@@ -55972,6 +55981,9 @@ TEXT: Entdecker-Gadget
 RESOURCE ID: item_soft_sfida_limit_upgrade_earned
 TEXT: Entdecker-Gadget
 
+RESOURCE ID: item_soft_sfida_limit_upgrade_earned_name
+TEXT: Entdecker-Gadget
+
 RESOURCE ID: item_special_camera_desc
 TEXT: Ein Gerät zum Fotografieren von Pokémon. Fotos können mit anderen geteilt werden.
 
@@ -59528,7 +59540,7 @@ RESOURCE ID: lobby_ready_progress
 TEXT: {0} von {1} bereit
 
 RESOURCE ID: lobby_shield_break_power
-TEXT: {0}/{1} Shield break potential
+TEXT: {0}/{1} Potenzial, den Schutzschild zu zerschlagen
 
 RESOURCE ID: local_bonus_event_tag
 TEXT: Ortsbonus
@@ -62204,10 +62216,10 @@ at SHA 4d4f3e80cc7fb911006bd14d198c9831ef66d005
 Pipeline 339838, job 2672172
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-08-13T01:16:57.546690+00:00 for de-DE
-at SHA 8365a56ec161
-Pipeline 3871833, job 56925460
-Patch from: 0.425.0-SHA-4f83d1f4-RC4, 0.423.1-SHA-70644676-RC1
+TEXT: Built at 2026-08-18T00:48:15.368257+00:00 for de-DE
+at SHA 4c5aa5ac97f
+Pipeline 3880013, job 57040572
+Patch from: 0.423.1-SHA-70644676-RC1, 0.425.0-SHA-73e817e6-RC3, 0.427.0-SHA-bafb3348-RC1
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: Befristete Forschung: Ansage vom Typ Kampf
@@ -62526,7 +62538,7 @@ RESOURCE ID: mountain_cup_great_title
 TEXT: Berg-Cup – Edition: Superliga
 
 RESOURCE ID: move_mega_evo_boost_bonus
-TEXT: MEGA EVOLUTION BONUS
+TEXT: MEGA-ENTWICKLUNGSBONUS
 
 RESOURCE ID: move_name_0001
 TEXT: Donnerschock
@@ -78937,7 +78949,7 @@ RESOURCE ID: pokemon_legendary_info_transfer_to_professor_confirmation
 TEXT: Möchtest du dieses Legendäre Pokémon wirklich an den Professor schicken?
 
 RESOURCE ID: pokemon_location_background_info_transfer_to_professor_confirmation
-TEXT: Do you really want to transfer this Pokémon with a Location Background?
+TEXT: Möchtest du dieses Pokémon mit Ortshintergrund wirklich verschicken?
 
 RESOURCE ID: pokemon_location_card_info_transfer_to_professor_confirmation
 TEXT: Möchtest du dieses Pokémon mit seltenem Hintergrund wirklich verschicken?
@@ -82507,7 +82519,7 @@ RESOURCE ID: pokemon_size_tiny_encounter
 TEXT: It's tiny!
 
 RESOURCE ID: pokemon_special_background_info_transfer_to_professor_confirmation
-TEXT: Do you really want to transfer this Pokémon with a Special Background?
+TEXT: Möchtest du dieses Pokémon mit Spezialhintergrund wirklich verschicken?
 
 RESOURCE ID: pokemon_species_form_0888_2576
 TEXT: Zacian (König des Schwertes)
@@ -82525,10 +82537,10 @@ RESOURCE ID: pokemon_transfer_legendary_confirmation
 TEXT: Deine Auswahl enthält Legendäre oder Mysteriöse Pokémon! Möchtest du die ausgewählten Pokémon wirklich verschicken?
 
 RESOURCE ID: pokemon_transfer_to_professor_warning_title
-TEXT: Your selected Pokémon meets the following criteria:
+TEXT: Deine ausgewählten Pokémon erfüllen die folgenden Krieterien:
 
 RESOURCE ID: pokemon_transfer_to_professor_warning_message
-TEXT: Are you sure you want to transfer this Pokémon to the professor?
+TEXT: Möchtest du dieses Pokémon wirklich an den Professor verschicken?
 
 RESOURCE ID: pokemon_tutorial_ibfc_desc
 TEXT: Dieses Pokémon kann im Kampf seine Form wechseln.
@@ -100366,13 +100378,13 @@ RESOURCE ID: quest_special_dialogue_zygarde_1_2
 TEXT: Merkwürdigerweise erwähnen mehrere von ihnen amorphe, grüne Klümpchen, die sie entlang Routen gefunden haben. Manche Trainer dachten sogar, dass sie vielleicht lebendig sind!
 
 RESOURCE ID: quest_special_dialogue_zygarde_1_2_temp
-TEXT: Curiously, several mentioned unusual activity along nearby Routes. Some Trainers even spotted something they couldn’t identify!
+TEXT: Merkwürdigerweise erwähnten mehrere ungewöhnliche Aktivitäten entlang der Routen in der Nähe. Manche Trainer haben sogar etwas gesichtet, das sie nicht zuordnen konnten!
 
 RESOURCE ID: quest_special_dialogue_zygarde_1_3
 TEXT: Ich habe eine Theorie, was diese wabbligen Klümpchen sein könnten, aber ich möchte erst noch meine Forschungsmaterialien prüfen. Vielleicht sogar den Artikel von vorher noch mal lesen ...
 
 RESOURCE ID: quest_special_dialogue_zygarde_1_3_temp
-TEXT: I have a theory about what might be drawing attention out there, but I’d like to look through my research materials a tad more first. Maybe even reread that article from earlier...
+TEXT: Ich habe eine Theorie, was dort draußen vor sich gehen könnte, aber ich möchte erst noch ein bisschen durch meine Forschungsmaterialien gehen. Vielleicht sollte ich den Artikel von vorhin noch einmal lesen ...
 
 RESOURCE ID: quest_special_dialogue_zygarde_1_4
 TEXT: Setze in der Zwischenzeit deine Feldstudien fort. Ich bin sicher, dass ich ein weniger amorphes Update für dich habe, wenn du zurückkehrst.
@@ -100411,7 +100423,7 @@ RESOURCE ID: quest_special_dialogue_zygarde_3_5
 TEXT: Und wo du diese Zellen finden kannst? Erinnerst du dich an diese grünen Klümpchen, die entlang Routen gefunden wurden? Ich nehme an, dass dies tatsächlich Zygarde-Zellen waren!
 
 RESOURCE ID: quest_special_dialogue_zygarde_3_5_temp
-TEXT: And where can you find those Cells? Well, do you recall the unusual activity along Routes I mentioned earlier? I reckon it may have been caused by Zygarde Cells!
+TEXT: Und wo du diese Zellen finden kannst? Naja, erinnerst du dich an die ungewöhnlichen Aktivitäten entlang der Routen, die ich vorher erwähnt hatte? Ich nehme an, dass diese vielleicht von Zygarde-Zellen verursacht wurden!
 
 RESOURCE ID: quest_special_dialogue_zygarde_3_6
 TEXT: Würdest du diese Hypothese für mich prüfen, %PLAYERNAME%?
@@ -111839,7 +111851,7 @@ RESOURCE ID: report_route_bug_info_zygarde
 TEXT: Es gibt keine Garantie, dass Zygarde-Zellen auf jeder Route erscheinen.
 
 RESOURCE ID: report_route_bug_info_zygarde_temp
-TEXT: Zygarde Cells are not guaranteed to appear at the end of every Route.
+TEXT: Es gibt keine Garantie, dass Zygarde-Zellen am Ende jeder Route erscheinen.
 
 RESOURCE ID: report_route_bug_reason_candy
 TEXT: Mein Kumpel hat auf dieser Route nicht schneller Bonbons verdient.
@@ -119006,40 +119018,40 @@ RESOURCE ID: single_stat_increase_ftue_body
 TEXT: Schaltet einen Super-Spezialtrainingskurs frei, der ein Jahr dauert und mit dem du einen Wert eines Pokémon erhöhen kannst.
 
 RESOURCE ID: single_transfer_100_pokemon
-TEXT: ★ 100% Pokémon
+TEXT: ★ 100-%-Pokémon
 
 RESOURCE ID: single_transfer_bread_dough_level_pokemon
-TEXT: Gigantamax
+TEXT: Gigadynamax
 
 RESOURCE ID: single_transfer_bread_level_pokemon
 TEXT: Dynamax
 
 RESOURCE ID: single_transfer_buddy_level_pokemon
-TEXT: Buddy Leveled
+TEXT: Kumpel-Level
 
 RESOURCE ID: single_transfer_event_pokemon
 TEXT: Event
 
 RESOURCE ID: single_transfer_hyper_trained_pokemon
-TEXT: Hyper Trained
+TEXT: Super-Spezialtraining
 
 RESOURCE ID: single_transfer_legendary_or_mythical_or_ultra_beast_pokemon
-TEXT: Legendary Pokémon, Mythical Pokémon, or Ultra Beast
+TEXT: Legendäre Pokémon, Mysteriöse Pokémon oder Ultrabestien
 
 RESOURCE ID: single_transfer_location_background_pokemon
-TEXT: Location Background
+TEXT: Ortshintergrund
 
 RESOURCE ID: single_transfer_lucky_pokemon
-TEXT: Lucky
+TEXT: Glücks
 
 RESOURCE ID: single_transfer_shiny_pokemon
-TEXT: Shiny
+TEXT: Schillernd
 
 RESOURCE ID: single_transfer_special_background_pokemon
-TEXT: Special Background
+TEXT: Spezialhintergrund
 
 RESOURCE ID: single_transfer_unique_mega_level_pokemon
-TEXT: Mega- or Primal-Leveled
+TEXT: Mega- oder Proto-Level
 
 RESOURCE ID: single_transfer_xxl_pokemon
 TEXT: XXL
@@ -130301,6 +130313,90 @@ TEXT: Befristete Forschung: Warmherzige Herausforderung (5/5)
 
 RESOURCE ID: tr_kr2025_retention_warm_hearted_desc
 TEXT: Befristete Forschung: Warmherzige Herausforderung
+
+RESOURCE ID: tr_kr_tr_test_2026_week1_title
+TEXT: Befristete Forschung: Wochenstaffel Teil 1
+
+RESOURCE ID: tr_kr_tr_test_2026_feature_button_text_1
+TEXT: Erkunden
+
+RESOURCE ID: tr_kr_tr_test_2026_feature_button_text_2
+TEXT: Fangen
+
+RESOURCE ID: tr_kr_tr_test_2026_feature_button_text_3
+TEXT: Drehen
+
+RESOURCE ID: tr_kr_tr_test_2026_feature_button_text_4
+TEXT: Schnappschüsse
+
+RESOURCE ID: tr_kr_tr_test_2026_feature_button_text_5
+TEXT: Kumpel
+
+RESOURCE ID: tr_kr_tr_test_2026_feature_button_text_6
+TEXT: Ausbrüten
+
+RESOURCE ID: tr_kr_tr_test_2026_feature_button_text_7
+TEXT: Geschenke
+
+RESOURCE ID: tr_kr_tr_test_2026_feature_button_text_8
+TEXT: Raid-Kämpfe
+
+RESOURCE ID: tr_kr_tr_test_2026_feature_key_1
+TEXT: Wähle diese Option, um dich auf Aufgaben zu konzentrieren, in denen es um das Erkunden geht!
+
+RESOURCE ID: tr_kr_tr_test_2026_feature_key_2
+TEXT: Wähle diese Option, um dich auf Aufgaben zu konzentrieren, in denen es um das Fangen von Pokémon geht!
+
+RESOURCE ID: tr_kr_tr_test_2026_feature_key_3
+TEXT: Wähle diese Option, um dich auf Aufgaben zu konzentrieren, in denen es um das Drehen von PokéStops geht!
+
+RESOURCE ID: tr_kr_tr_test_2026_feature_key_4
+TEXT: Wähle diese Option, um dich auf Aufgaben zu konzentrieren, in denen es um Schnappschüsse geht!
+
+RESOURCE ID: tr_kr_tr_test_2026_feature_key_5
+TEXT: Wähle diese Option, um dich auf Aufgaben zu konzentrieren, in denen es um dein Kumpel-Pokémon geht!
+
+RESOURCE ID: tr_kr_tr_test_2026_feature_key_6
+TEXT: Wähle diese Option, um dich auf Aufgaben zu konzentrieren, in denen es um das Ausbrüten von Eiern geht!
+
+RESOURCE ID: tr_kr_tr_test_2026_feature_key_7
+TEXT: Wähle diese Option, um dich auf Aufgaben zu konzentrieren, in denen es um Geschenke geht!
+
+RESOURCE ID: tr_kr_tr_test_2026_feature_key_8
+TEXT: Wähle diese Option, um dich auf Aufgaben zu konzentrieren, in denen es um Raid-Kämpfe geht!
+
+RESOURCE ID: tr_kr_tr_test_2026_week1_0
+TEXT: Befristete Forschung: Wochenstaffel Teil 1 (1/2)
+
+RESOURCE ID: tr_kr_tr_test_2026_week1_1
+TEXT: Befristete Forschung: Wochenstaffel Teil 1 (2/2)
+
+RESOURCE ID: tr_kr_tr_test_2026_week2
+TEXT: Befristete Forschung: Wochenstaffel Teil 2
+
+RESOURCE ID: tr_kr_tr_test_2026_week2_0
+TEXT: Befristete Forschung: Wochenstaffel Teil 2 (1/2)
+
+RESOURCE ID: tr_kr_tr_test_2026_week2_1
+TEXT: Befristete Forschung: Wochenstaffel Teil 2 (2/2)
+
+RESOURCE ID: tr_kr_tr_test_2026_week3
+TEXT: Befristete Forschung: Wochenstaffel Teil 3
+
+RESOURCE ID: tr_kr_tr_test_2026_week3_0
+TEXT: Befristete Forschung: Wochenstaffel Teil 3 (1/2)
+
+RESOURCE ID: tr_kr_tr_test_2026_week3_1
+TEXT: Befristete Forschung: Wochenstaffel Teil 3 (2/2)
+
+RESOURCE ID: tr_kr_tr_test_2026_week4
+TEXT: Befristete Forschung: Wochenstaffel Teil 4
+
+RESOURCE ID: tr_kr_tr_test_2026_week4_0
+TEXT: Befristete Forschung: Wochenstaffel Teil 4 (1/2)
+
+RESOURCE ID: tr_kr_tr_test_2026_week4_1
+TEXT: Befristete Forschung: Wochenstaffel Teil 4 (2/2)
 
 RESOURCE ID: tr_latam_soccer_collab_title_00
 TEXT: Befristete Bonus-Forschung: Pokémon GOal Zeit (1/3)

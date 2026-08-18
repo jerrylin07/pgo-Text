@@ -15371,10 +15371,10 @@ RESOURCE ID: batch_transfer_100_pokemon
 TEXT: โปเกมอน ★ 100% {0} ตัว
 
 RESOURCE ID: batch_transfer_100_pokemon_plural
-TEXT: {0} ★ 100% Pokémon
+TEXT: โปเกมอน ★ 100% ({0})
 
 RESOURCE ID: batch_transfer_100_pokemon_singular
-TEXT: {0} ★ 100% Pokémon
+TEXT: โปเกมอน ★ 100% ({0})
 
 RESOURCE ID: batch_transfer_eligible_confirm
 TEXT: <size=36><b>มีโปเกมอนเพียง {0} ตัวที่สามารถถ่ายโอนได้</b></size>
@@ -15399,10 +15399,10 @@ TEXT: <size=36><b>มีโปเกมอนเพียง 1 ตัวที�
 สามารถเรียกคืนได้
 
 RESOURCE ID: batch_transfer_hyper_trained_pokemon_plural
-TEXT: {0} Hyper Trained
+TEXT: ผ่านการฝึกขั้นสุดยอดแล้ว ({0})
 
 RESOURCE ID: batch_transfer_hyper_trained_pokemon_singular
-TEXT: {0} Hyper Trained
+TEXT: ผ่านการฝึกขั้นสุดยอดแล้ว ({0})
 
 RESOURCE ID: batch_transfer_last_more_pokemon
 TEXT: {0}และ{1}ที่มีเพียงตัวเดียว (อื่น ๆ อีก {2} ตัว)
@@ -15425,19 +15425,19 @@ RESOURCE ID: batch_transfer_unique_bread_dough_level_pokemon
 TEXT: กิกะแมกซ์ ({0})
 
 RESOURCE ID: batch_transfer_unique_bread_dough_level_pokemon_plural
-TEXT: {0} Gigantamax
+TEXT: กิกะแมกซ์ ({0})
 
 RESOURCE ID: batch_transfer_unique_bread_dough_level_pokemon_singular
-TEXT: {0} Gigantamax
+TEXT: กิกะแมกซ์ ({0})
 
 RESOURCE ID: batch_transfer_unique_bread_level_pokemon
 TEXT: ไดแมกซ์ ({0})
 
 RESOURCE ID: batch_transfer_unique_bread_level_pokemon_plural
-TEXT: {0} Dynamax
+TEXT: ไดแมกซ์ ({0})
 
 RESOURCE ID: batch_transfer_unique_bread_level_pokemon_singular
-TEXT: {0} Dynamax
+TEXT: ไดแมกซ์ ({0})
 
 RESOURCE ID: batch_transfer_unique_day_night_level_pokemon
 TEXT: โปเกมอนที่มีภาพเหมือน {0} ตัว
@@ -15446,10 +15446,10 @@ RESOURCE ID: batch_transfer_unique_event_pokemon
 TEXT: โปเกมอนอีเวนต์ {0} ตัว
 
 RESOURCE ID: batch_transfer_unique_event_pokemon_plural
-TEXT: {0} Event
+TEXT: อีเวนต์ ({0})
 
 RESOURCE ID: batch_transfer_unique_event_pokemon_singular
-TEXT: {0} Event
+TEXT: อีเวนต์ ({0})
 
 RESOURCE ID: batch_transfer_unique_legendary_or_mythical_pokemon
 TEXT: โปเกมอนในตำนานหรือมายา {0} ตัว
@@ -15459,10 +15459,10 @@ TEXT: โปเกมอนในตำนาน โปเกมอนมาย�
 หรืออัลตร้าบีสต์ {0} ตัว
 
 RESOURCE ID: batch_transfer_unique_location_background_pokemon_plural
-TEXT: {0} Location Backgrounds
+TEXT: พื้นหลังสถานที่ ({0})
 
 RESOURCE ID: batch_transfer_unique_location_background_pokemon_singular
-TEXT: {0} Location Background
+TEXT: พื้นหลังสถานที่ ({0})
 
 RESOURCE ID: batch_transfer_unique_location_card_pokemon
 TEXT: โปเกมอนที่มีพื้นหลังหายาก {0} ตัว
@@ -15471,22 +15471,22 @@ RESOURCE ID: batch_transfer_unique_mega_level_pokemon
 TEXT: โปเกมอนที่มีระดับเมก้า {0} ตัว
 
 RESOURCE ID: batch_transfer_unique_mega_level_pokemon_plural
-TEXT: {0} Mega- or Primal-Leveled
+TEXT: ระดับเมก้าหรือระดับต้นกำเนิด ({0})
 
 RESOURCE ID: batch_transfer_unique_mega_level_pokemon_singular
-TEXT: {0} Mega- or Primal-Leveled
+TEXT: ระดับเมก้าหรือระดับต้นกำเนิด ({0})
 
 RESOURCE ID: batch_transfer_unique_not_included
 TEXT: ไม่มีโปเกมอนในตำนาน มายา อัลตร้าบีสต์ หรืออีเวนต์รวมอยู่ด้วย
 
 RESOURCE ID: batch_transfer_unique_special_background_pokemon_plural
-TEXT: {0} Special Backgrounds
+TEXT: พื้นหลังพิเศษ ({0})
 
 RESOURCE ID: batch_transfer_unique_special_background_pokemon_singular
-TEXT: {0} Special Background
+TEXT: พื้นหลังพิเศษ ({0})
 
 RESOURCE ID: batch_transfer_unique_warning_title
-TEXT: มีโปเกมอนดังนี้รวมอยู่:
+TEXT: มีโปเกมอนที่ตรงกับหลักเกณฑ์ต่อไปนี้รวมอยู่:
 
 RESOURCE ID: batch_transfer_unique_warning_message
 TEXT: คุณแน่ใจหรือไม่ว่าต้องการถ่ายโอนโปเกมอนเหล่านี้?
@@ -15495,19 +15495,19 @@ RESOURCE ID: batch_transfer_unique_xxl_pokemon
 TEXT: {0} XXL Pokémon
 
 RESOURCE ID: batch_transfer_unique_xxl_pokemon_plural
-TEXT: {0} XXL
+TEXT: XXL ({0})
 
 RESOURCE ID: batch_transfer_unique_xxl_pokemon_singular
-TEXT: {0} XXL
+TEXT: XXL ({0})
 
 RESOURCE ID: batch_transfer_unique_xxs_pokemon
 TEXT: {0} XXS Pokémon
 
 RESOURCE ID: batch_transfer_unique_xxs_pokemon_plural
-TEXT: {0} XXS
+TEXT: XXS ({0})
 
 RESOURCE ID: batch_transfer_unique_xxs_pokemon_singular
-TEXT: {0} XXS
+TEXT: XXS ({0})
 
 RESOURCE ID: battle_box
 TEXT: กล่องแบตเทิล
@@ -28917,6 +28917,15 @@ TEXT: Isahaya
 RESOURCE ID: city_manhole_481
 TEXT: Saikai
 
+RESOURCE ID: city_manhole_483
+TEXT: Tsushima
+
+RESOURCE ID: city_manhole_484
+TEXT: Okaya
+
+RESOURCE ID: city_manhole_485
+TEXT: Kiso
+
 RESOURCE ID: city_manhole_4(ibusuki)_d64e
 TEXT: อิบุสุกิ
 
@@ -30682,7 +30691,7 @@ RESOURCE ID: complete_geotarget_quest
 TEXT: Complete an AR scan Field Research
 
 RESOURCE ID: complete_lucky_remote_trade_prompt
-TEXT: ตรวจสอบและยืนยันการแลกเปลี่ยนระยะไกลนำโชค
+TEXT: ตรวจสอบและยืนยันการ<color=#F2A64B><b>แลกเปลี่ยนระยะไกลนำโชค</b></color>
 
 RESOURCE ID: complete_remote_trade_prompt
 TEXT: ตรวจสอบและยืนยันการแลกเปลี่ยนระยะไกล
@@ -39063,10 +39072,10 @@ RESOURCE ID: friend_sort_online_not_available_ok_button
 TEXT: ใช่
 
 RESOURCE ID: friend_wants_to_lucky_remote_trade_prompt
-TEXT: {0} ส่งคำขอแลกเปลี่ยนระยะไกลนำโชคมาให้คุณ
+TEXT: {0} ส่งคำขอ<color=#F2A64B><b>แลกเปลี่ยนระยะไกลนำโชค</b></color>มาให้คุณ
 
 RESOURCE ID: friend_wants_to_lucky_trade_prompt
-TEXT: {0} wants to <color=#F2A64B><b>Lucky Trade</b></color> with you.
+TEXT: {0} ต้องการ<color=#F2A64B><b>แลกเปลี่ยนนำโชค</b></color>กับคุณ
 
 RESOURCE ID: friend_wants_to_remote_trade_prompt
 TEXT: {0} ส่งคำขอแลกเปลี่ยนระยะไกลมาให้คุณ
@@ -59711,6 +59720,9 @@ TEXT: เครื่องมือนักสำรวจ
 RESOURCE ID: item_soft_sfida_limit_upgrade_earned
 TEXT: เครื่องมือนักสำรวจ
 
+RESOURCE ID: item_soft_sfida_limit_upgrade_earned_name
+TEXT: เครื่องมือนักสำรวจ
+
 RESOURCE ID: item_special_camera_desc
 TEXT: อุปกรณ์ถ่ายภาพโปเกมอน
 สามารถแชร์ภาพถ่ายให้ผู้อื่นดูได้
@@ -63628,22 +63640,22 @@ TEXT: ใช้เครื่องรางนำโชคแล้ว
 กลายเป็นเพื่อนนำโชค!
 
 RESOURCE ID: lucky_remote_trade_completion_overlay_message
-TEXT: {0} completed the <color=#F2A64B><b>Lucky Remote Trade</b></color>!
+TEXT: {0} เสร็จสิ้นการ<color=#F2A64B><b>แลกเปลี่ยนระยะไกลนำโชค</b></color>!
 
 RESOURCE ID: lucky_remote_trade_confirm_body
-TEXT: กรุณาเสร็จสิ้นการแลกเปลี่ยนระยะไกลนำโชคกับ {0}!
+TEXT: กรุณาเสร็จสิ้น<color=#F2A64B><b>การแลกเปลี่ยนระยะไกลนำโชคกับ</b></color> {0}!
 
 RESOURCE ID: lucky_remote_trade_initiate_body
-TEXT: {0} ส่งคำขอแลกเปลี่ยนระยะไกลนำโชคมาให้คุณ!
+TEXT: {0} ส่งคำขอ<color=#F2A64B><b>แลกเปลี่ยนระยะไกลนำโชค</b></color>มาให้คุณ!
 
 RESOURCE ID: lucky_remote_trade_overlay_complete
-TEXT: Review and Complete <color=#F2A64B><b>Lucky Remote Trade</b></color>
+TEXT: ตรวจสอบและยืนยันการ<color=#F2A64B><b>แลกเปลี่ยนระยะไกลนำโชค</b></color>
 
 RESOURCE ID: lucky_remote_trade_overlay_respond
-TEXT: Review <color=#F2A64B><b>Lucky Remote Trade</b></color> Request
+TEXT: ตรวจสอบคำขอ<color=#F2A64B><b>แลกเปลี่ยนระยะไกลนำโชค</b></color>
 
 RESOURCE ID: lucky_remote_trade_waiting_for_response
-TEXT: Waiting for response to <color=#F2A64B><b>Lucky Remote Trade</b></color>.
+TEXT: รอการ<color=#F2A64B><b>แลกเปลี่ยนระยะไกลนำโชค</b></color>
 
 RESOURCE ID: lucky_trade_increase
 TEXT: เพิ่มโอกาสได้รับโปเกมอนนำโชค
@@ -66302,10 +66314,10 @@ at SHA da71d231c41a4d4f7aef0d6fd71061652ff15a0a
 Pipeline 441624, job 3600523
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-08-13T01:16:57.546690+00:00 for th-TH
-at SHA 8365a56ec161
-Pipeline 3871833, job 56925460
-Patch from: 0.425.0-SHA-4f83d1f4-RC4, 0.423.1-SHA-70644676-RC1
+TEXT: Built at 2026-08-18T00:48:15.368257+00:00 for th-TH
+at SHA 4c5aa5ac97f
+Pipeline 3880013, job 57040572
+Patch from: 0.423.1-SHA-70644676-RC1, 0.425.0-SHA-73e817e6-RC3, 0.427.0-SHA-bafb3348-RC1
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: งานวิจัยแบบจำกัดเวลา: ประเภทต่อสู้ของคุณ
@@ -85491,7 +85503,8 @@ TEXT: คุณแน่ใจใช่ไหมว่าต้องการ�
 โปเกมอนในตำนาน?
 
 RESOURCE ID: pokemon_location_background_info_transfer_to_professor_confirmation
-TEXT: Do you really want to transfer this Pokémon with a Location Background?
+TEXT: คุณแน่ใจใช่ไหมว่าต้องการถ่ายโอน
+โปเกมอนที่มีพื้นหลังสถานที่?
 
 RESOURCE ID: pokemon_location_card_info_transfer_to_professor_confirmation
 TEXT: คุณแน่ใจใช่ไหมว่าต้องการถ่ายโอน
@@ -89065,7 +89078,8 @@ RESOURCE ID: pokemon_size_tiny_encounter
 TEXT: It's tiny!
 
 RESOURCE ID: pokemon_special_background_info_transfer_to_professor_confirmation
-TEXT: Do you really want to transfer this Pokémon with a Special Background?
+TEXT: คุณแน่ใจใช่ไหมว่าต้องการถ่ายโอน
+โปเกมอนที่มีพื้นหลังพิเศษ?
 
 RESOURCE ID: pokemon_species_form_0888_2576
 TEXT: ซาเชียน (ราชาแห่งดาบ)
@@ -89083,10 +89097,11 @@ RESOURCE ID: pokemon_transfer_legendary_confirmation
 TEXT: มีโปเกมอนในตำนาน หรือโปเกมอนมายารวมอยู่ด้วย! แน่ใจหรือไม่ว่าจะถ่ายโอน?
 
 RESOURCE ID: pokemon_transfer_to_professor_warning_title
-TEXT: Your selected Pokémon meets the following criteria:
+TEXT: โปเกมอนที่คุณเลือกตรงกับหลักเกณฑ์ต่อไปนี้:
 
 RESOURCE ID: pokemon_transfer_to_professor_warning_message
-TEXT: Are you sure you want to transfer this Pokémon to the professor?
+TEXT: คุณแน่ใจหรือไม่ว่าต้องการถ่ายโอน
+โปเกมอนเหล่านี้?
 
 RESOURCE ID: pokemon_tutorial_ibfc_desc
 TEXT: โปเกมอนตัวนี้สามารถเปลี่ยนฟอร์ม
@@ -129492,40 +129507,40 @@ RESOURCE ID: single_stat_increase_ftue_body
 TEXT: ใช้เข้าคอร์สการฝึกขั้นสุดยอดระยะเวลา 1 ปี เพื่อเพิ่มค่าพลังใดค่าหนึ่งของโปเกมอนให้เต็ม
 
 RESOURCE ID: single_transfer_100_pokemon
-TEXT: ★ 100% Pokémon
+TEXT: โปเกมอน ★ 100%
 
 RESOURCE ID: single_transfer_bread_dough_level_pokemon
-TEXT: Gigantamax
+TEXT: กิกะแมกซ์
 
 RESOURCE ID: single_transfer_bread_level_pokemon
-TEXT: Dynamax
+TEXT: ไดแมกซ์
 
 RESOURCE ID: single_transfer_buddy_level_pokemon
-TEXT: Buddy Leveled
+TEXT: มีระดับความสนิทกับคู่หู
 
 RESOURCE ID: single_transfer_event_pokemon
-TEXT: Event
+TEXT: อีเวนต์
 
 RESOURCE ID: single_transfer_hyper_trained_pokemon
-TEXT: Hyper Trained
+TEXT: ผ่านการฝึกขั้นสุดยอดแล้ว
 
 RESOURCE ID: single_transfer_legendary_or_mythical_or_ultra_beast_pokemon
-TEXT: Legendary Pokémon, Mythical Pokémon, or Ultra Beast
+TEXT: โปเกมอนในตำนาน โปเกมอนมายา หรืออัลตราบีสต์
 
 RESOURCE ID: single_transfer_location_background_pokemon
-TEXT: Location Background
+TEXT: พื้นหลังสถานที่
 
 RESOURCE ID: single_transfer_lucky_pokemon
-TEXT: Lucky
+TEXT: นำโชค
 
 RESOURCE ID: single_transfer_shiny_pokemon
-TEXT: Shiny
+TEXT: สีแตกต่าง
 
 RESOURCE ID: single_transfer_special_background_pokemon
-TEXT: Special Background
+TEXT: พื้นหลังพิเศษ
 
 RESOURCE ID: single_transfer_unique_mega_level_pokemon
-TEXT: Mega- or Primal-Leveled
+TEXT: ระดับเมก้าหรือระดับต้นกำเนิด
 
 RESOURCE ID: single_transfer_xxl_pokemon
 TEXT: XXL
@@ -139916,10 +139931,10 @@ RESOURCE ID: title_tr_max_mystery_00
 TEXT: งานวิจัยแบบจำกัดเวลาโบนัสปริศนาแห่งแมกซ์ (1/1)
 
 RESOURCE ID: title_tr_pxp_2026_stream
-TEXT: งานวิจัยแบบจำกัดเวลาโบนัสโปเกมอน XP
+TEXT: งานวิจัยแบบจำกัดเวลาโบนัส PokémonXP
 
 RESOURCE ID: title_tr_pxp_2026_stream_00
-TEXT: งานวิจัยแบบจำกัดเวลาโบนัสโปเกมอน XP (1/1)
+TEXT: งานวิจัยแบบจำกัดเวลาโบนัส PokémonXP (1/1)
 
 RESOURCE ID: title_tr_wcs_2023_champ
 TEXT: 2023 Pokémon World Champion: งานวิจัยแบบจำกัดเวลาโบนัส
@@ -142381,6 +142396,90 @@ TEXT: งานวิจัยแบบจำกัดเวลาคำท้�
 RESOURCE ID: tr_kr2025_retention_warm_hearted_desc
 TEXT: งานวิจัยแบบจำกัดเวลาคำท้าจิตใจเปี่ยมไออุ่น
 
+RESOURCE ID: tr_kr_tr_test_2026_week1_title
+TEXT: งานวิจัยแบบจำกัดเวลาส่งต่อรายสัปดาห์: ส่วนที่ 1
+
+RESOURCE ID: tr_kr_tr_test_2026_feature_button_text_1
+TEXT: สำรวจ
+
+RESOURCE ID: tr_kr_tr_test_2026_feature_button_text_2
+TEXT: จับ
+
+RESOURCE ID: tr_kr_tr_test_2026_feature_button_text_3
+TEXT: หมุน
+
+RESOURCE ID: tr_kr_tr_test_2026_feature_button_text_4
+TEXT: ถ่ายภาพ
+
+RESOURCE ID: tr_kr_tr_test_2026_feature_button_text_5
+TEXT: คู่หู
+
+RESOURCE ID: tr_kr_tr_test_2026_feature_button_text_6
+TEXT: ฟักไข่
+
+RESOURCE ID: tr_kr_tr_test_2026_feature_button_text_7
+TEXT: ของขวัญ
+
+RESOURCE ID: tr_kr_tr_test_2026_feature_button_text_8
+TEXT: ตีบอส
+
+RESOURCE ID: tr_kr_tr_test_2026_feature_key_1
+TEXT: เส้นทางผจญภัยที่เน้นการสำรวจ
+
+RESOURCE ID: tr_kr_tr_test_2026_feature_key_2
+TEXT: เส้นทางผจญภัยที่เน้นการจับโปเกมอน
+
+RESOURCE ID: tr_kr_tr_test_2026_feature_key_3
+TEXT: เส้นทางผจญภัยที่เน้นการหมุนเสาโปเกสต็อป
+
+RESOURCE ID: tr_kr_tr_test_2026_feature_key_4
+TEXT: เส้นทางผจญภัยที่เน้นการถ่ายภาพ
+
+RESOURCE ID: tr_kr_tr_test_2026_feature_key_5
+TEXT: เส้นทางผจญภัยที่เน้นโปเกมอนคู่หู
+
+RESOURCE ID: tr_kr_tr_test_2026_feature_key_6
+TEXT: เส้นทางผจญภัยที่เน้นการฟักไข่
+
+RESOURCE ID: tr_kr_tr_test_2026_feature_key_7
+TEXT: เส้นทางผจญภัยที่เน้นของขวัญ
+
+RESOURCE ID: tr_kr_tr_test_2026_feature_key_8
+TEXT: เส้นทางผจญภัยที่เน้นตีบอส
+
+RESOURCE ID: tr_kr_tr_test_2026_week1_0
+TEXT: งานวิจัยแบบจำกัดเวลาส่งต่อรายสัปดาห์: ส่วนที่ 1 (1/2)
+
+RESOURCE ID: tr_kr_tr_test_2026_week1_1
+TEXT: งานวิจัยแบบจำกัดเวลาส่งต่อรายสัปดาห์: ส่วนที่ 1 (2/2)
+
+RESOURCE ID: tr_kr_tr_test_2026_week2
+TEXT: งานวิจัยแบบจำกัดเวลาส่งต่อรายสัปดาห์: ส่วนที่ 2
+
+RESOURCE ID: tr_kr_tr_test_2026_week2_0
+TEXT: งานวิจัยแบบจำกัดเวลาส่งต่อรายสัปดาห์: ส่วนที่ 2 (1/2)
+
+RESOURCE ID: tr_kr_tr_test_2026_week2_1
+TEXT: งานวิจัยแบบจำกัดเวลาส่งต่อรายสัปดาห์: ส่วนที่ 2 (2/2)
+
+RESOURCE ID: tr_kr_tr_test_2026_week3
+TEXT: งานวิจัยแบบจำกัดเวลาส่งต่อรายสัปดาห์: ส่วนที่ 3
+
+RESOURCE ID: tr_kr_tr_test_2026_week3_0
+TEXT: งานวิจัยแบบจำกัดเวลาส่งต่อรายสัปดาห์: ส่วนที่ 3 (1/2)
+
+RESOURCE ID: tr_kr_tr_test_2026_week3_1
+TEXT: งานวิจัยแบบจำกัดเวลาส่งต่อรายสัปดาห์: ส่วนที่ 3 (2/2)
+
+RESOURCE ID: tr_kr_tr_test_2026_week4
+TEXT: งานวิจัยแบบจำกัดเวลาส่งต่อรายสัปดาห์: ส่วนที่ 4
+
+RESOURCE ID: tr_kr_tr_test_2026_week4_0
+TEXT: งานวิจัยแบบจำกัดเวลาส่งต่อรายสัปดาห์: ส่วนที่ 4 (1/2)
+
+RESOURCE ID: tr_kr_tr_test_2026_week4_1
+TEXT: งานวิจัยแบบจำกัดเวลาส่งต่อรายสัปดาห์: ส่วนที่ 4 (2/2)
+
 RESOURCE ID: tr_latam_soccer_collab_title_00
 TEXT: งานวิจัยแบบจำกัดเวลาโบนัส GOal ออฟเดอะแมตช์ (1/3)
 
@@ -142963,7 +143062,7 @@ RESOURCE ID: trade_distance_increase
 TEXT: ระยะทางการแลกเปลี่ยนเพิ่มขึ้น
 
 RESOURCE ID: trade_ending_prompt|0
-TEXT: ได้รับ{1}จาก{0}
+TEXT: ได้รับ{1}จาก {0}
 
 RESOURCE ID: trade_ending_prompt|1
 TEXT: ดูแล{0}ให้ดีนะ!

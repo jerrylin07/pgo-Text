@@ -19844,7 +19844,7 @@ RESOURCE ID: bonus_today_zygarde_cell
 TEXT: Клетки Зайгарда могут появляться в конце Маршрутов, до 5 Маршрутов в день
 
 RESOURCE ID: bonus_today_zygarde_cell_temp
-TEXT: Zygarde Cells can appear at the end of up to 5 Routes per day
+TEXT: Клетки Зайгарда могут появляться в конце Маршрутов, до 5 Маршрутов в день
 
 RESOURCE ID: bonus_total_6_special_trades
 TEXT: Шесть специальных обменов в день
@@ -20171,22 +20171,22 @@ RESOURCE ID: boot_safety_warning_4
 TEXT: Веди себя вежливо с людьми в реальном мире при игре в <i>Pokémon GO</i>.
 
 RESOURCE ID: box_gocatch
-TEXT: GO Catch Box
+TEXT: Коробка Поимки GO
 
 RESOURCE ID: box_gohatch
-TEXT: GO Hatch Box
+TEXT: Коробка для Вынашивания GO
 
 RESOURCE ID: box_gomaster
-TEXT: GO Master Box
+TEXT: Коробка Мастера GO
 
 RESOURCE ID: box_goraid
-TEXT: GO Raid Box
+TEXT: Рейдовая Коробка GO
 
 RESOURCE ID: box_gostarter
-TEXT: GO Starter Box
+TEXT: Коробка для Начинающих GO
 
 RESOURCE ID: box_gosticker
-TEXT: GO Sticker Box
+TEXT: Коробка Наклеек GO
 
 RESOURCE ID: box_community_day
 TEXT: Коробка Дня сообщества доступна в магазине
@@ -21333,7 +21333,7 @@ RESOURCE ID: breakfast_tappable_tutorial_body
 TEXT: Во время прохождения маршрута ты можешь найти клетки Зайгарда. Их можно соединить, чтобы создать разные формы Зайгарда.
 
 RESOURCE ID: breakfast_tappable_tutorial_body_temp
-TEXT: You can find Zygarde Cells after completing a Route. You can assemble Zygarde Cells to create different Zygarde forms.
+TEXT: После завершения Маршрута ты можешь найти Клетки Зайгарда. Их можно соединить, чтобы создать разные формы Зайгарда.
 
 RESOURCE ID: breakthrough_free_remote_raid_pass
 TEXT: Пропуск на удалённый рейд за научный прорыв
@@ -28511,6 +28511,15 @@ TEXT: Isahaya
 RESOURCE ID: city_manhole_481
 TEXT: Saikai
 
+RESOURCE ID: city_manhole_483
+TEXT: Tsushima
+
+RESOURCE ID: city_manhole_484
+TEXT: Okaya
+
+RESOURCE ID: city_manhole_485
+TEXT: Kiso
+
 RESOURCE ID: city_manhole_4(ibusuki)_d64e
 TEXT: Ибусуки
 
@@ -31696,7 +31705,7 @@ RESOURCE ID: dynamic_punch_+_move_content
 TEXT: Мьюту наносит концентрированные удары в полную силу {0}. Увеличивается урон по Мегаэволюционировавшим Покемонам в рейдах и позволяет твоему Мегаэволюционировавшему Покемону сломать два щита в Супер-Мегарейдах.
 
 RESOURCE ID: dynamic_punch_adventure_effects_mapview_dialog
-TEXT: Mewtwo punches with full, concentrated power. Increases damage against Mega-Evolved Pokémon in raids and enables your Mega-Evolved Pokémon to break two shields in Super Mega Raids.
+TEXT: Мьюту наносит концентрированные удары в полную силу. Увеличивается урон по Мегаэволюционировавшим Покемонам в рейдах и позволяет твоему Мегаэволюционировавшему Покемону сломать два щита в Супер-Мегарейдах.
 
 RESOURCE ID: dynamic_punch_adventure_effects_mapview_dialog_out
 TEXT: Мьюту наносит удары крепкими кулаками {0}. Позволяет твоему Мегаэволюционировавшему Покемону  сломать два щита в Супер-Мегарейдах.
@@ -34676,34 +34685,34 @@ RESOURCE ID: event_pass_gofest2026_event_duration
 TEXT: 6 июля – 12 июля
 
 RESOURCE ID: event_pass_gofest2026_finale_base_track_title
-TEXT: GO Pass: Mega Finale
+TEXT: Пропуск GO: Мега Финал
 
 RESOURCE ID: event_pass_gofest2026_finale_chosen_starter_shiny_bonus
-TEXT: Increased chance of encountering your chosen partner and its Evolutions as Shiny Pokémon
+TEXT: Больше шансов встретить выбранного тобой напарника и его Эволюции в виде Сияющих Покемонов
 
 RESOURCE ID: event_pass_gofest2026_finale_event_duration
-TEXT: August 31 – September 6
+TEXT: 31 августа – 6 сентября
 
 RESOURCE ID: event_pass_gofest2026_finale_mega_raid_rewards_bonus
-TEXT: Earn 3 additional Candy, 1 additional Candy XL, and 5,000 additional XP from Mega Raids
+TEXT: Заработай 3 дополнительные Конфеты, 1 дополнительную Конфету XL и дополнительные 5000 XP в Мегарейдах
 
 RESOURCE ID: event_pass_gofest2026_finale_premium_track_title
-TEXT: GO Pass Deluxe: Mega Finale
+TEXT: Делюкс-Пропуск GO: Мега Финал
 
 RESOURCE ID: event_pass_gofest2026_finale_t4_mega_raid_shiny_bonus
-TEXT: Increased chance of encountering Shiny Pokémon from four-star Mega Raids
+TEXT: Больше шансов встретить Сияющих Покемонов в четырёхзвёздочных Мегарейдах
 
 RESOURCE ID: event_pass_gofest2026_finale_track_upgrade_header_description
-TEXT: Earn additional rewards in the deluxe track!
+TEXT: Заработай дополнительные награды в делюкс-трекере!
 
 RESOURCE ID: event_pass_gofest2026_finale_upgrade_description
-TEXT: Purchase GO Pass Deluxe: GO Fest 2026 Mega Finale to unlock the following!
+TEXT: Приобрети Делюкс-Пропуск GO: Мега Финал, чтобы получить доступ к следующим наградам!
 
-• Enough Mega Energy to unlock Super Max Level for your chosen Pokémon’s Mega Evolution
-• An avatar item featuring your chosen Pokémon’s Evolution
-• Increased chance of encountering Shiny Pokémon from certain Mega Raids and wild encounters
-• Additional Mega Raid rewards
-• And more!
+• Достаточное количество Мегаэнергии, чтобы разблокировать Супер-Максимальный Уровень Мегаэволюции выбранного тобой Покемона
+• Предмет для аватара с выбранной тобой Эволюцией Покемона
+• Больше шансов встретить Сияющих Покемонов в определённых Мегарейдах и в дикой природе
+• Дополнительные награды Мегарейдов
+• И другим!
 
 RESOURCE ID: event_pass_gofest2026_finale_weekend_wild_shiny_bonus
 TEXT: Increased chance of encountering Shiny featured Pokémon in the wild during GO Fest 2026: Mega Finale weekend event hours
@@ -38830,7 +38839,7 @@ RESOURCE ID: future_sight_+_move_content
 TEXT: Мьюту выпускает психическую энергию {0}, показывая, когда у встречающихся Покемонов высокие характеристики.
 
 RESOURCE ID: future_sight_adventure_effects_mapview_dialog
-TEXT: Mewtwo releases a hunk of psychic energy, revealing when encountered Pokémon have high stats.
+TEXT: Мьюту выпускает психическую энергию, показывая, когда у встречающихся Покемонов высокие характеристики.
 
 RESOURCE ID: future_sight_adventure_effects_mapview_dialog_out
 TEXT: Мьюту выпускает психическую энергию {0}, показывая, когда у Покемонов, встречающихся в дикой природе или после рейдов, высокие характеристики.
@@ -39001,7 +39010,7 @@ RESOURCE ID: gbl_sets_extra_twenty_total
 TEXT: Всего 20 серий битв в Боевой лиге GO
 
 RESOURCE ID: gbl_stat_variance_bonus
-TEXT: Non-Legendary Pokémon caught from the GO Battle League will have a wider variance of Attack, Defense, and HP
+TEXT: Не Легендарные Покемоны, пойманные в Боевой Лиге GO, будут иметь более широкий спектр Атаки, Защиты и ОЖ
 
 RESOURCE ID: gbl_ticket_research_title
 TEXT: Квест на время в Боевой Лиге GO
@@ -47488,7 +47497,7 @@ RESOURCE ID: gofest2026_details_link
 TEXT: Чтобы узнать больше, посети <a href="https://pokemongo.com/news/road-of-legends-2026">этот сайт</a>.
 
 RESOURCE ID: gofest2026_finale_details_link
-TEXT: For more details, visit the <a href="https://Pokémongo.com/gofest/megafinale">GO Fest 2026: Mega Finale website</a>.
+TEXT: Чтобы узнать больше, посети <a href="https://Pokémongo.com/gofest/megafinale">сайт Фестиваля GO 2026: Мегафинал</a>.
 
 RESOURCE ID: gofest2026_friendship_district
 TEXT: Округ Дружба
@@ -55474,6 +55483,9 @@ TEXT: Гаджет Исследователя
 RESOURCE ID: item_soft_sfida_limit_upgrade_earned
 TEXT: Гаджет Исследователя
 
+RESOURCE ID: item_soft_sfida_limit_upgrade_earned_name
+TEXT: Гаджет Исследователя
+
 RESOURCE ID: item_special_camera_desc
 TEXT: Устройство, чтобы фотографировать Покемонов. Снимками можно делиться с друзьями.
 
@@ -59030,7 +59042,7 @@ RESOURCE ID: lobby_ready_progress
 TEXT: Готовы: {0} из {1}
 
 RESOURCE ID: lobby_shield_break_power
-TEXT: {0}/{1} Shield break potential
+TEXT: Вероятность слома щита: {0}/{1}
 
 RESOURCE ID: local_bonus_event_tag
 TEXT: Местный бонус
@@ -61627,7 +61639,7 @@ RESOURCE ID: mega_raid_hour
 TEXT: Час мегарейдов
 
 RESOURCE ID: mega_raid_shiny_boost
-TEXT: Increased chance of encountering Shiny Pokémon from Mega Raids
+TEXT: Больше шансов встретить Сияющих Покемонов в Мегарейдах
 
 RESOURCE ID: mega_raids_increase
 TEXT: Повышенное количество Мегарейдов
@@ -61701,10 +61713,10 @@ at SHA bacc02371739993984570a6f5b31a993cf3b031b
 Pipeline 498004, job 4265729
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-08-13T01:16:57.546690+00:00 for ru-RU
-at SHA 8365a56ec161
-Pipeline 3871833, job 56925460
-Patch from: 0.425.0-SHA-4f83d1f4-RC4, 0.423.1-SHA-70644676-RC1
+TEXT: Built at 2026-08-18T00:48:15.368257+00:00 for ru-RU
+at SHA 4c5aa5ac97f
+Pipeline 3880013, job 57040572
+Patch from: 0.423.1-SHA-70644676-RC1, 0.425.0-SHA-73e817e6-RC3, 0.427.0-SHA-bafb3348-RC1
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: ‎Квест на время: Боевой тип
@@ -62023,7 +62035,7 @@ RESOURCE ID: mountain_cup_great_title
 TEXT: ‎Горный кубок: Великая Лига
 
 RESOURCE ID: move_mega_evo_boost_bonus
-TEXT: MEGA EVOLUTION BONUS
+TEXT: БОНУСЫ МЕГАЭВОЛЮЦИИ
 
 RESOURCE ID: move_name_0001
 TEXT: Удар Грома
@@ -83316,28 +83328,28 @@ RESOURCE ID: pvp_weak_network_connection
 TEXT: Weak Connection
 
 RESOURCE ID: pxp_2026_loc_raids_academy
-TEXT: SF Raids! – California Academy of Sciences
+TEXT: Рейды СФ! – Калифорнийская Академия Наук
 
 RESOURCE ID: pxp_2026_loc_raids_description
-TEXT: Explore San Francisco during PokémonXP and enjoy special in-person raids at certain locations that feature Raid Bosses with a San Francisco Location Background.
+TEXT: Исследуй Сан-Франциско во время PokémonXP и наслаждайся специальными офлайн рейдами в определённых местах с Рейдовыми Боссами с Фоном Места Сан-Франциско.
 
 RESOURCE ID: pxp_2026_loc_raids_dolores
-TEXT: SF Raids! – Dolores Park
+TEXT: Рейды СФ! – Парк Долорес
 
 RESOURCE ID: pxp_2026_loc_raids_howard_st
-TEXT: SF Raids! – Howard Street
+TEXT: Рейды СФ! – Говард-Стрит
 
 RESOURCE ID: pxp_2026_loc_raids_lombard
-TEXT: SF Raids! – Lombard Street
+TEXT: Рейды СФ! – Ломбард-Стрит
 
 RESOURCE ID: pxp_2026_loc_raids_pier_39
-TEXT: SF Raids! – Pier 39
+TEXT: Рейды СФ! – Пирс 39
 
 RESOURCE ID: pxp_2026_loc_raids_transit_park
-TEXT: SF Raids! – Salesforce Park
+TEXT: Рейды СФ! – Парк Salesforce
 
 RESOURCE ID: pxp_2026_loc_raids_wharf
-TEXT: SF Raids! – Fisherman’s Wharf
+TEXT: Рейды СФ! – Рыбацкая Пристань
 
 RESOURCE ID: pxp_worlds_event_name_2026
 TEXT: PokémonXP и ЧМ 2026
@@ -83349,10 +83361,10 @@ RESOURCE ID: qr_decode_problem
 TEXT: Не удалось распознать QR-код. Пожалуйста, попробуй ввести его вручную.
 
 RESOURCE ID: qualifier_limited _one_event_raid
-TEXT: Note: Certain special event raids can only be completed by each Trainer once.
+TEXT: Примечание: некоторые особые рейды события могут выполняться каждым Тренером только один раз.
 
 RESOURCE ID: qualifier_limited_daily_event_raid
-TEXT: Note: Certain special event raids can only be completed by each Trainer once per day.
+TEXT: Примечание: некоторые особые рейды события могут выполняться каждым Тренером только раз в день.
 
 RESOURCE ID: quest_walk
 TEXT: Миссия: Пройди {0} км
@@ -83406,7 +83418,7 @@ RESOURCE ID: quest_adventure_visit_pokestop_new_plural
 TEXT: Неделя приключений – Покрути новые Покестопы: {0}
 
 RESOURCE ID: quest_adventure_walk_buddy_plural
-TEXT: Неделя приключений – Прогуливаясь со своим Покемоном-приятелем, заработай конфеты: {0}
+TEXT: Неделя приключений: Прогуливаясь со своим Покемоном-приятелем, заработай Конфеты: {0}
 
 RESOURCE ID: quest_alodude_catch
 TEXT: Поймай {0} Алольских Геодудов
@@ -83853,13 +83865,13 @@ RESOURCE ID: quest_branch_choose_la_reine_desc
 TEXT: Выбери этот вариант, чтобы изменить обычную региональную причёску или причёски твоего Фурфру на форму Причёска-Королева до окончания события. Изменение причёски твоего Фурфру с одной на любую другую будет стоить 25 Фурфру-Конфет и 10 000 Звёздной Пыли.
 
 RESOURCE ID: quest_branch_choose_mega_chesnaught
-TEXT: Choose Chespin
+TEXT: Выбери Чеспина
 
 RESOURCE ID: quest_branch_choose_mega_delphox
-TEXT: Choose Fennekin
+TEXT: Выбери Феннекина
 
 RESOURCE ID: quest_branch_choose_mega_greninja
-TEXT: Choose Froakie
+TEXT: Выбери Фроки
 
 RESOURCE ID: quest_branch_choose_oshawott_desc
 TEXT: Выбери этот путь, чтобы дополнительно встретиться с Ошавоттом, Покемоном-Морская Выдра, и получить больше шансов привлечь Ошавотта с помощью ладана.
@@ -83924,22 +83936,22 @@ TEXT: Select this option to receive the Y Version medal and Yveltal-themed rewar
 During GO Tour: Kalos – Global, you will be able to get Field Research tasks that award an encounter with Unown Y.
 
 RESOURCE ID: quest_branch_wcs_choose_mega_chesnaught
-TEXT: Choose Chespin
+TEXT: Выбери Чеспина
 
 RESOURCE ID: quest_branch_wcs_choose_mega_delphox
-TEXT: Choose Fennekin
+TEXT: Выбери Феннекина
 
 RESOURCE ID: quest_branch_wcs_choose_mega_greninja
-TEXT: Choose Froakie
+TEXT: Выбери Фроки
 
 RESOURCE ID: quest_branch_wcs_choose_mega_chesnaught_desc
-TEXT: Choose this path for an encounter with Chespin, the Spiny Nut Pokémon, along with enough Chesnaught Mega Energy to Mega Evolve a Chesnaught for the first time.
+TEXT: Выбери этот путь, чтобы встретиться с Чеспином, Покемоном-Колючий Орех, а также получить достаточно Мегаэнергии Чеснота, чтобы мегаэволюционировать Чеснота в первый раз.
 
 RESOURCE ID: quest_branch_wcs_choose_mega_delphox_desc
-TEXT: Choose this path for an encounter with Fennekin, the Fox Pokémon, along with enough Delphox Mega Energy to Mega Evolve a Delphox for the first time.
+TEXT: Выбери этот путь, чтобы встретиться с Феннекином, Покемоном-Лисой, а также получить достаточно Мегаэнергии Делфокса, чтобы мегаэволюционировать Делфокса в первый раз.
 
 RESOURCE ID: quest_branch_wcs_choose_mega_greninja_desc
-TEXT: Choose this path for an encounter with Froakie, the Bubble Frog Pokémon, along with enough Greninja Mega Energy to Mega Evolve a Greninja for the first time.
+TEXT: Выбери этот путь, чтобы встретиться с Фроки, Покемоном Лягушка-Пузырь, а также получить достаточно Мегаэнергии Грениндзи, чтобы мегаэволюционировать Грениндзю в первый раз.
 
 RESOURCE ID: quest_branching_special_dialogue_1
 TEXT: Рад тебя видеть, %PLAYERNAME%! Нас ждут увлекательные исследования, но мне нужна твоя помощь.
@@ -84095,7 +84107,7 @@ RESOURCE ID: quest_catch_celebi_types_plural
 TEXT: Поймай Покемонов типов Трава или Психо ×{0}
 
 RESOURCE ID: quest_catch_chespin_family_plural
-TEXT: Catch {0} Chespin, Quilladin, or Chesnaught
+TEXT: Поймай Чеспинов, Квилладинов или Чеснотов ×{0}
 
 RESOURCE ID: quest_catch_collection_district_plural
 TEXT: Поймай Покемонов в Округе Коллекция ×{0}
@@ -84143,13 +84155,13 @@ RESOURCE ID: quest_catch_feed_singular
 TEXT: Используй 1 ягоду для поимки Покемона
 
 RESOURCE ID: quest_catch_fennekin_family_plural
-TEXT: Catch {0} Fennekin, Braixen, or Delphox
+TEXT: Поймай Феннекинов, Брейксенов или Делфоксов ×{0}
 
 RESOURCE ID: quest_catch_friendship_district_plural
 TEXT: Поймай Покемонов в Округе Дружба ×{0}
 
 RESOURCE ID: quest_catch_froakie_family_plural
-TEXT: Catch {0} Froakie, Frogadier, or Greninja
+TEXT: Поймай Фроки, Фрогадиров или Грениндзь ×{0}
 
 RESOURCE ID: quest_catch_furfou_singular
 TEXT: Поймай 1 Фурфру
@@ -85254,25 +85266,25 @@ RESOURCE ID: quest_defeat_mega_mewtwo
 TEXT: Победи Мега-Мьюту X или Мега-Мьюту Y
 
 RESOURCE ID: quest_defeat_mega_dragonite_singular
-TEXT: Defeat Mega Dragonite
+TEXT: Победи Мега-Драгонайта
 
 RESOURCE ID: quest_defeat_mega_falinks_singular
-TEXT: Defeat Mega Falinks
+TEXT: Победи Мега-Фалинкса
 
 RESOURCE ID: quest_defeat_mega_malamar_singular
-TEXT: Defeat Mega Malamar
+TEXT: Победи Мега-Маламара
 
 RESOURCE ID: quest_defeat_mega_raichu_singular
-TEXT: Defeat Mega Raichu
+TEXT: Победи Мега-Райчу
 
 RESOURCE ID: quest_defeat_mega_skarmory_singular
-TEXT: Defeat Mega Skarmory
+TEXT: Победи Мега-Скармори
 
 RESOURCE ID: quest_defeat_mega_starmie_singular
-TEXT: Defeat Mega Starmie
+TEXT: Победи Мега-Старми
 
 RESOURCE ID: quest_defeat_mega_victreebel_singular
-TEXT: Defeat Mega Victreebel
+TEXT: Победи Мега-Виктрибела
 
 RESOURCE ID: quest_defeat_rocket_singular
 TEXT: Победи члена Команды Ракета GO
@@ -89664,13 +89676,13 @@ RESOURCE ID: quest_snapshot_regi_steel
 TEXT: Сделай фото Реджистила
 
 RESOURCE ID: quest_snapshot_storage_chespin
-TEXT: Take a snapshot of your Chespin
+TEXT: Сделай фото своего Чеспина
 
 RESOURCE ID: quest_snapshot_storage_fennekin
-TEXT: Take a snapshot of your Fennekin
+TEXT: Сделай фото своего Феннекина
 
 RESOURCE ID: quest_snapshot_storage_froakie
-TEXT: Take a snapshot of your Froakie
+TEXT: Сделай фото своего Фроки
 
 RESOURCE ID: quest_snapshot_storage_bug_unique_plural
 TEXT: Сделай фото {0} разных пойманных тобой насекомых Покемонов
@@ -99831,13 +99843,13 @@ RESOURCE ID: quest_special_dialogue_zygarde_1_2
 TEXT: Любопытно, что несколько Тренеров упоминают бесформенные зелёные капли, которые они нашли на своих маршрутах. Некоторые Тренеры даже думали, что эти штуки могут быть живыми!
 
 RESOURCE ID: quest_special_dialogue_zygarde_1_2_temp
-TEXT: Curiously, several mentioned unusual activity along nearby Routes. Some Trainers even spotted something they couldn’t identify!
+TEXT: Любопытно, несколько Тренеров упомянули необычную активность вдоль Маршрутов поблизости. Некоторые из них даже не смогли понять, что именно они обнаружили!
 
 RESOURCE ID: quest_special_dialogue_zygarde_1_3
 TEXT: У меня есть теория о том, что представляет собой эта нестабильная масса. Но я хочу снова просмотреть все материалы этого исследования. Может, даже перечитать статью, о которой я упоминал ранее...
 
 RESOURCE ID: quest_special_dialogue_zygarde_1_3_temp
-TEXT: I have a theory about what might be drawing attention out there, but I’d like to look through my research materials a tad more first. Maybe even reread that article from earlier...
+TEXT: У меня есть теория о том, что могло привлечь столько внимания. Но сначала я хотел бы немного подробнее просмотреть материалы своих исследований. Может, даже перечитать статью, о которой я упоминал ранее...
 
 RESOURCE ID: quest_special_dialogue_zygarde_1_4
 TEXT: Ну а пока продолжай свои исследования. Я уверен, что смогу предоставить тебе менее бесформенные сведения, когда ты вернёшься.
@@ -99876,7 +99888,7 @@ RESOURCE ID: quest_special_dialogue_zygarde_3_5
 TEXT: По поводу того, где найти эти клетки... Помнишь те зелёные капли, которые мы обнаружили вдоль маршрутов? Я предполагаю, что они как раз и были клетками Зайгарда!
 
 RESOURCE ID: quest_special_dialogue_zygarde_3_5_temp
-TEXT: And where can you find those Cells? Well, do you recall the unusual activity along Routes I mentioned earlier? I reckon it may have been caused by Zygarde Cells!
+TEXT: И где же ты можешь найти эти клетки? Что ж, помнишь необычную активность вдоль Маршрутов, о которой я упоминал ранее? Я предполагаю, что это могло быть вызвано Клетками Зайгарда!
 
 RESOURCE ID: quest_special_dialogue_zygarde_3_6
 TEXT: Можешь ли ты проверить эту гипотезу, %PLAYERNAME%?
@@ -99981,7 +99993,7 @@ RESOURCE ID: quest_spin_mexico_singular
 TEXT: Покрути 1 Покестоп в Мексике
 
 RESOURCE ID: quest_spin_pokemob_go_lab_pokestop
-TEXT: Spin the Pokémon GO Lab. PokéStop
+TEXT: Покрути Покестоп Pokémon GO Lab
 
 RESOURCE ID: quest_spin_pokestop_days
 TEXT: Посещай Покестопы в разные дни ×{0}
@@ -104631,7 +104643,7 @@ RESOURCE ID: quest_wcs_2024_spin_02
 TEXT: Покрути Покестоп в Collect & Trade Corner
 
 RESOURCE ID: quest_wcs_2026_catch_water_or_normal_plural
-TEXT: Catch {0} Water- or Normal-type Pokémon
+TEXT: Поймай Покемонов типов Вода или Обычный ×{0}
 
 RESOURCE ID: quest_wcs_anaheim_scav_hunt_00
 TEXT: Покрути Покестоп Зона Pokémon GO
@@ -104646,13 +104658,13 @@ RESOURCE ID: quest_wcs_anaheim_scav_hunt_03
 TEXT: Покрути Покестоп Арена Pokémon WCS
 
 RESOURCE ID: quest_wcs_san_francisco_scav_hunt_00
-TEXT: Spin the “Giant Pikachu at Yerba Buena Gardens” PokéStop
+TEXT: Покрути Покестоп Giant Pikachu at Yerba Buena Gardens
 
 RESOURCE ID: quest_wcs_san_francisco_scav_hunt_01
-TEXT: Spin the “Rayquaza Trolley” PokéStop
+TEXT: Покрути Покестоп Rayquaza Trolley
 
 RESOURCE ID: quest_wcs_san_francisco_scav_hunt_02
-TEXT: Spin the “World Championships Stage” PokéStop
+TEXT: Покрути Покестоп World Championships Stage
 
 RESOURCE ID: quest_weepinbell_evolve_b_plural
 TEXT: Эволюционируй Випинбеллов ×{0}
@@ -110286,118 +110298,118 @@ RESOURCE ID: rally_paris_2025_stamp_description_7
 TEXT: Cад Тюильри, расположенный перед Лувром, – это отличное место для прогулки среди классических парижских достопримечательностей.
 
 RESOURCE ID: rally_pxp_2026_title
-TEXT: PokémonXP 2026 Stamp Rally
+TEXT: Марафон Печатей PokémonXP 2026
 
 RESOURCE ID: rally_pxp_2026_desc
-TEXT: Earn encounters with Pikachu wearing a Cosmog-themed spacesuit by completing the rally!
+TEXT: Заработай встречи с Пикачу в скафандре в стиле Космога, завершив марафон!
 
 RESOURCE ID: rally_pxp_2026_desc_detail
-TEXT: Collect stamps by visiting GO Stamp Rally PokéStops at scenic locations around San Francisco.
+TEXT: Собирай печати, посещая Покестопы Марафона Печатей GO в живописных местах по всему Сан-Франциско.
 
 RESOURCE ID: rally_pxp_2026_location
-TEXT: San Francisco, California, USA
+TEXT: Сан-Франциско, Калифорния, США
 
 RESOURCE ID: rally_pxp_2026_rewards_desc
-TEXT: Complete this stamp rally to earn up to six encounters with Pikachu wearing a Cosmog-themed spacesuit featuring an exclusive San Francisco Location Background.
+TEXT: Заверши этот марафон печатей, чтобы заработать до 6 встреч с Пикачу в скафандре в стиле Космога с эксклюзивным Фоном Места Сан-Франциско.
 
 RESOURCE ID: rally_pxp_2026_stamp_description_1
-TEXT: A small but iconic Ross Alley bakery that’s been in operation since 1962.
+TEXT: Небольшая, но знаменитая пекарня на аллее Росс, работающая с 1962 года.
 
 RESOURCE ID: rally_pxp_2026_stamp_description_10
-TEXT: A quirky arcade museum packed with antique coin-operated games and mechanical curiosities.
+TEXT: Необычный музей с богатой коллекцией старинных игровых автоматов с монетоприёмниками и других механических диковин.
 
 RESOURCE ID: rally_pxp_2026_stamp_description_11
-TEXT: A historic chocolate-factory complex turned waterfront hangout.
+TEXT: Историческое здание шоколадной фабрики на набережной, ставшее популярным общественным пространством.
 
 RESOURCE ID: rally_pxp_2026_stamp_description_12
-TEXT: A 3.5-mile Pacific-facing beach shaped by strong surf, fog, and coastal winds.
+TEXT: Пляж длиной 5 километров на побережье Тихого океана, сформированный сильным прибоем, туманами и прибрежными ветрами.
 
 RESOURCE ID: rally_pxp_2026_stamp_description_13
-TEXT: World-class modern art museum with bold architecture and major works from contemporary and 20th-century artists.
+TEXT: Музей современного искусства мирового уровня со смелой архитектурой и выдающейся коллекцией работ современных художников и мастеров 20-го века.
 
 RESOURCE ID: rally_pxp_2026_stamp_description_14
-TEXT: A refurbished 1898 transit terminal on the Embarcadero that now functions as a food hall and market.
+TEXT: Отреставрированный транспортный терминал 1898 года на Эмбаркадеро, ставший гастрономическим пространством и рынком.
 
 RESOURCE ID: rally_pxp_2026_stamp_description_15
-TEXT: San Francisco’s 1915 Beaux-Arts civic building, rebuilt after the 1906 earthquake.
+TEXT: Здание городской администрации Сан-Франциско в стиле бозар, восстановленное в 1915 году после землетрясения 1906 года.
 
 RESOURCE ID: rally_pxp_2026_stamp_description_16
-TEXT: The heart of SF Japantown, marked by its Peace Pagoda.
+TEXT: Сердце японского квартала Сан-Франциско, узнаваемое благодаря Пагоде Мира.
 
 RESOURCE ID: rally_pxp_2026_stamp_description_17
-TEXT: A hands-on museum for kids near Yerba Buena Gardens.
+TEXT: Интерактивный детский музей рядом с садами Йерба-Буэна.
 
 RESOURCE ID: rally_pxp_2026_stamp_description_18
-TEXT: A playful waterfront photo stop designed and created by the married artist duo Claes Oldenburg and Coosje van Bruggen.
+TEXT: Оригинальное место для фотографий на набережной, созданное супружеским дуэтом художников – Класом Олденбургом и Кошье ван Брюгген.
 
 RESOURCE ID: rally_pxp_2026_stamp_description_19
-TEXT: A colorful mosaic staircase featuring a delicate floral motif.
+TEXT: Красочная мозаичная лестница с изящным цветочным узором.
 
 RESOURCE ID: rally_pxp_2026_stamp_description_2
-TEXT: The ruins of an enormous 1890s public bathhouse built by Adolph Sutro, now a coastal leisure site.
+TEXT: Руины гигантской общественной бани 1890-х годов, построенной Адольфом Сутро, сейчас это прибрежная зона отдыха.
 
 RESOURCE ID: rally_pxp_2026_stamp_description_20
-TEXT: Home to the Golden State Warriors.
+TEXT: Домашняя площадка Голден Стэйт Уорриорз.
 
 RESOURCE ID: rally_pxp_2026_stamp_description_21
-TEXT: A tribute to one of baseball’s greatest players and a popular gathering point outside Oracle Park.
+TEXT: Памятник одному из величайших бейсболистов всех времён и популярное место встреч у стадиона Оракл-парк.
 
 RESOURCE ID: rally_pxp_2026_stamp_description_22
-TEXT: This paddock has been home to Golden Gate Park’s resident bison herd since the 1890s.
+TEXT: С 1890-х годов этот загон служит домом для стада бизонов, обитающего в парке Золотые ворота.
 
 RESOURCE ID: rally_pxp_2026_stamp_description_23
-TEXT: A formal plaza created for the 1894 California Midwinter International Exposition, now neighbored by the de Young Museum and California Academy of Sciences.
+TEXT: Парадная площадь, заложенная для Калифорнийской международной зимней выставки 1894 года и сегодня соседствующая с музеем де Янга и Калифорнийской академией наук.
 
 RESOURCE ID: rally_pxp_2026_stamp_description_24
-TEXT: A charming Golden Gate Park lakeside spot offering snacks and paddle boat rentals.
+TEXT: Уютное место на берегу озера в парке Золотые ворота, где можно перекусить и взять напрокат катамаран.
 
 RESOURCE ID: rally_pxp_2026_stamp_description_25
-TEXT: A Civil War–era brick fortress tucked beneath the Golden Gate Bridge.
+TEXT: Кирпичный форт времён Гражданской войны, спрятавшийся под мостом Золотые ворота.
 
 RESOURCE ID: rally_pxp_2026_stamp_description_26
-TEXT: A former military post turned national park.
+TEXT: Бывший военный пост, ставший национальным парком.
 
 RESOURCE ID: rally_pxp_2026_stamp_description_27
-TEXT: A sandy Presidio beach with close-up bridge views.
+TEXT: Песчаный пляж в Пресидио с видом на мост.
 
 RESOURCE ID: rally_pxp_2026_stamp_description_28
-TEXT: A breezy waterfront lawn and popular picnic spot.
+TEXT: Прибрежная лужайка, обдуваемая ветрами – популярное место для пикников.
 
 RESOURCE ID: rally_pxp_2026_stamp_description_29
-TEXT: A 1986 sound sculpture by Peter Richards and George Gonzales that uses pipes, stone, and tidal movement to create low acoustic tones from the Bay.
+TEXT: Звуковая скульптура 1986 года, созданная Питером Ричардсом и Джорджем Гонсалесом, использующая трубы, камень и движение прилива, чтобы превращать шум волн в необычные звуки.
 
 RESOURCE ID: rally_pxp_2026_stamp_description_3
-TEXT: An art deco tower atop Telegraph Hill.
+TEXT: Башня в стиле ар-деко на вершине Телеграф-Хилл.
 
 RESOURCE ID: rally_pxp_2026_stamp_description_30
-TEXT: One of the Presidio’s oldest footpaths.
+TEXT: Одна из старейших пешеходных троп Пресидио.
 
 RESOURCE ID: rally_pxp_2026_stamp_description_31
-TEXT: The Presidio Tunnel Tops’ main lawn, built over the Doyle Drive tunnels.
+TEXT: Главная лужайка Presidio Tunnel Tops, разбитая над тоннелями Дойл-драйв.
 
 RESOURCE ID: rally_pxp_2026_stamp_description_32
-TEXT: A classic downtown shopping plaza and home to the San Francisco Nintendo Store!
+TEXT: Классический торговый комплекс в центре города, в нём расположен магазин Nintendo Сан-Франциско!
 
 RESOURCE ID: rally_pxp_2026_stamp_description_33
-TEXT: The ceremonial entrance to Chinatown on Grant Avenue, flanked by traditional stone lions.
+TEXT: Парадные ворота в китайском квартале на Грант-авеню, по обеим сторонам которых стоят традиционные каменные львы.
 
 RESOURCE ID: rally_pxp_2026_stamp_description_4
-TEXT: A stone labyrinth near Eagle Point, accessible by coastal trail.
+TEXT: Каменный лабиринт возле Игл-Поинт, к нему ведёт прибрежная тропа.
 
 RESOURCE ID: rally_pxp_2026_stamp_description_5
-TEXT: A 2011 Andy Goldsworthy installation in the Presidio made from eucalyptus branches laid in a winding line.
+TEXT: Инсталляция 2011-го года в Пресидио, автор – Энди Голдзуорти, сделана из веток эвкалипта, выложенных в извилистую линию.
 
 RESOURCE ID: rally_pxp_2026_stamp_description_6
-TEXT: A remnant of the 1915 Panama-Pacific International Exposition, rebuilt in permanent materials after the fair.
+TEXT: Один из сохранившихся объектов Панамо-Тихоокеанской международной выставки 1915 года, позже перестроенный как постоянное сооружение.
 
 RESOURCE ID: rally_pxp_2026_stamp_description_7
-TEXT: A lively North Beach green space boasting old-school SF character.
+TEXT: Северный Пляж – оживлённый зелёный район с неповторимым колоритом старого СФ.
 
 RESOURCE ID: rally_pxp_2026_stamp_description_8
-TEXT: Completed in 1972, this William Pereira–designed skyscraper is one of the most recognizable shapes in the San Francisco skyline.
+TEXT: Построенный в 1972-го году, этот небоскрёб, спроектированный Уильямом Перейрой, является одним из самых узнаваемых силуэтов в панораме Сан-Франциско.
 
 RESOURCE ID: rally_pxp_2026_stamp_description_9
-TEXT: A famous row of colorful Victorian homes.
+TEXT: Знаменитый ряд разноцветных викторианских домов.
 
 RESOURCE ID: rally_rewards_desc_general
 TEXT: Заверши марафон печатей, чтобы заработать встречи и награды
@@ -111305,7 +111317,7 @@ RESOURCE ID: report_route_bug_info_zygarde
 TEXT: Появление клеток Зайгарда на каждом маршруте не гарантировано.
 
 RESOURCE ID: report_route_bug_info_zygarde_temp
-TEXT: Zygarde Cells are not guaranteed to appear at the end of every Route.
+TEXT: Появление Клеток Зайгарда в конце каждого Маршрута не гарантировано.
 
 RESOURCE ID: report_route_bug_reason_candy
 TEXT: Мой Покемон-Приятель не зарабатывал Конфеты быстрее на этом Маршруте. 
@@ -114366,7 +114378,7 @@ RESOURCE ID: safari_event
 TEXT: Зона Сафари Pokémon GO
 
 RESOURCE ID: safari_2019_buddy_plural
-TEXT: Зона Сафари – Прогуливаясь со своим Покемоном-приятелем, заработай конфеты: {0}
+TEXT: Зона Сафари: Прогуливаясь со своим Покемоном-приятелем, заработай Конфеты: {0}
 
 RESOURCE ID: safari_2019_buddy_singular
 TEXT: Зона Сафари: Прогуливаясь со своим приятелем, заработай Конфету
@@ -118314,16 +118326,16 @@ RESOURCE ID: short_bonus_raid_3_candy
 TEXT: +3 Конфеты за Рейды
 
 RESOURCE ID: short_event_pass_gofest2026_finale_chosen_starter_shiny_bonus
-TEXT: Increased Shiny First Partner Chance
+TEXT: Больше Шансов на Первых Сияющих Покемонов-Напарников
 
 RESOURCE ID: short_event_pass_gofest2026_finale_mega_raid_rewards_bonus
-TEXT: +3 Candy, +1 Candy XL, +5K XP from Mega Raids
+TEXT: +3 Конфеты, +1 Конфета XL, +5000 XP в Мегарейдах
 
 RESOURCE ID: short_event_pass_gofest2026_finale_t4_mega_raid_shiny_bonus
-TEXT: Increased Four-Star Mega Raid Boss Shiny Chance
+TEXT: Больше Шансов на Сияющего Босса в Четырёхзвёздочных Мегарейдах
 
 RESOURCE ID: short_event_pass_gofest2026_finale_weekend_wild_shiny_bonus
-TEXT: Increased Weekend Wild Pokémon Shiny Chance
+TEXT: Больше Шансов на Диких Сияющих Покемонов в Выходные
 
 RESOURCE ID: short_hatch_candy_double
 TEXT: 2× Конфет за Вынашивание Яиц
@@ -127000,7 +127012,7 @@ RESOURCE ID: tips_potion_revive_tutorial_intro_1
 TEXT: Открой свой рюкзак для предметов, чтобы использовать эти предметы. Надеюсь, они тебе пригодятся, {0}! Давай позаботимся о наших Покемонах, как они заботятся о нас.
 
 RESOURCE ID: tips_potion_revive_tutorial_outro_0
-TEXT: Собирай больше Эликсиров и Оживлений, побеждая в Рейдах и прокручивая Фотодиски Покестопов и Гимов!
+TEXT: Собирай больше Эликсиров и Оживлений, побеждая в Рейдах и вращая Фотодиски Покестопов и Гимов!
 
 RESOURCE ID: tips_potion_tutorial_0
 TEXT: Твоя работа на этом не заканчивается. Твой Покемон должен набрать полные ОЖ!
@@ -127730,10 +127742,10 @@ RESOURCE ID: title_wcs_2025_scavenger_hunt_00
 TEXT: Чемпионат Мира Покемон 2025 – Ценные Находки (1/1)
 
 RESOURCE ID: title_wcs_2026_scavenger_hunt
-TEXT: 2026 Pokémon World Championships Scavenger Hunt
+TEXT: Чемпионат Мира Покемон 2026 – Ценные Находки
 
 RESOURCE ID: title_wcs_2026_scavenger_hunt_00
-TEXT: 2026 Pokémon World Championships Scavenger Hunt (1/1)
+TEXT: Чемпионат Мира Покемон 2026 – Ценные Находки (1/1)
 
 RESOURCE ID: title_zorua_o_clock
 TEXT: Зоруа-час
@@ -128447,16 +128459,16 @@ RESOURCE ID: tr_gofest2026_branch_y_description
 TEXT: Выбери этот путь, чтобы следовать за Мега-Мьюту Y.
 
 RESOURCE ID: tr_gofest2026_finale_branch_chespin_desc
-TEXT: Choose this path to get enough Mega Energy to Mega Evolve Chesnaught, an increased chance of encountering Shiny Chespin, encounters with Chespin that have a Special Background, and Chespin Candy and Candy XL.
+TEXT: Выбери этот путь, чтобы получить достаточно Мегаэнергии, чтобы мегаэволюционировать Чеснота, больше шансов встретить Сияющего Чеспина, встречи с Чеспином с Особым Фоном, Чеспин-Конфеты и Конфеты XL.
 
 RESOURCE ID: tr_gofest2026_finale_branch_fennekin_desc
-TEXT: Choose this path to get enough Mega Energy to Mega Evolve Delphox, an increased chance of encountering Shiny Fennekin, encounters with Fennekin that have a Special Background, and Fennekin Candy and Candy XL.
+TEXT: Выбери этот путь, чтобы получить достаточно Мегаэнергии, чтобы мегаэволюционировать Делфокса, больше шансов встретить Сияющего Феннекина, встречи с Феннекином с Особым Фоном, Феннекин-Конфеты и Конфеты XL.
 
 RESOURCE ID: tr_gofest2026_finale_branch_froakie_desc
-TEXT: Choose this path to get enough Mega Energy to Mega Evolve Greninja, an increased chance of encountering Shiny Froakie, encounters with Froakie that have a Special Background, and Froakie Candy and Candy XL.
+TEXT: Выбери этот путь, чтобы получить достаточно Мегаэнергии, чтобы мегаэволюционировать Грениндзю, больше шансов встретить Сияющего Фроки, встречи с Фроки с Особым Фоном, Фроки-Конфеты и Конфеты XL.
 
 RESOURCE ID: tr_gofest2026_finale_starter_choice
-TEXT: GO Fest 2026: Mega Finale Mega Choice
+TEXT: Фестиваль GO 2026: Мега Финал Мега Выбор
 
 RESOURCE ID: tr_gofest2026_global_mewtwo
 TEXT: Фестиваль GO 2026: Генетическое Превосходство
@@ -129751,6 +129763,91 @@ TEXT: Квест на Время Испытание Семейная Тепло�
 RESOURCE ID: tr_kr2025_retention_warm_hearted_desc
 TEXT: Квест на Время Испытание Семейная Теплота
 
+RESOURCE ID: tr_kr_tr_test_2026_week1_title
+TEXT: Квест на Время Еженедельная Эстафета: Часть 1
+
+RESOURCE ID: tr_kr_tr_test_2026_feature_button_text_1
+TEXT: Исследование
+
+RESOURCE ID: tr_kr_tr_test_2026_feature_button_text_2
+TEXT: Ловля
+
+RESOURCE ID: tr_kr_tr_test_2026_feature_button_text_3
+TEXT: Прокрутка
+
+RESOURCE ID: tr_kr_tr_test_2026_feature_button_text_4
+TEXT: Фото
+
+RESOURCE ID: tr_kr_tr_test_2026_feature_button_text_5
+TEXT: Приятель
+
+RESOURCE ID: tr_kr_tr_test_2026_feature_button_text_6
+TEXT: Вынашивание
+Яиц
+
+RESOURCE ID: tr_kr_tr_test_2026_feature_button_text_7
+TEXT: Подарки
+
+RESOURCE ID: tr_kr_tr_test_2026_feature_button_text_8
+TEXT: Рейды
+
+RESOURCE ID: tr_kr_tr_test_2026_feature_key_1
+TEXT: Выбери этот вариант, чтобы сфокусироваться на заданиях, связанных с исследованиями!
+
+RESOURCE ID: tr_kr_tr_test_2026_feature_key_2
+TEXT: Выбери этот вариант, чтобы сфокусироваться на заданиях, связанных с ловлей Покемонов!
+
+RESOURCE ID: tr_kr_tr_test_2026_feature_key_3
+TEXT: Выбери этот вариант, чтобы сфокусироваться на заданиях, связанных с прокруткой Покестопов!
+
+RESOURCE ID: tr_kr_tr_test_2026_feature_key_4
+TEXT: Выбери этот вариант, чтобы сфокусироваться на заданиях, связанных с созданием фото!
+
+RESOURCE ID: tr_kr_tr_test_2026_feature_key_5
+TEXT: Выбери этот вариант, чтобы сфокусироваться на заданиях, связанных с твоим Покемоном-Приятелем!
+
+RESOURCE ID: tr_kr_tr_test_2026_feature_key_6
+TEXT: Выбери этот вариант, чтобы сфокусироваться на заданиях, связанных с вынашиванием Яиц!
+
+RESOURCE ID: tr_kr_tr_test_2026_feature_key_7
+TEXT: Выбери этот вариант, чтобы сфокусироваться на заданиях, связанных с Подарками!
+
+RESOURCE ID: tr_kr_tr_test_2026_feature_key_8
+TEXT: Выбери этот вариант, чтобы сфокусироваться на заданиях, связанных с Рейдами!
+
+RESOURCE ID: tr_kr_tr_test_2026_week1_0
+TEXT: Квест на Время Еженедельная Эстафета: Часть 1 (1/2)
+
+RESOURCE ID: tr_kr_tr_test_2026_week1_1
+TEXT: Квест на Время Еженедельная Эстафета: Часть 1 (2/2)
+
+RESOURCE ID: tr_kr_tr_test_2026_week2
+TEXT: Квест на Время Еженедельная Эстафета: Часть 2
+
+RESOURCE ID: tr_kr_tr_test_2026_week2_0
+TEXT: Квест на Время Еженедельная Эстафета: Часть 2 (1/2)
+
+RESOURCE ID: tr_kr_tr_test_2026_week2_1
+TEXT: Квест на Время Еженедельная Эстафета: Часть 2 (2/2)
+
+RESOURCE ID: tr_kr_tr_test_2026_week3
+TEXT: Квест на Время Еженедельная Эстафета: Часть 3
+
+RESOURCE ID: tr_kr_tr_test_2026_week3_0
+TEXT: Квест на Время Еженедельная Эстафета: Часть 3 (1/2)
+
+RESOURCE ID: tr_kr_tr_test_2026_week3_1
+TEXT: Квест на Время Еженедельная Эстафета: Часть 3 (2/2)
+
+RESOURCE ID: tr_kr_tr_test_2026_week4
+TEXT: Квест на Время Еженедельная Эстафета: Часть 4
+
+RESOURCE ID: tr_kr_tr_test_2026_week4_0
+TEXT: Квест на Время Еженедельная Эстафета: Часть 4 (1/2)
+
+RESOURCE ID: tr_kr_tr_test_2026_week4_1
+TEXT: Квест на Время Еженедельная Эстафета: Часть 4 (2/2)
+
 RESOURCE ID: tr_latam_soccer_collab_title_00
 TEXT: Дополнительный Квест на Время Решающий Pokémon GOл (1/3)
 
@@ -130154,7 +130251,7 @@ RESOURCE ID: tr_uxie_photo_safari_live
 TEXT: Фотосафари Юкси – Лос-Анджелес
 
 RESOURCE ID: tr_wcs2026_finale_header
-TEXT: Worlds 2026 Finale
+TEXT: Финал ЧМ 2026
 
 RESOURCE ID: tr_weekend_booster_title
 TEXT: Награды выходных
@@ -131053,10 +131150,10 @@ RESOURCE ID: tutorial_xl_candy_2
 TEXT: Есть вероятность, что ты сможешь найти конфеты XL после того, как поймаешь Покемона. Чем сильнее Покемон, тем больше шансов найти конфеты XL.
 
 RESOURCE ID: tv_bonus_costume_pika_sf_background
-TEXT: Worlds- and PokémonXP-costumed Pikachu caught from one-star raids may have a San Francisco Location Background
+TEXT: У Пикачу в костюмах Worlds и PokémonXP, пойманных в однозвёздочных рейдах, может быть Фон Места Сан-Франциско
 
 RESOURCE ID: tv_bonus_gold_rush
-TEXT: Large quantities of Golden PokéStops will appear every day from 12:00 p.m. to 1:00 p.m.
+TEXT: Большое количество Золотых Покестопов будет появляться каждый день с 12:00 до 13:00
 
 RESOURCE ID: tv_title_go_tour_2026_global
 TEXT: Тур GO: Калос – По Всему Миру
@@ -133099,7 +133196,7 @@ RESOURCE ID: wcs_2025_anaheim_irl_event_title
 TEXT: Чемпионат Мира Покемон 2025, Анахайм
 
 RESOURCE ID: wcs_2026_sf_event_title
-TEXT: San Francisco 2026 Pokémon World Championships
+TEXT: Чемпионат Мира Покемон 2026, Сан-Франциско
 
 RESOURCE ID: wcs_2023_battle_tr_title_00
 TEXT: Сила Великой Лиги (1/3)
@@ -133210,7 +133307,7 @@ RESOURCE ID: wcs_2026_irl_surprise_tr_dialog_01_01_greninja
 TEXT: Мега-Грениндзя, да? Он вращает гигантский сюрикен на высокой скорости, чтобы тот парил в воздухе, а затем цепляется к нему вниз головой, чтобы застигнуть противников врасплох. Вот уж неожиданное нападение!
 
 RESOURCE ID: wcs_2026_sf_event_title_extended
-TEXT: San Francisco 2026 Pokémon World Championships Extended Bonuses
+TEXT: Расширенные Бонусы Чемпионат Мира Покемон 2026, Сан-Франциско
 
 RESOURCE ID: wcs2022_london_collection_challenge
 TEXT: Коллекционное испытание ЧМ 2022
@@ -133306,16 +133403,16 @@ RESOURCE ID: wcs_pgo_snapshot
 TEXT: Сделай фото своего приятеля у стенда Pokémon GO
 
 RESOURCE ID: wcs_surprise_tr_title
-TEXT: Mega Pursuit Timed Research
+TEXT: Квест на Время Мега Погоня
 
 RESOURCE ID: wcs_surprise_tr_title_00
-TEXT: Mega Pursuit Timed Research (1/2)
+TEXT: Квест на Время Мега Погоня (1/2)
 
 RESOURCE ID: wcs_surprise_tr_title_01
-TEXT: Mega Pursuit Timed Research (2/2)
+TEXT: Квест на Время Мега Погоня (2/2)
 
 RESOURCE ID: wcs_surprise_tr_quest_desc_placeholder
-TEXT: Check back during the Worlds 2026 Pokémon GO Finals for a special surprise!
+TEXT: Возвращайся во время Финала ЧМ 2026 Pokémon GO за особым сюрпризом!
 
 RESOURCE ID: wcs_week_event
 TEXT: Чемпионат мира Покемон 2022

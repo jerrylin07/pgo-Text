@@ -28448,6 +28448,15 @@ TEXT: Isahaya
 RESOURCE ID: city_manhole_481
 TEXT: Saikai
 
+RESOURCE ID: city_manhole_483
+TEXT: Tsushima
+
+RESOURCE ID: city_manhole_484
+TEXT: Okaya
+
+RESOURCE ID: city_manhole_485
+TEXT: Kiso
+
 RESOURCE ID: city_manhole_4(ibusuki)_d64e
 TEXT: Ibusuki
 
@@ -55375,6 +55384,9 @@ TEXT: Explorer Gadget
 RESOURCE ID: item_soft_sfida_limit_upgrade_earned
 TEXT: Explorer Gadget
 
+RESOURCE ID: item_soft_sfida_limit_upgrade_earned_name
+TEXT: Explorer Gadget
+
 RESOURCE ID: item_special_camera_desc
 TEXT: When you encounter Pokémon in the wild, you can use your camera to photograph them.
 
@@ -61599,10 +61611,10 @@ at SHA 4d4f3e80cc7fb911006bd14d198c9831ef66d005
 Pipeline 339838, job 2672172
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-08-13T01:16:57.546690+00:00 for en-US
-at SHA 8365a56ec161
-Pipeline 3871833, job 56925460
-Patch from: 0.425.0-SHA-4f83d1f4-RC4, 0.423.1-SHA-70644676-RC1
+TEXT: Built at 2026-08-18T00:48:15.368257+00:00 for en-US
+at SHA 4c5aa5ac97f
+Pipeline 3880013, job 57040572
+Patch from: 0.423.1-SHA-70644676-RC1, 0.425.0-SHA-73e817e6-RC3, 0.427.0-SHA-bafb3348-RC1
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: Timed Research: Choose Your Fighting Type
@@ -129675,6 +129687,90 @@ TEXT: Warm-Hearted Challenge Timed Research (5/5)
 
 RESOURCE ID: tr_kr2025_retention_warm_hearted_desc
 TEXT: Warm-Hearted Challenge Timed Research
+
+RESOURCE ID: tr_kr_tr_test_2026_week1_title
+TEXT: Weekly Relay Timed Research: Part 1
+
+RESOURCE ID: tr_kr_tr_test_2026_feature_button_text_1
+TEXT: Exploration
+
+RESOURCE ID: tr_kr_tr_test_2026_feature_button_text_2
+TEXT: Catching
+
+RESOURCE ID: tr_kr_tr_test_2026_feature_button_text_3
+TEXT: Spinning
+
+RESOURCE ID: tr_kr_tr_test_2026_feature_button_text_4
+TEXT: Snapshots
+
+RESOURCE ID: tr_kr_tr_test_2026_feature_button_text_5
+TEXT: Buddy
+
+RESOURCE ID: tr_kr_tr_test_2026_feature_button_text_6
+TEXT: Egg Hatching
+
+RESOURCE ID: tr_kr_tr_test_2026_feature_button_text_7
+TEXT: Gifts
+
+RESOURCE ID: tr_kr_tr_test_2026_feature_button_text_8
+TEXT: Raid Battles
+
+RESOURCE ID: tr_kr_tr_test_2026_feature_key_1
+TEXT: Choose this option to focus on tasks related to exploring!
+
+RESOURCE ID: tr_kr_tr_test_2026_feature_key_2
+TEXT: Choose this option to focus on tasks related to catching Pokémon!
+
+RESOURCE ID: tr_kr_tr_test_2026_feature_key_3
+TEXT: Choose this option to focus on tasks related to spinning PokéStops!
+
+RESOURCE ID: tr_kr_tr_test_2026_feature_key_4
+TEXT: Choose this option to focus on tasks related to taking snapshots!
+
+RESOURCE ID: tr_kr_tr_test_2026_feature_key_5
+TEXT: Choose this option to focus on tasks related to your Buddy Pokémon!
+
+RESOURCE ID: tr_kr_tr_test_2026_feature_key_6
+TEXT: Choose this option to focus on tasks related to hatching Eggs!
+
+RESOURCE ID: tr_kr_tr_test_2026_feature_key_7
+TEXT: Choose this option to focus on tasks related to Gifts!
+
+RESOURCE ID: tr_kr_tr_test_2026_feature_key_8
+TEXT: Choose this option to focus on tasks related to Raid Battles!
+
+RESOURCE ID: tr_kr_tr_test_2026_week1_0
+TEXT: Weekly Relay Timed Research: Part 1 (1/2)
+
+RESOURCE ID: tr_kr_tr_test_2026_week1_1
+TEXT: Weekly Relay Timed Research: Part 1 (2/2)
+
+RESOURCE ID: tr_kr_tr_test_2026_week2
+TEXT: Weekly Relay Timed Research: Part 2
+
+RESOURCE ID: tr_kr_tr_test_2026_week2_0
+TEXT: Weekly Relay Timed Research: Part 2 (1/2)
+
+RESOURCE ID: tr_kr_tr_test_2026_week2_1
+TEXT: Weekly Relay Timed Research: Part 2 (2/2)
+
+RESOURCE ID: tr_kr_tr_test_2026_week3
+TEXT: Weekly Relay Timed Research: Part 3
+
+RESOURCE ID: tr_kr_tr_test_2026_week3_0
+TEXT: Weekly Relay Timed Research: Part 3 (1/2)
+
+RESOURCE ID: tr_kr_tr_test_2026_week3_1
+TEXT: Weekly Relay Timed Research: Part 3 (2/2)
+
+RESOURCE ID: tr_kr_tr_test_2026_week4
+TEXT: Weekly Relay Timed Research: Part 4
+
+RESOURCE ID: tr_kr_tr_test_2026_week4_0
+TEXT: Weekly Relay Timed Research: Part 4 (1/2)
+
+RESOURCE ID: tr_kr_tr_test_2026_week4_1
+TEXT: Weekly Relay Timed Research: Part 4 (2/2)
 
 RESOURCE ID: tr_latam_soccer_collab_title_00
 TEXT: Pokémon GOal of the Match Bonus Timed Research (1/3)
