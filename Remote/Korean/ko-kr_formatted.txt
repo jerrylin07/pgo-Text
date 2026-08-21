@@ -218,7 +218,7 @@ RESOURCE ID: abi_contact_signed_up_notification
 TEXT: 연락처에 포함된 아는 사람이 "Pokémon GO" 모험을 시작했습니다. 프렌드 신청을 해보세요!
 
 RESOURCE ID: abi_helpshift_url
-TEXT: https://niantic.helpshift.com/a/pokemon-go/?p=all&s=friends-gifting-trading&f=friend-list-friendship-levels-1614899618
+TEXT: https://scopelyexplore.helpshift.com/hc/faq/1137-adding-friends/
 
 RESOURCE ID: abi_new_player_onboarding_title
 TEXT: 친구와 함께라면 더 즐겁다!
@@ -302,7 +302,7 @@ RESOURCE ID: accessibility_settings_title
 TEXT: 접근성
 
 RESOURCE ID: account_locked_article_url
-TEXT: https://niantic.helpshift.com/hc/faq/5242-my-account-has-been-locked-or-restricted/
+TEXT: https://scopelyexplore.helpshift.com/hc/faq/2554-my-account-has-been-locked-or-restricted-1783711163/
 
 RESOURCE ID: ace_box_title
 TEXT: 엘리트 박스
@@ -875,7 +875,7 @@ RESOURCE ID: age_confirm_explain
 TEXT: 이 유형의 계정으로 로그인하려면 연령 제한이 있습니다. 생년월일을 확인해 주세요.
 
 RESOURCE ID: age_confirm_fail
-TEXT: 이 유형의 계정으로 로그인하는 데 필요한 <a href="https://niantic.helpshift.com/hc/faq/4996-i-cannot-login-and-message-shows-sorry-you-do-not-meet-the-age-requirement-to-login-with-this-type-of-account/">연령 조건</a>에 맞지 않습니다. 이용약관에 따라 계정이 삭제됩니다. 로그인할 수 있는 조건이라고 생각 되시면 문의 주십시오.
+TEXT: 이 유형의 계정으로 로그인하는 데 필요한 <a href="https://scopelyexplore.helpshift.com/hc/faq/1314-i-cannot-login-and-message-shows-sorry-you-do-not-meet-the-age-requirement-to-login-with-this-type-of-account/">연령 조건</a>에 맞지 않습니다. 이용약관에 따라 계정이 삭제됩니다. 로그인할 수 있는 조건이라고 생각 되시면 문의 주십시오.
 
 RESOURCE ID: age_confirm_popup_confirm
 TEXT: 확정하겠습니까? 보낸 후 수정할 수 없습니다.
@@ -13915,7 +13915,7 @@ RESOURCE ID: badge_safari_2026_lisbon_day_01
 TEXT: 리스본, 2026년 9월 26일
 
 RESOURCE ID: badge_safari_2026_lisbon_day_02
-TEXT: 리스본, 2027년 9월 27일
+TEXT: 리스본, 2026년 9월 27일
 
 RESOURCE ID: badge_safari_2026_marseille_add_on_hatch
 TEXT: 마르세유2026
@@ -13936,7 +13936,7 @@ RESOURCE ID: badge_safari_2026_marseille_day_01
 TEXT: 마르세유, 2026년 9월 26일
 
 RESOURCE ID: badge_safari_2026_marseille_day_02
-TEXT: 마르세유, 2027년 9월 27일
+TEXT: 마르세유, 2026년 9월 27일
 
 RESOURCE ID: badge_safari_2026_munich_add_on_hatch
 TEXT: 뮌헨2026
@@ -34456,7 +34456,7 @@ TEXT: 추가 리워드를 받을 수 있고 랭크 80으로 <b>금색병뚜껑</
 RESOURCE ID: event_pass_gofest2025_upgrade_description
 TEXT: 'GO패스 디럭스: 과거의 잔상'을 구매하면 다음 리워드를 받을 수 있습니다!
 
-• 포켓몬의 전체적인 대단한 특훈을 가능하게 하는 <a href="https://niantic.helpshift.com/hc/faq/5103-what-is-hyper-training/">금색병뚜껑</a> 1개
+• 포켓몬의 전체적인 대단한 특훈을 가능하게 하는 <a href="https://scopelyexplore.helpshift.com/hc/faq/1113-what-is-hyper-training/">금색병뚜껑</a> 1개
 • 의상 아이템 자시안 가면
 • 의상 아이템 자마젠타 가면
 • 알 부화와 레이드 관련 보너스
@@ -34513,9 +34513,9 @@ RESOURCE ID: event_pass_gofest2026_track_upgrade_header_description
 TEXT: 추가 리워드를 받을 수 있고 랭크 100으로 <b>금색병뚜껑</b>이 잠금 해제!
 
 RESOURCE ID: event_pass_gofest2026_upgrade_description
-TEXT: 'GO패스 디럭스: 위대한 궤적'을 구매하면 다음 리워드를 받을 수 있습니다!
+TEXT: GO패스 디럭스: 위대한 궤적'을 구매하면 다음 리워드를 받을 수 있습니다!
 
-- 포켓몬의 전체적인 대단한 특훈을 가능하게 하는 <a href="https://niantic.helpshift.com/hc/faq/5103-what-is-hyper-training/">금색병뚜껑</a> 1개
+- 포켓몬의 전체적인 대단한 특훈을 가능하게 하는 <a href="https://scopelyexplore.helpshift.com/hc/faq/1113-what-is-hyper-training/">금색병뚜껑</a> 1개
 - 팀 리더 포즈
 - 스페셜 배경이 있는 뮤츠와의 만남
 - 알 부화와 레이드 관련 보너스
@@ -40718,7 +40718,7 @@ RESOURCE ID: general2.ticket._gowa25_leadup_title
 TEXT: 와일드 위크 프리미엄 시간제한 리서치 티켓
 
 RESOURCE ID: general2.ticket._gowa26_title
-TEXT: Pokémon GO Wild Area 2026 Global Ticket
+TEXT: Pokémon GO Wild Area 2026: Global Ticket
 
 RESOURCE ID: general2.ticket._megagalladeraidday_title
 TEXT: 메가엘레이드 레이드 데이 티켓
@@ -47083,8 +47083,17 @@ TEXT: Pokémon GO Fest 2026: 시카고
 RESOURCE ID: gofest2026_copenhagen
 TEXT: Pokémon GO Fest 2026: 코펜하겐
 
+RESOURCE ID: gofest2026_tag
+TEXT: GO Fest 2026: Mega Finale
+
 RESOURCE ID: gofest2026_tokyo
 TEXT: Pokémon GO Fest 2026: 도쿄
+
+RESOURCE ID: gofest2026_battle_district
+TEXT: Battle District
+
+RESOURCE ID: gofest2026_circuit_plaza
+TEXT: Circuit Plaza
 
 RESOURCE ID: gofest2026_collection_district
 TEXT: 컬렉션 에리어
@@ -47110,6 +47119,9 @@ TEXT: GO로켓단과 배틀에서 이긴다
 RESOURCE ID: gofest2026_details_link
 TEXT: 자세한 내용은 <a href="https://pokemongo.com/news/road-of-legends-2026">웹사이트</a>에서 확인해 주세요.
 
+RESOURCE ID: gofest2026_eerie_alley
+TEXT: Eerie Alley
+
 RESOURCE ID: gofest2026_finale_details_link
 TEXT: For more details, visit the <a href="https://Pokémongo.com/gofest/megafinale">GO Fest 2026: Mega Finale website</a>.
 
@@ -47118,6 +47130,15 @@ TEXT: 프렌드십 에리어
 
 RESOURCE ID: gofest2026_investigation_district
 TEXT: 필드워크 에리어
+
+RESOURCE ID: gofest2026_iron_frostworks
+TEXT: Iron Frostworks
+
+RESOURCE ID: gofest2026_mindworks_canal
+TEXT: Mindworks Canal
+
+RESOURCE ID: gofest2026_prism_promenade
+TEXT: Prism Promenade
 
 RESOURCE ID: gofest2026_recruitment_zone
 TEXT: 팀업존
@@ -47133,6 +47154,12 @@ TEXT: GO로켓단 아지트 보너스
 
 RESOURCE ID: gofest2026_scouting_district
 TEXT: 어드벤처 에리어
+
+RESOURCE ID: gofest2026_skyline_roosts
+TEXT: Skyline Roosts
+
+RESOURCE ID: gofest2026_verdant_overgrowth
+TEXT: Verdant Overgrowth
 
 RESOURCE ID: gofest_arlo_challenge#1
 TEXT: 우리가 점령한 것을 납들할 수 없는 건 이해하지만 나에게 도전할 생각인가요? 이런 이런.
@@ -47635,7 +47662,7 @@ TEXT: 랭크가 올라가면 리워드가 잠금 해제 됩니다. 이벤트 중
 RESOURCE ID: gotour_2025_upgrade_description
 TEXT: 투어패스 디럭스를 구매하면 다음 리워드를 받을 수 있습니다!
 - 비크티니와의 만남
-- 반짝반짝 프렌드가 될 수 있는 도구 <a href="https://niantic.helpshift.com/hc/faq/4945-what-is-the-lucky-trinket/">반짝이 참 1개</a>
+- 반짝반짝 프렌드가 될 수 있는 도구 <a href="https://scopelyexplore.helpshift.com/hc/faq/1147-what-is-the-lucky-trinket/">반짝이 참 1개</a>
 - 큐레무 합체 에너지
 - 의상 아이템 큐레무 머리탈
 - 기타
@@ -47654,7 +47681,7 @@ TEXT: 프리미엄 리워드를 받고 <b>굴레를 벗어난 후파를 만날 �
 RESOURCE ID: gotour_2026_upgrade_description
 TEXT: GO패스 디럭스: 칼로스로의 길'을 구매하면 다음 리워드를 받을 수 있습니다!
 - 굴레를 벗어난 후파와의 만남
-- 반짝반짝 프렌드가 될 수 있는 도구 <a href="https://niantic.helpshift.com/hc/faq/4945-what-is-the-lucky-trinket/">반짝이 참 1개</a>
+- 반짝반짝 프렌드가 될 수 있는 도구 <a href="https://scopelyexplore.helpshift.com/hc/faq/1147-what-is-the-lucky-trinket/">반짝이 참 1개</a>
 - 지가르데 셀
 - 의상 아이템 지가르데 바람막이 점퍼
 - 기타
@@ -50852,16 +50879,16 @@ RESOURCE ID: heal_multiple_button
 TEXT: Heal ({0})
 
 RESOURCE ID: help_center_link
-TEXT: https://support.pokemongo.nianticlabs.com/hc/en-us
+TEXT: https://scopelyexplore.helpshift.com/hc/app/5-pokemon-go/
 
 RESOURCE ID: help_center_friends_link
-TEXT: https://niantic.helpshift.com/a/pokemon-go/?p=all&s=friends-gifting-trading&f=friend-list-friendship-levels-1614899618
+TEXT: https://scopelyexplore.helpshift.com/hc/faq/1138-friend-list-friendship-levels/
 
 RESOURCE ID: help_center_raid_log_link
 TEXT: https://niantic.helpshift.com/a/pokemon-go/?p=all&s=top-articles&f=sharing-raid-logs
 
 RESOURCE ID: helpshift_sharing_game_logs
-TEXT: https://niantic.helpshift.com/hc/ko/6-pokemon-go/faq/3325-sharing-game-logs/
+TEXT: https://scopelyexplore.helpshift.com/hc/faq/849-sharing-game-logs/
 
 RESOURCE ID: hemisphere_holiday_tr_name
 TEXT: 홀리데이 파트1: 모래놀이 프리미엄 시간제한 리서치
@@ -51065,7 +51092,7 @@ RESOURCE ID: home_pokemon_confirmation
 TEXT: 포켓몬을 {0}마리 전송하겠습니까?
 
 RESOURCE ID: home_privacy_warning
-TEXT: Pokémon GO와 Pokémon HOME을  연계하면, 포켓몬을 전송하는 과정에서 제한된 정보가 The Pokémon Company에 공유됩니다. 자세한 정보에 대해서는 <a href="https://niantic.helpshift.com/a/pokemon-go/?s=accessories-and-services&f=sending-pokemon-to-pokemon-home">헬프</a> 내 기재된 문장을 확인해 주십시오. The Pokémon Company에 제공된 데이터는 The Pokémon Company 개인정보 취급방침에 따라 취급됩니다.
+TEXT: Pokémon GO와 Pokémon HOME을  연계하면, 포켓몬을 전송하는 과정에서 제한된 정보가 The Pokémon Company에 공유됩니다. 자세한 정보에 대해서는 <a href="https://scopelyexplore.helpshift.com/hc/faq/1339-sending-pokemon-to-pokemon-home/">헬프</a> 내 기재된 문장을 확인해 주십시오. The Pokémon Company에 제공된 데이터는 The Pokémon Company 개인정보 취급방침에 따라 취급됩니다.
 
 RESOURCE ID: home_recharge_time_day_hour
 TEXT: {0}일 {1}시간 후 완충
@@ -55477,10 +55504,10 @@ RESOURCE ID: jp_2026_ana_title
 TEXT: 하늘을 나는 모험
 
 RESOURCE ID: jp_iap_link1
-TEXT: https://niantic.helpshift.com/hc/ja/6-pokemon-go/faq/2046-%E8%B3%87%E9%87%91%E6%B1%BA%E6%B8%88%E6%B3%95%E3%81%AB%E5%9F%BA%E3%81%A4%E3%81%8F%E8%A1%A8%E7%A4%BA/?s=others&f=%E8%B3%87%E9%87%91%E6%B1%BA%E6%B8%88%E6%B3%95%E3%81%AB%E5%9F%BA%E3%81%A4%E3%81%8F%E8%A1%A8%E7%A4%BA&l=ja&p=web
+TEXT: https://scopelyexplore.helpshift.com/hc/ja/5-pokemon-go/faq/1492-%E8%B3%87%E9%87%91%E6%B1%BA%E6%B8%88%E6%B3%95%E3%81%AB%E5%9F%BA%E3%81%A4%E3%81%8F%E8%A1%A8%E7%A4%BA/
 
 RESOURCE ID: jp_iap_link2
-TEXT: https://niantic.helpshift.com/hc/ja/6-pokemon-go/faq/150-%E7%89%B9%E5%AE%9A%E5%95%86%E5%8F%96%E5%BC%95%E6%B3%95%E3%81%AB%E5%9F%BA%E3%81%A4%E3%81%8F%E8%A1%A8%E7%A4%BA/?s=others&f=%E8%B3%87%E9%87%91%E6%B1%BA%E6%B8%88%E6%B3%95%E3%81%AB%E5%9F%BA%E3%81%A4%E3%81%8F%E8%A1%A8%E7%A4%BA&l=ja&p=web
+TEXT: https://scopelyexplore.helpshift.com/hc/ja/5-pokemon-go/faq/1490-%E7%89%B9%E5%AE%9A%E5%95%86%E5%8F%96%E5%BC%95%E6%B3%95%E3%81%AB%E5%9F%BA%E3%81%A4%E3%81%8F%E8%A1%A8%E7%A4%BA/
 
 RESOURCE ID: jp_iap_linkname1
 TEXT: Link 1
@@ -55784,6 +55811,12 @@ TEXT: 스페이스
 
 RESOURCE ID: keyboard_symbols
 TEXT: 암호
+
+RESOURCE ID: kindling_2026_mini_collection
+TEXT: Kanto Homecoming: Road to Mewtwo
+
+RESOURCE ID: kindling_2026_mini_collection_desc
+TEXT: Catch the Pokémon from the Kanto Homecoming Timed Research to encounter Mewtwo!
 
 RESOURCE ID: kingler_gmax_tr_2025_title
 TEXT: 거다이맥스 킹크랩 프리미엄 시간제한 리서치
@@ -61304,10 +61337,10 @@ at SHA 4d4f3e80cc7fb911006bd14d198c9831ef66d005
 Pipeline 339838, job 2672172
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-08-18T00:48:15.368257+00:00 for ko-KR
-at SHA 4c5aa5ac97f
-Pipeline 3880013, job 57040572
-Patch from: 0.423.1-SHA-70644676-RC1, 0.425.0-SHA-73e817e6-RC3, 0.427.0-SHA-bafb3348-RC1
+TEXT: Built at 2026-08-21T22:45:32.872454+00:00 for ko-KR
+at SHA 222138e7072
+Pipeline 3890765, job 57214802
+Patch from: 0.425.0-SHA-e7185dda-RC1, 0.423.1-SHA-70644676-RC1, 0.427.0-SHA-fc729f25-RC2
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: 시간제한 리서치: 격투타입
@@ -69667,7 +69700,7 @@ RESOURCE ID: poi_sub_failed_error
 TEXT: 신청할 수 없었습니다. 다시 시도해 주십시오.
 
 RESOURCE ID: poi_sub_faq_web_link
-TEXT: https://niantic.helpshift.com/a/wayfarer/?s=wayspot-criteria
+TEXT: https://scopelyexplore.helpshift.com/hc/section/158-wayspot-criteria/
 
 RESOURCE ID: poi_sub_gallery_permission_desc
 TEXT: To submit a PokéStop nomination using your image gallery, please grant relevant permissions in your device’s settings menu.
@@ -69775,7 +69808,7 @@ RESOURCE ID: poi_sub_submit_button
 TEXT: 신청
 
 RESOURCE ID: poi_sub_suggestion_web_link
-TEXT: https://niantic.helpshift.com/a/wayfarer/?p=web&s=wayspot-eligibility
+TEXT: https://scopelyexplore.helpshift.com/hc/faq/1980-eligibility-criteria/
 
 RESOURCE ID: poi_sub_surrounding_img_desc
 TEXT: 주변 모습을 알 수 있는 사진으로 안전성을 확인합니다.
@@ -83837,6 +83870,9 @@ TEXT: 칼로스지방에서 처음으로 발견된 포켓몬 1마리를 잡는�
 RESOURCE ID: quest_catch_kanto_pokemon
 TEXT: 관동지방에서 처음으로 발견된 포켓몬 {0}마리를 잡는다
 
+RESOURCE ID: quest_catch_kanto_pokemon_days
+TEXT: Catch Pokémon originally discovered in the Kanto region on {0} different days
+
 RESOURCE ID: quest_catch_kanto_starters_plural
 TEXT: 이상해씨, 파이리, 꼬부기 중 하나를 {0}마리 잡는다
 
@@ -84891,25 +84927,25 @@ RESOURCE ID: quest_defeat_mega_mewtwo
 TEXT: 메가뮤츠X 또는 메가뮤츠Y를 쓰러뜨린다
 
 RESOURCE ID: quest_defeat_mega_dragonite_singular
-TEXT: Defeat Mega Dragonite
+TEXT: 메가망나뇽을 쓰러뜨린다
 
 RESOURCE ID: quest_defeat_mega_falinks_singular
-TEXT: Defeat Mega Falinks
+TEXT: 메가대여르를 쓰러뜨린다
 
 RESOURCE ID: quest_defeat_mega_malamar_singular
-TEXT: Defeat Mega Malamar
+TEXT: 메가칼라마네로를 쓰러뜨린다
 
 RESOURCE ID: quest_defeat_mega_raichu_singular
-TEXT: Defeat Mega Raichu
+TEXT: 메가라이츄X 또는 메가라이츄Y를 쓰러뜨린다
 
 RESOURCE ID: quest_defeat_mega_skarmory_singular
-TEXT: Defeat Mega Skarmory
+TEXT: 메가무장조를 쓰러뜨린다
 
 RESOURCE ID: quest_defeat_mega_starmie_singular
-TEXT: Defeat Mega Starmie
+TEXT: 메가아쿠스타를 쓰러뜨린다
 
 RESOURCE ID: quest_defeat_mega_victreebel_singular
-TEXT: Defeat Mega Victreebel
+TEXT: 메가우츠보트를 쓰러뜨린다
 
 RESOURCE ID: quest_defeat_rocket_singular
 TEXT: GO로켓단에게 이긴다
@@ -110835,7 +110871,7 @@ RESOURCE ID: replay_water_research_day_event_name
 TEXT: 리플레이: 물타입 리서치
 
 RESOURCE ID: report_issues_link
-TEXT: https://pokemongo.nianticlabs.com/support/contact/en
+TEXT: https://scopelyexplore.helpshift.com/hc/app/5-pokemon-go/
 
 RESOURCE ID: report_route_subtitle
 TEXT: 리스트에서 5건까지 선택할 수 있습니다.
@@ -111469,7 +111505,7 @@ RESOURCE ID: route_add_point
 TEXT: Set as Waypoint
 
 RESOURCE ID: route_appeal_info_link
-TEXT: https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/135-submitting-a-ban-appeal/
+TEXT: https://scopelyexplore.helpshift.com/hc/faq/1291-submitting-a-ban-appeal/
 
 RESOURCE ID: route_appealed_deletion_confirm_description
 TEXT: 이 조작은 다시 할 수 없습니다. 결정하면 이 루트는 완전히 사라지며 제출한 이의신청은 심사가 진행되지 않습니다.
@@ -112224,7 +112260,7 @@ RESOURCE ID: route_gift_exchange_onboarding_body_2
 TEXT: 마테오는 당신이 선택한 선물에 당신의 트레이너명을 붙여 누군가에게 전달합니다. 교환 선물로, 어딘가의 트레이너가 준 도구나 알이 들어 있는 선물을 받을 수 있습니다. 받을 수 있는 선물의 엽서를 핀 고정하면 분이벌레를 만나기도 합니다.
 
 RESOURCE ID: route_guidelines_link
-TEXT: https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/4378-routes-guidelines/
+TEXT: https://scopelyexplore.helpshift.com/hc/faq/1219-routes-guidelines/
 
 RESOURCE ID: route_header_travel_time_label
 TEXT: ({0} min)
@@ -112245,7 +112281,7 @@ RESOURCE ID: route_last_trip_label
 TEXT: 마지막 사용일
 
 RESOURCE ID: route_learn_more_url
-TEXT: https://niantic.helpshift.com/hc/faq/4184-routes-faq/
+TEXT: https://scopelyexplore.helpshift.com/hc/faq/1220-routes-faq/
 
 RESOURCE ID: route_list_context_title
 TEXT: List of pokestops
@@ -113679,7 +113715,7 @@ RESOURCE ID: rsvp_attendance_tutorial_link_text_key
 TEXT: 트레이너명이 표시되는 장소의 자세한 내용
 
 RESOURCE ID: rsvp_attendance_tutorial_link_url_key
-TEXT: https://niantic.helpshift.com/hc/{0}/6-pokemon-go/faq/4286-controlling-your-experience-on-pokemon-go/
+TEXT: https://scopelyexplore.helpshift.com/hc/faq/1312-controlling-your-experience-in-pokemon-go/
 
 RESOURCE ID: rsvp_attendance_tutorial_message_key
 TEXT: 내가 넣은 참가 일정을 다른 트레이너가 확인할 수 있습니다. 설정에서 언제라도 변경할 수 있습니다.
@@ -114985,7 +115021,7 @@ RESOURCE ID: search_favorite_added
 TEXT: 즐겨찾기 검색에 추가했습니다
 
 RESOURCE ID: search_filter_help_url
-TEXT: https://niantic.helpshift.com/hc/faq/1486-searching-filtering-your-pokemon-inventory/
+TEXT: https://scopelyexplore.helpshift.com/hc/faq/1126-searching-filtering-your-pokemon-inventory/
 
 RESOURCE ID: search_keywords_button
 TEXT: SEE ALL SEARCH KEYWORDS
@@ -115558,13 +115594,13 @@ TEXT: 프리미엄 리워드를 손에 넣을 수 있고 레벨 100으로 <b>제
 RESOURCE ID: season_pass_april2025_upgrade_description
 TEXT: GO패스 디럭스: 4월을 구매하면 다음 리워드가 해제합니다!
 - 제르네아스와의 만남
-- 반짝반짝 프렌드가 될 수 있는 도구 <a href="https://niantic.helpshift.com/hc/faq/4945-what-is-the-lucky-trinket/">반짝이 참</a> 1개
+- 반짝반짝 프렌드가 될 수 있는 도구 <a href="https://scopelyexplore.helpshift.com/hc/faq/1147-what-is-the-lucky-trinket/">반짝이 참</a> 1개
 - 기타
 
 RESOURCE ID: season_pass_april2025_upgrade_description_no_additional_legendary
 TEXT: GO패스 디럭스: 4월을 구매하면 다음 리워드가 해제합니다!
 
-- 반짝반짝 프렌드가 될 수 있는 도구 <a href="https://niantic.helpshift.com/hc/faq/4945-what-is-the-lucky-trinket/">반짝이 참</a> 1개
+- 반짝반짝 프렌드가 될 수 있는 도구 <a href="https://scopelyexplore.helpshift.com/hc/faq/1147-what-is-the-lucky-trinket/">반짝이 참</a> 1개
 - 기타
 
 RESOURCE ID: season_pass_april2026_event_duration
@@ -115577,7 +115613,7 @@ RESOURCE ID: season_pass_april2026_upgrade_description
 TEXT: GO패스 디럭스: 4월을 구매하면 다음 리워드가 해제합니다!
 
 - 슈퍼 부화장치 1개
-- 반짝반짝 프렌드가 될 수 있는 도구 <a href="https://niantic.helpshift.com/hc/faq/4945-what-is-the-lucky-trinket/">반짝이 참</a> 1개
+- 반짝반짝 프렌드가 될 수 있는 도구 <a href="https://scopelyexplore.helpshift.com/hc/faq/1147-what-is-the-lucky-trinket/">반짝이 참</a> 1개
 - 기타
 
 RESOURCE ID: season_pass_aug2025_event_duration
@@ -115587,7 +115623,7 @@ RESOURCE ID: season_pass_aug2025_upgrade_description
 TEXT: GO패스 디럭스: 8월을 구매하면 다음 리워드가 해제합니다!
 
 - 슈퍼 부화장치 1개
-- 반짝반짝 프렌드가 될 수 있는 도구 <a href="https://niantic.helpshift.com/hc/faq/4945-what-is-the-lucky-trinket/">반짝이 참</a> 1개
+- 반짝반짝 프렌드가 될 수 있는 도구 <a href="https://scopelyexplore.helpshift.com/hc/faq/1147-what-is-the-lucky-trinket/">반짝이 참</a> 1개
 - 기타
 
 RESOURCE ID: season_pass_august2026_event_duration
@@ -115600,7 +115636,7 @@ RESOURCE ID: season_pass_august2026_upgrade_description
 TEXT: GO패스 디럭스: 8월을 구매하면 다음 리워드가 해제합니다!
 
 - 매일 처음 포켓스톱을 스핀했을 때 받을 수 있는 1번만 사용 가능한 부화장치
-- 반짝반짝 프렌드가 될 수 있는 도구 <a href="https://niantic.helpshift.com/hc/faq/4945-what-is-the-lucky-trinket/">반짝이 참</a> 1개
+- 반짝반짝 프렌드가 될 수 있는 도구 <a href="https://scopelyexplore.helpshift.com/hc/faq/1147-what-is-the-lucky-trinket/">반짝이 참</a> 1개
 - 기타
 
 RESOURCE ID: season_pass_base_track_title_april
@@ -115741,7 +115777,7 @@ RESOURCE ID: season_pass_december2025_upgrade_description
 TEXT: GO패스 디럭스: 12월을 구매하면 다음 리워드를 잠금해제할 수 있습니다!
 
 - 슈퍼 부화장치 1개
-- 횟수 제한 없이 알을 부화할 수 있는 <a href="https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2358-incubators-hatching-pokemon-eggs/">시간제한 부화장치</a> 1개
+- 횟수 제한 없이 알을 부화할 수 있는 <a href="https://scopelyexplore.helpshift.com/hc/faq/1118-incubators-hatching-pokemon-eggs/">시간제한 부화장치</a> 1개
 - 기타
 
 RESOURCE ID: season_pass_details_link
@@ -115892,7 +115928,7 @@ RESOURCE ID: season_pass_january2026_upgrade_description
 TEXT: GO패스 디럭스: 1월을 구매하면 다음 리워드가 해제합니다!
 
 - 슈퍼 부화장치 1개
-- 반짝반짝 프렌드가 될 수 있는 도구 <a href="https://niantic.helpshift.com/hc/faq/4945-what-is-the-lucky-trinket/">반짝이 참</a> 1개
+- 반짝반짝 프렌드가 될 수 있는 도구 <a href="https://scopelyexplore.helpshift.com/hc/faq/1147-what-is-the-lucky-trinket/">반짝이 참</a> 1개
 - 기타
 
 RESOURCE ID: season_pass_july2025_event_duration
@@ -115902,7 +115938,7 @@ RESOURCE ID: season_pass_july2025_upgrade_description
 TEXT: GO패스 디럭스: 7월을 구매하면 다음 리워드가 해제합니다!
 
 - 슈퍼 부화장치 1개
-- 반짝반짝 프렌드가 될 수 있는 도구 <a href="https://niantic.helpshift.com/hc/faq/4945-what-is-the-lucky-trinket/">반짝이 참</a> 1개
+- 반짝반짝 프렌드가 될 수 있는 도구 <a href="https://scopelyexplore.helpshift.com/hc/faq/1147-what-is-the-lucky-trinket/">반짝이 참</a> 1개
 - 기타
 
 RESOURCE ID: season_pass_july2026_event_duration
@@ -115925,9 +115961,8 @@ RESOURCE ID: season_pass_june2025_upgrade_description
 TEXT: GO패스 디럭스: 6월을 구매하면 다음 리워드가 해제합니다!
 
 - 슈퍼 부화장치 1개
-- 반짝반짝 프렌드가 될 수 있는 도구 <a href="https://niantic.helpshift.com/hc/faq/4945-what-is-the-lucky-trinket/">반짝이 참</a> 1개
+- 반짝반짝 프렌드가 될 수 있는 도구 <a href="https://scopelyexplore.helpshift.com/hc/faq/1147-what-is-the-lucky-trinket/">반짝이 참</a> 1개
 - 기타
-
 
 RESOURCE ID: season_pass_june2026_event_duration
 TEXT: 6월 2일 - 7월 7일
@@ -115939,7 +115974,7 @@ RESOURCE ID: season_pass_june2026_upgrade_description
 TEXT: GO패스 디럭스: 6월을 구매하면 다음 리워드를 잠금해제할 수 있습니다!
 
 - 슈퍼 부화장치 1개
-- 횟수 제한 없이 알을 부화할 수 있는 <a href="https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2358-incubators-hatching-pokemon-eggs/">시간제한 부화장치</a> 1개
+- 횟수 제한 없이 알을 부화할 수 있는 <a href="https://scopelyexplore.helpshift.com/hc/faq/1118-incubators-hatching-pokemon-eggs/">시간제한 부화장치</a> 1개
 - 기타
 
 RESOURCE ID: season_pass_march2026_event_duration
@@ -115952,7 +115987,7 @@ RESOURCE ID: season_pass_march2026_upgrade_description
 TEXT: GO패스 디럭스: 3월을 구매하면 다음 리워드를 잠금해제할 수 있습니다!
 
 - 슈퍼 부화장치 1개
-- 횟수 제한 없이 알을 부화할 수 있는 <a href="https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2358-incubators-hatching-pokemon-eggs/">시간제한 부화장치</a> 1개
+- 횟수 제한 없이 알을 부화할 수 있는 <a href="https://scopelyexplore.helpshift.com/hc/faq/1118-incubators-hatching-pokemon-eggs/">시간제한 부화장치</a> 1개
 - 기타
 
 RESOURCE ID: season_pass_may2025_event_duration
@@ -115964,13 +115999,13 @@ TEXT: 프리미엄 리워드를 손에 넣을 수 있고 레벨 100으로 <b>이
 RESOURCE ID: season_pass_may2025_upgrade_description
 TEXT: GO패스 디럭스: 5월을 구매하면 다음 리워드가 해제합니다!
 - 이벨타르와의 만남
-- 반짝반짝 프렌드가 될 수 있는 도구 <a href="https://niantic.helpshift.com/hc/faq/4945-what-is-the-lucky-trinket/">반짝이 참</a> 1개
+- 반짝반짝 프렌드가 될 수 있는 도구 <a href="https://scopelyexplore.helpshift.com/hc/faq/1147-what-is-the-lucky-trinket/">반짝이 참</a> 1개
 - 기타
 
 RESOURCE ID: season_pass_may2025_upgrade_description_no_additional_legendary
 TEXT: GO패스 디럭스: 5월을 구매하면 다음 리워드가 해제합니다!
 
-- 반짝반짝 프렌드가 될 수 있는 도구 <a href="https://niantic.helpshift.com/hc/faq/4945-what-is-the-lucky-trinket/">반짝이 참</a> 1개
+- 반짝반짝 프렌드가 될 수 있는 도구 <a href="https://scopelyexplore.helpshift.com/hc/faq/1147-what-is-the-lucky-trinket/">반짝이 참</a> 1개
 - 기타
 
 RESOURCE ID: season_pass_may2026_event_duration
@@ -116005,7 +116040,7 @@ RESOURCE ID: season_pass_november2025_upgrade_description
 TEXT: GO패스 디럭스: 11월을 구매하면 다음 리워드가 해제합니다!
 
 - 슈퍼 부화장치 1개
-- 반짝반짝 프렌드가 될 수 있는 도구 <a href="https://niantic.helpshift.com/hc/faq/4945-what-is-the-lucky-trinket/">반짝이 참</a> 1개
+- 반짝반짝 프렌드가 될 수 있는 도구 <a href="https://scopelyexplore.helpshift.com/hc/faq/1147-what-is-the-lucky-trinket/">반짝이 참</a> 1개
 - 기타
 
 RESOURCE ID: season_pass_october2025_event_duration
@@ -116228,7 +116263,7 @@ RESOURCE ID: season_pass_september2025_upgrade_description
 TEXT: GO패스 디럭스를 구매하면 다음 리워드를 잠금해제할 수 있습니다!
 
 - 슈퍼 부화장치 1개
-- 횟수 제한 없이 알을 부화할 수 있는 <a href="https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2358-incubators-hatching-pokemon-eggs/">시간제한 부화장치</a> 1개
+- 횟수 제한 없이 알을 부화할 수 있는 <a href="https://scopelyexplore.helpshift.com/hc/faq/1118-incubators-hatching-pokemon-eggs/">시간제한 부화장치</a> 1개
 - 기타
 
 RESOURCE ID: season_pass_shockingly_good_2026_event_duration
@@ -116317,7 +116352,20 @@ TEXT: 8월 25일 - 8월 30일
 RESOURCE ID: season_pass_wcs_2026_track_upgrade_header_description
 TEXT: 추가 리워드를 받을 수 있고 랭크 30에서 <b>썬더</b>와의 만남이 잠금해제!
 
+RESOURCE ID: season_pass_wcs_2026_track_upgrade_header_description_backpack
+TEXT: 추가 리워드를 받을 수 있고 랭크 15에서 <b>포켓몬 WCS, PXP2026 백팩</b>이 잠금해제!
+
 RESOURCE ID: season_pass_wcs_2026_upgrade_description
+TEXT: GO패스 디럭스: PokémonXP & 챔피언십2026을 구매하면 다음 리워드를 받을 수 있습니다!
+
+- 포켓몬 WCS, PXP2026 백팩
+- PokémonXP2026 피카츄와의 만남
+- 포켓몬 월드챔피언십2026 피카츄와의 만남
+- 이벤트와 어울리는 포켓몬과의 만남
+- 이상한사탕XL
+- 기타
+
+RESOURCE ID: season_pass_wcs_2026_upgrade_description_out
 TEXT: GO패스 디럭스: PokémonXP & 챔피언십2026을 구매하면 다음 리워드를 받을 수 있습니다!
 
 - PokémonXP2026 피카츄와의 만남
@@ -117184,7 +117232,7 @@ RESOURCE ID: settings_wearables_device_status_unpaired
 TEXT: Not Paired
 
 RESOURCE ID: settings_wearables_device_troubleshooting_url
-TEXT: <url with language query param in it>
+TEXT: https://scopelyexplore.helpshift.com/hc/faq/1337-pairing-and-connecting-pokemon-go-to-official-devices/
 
 RESOURCE ID: settings_wearables_empty_device_list
 TEXT: No Devices Found
@@ -117423,6 +117471,9 @@ TEXT: Your friend {0} has invited you to an EX Raid at {1}.
 RESOURCE ID: shelmetkarrablast_post_cd_timed_research_name
 TEXT: 쪼마리와 딱정곤 커뮤니티 데이 컨티뉴 시간제한 리서치
 
+RESOURCE ID: shield_break_adventure_effect_battle_log
+TEXT: YOUR ATTACKS ARE BOOSTED BY DYNAMIC PUNCH+’S ADVENTURE EFFECT!
+
 RESOURCE ID: shinjuku_cross_title
 TEXT: クロス新宿ビジョン
 
@@ -117634,7 +117685,7 @@ RESOURCE ID: shop_daily_bonus_header
 TEXT: 선물이 도착했습니다!
 
 RESOURCE ID: shop_discount_disclaimer_helpshift_url
-TEXT: https://niantic.helpshift.com/hc/faq/4707-notice-regarding-discount-rates-displayed-in-the-shop/
+TEXT: https://scopelyexplore.helpshift.com/hc/faq/1267-notice-regarding-discount-rates-displayed-in-the-shop/
 
 RESOURCE ID: shop_discount_disclaimer_modal_title
 TEXT: 기간 한정 할인
@@ -117666,12 +117717,12 @@ TEXT: Your {0} are fully upgraded!
 RESOURCE ID: shop_fully_upgraded_purchasable
 TEXT: {0}(은)는 상한까지 업그레이드 되었습니다. 트레이너 레벨을 올리면 늘릴 수 있습니다.
 
-<a href="https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/3049-available-items-your-bag/">레벨업의 자세한 내용은 여기.</a>
+<a href="https://scopelyexplore.helpshift.com/hc/faq/1432-available-items-your-bag/">레벨업의 자세한 내용은 여기.</a>
 
 RESOURCE ID: shop_fully_upgraded_purchasable_plural
 TEXT: {0}(은)는 상한까지 업그레이드 되었습니다. 트레이너 레벨을 올리면 늘릴 수 있습니다.
 
-<a href="https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/3049-available-items-your-bag/">레벨업의 자세한 내용은 여기.</a>
+<a href="https://scopelyexplore.helpshift.com/hc/faq/1432-available-items-your-bag/">레벨업의 자세한 내용은 여기.</a>
 
 RESOURCE ID: shop_gift_friend_ineligible_title
 TEXT: 티켓을 보낼 수 없습니다
@@ -118737,6 +118788,9 @@ TEXT: 몬스터볼이 없습니다
 
 RESOURCE ID: soft_sfida_title_pokemon_full
 TEXT: 포켓몬 박스가 가득 찼습니다.
+
+RESOURCE ID: soft_sfida_tutorial_url
+TEXT: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1250-what-is-the-explorer-gadget/
 
 RESOURCE ID: soft_sfida_warn_items_full
 TEXT: 도구가 가득합니다.
@@ -124260,7 +124314,7 @@ TEXT: 현지시간 2024년 5월 16일 0시~ 5월 30일 23시 59분까지 포켓�
 
 5월 16일~30일에 매일 처음 로그인 시 가지고 있는 필드리서치가 3개 이하면 보너스 필드리서치를 받을 수 있습니다.리워드 포켓코인은 과제 완료 후 잊지 말고 받아 주세요.
 
-보너스 필드리서치 과제에 대해서는 <a href="https://niantic.helpshift.com/hc/faq/2479-why-does-my-field-research-task-have-a-bonus-tag/">여기</a>를 확인해 주세요.
+보너스 필드리서치 과제에 대해서는 <a href="https://scopelyexplore.helpshift.com/hc/faq/1098-why-does-my-field-research-task-have-a-bonus-tag/">여기</a>를 확인해 주세요.
 
 RESOURCE ID: text_rewards_key_conciergecb0925
 TEXT: <b>받을 수 있는 리워드:</b>
@@ -124942,7 +124996,7 @@ TEXT: 현지시간 2024년 11월 3일~12월 2일 200 포켓코인을 보너스�
 - 하루에 포켓스톱과 체육관에서 받을 수 있는 선물 상한이 150개로 증가
 - 가방 안에 한번에 가질 수 있는 선물 상한이 40개로 증가
 
- 주의) 매일 첫 로그인시 필드리서치가 3건 이하가 아니면 보너스 필드리서치를 받을 수 없습니다. 과제 완료 후에 20포켓코인 수령을 잊지 마세요. 보너스 필드리서치의 자세한 내용은 <a href="https://niantic.helpshift.com/hc/faq/2479-why-does-my-field-research-task-have-a-bonus-tag/">여기</a>에서 확인할 수 있습니다.
+ 주의) 매일 첫 로그인시 필드리서치가 3건 이하가 아니면 보너스 필드리서치를 받을 수 없습니다. 과제 완료 후에 20포켓코인 수령을 잊지 마세요. 보너스 필드리서치의 자세한 내용은 <a href="https://scopelyexplore.helpshift.com/hc/faq/1098-why-does-my-field-research-task-have-a-bonus-tag/">여기</a>에서 확인할 수 있습니다.
 
 RESOURCE ID: text_rewards_key_monthlyticketoct24
 TEXT: 현지시간 2024년 10월 3일~11월 2일 200포켓코인을 보너스로 받을 수 있는 시간제한 리서치와 보너스 포켓코인을 받을 수 있는 데일리 보너스 필드리서치를 받을 수 있는 티켓.
@@ -124954,10 +125008,10 @@ TEXT: 현지시간 2024년 10월 3일~11월 2일 200포켓코인을 보너스로
 - 하루에 포켓스톱과 체육관에서 받을 수 있는 선물 상한이 150개로 증가
 - 가방 안에 한번에 가질 수 있는 선물 상한이 40개로 증가
 
- 주의) 매일 첫 로그인시 필드리서치가 3건 이하가 아니면 보너스 필드리서치를 받을 수 없습니다. 과제 완료 후에 20포켓코인 수령을 잊지 마세요. 보너스 필드리서치의 자세한 내용은 <a href="https://niantic.helpshift.com/hc/faq/2479-why-does-my-field-research-task-have-a-bonus-tag/">여기</a>에서 확인할 수 있습니다.
+ 주의) 매일 첫 로그인시 필드리서치가 3건 이하가 아니면 보너스 필드리서치를 받을 수 없습니다. 과제 완료 후에 20포켓코인 수령을 잊지 마세요. 보너스 필드리서치의 자세한 내용은 <a href="https://scopelyexplore.helpshift.com/hc/faq/1098-why-does-my-field-research-task-have-a-bonus-tag/">여기</a>에서 확인할 수 있습니다.
 
 RESOURCE ID: text_rewards_key_monthlyticketsept24
-TEXT: 현지시간 2024년 9월 3일~10월 2일 200포켓코인을 보너스로 받을 수 있는 시간제한 리서치와 보너스 포켓코인을 받을 수 있는 데일리 보너스 필드리서치를 받을 수 있는 티켓.
+TEXT: 현지시간 2024년 9월 3일~10월 2일 200포켓코인을 보너스로 받을 수 있는 시간제한 리서치와 보너스 포켓코인을 받을 수 있는 보너스 필드리서치를 받을 수 있는 티켓.
 
 <b>적용되는 보너스:</b>
 - 이벤트 기간 중 매일 로그인 후 20포켓코인을 보너스로 받을 수 있는 보너스 필드리서치
@@ -124966,7 +125020,7 @@ TEXT: 현지시간 2024년 9월 3일~10월 2일 200포켓코인을 보너스로 
 - 하루에 포켓스톱과 체육관에서 받을 수 있는 선물 상한이 150개로 증가
 - 가방 안에 한번에 가질 수 있는 선물 상한이 40개로 증가
 
- 주의) 매일 첫 로그인시 필드리서치가 3건 이하가 아니면 보너스 필드리서치를 받을 수 없습니다. 과제 완료 후에 20포켓코인 수령을 잊지 마세요. 보너스 필드리서치의 자세한 내용은 <a href="https://niantic.helpshift.com/hc/faq/2479-why-does-my-field-research-task-have-a-bonus-tag/">여기</a>에서 확인할 수 있습니다.
+ 주의) 매일 첫 로그인시 필드리서치가 3건 이하가 아니면 보너스 필드리서치를 받을 수 없습니다. 과제 완료 후에 20포켓코인 수령을 잊지 마세요. 보너스 필드리서치의 자세한 내용은 <a href="https://scopelyexplore.helpshift.com/hc/faq/1098-why-does-my-field-research-task-have-a-bonus-tag/">여기</a>에서 확인할 수 있습니다.
 
 RESOURCE ID: text_rewards_key_munchlax0825
 TEXT: <b>받을 수 있는 리워드:</b>
@@ -125717,7 +125771,7 @@ RESOURCE ID: three_free_raid_passes
 TEXT: 체육관 포토디스크를 돌려서 레이드패스 3개까지 입수
 
 RESOURCE ID: three_strike_policy_url
-TEXT: https://support.pokemongo.nianticlabs.com/hc/ko/articles/360001743487-3%ED%9A%8C-%EC%8A%A4%ED%8A%B8%EB%9D%BC%EC%9D%B4%ED%81%AC-%EC%A7%95%EA%B3%84-%EB%B0%A9%EC%B9%A8
+TEXT: https://scopelyexplore.helpshift.com/hc/faq/1305-gameplay-fairness-policy/
 
 RESOURCE ID: throwback_2020_celebration
 TEXT: Throwback Challenge 2020 Celebration
@@ -127410,6 +127464,9 @@ TEXT: UPCOMING EVENTS
 RESOURCE ID: today_view_upcoming_events_today_marker
 TEXT: TODAY
 
+RESOURCE ID: today_view_welcome_back_tab_label
+TEXT: Kanto Homecoming
+
 RESOURCE ID: toggle_item_equip
 TEXT: 사용
 
@@ -128002,16 +128059,16 @@ RESOURCE ID: tr_gofest2026_branch_y_description
 TEXT: 이 길을 선택하면 메가뮤츠Y를 찾을 수 있습니다
 
 RESOURCE ID: tr_gofest2026_finale_branch_chespin_desc
-TEXT: Choose this path to get enough Mega Energy to Mega Evolve Chesnaught, an increased chance of encountering Shiny Chespin, encounters with Chespin that have a Special Background, and Chespin Candy and Candy XL.
+TEXT: 이것을 선택하면 브리가론을 메가진화할 수 있는 메가 에너지를 받을 수 있습니다. 색이 다른 도치마론과 만날 확률이 올라가며 스페셜 배경이 있는 도치마론과 만날 수 있으며 도치마론의 사탕, 사탕XL을 받을 수 있습니다.
 
 RESOURCE ID: tr_gofest2026_finale_branch_fennekin_desc
-TEXT: Choose this path to get enough Mega Energy to Mega Evolve Delphox, an increased chance of encountering Shiny Fennekin, encounters with Fennekin that have a Special Background, and Fennekin Candy and Candy XL.
+TEXT: 이것을 선택하면 마폭시를 메가진화할 수 있는 메가 에너지를 받을 수 있습니다. 색이 다른 푸호꼬와 만날 확률이 올라가며 스페셜 배경이 있는 푸호꼬와 만날 수 잇으며 푸호꼬의 사탕, 사탕XL을 받을 수 있습니다.
 
 RESOURCE ID: tr_gofest2026_finale_branch_froakie_desc
-TEXT: Choose this path to get enough Mega Energy to Mega Evolve Greninja, an increased chance of encountering Shiny Froakie, encounters with Froakie that have a Special Background, and Froakie Candy and Candy XL.
+TEXT: 이것을 선택하면 개굴닌자를 메가진화할 수 있는 메가 에너지를 받을 수 있습니다. 색이 다른 개구마르와 만날 확률이 올라가며 스페셜 배경이 있는 개구마르와 만날 수 잇으며 개구마르의 사탕, 사탕XL을 받을 수 있습니다.
 
 RESOURCE ID: tr_gofest2026_finale_starter_choice
-TEXT: GO Fest 2026: Mega Finale Mega Choice
+TEXT: GO Fest 2026: 메가 피날레의 메가 초이스
 
 RESOURCE ID: tr_gofest2026_global_mewtwo
 TEXT: GO Fest 2026: 유전자 연구
@@ -129207,6 +129264,42 @@ TEXT: Pokémon GO 메가 특훈! 시간제한 리서치(1/2)
 RESOURCE ID: tr_jp2025_aeon_mall_header_01
 TEXT: Pokémon GO 메가 특훈! 시간제한 리서치(2/2)
 
+RESOURCE ID: tr_kindling_2026_set_01_header
+TEXT: Kanto Homecoming Timed Research (1/12)
+
+RESOURCE ID: tr_kindling_2026_set_02_header
+TEXT: Kanto Homecoming Timed Research (2/12)
+
+RESOURCE ID: tr_kindling_2026_set_03_header
+TEXT: Kanto Homecoming Timed Research (3/12)
+
+RESOURCE ID: tr_kindling_2026_set_04_header
+TEXT: Kanto Homecoming Timed Research (4/12)
+
+RESOURCE ID: tr_kindling_2026_set_05_header
+TEXT: Kanto Homecoming Timed Research (5/12)
+
+RESOURCE ID: tr_kindling_2026_set_06_header
+TEXT: Kanto Homecoming Timed Research (6/12)
+
+RESOURCE ID: tr_kindling_2026_set_07_header
+TEXT: Kanto Homecoming Timed Research (7/12)
+
+RESOURCE ID: tr_kindling_2026_set_08_header
+TEXT: Kanto Homecoming Timed Research (8/12)
+
+RESOURCE ID: tr_kindling_2026_set_09_header
+TEXT: Kanto Homecoming Timed Research (9/12)
+
+RESOURCE ID: tr_kindling_2026_set_10_header
+TEXT: Kanto Homecoming Timed Research (10/12)
+
+RESOURCE ID: tr_kindling_2026_set_11_header
+TEXT: Kanto Homecoming Timed Research (11/12)
+
+RESOURCE ID: tr_kindling_2026_set_12_header
+TEXT: Kanto Homecoming Timed Research (12/12)
+
 RESOURCE ID: tr_kr2025_retention_cherryblossom_title
 TEXT: 벚꽃 챌린지
 
@@ -129793,7 +129886,7 @@ RESOURCE ID: tr_uxie_photo_safari_live
 TEXT: 유크시 포토 사파리 - 로스앤젤레스
 
 RESOURCE ID: tr_wcs2026_finale_header
-TEXT: Worlds 2026 Finale
+TEXT: WCS2026 피날레
 
 RESOURCE ID: tr_weekend_booster_title
 TEXT: 위켄드 프로젝트

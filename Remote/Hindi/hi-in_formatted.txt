@@ -215,7 +215,7 @@ RESOURCE ID: abi_contact_signed_up_notification
 TEXT: आपकी कॉन्टैक्ट लिस्ट में मौजूद ट्रेनर्स ने Pokémon GO! में अपना एडवेंचर शुरू कर दिया है उन्हें दोस्ती का अनुरोध भेजने के लिए, अपने दोस्त मेनू में जाएं।
 
 RESOURCE ID: abi_helpshift_url
-TEXT: https://niantic.helpshift.com/a/pokemon-go/?p=all&s=friends-gifting-trading&f=friend-list-friendship-levels-1614899618
+TEXT: https://scopelyexplore.helpshift.com/hc/faq/1137-adding-friends/
 
 RESOURCE ID: abi_new_player_onboarding_title
 TEXT: दोस्तों के साथ Pokémon GO का मज़ा ही कुछ और है!
@@ -299,7 +299,7 @@ RESOURCE ID: accessibility_settings_title
 TEXT: एक्सेसिबिलिटी
 
 RESOURCE ID: account_locked_article_url
-TEXT: https://niantic.helpshift.com/hc/faq/5242-my-account-has-been-locked-or-restricted/
+TEXT: https://scopelyexplore.helpshift.com/hc/faq/2554-my-account-has-been-locked-or-restricted-1783711163/
 
 RESOURCE ID: ace_box_title
 TEXT: Ace Box
@@ -872,7 +872,7 @@ RESOURCE ID: age_confirm_explain
 TEXT: इस प्रकार के अकाउंट से लॉग इन करने के लिए न्यूनतम आयु निर्धारित की गयी है। अपनी जन्म{SHORT_I}त{SHORT_I}थ की पुष्टि करें।
 
 RESOURCE ID: age_confirm_fail
-TEXT: क्षमा करें, आप इस प्रकार के अकाउंट में लॉग इन करने के लिए <a href="https://niantic.helpshift.com/hc/faq/4996-i-cannot-login-and-message-shows-sorry-you-do-not-meet-the-age-requirement-to-login-with-this-type-of-account/">आयु संबंधी आवश्यकताओं</a> को पूरा नहीं करते हैं, और हमारी सेवा शर्तों के अनुसार आपका अकाउंट डिलीट कर दिया जाएगा। अगर आपको लगता है कि आप इस प्रकार के खाते से लॉग इन करने के योग्य हैं, तो कृपया हमसे संपर्क करें।
+TEXT: क्षमा करें, आप इस प्रकार के अकाउंट में लॉग इन करने के लिए <a href="https://scopelyexplore.helpshift.com/hc/faq/1314-i-cannot-login-and-message-shows-sorry-you-do-not-meet-the-age-requirement-to-login-with-this-type-of-account/">आयु संबंधी आवश्यकताओं</a> को पूरा नहीं करते हैं, और हमारी सेवा शर्तों के अनुसार आपका अकाउंट डलिीट कर दयिा जाएगा। अगर आपको लगता है कि आप इस प्रकार के खाते से लॉग इन करने के योग्य हैं, तो कृपया हमसे संपर्क करें।
 
 RESOURCE ID: age_confirm_popup_confirm
 TEXT: इसे सबमिट करने के बाद इसमें कोई बदलाव नहीं किया जा सकता।
@@ -15182,7 +15182,7 @@ RESOURCE ID: batch_transfer_unique_special_background_pokemon_singular
 TEXT: {0} स्पैशल बैकग्राउंड
 
 RESOURCE ID: batch_transfer_unique_warning_title
-TEXT: आपके सेलेक्शन में ये पोकेमॉन शामिल हैं :
+TEXT: आपके चयन में नम्निलखिति मानदंडों को पूरा करने वाले पोकेमॉन शामलि हैं:
 
 RESOURCE ID: batch_transfer_unique_warning_message
 TEXT: क्या आप वाकई इन पोकेमॉन को प्रोफ़ेसर को ट्रांसफ़र करना चाहते हैं?
@@ -19690,7 +19690,7 @@ RESOURCE ID: bonus_today_zygarde_cell
 TEXT: ज़ाइगार्ड सेल प्रतिदिन 5 रूट तक के अंत पर दिखाई दे सकते हैं
 
 RESOURCE ID: bonus_today_zygarde_cell_temp
-TEXT: Zygarde Cells can appear at the end of up to 5 Routes per day
+TEXT: हर दनि 5 रूट तक के अंत पर ज़ाइगार्ड सेल दखिाई दे सकते हैं
 
 RESOURCE ID: bonus_total_6_special_trades
 TEXT: हर दिन कुल छह स्पेशल ट्रेड
@@ -20017,22 +20017,22 @@ RESOURCE ID: boot_safety_warning_4
 TEXT: Pokémon GO खेलते समय असल जि़ंदगी के लोगों के साथ अच्छा व्यवहार करें।
 
 RESOURCE ID: box_gocatch
-TEXT: GO Catch Box
+TEXT: GO कैच बॉक्स
 
 RESOURCE ID: box_gohatch
-TEXT: GO Hatch Box
+TEXT: GO हैच बॉक्स
 
 RESOURCE ID: box_gomaster
-TEXT: GO Master Box
+TEXT: GO मास्टर बॉक्स
 
 RESOURCE ID: box_goraid
-TEXT: GO Raid Box
+TEXT: GO रेड बॉक्स
 
 RESOURCE ID: box_gostarter
-TEXT: GO Starter Box
+TEXT: GO स्टार्टर बॉक्स
 
 RESOURCE ID: box_gosticker
-TEXT: GO Sticker Box
+TEXT: GO स्टकिर बॉक्स
 
 RESOURCE ID: box_community_day
 TEXT: शॉप में कम्युनिटी डे बॉक्स उपलब्ध है
@@ -21180,7 +21180,7 @@ RESOURCE ID: breakfast_tappable_tutorial_body
 TEXT: You can find Zygarde Cells while you’re following a Route. You can assemble Zygarde Cells to create different Zygarde forms.
 
 RESOURCE ID: breakfast_tappable_tutorial_body_temp
-TEXT: You can find Zygarde Cells after completing a Route. You can assemble Zygarde Cells to create different Zygarde forms.
+TEXT: रूट को पूरा करने के बाद आपको ज़ाइगार्ड सेल मलि सकते हैं। ज़ाइगार्ड सेल को एक-साथ जोड़कर, आप अलग-अलग ज़ाइगार्ड फ़ॉर्म बना सकते हैं।
 
 RESOURCE ID: breakthrough_free_remote_raid_pass
 TEXT: आइए, अब चलें!
@@ -29368,7 +29368,7 @@ RESOURCE ID: dynamic_punch_+_move_content
 TEXT: म्यूटू {0} तक, अपनी पूरी एकाग्रति शक्ति से मुक्के बरसाता है। रेड में मेगा एवॉल्व पोकेमॉन के प्रति डैमेज बढ़ेगा, और आपके मेगा एवॉल्व पोकेमॉन सुपर मेगा रेड में दो शील्ड तोड़ पाएंगे।
 
 RESOURCE ID: dynamic_punch_adventure_effects_mapview_dialog
-TEXT: Mewtwo punches with full, concentrated power. Increases damage against Mega-Evolved Pokémon in raids and enables your Mega-Evolved Pokémon to break two shields in Super Mega Raids.
+TEXT: म्यूटू अपनी पूरी एकाग्रति शक्ति से मुक्के बरसाता है। रेड में मेगा एवॉल्व पोकेमॉन के प्रति डैमेज बढ़ेगा, और आपके मेगा एवॉल्व पोकेमॉन सुपर मेगा रेड में दो शील्ड तोड़ पाएंगे।
 
 RESOURCE ID: dynamic_punch_adventure_effects_mapview_dialog_out
 TEXT: म्यूटू {0} तक, ठोस मुट्ठयिों से अटैक करता है। इससे आपके मेगा एवॉल्व पोकेमॉन सुपर मेगा रेड में दो शील्ड तोड़ पाएंगे।
@@ -32324,15 +32324,15 @@ RESOURCE ID: event_pass_gofest2025_track_upgrade_header_description
 TEXT: अतिरिक्त रिवॉर्ड पाएँ और रैंक 80 पर एक <b>गोल्डन क्राउन</b> अनलॉक करें!
 
 RESOURCE ID: event_pass_gofest2025_upgrade_description
-TEXT: GO पास डीलक्स - अतीत के अवशेष खरीदें और ये रिवार्ड पाएँ!
+TEXT: GO पास डीलक्स - अतीत के अवशेष खरीदें और ये रविार्ड पाएँ!
 
-• एक <a href="https://niantic.helpshift.com/hc/faq/5103-what-is-hyper-training/">गोल्डन क्राउन</a>, जिससे आप किसी एक पोकेमॉन के सभी आँकड़े बढ़ाने के लिए हाइपर ट्रेनिंग कोर्स शुरू कर सकते हैं
-• ज़ाशियन मास्क अवतार आइटम
+• एक <a href="https://scopelyexplore.helpshift.com/hc/faq/1113-what-is-hyper-training/">गोल्डन क्राउन</a>, जसिसे आप कसिी एक पोकेमॉन के सभी आँकड़े बढ़ाने के लिए हाइपर ट्रेनिंग कोर्स शुरू कर सकते हैं
+• ज़ाशयिन मास्क अवतार आइटम
 • ज़ामाज़ैंटा मास्क अवतार आइटम
-• हैच और रेड के लिए विशेष बोनस
+• हैच और रेड के लिए वशिेष बोनस
 • और भी बहुत कुछ!
 
-ट्रेनर पास टास्क से कमाए गए GO पॉइंट के साथ साथ, 23 से 27 जून तक प्रतिदिन अन्य 1,000 GO पॉइंट भी कमा पाएंगे। 28 और 29 जून के Pokémon GO फ़ेस्टिवल - ग्लोबल में कमाए जाने वाले GO पॉइंट की कोई सीमा नहीं होगी!
+ट्रेनर पास टास्क से कमाए गए GO पॉइंट के साथ साथ, 23 से 27 जून तक प्रतदिनि अन्य 1,000 GO पॉइंट भी कमा पाएंगे। 28 और 29 जून के Pokémon GO फ़ेस्टविल - ग्लोबल में कमाए जाने वाले GO पॉइंट की कोई सीमा नहीं होगी!
 
 RESOURCE ID: event_pass_gofest2026_base_track_title
 TEXT: GO पास - लेजेंड का पथ
@@ -32341,37 +32341,38 @@ RESOURCE ID: event_pass_gofest2026_event_duration
 TEXT: 6 जुलाई – 12 जुलाई
 
 RESOURCE ID: event_pass_gofest2026_finale_base_track_title
-TEXT: GO Pass: Mega Finale
+TEXT: GO पास - मेगा फ़निाले
 
 RESOURCE ID: event_pass_gofest2026_finale_chosen_starter_shiny_bonus
-TEXT: Increased chance of encountering your chosen partner and its Evolutions as Shiny Pokémon
+TEXT: आपके चुने पार्टनर पोकेमॉन और उसके वकिसति रूप को शाइनी पोकेमॉन के रूप में मुलाकात होने की अधकि संभावना
 
 RESOURCE ID: event_pass_gofest2026_finale_event_duration
-TEXT: August 31 – September 6
+TEXT: 31 अगस्त – 6 सतिम्बर
 
 RESOURCE ID: event_pass_gofest2026_finale_mega_raid_rewards_bonus
-TEXT: Earn 3 additional Candy, 1 additional Candy XL, and 5,000 additional XP from Mega Raids
+TEXT: मेगा रेड से 3 अतरिकि कैंडी, 1 अतरिक्ति कैंडी XL, और 5,000 अतरिक्ति XP
 
 RESOURCE ID: event_pass_gofest2026_finale_premium_track_title
-TEXT: GO Pass Deluxe: Mega Finale
+TEXT: GO पास डीलक्स - मेगा फ़निाले
 
 RESOURCE ID: event_pass_gofest2026_finale_t4_mega_raid_shiny_bonus
-TEXT: Increased chance of encountering Shiny Pokémon from four-star Mega Raids
+TEXT: फ़ोर-स्टार मेगा रेड से शाइनी पोकेमॉन से मुलाकात होने की अधकि संभावना
 
 RESOURCE ID: event_pass_gofest2026_finale_track_upgrade_header_description
-TEXT: Earn additional rewards in the deluxe track!
+TEXT: डीलक्स ट्रैक में अतरिक्ति रविॉर्ड पाएँ!
 
 RESOURCE ID: event_pass_gofest2026_finale_upgrade_description
-TEXT: Purchase GO Pass Deluxe: GO Fest 2026 Mega Finale to unlock the following!
+TEXT: ये रविर्ड अन्लॉक के लिए GO पास डीलक्स - GO Fest 2026 मेगा फ़निाले को खरीदें!
 
-• Enough Mega Energy to unlock Super Max Level for your chosen Pokémon’s Mega Evolution
-• An avatar item featuring your chosen Pokémon’s Evolution
-• Increased chance of encountering Shiny Pokémon from certain Mega Raids and wild encounters
-• Additional Mega Raid rewards
-• And more!
+• अपने चुनिंदा पोकेमॉन के मेगा एवोलूशन के लिए सुपर मैक्स लेवल को अन्लॉक करने के लिए पर्याप्त मेगा एनर्जी
+• आपके चुने पोकेमॉन के एवोलूशन वाला अवतार आइटम
+• कुछ मेगा रेड और जंगल में मुलाकातों से शाइनी पोकेमॉन से मुलाकात की अधकि संभावना
+• अतरिक्ति मेगा रेड रविॉर्ड
+• और और-भी!
 
 RESOURCE ID: event_pass_gofest2026_finale_weekend_wild_shiny_bonus
-TEXT: Increased chance of encountering Shiny featured Pokémon in the wild during GO Fest 2026: Mega Finale weekend event hours
+TEXT: GO Fest 2026 - मेगा फ़निाले वीकेंड इवेंट आवर जे चलते समय, जंगल में शाइनी पोकेमॉन से मुलाकात होने की अधकि संभावना
+
 
 RESOURCE ID: event_pass_gofest2026_premium_track_title
 TEXT: GO पास डीलक्स - लेजेंड का पथ
@@ -32385,7 +32386,7 @@ TEXT: अतरिक्ति रविॉर्ड पाएँ और रै�
 RESOURCE ID: event_pass_gofest2026_upgrade_description
 TEXT: GO पास डीलक्स - लेजेंड का पथ खरीदें और ये रविार्ड पाएँ!
 
-• एक <a href="https://niantic.helpshift.com/hc/faq/5103-what-is-hyper-training/">गोल्डन क्राउन</a>, जसिसे आप कसिी एक पोकेमॉन के सभी आँकड़े बढ़ाने के लिए हाइपर ट्रेनिंग कोर्स शुरू कर सकते हैं
+• एक <a href="https://scopelyexplore.helpshift.com/hc/faq/1113-what-is-hyper-training/">गोल्डन क्राउन</a>, जसिसे आप कसिी एक पोकेमॉन के सभी आँकड़े बढ़ाने के लिए हाइपर ट्रेनिंग कोर्स शुरू कर सकते हैं
 • आपके अवतार के लिए टीम लीडर पोज़
 • नश्चिति रूप से स्पैशल बैकग्राउंड के होने वाले म्यूटू के साथ एक मुलाकात
 • हैच और रेड के लिए वशिेष बोनस
@@ -36388,7 +36389,7 @@ RESOURCE ID: future_sight_+_move_content
 TEXT: म्यूटू {0} तक, साइककि ऊर्जा का पुंज छोड़ता है, जसिसे मुलाकात होने वाले पोकेमॉन के उच्च आँकड़ों का पता चलता है।
 
 RESOURCE ID: future_sight_adventure_effects_mapview_dialog
-TEXT: Mewtwo releases a hunk of psychic energy, revealing when encountered Pokémon have high stats.
+TEXT: म्यूटू साइककि ऊर्जा का पुंज छोड़ता है, जसिसे मुलाकात होने वाले पोकेमॉन के उच्च आँकड़ों का पता चलता है।
 
 RESOURCE ID: future_sight_adventure_effects_mapview_dialog_out
 TEXT: म्यूटू {0} तक, साइककि ऊर्जा का पुंज छोड़ता है, जसिसे जंगल में या रेड के अंत में मुलाकात होने वाले पोकेमॉन के उच्च आँकड़ों का पता चलता है।
@@ -38598,7 +38599,7 @@ RESOURCE ID: general2.ticket._gowa25_leadup_title
 TEXT: वाइल्ड वीक प्रीमियम सीमित समय वाली रिसर्च के लिए तैयार हो जाएँ
 
 RESOURCE ID: general2.ticket._gowa26_title
-TEXT: Pokémon GO Wild Area 2026 Global Ticket
+TEXT: Pokémon GO Wild Area 2026: Global Ticket
 
 RESOURCE ID: general2.ticket._megagalladeraidday_title
 TEXT: मेगा गलेड रेड दिवस टिकट
@@ -44970,8 +44971,17 @@ TEXT: Pokémon GO फ़ेस्टिवल 2026 - शिकागो
 RESOURCE ID: gofest2026_copenhagen
 TEXT: Pokémon GO फ़ेस्टिवल 2026 - कोपेनहेगन
 
+RESOURCE ID: gofest2026_tag
+TEXT: GO Fest 2026: Mega Finale
+
 RESOURCE ID: gofest2026_tokyo
 TEXT: Pokémon GO फ़ेस्टिवल 2026 - तोक्यो
+
+RESOURCE ID: gofest2026_battle_district
+TEXT: Battle District
+
+RESOURCE ID: gofest2026_circuit_plaza
+TEXT: Circuit Plaza
 
 RESOURCE ID: gofest2026_collection_district
 TEXT: कलेक्शन डस्ट्रिक्टि
@@ -44997,14 +45007,26 @@ TEXT: टीम GO रॉकेट को हराएं
 RESOURCE ID: gofest2026_details_link
 TEXT: अधकि जानकारी की लिए <a href="https://pokemongo.com/news/road-of-legends-2026">वेबसाइट</a> पर जाएँ।
 
+RESOURCE ID: gofest2026_eerie_alley
+TEXT: Eerie Alley
+
 RESOURCE ID: gofest2026_finale_details_link
-TEXT: For more details, visit the <a href="https://Pokémongo.com/gofest/megafinale">GO Fest 2026: Mega Finale website</a>.
+TEXT: अधकि जानकारी की लिए <a href="https://pokemongo.com/gofest/megafinale"> GO Fest 2026 - मेगा फ़निाले की वेबसाइट</a> पर जाएँ।
 
 RESOURCE ID: gofest2026_friendship_district
 TEXT: फ़्रेंडशपि डस्ट्रिक्टि
 
 RESOURCE ID: gofest2026_investigation_district
 TEXT: जाँच डस्ट्रिक्टि
+
+RESOURCE ID: gofest2026_iron_frostworks
+TEXT: Iron Frostworks
+
+RESOURCE ID: gofest2026_mindworks_canal
+TEXT: Mindworks Canal
+
+RESOURCE ID: gofest2026_prism_promenade
+TEXT: Prism Promenade
 
 RESOURCE ID: gofest2026_recruitment_zone
 TEXT: रिक्रूट ज़ोन
@@ -45020,6 +45042,12 @@ TEXT: टीम GO रॉकेट हाइड-आउट बोनस
 
 RESOURCE ID: gofest2026_scouting_district
 TEXT: स्काउट डस्ट्रिक्टि
+
+RESOURCE ID: gofest2026_skyline_roosts
+TEXT: Skyline Roosts
+
+RESOURCE ID: gofest2026_verdant_overgrowth
+TEXT: Verdant Overgrowth
 
 RESOURCE ID: gofest_arlo_challenge#1
 TEXT: हमने तुम्हारे जश्न पर कब्ज़ा कर लिया है, और तुम अब भी मुझे चैलेंज दे रहे हो? कड़वे सच का सामना करने के लिए तैयार हो जाओ।
@@ -45520,14 +45548,14 @@ RESOURCE ID: gotour_2025_premium_rewards_desc
 TEXT: रैंक बढ़ने के साथ-साथ रिवॉर्ड अनलॉक होंगे। रिवॉर्ड प्राप्त करने के लिए आपको इवेंट के दौरान खेलना होगा।
 
 RESOURCE ID: gotour_2025_upgrade_description
-TEXT: नीचे दिये गए रिवॉर्ड को अनलॉक करने के लिए टूर पास डीलक्स खरीदें!
-• विक्टीनी के साथ एक मुलाकात
-• एक <a href="https://niantic.helpshift.com/hc/faq/4945-what-is-the-lucky-trinket/">लकी चार्म</a> प्राप्त करने का मौका, जो आपको अपनी पसंद के दोस्त के साथ तुरंत लकी दोस्त बनने की अनुमति देगा
-• क्यूरेम के लिए फ़्यूज़न एनर्जि
+TEXT: नीचे दयिे गए रविॉर्ड को अनलॉक करने के लिए टूर पास डीलक्स खरीदें!
+• वक्टिीनी के साथ एक मुलाकात
+• एक <a href="https://scopelyexplore.helpshift.com/hc/faq/1147-what-is-the-lucky-trinket/">लकी चार्म</a> प्राप्त करने का मौका, जो आपको अपनी पसंद के दोस्त के साथ तुरंत लकी दोस्त बनने की अनुमति देगा
+• क्यूरेम के लिए फ़्यूज़न एनर्जी
 • क्यूरेम हेलमेट
 • और भी बहुत कुछ! 
 
-24 से 28 फ़रवरी तक ट्रेनर पास टास्क से मिलने वाले पॉइंट के अलावा 150 बोनस पॉइंट प्राप्त कर सकते हैं। 1 और 2 मार्च के ग्लोबल इवेंट में पॉइंट कमाने की कोई सीमा नहीं है।
+24 से 28 फ़रवरी तक ट्रेनर पास टास्क से मलिने वाले पॉइंट के अलावा 150 बोनस पॉइंट प्राप्त कर सकते हैं। 1 और 2 मार्च के ग्लोबल इवेंट में पॉइंट कमाने की कोई सीमा नहीं है।
 
 RESOURCE ID: gotour_2026_event_duration
 TEXT: 23 फ़रवरी – 1 मार्च
@@ -45539,14 +45567,14 @@ RESOURCE ID: gotour_2026_pass_track_upgrade_header_description
 TEXT: अतिरिक्त रिवॉर्ड प्राप्त कर तुरंत <b>हूपा अनबाउंड के साथ एक मुलाकात</b> अनलॉक करें!
 
 RESOURCE ID: gotour_2026_upgrade_description
-TEXT: नीचे दिये गए रिवॉर्ड को अनलॉक करने के लिए GO पास डीलक्स - कालोस जाने वाली सड़क खरीदें!
+TEXT: नीचे दयिे गए रविॉर्ड को अनलॉक करने के लिए GO पास डीलक्स - कालोस जाने वाली सड़क खरीदें!
 • हूपा अनबाउंड के साथ एक मुलाकात
-• एक <a href="https://niantic.helpshift.com/hc/faq/4945-what-is-the-lucky-trinket/">लकी चार्म</a> प्राप्त करने का मौका, जो आपको अपनी पसंद के दोस्त के साथ तुरंत लकी दोस्त बनने की अनुमति देगा
+• एक <a href="https://scopelyexplore.helpshift.com/hc/faq/1147-what-is-the-lucky-trinket/">लकी चार्म</a> प्राप्त करने का मौका, जो आपको अपनी पसंद के दोस्त के साथ तुरंत लकी दोस्त बनने की अनुमति देगा
 •कई ज़ाइगार्ड सेल
 • ज़ाइगार्ड जैकेट अवतार आइटम
 • और भी बहुत कुछ! 
 
-23 से 27 फ़रवरी तक ट्रेनर पास टास्क से मिलने वाले पॉइंट के अलावा 150 बोनस GO पॉइंट प्राप्त कर सकते हैं। 28 फ़रवरी और 1 मार्च के ग्लोबल इवेंट में पॉइंट कमाने की कोई सीमा नहीं है!
+23 से 27 फ़रवरी तक ट्रेनर पास टास्क से मलिने वाले पॉइंट के अलावा 150 बोनस GO पॉइंट प्राप्त कर सकते हैं। 28 फ़रवरी और 1 मार्च के ग्लोबल इवेंट में पॉइंट कमाने की कोई सीमा नहीं है!
 
 RESOURCE ID: gotour_2026_welcome_global
 TEXT: Pokémon GO Tou : कालोस - ग्लोबल में आपका स्वागत है!
@@ -48754,16 +48782,16 @@ RESOURCE ID: heal_multiple_button
 TEXT: Heal ({0})
 
 RESOURCE ID: help_center_link
-TEXT: https://pokemongo.nianticlabs.com/support/contact/en
+TEXT: https://scopelyexplore.helpshift.com/hc/app/5-pokemon-go/
 
 RESOURCE ID: help_center_friends_link
-TEXT: https://niantic.helpshift.com/a/pokemon-go/?p=all&s=friends-gifting-trading&f=friend-list-friendship-levels-1614899618
+TEXT: https://scopelyexplore.helpshift.com/hc/faq/1138-friend-list-friendship-levels/
 
 RESOURCE ID: help_center_raid_log_link
 TEXT: https://niantic.helpshift.com/a/pokemon-go/?p=all&s=top-articles&f=sharing-raid-logs
 
 RESOURCE ID: helpshift_sharing_game_logs
-TEXT: https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/3325-sharing-game-logs/
+TEXT: https://scopelyexplore.helpshift.com/hc/faq/849-sharing-game-logs/
 
 RESOURCE ID: hemisphere_holiday_tr_name
 TEXT: हॉलिडे पार्ट 1 - रेतीला खेल प्रीमियम सीमित समय वाली रिसर्च
@@ -48967,7 +48995,7 @@ RESOURCE ID: home_pokemon_confirmation
 TEXT: क्या आपको वाकई {0} पोकेमॉन को भेजना है?
 
 RESOURCE ID: home_privacy_warning
-TEXT: Pokémon GO को Pokémon HOME से कनेक्ट करने पर, पोकेमॉन को भेजते समय कुछ सीमित जानकारी Pokémon Company के साथ शेयर की जाएगी। ज़्यादा जानकारी के लिए, कृपया यह <a href="https://niantic।helpshift।com/a/pokemon-go/?s=accessories-and-services&f=sending-pokemon-to-pokemon-home">सहायता लेख</a> देखें। Pokémon Company के साथ शेयर किया गया डेटा Pokémon Company की निजता नीति के अधीन है।
+TEXT: Pokémon GO को Pokémon HOME से कनेक्ट करने पर, पोकेमॉन को भेजते समय कुछ सीमति जानकारी Pokémon Company के साथ शेयर की जाएगी। ज़्यादा जानकारी के लिए, कृपया यह <a href="https://scopelyexplore.helpshift.com/hc/faq/1339-sending-pokemon-to-pokemon-home/">सहायता लेख</a> देखें। Pokémon Company के साथ शेयर कयिा गया डेटा Pokémon Company की नजिता नीति के अधीन है।
 
 RESOURCE ID: home_recharge_time_day_hour
 TEXT: चार्ज होने में {0} दिन, {1} घंटा
@@ -53365,10 +53393,10 @@ RESOURCE ID: jp_2026_ana_title
 TEXT: आसमानी उड़ान
 
 RESOURCE ID: jp_iap_link1
-TEXT: https://niantic.helpshift.com/hc/ja/6-pokemon-go/faq/2046-%E8%B3%87%E9%87%91%E6%B1%BA%E6%B8%88%E6%B3%95%E3%81%AB%E5%9F%BA%E3%81%A4%E3%81%8F%E8%A1%A8%E7%A4%BA/?s=others&f=%E8%B3%87%E9%87%91%E6%B1%BA%E6%B8%88%E6%B3%95%E3%81%AB%E5%9F%BA%E3%81%A4%E3%81%8F%E8%A1%A8%E7%A4%BA&l=ja&p=web
+TEXT: https://scopelyexplore.helpshift.com/hc/ja/5-pokemon-go/faq/1492-%E8%B3%87%E9%87%91%E6%B1%BA%E6%B8%88%E6%B3%95%E3%81%AB%E5%9F%BA%E3%81%A4%E3%81%8F%E8%A1%A8%E7%A4%BA/
 
 RESOURCE ID: jp_iap_link2
-TEXT: https://niantic.helpshift.com/hc/ja/6-pokemon-go/faq/150-%E7%89%B9%E5%AE%9A%E5%95%86%E5%8F%96%E5%BC%95%E6%B3%95%E3%81%AB%E5%9F%BA%E3%81%A4%E3%81%8F%E8%A1%A8%E7%A4%BA/?s=others&f=%E8%B3%87%E9%87%91%E6%B1%BA%E6%B8%88%E6%B3%95%E3%81%AB%E5%9F%BA%E3%81%A4%E3%81%8F%E8%A1%A8%E7%A4%BA&l=ja&p=web
+TEXT: https://scopelyexplore.helpshift.com/hc/ja/5-pokemon-go/faq/1490-%E7%89%B9%E5%AE%9A%E5%95%86%E5%8F%96%E5%BC%95%E6%B3%95%E3%81%AB%E5%9F%BA%E3%81%A4%E3%81%8F%E8%A1%A8%E7%A4%BA/
 
 RESOURCE ID: jp_iap_linkname1
 TEXT: लिंक 1
@@ -53672,6 +53700,12 @@ TEXT: स्पेस
 
 RESOURCE ID: keyboard_symbols
 TEXT: सिम्बल
+
+RESOURCE ID: kindling_2026_mini_collection
+TEXT: Kanto Homecoming: Road to Mewtwo
+
+RESOURCE ID: kindling_2026_mini_collection_desc
+TEXT: Catch the Pokémon from the Kanto Homecoming Timed Research to encounter Mewtwo!
 
 RESOURCE ID: kingler_gmax_tr_2025_title
 TEXT: जायगैंटामैक्स किंगलर प्रीमियम सीमित समय वाली रिसर्च
@@ -56545,7 +56579,7 @@ RESOURCE ID: lobby_ready_progress
 TEXT: {0} of {1} ready
 
 RESOURCE ID: lobby_shield_break_power
-TEXT: {0}/{1} Shield break potential
+TEXT: {0}/{1} शील्ड तोड़ पोटेंशल
 
 RESOURCE ID: local_bonus_event_tag
 TEXT: Local Bonus
@@ -59106,7 +59140,7 @@ RESOURCE ID: mega_raid_hour
 TEXT: मेगा बोनस आवर: [Candy]
 
 RESOURCE ID: mega_raid_shiny_boost
-TEXT: Increased chance of encountering Shiny Pokémon from Mega Raids
+TEXT: मेगा रेड से शाइनी पोकेमॉन से मुलाकात होने की अधकि संभावना
 
 RESOURCE ID: mega_raids_increase
 TEXT: मेगा रेड की संख्या बढ़ी
@@ -59180,10 +59214,10 @@ at SHA 12701f1c07ae7f07a5d50583f697320977df7988
 Pipeline 1139111, job 13470914
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-08-18T00:48:15.368257+00:00 for hi-IN
-at SHA 4c5aa5ac97f
-Pipeline 3880013, job 57040572
-Patch from: 0.423.1-SHA-70644676-RC1, 0.425.0-SHA-73e817e6-RC3, 0.427.0-SHA-bafb3348-RC1
+TEXT: Built at 2026-08-21T22:45:32.872454+00:00 for hi-IN
+at SHA 222138e7072
+Pipeline 3890765, job 57214802
+Patch from: 0.425.0-SHA-e7185dda-RC1, 0.423.1-SHA-70644676-RC1, 0.427.0-SHA-fc729f25-RC2
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: Timed Research: Choose Your Fighting Type
@@ -59501,7 +59535,7 @@ RESOURCE ID: mountain_cup_great_title
 TEXT: Mountain Cup: Great League Edition
 
 RESOURCE ID: move_mega_evo_boost_bonus
-TEXT: MEGA EVOLUTION BONUS
+TEXT: मेगा एवोलूशन बोनस
 
 RESOURCE ID: move_name_0001
 TEXT: थंडर शॉक
@@ -67524,7 +67558,7 @@ RESOURCE ID: poi_sub_failed_error
 TEXT: नॉमिनेशन सबमिट नहीं किया जा सका। कृपया फिर से कोशिश करें।
 
 RESOURCE ID: poi_sub_faq_web_link
-TEXT: https://niantic.helpshift.com/a/wayfarer/?s=wayspot-criteria
+TEXT: https://scopelyexplore.helpshift.com/hc/section/158-wayspot-criteria/
 
 RESOURCE ID: poi_sub_gallery_permission_desc
 TEXT: अपनी इमेज गैलरी का इस्तेमाल करके पोकेस्टॉप नॉमिनेशन सबमिट करने के लिए, कृपया डिवाइस के सेटिंग मेन्यू में जाकर ज़रूरी अनुमतियां दें।
@@ -67632,7 +67666,7 @@ RESOURCE ID: poi_sub_submit_button
 TEXT: सबमिट करें
 
 RESOURCE ID: poi_sub_suggestion_web_link
-TEXT: https://niantic.helpshift.com/a/wayfarer/?p=web&s=wayspot-eligibility
+TEXT: https://scopelyexplore.helpshift.com/hc/faq/1980-eligibility-criteria/
 
 RESOURCE ID: poi_sub_surrounding_img_desc
 TEXT: इस फ़ोटो का इस्तेमाल आपके आस-पास की जगह का आकलन करने के लिए किया जाएगा।
@@ -80752,28 +80786,28 @@ RESOURCE ID: pvp_weak_network_connection
 TEXT: कनेक्शन कमज़ोर है
 
 RESOURCE ID: pxp_2026_loc_raids_academy
-TEXT: SF Raids! – California Academy of Sciences
+TEXT: SF रेड! – California Academy of Sciences
 
 RESOURCE ID: pxp_2026_loc_raids_description
-TEXT: Explore San Francisco during PokémonXP and enjoy special in-person raids at certain locations that feature Raid Bosses with a San Francisco Location Background.
+TEXT: पोकेमॉन XP के चलते समय, सैन फ़्रांसस्किो को एक्सप्लोर करें और चुनिंदा जगहों पर होने वाले स्पेशल प्रत्यक्ष रेड का आनंद लें, जनिमें सैन फ़्रांसस्किो लोकेशन बैकग्राउंड वाले रेड बॉस होंगे।
 
 RESOURCE ID: pxp_2026_loc_raids_dolores
-TEXT: SF Raids! – Dolores Park
+TEXT: SF रेड! – Dolores Park
 
 RESOURCE ID: pxp_2026_loc_raids_howard_st
-TEXT: SF Raids! – Howard Street
+TEXT: SF रेड! – Howard Street
 
 RESOURCE ID: pxp_2026_loc_raids_lombard
-TEXT: SF Raids! – Lombard Street
+TEXT: SF रेड! – Lombard Street
 
 RESOURCE ID: pxp_2026_loc_raids_pier_39
-TEXT: SF Raids! – Pier 39
+TEXT: SF रेड! – Pier 39
 
 RESOURCE ID: pxp_2026_loc_raids_transit_park
-TEXT: SF Raids! – Salesforce Park
+TEXT: SF रेड! – Salesforce Park
 
 RESOURCE ID: pxp_2026_loc_raids_wharf
-TEXT: SF Raids! – Fisherman’s Wharf
+TEXT: SF रेड! – Fisherman’s Wharf
 
 RESOURCE ID: pxp_worlds_event_name_2026
 TEXT: पोकेमॉन XP एंड 2026 वर्ल्ड चैंपयिनशपि
@@ -80785,10 +80819,10 @@ RESOURCE ID: qr_decode_problem
 TEXT: QR कोड की पहचान नहीं की जा सकी। कृपया मैन्यूअल इनपुट से कोशिश करें।
 
 RESOURCE ID: qualifier_limited _one_event_raid
-TEXT: Note: Certain special event raids can only be completed by each Trainer once.
+TEXT: ध्यान दें - कुछ वशिेष इवेंट रेड को हर ट्रेनर केवल एक बार ही पूरा कर सकते हैं।
 
 RESOURCE ID: qualifier_limited_daily_event_raid
-TEXT: Note: Certain special event raids can only be completed by each Trainer once per day.
+TEXT: ध्यान दें - कुछ वशिेष इवेंट रेड को हर ट्रेनर दनि में केवल एक बार ही पूरा कर सकते हैं।
 
 RESOURCE ID: quest_walk
 TEXT: मिशन : {0} km एक्सप्लोर करें
@@ -81287,13 +81321,13 @@ RESOURCE ID: quest_branch_choose_la_reine_desc
 TEXT: अपने फ़ुरफ़्रू के सभी आम रिजनल ट्रिम को इवेंट के समाप्त होने तक क्वीन कट में बदलने के लिए, यह ऑप्शन चुनें। अपने फ़ुरफ़्रू के लुक को किसी एक कट से दूसरे कट में बदलने के लिए 25 फ़ुरफ़्रू कैंडी और 10,000 स्टार-डस्ट लगेंगे।
 
 RESOURCE ID: quest_branch_choose_mega_chesnaught
-TEXT: Choose Chespin
+TEXT: चेस्पनि चुनें
 
 RESOURCE ID: quest_branch_choose_mega_delphox
-TEXT: Choose Fennekin
+TEXT: फ़ेनेकन चुनें
 
 RESOURCE ID: quest_branch_choose_mega_greninja
-TEXT: Choose Froakie
+TEXT: फ़्रोकी चुनें
 
 RESOURCE ID: quest_branch_choose_oshawott_desc
 TEXT: सी ऑटर पोकेमॉन, ऑशावॉट के साथ एक अतिरिक्त मुलाकात के लिए इस पथ का चयन करें। इंसेंस से ऑशावॉट को आकर्षित करने की संभावना बढ़ जाती है।
@@ -81358,22 +81392,22 @@ TEXT: इस ऑप्शन को चुन कर, अपने GO Tour : क
 GO Tour : कालोस – ग्लोबल के समय, आप अनोन Y के साथ एक मुलाकात देने वाले अलग-अलग फ़ील्ड रिसर्च टास्क भी प्राप्त कर पाएंगे।
 
 RESOURCE ID: quest_branch_wcs_choose_mega_chesnaught
-TEXT: Choose Chespin
+TEXT: चेस्पनि चुनें
 
 RESOURCE ID: quest_branch_wcs_choose_mega_delphox
-TEXT: Choose Fennekin
+TEXT: फ़ेनेकन चुनें
 
 RESOURCE ID: quest_branch_wcs_choose_mega_greninja
-TEXT: Choose Froakie
+TEXT: फ़्रोकी चुनें
 
 RESOURCE ID: quest_branch_wcs_choose_mega_chesnaught_desc
-TEXT: Choose this path for an encounter with Chespin, the Spiny Nut Pokémon, along with enough Chesnaught Mega Energy to Mega Evolve a Chesnaught for the first time.
+TEXT: कंटीले नट पोकेमॉन, चेस्पनि से मुलाकात पाने के लिए इस पथ को चुनें। और, साथ ही एक चेसनॉट को पहली बार मेगा एवॉल्व करने के लिए पर्याप्त चेसनॉट मेगा एनर्जी भी पाएँ।
 
 RESOURCE ID: quest_branch_wcs_choose_mega_delphox_desc
-TEXT: Choose this path for an encounter with Fennekin, the Fox Pokémon, along with enough Delphox Mega Energy to Mega Evolve a Delphox for the first time.
+TEXT: फ़ॉक्स पोकेमॉन, फ़ेनेकन से मुलाकात पाने के लिए इस पथ को चुनें। और, साथ ही एक डेलफ़ॉक्स को पहली बार मेगा एवॉल्व करने के लिए पर्याप्त डेलफ़ॉक्स मेगा एनर्जी भी पाएँ।
 
 RESOURCE ID: quest_branch_wcs_choose_mega_greninja_desc
-TEXT: Choose this path for an encounter with Froakie, the Bubble Frog Pokémon, along with enough Greninja Mega Energy to Mega Evolve a Greninja for the first time.
+TEXT: बबल फ़्रॉग पोकेमॉन, फ़्रोकी से मुलाकात पाने के लिए इस पथ को चुनें। और, साथ ही एक ग्रेनिंजा को पहली बार मेगा एवॉल्व करने के लिए पर्याप्त ग्रेनिंजा मेगा एनर्जी भी पाएँ।
 
 RESOURCE ID: quest_branching_special_dialogue_1
 TEXT: आपसे मिलकर बहुत खुशी हुई, %PLAYERNAME%! हमारे सामने एक रोमांचक रिसर्च है, लेकिन मुझे यह तय करने में आपकी मदद चाहिए कि हमें किस पर ढ्यान केंद्रित करना चाहिए।
@@ -81529,7 +81563,7 @@ RESOURCE ID: quest_catch_celebi_types_plural
 TEXT: {0} ग्रास या साइकिक टाइप पोकेमॉन पकड़ें
 
 RESOURCE ID: quest_catch_chespin_family_plural
-TEXT: Catch {0} Chespin, Quilladin, or Chesnaught
+TEXT: {0} चेस्पनि, क्वलिडनि, या चेसनॉट पकड़ें
 
 RESOURCE ID: quest_catch_collection_district_plural
 TEXT: कलेक्शन डिस्ट्रिक्ट में {0} पोकेमॉन पकड़ें
@@ -81577,13 +81611,13 @@ RESOURCE ID: quest_catch_feed_singular
 TEXT: बेरी का इस्तेमाल करके पोकेमॉन पकड़ें
 
 RESOURCE ID: quest_catch_fennekin_family_plural
-TEXT: Catch {0} Fennekin, Braixen, or Delphox
+TEXT: {0} फ़ेनेकन, ब्रेक्सन या डेलफ़ॉक्स पकड़ें
 
 RESOURCE ID: quest_catch_friendship_district_plural
 TEXT: फ़्रेंडशिप डिस्ट्रिक्ट में {0} पोकेमॉन पकड़ें
 
 RESOURCE ID: quest_catch_froakie_family_plural
-TEXT: Catch {0} Froakie, Frogadier, or Greninja
+TEXT: {0} फ़्रोकी, फ़्रॉगाडीयर या ग्रेनिंजा पकड़ें
 
 RESOURCE ID: quest_catch_furfou_singular
 TEXT: फ़ुरफ़्रू पकड़ें
@@ -81632,6 +81666,9 @@ TEXT: एक पोकेमॉन पकड़ें जिसकी पहल�
 
 RESOURCE ID: quest_catch_kanto_pokemon
 TEXT: Catch {0} Pokémon originally discovered in the Kanto region
+
+RESOURCE ID: quest_catch_kanto_pokemon_days
+TEXT: Catch Pokémon originally discovered in the Kanto region on {0} different days
 
 RESOURCE ID: quest_catch_kanto_starters_plural
 TEXT: {0} बल्बासॉर, चारमैंडर या स्क्वर्टल पकड़ें
@@ -82684,25 +82721,25 @@ RESOURCE ID: quest_defeat_mega_mewtwo
 TEXT: मेगा म्यूटू X या मेगा म्यूटू Y को हराएँ
 
 RESOURCE ID: quest_defeat_mega_dragonite_singular
-TEXT: Defeat Mega Dragonite
+TEXT: मेगा ड्रैगनाइट को हराएँ
 
 RESOURCE ID: quest_defeat_mega_falinks_singular
-TEXT: Defeat Mega Falinks
+TEXT: मेगा फ़ेलिंक्स को हराएँ
 
 RESOURCE ID: quest_defeat_mega_malamar_singular
-TEXT: Defeat Mega Malamar
+TEXT: मेगा मैलामार को हराएँ
 
 RESOURCE ID: quest_defeat_mega_raichu_singular
-TEXT: Defeat Mega Raichu
+TEXT: मेगा राइचू X या मेगा राइचू Y को हराएँ
 
 RESOURCE ID: quest_defeat_mega_skarmory_singular
-TEXT: Defeat Mega Skarmory
+TEXT: मेगा आकार्मर को हराएँ
 
 RESOURCE ID: quest_defeat_mega_starmie_singular
-TEXT: Defeat Mega Starmie
+TEXT: मेगा स्टारमी को हराएँ
 
 RESOURCE ID: quest_defeat_mega_victreebel_singular
-TEXT: Defeat Mega Victreebel
+TEXT: मेगा वक्ट्रिीबेल को हराएँ
 
 RESOURCE ID: quest_defeat_rocket_singular
 TEXT: P
@@ -87096,13 +87133,13 @@ RESOURCE ID: quest_snapshot_regi_steel
 TEXT: रेजीस्टील का स्नैपशॉट लें
 
 RESOURCE ID: quest_snapshot_storage_chespin
-TEXT: Take a snapshot of your Chespin
+TEXT: अपने चेस्पनि का स्नैपशॉट लें
 
 RESOURCE ID: quest_snapshot_storage_fennekin
-TEXT: Take a snapshot of your Fennekin
+TEXT: अपने फ़ेनेकन का स्नैपशॉट लें
 
 RESOURCE ID: quest_snapshot_storage_froakie
-TEXT: Take a snapshot of your Froakie
+TEXT: अपने फ़्रोकी का स्नैपशॉट लें
 
 RESOURCE ID: quest_snapshot_storage_bug_unique_plural
 TEXT: Take snapshots of {0} different Bug-type Pokémon that you caught
@@ -97202,13 +97239,13 @@ RESOURCE ID: quest_special_dialogue_zygarde_1_2
 TEXT: Curiously, several mentioned amorphous, green blobs they found along Routes. Some Trainers even thought they might be alive!
 
 RESOURCE ID: quest_special_dialogue_zygarde_1_2_temp
-TEXT: Curiously, several mentioned unusual activity along nearby Routes. Some Trainers even spotted something they couldn’t identify!
+TEXT: रोचक बात तो यह है, कि कई लोगों ने आस पास के रूट पर असामान्य गतविधियिों के बारे में बताया है। कुछ ट्रेनर ने तो कुछ ऐसा भी देखा है जसिकी वे पहचान भी नहीं कर पाए!
 
 RESOURCE ID: quest_special_dialogue_zygarde_1_3
 TEXT: मेरे पास कुछ जानकारी है जो हमें बता सकती है कि यह अजीब चीज़ क्या है, लेकिन उससे पहले मैं अपनी शोध सामग्री देखूँगा और इस पर लिखे हुए आर्टिकल को भी दुबारा पढ़ने की कोशिश करूँगा|
 
 RESOURCE ID: quest_special_dialogue_zygarde_1_3_temp
-TEXT: I have a theory about what might be drawing attention out there, but I’d like to look through my research materials a tad more first. Maybe even reread that article from earlier...
+TEXT: मुझे लगता है की मुझे पता लग गया है कि वह क्या है जो बाहर ध्यान बटोर रहा है। पर पहले मुझे अपने रसिर्च का सामान और ध्यान से देख लेना चाहिए, पछिले समय के उस आर्टकिल भी फरि से पढ़ लेता हूँ...
 
 RESOURCE ID: quest_special_dialogue_zygarde_1_4
 TEXT: In the meantime, please continue your fieldwork. I’m positive I’ll have a less amorphous update by the time you get back.
@@ -97247,7 +97284,7 @@ RESOURCE ID: quest_special_dialogue_zygarde_3_5
 TEXT: And as for where can you find those cells... Do you recall those green blobs that have been found along Routes? I reckon they were, in fact, Zygarde Cells!
 
 RESOURCE ID: quest_special_dialogue_zygarde_3_5_temp
-TEXT: And where can you find those Cells? Well, do you recall the unusual activity along Routes I mentioned earlier? I reckon it may have been caused by Zygarde Cells!
+TEXT: और वो सेल कहाँ से मलि सकते हैं? क्या आपको वह असामान्य गतविधिि के बारे में याद है जसिकी मैं बात कर रहा था? मुझे लगता है कि वह ज़ाइगार्ड सेल के कारण हो रही थी!
 
 RESOURCE ID: quest_special_dialogue_zygarde_3_6
 TEXT: Could I ask you to test that hypothesis, %PLAYERNAME%?
@@ -102002,7 +102039,7 @@ RESOURCE ID: quest_wcs_2024_spin_02
 TEXT: Collect & Trade Corner में पोकेस्टॉप को स्पिन करें
 
 RESOURCE ID: quest_wcs_2026_catch_water_or_normal_plural
-TEXT: Catch {0} Water- or Normal-type Pokémon
+TEXT: {0} वॉटर या नॉर्मल टाइप पोकेमॉन पकड़ें
 
 RESOURCE ID: quest_wcs_anaheim_scav_hunt_00
 TEXT: Pokémon GO ज़ोन के पोकेस्टॉप को स्पिन करें
@@ -102017,13 +102054,13 @@ RESOURCE ID: quest_wcs_anaheim_scav_hunt_03
 TEXT:  WCS Arena के पोकेस्टॉप को स्पिन करें
 
 RESOURCE ID: quest_wcs_san_francisco_scav_hunt_00
-TEXT: Spin the “Giant Pikachu at Yerba Buena Gardens” PokéStop
+TEXT: "येरबा ब्वेना गार्डंज़" पोकेस्टॉप को स्पनि करें
 
 RESOURCE ID: quest_wcs_san_francisco_scav_hunt_01
-TEXT: Spin the “Rayquaza Trolley” PokéStop
+TEXT: "रेक्वेज़ा ट्रॉली" पोकेस्टॉप को स्पनि करें
 
 RESOURCE ID: quest_wcs_san_francisco_scav_hunt_02
-TEXT: Spin the “World Championships Stage” PokéStop
+TEXT: "वर्ल्ड चैंपयिनशपि स्टेज" पोकेस्टॉप को स्पनि करें
 
 RESOURCE ID: quest_weepinbell_evolve_b_plural
 TEXT:  {0} वीपिनबेल को विकसित करें
@@ -107598,118 +107635,118 @@ RESOURCE ID: rally_paris_2025_stamp_description_7
 TEXT: अपनी एडवेंचर यात्रा में क्लासिक पेरिसियाई दृश्यों के संग, Louvre के सामने स्थित Jardin des Tuileries की आनंददायी सैर का अनुभव करें।
 
 RESOURCE ID: rally_pxp_2026_title
-TEXT: PokémonXP 2026 Stamp Rally
+TEXT: पोकेमॉन XP 2026 स्टैम्प रैली
 
 RESOURCE ID: rally_pxp_2026_desc
-TEXT: Earn encounters with Pikachu wearing a Cosmog-themed spacesuit by completing the rally!
+TEXT: रैली पूरी कर कॉज़्मॉग की थीम वाला स्पेससूट पहने पकिाचू के संग मुलाकातें पाएँ!
 
 RESOURCE ID: rally_pxp_2026_desc_detail
-TEXT: Collect stamps by visiting GO Stamp Rally PokéStops at scenic locations around San Francisco.
+TEXT: सैन फ़्रांसस्किो के सुंदर, मनमोहक स्थानों पर बने कई GO स्टैम्प रैली पोकेस्टॉप पर जाएँ और स्टैम्प इकट्ठा करें!
 
 RESOURCE ID: rally_pxp_2026_location
-TEXT: San Francisco, California, USA
+TEXT: सैन फ़्रांसस्किो, कैलफ़िोर्नयिा, अमेरकिा
 
 RESOURCE ID: rally_pxp_2026_rewards_desc
-TEXT: Complete this stamp rally to earn up to six encounters with Pikachu wearing a Cosmog-themed spacesuit featuring an exclusive San Francisco Location Background.
+TEXT: रैली पूरी कर सैन फ़्रांसस्किो के एक्सक्लूज़वि लोकेशन बैकग्राउंड वाले कॉज़्मॉग की थीम वाला स्पेससूट पहने पकिाचू के संग 6 बार तक मुलाकातें पाएँ!
 
 RESOURCE ID: rally_pxp_2026_stamp_description_1
-TEXT: A small but iconic Ross Alley bakery that’s been in operation since 1962.
+TEXT: 1962 से चल रही, रॉस ऐली की एक छोटी व मशहूर बेकरी।
 
 RESOURCE ID: rally_pxp_2026_stamp_description_10
-TEXT: A quirky arcade museum packed with antique coin-operated games and mechanical curiosities.
+TEXT: सकिों से चलने वाली पुरानी गेम और यांत्रकि अजूबों से भरा अनोखा आर्केड संग्रहालय।
 
 RESOURCE ID: rally_pxp_2026_stamp_description_11
-TEXT: A historic chocolate-factory complex turned waterfront hangout.
+TEXT: एक ऐतहिासकि चॉकलेट फ़ैक्ट्री, जो अब वॉटरफ़्रंट पर घूमने-फरिने की जगह बन चुकी है।
 
 RESOURCE ID: rally_pxp_2026_stamp_description_12
-TEXT: A 3.5-mile Pacific-facing beach shaped by strong surf, fog, and coastal winds.
+TEXT: प्रशांत महासागर की ओर फैला 5 कि.मी. से भी लंबा समुद्र तट, जसिे तेज़ लहरों, धुंद और तटीय हवाओं ने आकार दयिा है।
 
 RESOURCE ID: rally_pxp_2026_stamp_description_13
-TEXT: World-class modern art museum with bold architecture and major works from contemporary and 20th-century artists.
+TEXT: बोल्ड वास्तुकला में बना वर्ल्ड-क्लास आधुनकि आर्ट म्यूज़यिम, जसिमें कंटेम्पररी और 20वीं सदी के कलकारों की प्रमुख कृतयिाँ हैं।
 
 RESOURCE ID: rally_pxp_2026_stamp_description_14
-TEXT: A refurbished 1898 transit terminal on the Embarcadero that now functions as a food hall and market.
+TEXT: एम्बार्कादेरो पर 1898 का रीफर्बशि कयिा ट्रांज़टि टर्मनिल, जोकि अब फ़ूड हॉल और मार्केट है।
 
 RESOURCE ID: rally_pxp_2026_stamp_description_15
-TEXT: San Francisco’s 1915 Beaux-Arts civic building, rebuilt after the 1906 earthquake.
+TEXT: सैन फ़्रांसस्किो की 1915 की ब्यू-आर्ट्स सविकि बल्डििंग, जो 1906 के भूकंप के बाद दोबारा बनाई गई थी।
 
 RESOURCE ID: rally_pxp_2026_stamp_description_16
-TEXT: The heart of SF Japantown, marked by its Peace Pagoda.
+TEXT: पीस पगोडा से सजा, यह है सैन फ़्रांसस्किो जापानटाउन का दलि।
 
 RESOURCE ID: rally_pxp_2026_stamp_description_17
-TEXT: A hands-on museum for kids near Yerba Buena Gardens.
+TEXT: येरबा ब्वेना गार्डंज़ के पास बच्चों के लिए इंटरैक्टवि म्यूज़यिम।
 
 RESOURCE ID: rally_pxp_2026_stamp_description_18
-TEXT: A playful waterfront photo stop designed and created by the married artist duo Claes Oldenburg and Coosje van Bruggen.
+TEXT: कलाकार दंपति क्लास ओल्डनबर्ग और कूसये वान ब्रुगन द्वारा मलिकर बनाया गया वॉटरफ़्रंट का मनोरंजक फ़ोटो स्पॉट।
 
 RESOURCE ID: rally_pxp_2026_stamp_description_19
-TEXT: A colorful mosaic staircase featuring a delicate floral motif.
+TEXT: कोमल फूलों के डजिाइन से सजीं, रंग-बरिंगी मोज़ेक सीढ़यिाँ।
 
 RESOURCE ID: rally_pxp_2026_stamp_description_2
-TEXT: The ruins of an enormous 1890s public bathhouse built by Adolph Sutro, now a coastal leisure site.
+TEXT: एडोल्फ़ सुत्रो द्वारा 1890 के दशक में बनवाए गए वशिाल पब्लकि स्नानघर के अवशेष, जो अब तटीय मनोरंजन स्थल है।
 
 RESOURCE ID: rally_pxp_2026_stamp_description_20
-TEXT: Home to the Golden State Warriors.
+TEXT: गोल्डन स्टेट वॉरयिर्ज़ का होम ग्राउंड।
 
 RESOURCE ID: rally_pxp_2026_stamp_description_21
-TEXT: A tribute to one of baseball’s greatest players and a popular gathering point outside Oracle Park.
+TEXT: ओरेकल पार्क के बाहर एकट्ठे होने का प्रसद्धि स्पॉट, जोकि बेसबॉल के महानतम खलिाड़यिों में से एक को समर्पति है।
 
 RESOURCE ID: rally_pxp_2026_stamp_description_22
-TEXT: This paddock has been home to Golden Gate Park’s resident bison herd since the 1890s.
+TEXT: गोल्डन गेट पार्क का बाइसन झुंड, 1890 के दशक के समय से इसी बाड़े में रहता आया है।
 
 RESOURCE ID: rally_pxp_2026_stamp_description_23
-TEXT: A formal plaza created for the 1894 California Midwinter International Exposition, now neighbored by the de Young Museum and California Academy of Sciences.
+TEXT: 1894 की कैलफ़िोर्नयिा मडिविंटर इंटरनेशनल एक्सपोज़शिन के लिए बनाया गया औपचारकि प्लाज़ा, जसिके आस-पास अब दे यंग म्यूज़यिम और कैलफ़िोर्नयिा एकेडमी ऑफ़ साइंसेज़ हैं।
 
 RESOURCE ID: rally_pxp_2026_stamp_description_24
-TEXT: A charming Golden Gate Park lakeside spot offering snacks and paddle boat rentals.
+TEXT: गोल्डन गेट पार्क में झील के कनिारे का प्यारी-सा स्पॉट, यहाँ स्नैक्स भी हैं और पैडल बोट भी करिाए पर मलितीं हैं।
 
 RESOURCE ID: rally_pxp_2026_stamp_description_25
-TEXT: A Civil War–era brick fortress tucked beneath the Golden Gate Bridge.
+TEXT: गोल्डन गेट ब्रजि के नीचे बसा, अमेरकिी गृहयुद्ध के ज़माने का ईंटों से बना कलिा।
 
 RESOURCE ID: rally_pxp_2026_stamp_description_26
-TEXT: A former military post turned national park.
+TEXT: यह नेशनल पार्क कसिी समय सैन्य छावनी हुआ करता था।
 
 RESOURCE ID: rally_pxp_2026_stamp_description_27
-TEXT: A sandy Presidio beach with close-up bridge views.
+TEXT: प्रेसडियिो का रेतीला बीच, जहाँ से ब्रजि का पास से व्यू दखिता है।
 
 RESOURCE ID: rally_pxp_2026_stamp_description_28
-TEXT: A breezy waterfront lawn and popular picnic spot.
+TEXT: यह हवादार वॉटरफ़्रंट लॉन पकिनकि के लिए बड़ा लोकप्रयि स्पॉट है।
 
 RESOURCE ID: rally_pxp_2026_stamp_description_29
-TEXT: A 1986 sound sculpture by Peter Richards and George Gonzales that uses pipes, stone, and tidal movement to create low acoustic tones from the Bay.
+TEXT: पीटर रचिर्ड्ज़ और जॉर्ज गोंज़ालेस की 1986 का बनाया साउंड स्कल्पचर, जो पाइपों, पत्थर और ज्वार-भाटा के द्वारा खाड़ी से गहरी गूँजें पैदा करता है।
 
 RESOURCE ID: rally_pxp_2026_stamp_description_3
-TEXT: An art deco tower atop Telegraph Hill.
+TEXT: टेलीग्राफ़ हलि पर स्थति आर्ट डेको टावर।
 
 RESOURCE ID: rally_pxp_2026_stamp_description_30
-TEXT: One of the Presidio’s oldest footpaths.
+TEXT: प्रेसडियिो की सबसे पुरानी पगडंडयिों में से एक।
 
 RESOURCE ID: rally_pxp_2026_stamp_description_31
-TEXT: The Presidio Tunnel Tops’ main lawn, built over the Doyle Drive tunnels.
+TEXT: डॉयल ड्राइव की सुरंगों के ऊपर बना, प्रेसडियिो टनल टॉप्स का मुख्य लॉन।
 
 RESOURCE ID: rally_pxp_2026_stamp_description_32
-TEXT: A classic downtown shopping plaza and home to the San Francisco Nintendo Store!
+TEXT: डाउनटाउन का क्लासकि शॉपिंग प्लाज़ा, यहाँ सैन फ़्रांसस्किो का नन्टिेन्डो स्टोर भी है!
 
 RESOURCE ID: rally_pxp_2026_stamp_description_33
-TEXT: The ceremonial entrance to Chinatown on Grant Avenue, flanked by traditional stone lions.
+TEXT: ग्रांट एवेन्यू पर चाइनाटाउन का औपचारकि प्रवेशद्वार, इसके दोनों ओर पारंपरकि स्टाइल से बने पत्थर के शेर हैं।
 
 RESOURCE ID: rally_pxp_2026_stamp_description_4
-TEXT: A stone labyrinth near Eagle Point, accessible by coastal trail.
+TEXT: ईगल पॉइंट के पास पत्थर की भूलभुलैया, जहाँ तटीय पगडंडी से पहुँचा जा सकता है।
 
 RESOURCE ID: rally_pxp_2026_stamp_description_5
-TEXT: A 2011 Andy Goldsworthy installation in the Presidio made from eucalyptus branches laid in a winding line.
+TEXT: यूकेलप्टिस की शाखाओं को घुमावदार रेखा में बछिाकर बनाई गई, प्रेसडियिो में एंडी गोल्ड्सवर्थी की 2011 की कलाकृति।
 
 RESOURCE ID: rally_pxp_2026_stamp_description_6
-TEXT: A remnant of the 1915 Panama-Pacific International Exposition, rebuilt in permanent materials after the fair.
+TEXT: 1915 की पनामा-पैसफिकि अंतर्राष्ट्रीय प्रदर्शनी का अवशेष, जसिे मेले के समापन के बाद पक्के सामग्री से पुनर्नर्मिति कयिा गया था।
 
 RESOURCE ID: rally_pxp_2026_stamp_description_7
-TEXT: A lively North Beach green space boasting old-school SF character.
+TEXT: पुराने सैन फ्रांसस्किो के स्टाइल वाला, नॉर्थ बीच का चहल पहल भरा पार्क।
 
 RESOURCE ID: rally_pxp_2026_stamp_description_8
-TEXT: Completed in 1972, this William Pereira–designed skyscraper is one of the most recognizable shapes in the San Francisco skyline.
+TEXT: 1972 में बनकर तैयार हुई, वलियिम पेरेरा की डज़िाइन की गई यह गगनचुंबी बल्डििंग, सैन फ़्रांसस्किो के क्षतिजि की सबसे पहचानी जाने वाली आकृतयिों में से एक है।
 
 RESOURCE ID: rally_pxp_2026_stamp_description_9
-TEXT: A famous row of colorful Victorian homes.
+TEXT: रंग-बरिंगे वक्टिोरयिन घरों की प्रसद्धि लड़ी।
 
 RESOURCE ID: rally_rewards_desc_general
 TEXT: मुलाकातें और रिवॉर्ड पाने के लिए स्टैम्प रैली को पूरा करें
@@ -108580,7 +108617,7 @@ RESOURCE ID: replay_water_research_day_event_name
 TEXT: रीप्ले - वॉटर रिसर्च डे
 
 RESOURCE ID: report_issues_link
-TEXT: https://pokemongo.nianticlabs.com/support/contact/en
+TEXT: https://scopelyexplore.helpshift.com/hc/app/5-pokemon-go/
 
 RESOURCE ID: report_route_subtitle
 TEXT: नीचे दी गई सूची से अधिकतम पाँच कारण चुनें।
@@ -108616,7 +108653,7 @@ RESOURCE ID: report_route_bug_info_zygarde
 TEXT: ज़ाइगार्ड सेल के हर रूट पर मिलने की गारंटी नहीं है।
 
 RESOURCE ID: report_route_bug_info_zygarde_temp
-TEXT: Zygarde Cells are not guaranteed to appear at the end of every Route.
+TEXT: ज़ाइगार्ड सेल हर रूट के अंत में सुनश्चिति रूप से नहीं दखिाई देते।
 
 RESOURCE ID: report_route_bug_reason_candy
 TEXT: इस रूट पर मेरे पार्टनर को जल्दी से कैंडी नहीं मिली।
@@ -109218,7 +109255,7 @@ RESOURCE ID: route_add_point
 TEXT: Set as a stop
 
 RESOURCE ID: route_appeal_info_link
-TEXT: https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/135-submitting-a-ban-appeal/
+TEXT: https://scopelyexplore.helpshift.com/hc/faq/1291-submitting-a-ban-appeal/
 
 RESOURCE ID: route_appealed_deletion_confirm_description
 TEXT: इस एक्शन को वापस नहीं किया जा सकता। यदि आप आगे बढ़ते हैं, तो यह रूट पूरी तरह से खो जाएगा और पुनर्प्राप्त करने योग्य नहीं होगा, और आपके द्वारा सबमिट की गई अपील की समीक्षा नहीं की जाएगी।
@@ -109971,7 +110008,7 @@ RESOURCE ID: route_gift_exchange_onboarding_body_2
 TEXT: मातेओ आपके गिफ़्ट को आपके ट्रेनर निकनेम से चिह्नित कर उसे दुनिया के किसी और देश में बैठे ट्रेनर को देगा, और बदले में आपको किसी अन्य ट्रेनर का गिफ़्ट प्राप्त होगा। आप इन उपहारों से आइटम और अंडे प्राप्त कर सकते हैं, और प्राप्त पोस्टकार्ड को पिन करके आप स्कैटरबग से भी मुलाकात कर सकते हैं!
 
 RESOURCE ID: route_guidelines_link
-TEXT: https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/4378-routes-guidelines/
+TEXT: https://scopelyexplore.helpshift.com/hc/faq/1219-routes-guidelines/
 
 RESOURCE ID: route_header_travel_time_label
 TEXT: ({0} min)
@@ -109992,7 +110029,7 @@ RESOURCE ID: route_last_trip_label
 TEXT: अंतिम ट्रिप
 
 RESOURCE ID: route_learn_more_url
-TEXT: https://niantic.helpshift.com/hc/faq/4184-routes-faq/
+TEXT: https://scopelyexplore.helpshift.com/hc/faq/1220-routes-faq/
 
 RESOURCE ID: route_list_context_title
 TEXT: List of PokéStops or Gyms
@@ -111425,7 +111462,7 @@ RESOURCE ID: rsvp_attendance_tutorial_link_text_key
 TEXT: आपका ट्रेनर निकनेम गेम में कहाँ-कहाँ दिखाई देगा, इसकी पुष्टि आप यहाँ से कर सकते हैं।
 
 RESOURCE ID: rsvp_attendance_tutorial_link_url_key
-TEXT: https://niantic.helpshift.com/hc/{0}/6-pokemon-go/faq/4286-controlling-your-experience-on-pokemon-go/
+TEXT: https://scopelyexplore.helpshift.com/hc/faq/1312-controlling-your-experience-in-pokemon-go/
 
 RESOURCE ID: rsvp_attendance_tutorial_message_key
 TEXT: आपके द्वारा दर्ज की गई भागीदारी योजना को अन्य ट्रेनर देख सकते हैं। आप इसे सेटिंग्स से कभी भी बदल सकते हैं।
@@ -112728,7 +112765,7 @@ RESOURCE ID: search_favorite_added
 TEXT: सर्च शब्द फ़ेवरेट में डाला गया
 
 RESOURCE ID: search_filter_help_url
-TEXT: https://niantic.helpshift.com/hc/faq/1486-searching-filtering-your-pokemon-inventory/
+TEXT: https://scopelyexplore.helpshift.com/hc/faq/1126-searching-filtering-your-pokemon-inventory/
 
 RESOURCE ID: search_keywords_button
 TEXT: SEE ALL SEARCH KEYWORDS
@@ -113299,16 +113336,16 @@ RESOURCE ID: season_pass_april2025_track_upgrade_header_description
 TEXT: अतिरिक्त रिवॉर्ड पायें और लेवल 100 पर <b>ज़र्नियस के साथ मुलाकात</b> को अनलॉक करें!
 
 RESOURCE ID: season_pass_april2025_upgrade_description
-TEXT: नीचे दिये गए रिवॉर्ड को अनलॉक करने के लिए GO पास डीलक्स - अप्रैल खरीदें!
-• ज़र्नियस के साथ एक मुलाकात
-• एक  <a href="https://niantic.helpshift.com/hc/faq/4945-what-is-the-lucky-trinket/"> लकी चार्म</a>, जो आपको अपनी पसंद के दोस्त के साथ तुरंत लकी दोस्त बनाएगा
-• और भी बहुत कुछ! 
+TEXT: नीचे दयिे गए रविॉर्ड को अनलॉक करने के लिए GO पास डीलक्स - अप्रैल खरीदें!
+• ज़र्नयिस के साथ एक मुलाकात
+• एक  <a href="https://scopelyexplore.helpshift.com/hc/faq/1147-what-is-the-lucky-trinket/"> लकी चार्म</a>, जो आपको अपनी पसंद के दोस्त के साथ तुरंत लकी दोस्त बनाएगा
+• और भी बहुत कुछ!
 
 RESOURCE ID: season_pass_april2025_upgrade_description_no_additional_legendary
-TEXT: नीचे दिये गए रिवॉर्ड को अनलॉक करने के लिए GO पास डीलक्स - अप्रैल खरीदें!
+TEXT: नीचे दयिे गए रविॉर्ड को अनलॉक करने के लिए GO पास डीलक्स - अप्रैल खरीदें!
 
-• एक  <a href="https://niantic.helpshift.com/hc/faq/4945-what-is-the-lucky-trinket/"> लकी चार्म</a>, जो आपको अपनी पसंद के दोस्त के साथ तुरंत लकी दोस्त बनाएगा
-• और भी बहुत कुछ! 
+• एक  <a href="https://scopelyexplore.helpshift.com/hc/faq/1147-what-is-the-lucky-trinket/"> लकी चार्म</a>, जो आपको अपनी पसंद के दोस्त के साथ तुरंत लकी दोस्त बनाएगा
+• और भी बहुत कुछ!
 
 RESOURCE ID: season_pass_april2026_event_duration
 TEXT: अप्रैल 7 - मई 5
@@ -113317,19 +113354,19 @@ RESOURCE ID: season_pass_april2026_track_upgrade_header_description
 TEXT: अतिरिक्त रिवॉर्ड पाएँ और रैंक 100 पर एक <b>लकी चार्म</b> अनलॉक करें!
 
 RESOURCE ID: season_pass_april2026_upgrade_description
-TEXT: नीचे दिये गए रिवॉर्ड को अनलॉक करने के लिए GO पास डीलक्स - अप्रैल खरीदें!
+TEXT: नीचे दयिे गए रविॉर्ड को अनलॉक करने के लिए GO पास डीलक्स - अप्रैल खरीदें!
 • एक सुपर इनक्यूबेटर
-• एक  <a href="https://niantic.helpshift.com/hc/faq/4945-what-is-the-lucky-trinket/"> लकी चार्म</a>, जो आपको अपनी पसंद के दोस्त के साथ तुरंत लकी दोस्त बनाएगा
-• और और-भी बहुत कुछ! 
+• एक  <a href="https://scopelyexplore.helpshift.com/hc/faq/1147-what-is-the-lucky-trinket/"> लकी चार्म</a>, जो आपको अपनी पसंद के दोस्त के साथ तुरंत लकी दोस्त बनाएगा
+• और और-भी बहुत कुछ!
 
 RESOURCE ID: season_pass_aug2025_event_duration
 TEXT: 5 अगस्त – 2 सितम्बर
 
 RESOURCE ID: season_pass_aug2025_upgrade_description
-TEXT: नीचे दिये गए रिवॉर्ड को अनलॉक करने के लिए GO पास डीलक्स - अगस्त खरीदें!
+TEXT: नीचे दयिे गए रविॉर्ड को अनलॉक करने के लिए GO पास डीलक्स - अगस्त खरीदें!
 • एक सुपर इनक्यूबेटर
-• एक  <a href="https://niantic.helpshift.com/hc/faq/4945-what-is-the-lucky-trinket/"> लकी चार्म</a>, जो आपको अपनी पसंद के दोस्त के साथ तुरंत लकी दोस्त बनाएगा
-• और और-भी बहुत कुछ! 
+• एक  <a href="https://scopelyexplore.helpshift.com/hc/faq/1147-what-is-the-lucky-trinket/"> लकी चार्म</a>, जो आपको अपनी पसंद के दोस्त के साथ तुरंत लकी दोस्त बनाएगा
+• और और-भी बहुत कुछ!
 
 RESOURCE ID: season_pass_august2026_event_duration
 TEXT: 4 अगस्त – 8 सतिम्बर
@@ -113341,7 +113378,7 @@ RESOURCE ID: season_pass_august2026_upgrade_description
 TEXT: नीचे दयिे गए रविॉर्ड को अनलॉक करने के लिए GO पास डीलक्स - अगस्त खरीदें!
 
 • अपने पहले पोकेस्टॉप स्पनि के लिए प्रतदिनि एक सिंगल-यूज़ इनक्यूबेटर प्राप्त करें
-• एक  <a href="https://niantic.helpshift.com/hc/faq/4945-what-is-the-lucky-trinket/"> लकी चार्म</a>, जो आपको अपनी पसंद के दोस्त के साथ तुरंत लकी दोस्त बनाएगा
+• एक  <a href="https://scopelyexplore.helpshift.com/hc/faq/1147-what-is-the-lucky-trinket/"> लकी चार्म</a>, जो आपको अपनी पसंद के दोस्त के साथ तुरंत लकी दोस्त बनाएगा
 • और-भी बहुत कुछ!
 
 RESOURCE ID: season_pass_base_track_title_april
@@ -113479,10 +113516,10 @@ RESOURCE ID: season_pass_december2025_track_upgrade_header_description
 TEXT: अतिरिक्त रिवॉर्ड जीत कर रैंक 20 पर <b>समयबद्ध इन्क्यूबेटर</b> अनलॉक करें!
 
 RESOURCE ID: season_pass_december2025_upgrade_description
-TEXT: नीचे दिये गए रिवॉर्ड को अनलॉक करने के लिए GO पास डीलक्स - दिसंबर खरीदें!
+TEXT: नीचे दयिे गए रविॉर्ड को अनलॉक करने के लिए GO पास डीलक्स - दसिंबर खरीदें!
 • एक सुपर इनक्यूबेटर
-• एक <a href="https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2358-incubators-hatching-pokemon-eggs/">समयबद्ध इन्क्यूबेटर</a>, जो एक अतिरिक्त असीमित उपयोग वाला इनक्यूबेटर है, जिसका उपयोग आप अंडे हैच करने हेतु सीमित समय के लिए कर सकते हैं!
-• और और-भी बहुत कुछ! 
+• एक <a href="https://scopelyexplore.helpshift.com/hc/faq/1118-incubators-hatching-pokemon-eggs/">समयबद्ध इन्क्यूबेटर</a>, जो एक अतरिक्ति असीमति उपयोग वाला इनक्यूबेटर है, जसिका उपयोग आप अंडे हैच करने हेतु सीमति समय के लिए कर सकते हैं!
+• और और-भी बहुत कुछ!
 
 RESOURCE ID: season_pass_details_link
 TEXT: अधिक जानकारी के लिए, <a href="https://pokemongolive.com/post/go-pass-test-2025">वेबसाइट</a> देखें।
@@ -113630,19 +113667,19 @@ RESOURCE ID: season_pass_january2026_event_duration
 TEXT: 6 जनवरी – 5 फ़रवरी
 
 RESOURCE ID: season_pass_january2026_upgrade_description
-TEXT: नीचे दिये गए रिवॉर्ड को अनलॉक करने के लिए GO पास डीलक्स - जनवरी खरीदें!
+TEXT: नीचे दयिे गए रविॉर्ड को अनलॉक करने के लिए GO पास डीलक्स - जनवरी खरीदें!
 • एक सुपर इनक्यूबेटर
-• एक  <a href="https://niantic.helpshift.com/hc/faq/4945-what-is-the-lucky-trinket/"> लकी चार्म</a>, जो आपको आपकी पसंद के एक दोस्त के साथ तुरंत लकी दोस्त बनाएगा
-• और और-भी बहुत कुछ! 
+• एक  <a href="https://scopelyexplore.helpshift.com/hc/faq/1147-what-is-the-lucky-trinket/"> लकी चार्म</a>, जो आपको आपकी पसंद के एक दोस्त के साथ तुरंत लकी दोस्त बनाएगा
+• और और-भी बहुत कुछ!
 
 RESOURCE ID: season_pass_july2025_event_duration
 TEXT: 1 जुलाई – 5 अगस्त
 
 RESOURCE ID: season_pass_july2025_upgrade_description
-TEXT: नीचे दिये गए रिवॉर्ड को अनलॉक करने के लिए GO पास डीलक्स - जुलाई खरीदें!
+TEXT: नीचे दयिे गए रविॉर्ड को अनलॉक करने के लिए GO पास डीलक्स - जुलाई खरीदें!
 • एक सुपर इनक्यूबेटर
-• एक  <a href="https://niantic.helpshift.com/hc/faq/4945-what-is-the-lucky-trinket/"> लकी चार्म</a>, जो आपको अपनी पसंद के दोस्त के साथ तुरंत लकी दोस्त बनाएगा
-• और और-भी बहुत कुछ! 
+• एक  <a href="https://scopelyexplore.helpshift.com/hc/faq/1147-what-is-the-lucky-trinket/"> लकी चार्म</a>, जो आपको अपनी पसंद के दोस्त के साथ तुरंत लकी दोस्त बनाएगा
+• और और-भी बहुत कुछ!
 
 RESOURCE ID: season_pass_july2026_event_duration
 TEXT: 7 जुलाई – 4 अगस्त
@@ -113661,10 +113698,10 @@ RESOURCE ID: season_pass_june2025_event_duration
 TEXT: 3 जून – 1 जुलाई 
 
 RESOURCE ID: season_pass_june2025_upgrade_description
-TEXT: नीचे दिये गए रिवॉर्ड को अनलॉक करने के लिए GO पास  डीलक्स - अप्रैल खरीदें!
+TEXT: नीचे दयिे गए रविॉर्ड को अनलॉक करने के लिए GO पास  डीलक्स - अप्रैल खरीदें!
 • एक सुपर इनक्यूबेटर
-• एक  <a href="https://niantic.helpshift.com/hc/faq/4945-what-is-the-lucky-trinket/"> लकी चार्म</a>, जो आपको अपनी पसंद के दोस्त के साथ तुरंत लकी दोस्त बनाएगा
-• और भी बहुत कुछ! 
+• एक  <a href="https://scopelyexplore.helpshift.com/hc/faq/1147-what-is-the-lucky-trinket/"> लकी चार्म</a>, जो आपको अपनी पसंद के दोस्त के साथ तुरंत लकी दोस्त बनाएगा
+• और भी बहुत कुछ!
 
 RESOURCE ID: season_pass_june2026_event_duration
 TEXT: 2 जून – 7 जुलाई 
@@ -113675,8 +113712,8 @@ TEXT: अतरिक्ति रविॉर्ड जीत कर रैं�
 RESOURCE ID: season_pass_june2026_upgrade_description
 TEXT: नीचे दयिे गए रविॉर्ड को अनलॉक करने के लिए GO पास डीलक्स - जून खरीदें!
 • एक सुपर इनक्यूबेटर
-• एक <a href="https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2358-incubators-hatching-pokemon-eggs/">समयबद्ध इन्क्यूबेटर</a>, एक सीमति अवधि वाला इन्क्यूबेटर जसिे आप एक्सप्लोर करते समय कतिनी भी बार प्रयोग कर अंडों को हैच कर सकते हैं!
-• और और-भी बहुत कुछ! 
+• एक <a href="https://scopelyexplore.helpshift.com/hc/faq/1118-incubators-hatching-pokemon-eggs/">समयबद्ध इन्क्यूबेटर</a>, एक सीमति अवधि वाला इन्क्यूबेटर जसिे आप एक्सप्लोर करते समय कतिनी भी बार प्रयोग कर अंडों को हैच कर सकते हैं!
+• और और-भी बहुत कुछ!
 
 RESOURCE ID: season_pass_march2026_event_duration
 TEXT: 3 मार्च –7 अप्रैल
@@ -113685,10 +113722,10 @@ RESOURCE ID: season_pass_march2026_track_upgrade_header_description
 TEXT: अतिरिक्त रिवॉर्ड जीत कर रैंक 20 पर <b>समयबद्ध इन्क्यूबेटर</b> अनलॉक करें!
 
 RESOURCE ID: season_pass_march2026_upgrade_description
-TEXT: नीचे दिये गए रिवॉर्ड को अनलॉक करने के लिए GO पास डीलक्स - मार्च खरीदें!
+TEXT: नीचे दयिे गए रविॉर्ड को अनलॉक करने के लिए GO पास डीलक्स - मार्च खरीदें!
 • एक सुपर इनक्यूबेटर
-• एक <a href="https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2358-incubators-hatching-pokemon-eggs/">समयबद्ध इन्क्यूबेटर</a>, जो एक अतिरिक्त असीमित उपयोग वाला इनक्यूबेटर है, जिसका उपयोग आप अंडे हैच करने हेतु सीमित समय के लिए कर सकते हैं!
-• और और-भी बहुत कुछ! 
+• एक <a href="https://scopelyexplore.helpshift.com/hc/faq/1118-incubators-hatching-pokemon-eggs/">समयबद्ध इन्क्यूबेटर</a>, जो एक अतरिक्ति असीमति उपयोग वाला इनक्यूबेटर है, जसिका उपयोग आप अंडे हैच करने हेतु सीमति समय के लिए कर सकते हैं!
+• और और-भी बहुत कुछ!
 
 RESOURCE ID: season_pass_may2025_event_duration
 TEXT: 6 मई - 3 जून
@@ -113697,16 +113734,16 @@ RESOURCE ID: season_pass_may2025_track_upgrade_header_description
 TEXT: अतिरिक्त रिवॉर्ड पायें और लेवल 100 पर <b>इवेल्टाल के साथ मुलाकात</b> को अनलॉक करें!
 
 RESOURCE ID: season_pass_may2025_upgrade_description
-TEXT: नीचे दिये गए रिवॉर्ड को अनलॉक करने के लिए GO पास डीलक्स - मई खरीदें!
-• इवेल्टाल के साथ एक अतिरिक्त मुलाकात
-• एक  <a href="https://niantic.helpshift.com/hc/faq/4945-what-is-the-lucky-trinket/">लकी चार्म</a>, जो आपको अपनी पसंद के दोस्त के साथ तुरंत लकी दोस्त बनाएगा
-• और भी बहुत कुछ! 
+TEXT: नीचे दयिे गए रविॉर्ड को अनलॉक करने के लिए GO पास डीलक्स - मई खरीदें!
+• इवेल्टाल के साथ एक अतरिक्ति मुलाकात
+• एक  <a href="https://scopelyexplore.helpshift.com/hc/faq/1147-what-is-the-lucky-trinket/">लकी चार्म</a>, जो आपको अपनी पसंद के दोस्त के साथ तुरंत लकी दोस्त बनाएगा
+• और भी बहुत कुछ!
 
 RESOURCE ID: season_pass_may2025_upgrade_description_no_additional_legendary
-TEXT: नीचे दिये गए रिवॉर्ड को अनलॉक करने के लिए GO पास  डीलक्स - मई खरीदें!
+TEXT: नीचे दयिे गए रविॉर्ड को अनलॉक करने के लिए GO पास  डीलक्स - मई खरीदें!
 
-• एक  <a href="https://niantic.helpshift.com/hc/faq/4945-what-is-the-lucky-trinket/"> लकी चार्म</a>, जो आपको अपनी पसंद के दोस्त के साथ तुरंत लकी दोस्त बनाएगा
-• और भी बहुत कुछ! 
+• एक  <a href="https://scopelyexplore.helpshift.com/hc/faq/1147-what-is-the-lucky-trinket/"> लकी चार्म</a>, जो आपको अपनी पसंद के दोस्त के साथ तुरंत लकी दोस्त बनाएगा
+• और भी बहुत कुछ!
 
 RESOURCE ID: season_pass_may2026_event_duration
 TEXT: 5 मई – 2 जून
@@ -113737,9 +113774,9 @@ RESOURCE ID: season_pass_november2025_event_duration
 TEXT: 4 नवंबर – 2 दिसंबर
 
 RESOURCE ID: season_pass_november2025_upgrade_description
-TEXT: नीचे दिये गए रिवॉर्ड को अनलॉक करने के लिए GO पास डीलक्स - नवंबर खरीदें!
+TEXT: नीचे दयिे गए रविॉर्ड को अनलॉक करने के लिए GO पास डीलक्स - नवंबर खरीदें!
 • एक सुपर इनक्यूबेटर
-• एक <a href="https://niantic.helpshift.com/hc/faq/4945-what-is-the-lucky-trinket/"> लकी चार्म</a>, जो आपको अपनी पसंद के दोस्त के साथ तुरंत लकी दोस्त बनाएगा
+• एक <a href="https://scopelyexplore.helpshift.com/hc/faq/1147-what-is-the-lucky-trinket/"> लकी चार्म</a>, जो आपको अपनी पसंद के दोस्त के साथ तुरंत लकी दोस्त बनाएगा
 • और और-भी बहुत कुछ!
 
 RESOURCE ID: season_pass_october2025_event_duration
@@ -113961,10 +113998,10 @@ RESOURCE ID: season_pass_september2025_track_upgrade_header_description_out
 TEXT: अतिरिक्त रिवॉर्ड पाएँ और रैंक {1} पर एक <b>{0}</b> अनलॉक करें!
 
 RESOURCE ID: season_pass_september2025_upgrade_description
-TEXT: नीचे दिये गए रिवॉर्ड को अनलॉक करने के लिए GO पास डीलक्स - सितम्बर खरीदें!
+TEXT: नीचे दयिे गए रविॉर्ड को अनलॉक करने के लिए GO पास डीलक्स - सतिम्बर खरीदें!
 • एक सुपर इनक्यूबेटर
-• एक <a href="https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2358-incubators-hatching-pokemon-eggs/">समयबद्ध इन्क्यूबेटर</a>, एक सीमित अवधि वाला इन्क्यूबेटर जिसे आप एक्सप्लोर करते समय कितनी भी बार प्रयोग कर अंडों को हैच कर सकते हैं!
-• और और-भी बहुत कुछ! 
+• एक <a href="https://scopelyexplore.helpshift.com/hc/faq/1118-incubators-hatching-pokemon-eggs/">समयबद्ध इन्क्यूबेटर</a>, एक सीमति अवधि वाला इन्क्यूबेटर जसिे आप एक्सप्लोर करते समय कतिनी भी बार प्रयोग कर अंडों को हैच कर सकते हैं!
+• और और-भी बहुत कुछ!
 
 RESOURCE ID: season_pass_shockingly_good_2026_event_duration
 TEXT: 31 मार्च – 6 अप्रैल
@@ -114052,7 +114089,20 @@ TEXT: 25 अगस्त – 30 अगस्त
 RESOURCE ID: season_pass_wcs_2026_track_upgrade_header_description
 TEXT: अतरिक्ति रविॉर्ड पाएँ और रैंक 30 पर <b>ज़ैपडोस</b> अनलॉक करें!
 
+RESOURCE ID: season_pass_wcs_2026_track_upgrade_header_description_backpack
+TEXT: अतरिक्ति रविॉर्ड पाएँ और रैंक 15 पर <b>Pokémon WCS/PXP 2026 बैकपैक</b> अनलॉक करें!
+
 RESOURCE ID: season_pass_wcs_2026_upgrade_description
+TEXT: नीचे दयिे गए रविॉर्ड को अनलॉक करने के लिए GO पास डीलक्स - पोकेमॉन XP एंड 2026 वर्ल्ड चैंपयिनशपि खरीदें!
+
+• Pokémon WCS/PXP 2026 बैकपैक
+• कॉज़्मॉग की थीम वाला स्पेससूट पहने पकिाचू से मुलाकात
+• वर्ल्ड चैंपयिनशपि 2026 पकिाचू से मुलाकात
+• इवेंट की थीम वाले पोकेमॉन से मुलाकातें
+• रेयर कैंडी XL
+• और-भी बहुत कुछ!
+
+RESOURCE ID: season_pass_wcs_2026_upgrade_description_out
 TEXT: नीचे दयिे गए रविॉर्ड को अनलॉक करने के लिए GO पास डीलक्स - पोकेमॉन XP एंड 2026 वर्ल्ड चैंपयिनशपि खरीदें!
 
 • कॉज़्मॉग की थीम वाला स्पेससूट पहने पकिाचू से मुलाकात
@@ -114913,7 +114963,7 @@ RESOURCE ID: settings_wearables_device_status_unpaired
 TEXT: Not Paired
 
 RESOURCE ID: settings_wearables_device_troubleshooting_url
-TEXT: <url with language query param in it>
+TEXT: https://scopelyexplore.helpshift.com/hc/faq/1337-pairing-and-connecting-pokemon-go-to-official-devices/
 
 RESOURCE ID: settings_wearables_empty_device_list
 TEXT: No Devices Found
@@ -115152,6 +115202,9 @@ TEXT: आपके दोस्त {0} ने आपको {1} पर एक ए
 RESOURCE ID: shelmetkarrablast_post_cd_timed_research_name
 TEXT: शेलमेट और कैराब्लास्ट कम्युनिटी डे कंटिन्यू टाइम सीमित समय वाली रिसर्च
 
+RESOURCE ID: shield_break_adventure_effect_battle_log
+TEXT: YOUR ATTACKS ARE BOOSTED BY DYNAMIC PUNCH+’S ADVENTURE EFFECT!
+
 RESOURCE ID: shinjuku_cross_title
 TEXT: クロス新宿ビジョン
 
@@ -115363,7 +115416,7 @@ RESOURCE ID: shop_daily_bonus_header
 TEXT: एक स्पेशल गिफ़्ट!
 
 RESOURCE ID: shop_discount_disclaimer_helpshift_url
-TEXT: https://niantic.helpshift.com/hc/faq/4707-notice-regarding-discount-rates-displayed-in-the-shop/
+TEXT: https://scopelyexplore.helpshift.com/hc/faq/1267-notice-regarding-discount-rates-displayed-in-the-shop/
 
 RESOURCE ID: shop_discount_disclaimer_modal_title
 TEXT: सीमित समय के लिए छूट
@@ -115393,14 +115446,14 @@ RESOURCE ID: shop_fully_upgraded_plural
 TEXT: आपके {0} पूरे अपग्रेड हो चुके हैं!
 
 RESOURCE ID: shop_fully_upgraded_purchasable
-TEXT: आपका {0} पूरा अपग्रेड हो चुका है। लेवल अप कर अधिक स्टोरेज पाएँ।
+TEXT: आपका {0} पूरा अपग्रेड हो चुका है। लेवल अप कर अधकि स्टोरेज पाएँ।
 
-<a href="https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/3049-available-items-your-bag/">लेवल अप करने के बारे में यहाँ से जानें।</a>
+<a href="https://scopelyexplore.helpshift.com/hc/faq/1432-available-items-your-bag/">लेवल अप करने के बारे में यहाँ से जानें।</a>
 
 RESOURCE ID: shop_fully_upgraded_purchasable_plural
-TEXT: आपके {0} पूरे अपग्रेड हो चुके हैं। लेवल अप कर अधिक स्टोरेज पाएँ।
+TEXT: आपके {0} पूरे अपग्रेड हो चुके हैं। लेवल अप कर अधकि स्टोरेज पाएँ।
 
-<a href="https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/3049-available-items-your-bag/">लेवल अप करने के बारे में यहाँ से जानें।</a>
+<a href="https://scopelyexplore.helpshift.com/hc/faq/1432-available-items-your-bag/">लेवल अप करने के बारे में यहाँ से जानें।</a>
 
 RESOURCE ID: shop_gift_friend_ineligible_title
 TEXT: Cannot Send Gift
@@ -115608,16 +115661,16 @@ RESOURCE ID: short_bonus_raid_3_candy
 TEXT: +3 रेड के लिए कैंडी
 
 RESOURCE ID: short_event_pass_gofest2026_finale_chosen_starter_shiny_bonus
-TEXT: Increased Shiny First Partner Chance
+TEXT: शाइनी फ़र्स्ट पार्टनर की अधकि संभावना
 
 RESOURCE ID: short_event_pass_gofest2026_finale_mega_raid_rewards_bonus
-TEXT: +3 Candy, +1 Candy XL, +5K XP from Mega Raids
+TEXT: मेगा रेड से +3 कैंडी, +1 कैंडी XL, +5K XP
 
 RESOURCE ID: short_event_pass_gofest2026_finale_t4_mega_raid_shiny_bonus
-TEXT: Increased Four-Star Mega Raid Boss Shiny Chance
+TEXT: फ़ोर-स्टार मेगा रेड बॉस के शाइनी होने की अधकि संभावना
 
 RESOURCE ID: short_event_pass_gofest2026_finale_weekend_wild_shiny_bonus
-TEXT: Increased Weekend Wild Pokémon Shiny Chance
+TEXT: वीकेंड में वाइल्ड पोकेमॉन के शाइनी होने की अधकि संभावना
 
 RESOURCE ID: short_hatch_candy_double
 TEXT: 2× हैच कैंडी
@@ -116469,6 +116522,9 @@ TEXT: पोके बॉल नहीं है
 
 RESOURCE ID: soft_sfida_title_pokemon_full
 TEXT: पोकेमॉन स्टोरेज भरी हुई है।
+
+RESOURCE ID: soft_sfida_tutorial_url
+TEXT: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1250-what-is-the-explorer-gadget/
 
 RESOURCE ID: soft_sfida_warn_items_full
 TEXT: आइटम बैग भर गया है।
@@ -121982,11 +122038,11 @@ TEXT: <b>बोनस में ये चीज़ें शामिल है
 • 2,500 XP
 
 RESOURCE ID: text_rewards_key_cointicket2024
-TEXT: दैनिक बोनस फ़ील्ड रिसर्च का एक्सेस टिकट जिसमें स्थानीय समयानुसार 16 मई, 2024 को दुपहर 12:00 बजे से 30 मई, 2024 को रात 11:59 बजे तक पोकेकॉइन रिवॉर्ड में मिलेंगे।
+TEXT: दैनकि बोनस फ़ील्ड रसिर्च का एक्सेस टकिट जसिमें स्थानीय समयानुसार 16 मई, 2024 को दुपहर 12:00 बजे से 30 मई, 2024 को रात 11:59 बजे तक पोकेकॉइन रविॉर्ड में मलिेंगे।
 
-यदि आप यह टिकट 16 मई से 30 मई तक प्रतिदिन खरीदते हैं, तो आपको हर दिन पहली बार लॉग-इन करने पर बोनस फ़ील्ड रिसर्च प्राप्त हो सकती है।
+यदि आप यह टकिट 16 मई से 30 मई तक प्रतदिनि खरीदते हैं, तो आपको हर दनि पहली बार लॉग-इन करने पर बोनस फ़ील्ड रसिर्च प्राप्त हो सकती है।
 
-जब आप दिन में पहली बार लॉग-इन करेंगे, तो इस बोनस फ़ील्ड रिसर्च को प्राप्त करने के लिए आपके पास तीन या उससे कम फ़ील्ड रिसर्च टास्क एक्टिव होने चाहिए! इसके अलावा, इसे प्राप्त करने के लिए आपको टास्क पूरा करने के बाद 20 पोकेकॉइन का रिवॉर्ड प्राप्त करना होगा। बोनस फ़ील्ड रिसर्च टास्क के बारे में अधिक जानकारी <a href="https://niantic.helpshift.com/hc/faq/2479-why-does-my-field-research-task-have-a-bonus-tag/">यहाँ</a> से प्राप्त करें।
+जब आप दनि में पहली बार लॉग-इन करेंगे, तो इस बोनस फ़ील्ड रसिर्च को प्राप्त करने के लिए आपके पास तीन या उससे कम फ़ील्ड रसिर्च टास्क एक्टवि होने चाहिए! इसके अलावा, इसे प्राप्त करने के लिए आपको टास्क पूरा करने के बाद 20 पोकेकॉइन का रविॉर्ड प्राप्त करना होगा। बोनस फ़ील्ड रसिर्च टास्क के बारे में अधकि जानकारी <a href="https://scopelyexplore.helpshift.com/hc/faq/1098-why-does-my-field-research-task-have-a-bonus-tag/">यहाँ</a> से प्राप्त करें।
 
 RESOURCE ID: text_rewards_key_conciergecb0925
 TEXT: <b>शामिल रिवॉर्ड -</b>
@@ -122678,40 +122734,40 @@ TEXT: <b>शामिल रिवॉर्ड -</b>
 • 3500 XP और 2000 स्टार-डस्ट
 
 RESOURCE ID: text_rewards_key_monthlyticketnov24
-TEXT: यह टिकट बोनस, 200 बोनस पोकेकॉइन प्रदान करने वाली सीमित समय वाली रिसर्च, और 3 नवंबर से 2 दिसंबर, 2024 तक बोनस पोकेकॉइन प्रदान करकने वाली डेली बोनस फ़ील्ड रिसर्च टास्क प्रदान करती है।
+TEXT: यह टकिट बोनस, 200 बोनस पोकेकॉइन प्रदान करने वाली सीमति समय वाली रसिर्च, और 3 नवंबर से 2 दसिंबर, 2024 तक बोनस पोकेकॉइन प्रदान करकने वाली डेली बोनस फ़ील्ड रसिर्च टास्क प्रदान करती है।
 
-<b>शामिल बोनस :</b>
-•प्रतिदिन पहली बार लॉग-इन करने पर 20 बोनस पोकेकॉइन प्रदान करने वाला एक फ़ील्ड रिसर्च टास्क
-• दिन के अपने पहले पोकेमॉन और दिन के अपने पहले स्पिन के लिए 3× XP
-• प्रतिदिन 50 गिफ़्ट
-• पोकेस्टॉप और जिम से प्रतिदिन 150 गिफ़्ट तक प्राप्त करें
-• एक बार में अपने आइटम बैग में 40 गिफ़्ट तक रखें
+<b>शामलि बोनस :</b>
+•प्रतदिनि पहली बार लॉग-इन करने पर 20 बोनस पोकेकॉइन प्रदान करने वाला एक फ़ील्ड रसिर्च टास्क
+• दनि के अपने पहले पोकेमॉन और दनि के अपने पहले स्पनि के लिए 3× XP
+• प्रतदिनि 50 गफ़्टि
+• पोकेस्टॉप और जमि से प्रतदिनि 150 गफ़्टि तक प्राप्त करें
+• एक बार में अपने आइटम बैग में 40 गफ़्टि तक रखें
 
-कृपया ढ्यान दें - प्रत्येक दिन पहली बार लॉग-इन करने पर इस बोनस फ़ील्ड रिसर्च टास्क को प्राप्त करने के लिए आपके पास तीन या उससे कम फ़ील्ड रिसर्च टास्क सिक्रय होने चाहिए। इसे प्राप्त करने के लिए आपको टास्क पूरा करने के बाद 20 बोनस पोकेकॉइन रिवॉर्ड का दावा करना होगा। आप बोनस फ़ील्ड रिसर्च टास्क के बारे में अधिक जानकारी <a href="https://niantic.helpshift.com/hc/faq/2479-why-does-my-field-research-task-have-a-bonus-tag/">यहाँ</a> पा सकते हैं।
+कृपया ध्यान दें - प्रत्येक दनि पहली बार लॉग-इन करने पर इस बोनस फ़ील्ड रसिर्च टास्क को प्राप्त करने के लिए आपके पास तीन या उससे कम फ़ील्ड रसिर्च टास्क सक्रयि होने चाहिए। इसे प्राप्त करने के लिए आपको टास्क पूरा करने के बाद 20 बोनस पोकेकॉइन रविॉर्ड का दावा करना होगा। आप बोनस फ़ील्ड रसिर्च टास्क के बारे में अधकि जानकारी <a href="https://scopelyexplore.helpshift.com/hc/faq/1098-why-does-my-field-research-task-have-a-bonus-tag/">यहाँ</a> पा सकते हैं।
 
 RESOURCE ID: text_rewards_key_monthlyticketoct24
-TEXT: यह टिकट बोनस, 200 बोनस पोकेकॉइन प्रदान करने वाली सीमित समय वाली रिसर्च, और 3 अक्तूबर से 2 नवंबर, 2024 तक बोनस पोकेकॉइन प्रदान करकने वाली डेली बोनस फ़ील्ड रिसर्च टास्क प्रदान करती है।
+TEXT: यह टकिट बोनस, 200 बोनस पोकेकॉइन प्रदान करने वाली सीमति समय वाली रसिर्च, और 3 अक्तूबर से 2 नवंबर, 2024 तक बोनस पोकेकॉइन प्रदान करकने वाली डेली बोनस फ़ील्ड रसिर्च टास्क प्रदान करती है।
 
-<b>शामिल बोनस :</b>
-•प्रतिदिन पहली बार लॉग-इन करने पर 20 बोनस पोकेकॉइन प्रदान करने वाला एक फ़ील्ड रिसर्च टास्क
-• दिन के अपने पहले पोकेमॉन और दिन के अपने पहले स्पिन के लिए 3× XP
-• प्रतिदिन 50 गिफ़्ट
-• पोकेस्टॉप और जिम से प्रतिदिन 150 गिफ़्ट तक प्राप्त करें
-• एक बार में अपने आइटम बैग में 40 गिफ़्ट तक रखें
+<b>शामलि बोनस :</b>
+•प्रतदिनि पहली बार लॉग-इन करने पर 20 बोनस पोकेकॉइन प्रदान करने वाला एक फ़ील्ड रसिर्च टास्क
+• दनि के अपने पहले पोकेमॉन और दनि के अपने पहले स्पनि के लिए 3× XP
+• प्रतदिनि 50 गफ़्टि
+• पोकेस्टॉप और जमि से प्रतदिनि 150 गफ़्टि तक प्राप्त करें
+• एक बार में अपने आइटम बैग में 40 गफ़्टि तक रखें
 
-कृपया ढ्यान दें - प्रत्येक दिन पहली बार लॉग-इन करने पर इस बोनस फ़ील्ड रिसर्च टास्क को प्राप्त करने के लिए आपके पास तीन या उससे कम फ़ील्ड रिसर्च टास्क सिक्रय होने चाहिए। इसे प्राप्त करने के लिए आपको टास्क पूरा करने के बाद 20 बोनस पोकेकॉइन रिवॉर्ड का दावा करना होगा। आप बोनस फ़ील्ड रिसर्च टास्क के बारे में अधिक जानकारी <a href="https://niantic.helpshift.com/hc/faq/2479-why-does-my-field-research-task-have-a-bonus-tag/">यहाँ</a> पा सकते हैं।
+कृपया ध्यान दें - प्रत्येक दनि पहली बार लॉग-इन करने पर इस बोनस फ़ील्ड रसिर्च टास्क को प्राप्त करने के लिए आपके पास तीन या उससे कम फ़ील्ड रसिर्च टास्क सक्रयि होने चाहिए। इसे प्राप्त करने के लिए आपको टास्क पूरा करने के बाद 20 बोनस पोकेकॉइन रविॉर्ड का दावा करना होगा। आप बोनस फ़ील्ड रसिर्च टास्क के बारे में अधकि जानकारी <a href="https://scopelyexplore.helpshift.com/hc/faq/1098-why-does-my-field-research-task-have-a-bonus-tag/">यहाँ</a> पा सकते हैं।
 
 RESOURCE ID: text_rewards_key_monthlyticketsept24
-TEXT: यह टिकट बोनस प्रदान करती है। सीमित समय वाली रिसर्च 200 बोनस पोकेकॉइन प्रदान करती है, और डेली बोनस फ़ील्ड रिसर्च टास्क जो 3 सितंबर से 2 अक्तूबर, 2024 तक बोनस पोकेकॉइन प्रदान करती है।
+TEXT: यह टकिट बोनस प्रदान करती है। सीमति समय वाली रसिर्च 200 बोनस पोकेकॉइन प्रदान करती है, और डेली बोनस फ़ील्ड रसिर्च टास्क जो 3 सतिंबर से 2 अक्तूबर, 2024 तक बोनस पोकेकॉइन प्रदान करती है।
 
-<b>शामिल बोनस -</b>
-• पहली बार लॉग-इन करने पर प्रतिदिन एक फ़ील्ड रिसर्च टास्क जो 20 बोनस पोकेकॉइन प्रदान करता है
-• दिन के अपने पहले कैच और दिन के अपने पहले स्पिन के लिए 3× XP
-• प्रतिदिन 50 गिफ़्ट प्राप्त करें
-• पोकेस्टॉप और जिम से प्रतिदिन 150 गिफ़्ट तक प्राप्त करें
-• एक बार में अपने आइटम बैग में 40 गिफ़्ट तक रखें
+<b>शामलि बोनस -</b>
+• पहली बार लॉग-इन करने पर प्रतदिनि एक फ़ील्ड रसिर्च टास्क जो 20 बोनस पोकेकॉइन प्रदान करता है
+• दनि के अपने पहले कैच और दनि के अपने पहले स्पनि के लिए 3× XP
+• प्रतदिनि 50 गफ़्टि प्राप्त करें
+• पोकेस्टॉप और जमि से प्रतदिनि 150 गफ़्टि तक प्राप्त करें
+• एक बार में अपने आइटम बैग में 40 गफ़्टि तक रखें
 
-कृपया ढ्यान दें - प्रत्येक दिन पहली बार लॉग-इन करने पर इस बोनस फ़ील्ड रिसर्च टास्क को प्राप्त करने के लिए आपके पास तीन या उससे कम फ़ील्ड रिसर्च टास्क सिक्रय होने चाहिए। इसे प्राप्त करने के लिए आपको टास्क पूरा करने के बाद 20 बोनस पोकेकॉइन रिवॉर्ड का दावा करना होगा। आप बोनस फ़ील्ड रिसर्च टास्क के बारे में अधिक जानकारी <a href="https://niantic.helpshift.com/hc/faq/2479-why-does-my-field-research-task-have-a-bonus-tag/">यहाँ</a> पा सकते हैं।
+कृपया ध्यान दें - प्रत्येक दनि पहली बार लॉग-इन करने पर इस बोनस फ़ील्ड रसिर्च टास्क को प्राप्त करने के लिए आपके पास तीन या उससे कम फ़ील्ड रसिर्च टास्क सक्रयि होने चाहिए। इसे प्राप्त करने के लिए आपको टास्क पूरा करने के बाद 20 बोनस पोकेकॉइन रविॉर्ड का दावा करना होगा। आप बोनस फ़ील्ड रसिर्च टास्क के बारे में अधकि जानकारी <a href="https://scopelyexplore.helpshift.com/hc/faq/1098-why-does-my-field-research-task-have-a-bonus-tag/">यहाँ</a> पा सकते हैं।
 
 RESOURCE ID: text_rewards_key_munchlax0825
 TEXT: <b>शामिल रिवॉर्ड -</b>
@@ -123469,7 +123525,7 @@ RESOURCE ID: three_free_raid_passes
 TEXT: जिम की फ़ोटो डिस्क को स्पिन करके तीन रेड पास तक पाएं, वह भी बिल्कुल मुफ़्त
 
 RESOURCE ID: three_strike_policy_url
-TEXT: https://pokemongo.nianticlabs.com/support/three-strike-policy
+TEXT: https://scopelyexplore.helpshift.com/hc/faq/1305-gameplay-fairness-policy/
 
 RESOURCE ID: throwback_2020_celebration
 TEXT: थ्रोबैक चैलेंज 2020 का सेलिब्रेशन:
@@ -125009,10 +125065,10 @@ RESOURCE ID: title_wcs_2025_scavenger_hunt_00
 TEXT: 2025 पोकेमॉन वर्ल्ड चैंपियनशिप खज़ाने की खोज (1/1)
 
 RESOURCE ID: title_wcs_2026_scavenger_hunt
-TEXT: 2026 Pokémon World Championships Scavenger Hunt
+TEXT: 2026 पोकेमॉन वर्ल्ड चैंपयिनशपि खज़ाने की खोज
 
 RESOURCE ID: title_wcs_2026_scavenger_hunt_00
-TEXT: 2026 Pokémon World Championships Scavenger Hunt (1/1)
+TEXT: 2026 पोकेमॉन वर्ल्ड चैंपयिनशपि खज़ाने की खोज (1/1)
 
 RESOURCE ID: title_zorua_o_clock
 TEXT: ज़ोरुआ का सामूहिक प्रकोप
@@ -125133,6 +125189,9 @@ TEXT: UPCOMING EVENTS
 
 RESOURCE ID: today_view_upcoming_events_today_marker
 TEXT: TODAY
+
+RESOURCE ID: today_view_welcome_back_tab_label
+TEXT: Kanto Homecoming
 
 RESOURCE ID: toggle_item_equip
 TEXT: इक्विप करें
@@ -125733,16 +125792,16 @@ RESOURCE ID: tr_gofest2026_branch_y_description
 TEXT: मेगा म्यूटू Y को खोजने के लिए यह पथ चुनें।
 
 RESOURCE ID: tr_gofest2026_finale_branch_chespin_desc
-TEXT: Choose this path to get enough Mega Energy to Mega Evolve Chesnaught, an increased chance of encountering Shiny Chespin, encounters with Chespin that have a Special Background, and Chespin Candy and Candy XL.
+TEXT: इस पथ को चुनकर चेसनॉट को मेगा एवॉल्व करने के लिए पर्याप्त मेगा एनर्जी पाएँ। और शाइनी चेस्पनि से मुलाकात की अधकि संभावना, स्पैशल बैकग्राउंड वाले चेस्पनि के साथ मुलाकातें, और चेस्पनि कैंडी और कैंडी XL भी पाएँ।
 
 RESOURCE ID: tr_gofest2026_finale_branch_fennekin_desc
-TEXT: Choose this path to get enough Mega Energy to Mega Evolve Delphox, an increased chance of encountering Shiny Fennekin, encounters with Fennekin that have a Special Background, and Fennekin Candy and Candy XL.
+TEXT: इस पथ को चुनकर डेलफ़ॉक्स को मेगा एवॉल्व करने के लिए पर्याप्त मेगा एनर्जी पाएँ। और शाइनी फ़ेनेकन से मुलाकात की अधकि संभावना, स्पैशल बैकग्राउंड वाले फ़ेनेकन के साथ मुलाकातें, और फ़ेनेकन कैंडी और कैंडी XL भी पाएँ।
 
 RESOURCE ID: tr_gofest2026_finale_branch_froakie_desc
-TEXT: Choose this path to get enough Mega Energy to Mega Evolve Greninja, an increased chance of encountering Shiny Froakie, encounters with Froakie that have a Special Background, and Froakie Candy and Candy XL.
+TEXT: इस पथ को चुनकर ग्रेनिंजा को मेगा एवॉल्व करने के लिए पर्याप्त मेगा एनर्जी पाएँ। और शाइनी फ़्रोकी से मुलाकात की अधकि संभावना, स्पैशल बैकग्राउंड वाले फ़्रोकी के साथ मुलाकातें, और फ़्रोकी कैंडी और कैंडी XL भी पाएँ।
 
 RESOURCE ID: tr_gofest2026_finale_starter_choice
-TEXT: GO Fest 2026: Mega Finale Mega Choice
+TEXT: GO Fest 2026 - मेगा फ़निाले मेगा चॉइस
 
 RESOURCE ID: tr_gofest2026_global_mewtwo
 TEXT: GO Fest 2026 - जेनेटकि मास्टरी
@@ -126939,6 +126998,42 @@ TEXT: Pokémon GO मेगा ट्रेनिंग! सीमित सम�
 RESOURCE ID: tr_jp2025_aeon_mall_header_01
 TEXT: Pokémon GO मेगा ट्रेनिंग! सीमित समय वाली रिसर्च (2/2)
 
+RESOURCE ID: tr_kindling_2026_set_01_header
+TEXT: Kanto Homecoming Timed Research (1/12)
+
+RESOURCE ID: tr_kindling_2026_set_02_header
+TEXT: Kanto Homecoming Timed Research (2/12)
+
+RESOURCE ID: tr_kindling_2026_set_03_header
+TEXT: Kanto Homecoming Timed Research (3/12)
+
+RESOURCE ID: tr_kindling_2026_set_04_header
+TEXT: Kanto Homecoming Timed Research (4/12)
+
+RESOURCE ID: tr_kindling_2026_set_05_header
+TEXT: Kanto Homecoming Timed Research (5/12)
+
+RESOURCE ID: tr_kindling_2026_set_06_header
+TEXT: Kanto Homecoming Timed Research (6/12)
+
+RESOURCE ID: tr_kindling_2026_set_07_header
+TEXT: Kanto Homecoming Timed Research (7/12)
+
+RESOURCE ID: tr_kindling_2026_set_08_header
+TEXT: Kanto Homecoming Timed Research (8/12)
+
+RESOURCE ID: tr_kindling_2026_set_09_header
+TEXT: Kanto Homecoming Timed Research (9/12)
+
+RESOURCE ID: tr_kindling_2026_set_10_header
+TEXT: Kanto Homecoming Timed Research (10/12)
+
+RESOURCE ID: tr_kindling_2026_set_11_header
+TEXT: Kanto Homecoming Timed Research (11/12)
+
+RESOURCE ID: tr_kindling_2026_set_12_header
+TEXT: Kanto Homecoming Timed Research (12/12)
+
 RESOURCE ID: tr_kr2025_retention_cherryblossom_title
 TEXT: चैरी के फूल चैलेंज
 
@@ -127525,7 +127620,7 @@ RESOURCE ID: tr_uxie_photo_safari_live
 TEXT: युक्सी फ़ोटो सफ़ारी - लॉस एंजेलीस
 
 RESOURCE ID: tr_wcs2026_finale_header
-TEXT: Worlds 2026 Finale
+TEXT: WCS 2026 फ़निाले
 
 RESOURCE ID: tr_weekend_booster_title
 TEXT: वीकेंड रिवॉर्ड
@@ -128424,10 +128519,10 @@ RESOURCE ID: tutorial_xl_candy_2
 TEXT: आपको पोकेमॉन पकड़ने के बाद भी कैंडी XL मिल सकते हैं। पोकेमॉन जितना ताकतवर होगा, आपको कैंडी XL मिलने की संभावना उतनी ही ज़्यादा होगी।
 
 RESOURCE ID: tv_bonus_costume_pika_sf_background
-TEXT: Worlds- and PokémonXP-costumed Pikachu caught from one-star raids may have a San Francisco Location Background
+TEXT: वन-स्टार रेड से पकड़े गए WCS और PokémonXP के कॉस्ट्यूम वाले पकिाचू के पास सैन फ़्रांसस्किो वाला लोकेशन बैकग्राउंड हो सकता है
 
 RESOURCE ID: tv_bonus_gold_rush
-TEXT: Large quantities of Golden PokéStops will appear every day from 12:00 p.m. to 1:00 p.m.
+TEXT: हर दनि दोपहर 12 बजे से 1 बजे तक भारी मात्राओं में गोल्डन पोकेस्टॉप दखिाई देंगे।
 
 RESOURCE ID: tv_title_go_tour_2026_global
 TEXT: GO Tour : कालोस – ग्लोबल
@@ -130461,7 +130556,7 @@ RESOURCE ID: wcs_2025_anaheim_irl_event_title
 TEXT: अनाहाइम 2025 पोकेमॉन वर्ल्ड चैंपियनशिप
 
 RESOURCE ID: wcs_2026_sf_event_title
-TEXT: San Francisco 2026 Pokémon World Championships
+TEXT: सैन फ़्रांसस्किो 2026 पोकेमॉन वर्ल्ड चैंपयिनशपि
 
 RESOURCE ID: wcs_2023_battle_tr_title_00
 TEXT: Great League Greatness (1/3)
@@ -130572,7 +130667,7 @@ RESOURCE ID: wcs_2026_irl_surprise_tr_dialog_01_01_greninja
 TEXT: मेगा ग्रेनिंजा, ना! यह एक बड़े शुरकिेन को इतनी तेज़ी से घुमाता है कि वह हवा में उड़ने लगता है, फरि यह उससे उल्टा लटक कर अपने वरिोधयिों से छुपकर उनपर वार करता है। सरप्राइज़ अटैक करना तो कोई इससे सीखे!
 
 RESOURCE ID: wcs_2026_sf_event_title_extended
-TEXT: San Francisco 2026 Pokémon World Championships Extended Bonuses
+TEXT: सैन फ़्रांसस्किो 2026 पोकेमॉन वर्ल्ड चैंपयिनशपि वस्तिृत बोनस
 
 RESOURCE ID: wcs2022_london_collection_challenge
 TEXT: 2022 Worlds Collection Challenge
@@ -130668,16 +130763,16 @@ RESOURCE ID: wcs_pgo_snapshot
 TEXT: Take a snapshot of your buddy at the Pokémon GO booth
 
 RESOURCE ID: wcs_surprise_tr_title
-TEXT: Mega Pursuit Timed Research
+TEXT: मेगा पर्सूट सीमति समय वाली रसिर्च
 
 RESOURCE ID: wcs_surprise_tr_title_00
-TEXT: Mega Pursuit Timed Research (1/2)
+TEXT: मेगा पर्सूट सीमति समय वाली रसिर्च (1/2)
 
 RESOURCE ID: wcs_surprise_tr_title_01
-TEXT: Mega Pursuit Timed Research (2/2)
+TEXT: मेगा पर्सूट सीमति समय वाली रसिर्च (2/2)
 
 RESOURCE ID: wcs_surprise_tr_quest_desc_placeholder
-TEXT: Check back during the Worlds 2026 Pokémon GO Finals for a special surprise!
+TEXT: एक स्पेशल सरप्राइज़ जे लिए, Pokémon GO WCS 2026 के फ़ाइनल के चलते समय फरि से चेक करें!
 
 RESOURCE ID: wcs_week_event
 TEXT: Pokémon World Championships 2022

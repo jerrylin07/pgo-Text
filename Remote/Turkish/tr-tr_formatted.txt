@@ -218,7 +218,7 @@ RESOURCE ID: abi_contact_signed_up_notification
 TEXT: Kişi listenizdeki Eğitmenler, Pokémon GO maceralarına ilk adımlarını attı! Onlara Arkadaşlık İsteği göndermek için Arkadaşlar menüsüne gidin.
 
 RESOURCE ID: abi_helpshift_url
-TEXT: https://niantic.helpshift.com/a/pokemon-go/?s=friends-gifting-trading&f=adding-friends
+TEXT: https://scopelyexplore.helpshift.com/hc/faq/1137-adding-friends/
 
 RESOURCE ID: abi_new_player_onboarding_title
 TEXT: Pokémon GO, Arkadaşlarla Daha Güzeldir!
@@ -302,7 +302,7 @@ RESOURCE ID: accessibility_settings_title
 TEXT: Erişilebilirlik
 
 RESOURCE ID: account_locked_article_url
-TEXT: https://niantic.helpshift.com/hc/faq/5242-my-account-has-been-locked-or-restricted/
+TEXT: https://scopelyexplore.helpshift.com/hc/faq/2554-my-account-has-been-locked-or-restricted-1783711163/
 
 RESOURCE ID: ace_box_title
 TEXT: Yıldız Kutusu
@@ -875,7 +875,7 @@ RESOURCE ID: age_confirm_explain
 TEXT: Bu hesap türüyle giriş yapmak için belli bir yaşın üstünde olmak gerekmektedir. Lütfen doğum tarihinizi teyit edin.
 
 RESOURCE ID: age_confirm_fail
-TEXT: Üzgünüz, bu hesap türüyle giriş yapmak için gereken<a href="https://niantic.helpshift.com/hc/faq/4996-i-cannot-login-and-message-shows-sorry-you-do-not-meet-the-age-requirement-to-login-with-this-type-of-account/">yaş şartlarını</a> karşılamıyorsunuz. Hesabınız Hizmet Şartlarımız gereğince silinecektir. Bu tür bir hesapla giriş yapmak için gereken koşullara sahip olduğunuzu düşünüyorsanız lütfen bizimle iletişime geçin.
+TEXT: Üzgünüz, bu hesap türüyle giriş yapmak için gereken<a href="https://scopelyexplore.helpshift.com/hc/faq/1314-i-cannot-login-and-message-shows-sorry-you-do-not-meet-the-age-requirement-to-login-with-this-type-of-account/">yaş şartlarını</a> karşılamıyorsunuz. Hesabınız Hizmet Şartlarımız gereğince silinecektir. Bu tür bir hesapla giriş yapmak için gereken koşullara sahip olduğunuzu düşünüyorsanız lütfen bizimle iletişime geçin.
 
 RESOURCE ID: age_confirm_popup_confirm
 TEXT: Emin misiniz? Bu bilgi girildikten sonra bir daha değiştirilemez.
@@ -19837,7 +19837,7 @@ RESOURCE ID: bonus_today_zygarde_cell
 TEXT: Zygarde Hücreleri günde 5 adede kadar rotanın sonunda ortaya çıkabilir
 
 RESOURCE ID: bonus_today_zygarde_cell_temp
-TEXT: Zygarde Cells can appear at the end of up to 5 Routes per day
+TEXT: Zygarde Hücreleri günde 5 adede kadar rotanın sonunda ortaya çıkabilir
 
 RESOURCE ID: bonus_total_6_special_trades
 TEXT: Her gün toplam 6 özel takas fırsatı
@@ -21327,7 +21327,7 @@ RESOURCE ID: breakfast_tappable_tutorial_body
 TEXT: Rota takip ederken Zygarde Hücresi bulabilirsiniz. Zygarde Hücrelerini birleştirerek farklı Zygarde formları oluşturabilirsiniz.
 
 RESOURCE ID: breakfast_tappable_tutorial_body_temp
-TEXT: You can find Zygarde Cells after completing a Route. You can assemble Zygarde Cells to create different Zygarde forms.
+TEXT: Bir rotayı tamamladıktan sonra Zygarde Hücreleri bulabilirsiniz. Zygarde Hücrelerini birleştirerek farklı Zygarde formları oluşturabilirsiniz.
 
 RESOURCE ID: breakthrough_free_remote_raid_pass
 TEXT: Araştırmada Büyük İlerlemelerden Uzak Akın Bileti ödülü
@@ -32478,7 +32478,7 @@ TEXT: 100. rütbede ilave ödüller kazanıp <b>Altın Şişe Kapağının</b> k
 RESOURCE ID: event_pass_gofest2025_upgrade_description
 TEXT: Lüks GO Bileti: Antiklerin Dönüşü satın alarak şu ödüllerin kilidini açabilirsiniz!
 
-• Bir Pokémon’un tüm istatistiklerini yükseltmek amacıyla tamamlayabileceğiniz Hiper Eğitimi başlatmak için kullanılan 1<a href="https://niantic.helpshift.com/hc/faq/5103-what-is-hyper-training/">Altın Şişe Kapağı</a>
+• Bir Pokémon’un tüm istatistiklerini yükseltmek amacıyla tamamlayabileceğiniz Hiper Eğitimi başlatmak için kullanılan 1<a href="https://scopelyexplore.helpshift.com/hc/faq/1113-what-is-hyper-training/">Altın Şişe Kapağı</a>
 • Zacian Maskesi avatar eşyası
 • Zamazenta Maskesi avatar eşyası
 • Çatlatma ve akın odaklı ayrıcalıklı bonuslar
@@ -32537,7 +32537,7 @@ TEXT: 100. rütbede ilave ödüller kazanıp <b>Altın Şişe Kapağının</b> k
 RESOURCE ID: event_pass_gofest2026_upgrade_description
 TEXT: Lüks GO Bileti: Efsanelerin Yolu’nu satın alarak şu ödüllerin kilidini açabilirsiniz!
 
-• Bir Pokémon’un tüm istatistiklerini yükseltmek amacıyla tamamlayabileceğiniz Hiper Eğitimi başlatmak için kullanılan 1 <a href="https://niantic.helpshift.com/hc/faq/5103-what-is-hyper-training/">Altın Şişe Kapağı</a>
+• Bir Pokémon’un tüm istatistiklerini yükseltmek amacıyla tamamlayabileceğiniz Hiper Eğitimi başlatmak için kullanılan 1 <a href="https://scopelyexplore.helpshift.com/hc/faq/1113-what-is-hyper-training/">Altın Şişe Kapağı</a>
 • Avatarınız için Takım Lideri Pozu
 • Özel arka plan garantili bir Mewtwo karşılaşması
 • Çatlatma ve akın odaklı ayrıcalıklı bonuslar
@@ -38808,7 +38808,7 @@ RESOURCE ID: general2.ticket._gowa25_leadup_title
 TEXT: Vahşi Maceraya Hazırlık Premium Süreli Araştırması Bileti
 
 RESOURCE ID: general2.ticket._gowa26_title
-TEXT: Pokémon GO Wild Area 2026 Global Ticket
+TEXT: Pokémon GO Vahşi Bölgesi 2026: Küresel Bileti
 
 RESOURCE ID: general2.ticket._megagalladeraidday_title
 TEXT: Mega Gallade Akın Günü Bileti
@@ -45181,8 +45181,17 @@ TEXT: Pokémon GO Festivali 2026: Şikago
 RESOURCE ID: gofest2026_copenhagen
 TEXT: Pokémon GO Festivali 2026: Kopenhag
 
+RESOURCE ID: gofest2026_tag
+TEXT: GO Fest 2026: Mega Finale
+
 RESOURCE ID: gofest2026_tokyo
 TEXT: Pokémon GO Festivali 2026: Tokyo
+
+RESOURCE ID: gofest2026_battle_district
+TEXT: Battle District
+
+RESOURCE ID: gofest2026_circuit_plaza
+TEXT: Circuit Plaza
 
 RESOURCE ID: gofest2026_collection_district
 TEXT: Toplama Mahallesi
@@ -45208,6 +45217,9 @@ TEXT: GO Roket Takımını alt edin
 RESOURCE ID: gofest2026_details_link
 TEXT: Ayrıntıları <a href="https://pokemongo.com/news/road-of-legends-2026">internet sitemizden</a> öğrenebilirsiniz.
 
+RESOURCE ID: gofest2026_eerie_alley
+TEXT: Eerie Alley
+
 RESOURCE ID: gofest2026_finale_details_link
 TEXT: Ayrıntıları <a href="https://Pokémongo.com/gofest/megafinale">GO Festivali 2026: Mega Final internet sitesinden</a> öğrenebilirsiniz.
 
@@ -45216,6 +45228,15 @@ TEXT: Arkadaşlık Mahallesi
 
 RESOURCE ID: gofest2026_investigation_district
 TEXT: Dedektiflik Mahallesi
+
+RESOURCE ID: gofest2026_iron_frostworks
+TEXT: Iron Frostworks
+
+RESOURCE ID: gofest2026_mindworks_canal
+TEXT: Mindworks Canal
+
+RESOURCE ID: gofest2026_prism_promenade
+TEXT: Prism Promenade
 
 RESOURCE ID: gofest2026_recruitment_zone
 TEXT: Şampiyon Bölgesi
@@ -45231,6 +45252,12 @@ TEXT: GO Roket Takımı Gizli Sığınağı Bonusu
 
 RESOURCE ID: gofest2026_scouting_district
 TEXT: Keşif Mahallesi
+
+RESOURCE ID: gofest2026_skyline_roosts
+TEXT: Skyline Roosts
+
+RESOURCE ID: gofest2026_verdant_overgrowth
+TEXT: Verdant Overgrowth
 
 RESOURCE ID: gofest_arlo_challenge#1
 TEXT: Kutlamanızı ele geçirdik ve sen hâlâ bana meydan okumak mı istiyorsun? Acı gerçeklerle yüzleşmeye hazırlan.
@@ -45734,7 +45761,7 @@ RESOURCE ID: gotour_2025_upgrade_description
 TEXT: Lüks Tur Biletini satın alarak şu ödüllerin kilidini açabilirsiniz:
 
 • Victini ile bir karşılaşma
-• Dilediğiniz bir arkadaşınızla anında Şanslı Arkadaş olma fırsatı sağlayan bir <a href="https://niantic.helpshift.com/hc/faq/4945-what-is-the-lucky-trinket/">Şanslı Süs Eşyası</a>
+• Dilediğiniz bir arkadaşınızla anında Şanslı Arkadaş olma fırsatı sağlayan bir <a href="https://scopelyexplore.helpshift.com/hc/faq/1147-what-is-the-lucky-trinket/">Şanslı Süs Eşyası</a>
 • Kyurem için füzyon enerjisi
 • Kyurem Kaskı avatar eşyası
 • Ve daha fazlası!
@@ -45754,7 +45781,7 @@ RESOURCE ID: gotour_2026_upgrade_description
 TEXT: Lüks GO Bileti: Kalos Yollarında’yı satın alarak şu ödüllerin kilidini açabilirsiniz:
 
 • Serbest Hoopa ile bir karşılaşma
-• Dilediğiniz bir arkadaşınızla anında Şanslı Arkadaş olma fırsatı sağlayan bir <a href="https://niantic.helpshift.com/hc/faq/4945-what-is-the-lucky-trinket/">Şanslı Süs Eşyası</a>
+• Dilediğiniz bir arkadaşınızla anında Şanslı Arkadaş olma fırsatı sağlayan bir <a href="https://scopelyexplore.helpshift.com/hc/faq/1147-what-is-the-lucky-trinket/">Şanslı Süs Eşyası</a>
 • Zygarde Hücreleri
 • Zygarde Montu avatar eşyası
 • Ve daha fazlası!
@@ -48952,16 +48979,16 @@ RESOURCE ID: heal_multiple_button
 TEXT: {0} Adet İyileştir
 
 RESOURCE ID: help_center_link
-TEXT: https://pokemongo.nianticlabs.com/support/contact/en
+TEXT: https://scopelyexplore.helpshift.com/hc/app/5-pokemon-go/
 
 RESOURCE ID: help_center_friends_link
-TEXT: https://niantic.helpshift.com/a/pokemon-go/?s=friends-gifting-trading&f=adding-friends
+TEXT: https://scopelyexplore.helpshift.com/hc/faq/1138-friend-list-friendship-levels/
 
 RESOURCE ID: help_center_raid_log_link
 TEXT: https://niantic.helpshift.com/a/pokemon-go/?s=troubleshooting&f=raid-troubleshooting-guide
 
 RESOURCE ID: helpshift_sharing_game_logs
-TEXT: https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/3325-sharing-game-logs/
+TEXT: https://scopelyexplore.helpshift.com/hc/faq/849-sharing-game-logs/
 
 RESOURCE ID: hemisphere_holiday_tr_name
 TEXT: Yıl Sonu 1. Kısım: Sahil Seyri Premium Süreli Araştırması
@@ -49165,7 +49192,7 @@ RESOURCE ID: home_pokemon_confirmation
 TEXT: {0} Pokémon'u göndermek istediğinizden emin misiniz?
 
 RESOURCE ID: home_privacy_warning
-TEXT: Pokémon GO'yu Pokémon HOME ile bağladığınızda Pokémon’ların taşınması sırasında The Pokémon Company ile belirli bilgiler paylaşılacaktır. Daha fazla bilgi için lütfen <a href="https://niantic.helpshift.com/a/pokemon-go/?s=accessories-and-services&f=sending-pokemon-to-pokemon-home">yardım makalesini</a> inceleyin. The Pokémon Company ile paylaşılan veriler, The Pokémon Company'nin kendi gizlilik politikasına tabidir.
+TEXT: Pokémon GO'yu Pokémon HOME ile bağladığınızda Pokémon’ların taşınması sırasında The Pokémon Company ile belirli bilgiler paylaşılacaktır. Daha fazla bilgi için lütfen <a href="https://scopelyexplore.helpshift.com/hc/faq/1339-sending-pokemon-to-pokemon-home/">yardım makalesini</a> inceleyin. The Pokémon Company ile paylaşılan veriler, The Pokémon Company'nin kendi gizlilik politikasına tabidir.
 
 RESOURCE ID: home_recharge_time_day_hour
 TEXT: Şarj Olmasına {0} Gün {1} Saat
@@ -52571,7 +52598,7 @@ RESOURCE ID: item_global_event_ticket_desc_gowa25
 TEXT: 15-16 Kasım 2025’te, yerel saatle gerçekleşecek Pokémon GO Vahşi Bölgesi 2025: Küresel özel araştırmasına dilediğiniz yerden katılmanıza olanak tanıyan bir bilet.
 
 RESOURCE ID: item_global_event_ticket_desc_gowa26
-TEXT: A ticket to access the Pokémon GO Wild Area 2026: Global Special Research on November 14 and November 15, 2026, wherever you are.
+TEXT: 14-15 Kasım 2026’da gerçekleşecek Pokémon GO Vahşi Bölgesi 2026: Küresel özel araştırmasına dilediğiniz yerden katılmanıza olanak tanıyan bir bilet.
 
 RESOURCE ID: item_global_event_ticket_desc_hisuiandecidueye
 TEXT: 11 Şubat 2024 Pazar, yerel saatle 14.00-22.00 arasında geçerli olacak özel bonuslara dilediğiniz yerden hak kazanmanıza olanak tanıyan bir bilet.
@@ -52630,9 +52657,9 @@ TEXT: Bu bilet 15-16 Kasım 2025’te, yerel saatle gerçekleşecek Pokémon GO 
 Etkinliğe ait tüm bonusları alabilmek için oyunu belirtilen saatlerde oynamalısınız.
 
 RESOURCE ID: item_global_event_ticket_details_gowa26
-TEXT: This ticket will automatically activate to give you access to the Pokémon GO Wild Area 2026: Global Special Research on November 14 and 15, wherever you are. Details can be found in the in-game News.
+TEXT: Bu bilet 14-15 Kasım 2026’da gerçekleşecek Pokémon GO Vahşi Bölgesi 2026: Küresel özel araştırmasına dilediğiniz yerden erişebilmeniz için otomatik olarak etkinleştirilecek. Ayrıntıları oyun içi Haberler bölümünde bulabilirsiniz.
 
-You must play during the specified time to receive all the event bonuses.
+Etkinliğe ait tüm bonusları alabilmek için oyunu belirtilen saatlerde oynamalısınız.
 
 RESOURCE ID: item_global_event_ticket_details_hisuiandecidueye
 TEXT: Bu bilet 11 Şubat’ta geçerli olacak özel bonuslara dilediğiniz yerden hak kazanabilmeniz için otomatik olarak etkinleştirilecek.
@@ -53568,10 +53595,10 @@ RESOURCE ID: jp_2026_ana_title
 TEXT: Gökyüzünde Macera
 
 RESOURCE ID: jp_iap_link1
-TEXT: https://niantic.helpshift.com/hc/ja/6-pokemon-go/faq/2046-%E8%B3%87%E9%87%91%E6%B1%BA%E6%B8%88%E6%B3%95%E3%81%AB%E5%9F%BA%E3%81%A4%E3%81%8F%E8%A1%A8%E7%A4%BA/?s=others&f=%E8%B3%87%E9%87%91%E6%B1%BA%E6%B8%88%E6%B3%95%E3%81%AB%E5%9F%BA%E3%81%A4%E3%81%8F%E8%A1%A8%E7%A4%BA&l=ja&p=web
+TEXT: https://scopelyexplore.helpshift.com/hc/ja/5-pokemon-go/faq/1492-%E8%B3%87%E9%87%91%E6%B1%BA%E6%B8%88%E6%B3%95%E3%81%AB%E5%9F%BA%E3%81%A4%E3%81%8F%E8%A1%A8%E7%A4%BA/
 
 RESOURCE ID: jp_iap_link2
-TEXT: https://niantic.helpshift.com/hc/ja/6-pokemon-go/faq/150-%E7%89%B9%E5%AE%9A%E5%95%86%E5%8F%96%E5%BC%95%E6%B3%95%E3%81%AB%E5%9F%BA%E3%81%A4%E3%81%8F%E8%A1%A8%E7%A4%BA/?s=others&f=%E8%B3%87%E9%87%91%E6%B1%BA%E6%B8%88%E6%B3%95%E3%81%AB%E5%9F%BA%E3%81%A4%E3%81%8F%E8%A1%A8%E7%A4%BA&l=ja&p=web
+TEXT: https://scopelyexplore.helpshift.com/hc/ja/5-pokemon-go/faq/1490-%E7%89%B9%E5%AE%9A%E5%95%86%E5%8F%96%E5%BC%95%E6%B3%95%E3%81%AB%E5%9F%BA%E3%81%A4%E3%81%8F%E8%A1%A8%E7%A4%BA/
 
 RESOURCE ID: jp_iap_linkname1
 TEXT: Link 1
@@ -53875,6 +53902,12 @@ TEXT: Boşluk
 
 RESOURCE ID: keyboard_symbols
 TEXT: Semboller
+
+RESOURCE ID: kindling_2026_mini_collection
+TEXT: Kanto Homecoming: Road to Mewtwo
+
+RESOURCE ID: kindling_2026_mini_collection_desc
+TEXT: Catch the Pokémon from the Kanto Homecoming Timed Research to encounter Mewtwo!
 
 RESOURCE ID: kingler_gmax_tr_2025_title
 TEXT: Gigantamaks Kingler Premium Süreli Araştırması
@@ -59403,10 +59436,10 @@ at SHA 413df5befdbe0d00a543f8a142221526d63b719a
 Pipeline 834428, job 8736424
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-08-18T00:48:15.368257+00:00 for tr-TR
-at SHA 4c5aa5ac97f
-Pipeline 3880013, job 57040572
-Patch from: 0.423.1-SHA-70644676-RC1, 0.425.0-SHA-73e817e6-RC3, 0.427.0-SHA-bafb3348-RC1
+TEXT: Built at 2026-08-21T22:45:32.872454+00:00 for tr-TR
+at SHA 222138e7072
+Pipeline 3890765, job 57214802
+Patch from: 0.425.0-SHA-e7185dda-RC1, 0.423.1-SHA-70644676-RC1, 0.427.0-SHA-fc729f25-RC2
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: Süreli Araştırma: Dövüşçünüzü Seçin
@@ -67711,7 +67744,7 @@ RESOURCE ID: poi_sub_failed_error
 TEXT: Aday gösterme başarısız. Lütfen tekrar deneyin.
 
 RESOURCE ID: poi_sub_faq_web_link
-TEXT: https://niantic.helpshift.com/a/wayfarer/?s=wayspot-criteria
+TEXT: https://scopelyexplore.helpshift.com/hc/section/158-wayspot-criteria/
 
 RESOURCE ID: poi_sub_gallery_permission_desc
 TEXT: Fotoğraf galerinizi kullanarak bir PokéDurak adaylığı göstermek için lütfen cihazınızın ayarlar menüsünden ilgili izinleri verin.
@@ -67819,7 +67852,7 @@ RESOURCE ID: poi_sub_submit_button
 TEXT: GÖNDER
 
 RESOURCE ID: poi_sub_suggestion_web_link
-TEXT: https://niantic.helpshift.com/a/wayfarer/?p=web&s=wayspot-eligibility
+TEXT: https://scopelyexplore.helpshift.com/hc/faq/1980-eligibility-criteria/
 
 RESOURCE ID: poi_sub_surrounding_img_desc
 TEXT: Bu fotoğraf, çevredeki alanın değerlendirilmesine yardımcı olmak için kullanılacaktır.
@@ -81837,6 +81870,9 @@ TEXT: İlk olarak Kalos bölgesinde keşfedilmiş bir Pokémon yakalayın
 RESOURCE ID: quest_catch_kanto_pokemon
 TEXT: İlk olarak Kanto bölgesinde keşfedilmiş {0} Pokémon yakalayın
 
+RESOURCE ID: quest_catch_kanto_pokemon_days
+TEXT: Catch Pokémon originally discovered in the Kanto region on {0} different days
+
 RESOURCE ID: quest_catch_kanto_starters_plural
 TEXT: {0} Bulbasaur, Charmander veya Squirtle yakalayın
 
@@ -82900,7 +82936,7 @@ RESOURCE ID: quest_defeat_mega_malamar_singular
 TEXT: Mega Malamar’ı alt edin
 
 RESOURCE ID: quest_defeat_mega_raichu_singular
-TEXT: Mega Raichu’yu alt edin
+TEXT: Mega Raichu X veya Mega Raichu Y’yi alt edin
 
 RESOURCE ID: quest_defeat_mega_skarmory_singular
 TEXT: Mega Skarmory’yi alt edin
@@ -97409,13 +97445,13 @@ RESOURCE ID: quest_special_dialogue_zygarde_1_2
 TEXT: İlginçtir ki bazıları rotalar üzerinde yeşil, biçimsiz kütlelere rastladıklarını yazmışlar. Kimi Eğitmenler bunların canlı olabileceğini bile belirtmiş!
 
 RESOURCE ID: quest_special_dialogue_zygarde_1_2_temp
-TEXT: Curiously, several mentioned unusual activity along nearby Routes. Some Trainers even spotted something they couldn’t identify!
+TEXT: Yakınlardaki rotalarda olağandışı şeyler olduğuna dair raporlar alıyorum. Bazı Eğitmenler ne olduğunu anlayamadıkları bir şeyle karşılaştıklarını söylediler!
 
 RESOURCE ID: quest_special_dialogue_zygarde_1_3
 TEXT: Bu oynak kütlelerin ne olabileceği hakkında bir teorim var ama önce araştırma notlarımı gözden geçirmek istiyorum. Belki daha önce bahsettiğim makaleyi de tekrar okurum...
 
 RESOURCE ID: quest_special_dialogue_zygarde_1_3_temp
-TEXT: I have a theory about what might be drawing attention out there, but I’d like to look through my research materials a tad more first. Maybe even reread that article from earlier...
+TEXT: Burada dikkatleri çeken şeyin ne olabileceği hakkında bir teorim var ama önce araştırma notlarımı gözden geçirmek istiyorum. Belki daha önce bahsettiğim makaleyi de tekrar okurum...
 
 RESOURCE ID: quest_special_dialogue_zygarde_1_4
 TEXT: Bu arada sen alan araştırmana devam et lütfen. Döndüğünde sana vereceğim bilgiler biraz daha biçim almış olacak eminim.
@@ -97454,7 +97490,7 @@ RESOURCE ID: quest_special_dialogue_zygarde_3_5
 TEXT: Hücreleri nerede bulabileceğine gelince... Rotaların üstünde keşfedilen o yeşil, biçimsiz kütleleri hatırlıyor musun? Bahse girerim onlar aslında Zygarde Hücreleriydi!
 
 RESOURCE ID: quest_special_dialogue_zygarde_3_5_temp
-TEXT: And where can you find those Cells? Well, do you recall the unusual activity along Routes I mentioned earlier? I reckon it may have been caused by Zygarde Cells!
+TEXT: O hücreleri nereden buldun? Daha önce olağandışı olaylarla ilgili söylediklerimi hatırlıyor musun? İşte onların Zygarde Hücrelerinden kaynaklandığını düşünüyorum!
 
 RESOURCE ID: quest_special_dialogue_zygarde_3_6
 TEXT: Senden bu varsayımı test etmeni rica edebilir miyim %PLAYERNAME%?
@@ -108790,7 +108826,7 @@ RESOURCE ID: replay_water_research_day_event_name
 TEXT: Yeniden: Su Araştırma Günü
 
 RESOURCE ID: report_issues_link
-TEXT: https://pokemongo.nianticlabs.com/support/contact/en
+TEXT: https://scopelyexplore.helpshift.com/hc/app/5-pokemon-go/
 
 RESOURCE ID: report_route_subtitle
 TEXT: Lütfen aşağıdaki listeden en fazla beş gerekçe seçin.
@@ -108826,7 +108862,7 @@ RESOURCE ID: report_route_bug_info_zygarde
 TEXT: Zygard Hücrelerinin her rotada çıkacağı garantili değildir.
 
 RESOURCE ID: report_route_bug_info_zygarde_temp
-TEXT: Zygarde Cells are not guaranteed to appear at the end of every Route.
+TEXT: Zygarde Hücrelerinin her rotanın sonunda çıkacağı garantili değildir.
 
 RESOURCE ID: report_route_bug_reason_candy
 TEXT: Dostum bu rotada daha hızlı şeker kazanmadı.
@@ -109426,7 +109462,7 @@ RESOURCE ID: route_add_point
 TEXT: Konum olarak seçin
 
 RESOURCE ID: route_appeal_info_link
-TEXT: https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/135-submitting-a-ban-appeal/
+TEXT: https://scopelyexplore.helpshift.com/hc/faq/1291-submitting-a-ban-appeal/
 
 RESOURCE ID: route_appealed_deletion_confirm_description
 TEXT: Bu eylem geri alınamaz. Devam ederseniz bu rota tamamen ortadan kalkacak ve itiraz başvurunuz değerlendirilmeyecek.
@@ -110181,7 +110217,7 @@ RESOURCE ID: route_gift_exchange_onboarding_body_2
 TEXT: Mateo seçtiğiniz Hediyeye Eğitmen adınızı ekler ve onu dünyanın başka bir yerine götürür. Karşılığında da size başka bir Eğitmenden bir Hediye getirir. Bu Hediyelerden eşyalar ve yumurtalar alabilir, ayrıca kartpostalları sabitleyerek Scatterbug ile karşılaşabilirsiniz.
 
 RESOURCE ID: route_guidelines_link
-TEXT: https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/4378-routes-guidelines/
+TEXT: https://scopelyexplore.helpshift.com/hc/faq/1219-routes-guidelines/
 
 RESOURCE ID: route_header_travel_time_label
 TEXT: ({0} min)
@@ -110202,7 +110238,7 @@ RESOURCE ID: route_last_trip_label
 TEXT: Son Gezi
 
 RESOURCE ID: route_learn_more_url
-TEXT: https://niantic.helpshift.com/hc/faq/4184-routes-faq/
+TEXT: https://scopelyexplore.helpshift.com/hc/faq/1220-routes-faq/
 
 RESOURCE ID: route_list_context_title
 TEXT: List of pokestops
@@ -111635,7 +111671,7 @@ RESOURCE ID: rsvp_attendance_tutorial_link_text_key
 TEXT: Eğitmen takma adınızın oyunda nerelerde göründüğünü buradan öğrenebilirsiniz.
 
 RESOURCE ID: rsvp_attendance_tutorial_link_url_key
-TEXT: https://niantic.helpshift.com/hc/{0}/6-pokemon-go/faq/4286-controlling-your-experience-on-pokemon-go/
+TEXT: https://scopelyexplore.helpshift.com/hc/faq/1312-controlling-your-experience-in-pokemon-go/
 
 RESOURCE ID: rsvp_attendance_tutorial_message_key
 TEXT: Diğer Eğitmenler katılım planladığınız maçları görüntüleyebilecek. İstediğiniz zaman Ayarlar kısmından bunu değiştirebilirsiniz.
@@ -112941,7 +112977,7 @@ RESOURCE ID: search_favorite_added
 TEXT: Arama terimi Favorilere eklendi
 
 RESOURCE ID: search_filter_help_url
-TEXT: https://niantic.helpshift.com/hc/faq/1486-searching-filtering-your-pokemon-inventory/
+TEXT: https://scopelyexplore.helpshift.com/hc/faq/1126-searching-filtering-your-pokemon-inventory/
 
 RESOURCE ID: search_keywords_button
 TEXT: TÜM ANAHTAR KELİMELERİ GÖR
@@ -113514,12 +113550,12 @@ TEXT: Ek ödüller kazanın ve 100. seviyede <b>Xerneas ile bir karşılaşmanı
 RESOURCE ID: season_pass_april2025_upgrade_description
 TEXT: Lüks GO Bileti: Nisan’ı satın alarak şu ödüllerin kilidini açabilirsiniz:
 • Xerneas ile ilave bir karşılaşma
-• Dilediğiniz bir arkadaşınızla anında Şanslı Arkadaş olma fırsatı sağlayan bir <a href="https://niantic.helpshift.com/hc/faq/4945-what-is-the-lucky-trinket/">Şanslı Süs Eşyası</a>
+• Dilediğiniz bir arkadaşınızla anında Şanslı Arkadaş olma fırsatı sağlayan bir <a href="https://scopelyexplore.helpshift.com/hc/faq/1147-what-is-the-lucky-trinket/">Şanslı Süs Eşyası</a>
 • Ve daha fazlası!
 
 RESOURCE ID: season_pass_april2025_upgrade_description_no_additional_legendary
 TEXT: Lüks GO Bileti: Nisan’ı satın alarak şu ödüllerin kilidini açabilirsiniz:
-• Dilediğiniz bir arkadaşınızla anında Şanslı Arkadaş olma fırsatı sağlayan bir <a href="https://niantic.helpshift.com/hc/faq/4945-what-is-the-lucky-trinket/">Şanslı Süs Eşyası</a>
+• Dilediğiniz bir arkadaşınızla anında Şanslı Arkadaş olma fırsatı sağlayan bir <a href="https://scopelyexplore.helpshift.com/hc/faq/1147-what-is-the-lucky-trinket/">Şanslı Süs Eşyası</a>
 • Ve daha fazlası!
 
 RESOURCE ID: season_pass_april2026_event_duration
@@ -113531,7 +113567,7 @@ TEXT: 100. rütbede ilave ödüller kazanıp <b>Şanslı Süs Eşyasının</b> k
 RESOURCE ID: season_pass_april2026_upgrade_description
 TEXT: Lüks GO Bileti: Nisan’ı satın alarak şu ödüllerin kilidini açabilirsiniz:
 • Bir Süper Kuluçka Makinesi
-• Dilediğiniz bir arkadaşınızla anında Şanslı Arkadaş olma fırsatı sağlayan bir <a href="https://niantic.helpshift.com/hc/faq/4945-what-is-the-lucky-trinket/">Şanslı Süs Eşyası</a>
+• Dilediğiniz bir arkadaşınızla anında Şanslı Arkadaş olma fırsatı sağlayan bir <a href="https://scopelyexplore.helpshift.com/hc/faq/1147-what-is-the-lucky-trinket/">Şanslı Süs Eşyası</a>
 • Ve daha fazlası!
 
 RESOURCE ID: season_pass_aug2025_event_duration
@@ -113540,7 +113576,7 @@ TEXT: 5 Ağustos- 2 Eylül
 RESOURCE ID: season_pass_aug2025_upgrade_description
 TEXT: Lüks GO Bileti: Ağustos’u satın alarak şu ödüllerin kilidini açabilirsiniz:
 • Bir Süper Kuluçka Makinesi
-• Dilediğiniz bir arkadaşınızla anında Şanslı Arkadaş olma fırsatı sağlayan bir <a href="https://niantic.helpshift.com/hc/faq/4945-what-is-the-lucky-trinket/">Şanslı Süs Eşyası</a>
+• Dilediğiniz bir arkadaşınızla anında Şanslı Arkadaş olma fırsatı sağlayan bir <a href="https://scopelyexplore.helpshift.com/hc/faq/1147-what-is-the-lucky-trinket/">Şanslı Süs Eşyası</a>
 • Ve daha fazlası!
 
 RESOURCE ID: season_pass_august2026_event_duration
@@ -113553,7 +113589,7 @@ RESOURCE ID: season_pass_august2026_upgrade_description
 TEXT: Lüks GO Bileti: Ağustos’u satın alarak şu ödüllerin kilidini açabilirsiniz!
 
 • Her günün ilk PokéDurak döndürmesi için tek kullanımlık bir Kuluçka Makinesi
-• Dilediğiniz bir arkadaşınızla anında Şanslı Arkadaş olma fırsatı sağlayan bir <a href="https://niantic.helpshift.com/hc/faq/4945-what-is-the-lucky-trinket/">Şanslı Süs Eşyası</a>
+• Dilediğiniz bir arkadaşınızla anında Şanslı Arkadaş olma fırsatı sağlayan bir <a href="https://scopelyexplore.helpshift.com/hc/faq/1147-what-is-the-lucky-trinket/">Şanslı Süs Eşyası</a>
 • Ve daha fazlası!
 
 RESOURCE ID: season_pass_base_track_title_april
@@ -113693,7 +113729,7 @@ TEXT: 20. rütbede ilave ödüller kazanıp <b>Süreli Kuluçka Makinesinin</b> 
 RESOURCE ID: season_pass_december2025_upgrade_description
 TEXT: Lüks GO Bileti: Aralık’ı satın alarak şu ödüllerin kilidini açabilirsiniz:
 • Bir Süper Kuluçka Makinesi
-• Keşif yaparken yumurta çatlatmak için sınırlı süreliğine kullanabileceğiniz ilave bir sonsuz Kuluçka Makinesi olan bir <a href="https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2358-incubators-hatching-pokemon-eggs/">Süreli Kuluçka Makinesi</a>!
+• Keşif yaparken yumurta çatlatmak için sınırlı süreliğine kullanabileceğiniz ilave bir sonsuz Kuluçka Makinesi olan bir <a href="https://scopelyexplore.helpshift.com/hc/faq/1118-incubators-hatching-pokemon-eggs/">Süreli Kuluçka Makinesi</a>!
 • Ve daha fazlası!
 
 RESOURCE ID: season_pass_details_link
@@ -113844,7 +113880,7 @@ TEXT: 6 Ocak - 5 Şubat
 RESOURCE ID: season_pass_january2026_upgrade_description
 TEXT: Lüks GO Bileti: Ocak’ı satın alarak şu ödüllerin kilidini açabilirsiniz:
 • Bir Süper Kuluçka Makinesi
-• Dilediğiniz bir arkadaşınızla anında Şanslı Arkadaş olma fırsatı sağlayan bir <a href="https://niantic.helpshift.com/hc/faq/4945-what-is-the-lucky-trinket/">Şanslı Süs Eşyası</a>
+• Dilediğiniz bir arkadaşınızla anında Şanslı Arkadaş olma fırsatı sağlayan bir <a href="https://scopelyexplore.helpshift.com/hc/faq/1147-what-is-the-lucky-trinket/">Şanslı Süs Eşyası</a>
 • Ve daha fazlası!
 
 RESOURCE ID: season_pass_july2025_event_duration
@@ -113853,7 +113889,7 @@ TEXT: 1 Temmuz-5 Ağustos
 RESOURCE ID: season_pass_july2025_upgrade_description
 TEXT: Lüks GO Bileti: Temmuz’u satın alarak şu ödüllerin kilidini açabilirsiniz:
 • Bir Süper Kuluçka Makinesi
-• Dilediğiniz bir arkadaşınızla anında Şanslı Arkadaş olma fırsatı sağlayan bir <a href="https://niantic.helpshift.com/hc/faq/4945-what-is-the-lucky-trinket/">Şanslı Süs Eşyası</a>
+• Dilediğiniz bir arkadaşınızla anında Şanslı Arkadaş olma fırsatı sağlayan bir <a href="https://scopelyexplore.helpshift.com/hc/faq/1147-what-is-the-lucky-trinket/">Şanslı Süs Eşyası</a>
 • Ve daha fazlası!
 
 RESOURCE ID: season_pass_july2026_event_duration
@@ -113875,7 +113911,7 @@ TEXT: 3 Haziran-1 Temmuz
 RESOURCE ID: season_pass_june2025_upgrade_description
 TEXT: Lüks GO Bileti: Haziran’ı satın alarak şu ödüllerin kilidini açabilirsiniz:
 • Bir Süper Kuluçka Makinesi
-• Dilediğiniz bir arkadaşınızla anında Şanslı Arkadaş olma fırsatı sağlayan bir <a href="https://niantic.helpshift.com/hc/faq/4945-what-is-the-lucky-trinket/">Şanslı Süs Eşyası</a>
+• Dilediğiniz bir arkadaşınızla anında Şanslı Arkadaş olma fırsatı sağlayan bir <a href="https://scopelyexplore.helpshift.com/hc/faq/1147-what-is-the-lucky-trinket/">Şanslı Süs Eşyası</a>
 • Ve daha fazlası!
 
 RESOURCE ID: season_pass_june2026_event_duration
@@ -113887,7 +113923,7 @@ TEXT: 20. rütbede ilave ödüller kazanıp <b>Süreli Kuluçka Makinesinin</b> 
 RESOURCE ID: season_pass_june2026_upgrade_description
 TEXT: Lüks GO Bileti: Haziran’ı satın alarak şu ödüllerin kilidini açabilirsiniz:
 • Bir Süper Kuluçka Makinesi
-• Keşfederken yumurta çatlatmanız için sınırlı süreli bir sonsuz Kuluçka Makinesi olan bir <a href="https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2358-incubators-hatching-pokemon-eggs/">Süreli Kuluçka Makinesi</a>!
+• Keşfederken yumurta çatlatmanız için sınırlı süreli bir sonsuz Kuluçka Makinesi olan bir <a href="https://scopelyexplore.helpshift.com/hc/faq/1118-incubators-hatching-pokemon-eggs/">Süreli Kuluçka Makinesi</a>!
 • Ve daha fazlası!
 
 RESOURCE ID: season_pass_march2026_event_duration
@@ -113900,7 +113936,7 @@ RESOURCE ID: season_pass_march2026_upgrade_description
 TEXT: Lüks GO Bileti: Mart’ı satın alarak şu ödüllerin kilidini açabilirsiniz:
 
 • Bir Süper Kuluçka Makinesi
-• Keşif yaparken yumurta çatlatmak için sınırlı süreliğine kullanabileceğiniz ilave bir sonsuz Kuluçka Makinesi olan bir <a href="https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2358-incubators-hatching-pokemon-eggs/">Süreli Kuluçka Makinesi</a>!
+• Keşif yaparken yumurta çatlatmak için sınırlı süreliğine kullanabileceğiniz ilave bir sonsuz Kuluçka Makinesi olan bir <a href="https://scopelyexplore.helpshift.com/hc/faq/1118-incubators-hatching-pokemon-eggs/">Süreli Kuluçka Makinesi</a>!
 • Ve daha fazlası!
 
 RESOURCE ID: season_pass_may2025_event_duration
@@ -113912,12 +113948,12 @@ TEXT: Ek ödüller kazanın ve 100. seviyede <b>Yveltal ile bir karşılaşmanı
 RESOURCE ID: season_pass_may2025_upgrade_description
 TEXT: Lüks GO Bileti: Mayıs’ı satın alarak şu ödüllerin kilidini açabilirsiniz:
 • Yveltal ile ilave bir karşılaşma
-• Dilediğiniz bir arkadaşınızla anında Şanslı Arkadaş olma fırsatı sağlayan bir <a href="https://niantic.helpshift.com/hc/faq/4945-what-is-the-lucky-trinket/">Şanslı Süs Eşyası</a>
+• Dilediğiniz bir arkadaşınızla anında Şanslı Arkadaş olma fırsatı sağlayan bir <a href="https://scopelyexplore.helpshift.com/hc/faq/1147-what-is-the-lucky-trinket/">Şanslı Süs Eşyası</a>
 • Ve daha fazlası!
 
 RESOURCE ID: season_pass_may2025_upgrade_description_no_additional_legendary
 TEXT: Lüks GO Bileti: Mayıs’ı satın alarak şu ödüllerin kilidini açabilirsiniz:
-• Dilediğiniz bir arkadaşınızla anında Şanslı Arkadaş olma fırsatı sağlayan bir <a href="https://niantic.helpshift.com/hc/faq/4945-what-is-the-lucky-trinket/">Şanslı Süs Eşyası</a>
+• Dilediğiniz bir arkadaşınızla anında Şanslı Arkadaş olma fırsatı sağlayan bir <a href="https://scopelyexplore.helpshift.com/hc/faq/1147-what-is-the-lucky-trinket/">Şanslı Süs Eşyası</a>
 • Ve daha fazlası!
 
 RESOURCE ID: season_pass_may2026_event_duration
@@ -113951,7 +113987,7 @@ TEXT: 4 Kasım - 2 Aralık
 RESOURCE ID: season_pass_november2025_upgrade_description
 TEXT: Lüks GO Bileti: Kasım’ı satın alarak şu ödüllerin kilidini açabilirsiniz:
 • Bir Süper Kuluçka Makinesi
-• Dilediğiniz bir arkadaşınızla anında Şanslı Arkadaş olma fırsatı sağlayan bir <a href="https://niantic.helpshift.com/hc/faq/4945-what-is-the-lucky-trinket/">Şanslı Süs Eşyası</a>
+• Dilediğiniz bir arkadaşınızla anında Şanslı Arkadaş olma fırsatı sağlayan bir <a href="https://scopelyexplore.helpshift.com/hc/faq/1147-what-is-the-lucky-trinket/">Şanslı Süs Eşyası</a>
 • Ve daha fazlası!
 
 RESOURCE ID: season_pass_october2025_event_duration
@@ -114175,7 +114211,7 @@ TEXT: {1}. rütbede ilave ödüller kazanıp <b>{0}</b> kilidini açabilirsiniz!
 RESOURCE ID: season_pass_september2025_upgrade_description
 TEXT: Lüks GO Bileti: Eylül’ü satın alarak şu ödüllerin kilidini açabilirsiniz:
 • Bir Süper Kuluçka Makinesi
-• Keşfederken yumurta çatlatmanız için sınırlı süreli bir sonsuz Kuluçka Makinesi olan bir <a href="https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2358-incubators-hatching-pokemon-eggs/">Süreli Kuluçka Makinesi</a>!
+• Keşfederken yumurta çatlatmanız için sınırlı süreli bir sonsuz Kuluçka Makinesi olan bir <a href="https://scopelyexplore.helpshift.com/hc/faq/1118-incubators-hatching-pokemon-eggs/">Süreli Kuluçka Makinesi</a>!
 • Ve daha fazlası!
 
 RESOURCE ID: season_pass_shockingly_good_2026_event_duration
@@ -114264,7 +114300,20 @@ TEXT: 25-30 Ağustos
 RESOURCE ID: season_pass_wcs_2026_track_upgrade_header_description
 TEXT: 30. rütbede ilave ödüller kazanıp <b>Zapdos’un</b> kilidini açabilirsiniz!
 
+RESOURCE ID: season_pass_wcs_2026_track_upgrade_header_description_backpack
+TEXT: 15. rütbede ilave ödüller kazanıp <b>2026 Dünya Şampiyonası/PokémonXP Sırt Çantası’nın</b> kilidini açabilirsiniz!
+
 RESOURCE ID: season_pass_wcs_2026_upgrade_description
+TEXT: Lüks GO Bileti: PokémonXP ve 2026 Dünya Şampiyonası satın alarak aşağıdaki ödüllerin kilidini açabilirsiniz!
+
+• 2026 Dünya Şampiyonası/PokémonXP Sırt Çantası
+• Cosmog temalı uzay kıyafetli Pikachu ile karşılaşma
+• Dünya Şampiyonası 2026 Pikachu ile karşılaşma
+• Etkinlik temalı Pokémon’larla karşılaşmalar
+• Nadir Büyük Şeker
+• Ve dahası!
+
+RESOURCE ID: season_pass_wcs_2026_upgrade_description_out
 TEXT: Lüks GO Bileti: PokémonXP ve 2026 Dünya Şampiyonası satın alarak aşağıdaki ödüllerin kilidini açabilirsiniz!
 
 • Cosmog temalı uzay kıyafetli Pikachu ile karşılaşma
@@ -115124,7 +115173,7 @@ RESOURCE ID: settings_wearables_device_status_unpaired
 TEXT: Not Paired
 
 RESOURCE ID: settings_wearables_device_troubleshooting_url
-TEXT: <url with language query param in it>
+TEXT: https://scopelyexplore.helpshift.com/hc/faq/1337-pairing-and-connecting-pokemon-go-to-official-devices/
 
 RESOURCE ID: settings_wearables_empty_device_list
 TEXT: No Devices Found
@@ -115363,6 +115412,9 @@ TEXT: Arkadaşınız {0}, sizi {1} konumundaki Özel Akına davet etti.
 RESOURCE ID: shelmetkarrablast_post_cd_timed_research_name
 TEXT: Shelmet ve Karrablast Topluluk Gününün Devamı Süreli Araştırması
 
+RESOURCE ID: shield_break_adventure_effect_battle_log
+TEXT: YOUR ATTACKS ARE BOOSTED BY DYNAMIC PUNCH+’S ADVENTURE EFFECT!
+
 RESOURCE ID: shinjuku_cross_title
 TEXT: クロス新宿ビジョン
 
@@ -115574,7 +115626,7 @@ RESOURCE ID: shop_daily_bonus_header
 TEXT: Özel bir hediye!
 
 RESOURCE ID: shop_discount_disclaimer_helpshift_url
-TEXT: https://niantic.helpshift.com/hc/faq/4707-notice-regarding-discount-rates-displayed-in-the-shop/
+TEXT: https://scopelyexplore.helpshift.com/hc/faq/1267-notice-regarding-discount-rates-displayed-in-the-shop/
 
 RESOURCE ID: shop_discount_disclaimer_modal_title
 TEXT: Sınırlı Süreli İndirim
@@ -115606,12 +115658,12 @@ TEXT: {0} tamamen geliştirildi!
 RESOURCE ID: shop_fully_upgraded_purchasable
 TEXT: {0} tamamen geliştirildi! Seviye atlayarak depo kapasitenizi daha da geliştirebilirsiniz!
 
-<a href="https://niantic.helpshift.com/hc/tr/6-pokemon-go/faq/3049-available-items-your-bag/">Seviye atlama hakkındaki ayrıntıları buradan öğrenebilirsiniz.</a>
+<a href="https://scopelyexplore.helpshift.com/hc/faq/1432-available-items-your-bag/">Seviye atlama hakkındaki ayrıntıları buradan öğrenebilirsiniz.</a>
 
 RESOURCE ID: shop_fully_upgraded_purchasable_plural
 TEXT: {0} tamamen geliştirildi! Seviye atlayarak depo kapasitenizi daha da geliştirebilirsiniz!
 
-<a href="https://niantic.helpshift.com/hc/tr/6-pokemon-go/faq/3049-available-items-your-bag/">Seviye atlama hakkındaki ayrıntıları buradan öğrenebilirsiniz.</a>
+<a href="https://scopelyexplore.helpshift.com/hc/faq/1432-available-items-your-bag/">Seviye atlama hakkındaki ayrıntıları buradan öğrenebilirsiniz.</a>
 
 RESOURCE ID: shop_gift_friend_ineligible_title
 TEXT: Hediye Gönderilemiyor
@@ -116680,6 +116732,9 @@ TEXT: Poké Topu Yok
 
 RESOURCE ID: soft_sfida_title_pokemon_full
 TEXT: Pokémon deponuz dolu.
+
+RESOURCE ID: soft_sfida_tutorial_url
+TEXT: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1250-what-is-the-explorer-gadget/
 
 RESOURCE ID: soft_sfida_warn_items_full
 TEXT: Eşya Çantası dolu.
@@ -122201,7 +122256,7 @@ TEXT: 16 Mayıs 2024, yerel saatle 00.00 - 30 Mayıs 2024, yerel saatle 23.59 ar
 
 Bu bileti satın aldığınızda 16-30 Mayıs tarihleri arasında her gün ilk giriş yaptığınızda bir bonus alan araştırması alabilirsiniz.
 
-Aklınızda bulunsun: Herhangi bir gün giriş yaparken bu bonus alan araştırmasını alabilmek için aktif alan araştırması görevlerinizin sayısı üç veya daha az olmalı! Ayrıca, görevi tamamladıktan sonra 20 PokéPara ödülünü edinebilmek için önce ödülü almalısınız. Bonus alan araştırması görevleri hakkında ayrıntılı bilgiye <a href="https://niantic.helpshift.com/hc/tr/6-pokemon-go/faq/2479-why-does-my-field-research-task-have-a-bonus-tag/">buradan</a> ulaşabilirsiniz.
+Aklınızda bulunsun: Herhangi bir gün giriş yaparken bu bonus alan araştırmasını alabilmek için aktif alan araştırması görevlerinizin sayısı üç veya daha az olmalı! Ayrıca, görevi tamamladıktan sonra 20 PokéPara ödülünü edinebilmek için önce ödülü almalısınız. Bonus alan araştırması görevleri hakkında ayrıntılı bilgiye <a href="https://scopelyexplore.helpshift.com/hc/faq/1098-why-does-my-field-research-task-have-a-bonus-tag/">buradan</a> ulaşabilirsiniz.
 
 RESOURCE ID: text_rewards_key_conciergecb0925
 TEXT: <b>Şu ödülleri içerir:</b>
@@ -122573,14 +122628,14 @@ TEXT: <b>Şu bonusları içerir:</b>
 <a href="https://pokemongolive.com/gowildarea/global">Bilet bonusları hakkındaki ayrıntıları buradan öğrenebilirsiniz.</a>
 
 RESOURCE ID: text_rewards_key_gowa26
-TEXT: <b>Includes:</b>
-• Up to 6 free Raid Passes each day from spinning Gym Photo Discs
-• Increased chance of receiving event 10 km Eggs from PokéStops
-• Up to 6 Special Trades per day and reduced Stardust cost for trades
-• 1/2 Hatch Distance when Eggs are placed in an Incubator during the event
-• 2× Candy for catching Pokémon
-• A higher chance to encounter Shiny Pokémon during the event
-Learn more about the ticket bonuses <a href="pokemongo.com/gowildarea/global">here</a>.
+TEXT: <b>Şu bonusları içerir:</b>
+• Spor salonu fotoğraf disklerini döndürerek her gün 6 adede kadar ücretsiz Akın Bileti
+• PokéDurakları döndürerek 10 km’lik etkinlik yumurtası alma şansında artış
+• Takaslar için gereken yıldız tozu bedelinde indirim ve günde 6 adede kadar özel takas
+• Etkinlik sırasında Kuluçka Makinesine konan yumurtalar için 1/2 çatlatma mesafesi
+• Pokémon yakalama için 2× şeker
+• Etkinlik boyunca Parlak Pokémon’larla karşılaşma şansında artış
+Bilet bonusları hakkındaki ayrıntıları <a href="pokemongo.com/gowildarea/global">buradan</a> öğrenebilirsiniz.
 
 RESOURCE ID: text_rewards_key_growingup0525
 TEXT: <b>Şu ödülleri içerir:</b>
@@ -122897,7 +122952,7 @@ TEXT: Bu bilet ile 3 Kasım 2024 - 2 Aralık 2024 arasında bonusların yanı s�
 • PokéDurak ve spor salonlarından günde 150 adede kadar Hediye toplama
 • Eşya Çantanızda aynı anda 40 adede kadar Hediye bulundurma
 
-Aklınızda bulunsun: Herhangi bir gün giriş yaparken bu bonus alan araştırmasını alabilmek için aktif alan araştırması görevlerinizin sayısı üç veya daha az olmalıdır. Ayrıca, görevi tamamladıktan sonra 20 bonus PokéPara ödülünü edinebilmek için önce ödülü almalısınız. Bonus alan araştırması görevleri hakkında ayrıntılı bilgiye <a href="https://niantic.helpshift.com/hc/faq/2479-why-does-my-field-research-task-have-a-bonus-tag/">buradan</a> ulaşabilirsiniz.
+Aklınızda bulunsun: Herhangi bir gün giriş yaparken bu bonus alan araştırmasını alabilmek için aktif alan araştırması görevlerinizin sayısı üç veya daha az olmalıdır. Ayrıca, görevi tamamladıktan sonra 20 bonus PokéPara ödülünü edinebilmek için önce ödülü almalısınız. Bonus alan araştırması görevleri hakkında ayrıntılı bilgiye <a href="https://scopelyexplore.helpshift.com/hc/faq/1098-why-does-my-field-research-task-have-a-bonus-tag/">buradan</a> ulaşabilirsiniz.
 
 RESOURCE ID: text_rewards_key_monthlyticketoct24
 TEXT: Bu bilet ile 3 Ekim 2024 - 2 Kasım 2024 arasında bonusların yanı sıra 200 bonus PokéPara kazandıran bir süreli araştırma ve bonus PokéPara kazandıran günlük alan araştırması görevleri alabilirsiniz.
@@ -122909,7 +122964,7 @@ TEXT: Bu bilet ile 3 Ekim 2024 - 2 Kasım 2024 arasında bonusların yanı sıra
 • PokéDurak ve spor salonlarından günde 150 adede kadar Hediye toplama
 • Eşya Çantanızda aynı anda 40 adede kadar Hediye bulundurma
 
-Aklınızda bulunsun: Herhangi bir gün giriş yaparken bu bonus alan araştırmasını alabilmek için aktif alan araştırması görevlerinizin sayısı üç veya daha az olmalıdır. Ayrıca, görevi tamamladıktan sonra 20 bonus PokéPara ödülünü edinebilmek için önce ödülü almalısınız. Bonus alan araştırması görevleri hakkında ayrıntılı bilgiye <a href="https://niantic.helpshift.com/hc/faq/2479-why-does-my-field-research-task-have-a-bonus-tag/">buradan</a> ulaşabilirsiniz.
+Aklınızda bulunsun: Herhangi bir gün giriş yaparken bu bonus alan araştırmasını alabilmek için aktif alan araştırması görevlerinizin sayısı üç veya daha az olmalıdır. Ayrıca, görevi tamamladıktan sonra 20 bonus PokéPara ödülünü edinebilmek için önce ödülü almalısınız. Bonus alan araştırması görevleri hakkında ayrıntılı bilgiye <a href="https://scopelyexplore.helpshift.com/hc/faq/1098-why-does-my-field-research-task-have-a-bonus-tag/">buradan</a> ulaşabilirsiniz.
 
 RESOURCE ID: text_rewards_key_monthlyticketsept24
 TEXT: Bu bilet 3 Eylül 2024 - 2 Ekim 2024 arasında bonusların yanı sıra 200 bonus PokéPara kazandıran bir süreli araştırma ve bonus PokéPara kazandıran günlük alan araştırması görevleri içerir.
@@ -122921,7 +122976,7 @@ TEXT: Bu bilet 3 Eylül 2024 - 2 Ekim 2024 arasında bonusların yanı sıra 200
 • PokéDurak ve spor salonlarından günde 150 adede kadar Hediye toplama
 • Eşya Çantanızda aynı anda 40 adede kadar Hediye bulundurma
 
-Aklınızda bulunsun: Herhangi bir gün giriş yaparken bu bonus alan araştırmasını alabilmek için aktif alan araştırması görevlerinizin sayısı üç veya daha az olmalı. Ayrıca, görevi tamamladıktan sonra 20 PokéPara ödülünü edinebilmek için önce ödülü almalısınız. Bonus alan araştırması görevleri hakkında ayrıntılı bilgiye <a href="https://niantic.helpshift.com/hc/tr/6-pokemon-go/faq/2479-why-does-my-field-research-task-have-a-bonus-tag/">buradan</a> ulaşabilirsiniz.
+Aklınızda bulunsun: Herhangi bir gün giriş yaparken bu bonus alan araştırmasını alabilmek için aktif alan araştırması görevlerinizin sayısı üç veya daha az olmalı. Ayrıca, görevi tamamladıktan sonra 20 PokéPara ödülünü edinebilmek için önce ödülü almalısınız. Bonus alan araştırması görevleri hakkında ayrıntılı bilgiye <a href="https://scopelyexplore.helpshift.com/hc/faq/1098-why-does-my-field-research-task-have-a-bonus-tag/">buradan</a> ulaşabilirsiniz.
 
 RESOURCE ID: text_rewards_key_munchlax0825
 TEXT: <b>Şu ödülleri içerir:</b>
@@ -123677,7 +123732,7 @@ RESOURCE ID: three_free_raid_passes
 TEXT: Spor Salonlarındaki Fotoğraf Disklerini döndürerek ücretsiz olarak üç adede kadar Akın Bileti alın
 
 RESOURCE ID: three_strike_policy_url
-TEXT: https://pokemongo.nianticlabs.com/support/three-strike-policy
+TEXT: https://scopelyexplore.helpshift.com/hc/faq/1305-gameplay-fairness-policy/
 
 RESOURCE ID: throwback_2020_celebration
 TEXT: Geçmişi Anma Görevi 2020 Kutlaması
@@ -125353,6 +125408,9 @@ TEXT: GELECEK ETKİNLİKLER
 
 RESOURCE ID: today_view_upcoming_events_today_marker
 TEXT: BUGÜN
+
+RESOURCE ID: today_view_welcome_back_tab_label
+TEXT: Kanto Homecoming
 
 RESOURCE ID: toggle_item_equip
 TEXT: KUŞAN
@@ -127150,6 +127208,42 @@ TEXT: Pokémon GO Mega Eğitim! Süreli Araştırması (1/2)
 
 RESOURCE ID: tr_jp2025_aeon_mall_header_01
 TEXT: Pokémon GO Mega Eğitim! Süreli Araştırması (2/2)
+
+RESOURCE ID: tr_kindling_2026_set_01_header
+TEXT: Kanto Homecoming Timed Research (1/12)
+
+RESOURCE ID: tr_kindling_2026_set_02_header
+TEXT: Kanto Homecoming Timed Research (2/12)
+
+RESOURCE ID: tr_kindling_2026_set_03_header
+TEXT: Kanto Homecoming Timed Research (3/12)
+
+RESOURCE ID: tr_kindling_2026_set_04_header
+TEXT: Kanto Homecoming Timed Research (4/12)
+
+RESOURCE ID: tr_kindling_2026_set_05_header
+TEXT: Kanto Homecoming Timed Research (5/12)
+
+RESOURCE ID: tr_kindling_2026_set_06_header
+TEXT: Kanto Homecoming Timed Research (6/12)
+
+RESOURCE ID: tr_kindling_2026_set_07_header
+TEXT: Kanto Homecoming Timed Research (7/12)
+
+RESOURCE ID: tr_kindling_2026_set_08_header
+TEXT: Kanto Homecoming Timed Research (8/12)
+
+RESOURCE ID: tr_kindling_2026_set_09_header
+TEXT: Kanto Homecoming Timed Research (9/12)
+
+RESOURCE ID: tr_kindling_2026_set_10_header
+TEXT: Kanto Homecoming Timed Research (10/12)
+
+RESOURCE ID: tr_kindling_2026_set_11_header
+TEXT: Kanto Homecoming Timed Research (11/12)
+
+RESOURCE ID: tr_kindling_2026_set_12_header
+TEXT: Kanto Homecoming Timed Research (12/12)
 
 RESOURCE ID: tr_kr2025_retention_cherryblossom_title
 TEXT: Kiraz Çiçeği Görevi

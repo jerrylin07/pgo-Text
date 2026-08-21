@@ -218,7 +218,7 @@ RESOURCE ID: abi_contact_signed_up_notification
 TEXT: Trainer in deiner Kontaktliste haben ihre Abenteuer in Pokémon GO begonnen! Gehe zum Freunde-Menü, um Freundschaftsanfragen an sie zu schicken.
 
 RESOURCE ID: abi_helpshift_url
-TEXT: https://niantic.helpshift.com/a/pokemon-go/?p=all&s=friends-gifting-trading&f=friend-list-friendship-levels-1614899618
+TEXT: https://scopelyexplore.helpshift.com/hc/faq/1137-adding-friends/
 
 RESOURCE ID: abi_new_player_onboarding_title
 TEXT: Pokémon GO ist besser mit Freunden!
@@ -302,7 +302,7 @@ RESOURCE ID: accessibility_settings_title
 TEXT: Barrierefreiheit
 
 RESOURCE ID: account_locked_article_url
-TEXT: https://niantic.helpshift.com/hc/faq/5242-my-account-has-been-locked-or-restricted/
+TEXT: https://scopelyexplore.helpshift.com/hc/faq/2554-my-account-has-been-locked-or-restricted-1783711163/
 
 RESOURCE ID: ace_box_title
 TEXT: Assbox
@@ -875,7 +875,7 @@ RESOURCE ID: age_confirm_explain
 TEXT: Für die Anmeldung mit dieser Art von Konto ist ein bestimmtes Alter erforderlich. Bitte bestätige dein Geburtsdatum.
 
 RESOURCE ID: age_confirm_fail
-TEXT: Leider erfüllst du nicht die <a href="https://niantic.helpshift.com/hc/faq/4996-i-cannot-login-and-message-shows-sorry-you-do-not-meet-the-age-requirement-to-login-with-this-type-of-account/">Altersanforderungen</a>, um dich mit dieser Art von Konto anzumelden. Dein Konto wird gemäß unseren Nutzungsbedingungen gelöscht. Wenn du der Meinung bist, dass du berechtigt bist, dich mit dieser Art von Konto einzuloggen, kontaktiere uns bitte.
+TEXT: Leider erfüllst du nicht die <a href="https://scopelyexplore.helpshift.com/hc/faq/1314-i-cannot-login-and-message-shows-sorry-you-do-not-meet-the-age-requirement-to-login-with-this-type-of-account/">Altersanforderungen</a>, um dich mit dieser Art von Konto anzumelden. Dein Konto wird gemäß unseren Nutzungsbedingungen gelöscht. Wenn du der Meinung bist, dass du berechtigt bist, dich mit dieser Art von Konto einzuloggen, kontaktiere uns bitte.
 
 RESOURCE ID: age_confirm_popup_confirm
 TEXT: Bist du dir sicher? Dies kann nach der Abgabe nicht mehr geändert werden.
@@ -35151,7 +35151,7 @@ TEXT: Verdiene zusätzliche Belohnungen und schalte einen <b>Goldkronkorken</b> 
 RESOURCE ID: event_pass_gofest2025_upgrade_description
 TEXT: Schnapp dir den GO-Pass-Deluxe: Überlieferung der Antike, um die folgenden Belohnungen freizuschalten:
 
-• 1 <a href="https://niantic.helpshift.com/hc/faq/5103-what-is-hyper-training/">Goldkronkorken</a>, der einen Super-Spezialtrainingskurs freischaltet, um alle Werte eines Pokémon zu verbessern
+• 1 <a href="https://scopelyexplore.helpshift.com/hc/faq/1113-what-is-hyper-training/">Goldkronkorken</a>, der einen Super-Spezialtrainingskurs freischaltet, um alle Werte eines Pokémon zu verbessern
 • Avatar-Artikel Zacian-Maske
 • Avatar-Artikel Zamazenta-Maske
 • Exclusive Schlüpf- und Raid-Boni
@@ -35210,7 +35210,7 @@ TEXT: Verdiene zusätzliche Belohnungen und schalte einen <b>Goldkronkorken</b> 
 RESOURCE ID: event_pass_gofest2026_upgrade_description
 TEXT: Schnapp dir den GO-Pass-Deluxe: Der Weg der Legenden, um die folgenden Belohnungen freizuschalten:
 
-• Einen <a href="https://niantic.helpshift.com/hc/faq/5103-what-is-hyper-training/">Goldkronkorken</a>, der einen Super-Spezialtrainingskurs freischaltet, um alle Werte eines Pokémon zu verbessern
+• Einen <a href="https://scopelyexplore.helpshift.com/hc/faq/1113-what-is-hyper-training/">Goldkronkorken</a>, der einen Super-Spezialtrainingskurs freischaltet, um alle Werte eines Pokémon zu verbessern
 • Teamleiter-Pose für deinen Avatar
 • Eine Begegnung mit Mewtu mit garantiertem Spezialhintergrund
 • Exklusive Schlüpf- und Raid-Boni
@@ -41592,7 +41592,7 @@ RESOURCE ID: general2.ticket._gowa25_leadup_title
 TEXT: Ticket: Befristete Premium-Forschung „Bereit fürs Abenteuer“
 
 RESOURCE ID: general2.ticket._gowa26_title
-TEXT: Pokémon GO Wild Area 2026 Global Ticket
+TEXT: Ticket: Pokémon GO-Naturzone 2026: Global
 
 RESOURCE ID: general2.ticket._megagalladeraidday_title
 TEXT: Ticket: Raid-Tag mit Mega-Galagladi
@@ -47966,8 +47966,17 @@ TEXT: Pokémon GO Fest 2026: Chicago
 RESOURCE ID: gofest2026_copenhagen
 TEXT: Pokémon GO Fest 2026: Kopenhagen
 
+RESOURCE ID: gofest2026_tag
+TEXT: GO Fest 2026: Mega Finale
+
 RESOURCE ID: gofest2026_tokyo
 TEXT: Pokémon GO Fest 2026: Tokio
+
+RESOURCE ID: gofest2026_battle_district
+TEXT: Battle District
+
+RESOURCE ID: gofest2026_circuit_plaza
+TEXT: Circuit Plaza
 
 RESOURCE ID: gofest2026_collection_district
 TEXT: Sammlerbezirk
@@ -47993,6 +48002,9 @@ TEXT: Besiege Team GO Rocket
 RESOURCE ID: gofest2026_details_link
 TEXT: Weitere Infos findest du auf der <a href="https://pokemongo.com/news/road-of-legends-2026">Website</a>.
 
+RESOURCE ID: gofest2026_eerie_alley
+TEXT: Eerie Alley
+
 RESOURCE ID: gofest2026_finale_details_link
 TEXT: Weitere Details gibt es auf der Website von <a href="https://Pokémongo.com/gofest/megafinale">GO Fest 2026: Mega-Finale</a>.
 
@@ -48001,6 +48013,15 @@ TEXT: Freundschaftsbezirk
 
 RESOURCE ID: gofest2026_investigation_district
 TEXT: Untersucherbezirk
+
+RESOURCE ID: gofest2026_iron_frostworks
+TEXT: Iron Frostworks
+
+RESOURCE ID: gofest2026_mindworks_canal
+TEXT: Mindworks Canal
+
+RESOURCE ID: gofest2026_prism_promenade
+TEXT: Prism Promenade
 
 RESOURCE ID: gofest2026_recruitment_zone
 TEXT: Rekrutierungszone
@@ -48016,6 +48037,12 @@ TEXT: Team GO Rocket-Versteck-Bonus
 
 RESOURCE ID: gofest2026_scouting_district
 TEXT: Erkunderbezirk
+
+RESOURCE ID: gofest2026_skyline_roosts
+TEXT: Skyline Roosts
+
+RESOURCE ID: gofest2026_verdant_overgrowth
+TEXT: Verdant Overgrowth
 
 RESOURCE ID: gofest_arlo_challenge#1
 TEXT: Wir haben euer Fest schon übernommen und du willst mich immer noch herausfordern? Mach dich bereit für die harte Realität.
@@ -48519,7 +48546,7 @@ RESOURCE ID: gotour_2025_upgrade_description
 TEXT: Schnapp dir den Tour-Pass-Deluxe, um die folgenden Belohnungen freizuschalten!
 
 • Eine Begegnung mit Victini
-• Ein <a href="https://niantic.helpshift.com/hc/de/faq/4945-what-is-the-lucky-trinket/">Glücks-Klimbim</a>, mit dem du und ein Freund deiner Wahl sofort Glücks-Freunde werdet
+• Ein <a href="https://scopelyexplore.helpshift.com/hc/faq/1147-what-is-the-lucky-trinket/">Glücks-Klimbim</a>, mit dem du und ein Freund deiner Wahl sofort Glücks-Freunde werdet
 • Fusionsenergie für Kyurem
 • Den Avatar-Artikel Kyurem-Helm
 • Und vieles mehr!
@@ -48539,7 +48566,7 @@ RESOURCE ID: gotour_2026_upgrade_description
 TEXT: Schnapp dir den GO-Pass-Deluxe, um die folgenden Belohnungen freizuschalten:
 
 • 1 Begegnung mit Entfesseltes Hoopa
-• 1 <a href="https://niantic.helpshift.com/hc/de/faq/4945-what-is-the-lucky-trinket/">Glücks-Klimbim</a>, mit dem du und ein Freund deiner Wahl sofort Glücks-Freunde werdet
+• 1 <a href="https://scopelyexplore.helpshift.com/hc/faq/1147-what-is-the-lucky-trinket/">Glücks-Klimbim</a>, mit dem du und ein Freund deiner Wahl sofort Glücks-Freunde werdet
 • Zygarde-Zellen
 • Den Avatar-Artikel Zygarde-Jacke
 • Und vieles mehr!
@@ -51738,16 +51765,16 @@ RESOURCE ID: heal_multiple_button
 TEXT: ({0}) heilen
 
 RESOURCE ID: help_center_link
-TEXT: https://pokemongo.nianticlabs.com/support/contact/de
+TEXT: https://scopelyexplore.helpshift.com/hc/app/5-pokemon-go/
 
 RESOURCE ID: help_center_friends_link
-TEXT: https://niantic.helpshift.com/a/pokemon-go/?p=all&s=friends-gifting-trading&f=friend-list-friendship-levels-1614899618
+TEXT: https://scopelyexplore.helpshift.com/hc/faq/1138-friend-list-friendship-levels/
 
 RESOURCE ID: help_center_raid_log_link
 TEXT: https://niantic.helpshift.com/a/pokemon-go/?p=all&s=top-articles&f=sharing-raid-logs
 
 RESOURCE ID: helpshift_sharing_game_logs
-TEXT: https://niantic.helpshift.com/hc/de/6-pokemon-go/faq/3325-sharing-game-logs/
+TEXT: https://scopelyexplore.helpshift.com/hc/faq/849-sharing-game-logs/
 
 RESOURCE ID: hemisphere_holiday_tr_name
 TEXT: Befristete Premium-Forschung: Festtage (Teil 1) – Strand der Dinge
@@ -51951,7 +51978,7 @@ RESOURCE ID: home_pokemon_confirmation
 TEXT: Bist du sicher, dass du {0} Pokémon übertragen möchtest?
 
 RESOURCE ID: home_privacy_warning
-TEXT: Wenn du Pokémon GO mit Pokémon HOME verbindest, werden während der Übertragung von Pokémon bestimmte begrenzte Daten an The Pokémon Company weitergegeben. In diesem <a href="https://niantic.helpshift.com/a/pokemon-go/?s=accessories-and-services&f=sending-pokemon-to-pokemon-home">Hilfe-Artikel</a> findest du weitere Informationen. Daten, die an The Pokémon Company weitergegeben werden, unterliegen der Datenschutzerklärung von The Pokémon Company.
+TEXT: Wenn du Pokémon GO mit Pokémon HOME verbindest, werden während der Übertragung von Pokémon bestimmte begrenzte Daten an The Pokémon Company weitergegeben. In diesem <a href="https://scopelyexplore.helpshift.com/hc/faq/1339-sending-pokemon-to-pokemon-home/">Hilfe-Artikel</a> findest du weitere Informationen. Daten, die an The Pokémon Company weitergegeben werden, unterliegen der Datenschutzerklärung von The Pokémon Company.
 
 RESOURCE ID: home_recharge_time_day_hour
 TEXT: Aufgeladen in {0} Tag, {1} Stunde
@@ -55360,7 +55387,7 @@ RESOURCE ID: item_global_event_ticket_desc_gowa25
 TEXT: Ein Ticket zur Teilnahme an der Spezialforschung „Pokémon GO-Naturzone 2025: Global“ am 15. und 16. November 2025, Ortszeit (wo immer du dich befindest).
 
 RESOURCE ID: item_global_event_ticket_desc_gowa26
-TEXT: A ticket to access the Pokémon GO Wild Area 2026: Global Special Research on November 14 and November 15, 2026, wherever you are.
+TEXT: Ein Ticket zur Teilnahme an der Spezialforschung „Pokémon GO-Naturzone 2026: Global“ am 14. und 15. November 2026, Ortszeit (wo immer du dich befindest).
 
 RESOURCE ID: item_global_event_ticket_desc_hisuiandecidueye
 TEXT: Ein Ticket für den Zugang zu besonderen Boni am Sonntag, 11. Februar 2024 von 14:00 bis 22:00 Uhr Ortszeit (wo immer du dich befindest).
@@ -55419,9 +55446,9 @@ TEXT: Dieses Ticket zur Teilnahme an der Spezialforschung „Pokémon GO-Naturzo
 Du musst während des angegebenen Zeitraums spielen, um alle Event-Boni zu erhalten.
 
 RESOURCE ID: item_global_event_ticket_details_gowa26
-TEXT: This ticket will automatically activate to give you access to the Pokémon GO Wild Area 2026: Global Special Research on November 14 and 15, wherever you are. Details can be found in the in-game News.
+TEXT: Dieses Ticket zur Teilnahme an der Spezialforschung „Pokémon GO-Naturzone 2026: Global“ aktiviert sich am 14. und 15. November 2026, Ortszeit (wo immer du dich befindest). Details unter „Neuigkeiten“ im Spiel.
 
-You must play during the specified time to receive all the event bonuses.
+Du musst während des angegebenen Zeitraums spielen, um alle Event-Boni zu erhalten.
 
 RESOURCE ID: item_global_event_ticket_details_hisuiandecidueye
 TEXT: Dieses Ticket aktiviert sich automatisch und gewährt dir Zugang zu besonderen Boni am 11. Februar (wo immer du dich befindest).
@@ -56360,10 +56387,10 @@ RESOURCE ID: jp_2026_ana_title
 TEXT: Abenteuer in den Lüften
 
 RESOURCE ID: jp_iap_link1
-TEXT: https://niantic.helpshift.com/hc/ja/6-pokemon-go/faq/2046-%E8%B3%87%E9%87%91%E6%B1%BA%E6%B8%88%E6%B3%95%E3%81%AB%E5%9F%BA%E3%81%A4%E3%81%8F%E8%A1%A8%E7%A4%BA/?s=others&f=%E8%B3%87%E9%87%91%E6%B1%BA%E6%B8%88%E6%B3%95%E3%81%AB%E5%9F%BA%E3%81%A4%E3%81%8F%E8%A1%A8%E7%A4%BA&l=ja&p=web
+TEXT: https://scopelyexplore.helpshift.com/hc/ja/5-pokemon-go/faq/1492-%E8%B3%87%E9%87%91%E6%B1%BA%E6%B8%88%E6%B3%95%E3%81%AB%E5%9F%BA%E3%81%A4%E3%81%8F%E8%A1%A8%E7%A4%BA/
 
 RESOURCE ID: jp_iap_link2
-TEXT: https://niantic.helpshift.com/hc/ja/6-pokemon-go/faq/150-%E7%89%B9%E5%AE%9A%E5%95%86%E5%8F%96%E5%BC%95%E6%B3%95%E3%81%AB%E5%9F%BA%E3%81%A4%E3%81%8F%E8%A1%A8%E7%A4%BA/?s=others&f=%E8%B3%87%E9%87%91%E6%B1%BA%E6%B8%88%E6%B3%95%E3%81%AB%E5%9F%BA%E3%81%A4%E3%81%8F%E8%A1%A8%E7%A4%BA&l=ja&p=web
+TEXT: https://scopelyexplore.helpshift.com/hc/ja/5-pokemon-go/faq/1490-%E7%89%B9%E5%AE%9A%E5%95%86%E5%8F%96%E5%BC%95%E6%B3%95%E3%81%AB%E5%9F%BA%E3%81%A4%E3%81%8F%E8%A1%A8%E7%A4%BA/
 
 RESOURCE ID: jp_iap_linkname1
 TEXT: Link 1
@@ -56667,6 +56694,12 @@ TEXT: Leerzeichen
 
 RESOURCE ID: keyboard_symbols
 TEXT: Symbole
+
+RESOURCE ID: kindling_2026_mini_collection
+TEXT: Kanto Homecoming: Road to Mewtwo
+
+RESOURCE ID: kindling_2026_mini_collection_desc
+TEXT: Catch the Pokémon from the Kanto Homecoming Timed Research to encounter Mewtwo!
 
 RESOURCE ID: kingler_gmax_tr_2025_title
 TEXT: Befristete Premium-Forschung: Gigadynamax-Kingler
@@ -62216,10 +62249,10 @@ at SHA 4d4f3e80cc7fb911006bd14d198c9831ef66d005
 Pipeline 339838, job 2672172
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-08-18T00:48:15.368257+00:00 for de-DE
-at SHA 4c5aa5ac97f
-Pipeline 3880013, job 57040572
-Patch from: 0.423.1-SHA-70644676-RC1, 0.425.0-SHA-73e817e6-RC3, 0.427.0-SHA-bafb3348-RC1
+TEXT: Built at 2026-08-21T22:45:32.872454+00:00 for de-DE
+at SHA 222138e7072
+Pipeline 3890765, job 57214802
+Patch from: 0.425.0-SHA-e7185dda-RC1, 0.423.1-SHA-70644676-RC1, 0.427.0-SHA-fc729f25-RC2
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: Befristete Forschung: Ansage vom Typ Kampf
@@ -70563,7 +70596,7 @@ RESOURCE ID: poi_sub_failed_error
 TEXT: Vorschlag konnte nicht eingereicht werden. Bitte versuche es erneut.
 
 RESOURCE ID: poi_sub_faq_web_link
-TEXT: https://niantic.helpshift.com/a/wayfarer/?s=wayspot-criteria
+TEXT: https://scopelyexplore.helpshift.com/hc/section/158-wayspot-criteria/
 
 RESOURCE ID: poi_sub_gallery_permission_desc
 TEXT: To submit a PokéStop nomination using your image gallery, please grant relevant permissions in your device’s settings menu.
@@ -70671,7 +70704,7 @@ RESOURCE ID: poi_sub_submit_button
 TEXT: EINREICHEN
 
 RESOURCE ID: poi_sub_suggestion_web_link
-TEXT: https://niantic.helpshift.com/a/wayfarer/?p=web&s=wayspot-eligibility
+TEXT: https://scopelyexplore.helpshift.com/hc/faq/1980-eligibility-criteria/
 
 RESOURCE ID: poi_sub_surrounding_img_desc
 TEXT: Fotos der Umgebung helfen den Prüfern bei ihrer Aufgabe.
@@ -84728,6 +84761,9 @@ TEXT: Fange ein Pokémon, das ursprünglich in der Kalos-Region entdeckt wurde.
 RESOURCE ID: quest_catch_kanto_pokemon
 TEXT: Fange {0} Pokémon, die ursprünglich in der Kanto-Region entdeckt wurden.
 
+RESOURCE ID: quest_catch_kanto_pokemon_days
+TEXT: Catch Pokémon originally discovered in the Kanto region on {0} different days
+
 RESOURCE ID: quest_catch_kanto_starters_plural
 TEXT: Fange {0} Bisasam, Glumanda oder Schiggy.
 
@@ -85791,7 +85827,8 @@ RESOURCE ID: quest_defeat_mega_malamar_singular
 TEXT: Besiege Mega-Calamanero
 
 RESOURCE ID: quest_defeat_mega_raichu_singular
-TEXT: Besiege Mega-Raichu
+TEXT: Besiege Mega-Raichu X oder Mega-Raichu Y
+
 
 RESOURCE ID: quest_defeat_mega_skarmory_singular
 TEXT: Besiege Mega-Panzaeron
@@ -111815,7 +111852,7 @@ RESOURCE ID: replay_water_research_day_event_name
 TEXT: Replay: Wasser-Forschungstag
 
 RESOURCE ID: report_issues_link
-TEXT: https://pokemongo.nianticlabs.com/support/contact/de
+TEXT: https://scopelyexplore.helpshift.com/hc/app/5-pokemon-go/
 
 RESOURCE ID: report_route_subtitle
 TEXT: Wähle bis zu fünf Gründe aus der nachfolgenden Liste aus.
@@ -112451,7 +112488,7 @@ RESOURCE ID: route_add_point
 TEXT: Set as Waypoint
 
 RESOURCE ID: route_appeal_info_link
-TEXT: https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/135-submitting-a-ban-appeal/
+TEXT: https://scopelyexplore.helpshift.com/hc/faq/1291-submitting-a-ban-appeal/
 
 RESOURCE ID: route_appealed_deletion_confirm_description
 TEXT: Diese Aktion kann nicht rückgängig gemacht werden. Diese Route wird vollständig und unwiederbringlich gelöscht, wenn du fortfährst, und der von dir eingereichte Einspruch wird nicht überprüft.
@@ -113206,7 +113243,7 @@ RESOURCE ID: route_gift_exchange_onboarding_body_2
 TEXT: Mateo markiert dein gewähltes Geschenk mit deinem Trainer-Spitznamen und bringt es raus in die Welt. Du erhältst dafür im Gegenzug ein Geschenk eines anderen Trainers. Diese Geschenke enthalten Items und Eier und du kannst auch Purmel begegnen, indem du die Postkarten, die du erhältst, anpinnst!
 
 RESOURCE ID: route_guidelines_link
-TEXT: https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/4378-routes-guidelines/
+TEXT: https://scopelyexplore.helpshift.com/hc/faq/1219-routes-guidelines/
 
 RESOURCE ID: route_header_travel_time_label
 TEXT: ({0} min)
@@ -113227,7 +113264,7 @@ RESOURCE ID: route_last_trip_label
 TEXT: Zuletzt abgeschlossen
 
 RESOURCE ID: route_learn_more_url
-TEXT: https://niantic.helpshift.com/hc/de/6-pokemon-go/faq/4184-routes-faq/
+TEXT: https://scopelyexplore.helpshift.com/hc/faq/1220-routes-faq/
 
 RESOURCE ID: route_list_context_title
 TEXT: List of pokestops
@@ -114662,7 +114699,7 @@ RESOURCE ID: rsvp_attendance_tutorial_link_text_key
 TEXT: Erfahre mehr darüber, wo dein Trainer-Spitzname im Spiel angezeigt wird.
 
 RESOURCE ID: rsvp_attendance_tutorial_link_url_key
-TEXT: https://niantic.helpshift.com/hc/{0}/6-pokemon-go/faq/4286-controlling-your-experience-on-pokemon-go/
+TEXT: https://scopelyexplore.helpshift.com/hc/faq/1312-controlling-your-experience-in-pokemon-go/
 
 RESOURCE ID: rsvp_attendance_tutorial_message_key
 TEXT: Andere Trainer werden RSVP für deine Kämpfe einsehen können. Du kannst dies jeder Zeit unter den Einstellungen ändern.
@@ -115968,7 +116005,7 @@ RESOURCE ID: search_favorite_added
 TEXT: Suchbegriff zu Favoriten hinzugefügt
 
 RESOURCE ID: search_filter_help_url
-TEXT: https://niantic.helpshift.com/hc/de/6-pokemon-go/faq/1486-searching-filtering-your-pokemon-inventory/
+TEXT: https://scopelyexplore.helpshift.com/hc/faq/1126-searching-filtering-your-pokemon-inventory/
 
 RESOURCE ID: search_keywords_button
 TEXT: ALLE STICHWÖRTER ANZEIGEN
@@ -116541,13 +116578,13 @@ RESOURCE ID: season_pass_april2025_upgrade_description
 TEXT: Schnapp dir den GO-Pass-Deluxe: April, um die folgenden Belohnungen freizuschalten!
 
 • Eine zusätzliche Begegnung mit Xerneas
-• Ein <a href="https://niantic.helpshift.com/hc/de/6-pokemon-go/faq/4945-what-is-the-lucky-trinket/">Glücks-Klimbim</a>, mit dem du und ein Freund deiner Wahl sofort Glücks-Freunde werdet
+• Ein <a href="https://scopelyexplore.helpshift.com/hc/faq/1147-what-is-the-lucky-trinket/">Glücks-Klimbim</a>, mit dem du und ein Freund deiner Wahl sofort Glücks-Freunde werdet
 • Und vieles mehr!
 
 RESOURCE ID: season_pass_april2025_upgrade_description_no_additional_legendary
 TEXT: Schnapp dir den GO-Pass-Deluxe: April, um die folgenden Belohnungen freizuschalten!
 
-• Ein <a href="https://niantic.helpshift.com/hc/de/6-pokemon-go/faq/4945-what-is-the-lucky-trinket/">Glücks-Klimbim</a>, mit dem du und ein Freund deiner Wahl sofort Glücks-Freunde werdet
+• Ein <a href="https://scopelyexplore.helpshift.com/hc/faq/1147-what-is-the-lucky-trinket/">Glücks-Klimbim</a>, mit dem du und ein Freund deiner Wahl sofort Glücks-Freunde werdet
 • Und vieles mehr!
 
 RESOURCE ID: season_pass_april2026_event_duration
@@ -116559,8 +116596,8 @@ TEXT: Verdiene zusätzliche Belohnungen und schalte ein <b>Glücks-Klimbim</b> b
 RESOURCE ID: season_pass_april2026_upgrade_description
 TEXT: Schnapp dir den GO-Pass-Deluxe: Mai, um die folgenden Belohnungen freizuschalten!
 
-• 1 Super-Brutmaschine
-• 1 <a href="https://niantic.helpshift.com/hc/de/6-pokemon-go/faq/4945-what-is-the-lucky-trinket/">Glücks-Klimbim</a>, mit dem du und ein Freund deiner Wahl sofort Glücks-Freunde werdet
+• Eine Super-Brutmaschine
+• Ein <a href="https://scopelyexplore.helpshift.com/hc/faq/1147-what-is-the-lucky-trinket/">Glücks-Klimbim</a>, mit dem du und ein Freund deiner Wahl sofort Glücks-Freunde werdet
 • Und vieles mehr!
 
 RESOURCE ID: season_pass_aug2025_event_duration
@@ -116570,7 +116607,7 @@ RESOURCE ID: season_pass_aug2025_upgrade_description
 TEXT: Schnapp dir den GO-Pass-Deluxe: August, um die folgenden Belohnungen freizuschalten!
 
 • Eine Super-Brutmaschine
-• Ein <a href="https://niantic.helpshift.com/hc/faq/4945-what-is-the-lucky-trinket/">Glücks-Klimbim</a>, mit dem du und ein Freund deiner Wahl sofort Glücks-Freunde werdet
+• Ein <a href="https://scopelyexplore.helpshift.com/hc/faq/1147-what-is-the-lucky-trinket/">Glücks-Klimbim</a>, mit dem du und ein Freund deiner Wahl sofort Glücks-Freunde werdet
 • Und vieles mehr!
 
 RESOURCE ID: season_pass_august2026_event_duration
@@ -116583,7 +116620,7 @@ RESOURCE ID: season_pass_august2026_upgrade_description
 TEXT: Schnapp dir den GO-Pass-Deluxe: August, um die folgenden Belohnungen freizuschalten:
 
 • 1 Einweg-Brutmaschine vom ersten PokéStop-Dreh jedes Tages
-• 1 <a href="https://niantic.helpshift.com/hc/faq/4945-what-is-the-lucky-trinket/">Glücks-Klimbim</a>, mit dem du und ein Freund deiner Wahl sofort Glücks-Freunde werdet
+• 1 <a href="https://scopelyexplore.helpshift.com/hc/faq/1147-what-is-the-lucky-trinket/">Glücks-Klimbim</a>, mit dem du und ein Freund deiner Wahl sofort Glücks-Freunde werdet
 • Und vieles mehr!
 
 RESOURCE ID: season_pass_base_track_title_april
@@ -116724,7 +116761,7 @@ RESOURCE ID: season_pass_december2025_upgrade_description
 TEXT: Schnapp dir den GO-Pass-Deluxe: Dezember, um die folgenden Belohnungen freizuschalten!
 
 • Eine Super-Brutmaschine
-• Eine <a href="https://niantic.helpshift.com/hc/de/6-pokemon-go/faq/2358-incubators-hatching-pokemon-eggs/">Befristete Brutmaschine</a>, eine zusätzliche, zeitlich begrenzte Brutmaschine zum Ausbrüten von Eiern, die du unbegrenzt nutzen kannst, während du auf Erkundung gehst!
+• Eine <a href="https://scopelyexplore.helpshift.com/hc/faq/1118-incubators-hatching-pokemon-eggs/">Befristete Brutmaschine</a>, eine zusätzliche, zeitlich begrenzte Brutmaschine zum Ausbrüten von Eiern, die du unbegrenzt nutzen kannst, während du auf Erkundung gehst!
 • Und vieles mehr!
 
 RESOURCE ID: season_pass_details_link
@@ -116876,17 +116913,17 @@ RESOURCE ID: season_pass_january2026_upgrade_description
 TEXT: Schnapp dir den GO-Pass-Deluxe: Januar, um die folgenden Belohnungen freizuschalten!
 
 • Eine Super-Brutmaschine
-• Ein <a href="https://niantic.helpshift.com/hc/de/6-pokemon-go/faq/4945-what-is-the-lucky-trinket/">Glücks-Klimbim</a>, mit dem du und ein Freund deiner Wahl sofort Glücks-Freunde werdet
+• Ein <a href="https://scopelyexplore.helpshift.com/hc/faq/1147-what-is-the-lucky-trinket/">Glücks-Klimbim</a>, mit dem du und ein Freund deiner Wahl sofort Glücks-Freunde werdet
 • Und vieles mehr!
 
 RESOURCE ID: season_pass_july2025_event_duration
 TEXT: 1. Juli bis 5. August
 
 RESOURCE ID: season_pass_july2025_upgrade_description
-TEXT:  Schnapp dir den GO-Pass-Deluxe: Juli, um die folgenden Belohnungen freizuschalten!
+TEXT: Schnapp dir den GO-Pass-Deluxe: Juli, um die folgenden Belohnungen freizuschalten!
 
 • Eine Super-Brutmaschine
-• Ein <a href="https://niantic.helpshift.com/hc/faq/4945-what-is-the-lucky-trinket/">Glücks-Klimbim</a>, mit dem du und ein Freund deiner Wahl sofort Glücks-Freunde werdet
+• Ein <a href="https://scopelyexplore.helpshift.com/hc/faq/1147-what-is-the-lucky-trinket/">Glücks-Klimbim</a>, mit dem du und ein Freund deiner Wahl sofort Glücks-Freunde werdet
 • Und vieles mehr!
 
 RESOURCE ID: season_pass_july2026_event_duration
@@ -116909,7 +116946,7 @@ RESOURCE ID: season_pass_june2025_upgrade_description
 TEXT: Schnapp dir den GO-Pass-Deluxe: Juni, um die folgenden Belohnungen freizuschalten!
 
 • Eine Super-Brutmaschine
-• Ein <a href="https://niantic.helpshift.com/hc/faq/4945-what-is-the-lucky-trinket/">Glücks-Klimbim</a>, mit dem du und ein Freund deiner Wahl sofort Glücks-Freunde werdet
+• Ein <a href="https://scopelyexplore.helpshift.com/hc/faq/1147-what-is-the-lucky-trinket/">Glücks-Klimbim</a>, mit dem du und ein Freund deiner Wahl sofort Glücks-Freunde werdet
 • Und vieles mehr!
 
 RESOURCE ID: season_pass_june2026_event_duration
@@ -116922,7 +116959,7 @@ RESOURCE ID: season_pass_june2026_upgrade_description
 TEXT: Schnapp dir den GO-Pass-Deluxe: Juni, um die folgenden Belohnungen freizuschalten:
 
 • 1 Super-Brutmaschine
-• 1 <a href="https://niantic.helpshift.com/hc/de/6-pokemon-go/faq/2358-incubators-hatching-pokemon-eggs/">Befristete Brutmaschine</a>, 1 zusätzliche, zeitlich begrenzte Brutmaschine zum Ausbrüten von Eiern, während du auf Erkundung gehst!
+• 1 <a href="https://scopelyexplore.helpshift.com/hc/faq/1118-incubators-hatching-pokemon-eggs/">Befristete Brutmaschine</a>, 1 zusätzliche, zeitlich begrenzte Brutmaschine zum Ausbrüten von Eiern, während du auf Erkundung gehst!
 • Und vieles mehr!
 
 RESOURCE ID: season_pass_march2026_event_duration
@@ -116935,7 +116972,7 @@ RESOURCE ID: season_pass_march2026_upgrade_description
 TEXT: Schnapp dir den GO-Pass-Deluxe: März, um die folgenden Belohnungen freizuschalten!
 
 • 1 Super-Brutmaschine
-• 1 <a href="https://niantic.helpshift.com/hc/de/6-pokemon-go/faq/2358-incubators-hatching-pokemon-eggs/">Befristete Brutmaschine</a>, die eine zusätzliche, zeitlich begrenzte Brutmaschine zum Ausbrüten von Eiern ist, die du unbegrenzt nutzen kannst, während du auf Erkundung gehst!
+• 1 <a href="https://scopelyexplore.helpshift.com/hc/faq/1118-incubators-hatching-pokemon-eggs/">Befristete Brutmaschine</a>, die eine zusätzliche, zeitlich begrenzte Brutmaschine zum Ausbrüten von Eiern ist, die du unbegrenzt nutzen kannst, während du auf Erkundung gehst!
 • Und vieles mehr!
 
 RESOURCE ID: season_pass_may2025_event_duration
@@ -116948,13 +116985,13 @@ RESOURCE ID: season_pass_may2025_upgrade_description
 TEXT: Schnapp dir den GO-Pass-Deluxe: Mai, um die folgenden Belohnungen freizuschalten!
 
 • 1 zusätzliche Begegnung mit Yveltal
-• 1 <a href="https://niantic.helpshift.com/hc/de/6-pokemon-go/faq/4945-what-is-the-lucky-trinket/">Glücks-Klimbim</a>, mit dem du und ein Freund deiner Wahl sofort Glücks-Freunde werdet
+• 1 <a href="https://scopelyexplore.helpshift.com/hc/faq/1147-what-is-the-lucky-trinket/">Glücks-Klimbim</a>, mit dem du und ein Freund deiner Wahl sofort Glücks-Freunde werdet
 • Und vieles mehr!
 
 RESOURCE ID: season_pass_may2025_upgrade_description_no_additional_legendary
 TEXT: Schnapp dir den GO-Pass-Deluxe: Mai, um die folgenden Belohnungen freizuschalten!
 
- • Ein <a href="https://niantic.helpshift.com/hc/de/6-pokemon-go/faq/4945-what-is-the-lucky-trinket/">Glücks-Klimbim</a>, mit dem du und ein Freund deiner Wahl sofort Glücks-Freunde werdet
+ • Ein <a href="https://scopelyexplore.helpshift.com/hc/faq/1147-what-is-the-lucky-trinket/">Glücks-Klimbim</a>, mit dem du und ein Freund deiner Wahl sofort Glücks-Freunde werdet
 • Und vieles mehr!
 
 RESOURCE ID: season_pass_may2026_event_duration
@@ -116989,7 +117026,7 @@ RESOURCE ID: season_pass_november2025_upgrade_description
 TEXT: Schnapp dir den GO-Pass-Deluxe: November, um die folgenden Belohnungen freizuschalten!
 
 • Eine Super-Brutmaschine
-• Ein <a href="https://niantic.helpshift.com/hc/de/6-pokemon-go/faq/4945-what-is-the-lucky-trinket/">Glücks-Klimbim</a>, mit dem du und ein Freund deiner Wahl sofort Glücks-Freunde werdet
+• Ein <a href="https://scopelyexplore.helpshift.com/hc/faq/1147-what-is-the-lucky-trinket/">Glücks-Klimbim</a>, mit dem du und ein Freund deiner Wahl sofort Glücks-Freunde werdet
 • Und vieles mehr!
 
 RESOURCE ID: season_pass_october2025_event_duration
@@ -117214,7 +117251,7 @@ RESOURCE ID: season_pass_september2025_upgrade_description
 TEXT: Schnapp dir den GO-Pass-Deluxe: September, um die folgenden Belohnungen freizuschalten!
 
 • Eine Super-Brutmaschine
-• Eine <a href="https://niantic.helpshift.com/hc/de/6-pokemon-go/faq/2358-incubators-hatching-pokemon-eggs/">Befristete Brutmaschine</a>, eine zusätzliche, zeitlich begrenzte Brutmaschine zum Ausbrüten von Eiern, während du auf Erkundung gehst!
+• Eine <a href="https://scopelyexplore.helpshift.com/hc/faq/1118-incubators-hatching-pokemon-eggs/">Befristete Brutmaschine</a>, eine zusätzliche, zeitlich begrenzte Brutmaschine zum Ausbrüten von Eiern, während du auf Erkundung gehst!
 • Und vieles mehr!
 
 RESOURCE ID: season_pass_shockingly_good_2026_event_duration
@@ -117303,7 +117340,20 @@ TEXT: 25. bis 30. August
 RESOURCE ID: season_pass_wcs_2026_track_upgrade_header_description
 TEXT: Verdiene zusätzliche Belohnungen und schalte <b>Zapdos</b> bei Stufe 30 frei!
 
+RESOURCE ID: season_pass_wcs_2026_track_upgrade_header_description_backpack
+TEXT: Verdiene zusätzliche Belohnungen und schalte den <b>Rucksack WM/PokémonXP 2026</b> bei Stufe 15 frei!
+
 RESOURCE ID: season_pass_wcs_2026_upgrade_description
+TEXT: Schnapp dir den GO-Pass-Deluxe: PokémonXP & Weltmeisterschaften 2026, um die folgenden Belohnungen freizuschalten!
+
+• Rucksack WM/PokémonXP 2026
+• Begegnung mit Pikachu mit Cosmog-Raumanzug
+• Begegnung mit Pikachu der Pokémon-Weltmeisterschaften 2026 Pikachu
+• Begegnungen mit Event-Pokémon
+• Sonderbonbons XL
+• Und vieles mehr!
+
+RESOURCE ID: season_pass_wcs_2026_upgrade_description_out
 TEXT: Schnapp dir den GO-Pass-Deluxe: PokémonXP & Weltmeisterschaften 2026, um die folgenden Belohnungen freizuschalten!
 
 • Begegnung mit Pikachu mit Cosmog-Raumanzug
@@ -118166,7 +118216,7 @@ RESOURCE ID: settings_wearables_device_status_unpaired
 TEXT: Not Paired
 
 RESOURCE ID: settings_wearables_device_troubleshooting_url
-TEXT: <url with language query param in it>
+TEXT: https://scopelyexplore.helpshift.com/hc/faq/1337-pairing-and-connecting-pokemon-go-to-official-devices/
 
 RESOURCE ID: settings_wearables_empty_device_list
 TEXT: No Devices Found
@@ -118405,6 +118455,9 @@ TEXT: Dein Freund {0} hat dich zu einem EX-Raid in Arena {1} eingeladen.
 RESOURCE ID: shelmetkarrablast_post_cd_timed_research_name
 TEXT: Community Day mit Schnuthelm und Laukaps: Befristete Forschung – Fortsetzung
 
+RESOURCE ID: shield_break_adventure_effect_battle_log
+TEXT: YOUR ATTACKS ARE BOOSTED BY DYNAMIC PUNCH+’S ADVENTURE EFFECT!
+
 RESOURCE ID: shinjuku_cross_title
 TEXT: クロス新宿ビジョン
 
@@ -118617,7 +118670,7 @@ RESOURCE ID: shop_daily_bonus_header
 TEXT: Ein besonderes Geschenk vom Professor!
 
 RESOURCE ID: shop_discount_disclaimer_helpshift_url
-TEXT: https://niantic.helpshift.com/hc/de/6-pokemon-go/faq/4707-notice-regarding-discount-rates-displayed-in-the-shop/
+TEXT: https://scopelyexplore.helpshift.com/hc/faq/1267-notice-regarding-discount-rates-displayed-in-the-shop/
 
 RESOURCE ID: shop_discount_disclaimer_modal_title
 TEXT: Zeitlich begrenzte Rabatte
@@ -118649,12 +118702,12 @@ TEXT: {0}-Aufbewahrung vollständig verbessert!
 RESOURCE ID: shop_fully_upgraded_purchasable
 TEXT: {0} vollständig verbessert! Erhalte mehr Aufbewahrung, indem du auflevelst!
 
-<a href="https://niantic.helpshift.com/hc/de/6-pokemon-go/faq/3049-available-items-your-bag/">Hier erfährst du mehr über das Aufleveln.</a>
+<a href="https://scopelyexplore.helpshift.com/hc/faq/1432-available-items-your-bag/">Hier erfährst du mehr über das Aufleveln.</a>
 
 RESOURCE ID: shop_fully_upgraded_purchasable_plural
 TEXT: Deine {0}-Aufbewahrung ist vollständig verbessert! Erhalte mehr Aufbewahrung, indem du auflevelst!
 
-<a href="https://niantic.helpshift.com/hc/de/6-pokemon-go/faq/3049-available-items-your-bag/">Hier erfährst du mehr über das Aufleveln.</a>
+<a href="https://scopelyexplore.helpshift.com/hc/faq/1432-available-items-your-bag/">Hier erfährst du mehr über das Aufleveln.</a>
 
 RESOURCE ID: shop_gift_friend_ineligible_title
 TEXT: Geschenk kann nicht verschickt werden
@@ -119723,6 +119776,9 @@ TEXT: Keine Pokébälle
 
 RESOURCE ID: soft_sfida_title_pokemon_full
 TEXT: Die Pokémon-Aufbewahrung ist voll.
+
+RESOURCE ID: soft_sfida_tutorial_url
+TEXT: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1250-what-is-the-explorer-gadget/
 
 RESOURCE ID: soft_sfida_warn_items_full
 TEXT: Item-Beutel ist voll
@@ -125249,7 +125305,7 @@ TEXT: Ein Ticket für den Zugang zur Tagesbonus-Feldforschung, die dich vom 16. 
 
 Wenn du dieses Ticket kaufst, erhältst du täglich vom 16. Mai bis zum 30. Mai, wenn du dich zum ersten Mal des jeweiligen Tages anmeldest, eine Bonus-Feldforschung.
 
-Hinweis: Du kannst nur drei oder weniger aktive Feldforschungsaufgaben haben, um bei deiner ersten täglichen Anmeldung diese Bonus-Feldforschung zu erhalten! Du musst dir außerdem deine 20 PokéMünzen nach dem Abschluss der Aufgabe abholen, um sie zu erhalten. Mehr über die Bonus-Feldforschungsaufgaben erfährst du <a href="https://https://niantic.helpshift.com/hc/de/6-pokemon-go/faq/2479-why-does-my-field-research-task-have-a-bonus-tag/">hier</a>.
+Hinweis: Du kannst nur drei oder weniger aktive Feldforschungsaufgaben haben, um bei deiner ersten täglichen Anmeldung diese Bonus-Feldforschung zu erhalten! Du musst dir außerdem deine 20 PokéMünzen nach dem Abschluss der Aufgabe abholen, um sie zu erhalten. Mehr über die Bonus-Feldforschungsaufgaben erfährst du <a href="https://scopelyexplore.helpshift.com/hc/faq/1098-why-does-my-field-research-task-have-a-bonus-tag/">hier</a>.
 
 RESOURCE ID: text_rewards_key_conciergecb0925
 TEXT: <b>Enthaltene Belohnungen:</b>
@@ -125621,14 +125677,14 @@ TEXT: <b>Enthält:</b>
 <a href="https://pokemongolive.com/gowildarea/global">Erfahre mehr über die Ticket-Boni hier</a>.
 
 RESOURCE ID: text_rewards_key_gowa26
-TEXT: <b>Includes:</b>
-• Up to 6 free Raid Passes each day from spinning Gym Photo Discs
-• Increased chance of receiving event 10 km Eggs from PokéStops
-• Up to 6 Special Trades per day and reduced Stardust cost for trades
-• 1/2 Hatch Distance when Eggs are placed in an Incubator during the event
-• 2× Candy for catching Pokémon
-• A higher chance to encounter Shiny Pokémon during the event
-Learn more about the ticket bonuses <a href="pokemongo.com/gowildarea/global">here</a>.
+TEXT: <b>Enthält:</b>
+• Bis zu 6 kostenlose Raid-Pässe pro Tagdurch das Drehen von Fotoscheiben auf Arenen
+• Erhöhte Chance, 10-km-Event-Eier von PokéStops zu erhalten
+• Bis zu 6 Spezial-Tausche pro Tag und verringerte Sternenstaubkosten beim Tauschen
+• 1/2 Schlüpf-Distanz, wenn Eier während des Events in eine Brutmaschine gelegt werden
+• 2× Bonbons für das Fangen von Pokémon
+• Erhöhte Chance, während des Events Schillernden Pokémon zu begegnen
+Erfahre <a href="pokemongo.com/gowildarea/global">hier</a> mehr über die Ticket-Boni.
 
 RESOURCE ID: text_rewards_key_growingup0525
 TEXT: <b>Enthaltene Belohnungen:</b>
@@ -125944,7 +126000,7 @@ TEXT: Mit diesem Ticket erhältst du vom 3. November bis zum 2. Dezember 2024 Zu
 • Sammle bis zu 150 Geschenke pro Tag von PokéStops oder Arenen
 • Bewahre bis zu 40 Geschenke in deinem Item-Beutel auf
 
-Bitte beachte: Du kannst nicht mehr als drei aktive Feldforschungsaufgaben haben, wenn du für deine erste tägliche Anmeldung diese Bonus-Feldforschungsaufgabe erhalten möchtest! Du musst deine Belohnung von 20 Bonus-PokéMünzen nach dem Abschluss der Aufgabe einfordern, um sie zu erhalten. Mehr über Bonus-Feldforschungsaufgaben erfährst du <a href="https://niantic.helpshift.com/hc/faq/2479-why-does-my-field-research-task-have-a-bonus-tag/">hier</a>.
+Bitte beachte: Du kannst nicht mehr als drei aktive Feldforschungsaufgaben haben, wenn du für deine erste tägliche Anmeldung diese Bonus-Feldforschungsaufgabe erhalten möchtest! Du musst deine Belohnung von 20 Bonus-PokéMünzen nach dem Abschluss der Aufgabe einfordern, um sie zu erhalten. Mehr über Bonus-Feldforschungsaufgaben erfährst du <a href="https://scopelyexplore.helpshift.com/hc/faq/1098-why-does-my-field-research-task-have-a-bonus-tag/">hier</a>.
 
 RESOURCE ID: text_rewards_key_monthlyticketoct24
 TEXT: Mit diesem Ticket erhältst du vom 3. Oktober bis zum 2. November 2024 Zugang zu Boni, einer Befristeten Forschung, die dich mit 200 Bonus-PokéMünzen und täglichen Bonus-Feldforschungsaufgaben belohnt, bei denen du  Bonus-PokéMünzen erhalten kannst.
@@ -125956,7 +126012,7 @@ TEXT: Mit diesem Ticket erhältst du vom 3. Oktober bis zum 2. November 2024 Zug
 • Sammle bis zu 150 Geschenke pro Tag von PokéStops oder Arenen
 • Bewahre bis zu 40 Geschenke in deinem Item-Beutel auf
 
-Bitte beachte: Du kannst nicht mehr als drei aktive Feldforschungsaufgaben haben, wenn du für deine erste tägliche Anmeldung diese Bonus-Feldforschung erhalten möchtest! Du musst deine Belohnung von 20 Bonus-PokéMünzen nach dem Abschluss der Aufgabe einfordern, um sie zu erhalten. Mehr über Bonus-Feldforschungsaufgaben erfährst du <a href="https://niantic.helpshift.com/hc/faq/2479-why-does-my-field-research-task-have-a-bonus-tag/">hier</a>.
+Bitte beachte: Du kannst nicht mehr als drei aktive Feldforschungsaufgaben haben, wenn du für deine erste tägliche Anmeldung diese Bonus-Feldforschung erhalten möchtest! Du musst deine Belohnung von 20 Bonus-PokéMünzen nach dem Abschluss der Aufgabe einfordern, um sie zu erhalten. Mehr über Bonus-Feldforschungsaufgaben erfährst du <a href="https://scopelyexplore.helpshift.com/hc/faq/1098-why-does-my-field-research-task-have-a-bonus-tag/">hier</a>.
 
 RESOURCE ID: text_rewards_key_monthlyticketsept24
 TEXT: Mit diesem Ticket erhältst du Zugang zu einer Befristeten Forschung, die dich mit 200 Bonus-PokéMünzen belohnt, und zu täglichen Bonus-Feldforschungsaufgaben, die vom 3. September bis zum 2. Oktober 2024 Bonus-PokéMünzen, Befristete Forschung und Boni bereithalten.
@@ -125968,7 +126024,7 @@ TEXT: Mit diesem Ticket erhältst du Zugang zu einer Befristeten Forschung, die 
 • Sammle bis zu 150 Geschenke pro Tag von PokéStops oder Arenen
 • Bewahre bis zu 40 Geschenke in deinem Item-Beutel auf
 
-Bitte beachte: Du kannst nicht mehr als drei aktive Feldforschungsaufgaben haben, um für deine erste tägliche Anmeldung diese Bonus-Feldforschung zu erhalten! Du musst deine 20 PokéMünzen nach dem Abschluss der Aufgabe einfordern, um sie zu erhalten. Mehr über die Bonus-Feldforschungsaufgaben erfährst du <a href="https://niantic.helpshift.com/hc/faq/2479-why-does-my-field-research-task-have-a-bonus-tag/">hier</a>.
+Bitte beachte: Du kannst nicht mehr als drei aktive Feldforschungsaufgaben haben, um für deine erste tägliche Anmeldung diese Bonus-Feldforschung zu erhalten! Du musst deine 20 PokéMünzen nach dem Abschluss der Aufgabe einfordern, um sie zu erhalten. Mehr über die Bonus-Feldforschungsaufgaben erfährst du <a href="https://scopelyexplore.helpshift.com/hc/faq/1098-why-does-my-field-research-task-have-a-bonus-tag/">hier</a>.
 
 RESOURCE ID: text_rewards_key_munchlax0825
 TEXT: <b>Enthaltene Belohnungen:</b>
@@ -126725,7 +126781,7 @@ RESOURCE ID: three_free_raid_passes
 TEXT: Erhalte bis zu 3 kostenlose Raid-Pässe, indem du Fotoscheiben auf Arenen drehst.
 
 RESOURCE ID: three_strike_policy_url
-TEXT: https://support.pokemongo.nianticlabs.com/hc/de/articles/360001743487-Abgestufte-Erwiderung-Verhaltensrichtlinie
+TEXT: https://scopelyexplore.helpshift.com/hc/faq/1305-gameplay-fairness-policy/
 
 RESOURCE ID: throwback_2020_celebration
 TEXT: Throwback Challenge 2020 Celebration
@@ -128417,6 +128473,9 @@ TEXT: BEVORSTEHENDE EVENTS
 
 RESOURCE ID: today_view_upcoming_events_today_marker
 TEXT: HEUTE
+
+RESOURCE ID: today_view_welcome_back_tab_label
+TEXT: Kanto Homecoming
 
 RESOURCE ID: toggle_item_equip
 TEXT: EINSCHALTEN
@@ -130214,6 +130273,42 @@ TEXT: Befristete Forschung: Pokémon GO-Mega-Training! (1/2)
 
 RESOURCE ID: tr_jp2025_aeon_mall_header_01
 TEXT: Befristete Forschung: Pokémon GO-Mega-Training! (2/2)
+
+RESOURCE ID: tr_kindling_2026_set_01_header
+TEXT: Kanto Homecoming Timed Research (1/12)
+
+RESOURCE ID: tr_kindling_2026_set_02_header
+TEXT: Kanto Homecoming Timed Research (2/12)
+
+RESOURCE ID: tr_kindling_2026_set_03_header
+TEXT: Kanto Homecoming Timed Research (3/12)
+
+RESOURCE ID: tr_kindling_2026_set_04_header
+TEXT: Kanto Homecoming Timed Research (4/12)
+
+RESOURCE ID: tr_kindling_2026_set_05_header
+TEXT: Kanto Homecoming Timed Research (5/12)
+
+RESOURCE ID: tr_kindling_2026_set_06_header
+TEXT: Kanto Homecoming Timed Research (6/12)
+
+RESOURCE ID: tr_kindling_2026_set_07_header
+TEXT: Kanto Homecoming Timed Research (7/12)
+
+RESOURCE ID: tr_kindling_2026_set_08_header
+TEXT: Kanto Homecoming Timed Research (8/12)
+
+RESOURCE ID: tr_kindling_2026_set_09_header
+TEXT: Kanto Homecoming Timed Research (9/12)
+
+RESOURCE ID: tr_kindling_2026_set_10_header
+TEXT: Kanto Homecoming Timed Research (10/12)
+
+RESOURCE ID: tr_kindling_2026_set_11_header
+TEXT: Kanto Homecoming Timed Research (11/12)
+
+RESOURCE ID: tr_kindling_2026_set_12_header
+TEXT: Kanto Homecoming Timed Research (12/12)
 
 RESOURCE ID: tr_kr2025_retention_cherryblossom_title
 TEXT: Kirschblüten-Herausforderung

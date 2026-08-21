@@ -215,7 +215,7 @@ RESOURCE ID: abi_contact_signed_up_notification
 TEXT: Pelatih di daftar kontakmu telah memulai petualangan di Pokémon GO! Buka menu Teman untuk mengirim Permintaan Berteman kepada mereka.
 
 RESOURCE ID: abi_helpshift_url
-TEXT: https://niantic.helpshift.com/a/pokemon-go/?p=all&s=friends-gifting-trading&f=friend-list-friendship-levels-1614899618
+TEXT: https://scopelyexplore.helpshift.com/hc/faq/1137-adding-friends/
 
 RESOURCE ID: abi_new_player_onboarding_title
 TEXT: Pokémon GO Lebih Seru Dimainkan Bersama Teman!
@@ -299,7 +299,7 @@ RESOURCE ID: accessibility_settings_title
 TEXT: Aksesibilitas
 
 RESOURCE ID: account_locked_article_url
-TEXT: https://niantic.helpshift.com/hc/faq/5242-my-account-has-been-locked-or-restricted/
+TEXT: https://scopelyexplore.helpshift.com/hc/faq/2554-my-account-has-been-locked-or-restricted-1783711163/
 
 RESOURCE ID: ace_box_title
 TEXT: Ace Box
@@ -872,7 +872,7 @@ RESOURCE ID: age_confirm_explain
 TEXT: Ada persyaratan usia untuk login dengan jenis akun ini. Silakan konfirmasikan tanggal lahir Anda.
 
 RESOURCE ID: age_confirm_fail
-TEXT: Karena Anda tidak memenuhi <a href="https://niantic.helpshift.com/hc/faq/4996-i-cannot-login-and-message-shows-sorry-you-do-not-meet-the-age-requirement-to-login-with-this-type-of-account/">persyaratan umur</a> yang diperlukan untuk login dengan akun tipe ini, sesuai Ketentuan Layanan, akun Anda akan dihapus. Jika Anda yakin memenuhi persyaratan untuk login menggunakan akun tipe ini, silakan hubungi kami.
+TEXT: Karena Anda tidak memenuhi <a href="https://scopelyexplore.helpshift.com/hc/faq/1314-i-cannot-login-and-message-shows-sorry-you-do-not-meet-the-age-requirement-to-login-with-this-type-of-account/">persyaratan umur</a> yang diperlukan untuk login dengan akun tipe ini, sesuai Ketentuan Layanan, akun Anda akan dihapus. Jika Anda yakin memenuhi persyaratan untuk login menggunakan akun tipe ini, silakan hubungi kami.
 
 RESOURCE ID: age_confirm_popup_confirm
 TEXT: Konfirmasi? Ini tidak dapat diubah setelah Anda mengirimkannya.
@@ -32354,7 +32354,7 @@ TEXT: Dapatkan hadiah tambahan dan buka <b>Tutup Botol Emas</b> di level 100!
 RESOURCE ID: event_pass_gofest2025_upgrade_description
 TEXT: Beli Tiket GO Luks: Bayangan Masa Lalu untuk membuka hadiah berikut!
 
-• Satu <a href="https://niantic.helpshift.com/hc/faq/5103-what-is-hyper-training/">Tutup Botol Emas</a>, yang digunakan untuk memulai Latihan Luar Biasa yang dapat kamu selesaikan untuk meningkatkan seluruh statistik Pokémon
+• Satu <a href="https://scopelyexplore.helpshift.com/hc/faq/1113-what-is-hyper-training/">Tutup Botol Emas</a>, yang digunakan untuk memulai Latihan Luar Biasa yang dapat kamu selesaikan untuk meningkatkan seluruh statistik Pokémon
 • Item avatar Topeng Zacian
 • Item avatar Topeng Zamazenta
 • Bonus eksklusif yang berfokus pada Penetasan dan Raid
@@ -32413,7 +32413,7 @@ TEXT: Dapatkan hadiah tambahan dan buka <b>Tutup Botol Emas</b> di Rank 100!
 RESOURCE ID: event_pass_gofest2026_upgrade_description
 TEXT: Beli Tiket GO Luks: Jalur Para Legenda untuk membuka hadiah berikut!
 
-• Satu <a href="https://niantic.helpshift.com/hc/faq/5103-what-is-hyper-training/">Tutup Botol Emas</a>, yang digunakan untuk memulai Latihan Luar Biasa yang dapat kamu selesaikan untuk meningkatkan seluruh statistik Pokémon
+• Satu <a href="https://scopelyexplore.helpshift.com/hc/faq/1113-what-is-hyper-training/">Tutup Botol Emas</a>, yang digunakan untuk memulai Latihan Luar Biasa yang dapat kamu selesaikan untuk meningkatkan seluruh statistik Pokémon
 • Pose Pemimpin Tim untuk avatarmu
 • Pertemuan dengan Mewtwo yang pasti memiliki Latar Belakang Spesial
 • Bonus eksklusif yang berfokus pada Penetasan dan Raid
@@ -38682,7 +38682,7 @@ RESOURCE ID: general2.ticket._gowa25_leadup_title
 TEXT: Penelitian Berwaktu Premium Bersiap untuk Alam Liar
 
 RESOURCE ID: general2.ticket._gowa26_title
-TEXT: Pokémon GO Wild Area 2026 Global Ticket
+TEXT: Tiket Pokémon GO Wild Area 2026 Global
 
 RESOURCE ID: general2.ticket._megagalladeraidday_title
 TEXT: Tiket Hari Raid Mega Gallade
@@ -45051,8 +45051,17 @@ TEXT: Pokémon GO Fest 2026: Chicago
 RESOURCE ID: gofest2026_copenhagen
 TEXT: Pokémon GO Fest 2026: Copenhagen
 
+RESOURCE ID: gofest2026_tag
+TEXT: GO Fest 2026: Mega Finale
+
 RESOURCE ID: gofest2026_tokyo
 TEXT: Pokémon GO Fest 2026: Tokyo
+
+RESOURCE ID: gofest2026_battle_district
+TEXT: Battle District
+
+RESOURCE ID: gofest2026_circuit_plaza
+TEXT: Circuit Plaza
 
 RESOURCE ID: gofest2026_collection_district
 TEXT: Distrik Koleksi
@@ -45078,6 +45087,9 @@ TEXT: Kalahkan Tim Roket GO
 RESOURCE ID: gofest2026_details_link
 TEXT: Untuk detail lebih lanjut, kunjungi <a href="https://pokemongo.com/news/road-of-legends-2026">situs web</a>.
 
+RESOURCE ID: gofest2026_eerie_alley
+TEXT: Eerie Alley
+
 RESOURCE ID: gofest2026_finale_details_link
 TEXT: Untuk detail lebih lanjut, kunjungi <a href="https://Pokémongo.com/gofest/megafinale">situs GO Fest 2026: Mega Finale</a>.
 
@@ -45086,6 +45098,15 @@ TEXT: Distrik Persahabatan
 
 RESOURCE ID: gofest2026_investigation_district
 TEXT: Distrik Investigasi
+
+RESOURCE ID: gofest2026_iron_frostworks
+TEXT: Iron Frostworks
+
+RESOURCE ID: gofest2026_mindworks_canal
+TEXT: Mindworks Canal
+
+RESOURCE ID: gofest2026_prism_promenade
+TEXT: Prism Promenade
 
 RESOURCE ID: gofest2026_recruitment_zone
 TEXT: Zona Perekrutan
@@ -45101,6 +45122,12 @@ TEXT: Bonus Persembunyian Tim Roket GO
 
 RESOURCE ID: gofest2026_scouting_district
 TEXT: Distrik Eksplorasi
+
+RESOURCE ID: gofest2026_skyline_roosts
+TEXT: Skyline Roosts
+
+RESOURCE ID: gofest2026_verdant_overgrowth
+TEXT: Verdant Overgrowth
 
 RESOURCE ID: gofest_arlo_challenge#1
 TEXT: Kami telah mengambil alih perayaanmu, dan kamu masih bersikeras menantangku? Bersiaplah untuk menghadapi kenyataan pahit.
@@ -45603,7 +45630,7 @@ TEXT: Tingkatkan rankmu untuk membuka hadiah. Kamu harus bermain selama event un
 RESOURCE ID: gotour_2025_upgrade_description
 TEXT: Beli Tiket Tur Luks untuk membuka hadiah berikut!
 • Pertemuan dengan Victini
-• Satu <a href="https://niantic.helpshift.com/hc/faq/4945-what-is-the-lucky-trinket/">Ornamen Istimewa</a> yang dalam sekejap membuatmu menjadi Teman Istimewa dengan teman pilihanmu
+• Satu <a href="https://scopelyexplore.helpshift.com/hc/faq/1147-what-is-the-lucky-trinket/">Ornamen Istimewa</a> yang dalam sekejap membuatmu menjadi Teman Istimewa dengan teman pilihanmu
 • Energi Fusi untuk Kyurem
 • Item avatar Helm Kyurem
 • Dan masih banyak lagi!
@@ -45622,7 +45649,7 @@ TEXT: Dapatkan hadiah tambahan dan langsung membuka <b>pertemuan dengan Hoopa Be
 RESOURCE ID: gotour_2026_upgrade_description
 TEXT: Beli Tiket Tur Luks untuk membuka hadiah berikut!
 • Pertemuan dengan Victini
-• Satu <a href="https://niantic.helpshift.com/hc/faq/4945-what-is-the-lucky-trinket/">Ornamen Istimewa</a> yang dalam sekejap membuatmu menjadi Teman Istimewa dengan teman pilihanmu
+• Satu <a href="https://scopelyexplore.helpshift.com/hc/faq/1147-what-is-the-lucky-trinket/">Ornamen Istimewa</a> yang dalam sekejap membuatmu menjadi Teman Istimewa dengan teman pilihanmu
 • Sel Zygarde
 • Item avatar Jaket Zygarde
 • Dan masih banyak lagi!
@@ -48820,16 +48847,16 @@ RESOURCE ID: heal_multiple_button
 TEXT: Heal ({0})
 
 RESOURCE ID: help_center_link
-TEXT: https://pokemongo.nianticlabs.com/support/contact/en
+TEXT: https://scopelyexplore.helpshift.com/hc/app/5-pokemon-go/
 
 RESOURCE ID: help_center_friends_link
-TEXT: https://niantic.helpshift.com/a/pokemon-go/?p=all&s=friends-gifting-trading&f=friend-list-friendship-levels-1614899618
+TEXT: https://scopelyexplore.helpshift.com/hc/faq/1138-friend-list-friendship-levels/
 
 RESOURCE ID: help_center_raid_log_link
 TEXT: https://niantic.helpshift.com/a/pokemon-go/?p=all&s=top-articles&f=sharing-raid-logs
 
 RESOURCE ID: helpshift_sharing_game_logs
-TEXT: https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/3325-sharing-game-logs/
+TEXT: https://scopelyexplore.helpshift.com/hc/faq/849-sharing-game-logs/
 
 RESOURCE ID: hemisphere_holiday_tr_name
 TEXT: Liburan Bag. 1: Penelitian Berwaktu Premium Main Pasir
@@ -49033,7 +49060,7 @@ RESOURCE ID: home_pokemon_confirmation
 TEXT: Yakin ingin mengirim {0} Pokémon?
 
 RESOURCE ID: home_privacy_warning
-TEXT: Ketika kamu menghubungkan Pokémon GO dengan Pokémon HOME, informasi tertentu akan dibagikan dengan The Pokémon Company selama pemindahan Pokémon. Silakan baca <a href="https://niantic.helpshift.com/a/pokemon-go/?s=accessories-and-services&f=sending-pokemon-to-pokemon-home">artikel bantuan</a> ini untuk mendapatkan informasi selengkapnya. Data yang dibagikan dengan The Pokémon Company berdasar pada kebijakan privasi The Pokémon Company itu sendiri.
+TEXT: Ketika kamu menghubungkan Pokémon GO dengan Pokémon HOME, informasi tertentu akan dibagikan dengan The Pokémon Company selama pemindahan Pokémon. Silakan baca <a href="https://scopelyexplore.helpshift.com/hc/faq/1339-sending-pokemon-to-pokemon-home/">artikel bantuan</a> ini untuk mendapatkan informasi selengkapnya. Data yang dibagikan dengan The Pokémon Company berdasar pada kebijakan privasi The Pokémon Company itu sendiri.
 
 RESOURCE ID: home_recharge_time_day_hour
 TEXT: Terisi penuh dalam {0} Hari {1} Jam
@@ -52438,7 +52465,7 @@ RESOURCE ID: item_global_event_ticket_desc_gowa25
 TEXT: Tiket untuk mengakses Penelitian Spesial Pokémon GO Wild Area 2025: Global pada tanggal 15 dan 16 November 2025 waktu setempat, di mana pun kamu berada.
 
 RESOURCE ID: item_global_event_ticket_desc_gowa26
-TEXT: A ticket to access the Pokémon GO Wild Area 2026: Global Special Research on November 14 and November 15, 2026, wherever you are.
+TEXT: Tiket untuk mengakses Penelitian Spesial Pokémon GO Wild Area 2026: Global pada tanggal 14 dan 15 November 2026, di mana pun kamu berada.
 
 RESOURCE ID: item_global_event_ticket_desc_hisuiandecidueye
 TEXT: Tiket untuk mengakses bonus spesial pada Minggu, 11 Februari 2024, mulai pukul 14.00 hingga 22.00 waktu setempat, di mana pun kamu berada.
@@ -52497,9 +52524,9 @@ TEXT: Tiket ini akan aktif secara otomatis dan memberimu akses ke Penelitian Spe
 Kamu harus bermain salama waktu yang ditentukan untuk mendapatkan semua bonus event.
 
 RESOURCE ID: item_global_event_ticket_details_gowa26
-TEXT: This ticket will automatically activate to give you access to the Pokémon GO Wild Area 2026: Global Special Research on November 14 and 15, wherever you are. Details can be found in the in-game News.
+TEXT: Tiket ini akan aktif secara otomatis dan memberimu akses ke Penelitian Spesial Pokémon GO Wild Area 2026: Global pada tanggal 14 dan 15 November waktu setempat, di mana pun kamu berada. Detailnya bisa ditemukan di Berita dalam game.
 
-You must play during the specified time to receive all the event bonuses.
+Kamu harus bermain salama waktu yang ditentukan untuk mendapatkan semua bonus event.
 
 RESOURCE ID: item_global_event_ticket_details_hisuiandecidueye
 TEXT: Tiket ini akan aktif secara otomatis dan memberimu akses ke bonus spesial pada tanggal 11 Februari, di mana pun kamu berada.
@@ -53435,10 +53462,10 @@ RESOURCE ID: jp_2026_ana_title
 TEXT: Petualangan Melintasi Langit
 
 RESOURCE ID: jp_iap_link1
-TEXT: https://niantic.helpshift.com/hc/ja/6-pokemon-go/faq/2046-%E8%B3%87%E9%87%91%E6%B1%BA%E6%B8%88%E6%B3%95%E3%81%AB%E5%9F%BA%E3%81%A4%E3%81%8F%E8%A1%A8%E7%A4%BA/?s=others&f=%E8%B3%87%E9%87%91%E6%B1%BA%E6%B8%88%E6%B3%95%E3%81%AB%E5%9F%BA%E3%81%A4%E3%81%8F%E8%A1%A8%E7%A4%BA&l=ja&p=web
+TEXT: https://scopelyexplore.helpshift.com/hc/ja/5-pokemon-go/faq/1492-%E8%B3%87%E9%87%91%E6%B1%BA%E6%B8%88%E6%B3%95%E3%81%AB%E5%9F%BA%E3%81%A4%E3%81%8F%E8%A1%A8%E7%A4%BA/
 
 RESOURCE ID: jp_iap_link2
-TEXT: https://niantic.helpshift.com/hc/ja/6-pokemon-go/faq/150-%E7%89%B9%E5%AE%9A%E5%95%86%E5%8F%96%E5%BC%95%E6%B3%95%E3%81%AB%E5%9F%BA%E3%81%A4%E3%81%8F%E8%A1%A8%E7%A4%BA/?s=others&f=%E8%B3%87%E9%87%91%E6%B1%BA%E6%B8%88%E6%B3%95%E3%81%AB%E5%9F%BA%E3%81%A4%E3%81%8F%E8%A1%A8%E7%A4%BA&l=ja&p=web
+TEXT: https://scopelyexplore.helpshift.com/hc/ja/5-pokemon-go/faq/1490-%E7%89%B9%E5%AE%9A%E5%95%86%E5%8F%96%E5%BC%95%E6%B3%95%E3%81%AB%E5%9F%BA%E3%81%A4%E3%81%8F%E8%A1%A8%E7%A4%BA/
 
 RESOURCE ID: jp_iap_linkname1
 TEXT: Tautan 1
@@ -53743,6 +53770,12 @@ TEXT: Spasi
 
 RESOURCE ID: keyboard_symbols
 TEXT: Simbol
+
+RESOURCE ID: kindling_2026_mini_collection
+TEXT: Kanto Homecoming: Road to Mewtwo
+
+RESOURCE ID: kindling_2026_mini_collection_desc
+TEXT: Catch the Pokémon from the Kanto Homecoming Timed Research to encounter Mewtwo!
 
 RESOURCE ID: kingler_gmax_tr_2025_title
 TEXT: Penelitian Berwaktu Premium Kingler Gigantamax
@@ -59252,10 +59285,10 @@ at SHA 12701f1c07ae7f07a5d50583f697320977df7988
 Pipeline 1139111, job 13470914
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-08-18T00:48:15.368257+00:00 for id-ID
-at SHA 4c5aa5ac97f
-Pipeline 3880013, job 57040572
-Patch from: 0.423.1-SHA-70644676-RC1, 0.425.0-SHA-73e817e6-RC3, 0.427.0-SHA-bafb3348-RC1
+TEXT: Built at 2026-08-21T22:45:32.872454+00:00 for id-ID
+at SHA 222138e7072
+Pipeline 3890765, job 57214802
+Patch from: 0.425.0-SHA-e7185dda-RC1, 0.423.1-SHA-70644676-RC1, 0.427.0-SHA-fc729f25-RC2
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: Penelitian Berwaktu: Pilih Tipe Petarungmu
@@ -60863,7 +60896,7 @@ RESOURCE ID: move_name_0497
 TEXT: Plasma Fist
 
 RESOURCE ID: move_name_0502
-TEXT: <<move_name_0311>> +
+TEXT: <<move_name_0311>>+
 
 RESOURCE ID: move_name_0504
 TEXT: <<move_name_0399>>+
@@ -60872,49 +60905,49 @@ RESOURCE ID: move_name_0505
 TEXT: <<move_name_0252>>+
 
 RESOURCE ID: move_name_0506
-TEXT: <<move_name_0087>> +
+TEXT: <<move_name_0087>>+
 
 RESOURCE ID: move_name_0508
 TEXT: <<move_name_0303>>+
 
 RESOURCE ID: move_name_0509
-TEXT: <<move_name_0488>> +
+TEXT: <<move_name_0488>>+
 
 RESOURCE ID: move_name_0512
 TEXT: <<move_name_0383>>+
 
 RESOURCE ID: move_name_0515
-TEXT: <<move_name_0277>> +
+TEXT: <<move_name_0277>>+
 
 RESOURCE ID: move_name_0522
 TEXT: <<move_name_0038>>+
 
 RESOURCE ID: move_name_0523
-TEXT: <<move_name_0016>> +
+TEXT: <<move_name_0016>>+
 
 RESOURCE ID: move_name_0529
-TEXT: <<move_name_0265>> +
+TEXT: <<move_name_0265>>+
 
 RESOURCE ID: move_name_0533
-TEXT: <<move_name_0035>> +
+TEXT: <<move_name_0035>>+
 
 RESOURCE ID: move_name_0541
-TEXT: <<move_name_0039>> +
+TEXT: <<move_name_0039>>+
 
 RESOURCE ID: move_name_0547
-TEXT: <<move_name_0256>> +
+TEXT: <<move_name_0256>>+
 
 RESOURCE ID: move_name_0554
-TEXT: <<move_name_0330>> +
+TEXT: <<move_name_0330>>+
 
 RESOURCE ID: move_name_0555
-TEXT: <<move_name_0293>> +
+TEXT: <<move_name_0293>>+
 
 RESOURCE ID: move_name_0562
-TEXT: <<move_name_0471>> +
+TEXT: <<move_name_0471>>+
 
 RESOURCE ID: move_name_0564
-TEXT: <<move_name_0069>> +
+TEXT: <<move_name_0069>>+
 
 RESOURCE ID: move_name_0566
 TEXT: <<move_name_0059>>+
@@ -60929,7 +60962,7 @@ RESOURCE ID: move_name_0572
 TEXT: <<move_name_0030>>+
 
 RESOURCE ID: move_name_0580
-TEXT: <<move_name_0080>> +
+TEXT: <<move_name_0080>>+
 
 RESOURCE ID: move_name_0583
 TEXT: <<move_name_0123>>+
@@ -67618,7 +67651,7 @@ RESOURCE ID: poi_sub_failed_error
 TEXT: Pengajuan nominasi gagal. Coba lagi.
 
 RESOURCE ID: poi_sub_faq_web_link
-TEXT: https://niantic.helpshift.com/a/wayfarer/?s=wayspot-criteria
+TEXT: https://scopelyexplore.helpshift.com/hc/section/158-wayspot-criteria/
 
 RESOURCE ID: poi_sub_gallery_permission_desc
 TEXT: Untuk mengajukan nominasi PokéStop menggunakan gambar dari galeri, berikan izin yang terkait di menu pengaturan perangkat.
@@ -67726,7 +67759,7 @@ RESOURCE ID: poi_sub_submit_button
 TEXT: KIRIM
 
 RESOURCE ID: poi_sub_suggestion_web_link
-TEXT: https://niantic.helpshift.com/a/wayfarer/?p=web&s=wayspot-eligibility
+TEXT: https://scopelyexplore.helpshift.com/hc/faq/1980-eligibility-criteria/
 
 RESOURCE ID: poi_sub_surrounding_img_desc
 TEXT: Foto ini akan digunakan untuk membantu meninjau daerah sekitar.
@@ -81752,6 +81785,9 @@ TEXT: Tangkap Pokémon yang pertama kali ditemukan di Daerah Kalos
 RESOURCE ID: quest_catch_kanto_pokemon
 TEXT: Catch {0} Pokémon originally discovered in the Kanto region
 
+RESOURCE ID: quest_catch_kanto_pokemon_days
+TEXT: Catch Pokémon originally discovered in the Kanto region on {0} different days
+
 RESOURCE ID: quest_catch_kanto_starters_plural
 TEXT: Tangkap {0} Bulbasaur, Charmander, atau Squirtle
 
@@ -82812,7 +82848,7 @@ RESOURCE ID: quest_defeat_mega_malamar_singular
 TEXT: Kalahkan Mega Malamar
 
 RESOURCE ID: quest_defeat_mega_raichu_singular
-TEXT: Kalahkan Mega Raichu
+TEXT: Kalahkan Mega Raichu X atau Mega Raichu Y
 
 RESOURCE ID: quest_defeat_mega_skarmory_singular
 TEXT: Kalahkan Mega Skarmory
@@ -97325,7 +97361,7 @@ RESOURCE ID: quest_special_dialogue_zygarde_1_3
 TEXT: Aku punya teori lagi sih ... Tetapi, aku akan mencari dokumen lainnya agar jadi lebih yakin. Ah, sepertinya aku harus membaca kumpulan artikel Penelitian Pokémon Daerah Kalos sekali lagi.
 
 RESOURCE ID: quest_special_dialogue_zygarde_1_3_temp
-TEXT: Aku punya teori tentang apa yang mungkin menarik perhatian di luar sana... tapi aku ingin memeriksa kembali bahan-bahan penelitianku sedikit lagi. Mungkin sekalian membaca ulang kumpulan artikel Penelitian Pokémon Daerah Kalos yang tadi...
+TEXT: Aku punya teori tentang apa yang mungkin menarik perhatian di luar sana, tapi aku ingin memeriksa kembali bahan-bahan penelitianku sedikit lagi. Mungkin sekalian membaca ulang artikel waktu itu...
 
 RESOURCE ID: quest_special_dialogue_zygarde_1_4
 TEXT: Bagaimana kalau kamu juga melanjutkan pekerjaan untukku di lapangan, %PLAYERNAME%?
@@ -107720,7 +107756,7 @@ RESOURCE ID: rally_pxp_2026_desc
 TEXT: Dapatkan pertemuan dengan Pikachu berpakaian antariksa ala Cosmog dengan menyelesaikan reli!
 
 RESOURCE ID: rally_pxp_2026_desc_detail
-TEXT: Kumpulkan stempel dengan mengunjungi PokéStop Reli Stempel GO di beberapa lokasi berpemandangan indah di sekitar San Francisco.
+TEXT: Kumpulkan stempel dengan mengunjungi PokéStop Reli Stempel GO di beberapa lokasi di sekitar San Francisco.
 
 RESOURCE ID: rally_pxp_2026_location
 TEXT: San Francisco, California, Amerika Serikat
@@ -108696,7 +108732,7 @@ RESOURCE ID: replay_water_research_day_event_name
 TEXT: Putar Ulang: Hari Penelitian Air
 
 RESOURCE ID: report_issues_link
-TEXT: https://pokemongo.nianticlabs.com/support/contact/en
+TEXT: https://scopelyexplore.helpshift.com/hc/app/5-pokemon-go/
 
 RESOURCE ID: report_route_subtitle
 TEXT: Pilih hingga 5 alasan dari daftar berikut.
@@ -109333,7 +109369,7 @@ RESOURCE ID: route_add_point
 TEXT: Set as a stop
 
 RESOURCE ID: route_appeal_info_link
-TEXT: https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/135-submitting-a-ban-appeal/
+TEXT: https://scopelyexplore.helpshift.com/hc/faq/1291-submitting-a-ban-appeal/
 
 RESOURCE ID: route_appealed_deletion_confirm_description
 TEXT: Tindakan ini tidak dapat dibatalkan. Jika dilanjutkan, Rute ini akan hilang secara total, tidak bisa dikembalikan, dan banding yang kamu ajukan tidak akan ditinjau.
@@ -110086,7 +110122,7 @@ RESOURCE ID: route_gift_exchange_onboarding_body_2
 TEXT: Mateo akan menandai Hadiah pilihanmu dengan nama Pelatihmu dan mengirimkannya ke seluruh dunia sehingga kamu akan menerima Hadiah dari pelatih lain sebagai gantinya. Kamu dapat menerima Telur dan item dari Hadiah tersebut, dan ada kemungkinan kamu akan bertemu Scatterbug dengan menyematkan Kartu Pos yang diterima!
 
 RESOURCE ID: route_guidelines_link
-TEXT: https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/4378-routes-guidelines/
+TEXT: https://scopelyexplore.helpshift.com/hc/faq/1219-routes-guidelines/
 
 RESOURCE ID: route_header_travel_time_label
 TEXT: ({0} min)
@@ -110107,7 +110143,7 @@ RESOURCE ID: route_last_trip_label
 TEXT: Terakhir
 
 RESOURCE ID: route_learn_more_url
-TEXT: https://niantic.helpshift.com/hc/faq/4184-routes-faq/
+TEXT: https://scopelyexplore.helpshift.com/hc/faq/1220-routes-faq/
 
 RESOURCE ID: route_list_context_title
 TEXT: List of PokéStops or Gyms
@@ -111540,7 +111576,7 @@ RESOURCE ID: rsvp_attendance_tutorial_link_text_key
 TEXT: Detail mengenai tempat ditampilkannya nama Pelatih
 
 RESOURCE ID: rsvp_attendance_tutorial_link_url_key
-TEXT: https://niantic.helpshift.com/hc/{0}/6-pokemon-go/faq/4286-controlling-your-experience-on-pokemon-go/
+TEXT: https://scopelyexplore.helpshift.com/hc/faq/1312-controlling-your-experience-in-pokemon-go/
 
 RESOURCE ID: rsvp_attendance_tutorial_message_key
 TEXT: Pelatih lainnya dapat mengecek RSVP yang kamu masuki. Dapat diubah kapan saja melalui Pengaturan.
@@ -112845,7 +112881,7 @@ RESOURCE ID: search_favorite_added
 TEXT: Istilah pencarian ditambahkan ke Favorit
 
 RESOURCE ID: search_filter_help_url
-TEXT: https://niantic.helpshift.com/hc/faq/1486-searching-filtering-your-pokemon-inventory/
+TEXT: https://scopelyexplore.helpshift.com/hc/faq/1126-searching-filtering-your-pokemon-inventory/
 
 RESOURCE ID: search_keywords_button
 TEXT: SEE ALL SEARCH KEYWORDS
@@ -113419,13 +113455,13 @@ RESOURCE ID: season_pass_april2025_upgrade_description
 TEXT: Beli Tiket GO Luks: April untuk membuka hadiah berikut!
 
 • Pertemuan tambahan dengan Xerneas
-• Satu <a href="https://niantic.helpshift.com/hc/faq/4945-what-is-the-lucky-trinket/">Ornamen Istimewa</a> yang dalam sekejap membuatmu menjadi Teman Istimewa dengan teman pilihanmu
+• Satu <a href="https://scopelyexplore.helpshift.com/hc/faq/1147-what-is-the-lucky-trinket/">Ornamen Istimewa</a> yang dalam sekejap membuatmu menjadi Teman Istimewa dengan teman pilihanmu
 • Dan masih banyak lagi!
 
 RESOURCE ID: season_pass_april2025_upgrade_description_no_additional_legendary
 TEXT: Beli Tiket GO Luks: April untuk membuka hadiah berikut!
 
-• Satu <a href="https://niantic.helpshift.com/hc/faq/4945-what-is-the-lucky-trinket/">Ornamen Istimewa</a> yang dalam sekejap membuatmu menjadi Teman Istimewa dengan teman pilihanmu
+• Satu <a href="https://scopelyexplore.helpshift.com/hc/faq/1147-what-is-the-lucky-trinket/">Ornamen Istimewa</a> yang dalam sekejap membuatmu menjadi Teman Istimewa dengan teman pilihanmu
 • Dan masih banyak lagi!
 
 RESOURCE ID: season_pass_april2026_event_duration
@@ -113438,7 +113474,7 @@ RESOURCE ID: season_pass_april2026_upgrade_description
 TEXT: Beli Tiket GO Luks: April untuk membuka hadiah berikut!
 
 • Satu Mesin Penetas Super
-• Satu <a href="https://niantic.helpshift.com/hc/faq/4945-what-is-the-lucky-trinket/">Ornamen Istimewa</a>, yang dalam sekejap membuatmu menjadi Teman Istimewa dengan teman pilihanmu
+• Satu <a href="https://scopelyexplore.helpshift.com/hc/faq/1147-what-is-the-lucky-trinket/">Ornamen Istimewa</a>, yang dalam sekejap membuatmu menjadi Teman Istimewa dengan teman pilihanmu
 • Dan masih banyak lagi!
 
 RESOURCE ID: season_pass_aug2025_event_duration
@@ -113448,7 +113484,7 @@ RESOURCE ID: season_pass_aug2025_upgrade_description
 TEXT: Beli Tiket GO Luks: Agustus untuk membuka hadiah berikut!
 
 • Satu Mesin Penetas Super
-• Satu <a href="https://niantic.helpshift.com/hc/faq/4945-what-is-the-lucky-trinket/">Ornamen Istimewa</a>, yang dalam sekejap membuatmu menjadi Teman Istimewa dengan teman pilihanmu
+• Satu <a href="https://scopelyexplore.helpshift.com/hc/faq/1147-what-is-the-lucky-trinket/">Ornamen Istimewa</a>, yang dalam sekejap membuatmu menjadi Teman Istimewa dengan teman pilihanmu
 • Dan masih banyak lagi!
 
 RESOURCE ID: season_pass_august2026_event_duration
@@ -113461,7 +113497,7 @@ RESOURCE ID: season_pass_august2026_upgrade_description
 TEXT: Beli Tiket GO Luks: Agustus untuk membuka hadiah berikut!
 
 • Mesin Penetas sekali pakai dari pemutaran PokéStop pertama setiap hari
-• Satu <a href="https://niantic.helpshift.com/hc/faq/4945-what-is-the-lucky-trinket/">Ornamen Istimewa</a>, yang dalam sekejap membuatmu menjadi Teman Istimewa dengan teman pilihanmu
+• Satu <a href="https://scopelyexplore.helpshift.com/hc/faq/1147-what-is-the-lucky-trinket/">Ornamen Istimewa</a>, yang dalam sekejap membuatmu menjadi Teman Istimewa dengan teman pilihanmu
 • Dan masih banyak lagi!
 
 RESOURCE ID: season_pass_base_track_title_april
@@ -113601,7 +113637,7 @@ RESOURCE ID: season_pass_december2025_upgrade_description
 TEXT: Beli Tiket GO Luks: Desember untuk membuka hadiah berikut!
 
 • 1 Mesin Penetas Super
-• 1 <a href="https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2358-incubators-hatching-pokemon-eggs/">Mesin Penetas Berwaktu</a>, mesin penetas tambahan dengan penggunaan tak terbatas yang bisa kamu gunakan dalam waktu tertentu untuk menetaskan Telur saat kamu menjelajah!
+• 1 <a href="https://scopelyexplore.helpshift.com/hc/faq/1118-incubators-hatching-pokemon-eggs/">Mesin Penetas Berwaktu</a>, mesin penetas tambahan dengan penggunaan tak terbatas yang bisa kamu gunakan dalam waktu tertentu untuk menetaskan Telur saat kamu menjelajah!
 • Dan masih banyak lagi!
 
 RESOURCE ID: season_pass_details_link
@@ -113753,7 +113789,7 @@ RESOURCE ID: season_pass_january2026_upgrade_description
 TEXT: Beli Tiket GO Luks: Januari untuk membuka hadiah berikut!
 
 • Satu Mesin Penetas Super
-• Satu <a href="https://niantic.helpshift.com/hc/faq/4945-what-is-the-lucky-trinket/">Ornamen Istimewa</a>, yang dalam sekejap membuatmu menjadi Teman Istimewa dengan teman pilihanmu
+• Satu <a href="https://scopelyexplore.helpshift.com/hc/faq/1147-what-is-the-lucky-trinket/">Ornamen Istimewa</a>, yang dalam sekejap membuatmu menjadi Teman Istimewa dengan teman pilihanmu
 • Dan masih banyak lagi!
 
 RESOURCE ID: season_pass_july2025_event_duration
@@ -113763,7 +113799,7 @@ RESOURCE ID: season_pass_july2025_upgrade_description
 TEXT: Beli Tiket GO Luks: Juli untuk membuka hadiah berikut!
 
 • Satu Mesin Penetas Super
-• Satu <a href="https://niantic.helpshift.com/hc/faq/4945-what-is-the-lucky-trinket/">Ornamen Istimewa</a>, yang dalam sekejap membuatmu menjadi Teman Istimewa dengan teman pilihanmu
+• Satu <a href="https://scopelyexplore.helpshift.com/hc/faq/1147-what-is-the-lucky-trinket/">Ornamen Istimewa</a>, yang dalam sekejap membuatmu menjadi Teman Istimewa dengan teman pilihanmu
 • Dan masih banyak lagi!
 
 RESOURCE ID: season_pass_july2026_event_duration
@@ -113786,7 +113822,7 @@ RESOURCE ID: season_pass_june2025_upgrade_description
 TEXT: Beli Tiket GO Luks: Juni untuk membuka hadiah berikut!
 
 • Satu Mesin Penetas Super
-• Satu <a href="https://niantic.helpshift.com/hc/faq/4945-what-is-the-lucky-trinket/">Ornamen Istimewa</a>, yang dalam sekejap membuatmu menjadi Teman Istimewa dengan teman pilihanmu
+• Satu <a href="https://scopelyexplore.helpshift.com/hc/faq/1147-what-is-the-lucky-trinket/">Ornamen Istimewa</a>, yang dalam sekejap membuatmu menjadi Teman Istimewa dengan teman pilihanmu
 • Dan masih banyak lagi!
 
 RESOURCE ID: season_pass_june2026_event_duration
@@ -113799,7 +113835,7 @@ RESOURCE ID: season_pass_june2026_upgrade_description
 TEXT: Beli Tiket GO Luks: Juni untuk membuka hadiah berikut!
 
 • 1 Mesin Penetas Super
-• 1 <a href="https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2358-incubators-hatching-pokemon-eggs/">Mesin Penetas Berwaktu</a>, yaitu Mesin Penetas tambahan yang bisa dipakai berkali-kali dalam waktu terbatas untuk menetaskan Telur saat kamu menjelajah!
+• 1 <a href="https://scopelyexplore.helpshift.com/hc/faq/1118-incubators-hatching-pokemon-eggs/">Mesin Penetas Berwaktu</a>, yaitu Mesin Penetas tambahan yang bisa dipakai berkali-kali dalam waktu terbatas untuk menetaskan Telur saat kamu menjelajah!
 • Dan masih banyak lagi!
 
 RESOURCE ID: season_pass_march2026_event_duration
@@ -113812,7 +113848,7 @@ RESOURCE ID: season_pass_march2026_upgrade_description
 TEXT: Beli Tiket GO Luks: Maret untuk membuka hadiah berikut!
 
 • 1 Mesin Penetas Super
-• 1 <a href="https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2358-incubators-hatching-pokemon-eggs/">Mesin Penetas Berwaktu</a>, yaitu mesin penetas tambahan dengan penggunaan tak terbatas yang bisa kamu gunakan dalam jangka waktu tertentu untuk menetaskan Telur saat kamu menjelajah!
+• 1 <a href="https://scopelyexplore.helpshift.com/hc/faq/1118-incubators-hatching-pokemon-eggs/">Mesin Penetas Berwaktu</a>, yaitu mesin penetas tambahan dengan penggunaan tak terbatas yang bisa kamu gunakan dalam jangka waktu tertentu untuk menetaskan Telur saat kamu menjelajah!
 • Dan masih banyak lagi!
 
 RESOURCE ID: season_pass_may2025_event_duration
@@ -113825,13 +113861,13 @@ RESOURCE ID: season_pass_may2025_upgrade_description
 TEXT: Beli Tiket GO Luks: Mei untuk membuka hadiah berikut!
 
 • Pertemuan tambahan dengan Yveltal
-• Satu <a href="https://niantic.helpshift.com/hc/faq/4945-what-is-the-lucky-trinket/">Ornamen Istimewa</a> yang dalam sekejap membuatmu menjadi Teman Istimewa dengan teman pilihanmu
+• Satu <a href="https://scopelyexplore.helpshift.com/hc/faq/1147-what-is-the-lucky-trinket/">Ornamen Istimewa</a> yang dalam sekejap membuatmu menjadi Teman Istimewa dengan teman pilihanmu
 • Dan masih banyak lagi!
 
 RESOURCE ID: season_pass_may2025_upgrade_description_no_additional_legendary
 TEXT: Beli Tiket GO Luks: Mei untuk membuka hadiah berikut!
 
-• Satu <a href="https://niantic.helpshift.com/hc/faq/4945-what-is-the-lucky-trinket/">Ornamen Istimewa</a> yang dalam sekejap membuatmu menjadi Teman Istimewa dengan teman pilihanmu
+• Satu <a href="https://scopelyexplore.helpshift.com/hc/faq/1147-what-is-the-lucky-trinket/">Ornamen Istimewa</a> yang dalam sekejap membuatmu menjadi Teman Istimewa dengan teman pilihanmu
 • Dan masih banyak lagi!
 
 RESOURCE ID: season_pass_may2026_event_duration
@@ -113866,7 +113902,7 @@ RESOURCE ID: season_pass_november2025_upgrade_description
 TEXT: Beli Tiket GO Luks: November untuk membuka hadiah berikut!
 
 • 1 Mesin Penetas Super
-• 1 <a href="https://niantic.helpshift.com/hc/faq/4945-what-is-the-lucky-trinket/">Ornamen Istimewa</a>, yang dalam sekejap membuatmu menjadi Teman Istimewa dengan teman pilihanmu
+• 1 <a href="https://scopelyexplore.helpshift.com/hc/faq/1147-what-is-the-lucky-trinket/">Ornamen Istimewa</a>, yang dalam sekejap membuatmu menjadi Teman Istimewa dengan teman pilihanmu
 • Dan masih banyak lagi!
 
 RESOURCE ID: season_pass_october2025_event_duration
@@ -114091,7 +114127,7 @@ RESOURCE ID: season_pass_september2025_upgrade_description
 TEXT: Beli Tiket GO Luks: September untuk membuka hadiah berikut!
 
 • 1 Mesin Penetas Super
-• 1 <a href="https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2358-incubators-hatching-pokemon-eggs/">Mesin Penetas Berwaktu</a>, yaitu Mesin Penetas tambahan yang bisa dipakai berkali-kali dalam waktu terbatas untuk menetaskan Telur saat kamu menjelajah!
+• 1 <a href="https://scopelyexplore.helpshift.com/hc/faq/1118-incubators-hatching-pokemon-eggs/">Mesin Penetas Berwaktu</a>, yaitu Mesin Penetas tambahan yang bisa dipakai berkali-kali dalam waktu terbatas untuk menetaskan Telur saat kamu menjelajah!
 • Dan masih banyak lagi!
 
 RESOURCE ID: season_pass_shockingly_good_2026_event_duration
@@ -114180,7 +114216,20 @@ TEXT: 25 Agustus – 30 Agustus
 RESOURCE ID: season_pass_wcs_2026_track_upgrade_header_description
 TEXT: Dapatkan hadiah tambahan dan buka <b>Zapdos</b> di Rank 30!
 
+RESOURCE ID: season_pass_wcs_2026_track_upgrade_header_description_backpack
+TEXT: Dapatkan hadiah tambahan dan buka <b>Ransel WCS/PokémonXP 2026</b> di Rank 15!
+
 RESOURCE ID: season_pass_wcs_2026_upgrade_description
+TEXT: Beli Tiket GO Luks: PokémonXP & 2026 Worlds untuk membuka hadiah berikut!
+
+• Ransel WCS/PokémonXP 2026
+• Pertemuan dengan Pikachu berpakaian antariksa ala Cosmog
+• Pertemuan dengan Pikachu World Championship 2026
+• Pertemuan dengan Pokémon bertema event
+• Permen Langka XL
+• Dan masih banyak lagi!
+
+RESOURCE ID: season_pass_wcs_2026_upgrade_description_out
 TEXT: Beli Tiket GO Luks: PokémonXP & 2026 Worlds untuk membuka hadiah berikut!
 
 • Pertemuan dengan Pikachu berpakaian antariksa ala Cosmog
@@ -115041,7 +115090,7 @@ RESOURCE ID: settings_wearables_device_status_unpaired
 TEXT: Tidak Tertaut
 
 RESOURCE ID: settings_wearables_device_troubleshooting_url
-TEXT: <url with language query param in it>
+TEXT: https://scopelyexplore.helpshift.com/hc/faq/1337-pairing-and-connecting-pokemon-go-to-official-devices/
 
 RESOURCE ID: settings_wearables_empty_device_list
 TEXT: Perangkat Tidak Ditemukan
@@ -115280,6 +115329,9 @@ TEXT: {0} mengundangmu ke Raid EX {1}.
 RESOURCE ID: shelmetkarrablast_post_cd_timed_research_name
 TEXT: Penelitian Berwaktu Kelanjutan Hari Komunitas Shelmet dan Karrablast
 
+RESOURCE ID: shield_break_adventure_effect_battle_log
+TEXT: YOUR ATTACKS ARE BOOSTED BY DYNAMIC PUNCH+’S ADVENTURE EFFECT!
+
 RESOURCE ID: shinjuku_cross_title
 TEXT: クロス新宿ビジョン
 
@@ -115491,7 +115543,7 @@ RESOURCE ID: shop_daily_bonus_header
 TEXT: Hadiah spesial!
 
 RESOURCE ID: shop_discount_disclaimer_helpshift_url
-TEXT: https://niantic.helpshift.com/hc/faq/4707-notice-regarding-discount-rates-displayed-in-the-shop/
+TEXT: https://scopelyexplore.helpshift.com/hc/faq/1267-notice-regarding-discount-rates-displayed-in-the-shop/
 
 RESOURCE ID: shop_discount_disclaimer_modal_title
 TEXT: Diskon Edisi Terbatas
@@ -115523,12 +115575,12 @@ TEXT: {0}-mu telah ditingkatkan sepenuhnya!
 RESOURCE ID: shop_fully_upgraded_purchasable
 TEXT: {0} telah ditingkatkan sepenuhnya! Dapatkan lebih banyak penyimpanan dengan naik level!
 
-<a href="https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/3049-available-items-your-bag/">Pelajari lebih lanjut tentang naik level di sini.</a>
+<a href="https://scopelyexplore.helpshift.com/hc/faq/1432-available-items-your-bag/">Pelajari lebih lanjut tentang naik level di sini.</a>
 
 RESOURCE ID: shop_fully_upgraded_purchasable_plural
 TEXT: {0}-mu telah ditingkatkan sepenuhnya! Dapatkan lebih banyak penyimpanan dengan naik level!
 
-<a href="https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/3049-available-items-your-bag/">Pelajari lebih lanjut tentang naik level di sini.</a>
+<a href="https://scopelyexplore.helpshift.com/hc/faq/1432-available-items-your-bag/">Pelajari lebih lanjut tentang naik level di sini.</a>
 
 RESOURCE ID: shop_gift_friend_ineligible_title
 TEXT: Cannot Send Gift
@@ -116597,6 +116649,9 @@ TEXT: Tidak ada Bola Pokémon
 
 RESOURCE ID: soft_sfida_title_pokemon_full
 TEXT: Penyimpanan Pokémon penuh.
+
+RESOURCE ID: soft_sfida_tutorial_url
+TEXT: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1250-what-is-the-explorer-gadget/
 
 RESOURCE ID: soft_sfida_warn_items_full
 TEXT: Tas Item penuh.
@@ -122109,7 +122164,7 @@ TEXT: Tiket untuk mengakses bonus harian Penelitian Lapangan yang menghadiahkan 
 
 Jika kamu membeli tiket ini, setiap hari mulai 16 Mei sampai 30 Mei, kamu bisa mendapatkan bonus Penelitian Lapangan untuk login pertama setiap hari.
 
-Harap diperhatikan: Kamu harus punya 3 atau kurang tugas Penelitian Lapangan aktif untuk menerima bonus Penelitian Lapangan ini saat login pertama pada hari tersebut! Lalu, kamu harus mengeklaim hadiah 20 PokéCoin setelah menyelesaikan tugas untuk menerima hadiahnya. Pelajari lebih lanjut tentang bonus tugas Penelitian Lapangan <a href="https://niantic.helpshift.com/hc/faq/2479-why-does-my-field-research-task-have-a-bonus-tag/">di sini</a>.
+Harap diperhatikan: Kamu harus punya 3 atau kurang tugas Penelitian Lapangan aktif untuk menerima bonus Penelitian Lapangan ini saat login pertama pada hari tersebut! Lalu, kamu harus mengeklaim hadiah 20 PokéCoin setelah menyelesaikan tugas untuk menerima hadiahnya. Pelajari lebih lanjut tentang bonus tugas Penelitian Lapangan <a href="https://scopelyexplore.helpshift.com/hc/faq/1098-why-does-my-field-research-task-have-a-bonus-tag/">di sini</a>.
 
 RESOURCE ID: text_rewards_key_conciergecb0925
 TEXT: <b>Termasuk Hadiah:</b>
@@ -122485,14 +122540,13 @@ TEXT: <b>Termasuk:</b>
 <a href="https://pokemongo.com/gowildarea/global"> Pelajari lebih lanjut tentang bonus tiket di sini.</a>
 
 RESOURCE ID: text_rewards_key_gowa26
-TEXT: <b>Includes:</b>
-• Up to 6 free Raid Passes each day from spinning Gym Photo Discs
-• Increased chance of receiving event 10 km Eggs from PokéStops
-• Up to 6 Special Trades per day and reduced Stardust cost for trades
-• 1/2 Hatch Distance when Eggs are placed in an Incubator during the event
-• 2× Candy for catching Pokémon
-• A higher chance to encounter Shiny Pokémon during the event
-Learn more about the ticket bonuses <a href="pokemongo.com/gowildarea/global">here</a>.
+TEXT: <b>Termasuk:</b>
+• Hingga 6 Tiket Raid gratis setiap harinya dengan memutar Disk Foto di Gym
+• Peningkatan peluang untuk menerima Telur 10 km event dari memutar PokéStop
+• Hingga 6 Pertukaran Spesial per hari dan pengurangan biaya Debu Bintang untuk pertukaran
+• Pengurangan 1/2 Jarak Penetasan saat Telur ditempatkan di Mesin Penetas selama event
+• Peluang lebih tinggi untuk menangkap Pokémon Bersinar selama event
+Pelajari lebih lanjut tentang bonus tiket <a href="https://pokemongo.com/gowildarea/global">di sini</a>.
 
 RESOURCE ID: text_rewards_key_growingup0525
 TEXT: <b>Termasuk hadiah:</b>
@@ -122809,7 +122863,7 @@ TEXT: Tiket ini memberimu bonus Penelitian Berwaktu yang berhadiah bonus 200 Pok
 • Dapat mengumpulkan 150 Hadiah dari PokéStop dan Gym per hari
 • Dapat menampung 40 Hadiah di Tas Item milikmu
 
-Harap diingat: Kamu harus memiliki 3 atau kurang tugas Penelitian Lapangan yang aktif untuk mendapatkan bonus tugas Penelitian Lapangan ini pada saat kamu login pertama kali setiap hari. Kamu harus mengambil hadiah bonus 20 PokéCoin setelah menyelesaikan tugas. Tugas Penelitian Lapangan dapat dipelajari lebih lanjut <a href="https://niantic.helpshift.com/hc/faq/2479-why-does-my-field-research-task-have-a-bonus-tag/">di sini</a>.
+Harap diingat: Kamu harus memiliki 3 atau kurang tugas Penelitian Lapangan yang aktif untuk mendapatkan bonus tugas Penelitian Lapangan ini pada saat kamu login pertama kali setiap hari. Kamu harus mengambil hadiah bonus 20 PokéCoin setelah menyelesaikan tugas. Tugas Penelitian Lapangan dapat dipelajari lebih lanjut <a href="https://scopelyexplore.helpshift.com/hc/faq/1098-why-does-my-field-research-task-have-a-bonus-tag/">di sini</a>.
 
 RESOURCE ID: text_rewards_key_monthlyticketoct24
 TEXT: Tiket ini memberimu bonus Penelitian Berwaktu yang berhadiah bonus 200 PokéCoin dan bonus harian tugas Penelitian Lapangan yang berhadiah bonus PokéCoin dari 3 Oktober hingga 2 November 2024.
@@ -122821,19 +122875,19 @@ TEXT: Tiket ini memberimu bonus Penelitian Berwaktu yang berhadiah bonus 200 Pok
 • Dapat mengumpulkan 150 Hadiah dari PokéStop dan Gym per hari
 • Dapat menampung 40 Hadiah di Tas Item milikmu
 
-Harap diingat: Kamu harus memiliki 3 atau kurang tugas Penelitian Lapangan yang aktif untuk mendapatkan bonus tugas Penelitian Lapangan ini pada saat kamu login pertama kali setiap hari. Kamu harus mengambil hadiah bonus 20 PokéCoin setelah menyelesaikan tugas. Tugas Penelitian Lapangan dapat dipelajari lebih lanjut <a href="https://niantic.helpshift.com/hc/faq/2479-why-does-my-field-research-task-have-a-bonus-tag/">di sini</a>.
+Harap diingat: Kamu harus memiliki 3 atau kurang tugas Penelitian Lapangan yang aktif untuk mendapatkan bonus tugas Penelitian Lapangan ini pada saat kamu login pertama kali setiap hari. Kamu harus mengambil hadiah bonus 20 PokéCoin setelah menyelesaikan tugas. Tugas Penelitian Lapangan dapat dipelajari lebih lanjut <a href="https://scopelyexplore.helpshift.com/hc/faq/1098-why-does-my-field-research-task-have-a-bonus-tag/">di sini</a>.
 
 RESOURCE ID: text_rewards_key_monthlyticketsept24
 TEXT: Tiket ini memberimu bonus Penelitian Berwaktu yang berhadiah bonus 200 PokéCoin dan Bonus Harian tugas Penelitian Lapangan yang berhadiah bonus PokéCoin dari 3 September hingga 2 Oktober 2024.
 
 <b>Termasuk Bonus:</b>
 • 1 tugas Penelitian Lapangan yang berhadiah bonus 20 PokéCoin saat kamu login pertama kali setiap harinya
-• XP ×3 dari tangkapan pertama dan pemutaran pertamamu setiap harinya
+• ×3 XP dari tangkapan pertama dan pemutaran pertamamu setiap harinya
 • Dapat membuka hingga 50 Hadiah per hari
 • Dapat mengumpulkan 150 Hadiah dari PokéStop dan Gym per hari
 • Dapat menampung 40 Hadiah di Tas Item milikmu
 
-Harap diingat: Kamu harus memiliki 3 atau kurang tugas Penelitian Lapangan yang aktif untuk mendapatkan bonus tugas Penelitian Lapangan ini pada saat kamu login pertama kali setiap hari. Kamu harus mengambil hadiah bonus 20 PokéCoin setelah menyelesaikan tugas. Tugas Penelitian Lapangan dapat dipelajari lebih lanjut <a href="https://niantic.helpshift.com/hc/faq/2479-why-does-my-field-research-task-have-a-bonus-tag/">di sini</a>.
+Harap diingat: Kamu harus memiliki 3 atau kurang tugas Penelitian Lapangan yang aktif untuk mendapatkan bonus tugas Penelitian Lapangan ini pada saat kamu login pertama kali setiap hari. Kamu harus mengambil hadiah bonus 20 PokéCoin setelah menyelesaikan tugas. Tugas Penelitian Lapangan dapat dipelajari lebih lanjut <a href="https://scopelyexplore.helpshift.com/hc/faq/1098-why-does-my-field-research-task-have-a-bonus-tag/">di sini</a>.
 
 RESOURCE ID: text_rewards_key_munchlax0825
 TEXT: <b>Termasuk Hadiah:</b>
@@ -123588,7 +123642,7 @@ RESOURCE ID: three_free_raid_passes
 TEXT: Dapatkan hingga tiga Tiket Raid gratis dengan memutar Disk Foto di Gym
 
 RESOURCE ID: three_strike_policy_url
-TEXT: https://pokemongo.nianticlabs.com/support/three-strike-policy
+TEXT: https://scopelyexplore.helpshift.com/hc/faq/1305-gameplay-fairness-policy/
 
 RESOURCE ID: throwback_2020_celebration
 TEXT: Perayaan Tantangan Kilas Balik 2020
@@ -125252,6 +125306,9 @@ TEXT: EVENT
 
 RESOURCE ID: today_view_upcoming_events_today_marker
 TEXT: HARI INI
+
+RESOURCE ID: today_view_welcome_back_tab_label
+TEXT: Kanto Homecoming
 
 RESOURCE ID: toggle_item_equip
 TEXT: PASANG
@@ -127049,6 +127106,42 @@ TEXT: Penelitian Berwaktu Pelatihan Mega Pokémon GO! (1/2)
 
 RESOURCE ID: tr_jp2025_aeon_mall_header_01
 TEXT: Penelitian Berwaktu Pelatihan Mega Pokémon GO! (2/2)
+
+RESOURCE ID: tr_kindling_2026_set_01_header
+TEXT: Kanto Homecoming Timed Research (1/12)
+
+RESOURCE ID: tr_kindling_2026_set_02_header
+TEXT: Kanto Homecoming Timed Research (2/12)
+
+RESOURCE ID: tr_kindling_2026_set_03_header
+TEXT: Kanto Homecoming Timed Research (3/12)
+
+RESOURCE ID: tr_kindling_2026_set_04_header
+TEXT: Kanto Homecoming Timed Research (4/12)
+
+RESOURCE ID: tr_kindling_2026_set_05_header
+TEXT: Kanto Homecoming Timed Research (5/12)
+
+RESOURCE ID: tr_kindling_2026_set_06_header
+TEXT: Kanto Homecoming Timed Research (6/12)
+
+RESOURCE ID: tr_kindling_2026_set_07_header
+TEXT: Kanto Homecoming Timed Research (7/12)
+
+RESOURCE ID: tr_kindling_2026_set_08_header
+TEXT: Kanto Homecoming Timed Research (8/12)
+
+RESOURCE ID: tr_kindling_2026_set_09_header
+TEXT: Kanto Homecoming Timed Research (9/12)
+
+RESOURCE ID: tr_kindling_2026_set_10_header
+TEXT: Kanto Homecoming Timed Research (10/12)
+
+RESOURCE ID: tr_kindling_2026_set_11_header
+TEXT: Kanto Homecoming Timed Research (11/12)
+
+RESOURCE ID: tr_kindling_2026_set_12_header
+TEXT: Kanto Homecoming Timed Research (12/12)
 
 RESOURCE ID: tr_kr2025_retention_cherryblossom_title
 TEXT: Tantangan Memandang Bunga

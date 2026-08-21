@@ -218,7 +218,7 @@ RESOURCE ID: abi_contact_signed_up_notification
 TEXT: Trainers on your contacts list have started their adventures in Pokémon GO! Go to the Friends menu to send Friend Requests to them.
 
 RESOURCE ID: abi_helpshift_url
-TEXT: https://niantic.helpshift.com/a/pokemon-go/?p=all&s=friends-gifting-trading&f=friend-list-friendship-levels-1614899618
+TEXT: https://scopelyexplore.helpshift.com/hc/faq/1137-adding-friends/
 
 RESOURCE ID: abi_new_player_onboarding_title
 TEXT: Pokémon GO is Better with Friends!
@@ -302,7 +302,7 @@ RESOURCE ID: accessibility_settings_title
 TEXT: Accessibility
 
 RESOURCE ID: account_locked_article_url
-TEXT: https://niantic.helpshift.com/hc/faq/5242-my-account-has-been-locked-or-restricted/
+TEXT: https://scopelyexplore.helpshift.com/hc/faq/2554-my-account-has-been-locked-or-restricted-1783711163/
 
 RESOURCE ID: ace_box_title
 TEXT: Ace Box
@@ -875,7 +875,7 @@ RESOURCE ID: age_confirm_explain
 TEXT: There is an age requirement to log in with this type of account. Please confirm your date of birth.
 
 RESOURCE ID: age_confirm_fail
-TEXT: Sorry, you do not meet the <a href="https://niantic.helpshift.com/hc/faq/4996-important-notice-pokemon-go-login-age-requirements/">age requirements</a> to log in with this type of account, and your account will be deleted pursuant to our Terms of Service. If you believe you are eligible to log in with this type of account, please contact us.
+TEXT: Sorry, you do not meet the <a href="https://scopelyexplore.helpshift.com/hc/faq/1314-i-cannot-login-and-message-shows-sorry-you-do-not-meet-the-age-requirement-to-login-with-this-type-of-account/">age requirements</a> to log in with this type of account, and your account will be deleted pursuant to our Terms of Service. If you believe you are eligible to log in with this type of account, please contact us.
 
 RESOURCE ID: age_confirm_popup_confirm
 TEXT: Are you sure? This cannot be changed after you submit it.
@@ -34609,7 +34609,7 @@ TEXT: Earn additional rewards and unlock a <b>Gold Bottle Cap</b> at Rank 100!
 RESOURCE ID: event_pass_gofest2025_upgrade_description
 TEXT: Purchase GO Pass Deluxe: Ancients Recovered to unlock the following rewards!
 
-• One <a href="https://niantic.helpshift.com/hc/faq/5103-what-is-hyper-training/">Gold Bottle Cap</a>, which is used to start a Hyper Training course that you can complete to increase all of a Pokémon’s stats
+• One <a href="https://scopelyexplore.helpshift.com/hc/faq/1113-what-is-hyper-training/">Gold Bottle Cap</a>, which is used to start a Hyper Training course that you can complete to increase all of a Pokémon’s stats
 • Zacian Mask avatar item
 • Zamazenta Mask avatar item
 • Exclusive hatch- and raid-focused bonuses
@@ -34668,7 +34668,7 @@ TEXT: Earn additional rewards and unlock a <b>Gold Bottle Cap</b> at Rank 100!
 RESOURCE ID: event_pass_gofest2026_upgrade_description
 TEXT: Purchase GO Pass Deluxe: Road of Legends to unlock the following rewards!
 
-• One <a href="https://niantic.helpshift.com/hc/faq/5103-what-is-hyper-training/">Gold Bottle Cap</a>, which is used to start a Hyper Training course that you can complete to increase all of a Pokémon’s stats
+• One <a href="https://scopelyexplore.helpshift.com/hc/faq/1113-what-is-hyper-training/">Gold Bottle Cap</a>, which is used to start a Hyper Training course that you can complete to increase all of a Pokémon’s stats
 • Team Leader Pose for your avatar
 • An encounter with Mewtwo with a guaranteed Special Background
 • Exclusive hatch- and raid-focused bonuses
@@ -40996,7 +40996,7 @@ RESOURCE ID: general2.ticket._gowa25_leadup_title
 TEXT: Ready for the Wild Premium Timed Research Ticket
 
 RESOURCE ID: general2.ticket._gowa26_title
-TEXT: Pokémon GO Wild Area 2026 Global Ticket
+TEXT: Pokémon GO Wild Area 2026: Global Ticket
 
 RESOURCE ID: general2.ticket._megagalladeraidday_title
 TEXT: Mega Gallade Raid Day Ticket
@@ -47370,8 +47370,17 @@ TEXT: Pokémon GO Fest 2026: Chicago
 RESOURCE ID: gofest2026_copenhagen
 TEXT: Pokémon GO Fest 2026: Copenhagen
 
+RESOURCE ID: gofest2026_tag
+TEXT: GO Fest 2026: Mega Finale
+
 RESOURCE ID: gofest2026_tokyo
 TEXT: Pokémon GO Fest 2026: Tokyo
+
+RESOURCE ID: gofest2026_battle_district
+TEXT: Battle District
+
+RESOURCE ID: gofest2026_circuit_plaza
+TEXT: Circuit Plaza
 
 RESOURCE ID: gofest2026_collection_district
 TEXT: Collection District
@@ -47397,6 +47406,9 @@ TEXT: Defeat Team GO Rocket
 RESOURCE ID: gofest2026_details_link
 TEXT: For more details, visit the <a href="https://pokemongo.com/news/road-of-legends-2026">website</a>.
 
+RESOURCE ID: gofest2026_eerie_alley
+TEXT: Eerie Alley
+
 RESOURCE ID: gofest2026_finale_details_link
 TEXT: For more details, visit the <a href="https://Pokémongo.com/gofest/megafinale">GO Fest 2026: Mega Finale website</a>.
 
@@ -47405,6 +47417,15 @@ TEXT: Friendship District
 
 RESOURCE ID: gofest2026_investigation_district
 TEXT: Investigation District
+
+RESOURCE ID: gofest2026_iron_frostworks
+TEXT: Iron Frostworks
+
+RESOURCE ID: gofest2026_mindworks_canal
+TEXT: Mindworks Canal
+
+RESOURCE ID: gofest2026_prism_promenade
+TEXT: Prism Promenade
 
 RESOURCE ID: gofest2026_recruitment_zone
 TEXT: Recruitment Zone
@@ -47420,6 +47441,12 @@ TEXT: Team GO Rocket Hideout Bonus
 
 RESOURCE ID: gofest2026_scouting_district
 TEXT: Scouting District
+
+RESOURCE ID: gofest2026_skyline_roosts
+TEXT: Skyline Roosts
+
+RESOURCE ID: gofest2026_verdant_overgrowth
+TEXT: Verdant Overgrowth
 
 RESOURCE ID: gofest_arlo_challenge#1
 TEXT: We’ve taken over your celebration, and you still insist on challenging me? Get ready to face the harsh reality.
@@ -47923,7 +47950,7 @@ RESOURCE ID: gotour_2025_upgrade_description
 TEXT: Purchase the Tour Pass Deluxe to unlock the following rewards!
 
 • An encounter with Victini
-• One <a href="https://niantic.helpshift.com/hc/faq/4945-what-is-the-lucky-trinket/">Lucky Trinket</a>, which allows you to instantly become Lucky Friends with a friend of your choice
+• One <a href="https://scopelyexplore.helpshift.com/hc/faq/1147-what-is-the-lucky-trinket/">Lucky Trinket</a>, which allows you to instantly become Lucky Friends with a friend of your choice
 • Fusion Energy for Kyurem
 • The Kyurem Helmet avatar item
 • And much more!
@@ -47943,7 +47970,7 @@ RESOURCE ID: gotour_2026_upgrade_description
 TEXT: Purchase GO Pass Deluxe: Road to Kalos to unlock the following rewards!
 
 • An encounter with Hoopa Unbound
-• One <a href="https://niantic.helpshift.com/hc/faq/4945-what-is-the-lucky-trinket/">Lucky Trinket</a>, which allows you to instantly become Lucky Friends with a friend of your choice
+• One <a href="https://scopelyexplore.helpshift.com/hc/faq/1147-what-is-the-lucky-trinket/">Lucky Trinket</a>, which allows you to instantly become Lucky Friends with a friend of your choice
 • Zygarde Cells
 • The Zygarde Jacket avatar item
 • And much more!
@@ -51141,16 +51168,16 @@ RESOURCE ID: heal_multiple_button
 TEXT: Heal ({0})
 
 RESOURCE ID: help_center_link
-TEXT: https://support.pokemongo.nianticlabs.com/hc/en-us
+TEXT: https://scopelyexplore.helpshift.com/hc/app/5-pokemon-go/
 
 RESOURCE ID: help_center_friends_link
-TEXT: https://niantic.helpshift.com/a/pokemon-go/?p=all&s=friends-gifting-trading&f=friend-list-friendship-levels-1614899618
+TEXT: https://scopelyexplore.helpshift.com/hc/faq/1138-friend-list-friendship-levels/
 
 RESOURCE ID: help_center_raid_log_link
 TEXT: https://niantic.helpshift.com/a/pokemon-go/?p=all&s=top-articles&f=sharing-raid-logs
 
 RESOURCE ID: helpshift_sharing_game_logs
-TEXT: https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/3325-sharing-game-logs/
+TEXT: https://scopelyexplore.helpshift.com/hc/faq/849-sharing-game-logs/
 
 RESOURCE ID: hemisphere_holiday_tr_name
 TEXT: Holiday Part 1: Shore Thing Premium Timed Research
@@ -51354,7 +51381,7 @@ RESOURCE ID: home_pokemon_confirmation
 TEXT: Are you sure you want to send {0} Pokémon?
 
 RESOURCE ID: home_privacy_warning
-TEXT: When you connect Pokémon GO with Pokémon HOME, certain limited information will be shared with The Pokémon Company in the course of moving Pokémon. Please see this <a href="https://niantic.helpshift.com/a/pokemon-go/?s=accessories-and-services&f=sending-pokemon-to-pokemon-home">help article</a> for more information. Data shared with The Pokémon Company is subject to The Pokémon Company’s own privacy policy.
+TEXT: When you connect Pokémon GO with Pokémon HOME, certain limited information will be shared with The Pokémon Company in the course of moving Pokémon. Please see this <a href="https://scopelyexplore.helpshift.com/hc/faq/1339-sending-pokemon-to-pokemon-home/">help article</a> for more information. Data shared with The Pokémon Company is subject to The Pokémon Company’s own privacy policy.
 
 RESOURCE ID: home_recharge_time_day_hour
 TEXT: {0} Day, {1} Hour until Charged
@@ -55763,10 +55790,10 @@ RESOURCE ID: jp_2026_ana_title
 TEXT: Sky-Bound Adventure
 
 RESOURCE ID: jp_iap_link1
-TEXT: https://niantic.helpshift.com/hc/ja/6-pokemon-go/faq/2046-%E8%B3%87%E9%87%91%E6%B1%BA%E6%B8%88%E6%B3%95%E3%81%AB%E5%9F%BA%E3%81%A4%E3%81%8F%E8%A1%A8%E7%A4%BA/?s=others&f=%E8%B3%87%E9%87%91%E6%B1%BA%E6%B8%88%E6%B3%95%E3%81%AB%E5%9F%BA%E3%81%A4%E3%81%8F%E8%A1%A8%E7%A4%BA&l=ja&p=web
+TEXT: https://scopelyexplore.helpshift.com/hc/ja/5-pokemon-go/faq/1492-%E8%B3%87%E9%87%91%E6%B1%BA%E6%B8%88%E6%B3%95%E3%81%AB%E5%9F%BA%E3%81%A4%E3%81%8F%E8%A1%A8%E7%A4%BA/
 
 RESOURCE ID: jp_iap_link2
-TEXT: https://niantic.helpshift.com/hc/ja/6-pokemon-go/faq/150-%E7%89%B9%E5%AE%9A%E5%95%86%E5%8F%96%E5%BC%95%E6%B3%95%E3%81%AB%E5%9F%BA%E3%81%A4%E3%81%8F%E8%A1%A8%E7%A4%BA/?s=others&f=%E8%B3%87%E9%87%91%E6%B1%BA%E6%B8%88%E6%B3%95%E3%81%AB%E5%9F%BA%E3%81%A4%E3%81%8F%E8%A1%A8%E7%A4%BA&l=ja&p=web
+TEXT: https://scopelyexplore.helpshift.com/hc/ja/5-pokemon-go/faq/1490-%E7%89%B9%E5%AE%9A%E5%95%86%E5%8F%96%E5%BC%95%E6%B3%95%E3%81%AB%E5%9F%BA%E3%81%A4%E3%81%8F%E8%A1%A8%E7%A4%BA/
 
 RESOURCE ID: jp_iap_linkname1
 TEXT: Link 1
@@ -56070,6 +56097,12 @@ TEXT: Space
 
 RESOURCE ID: keyboard_symbols
 TEXT: Symbols
+
+RESOURCE ID: kindling_2026_mini_collection
+TEXT: Kanto Homecoming: Road to Mewtwo
+
+RESOURCE ID: kindling_2026_mini_collection_desc
+TEXT: Catch the Pokémon from the Kanto Homecoming Timed Research to encounter Mewtwo!
 
 RESOURCE ID: kingler_gmax_tr_2025_title
 TEXT: Gigantamax Kingler Premium Timed Research
@@ -61611,10 +61644,10 @@ at SHA 4d4f3e80cc7fb911006bd14d198c9831ef66d005
 Pipeline 339838, job 2672172
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-08-18T00:48:15.368257+00:00 for en-US
-at SHA 4c5aa5ac97f
-Pipeline 3880013, job 57040572
-Patch from: 0.423.1-SHA-70644676-RC1, 0.425.0-SHA-73e817e6-RC3, 0.427.0-SHA-bafb3348-RC1
+TEXT: Built at 2026-08-21T22:45:32.872454+00:00 for en-US
+at SHA 222138e7072
+Pipeline 3890765, job 57214802
+Patch from: 0.425.0-SHA-e7185dda-RC1, 0.423.1-SHA-70644676-RC1, 0.427.0-SHA-fc729f25-RC2
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: Timed Research: Choose Your Fighting Type
@@ -69949,7 +69982,7 @@ RESOURCE ID: poi_sub_failed_error
 TEXT: Nomination submission failed. Please try again.
 
 RESOURCE ID: poi_sub_faq_web_link
-TEXT: https://niantic.helpshift.com/a/wayfarer/?s=wayspot-criteria
+TEXT: https://scopelyexplore.helpshift.com/hc/section/158-wayspot-criteria/
 
 RESOURCE ID: poi_sub_gallery_permission_desc
 TEXT: To submit a PokéStop nomination using your image gallery, please grant relevant permissions in your device’s settings menu.
@@ -70057,7 +70090,7 @@ RESOURCE ID: poi_sub_submit_button
 TEXT: SUBMIT
 
 RESOURCE ID: poi_sub_suggestion_web_link
-TEXT: https://niantic.helpshift.com/a/wayfarer/?p=web&s=wayspot-eligibility
+TEXT: https://scopelyexplore.helpshift.com/hc/faq/1980-eligibility-criteria/
 
 RESOURCE ID: poi_sub_surrounding_img_desc
 TEXT: Photos of the surrounding area will help support the reviewers.
@@ -84108,6 +84141,9 @@ TEXT: Catch a Pokémon originally discovered in the Kalos region
 RESOURCE ID: quest_catch_kanto_pokemon
 TEXT: Catch {0} Pokémon originally discovered in the Kanto region
 
+RESOURCE ID: quest_catch_kanto_pokemon_days
+TEXT: Catch Pokémon originally discovered in the Kanto region on {0} different days
+
 RESOURCE ID: quest_catch_kanto_starters_plural
 TEXT: Catch {0} Bulbasaur, Charmander, or Squirtle
 
@@ -85171,7 +85207,7 @@ RESOURCE ID: quest_defeat_mega_malamar_singular
 TEXT: Defeat Mega Malamar
 
 RESOURCE ID: quest_defeat_mega_raichu_singular
-TEXT: Defeat Mega Raichu
+TEXT: Defeat Mega Raichu X or Mega Raichu Y
 
 RESOURCE ID: quest_defeat_mega_skarmory_singular
 TEXT: Defeat Mega Skarmory
@@ -111167,7 +111203,7 @@ RESOURCE ID: replay_water_research_day_event_name
 TEXT: Replay: Water Research Day
 
 RESOURCE ID: report_issues_link
-TEXT: https://pokemongo.nianticlabs.com/support/contact/en
+TEXT: https://scopelyexplore.helpshift.com/hc/app/5-pokemon-go/
 
 RESOURCE ID: report_route_subtitle
 TEXT: Select up to five reasons from the list below.
@@ -111804,7 +111840,7 @@ RESOURCE ID: route_add_point
 TEXT: Set as a stop
 
 RESOURCE ID: route_appeal_info_link
-TEXT: https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/135-submitting-a-ban-appeal/
+TEXT: https://scopelyexplore.helpshift.com/hc/faq/1291-submitting-a-ban-appeal/
 
 RESOURCE ID: route_appealed_deletion_confirm_description
 TEXT: This action cannot be undone. If you proceed, this Route will be completely lost and unrecoverable, and the appeal you submitted will not be reviewed.
@@ -112558,7 +112594,7 @@ RESOURCE ID: route_gift_exchange_onboarding_body_2
 TEXT: Mateo will mark the Gift you choose with your Trainer nickname and take it out into the world, and you will receive a Gift from another Trainer in return. You can receive items and Eggs from these Gifts, and you may also encounter Scatterbug by pinning the Postcards you receive!
 
 RESOURCE ID: route_guidelines_link
-TEXT: https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/4378-routes-guidelines/
+TEXT: https://scopelyexplore.helpshift.com/hc/faq/1219-routes-guidelines/
 
 RESOURCE ID: route_header_travel_time_label
 TEXT: ({0} min)
@@ -112579,7 +112615,7 @@ RESOURCE ID: route_last_trip_label
 TEXT: Last Trip
 
 RESOURCE ID: route_learn_more_url
-TEXT: https://niantic.helpshift.com/hc/faq/4184-routes-faq/
+TEXT: https://scopelyexplore.helpshift.com/hc/faq/1220-routes-faq/
 
 RESOURCE ID: route_list_context_title
 TEXT: List of PokéStops or Gyms
@@ -114016,7 +114052,7 @@ RESOURCE ID: rsvp_attendance_tutorial_link_text_key
 TEXT: Learn more where your Trainer nickname is shown in-game here.
 
 RESOURCE ID: rsvp_attendance_tutorial_link_url_key
-TEXT: https://niantic.helpshift.com/hc/{0}/6-pokemon-go/faq/4286-controlling-your-experience-on-pokemon-go/
+TEXT: https://scopelyexplore.helpshift.com/hc/faq/1312-controlling-your-experience-in-pokemon-go/
 
 RESOURCE ID: rsvp_attendance_tutorial_message_key
 TEXT: Other Trainers will be able to view the battles you’ve RSVP’d to. You can change this at any time via Settings.
@@ -115322,7 +115358,7 @@ RESOURCE ID: search_favorite_added
 TEXT: Search term added to Favorites
 
 RESOURCE ID: search_filter_help_url
-TEXT: https://niantic.helpshift.com/hc/faq/1486-searching-filtering-your-pokemon-inventory/
+TEXT: https://scopelyexplore.helpshift.com/hc/faq/1126-searching-filtering-your-pokemon-inventory/
 
 RESOURCE ID: search_keywords_button
 TEXT: SEE ALL SEARCH KEYWORDS
@@ -115896,13 +115932,13 @@ RESOURCE ID: season_pass_april2025_upgrade_description
 TEXT: Purchase GO Pass Deluxe: April to unlock the following rewards!
 
 • An additional encounter with Xerneas
-• One <a href="https://niantic.helpshift.com/hc/faq/4945-what-is-the-lucky-trinket/">Lucky Trinket</a>, which allows you to instantly become Lucky Friends with a friend of your choice
+• One <a href="https://scopelyexplore.helpshift.com/hc/faq/1147-what-is-the-lucky-trinket/">Lucky Trinket</a>, which allows you to instantly become Lucky Friends with a friend of your choice
 • And much more!
 
 RESOURCE ID: season_pass_april2025_upgrade_description_no_additional_legendary
 TEXT: Purchase GO Pass Deluxe: April to unlock the following rewards!
 
-• One <a href="https://niantic.helpshift.com/hc/faq/4945-what-is-the-lucky-trinket/">Lucky Trinket</a>, which allows you to instantly become Lucky Friends with a friend of your choice
+• One <a href="https://scopelyexplore.helpshift.com/hc/faq/1147-what-is-the-lucky-trinket//">Lucky Trinket</a>, which allows you to instantly become Lucky Friends with a friend of your choice
 • And much more!
 
 RESOURCE ID: season_pass_april2026_event_duration
@@ -115915,7 +115951,7 @@ RESOURCE ID: season_pass_april2026_upgrade_description
 TEXT: Purchase GO Pass Deluxe: April to unlock the following rewards!
 
 • One Super Incubator
-• One <a href="https://niantic.helpshift.com/hc/faq/4945-what-is-the-lucky-trinket/">Lucky Trinket</a>, which allows you to instantly become Lucky Friends with a friend of your choice
+• One <a href="https://scopelyexplore.helpshift.com/hc/faq/1147-what-is-the-lucky-trinket/">Lucky Trinket</a>, which allows you to instantly become Lucky Friends with a friend of your choice
 • And much more!
 
 RESOURCE ID: season_pass_aug2025_event_duration
@@ -115925,7 +115961,7 @@ RESOURCE ID: season_pass_aug2025_upgrade_description
 TEXT: Purchase GO Pass Deluxe: August to unlock the following rewards!
 
 • One Super Incubator
-• One <a href="https://niantic.helpshift.com/hc/faq/4945-what-is-the-lucky-trinket/">Lucky Trinket</a>, which allows you to instantly become Lucky Friends with a friend of your choice
+• One <a href="https://scopelyexplore.helpshift.com/hc/faq/1147-what-is-the-lucky-trinket/">Lucky Trinket</a>, which allows you to instantly become Lucky Friends with a friend of your choice
 • And much more!
 
 RESOURCE ID: season_pass_august2026_event_duration
@@ -115938,7 +115974,7 @@ RESOURCE ID: season_pass_august2026_upgrade_description
 TEXT: Purchase GO Pass Deluxe: August to unlock the following rewards!
 
 • A single-use Incubator awarded for your first PokéStop spin each day
-• One <a href="https://niantic.helpshift.com/hc/faq/4945-what-is-the-lucky-trinket/">Lucky Trinket</a>, which allows you to instantly become Lucky Friends with a friend of your choice
+• One <a href="https://scopelyexplore.helpshift.com/hc/faq/1147-what-is-the-lucky-trinket/">Lucky Trinket</a>, which allows you to instantly become Lucky Friends with a friend of your choice
 • And much more!
 
 RESOURCE ID: season_pass_base_track_title_april
@@ -116079,7 +116115,7 @@ RESOURCE ID: season_pass_december2025_upgrade_description
 TEXT: Purchase GO Pass Deluxe: December to unlock the following rewards!
 
 • One Super Incubator
-• One <a href="https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2358-incubators-hatching-pokemon-eggs/">Timed Incubator</a>, which is an additional unlimited-use Incubator that you can use for a limited time to hatch Eggs as you explore!
+• One <a href="https://scopelyexplore.helpshift.com/hc/faq/1118-incubators-hatching-pokemon-eggs/">Timed Incubator</a>, which is an additional unlimited-use Incubator that you can use for a limited time to hatch Eggs as you explore!
 • And much more!
 
 RESOURCE ID: season_pass_details_link
@@ -116231,7 +116267,7 @@ RESOURCE ID: season_pass_january2026_upgrade_description
 TEXT: Purchase GO Pass Deluxe: January to unlock the following rewards!
 
 • One Super Incubator
-• One <a href="https://niantic.helpshift.com/hc/faq/4945-what-is-the-lucky-trinket/">Lucky Trinket</a>, which allows you to instantly become Lucky Friends with a friend of your choice
+• One <a href="https://scopelyexplore.helpshift.com/hc/faq/1147-what-is-the-lucky-trinket/">Lucky Trinket</a>, which allows you to instantly become Lucky Friends with a friend of your choice
 • And much more!
 
 RESOURCE ID: season_pass_july2025_event_duration
@@ -116241,7 +116277,7 @@ RESOURCE ID: season_pass_july2025_upgrade_description
 TEXT: Purchase GO Pass Deluxe: July to unlock the following rewards!
 
 • One Super Incubator
-• One <a href="https://niantic.helpshift.com/hc/faq/4945-what-is-the-lucky-trinket/">Lucky Trinket</a>, which allows you to instantly become Lucky Friends with a friend of your choice
+• One <a href="https://scopelyexplore.helpshift.com/hc/faq/1147-what-is-the-lucky-trinket/">Lucky Trinket</a>, which allows you to instantly become Lucky Friends with a friend of your choice
 • And much more!
 
 RESOURCE ID: season_pass_july2026_event_duration
@@ -116264,7 +116300,7 @@ RESOURCE ID: season_pass_june2025_upgrade_description
 TEXT: Purchase GO Pass Deluxe: June to unlock the following rewards!
 
 • One Super Incubator
-• One <a href="https://niantic.helpshift.com/hc/faq/4945-what-is-the-lucky-trinket/">Lucky Trinket</a>, which allows you to instantly become Lucky Friends with a friend of your choice
+• One <a href="https://scopelyexplore.helpshift.com/hc/faq/1147-what-is-the-lucky-trinket/">Lucky Trinket</a>, which allows you to instantly become Lucky Friends with a friend of your choice
 • And much more!
 
 RESOURCE ID: season_pass_june2026_event_duration
@@ -116277,7 +116313,7 @@ RESOURCE ID: season_pass_june2026_upgrade_description
 TEXT: Purchase GO Pass Deluxe: June to unlock the following rewards!
 
 • One Super Incubator
-• One <a href="https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2358-incubators-hatching-pokemon-eggs/">Timed Incubator</a>, an additional limited-time infinite Incubator for hatching Eggs as you explore!
+• One <a href="https://scopelyexplore.helpshift.com/hc/faq/1118-incubators-hatching-pokemon-eggs/">Timed Incubator</a>, an additional limited-time infinite Incubator for hatching Eggs as you explore!
 • And much more!
 
 RESOURCE ID: season_pass_march2026_event_duration
@@ -116290,7 +116326,7 @@ RESOURCE ID: season_pass_march2026_upgrade_description
 TEXT: Purchase GO Pass Deluxe: March to unlock the following rewards!
 
 • One Super Incubator
-• One <a href="https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2358-incubators-hatching-pokemon-eggs/">Timed Incubator</a>, which is an additional unlimited-use Incubator that you can use for a limited time to hatch Eggs as you explore!
+• One <a href="https://scopelyexplore.helpshift.com/hc/faq/1118-incubators-hatching-pokemon-eggs/">Timed Incubator</a>, which is an additional unlimited-use Incubator that you can use for a limited time to hatch Eggs as you explore!
 • And much more!
 
 RESOURCE ID: season_pass_may2025_event_duration
@@ -116303,13 +116339,13 @@ RESOURCE ID: season_pass_may2025_upgrade_description
 TEXT: Purchase GO Pass Deluxe: May to unlock the following rewards!
 
 • An additional encounter with Yveltal
-• One <a href="https://niantic.helpshift.com/hc/faq/4945-what-is-the-lucky-trinket/">Lucky Trinket</a>, which allows you to instantly become Lucky Friends with a friend of your choice
+• One <a href="https://scopelyexplore.helpshift.com/hc/faq/1147-what-is-the-lucky-trinket/">Lucky Trinket</a>, which allows you to instantly become Lucky Friends with a friend of your choice
 • And much more!
 
 RESOURCE ID: season_pass_may2025_upgrade_description_no_additional_legendary
 TEXT: Purchase GO Pass Deluxe: May to unlock the following rewards!
 
- • One <a href="https://niantic.helpshift.com/hc/faq/4945-what-is-the-lucky-trinket/">Lucky Trinket</a>, which allows you to instantly become Lucky Friends with a friend of your choice
+ • One <a href="https://scopelyexplore.helpshift.com/hc/faq/1147-what-is-the-lucky-trinket/">Lucky Trinket</a>, which allows you to instantly become Lucky Friends with a friend of your choice
 • And much more!
 
 RESOURCE ID: season_pass_may2026_event_duration
@@ -116344,7 +116380,7 @@ RESOURCE ID: season_pass_november2025_upgrade_description
 TEXT: Purchase GO Pass Deluxe: November to unlock the following rewards!
 
 • One Super Incubator
-• One <a href="https://niantic.helpshift.com/hc/faq/4945-what-is-the-lucky-trinket/">Lucky Trinket</a>, which allows you to instantly become Lucky Friends with a friend of your choice
+• One <a href="https://scopelyexplore.helpshift.com/hc/faq/1147-what-is-the-lucky-trinket/">Lucky Trinket</a>, which allows you to instantly become Lucky Friends with a friend of your choice
 • And much more!
 
 RESOURCE ID: season_pass_october2025_event_duration
@@ -116569,7 +116605,7 @@ RESOURCE ID: season_pass_september2025_upgrade_description
 TEXT: Purchase GO Pass Deluxe: September to unlock the following rewards!
 
 • One Super Incubator
-• One <a href="https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2358-incubators-hatching-pokemon-eggs/">Timed Incubator</a>, an additional unlimited-use Incubator that you can use for a limited time to hatch Eggs as you explore!
+• One <a href="https://scopelyexplore.helpshift.com/hc/faq/1118-incubators-hatching-pokemon-eggs/">Timed Incubator</a>, an additional limited time infinite Incubator for hatching Eggs as you explore!
 • And much more!
 
 RESOURCE ID: season_pass_shockingly_good_2026_event_duration
@@ -116658,7 +116694,20 @@ TEXT: August 25 – August 30
 RESOURCE ID: season_pass_wcs_2026_track_upgrade_header_description
 TEXT: Earn additional rewards and unlock <b>Zapdos</b> at Rank 30!
 
+RESOURCE ID: season_pass_wcs_2026_track_upgrade_header_description_backpack
+TEXT: Earn additional rewards and unlock the <b>2026 Worlds/PokémonXP Backpack</b> at Rank 15!
+
 RESOURCE ID: season_pass_wcs_2026_upgrade_description
+TEXT: Purchase GO Pass Deluxe: PokémonXP & 2026 Worlds to unlock the following rewards!
+
+• 2026 Worlds/PokémonXP Backpack
+• Encounter with Pikachu wearing a Cosmog-themed spacesuit
+• Encounter with World Championships 2026 Pikachu
+• Encounters with event-themed Pokémon
+• Rare Candy XL
+• And much more!
+
+RESOURCE ID: season_pass_wcs_2026_upgrade_description_out
 TEXT: Purchase GO Pass Deluxe: PokémonXP & 2026 Worlds to unlock the following rewards!
 
 • Encounter with Pikachu wearing a Cosmog-themed spacesuit
@@ -117521,7 +117570,7 @@ RESOURCE ID: settings_wearables_device_status_unpaired
 TEXT: Not Paired
 
 RESOURCE ID: settings_wearables_device_troubleshooting_url
-TEXT: <url with language query param in it>
+TEXT: https://scopelyexplore.helpshift.com/hc/faq/1337-pairing-and-connecting-pokemon-go-to-official-devices/
 
 RESOURCE ID: settings_wearables_empty_device_list
 TEXT: No Devices Found
@@ -117760,6 +117809,9 @@ TEXT: Your friend {0} has invited you to an EX Raid at {1}.
 RESOURCE ID: shelmetkarrablast_post_cd_timed_research_name
 TEXT: Shelmet and Karrablast Community Day Continued Timed Research
 
+RESOURCE ID: shield_break_adventure_effect_battle_log
+TEXT: YOUR ATTACKS ARE BOOSTED BY DYNAMIC PUNCH+’S ADVENTURE EFFECT!
+
 RESOURCE ID: shinjuku_cross_title
 TEXT: クロス新宿ビジョン
 
@@ -117971,7 +118023,7 @@ RESOURCE ID: shop_daily_bonus_header
 TEXT: A special gift from the Professor!
 
 RESOURCE ID: shop_discount_disclaimer_helpshift_url
-TEXT: https://niantic.helpshift.com/hc/faq/4707-notice-regarding-discount-rates-displayed-in-the-shop/
+TEXT: https://scopelyexplore.helpshift.com/hc/faq/1267-notice-regarding-discount-rates-displayed-in-the-shop/
 
 RESOURCE ID: shop_discount_disclaimer_modal_title
 TEXT: Limited Time Only Discounts
@@ -118003,12 +118055,12 @@ TEXT: Your {0} are fully upgraded!
 RESOURCE ID: shop_fully_upgraded_purchasable
 TEXT: Your {0} is fully upgraded! Earn more storage by leveling up!
 
-<a href="https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/3049-available-items-your-bag/">Learn more about leveling up here.</a>
+<a href="https://scopelyexplore.helpshift.com/hc/faq/1432-available-items-your-bag/">Learn more about leveling up here.</a>
 
 RESOURCE ID: shop_fully_upgraded_purchasable_plural
 TEXT: Your {0} are fully upgraded! Earn more storage by leveling up!
 
-<a href="https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/3049-available-items-your-bag/">Learn more about leveling up here.</a>
+<a href="https://scopelyexplore.helpshift.com/hc/faq/1432-available-items-your-bag/">Learn more about leveling up here.</a>
 
 RESOURCE ID: shop_gift_friend_ineligible_title
 TEXT: Cannot Send Gift
@@ -119077,6 +119129,9 @@ TEXT: No Poké Balls
 
 RESOURCE ID: soft_sfida_title_pokemon_full
 TEXT: Pokémon storage is full.
+
+RESOURCE ID: soft_sfida_tutorial_url
+TEXT: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1250-what-is-the-explorer-gadget/
 
 RESOURCE ID: soft_sfida_warn_items_full
 TEXT: Item Bag is full.
@@ -124609,7 +124664,7 @@ TEXT: A ticket to access daily bonus Field Research that rewards PokéCoins from
 
 If you purchase this ticket, every day from May 16 to May 30, you may receive a bonus Field Research the first time you log in each day.
 
-Please note: You must have three or fewer Field Research tasks active to be granted this bonus Field Research the first time you log on a given day! Also, you must claim the 20 PokéCoins reward after completing the task to receive it. You can learn more about bonus Field Research tasks <a href="https://niantic.helpshift.com/hc/faq/2479-why-does-my-field-research-task-have-a-bonus-tag/">here</a>.
+Please note: You must have three or fewer Field Research tasks active to be granted this bonus Field Research the first time you log on a given day! Also, you must claim the 20 PokéCoins reward after completing the task to receive it. You can learn more about bonus Field Research tasks <a href="https://scopelyexplore.helpshift.com/hc/faq/1098-why-does-my-field-research-task-have-a-bonus-tag/">here</a>.
 
 RESOURCE ID: text_rewards_key_conciergecb0925
 TEXT: <b>Included rewards:</b>
@@ -125306,7 +125361,7 @@ TEXT: This ticket grants bonuses, Timed Research awarding 200 bonus PokéCoins, 
 • Collect up to 150 Gifts a day from PokéStops and Gyms
 • Hold up to 40 Gifts in your Item Bag at once
 
-Please note: You must have three or fewer Field Research tasks active to receive this bonus Field Research task the first time you log on each day. You must claim the 20 bonus PokéCoin reward after completing the task to receive it. You can learn more about bonus Field Research tasks <a href="https://niantic.helpshift.com/hc/faq/2479-why-does-my-field-research-task-have-a-bonus-tag/">here</a>.
+Please note: You must have three or fewer Field Research tasks active to receive this bonus Field Research task the first time you log on each day. You must claim the 20 bonus PokéCoin reward after completing the task to receive it. You can learn more about bonus Field Research tasks <a href="https://scopelyexplore.helpshift.com/hc/faq/1098-why-does-my-field-research-task-have-a-bonus-tag/">here</a>.
 
 RESOURCE ID: text_rewards_key_monthlyticketoct24
 TEXT: This ticket grants bonuses, Timed Research awarding 200 bonus PokéCoins, and daily bonus Field Research tasks that award bonus PokéCoins from October 3 to November 2, 2024.
@@ -125318,7 +125373,7 @@ TEXT: This ticket grants bonuses, Timed Research awarding 200 bonus PokéCoins, 
 • Collect up to 150 Gifts a day from PokéStops and Gyms
 • Hold up to 40 Gifts in your Item Bag at once
 
-Please note: You must have three or fewer Field Research tasks active to receive this bonus Field Research task the first time you log on each day. You must claim the 20 bonus PokéCoin reward after completing the task to receive it. You can learn more about bonus Field Research tasks <a href="https://niantic.helpshift.com/hc/faq/2479-why-does-my-field-research-task-have-a-bonus-tag/">here</a>.
+Please note: You must have three or fewer Field Research tasks active to receive this bonus Field Research task the first time you log on each day. You must claim the 20 bonus PokéCoin reward after completing the task to receive it. You can learn more about bonus Field Research tasks <a href="https://scopelyexplore.helpshift.com/hc/faq/1098-why-does-my-field-research-task-have-a-bonus-tag/">here</a>.
 
 RESOURCE ID: text_rewards_key_monthlyticketsept24
 TEXT: This ticket grants bonuses, Timed Research awarding 200 bonus PokéCoins, and daily bonus Field Research tasks that award bonus PokéCoins from September 3 to October 2, 2024.
@@ -125330,7 +125385,7 @@ TEXT: This ticket grants bonuses, Timed Research awarding 200 bonus PokéCoins, 
 • Collect up to 150 Gifts a day from PokéStops and Gyms
 • Hold up to 40 Gifts in your Item Bag at once
 
-Please note: You must have three or fewer Field Research tasks active to receive this bonus Field Research task the first time you log on each day. You must claim the 20 bonus PokéCoin reward after completing the task to receive it. You can learn more about bonus Field Research tasks <a href="https://niantic.helpshift.com/hc/faq/2479-why-does-my-field-research-task-have-a-bonus-tag/">here</a>.
+Please note: You must have three or fewer Field Research tasks active to receive this bonus Field Research task the first time you log on each day. You must claim the 20 bonus PokéCoin reward after completing the task to receive it. You can learn more about bonus Field Research tasks <a href="https://scopelyexplore.helpshift.com/hc/faq/1098-why-does-my-field-research-task-have-a-bonus-tag/">here</a>.
 
 RESOURCE ID: text_rewards_key_munchlax0825
 TEXT: <b>Included rewards:</b>
@@ -126086,7 +126141,7 @@ RESOURCE ID: three_free_raid_passes
 TEXT: Receive up to three Raid Passes at no cost by spinning Photo Discs at Gyms
 
 RESOURCE ID: three_strike_policy_url
-TEXT: https://support.pokemongo.nianticlabs.com/hc/en-us/articles/360001743487-Three-Strike-Discipline-Policy
+TEXT: https://scopelyexplore.helpshift.com/hc/faq/1305-gameplay-fairness-policy/
 
 RESOURCE ID: throwback_2020_celebration
 TEXT: Throwback Challenge 2020 Celebration
@@ -127788,6 +127843,9 @@ TEXT: UPCOMING EVENTS
 
 RESOURCE ID: today_view_upcoming_events_today_marker
 TEXT: TODAY
+
+RESOURCE ID: today_view_welcome_back_tab_label
+TEXT: Kanto Homecoming
 
 RESOURCE ID: toggle_item_equip
 TEXT: EQUIP
@@ -129588,6 +129646,42 @@ TEXT: Pokémon GO Mega Training! Timed Research (1/2)
 
 RESOURCE ID: tr_jp2025_aeon_mall_header_01
 TEXT: Pokémon GO Mega Training! Timed Research (2/2)
+
+RESOURCE ID: tr_kindling_2026_set_01_header
+TEXT: Kanto Homecoming Timed Research (1/12)
+
+RESOURCE ID: tr_kindling_2026_set_02_header
+TEXT: Kanto Homecoming Timed Research (2/12)
+
+RESOURCE ID: tr_kindling_2026_set_03_header
+TEXT: Kanto Homecoming Timed Research (3/12)
+
+RESOURCE ID: tr_kindling_2026_set_04_header
+TEXT: Kanto Homecoming Timed Research (4/12)
+
+RESOURCE ID: tr_kindling_2026_set_05_header
+TEXT: Kanto Homecoming Timed Research (5/12)
+
+RESOURCE ID: tr_kindling_2026_set_06_header
+TEXT: Kanto Homecoming Timed Research (6/12)
+
+RESOURCE ID: tr_kindling_2026_set_07_header
+TEXT: Kanto Homecoming Timed Research (7/12)
+
+RESOURCE ID: tr_kindling_2026_set_08_header
+TEXT: Kanto Homecoming Timed Research (8/12)
+
+RESOURCE ID: tr_kindling_2026_set_09_header
+TEXT: Kanto Homecoming Timed Research (9/12)
+
+RESOURCE ID: tr_kindling_2026_set_10_header
+TEXT: Kanto Homecoming Timed Research (10/12)
+
+RESOURCE ID: tr_kindling_2026_set_11_header
+TEXT: Kanto Homecoming Timed Research (11/12)
+
+RESOURCE ID: tr_kindling_2026_set_12_header
+TEXT: Kanto Homecoming Timed Research (12/12)
 
 RESOURCE ID: tr_kr2025_retention_cherryblossom_title
 TEXT: Cherry Blossom Challenge

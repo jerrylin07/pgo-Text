@@ -218,7 +218,7 @@ RESOURCE ID: abi_contact_signed_up_notification
 TEXT: Тренеры из твоего списка контактов начали свои приключения в Pokémon GO! Перейди в меню «Друзья», чтобы отправить им запрос в друзья.
 
 RESOURCE ID: abi_helpshift_url
-TEXT: https://niantic.helpshift.com/a/pokemon-go/?p=all&s=friends-gifting-trading&f=friend-list-friendship-levels-1614899618
+TEXT: https://scopelyexplore.helpshift.com/hc/faq/1137-adding-friends/
 
 RESOURCE ID: abi_new_player_onboarding_title
 TEXT: В Pokémon GO веселее играть с друзьями!
@@ -302,7 +302,7 @@ RESOURCE ID: accessibility_settings_title
 TEXT: Доступность
 
 RESOURCE ID: account_locked_article_url
-TEXT: https://niantic.helpshift.com/hc/faq/5242-my-account-has-been-locked-or-restricted/
+TEXT: https://scopelyexplore.helpshift.com/hc/faq/2554-my-account-has-been-locked-or-restricted-1783711163/
 
 RESOURCE ID: ace_box_title
 TEXT: Коробка топ-Тренера
@@ -875,7 +875,7 @@ RESOURCE ID: age_confirm_explain
 TEXT: Для входа с данным типом аккаунта необходимо, чтобы пользователь достиг определённого возраста. Пожалуйста, подтверди свою дату рождения.
 
 RESOURCE ID: age_confirm_fail
-TEXT: К сожалению, твой возраст не соответствует <a href="https://niantic.helpshift.com/hc/faq/4996-i-cannot-login-and-message-shows-sorry-you-do-not-meet-the-age-requirement-to-login-with-this-type-of-account/">требованиям</a>, необходимым для входа с данным типом аккаунта, и твой аккаунт будет удалён в соответствии с нашими Условиями предоставления услуг. Если ты считаешь, что данные соответствуют требованиям, свяжись с нами.
+TEXT: К сожалению, твой возраст не соответствует <a href="https://scopelyexplore.helpshift.com/hc/faq/1314-i-cannot-login-and-message-shows-sorry-you-do-not-meet-the-age-requirement-to-login-with-this-type-of-account/">требованиям</a>, необходимым для входа с данным типом аккаунта, и твой аккаунт будет удалён в соответствии с нашими Условиями предоставления услуг. Если ты считаешь, что данные соответствуют требованиям, свяжись с нами.
 
 RESOURCE ID: age_confirm_popup_confirm
 TEXT: Ты точно хочешь продолжить? Ты не сможешь изменить данные после ввода.
@@ -34670,7 +34670,7 @@ TEXT: Заработай дополнительные награды и полу
 RESOURCE ID: event_pass_gofest2025_upgrade_description
 TEXT: Приобрети Делюкс-Пропуск GO: Возвращение Древних, чтобы получить доступ к следующим наградам!
 
-• 1 <a href="https://niantic.helpshift.com/hc/faq/5103-what-is-hyper-training/">Золотая Крышка от Бутылки</a>, которая используется, чтобы начать курс Гипертренировки. Заверши его, чтобы увеличить все характеристики Покемона
+• 1 <a href="https://scopelyexplore.helpshift.com/hc/faq/1113-what-is-hyper-training/">Золотая Крышка от Бутылки</a>, которая используется, чтобы начать курс Гипертренировки. Заверши его, чтобы увеличить все характеристики Покемона
 • Предмет для аватара Маска Зэйшиан
 • Предмет для аватара Маска Земазента
 • Эксклюзивные бонусы за вынашивание и рейды
@@ -34729,7 +34729,7 @@ TEXT: Заработай дополнительные награды и полу
 RESOURCE ID: event_pass_gofest2026_upgrade_description
 TEXT: Приобрети Делюкс-Пропуск GO: Дорога Легенд, чтобы получить доступ к следующим наградам!
 
-• 1 <a href="https://niantic.helpshift.com/hc/faq/5103-what-is-hyper-training/">Золотая Крышка от Бутылки</a>, которая используется, чтобы начать курс Гипертренировки. Заверши его, чтобы увеличить все характеристики Покемона
+• 1 <a href="https://scopelyexplore.helpshift.com/hc/faq/1113-what-is-hyper-training/">Золотая Крышка от Бутылки</a>, которая используется, чтобы начать курс Гипертренировки. Заверши его, чтобы увеличить все характеристики Покемона
 • Поза Лидера Команды для твоего аватара
 • Встреча с Мьюту с гарантированным Особым Фоном
 • Эксклюзивные бонусы за вынашивание и рейды
@@ -41095,7 +41095,7 @@ RESOURCE ID: general2.ticket._gowa25_leadup_title
 TEXT: Билет: Премиум-Квест на Время Приготовься к Неизведанному
 
 RESOURCE ID: general2.ticket._gowa26_title
-TEXT: Pokémon GO Wild Area 2026 Global Ticket
+TEXT: Билет: Нетронутые Земли Pokémon GO 2026: По Всему Миру
 
 RESOURCE ID: general2.ticket._megagalladeraidday_title
 TEXT: Билет: рейдовый день: Мега-Галлейд
@@ -47469,8 +47469,17 @@ TEXT: Фестиваль Pokémon GO 2026: Чикаго
 RESOURCE ID: gofest2026_copenhagen
 TEXT: Фестиваль Pokémon GO 2026: Копенгаген
 
+RESOURCE ID: gofest2026_tag
+TEXT: GO Fest 2026: Mega Finale
+
 RESOURCE ID: gofest2026_tokyo
 TEXT: Фестиваль Pokémon GO 2026: Токио
+
+RESOURCE ID: gofest2026_battle_district
+TEXT: Battle District
+
+RESOURCE ID: gofest2026_circuit_plaza
+TEXT: Circuit Plaza
 
 RESOURCE ID: gofest2026_collection_district
 TEXT: Округ Коллекция
@@ -47496,6 +47505,9 @@ TEXT: Победа над Командой Ракета GO
 RESOURCE ID: gofest2026_details_link
 TEXT: Чтобы узнать больше, посети <a href="https://pokemongo.com/news/road-of-legends-2026">этот сайт</a>.
 
+RESOURCE ID: gofest2026_eerie_alley
+TEXT: Eerie Alley
+
 RESOURCE ID: gofest2026_finale_details_link
 TEXT: Чтобы узнать больше, посети <a href="https://Pokémongo.com/gofest/megafinale">сайт Фестиваля GO 2026: Мегафинал</a>.
 
@@ -47504,6 +47516,15 @@ TEXT: Округ Дружба
 
 RESOURCE ID: gofest2026_investigation_district
 TEXT: Округ Исследование
+
+RESOURCE ID: gofest2026_iron_frostworks
+TEXT: Iron Frostworks
+
+RESOURCE ID: gofest2026_mindworks_canal
+TEXT: Mindworks Canal
+
+RESOURCE ID: gofest2026_prism_promenade
+TEXT: Prism Promenade
 
 RESOURCE ID: gofest2026_recruitment_zone
 TEXT: Зона Чемпионы
@@ -47519,6 +47540,12 @@ TEXT: Бонус Секретной Базы Команды Ракета GO
 
 RESOURCE ID: gofest2026_scouting_district
 TEXT: Округ Поиск
+
+RESOURCE ID: gofest2026_skyline_roosts
+TEXT: Skyline Roosts
+
+RESOURCE ID: gofest2026_verdant_overgrowth
+TEXT: Verdant Overgrowth
 
 RESOURCE ID: gofest_arlo_challenge#1
 TEXT: We’ve taken over your celebration, and you still insist on challenging me? Get ready to face the harsh reality.
@@ -48022,7 +48049,7 @@ RESOURCE ID: gotour_2025_upgrade_description
 TEXT: Приобрети делюкс-пропуск GO Tour, чтобы получить доступ к следующим наградам!
 
 • Встреча с Виктини
-• 1 <a href="https://niantic.helpshift.com/hc/faq/4945-what-is-the-lucky-trinket/">Удачливая Капсула</a>, которая позволит тебе моментально стать Удачливыми Друзьями с любым твоим другом на выбор
+• 1 <a href="https://scopelyexplore.helpshift.com/hc/faq/1147-what-is-the-lucky-trinket/">Удачливая Капсула</a>, которая позволит тебе моментально стать Удачливыми Друзьями с любым твоим другом на выбор
 • Энергия объединения для Курема
 • Предмет для аватара Шлем Курем
 • И многим другим!
@@ -48042,7 +48069,7 @@ RESOURCE ID: gotour_2026_upgrade_description
 TEXT: Приобрети Делюкс-Пропуск GO: Дорога в Калос, чтобы получить доступ к следующим наградам!
 
 • Встреча со Свободным Хуппой
-• 1 <a href="https://niantic.helpshift.com/hc/faq/4945-what-is-the-lucky-trinket/">Удачливая Капсула</a>, которая позволит тебе моментально стать Удачливыми Друзьями с любым твоим другом на выбор
+• 1 <a href="https://scopelyexplore.helpshift.com/hc/faq/1147-what-is-the-lucky-trinket/">Удачливая Капсула</a>, которая позволит тебе моментально стать Удачливыми Друзьями с любым твоим другом на выбор
 • Клетки Зайгарда
 • Предмет для аватара Куртка Зайгард
 • И многим другим!
@@ -51242,16 +51269,16 @@ RESOURCE ID: heal_multiple_button
 TEXT: Излечить ({0})
 
 RESOURCE ID: help_center_link
-TEXT: https://niantic.helpshift.com/a/pokemon-go/
+TEXT: https://scopelyexplore.helpshift.com/hc/app/5-pokemon-go/
 
 RESOURCE ID: help_center_friends_link
-TEXT: https://niantic.helpshift.com/a/pokemon-go/?p=all&s=friends-gifting-trading&f=friend-list-friendship-levels-1614900279
+TEXT: https://scopelyexplore.helpshift.com/hc/faq/1138-friend-list-friendship-levels/
 
 RESOURCE ID: help_center_raid_log_link
 TEXT: https://niantic.helpshift.com/a/pokemon-go/?p=all&s=top-articles&f=sharing-raid-logs
 
 RESOURCE ID: helpshift_sharing_game_logs
-TEXT: https://niantic.helpshift.com/hc/ru/6-pokemon-go/faq/3325-sharing-game-logs/
+TEXT: https://scopelyexplore.helpshift.com/hc/faq/849-sharing-game-logs/
 
 RESOURCE ID: hemisphere_holiday_tr_name
 TEXT: Праздники: Часть 1: Премиум-квест на время Побережье
@@ -51455,7 +51482,7 @@ RESOURCE ID: home_pokemon_confirmation
 TEXT: Are you sure you want to send {0} Pokémon?
 
 RESOURCE ID: home_privacy_warning
-TEXT: Когда ты подключаешь <i>Pokémon GO</i> к <i>Pokémon HOME</i>, определённые ограниченные данные будут передаваться Покемон Кампани во время отправки Покемонов. Более подробную информацию ты можешь получить <a href="https://niantic.helpshift.com/a/pokemon-go/?s=accessories-and-services&f=sending-pokemon-to-pokemon-home">здесь</a>. Передаваемые Покемон Кампани данные регулируются политикой конфиденциальности компании.
+TEXT: Когда ты подключаешь Pokémon GO к Pokémon HOME, определённые ограниченные данные будут передаваться The Pokémon Company во время отправки Покемонов. Более подробную информацию ты можешь получить <a href="https://scopelyexplore.helpshift.com/hc/faq/1339-sending-pokemon-to-pokemon-home/">здесь</a>. Передаваемые The Pokémon Company данные регулируются политикой конфиденциальности компании.
 
 RESOURCE ID: home_recharge_time_day_hour
 TEXT: {0} Day, {1} Hour until Charged
@@ -54862,7 +54889,7 @@ RESOURCE ID: item_global_event_ticket_desc_gowa25
 TEXT: Билет, дающий доступ к Специальному Квесту Нетронутые Земли Pokémon GO 2025: По Всему Миру 15 и 16 ноября 2025 по местному времени, вне зависимости от твоего местонахождения.
 
 RESOURCE ID: item_global_event_ticket_desc_gowa26
-TEXT: A ticket to access the Pokémon GO Wild Area 2026: Global Special Research on November 14 and November 15, 2026, wherever you are.
+TEXT: Билет, дающий доступ к Специальному Квесту Нетронутые Земли Pokémon GO 2026: По Всему Миру 14 и 15 ноября 2026, вне зависимости от твоего местонахождения.
 
 RESOURCE ID: item_global_event_ticket_desc_hisuiandecidueye
 TEXT: Билет, дающий доступ к специальным бонусам 11 февраля 2024 с 14:00 до 22:00 по местному времени, вне зависимости от твоего местонахождения.
@@ -54921,9 +54948,9 @@ TEXT: Этот билет активируется автоматически, �
 Чтобы получить все бонусы события, необходимо играть в указанное время.
 
 RESOURCE ID: item_global_event_ticket_details_gowa26
-TEXT: This ticket will automatically activate to give you access to the Pokémon GO Wild Area 2026: Global Special Research on November 14 and 15, wherever you are. Details can be found in the in-game News.
+TEXT: Этот билет активируется автоматически, чтобы дать тебе доступ к Специальному Квесту Нетронутые Земли Pokémon GO 2026: По Всему Миру 14 и 15 ноября, вне зависимости от твоего местонахождения. Подробности можно найти во внутриигровых Новостях.
 
-You must play during the specified time to receive all the event bonuses.
+Чтобы получить все бонусы события, необходимо играть в указанное время.
 
 RESOURCE ID: item_global_event_ticket_details_hisuiandecidueye
 TEXT: Этот билет активируется автоматически, чтобы дать тебе доступ к специальным бонусам 11 февраля, вне зависимости от твоего местонахождения.
@@ -55862,10 +55889,10 @@ RESOURCE ID: jp_2026_ana_title
 TEXT: Небесное Приключение
 
 RESOURCE ID: jp_iap_link1
-TEXT: https://niantic.helpshift.com/hc/ja/6-pokemon-go/faq/2046-%E8%B3%87%E9%87%91%E6%B1%BA%E6%B8%88%E6%B3%95%E3%81%AB%E5%9F%BA%E3%81%A4%E3%81%8F%E8%A1%A8%E7%A4%BA/?s=others&f=%E8%B3%87%E9%87%91%E6%B1%BA%E6%B8%88%E6%B3%95%E3%81%AB%E5%9F%BA%E3%81%A4%E3%81%8F%E8%A1%A8%E7%A4%BA&l=ja&p=web
+TEXT: https://scopelyexplore.helpshift.com/hc/ja/5-pokemon-go/faq/1492-%E8%B3%87%E9%87%91%E6%B1%BA%E6%B8%88%E6%B3%95%E3%81%AB%E5%9F%BA%E3%81%A4%E3%81%8F%E8%A1%A8%E7%A4%BA/
 
 RESOURCE ID: jp_iap_link2
-TEXT: https://niantic.helpshift.com/hc/ja/6-pokemon-go/faq/150-%E7%89%B9%E5%AE%9A%E5%95%86%E5%8F%96%E5%BC%95%E6%B3%95%E3%81%AB%E5%9F%BA%E3%81%A4%E3%81%8F%E8%A1%A8%E7%A4%BA/?s=others&f=%E8%B3%87%E9%87%91%E6%B1%BA%E6%B8%88%E6%B3%95%E3%81%AB%E5%9F%BA%E3%81%A4%E3%81%8F%E8%A1%A8%E7%A4%BA&l=ja&p=web
+TEXT: https://scopelyexplore.helpshift.com/hc/ja/5-pokemon-go/faq/1490-%E7%89%B9%E5%AE%9A%E5%95%86%E5%8F%96%E5%BC%95%E6%B3%95%E3%81%AB%E5%9F%BA%E3%81%A4%E3%81%8F%E8%A1%A8%E7%A4%BA/
 
 RESOURCE ID: jp_iap_linkname1
 TEXT: Link 1
@@ -56169,6 +56196,12 @@ TEXT: Пробел
 
 RESOURCE ID: keyboard_symbols
 TEXT: Символы
+
+RESOURCE ID: kindling_2026_mini_collection
+TEXT: Kanto Homecoming: Road to Mewtwo
+
+RESOURCE ID: kindling_2026_mini_collection_desc
+TEXT: Catch the Pokémon from the Kanto Homecoming Timed Research to encounter Mewtwo!
 
 RESOURCE ID: kingler_gmax_tr_2025_title
 TEXT: Премиум-квест на время Гигантамакс-Кинглер
@@ -61713,10 +61746,10 @@ at SHA bacc02371739993984570a6f5b31a993cf3b031b
 Pipeline 498004, job 4265729
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-08-18T00:48:15.368257+00:00 for ru-RU
-at SHA 4c5aa5ac97f
-Pipeline 3880013, job 57040572
-Patch from: 0.423.1-SHA-70644676-RC1, 0.425.0-SHA-73e817e6-RC3, 0.427.0-SHA-bafb3348-RC1
+TEXT: Built at 2026-08-21T22:45:32.872454+00:00 for ru-RU
+at SHA 222138e7072
+Pipeline 3890765, job 57214802
+Patch from: 0.425.0-SHA-e7185dda-RC1, 0.423.1-SHA-70644676-RC1, 0.427.0-SHA-fc729f25-RC2
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: ‎Квест на время: Боевой тип
@@ -70033,7 +70066,7 @@ RESOURCE ID: poi_sub_failed_error
 TEXT: Отправка заявки не удалась. Пожалуйста, попробуй ещё раз.
 
 RESOURCE ID: poi_sub_faq_web_link
-TEXT: https://niantic.helpshift.com/a/wayfarer/?s=wayspot-criteria
+TEXT: https://scopelyexplore.helpshift.com/hc/section/158-wayspot-criteria/
 
 RESOURCE ID: poi_sub_gallery_permission_desc
 TEXT: Если ты хочешь использовать изображения в заявке на добавление Покестопа, необходимо предоставить соответствующие разрешения в меню настроек устройства.
@@ -70141,7 +70174,7 @@ RESOURCE ID: poi_sub_submit_button
 TEXT: ОТПРАВИТЬ
 
 RESOURCE ID: poi_sub_suggestion_web_link
-TEXT: https://niantic.helpshift.com/a/wayfarer/?p=web&s=wayspot-eligibility
+TEXT: https://scopelyexplore.helpshift.com/hc/faq/1980-eligibility-criteria/
 
 RESOURCE ID: poi_sub_surrounding_img_desc
 TEXT: Это фото поможет оценить окрестности.
@@ -84211,6 +84244,9 @@ TEXT: Поймай 1 Покемона, впервые обнаруженного
 RESOURCE ID: quest_catch_kanto_pokemon
 TEXT: Поймай Покемонов, впервые обнаруженных в регионе Канто ×{0}
 
+RESOURCE ID: quest_catch_kanto_pokemon_days
+TEXT: Catch Pokémon originally discovered in the Kanto region on {0} different days
+
 RESOURCE ID: quest_catch_kanto_starters_plural
 TEXT: Поймай Бульбазавра, Чармандера или Сквиртла ×{0}
 
@@ -85275,7 +85311,7 @@ RESOURCE ID: quest_defeat_mega_malamar_singular
 TEXT: Победи Мега-Маламара
 
 RESOURCE ID: quest_defeat_mega_raichu_singular
-TEXT: Победи Мега-Райчу
+TEXT: Победи Мега-Райчу X или Мега-Райчу Y
 
 RESOURCE ID: quest_defeat_mega_skarmory_singular
 TEXT: Победи Мега-Скармори
@@ -111281,7 +111317,7 @@ RESOURCE ID: replay_water_research_day_event_name
 TEXT: Возвращение: День Исследований – Вода
 
 RESOURCE ID: report_issues_link
-TEXT: https://niantic.helpshift.com/a/pokemon-go/
+TEXT: https://scopelyexplore.helpshift.com/hc/app/5-pokemon-go/
 
 RESOURCE ID: report_route_subtitle
 TEXT: Выбери до 5 причин из списка ниже.
@@ -111918,7 +111954,7 @@ RESOURCE ID: route_add_point
 TEXT: Set as a stop
 
 RESOURCE ID: route_appeal_info_link
-TEXT: https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/135-submitting-a-ban-appeal/
+TEXT: https://scopelyexplore.helpshift.com/hc/faq/1291-submitting-a-ban-appeal/
 
 RESOURCE ID: route_appealed_deletion_confirm_description
 TEXT: Это действие нельзя отменить. Если ты продолжишь, маршрут будет безвозвратно потерян, и его нельзя будет восстановить, а апелляция не будет рассмотрена.
@@ -112675,7 +112711,7 @@ RESOURCE ID: route_gift_exchange_onboarding_body_2
 TEXT: Матео добавит твой ник Тренера к выбранному тобой подарку и отправит его дальше, а ты взамен получишь подарок от другого Тренера. Из этих подарков ты можешь получить предметы и яйца, а также встречу со Скаттербагом при добавлении полученных открыток в альбом!
 
 RESOURCE ID: route_guidelines_link
-TEXT: https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/4378-routes-guidelines/
+TEXT: https://scopelyexplore.helpshift.com/hc/faq/1219-routes-guidelines/
 
 RESOURCE ID: route_header_travel_time_label
 TEXT: ({0} min)
@@ -112696,7 +112732,7 @@ RESOURCE ID: route_last_trip_label
 TEXT: Последняя прогулка
 
 RESOURCE ID: route_learn_more_url
-TEXT: https://niantic.helpshift.com/hc/ru/6-pokemon-go/faq/4184-routes-faq/
+TEXT: https://scopelyexplore.helpshift.com/hc/faq/1220-routes-faq/
 
 RESOURCE ID: route_list_context_title
 TEXT: List of PokéStops or Gyms
@@ -114129,7 +114165,7 @@ RESOURCE ID: rsvp_attendance_tutorial_link_text_key
 TEXT: Узнать больше о том, где твой ник Тренера отображается в игре, можно здесь.
 
 RESOURCE ID: rsvp_attendance_tutorial_link_url_key
-TEXT: https://niantic.helpshift.com/hc/{0}/6-pokemon-go/faq/4286-controlling-your-experience-on-pokemon-go/
+TEXT: https://scopelyexplore.helpshift.com/hc/faq/1312-controlling-your-experience-in-pokemon-go/
 
 RESOURCE ID: rsvp_attendance_tutorial_message_key
 TEXT: Другие Тренеры смогут видеть битвы, в которых ты планируешь участвовать. Ты можешь изменить это в настройках в любое время.
@@ -115435,7 +115471,7 @@ RESOURCE ID: search_favorite_added
 TEXT: Поисковый запрос добавлен в Избранное
 
 RESOURCE ID: search_filter_help_url
-TEXT: https://niantic.helpshift.com/hc/faq/1486-searching-filtering-your-pokemon-inventory/
+TEXT: https://scopelyexplore.helpshift.com/hc/faq/1126-searching-filtering-your-pokemon-inventory/
 
 RESOURCE ID: search_keywords_button
 TEXT: ВСЕ КЛЮЧЕВЫЕ СЛОВА
@@ -116009,13 +116045,13 @@ RESOURCE ID: season_pass_april2025_upgrade_description
 TEXT: Приобрети Делюкс-Пропуск GO: Апрель, чтобы получить доступ к следующим наградам!
 
 • Дополнительная встреча с Зирнисом
-• 1 <a href="https://niantic.helpshift.com/hc/ru/6-pokemon-go/faq/4945-what-is-the-lucky-trinket/">Удачливая Капсула</a>, которая позволит тебе моментально стать Удачливыми Друзьями с любым твоим другом на выбор
+• 1 <a href="https://scopelyexplore.helpshift.com/hc/faq/1147-what-is-the-lucky-trinket/">Удачливая Капсула</a>, которая позволит тебе моментально стать Удачливыми Друзьями с любым твоим другом на выбор
 • И многим другим!
 
 RESOURCE ID: season_pass_april2025_upgrade_description_no_additional_legendary
 TEXT: Приобрети Делюкс-Пропуск GO: Апрель, чтобы получить доступ к следующим наградам!
 
-• 1 <a href="https://niantic.helpshift.com/hc/ru/6-pokemon-go/faq/4945-what-is-the-lucky-trinket/">Удачливая Капсула</a>, которая позволит тебе моментально стать Удачливыми Друзьями с любым твоим другом на выбор
+• 1 <a href="https://scopelyexplore.helpshift.com/hc/faq/1147-what-is-the-lucky-trinket/">Удачливая Капсула</a>, которая позволит тебе моментально стать Удачливыми Друзьями с любым твоим другом на выбор
 • И многим другим!
 
 RESOURCE ID: season_pass_april2026_event_duration
@@ -116028,7 +116064,7 @@ RESOURCE ID: season_pass_april2026_upgrade_description
 TEXT: Приобрети Делюкс-Пропуск GO: Апрель, чтобы получить доступ к следующим наградам!
 
 • 1 Суперинкубатор
-• 1 <a href="https://niantic.helpshift.com/hc/faq/4945-what-is-the-lucky-trinket/">Удачливая Капсула</a>, которая позволит тебе моментально стать Удачливыми Друзьями с любым твоим другом на выбор
+• 1 <a href="https://scopelyexplore.helpshift.com/hc/faq/1147-what-is-the-lucky-trinket/">Удачливая Капсула</a>, которая позволит тебе моментально стать Удачливыми Друзьями с любым твоим другом на выбор
 • И многим другим!
 
 RESOURCE ID: season_pass_aug2025_event_duration
@@ -116038,7 +116074,7 @@ RESOURCE ID: season_pass_aug2025_upgrade_description
 TEXT: Приобрети Делюкс-Пропуск GO: Август, чтобы получить доступ к следующим наградам!
 
 • 1 Суперинкубатор
-• 1 <a href="https://niantic.helpshift.com/hc/ru/6-pokemon-go/faq/4945-what-is-the-lucky-trinket/">Удачливая Капсула</a>, которая позволит тебе моментально стать Удачливыми Друзьями с любым твоим другом на выбор
+• 1 <a href="https://scopelyexplore.helpshift.com/hc/faq/1147-what-is-the-lucky-trinket/">Удачливая Капсула</a>, которая позволит тебе моментально стать Удачливыми Друзьями с любым твоим другом на выбор
 • И многим другим!
 
 RESOURCE ID: season_pass_august2026_event_duration
@@ -116051,7 +116087,7 @@ RESOURCE ID: season_pass_august2026_upgrade_description
 TEXT: Приобрети Делюкс-Пропуск GO: Август, чтобы получить доступ к следующим наградам!
 
 • Одноразовый Инкубатор за первую прокрутку Покестопа каждый день
-• 1 <a href="https://niantic.helpshift.com/hc/faq/4945-what-is-the-lucky-trinket/">Удачливая Капсула</a>, которая позволит тебе моментально стать Удачливыми Друзьями с любым твоим другом на выбор
+• 1 <a href="https://scopelyexplore.helpshift.com/hc/faq/1147-what-is-the-lucky-trinket/">Удачливая Капсула</a>, которая позволит тебе моментально стать Удачливыми Друзьями с любым твоим другом на выбор
 • И многим другим!
 
 RESOURCE ID: season_pass_base_track_title_april
@@ -116193,7 +116229,7 @@ RESOURCE ID: season_pass_december2025_upgrade_description
 TEXT: Приобрети Делюкс-Пропуск GO: Декабрь, чтобы получить доступ к следующим наградам!
 
 • 1 Суперинкубатор
-• 1 <a href="https://niantic.helpshift.com/hc/ru/6-pokemon-go/faq/2358-incubators-hatching-pokemon-eggs/">Временный Инкубатор</a> – это дополнительный бесконечный Инкубатор с ограниченным сроком действия для вынашивания Яиц во время исследований!
+• 1 <a href="https://scopelyexplore.helpshift.com/hc/faq/1118-incubators-hatching-pokemon-eggs/">Временный Инкубатор</a> – это дополнительный бесконечный Инкубатор с ограниченным сроком действия для вынашивания Яиц во время исследований!
 • И многим другим!
 
 RESOURCE ID: season_pass_details_link
@@ -116345,7 +116381,7 @@ RESOURCE ID: season_pass_january2026_upgrade_description
 TEXT: Приобрети Делюкс-Пропуск GO: Январь, чтобы получить доступ к следующим наградам!
 
 • 1 Суперинкубатор
-• 1 <a href="https://niantic.helpshift.com/hc/faq/4945-what-is-the-lucky-trinket/">Удачливая Капсула</a>, которая позволит тебе моментально стать Удачливыми Друзьями с любым твоим другом на выбор
+• 1 <a href="https://scopelyexplore.helpshift.com/hc/faq/1147-what-is-the-lucky-trinket/">Удачливая Капсула</a>, которая позволит тебе моментально стать Удачливыми Друзьями с любым твоим другом на выбор
 • И многим другим!
 
 RESOURCE ID: season_pass_july2025_event_duration
@@ -116355,7 +116391,7 @@ RESOURCE ID: season_pass_july2025_upgrade_description
 TEXT: Приобрети Делюкс-Пропуск GO: Июль, чтобы получить доступ к следующим наградам!
 
 • 1 Суперинкубатор
-• 1 <a href="https://niantic.helpshift.com/hc/ru/6-pokemon-go/faq/4945-what-is-the-lucky-trinket/">Удачливая Капсула</a>, которая позволит тебе моментально стать Удачливыми Друзьями с любым твоим другом на выбор
+• 1 <a href="https://scopelyexplore.helpshift.com/hc/faq/1147-what-is-the-lucky-trinket/">Удачливая Капсула</a>, которая позволит тебе моментально стать Удачливыми Друзьями с любым твоим другом на выбор
 • И многим другим!
 
 RESOURCE ID: season_pass_july2026_event_duration
@@ -116378,7 +116414,7 @@ RESOURCE ID: season_pass_june2025_upgrade_description
 TEXT: Приобрети Делюкс-Пропуск GO: Июнь, чтобы получить доступ к следующим наградам!
 
 • 1 Суперинкубатор
-• 1 <a href="https://niantic.helpshift.com/hc/faq/4945-what-is-the-lucky-trinket/">Удачливая Капсула</a>, которая позволит тебе моментально стать Удачливыми Друзьями с любым твоим другом на выбор
+• 1 <a href="https://scopelyexplore.helpshift.com/hc/faq/1147-what-is-the-lucky-trinket/">Удачливая Капсула</a>, которая позволит тебе моментально стать Удачливыми Друзьями с любым твоим другом на выбор
 • И многим другим!
 
 RESOURCE ID: season_pass_june2026_event_duration
@@ -116391,7 +116427,7 @@ RESOURCE ID: season_pass_june2026_upgrade_description
 TEXT: Приобрети Делюкс-Пропуск GO: Июнь, чтобы получить доступ к следующим наградам!
 
 • 1 Суперинкубатор
-• 1 <a href="https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2358-incubators-hatching-pokemon-eggs/">Временный Инкубатор</a>, дополнительный бесконечный Инкубатор с ограниченным сроком действия для вынашивания Яиц во время исследований!
+• 1 <a href="https://scopelyexplore.helpshift.com/hc/faq/1118-incubators-hatching-pokemon-eggs/">Временный Инкубатор</a>, дополнительный бесконечный Инкубатор с ограниченным сроком действия для вынашивания Яиц во время исследований!
 • И многим другим!
 
 RESOURCE ID: season_pass_march2026_event_duration
@@ -116404,7 +116440,7 @@ RESOURCE ID: season_pass_march2026_upgrade_description
 TEXT: Приобрети Делюкс-Пропуск GO: Март, чтобы получить доступ к следующим наградам!
 
 • 1 Суперинкубатор
-• 1 <a href="https://niantic.helpshift.com/hc/ru/6-pokemon-go/faq/2358-incubators-hatching-pokemon-eggs/">Временный Инкубатор</a> – это дополнительный бесконечный Инкубатор с ограниченным сроком действия для вынашивания Яиц во время исследований!
+• 1 <a href="https://scopelyexplore.helpshift.com/hc/faq/1118-incubators-hatching-pokemon-eggs/">Временный Инкубатор</a> – это дополнительный бесконечный Инкубатор с ограниченным сроком действия для вынашивания Яиц во время исследований!
 • И многим другим!
 
 RESOURCE ID: season_pass_may2025_event_duration
@@ -116417,13 +116453,13 @@ RESOURCE ID: season_pass_may2025_upgrade_description
 TEXT: Приобрети Делюкс-Пропуск GO: Май, чтобы получить доступ к следующим наградам!
 
 • Дополнительная встреча с Ивелталом
-• 1 <a href="https://niantic.helpshift.com/hc/ru/6-pokemon-go/faq/4945-what-is-the-lucky-trinket/">Удачливая Капсула</a>, которая позволит тебе моментально стать Удачливыми Друзьями с любым твоим другом на выбор
+• 1 <a href="https://scopelyexplore.helpshift.com/hc/faq/1147-what-is-the-lucky-trinket/">Удачливая Капсула</a>, которая позволит тебе моментально стать Удачливыми Друзьями с любым твоим другом на выбор
 • И многим другим!
 
 RESOURCE ID: season_pass_may2025_upgrade_description_no_additional_legendary
 TEXT: Приобрети Делюкс-Пропуск GO: Май, чтобы получить доступ к следующим наградам!
 
-• 1 <a href="https://niantic.helpshift.com/hc/ru/6-pokemon-go/faq/4945-what-is-the-lucky-trinket/">Удачливая Капсула</a>, которая позволит тебе моментально стать Удачливыми Друзьями с любым твоим другом на выбор
+• 1 <a href="https://scopelyexplore.helpshift.com/hc/faq/1147-what-is-the-lucky-trinket/">Удачливая Капсула</a>, которая позволит тебе моментально стать Удачливыми Друзьями с любым твоим другом на выбор
 • И многим другим!
 
 RESOURCE ID: season_pass_may2026_event_duration
@@ -116458,7 +116494,7 @@ RESOURCE ID: season_pass_november2025_upgrade_description
 TEXT: Приобрети Делюкс-Пропуск GO: Ноябрь, чтобы получить доступ к следующим наградам!
 
 • 1 Суперинкубатор
-• 1 <a href="https://niantic.helpshift.com/hc/faq/4945-what-is-the-lucky-trinket/">Удачливая Капсула</a>, которая позволит тебе моментально стать Удачливыми Друзьями с любым твоим другом на выбор
+• 1 <a href="https://scopelyexplore.helpshift.com/hc/faq/1147-what-is-the-lucky-trinket/">Удачливая Капсула</a>, которая позволит тебе моментально стать Удачливыми Друзьями с любым твоим другом на выбор
 • И многим другим!
 
 RESOURCE ID: season_pass_october2025_event_duration
@@ -116683,7 +116719,7 @@ RESOURCE ID: season_pass_september2025_upgrade_description
 TEXT: Приобрети Делюкс-Пропуск GO: Сентябрь, чтобы получить доступ к следующим наградам!
 
 • 1 Суперинкубатор
-• 1 <a href="https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2358-incubators-hatching-pokemon-eggs/">Временный Инкубатор</a>, дополнительный бесконечный Инкубатор с ограниченным сроком действия для вынашивания Яиц во время исследований!
+• 1 <a href="https://scopelyexplore.helpshift.com/hc/faq/1118-incubators-hatching-pokemon-eggs/">Временный Инкубатор</a>, дополнительный бесконечный Инкубатор с ограниченным сроком действия для вынашивания Яиц во время исследований!
 • И многим другим!
 
 RESOURCE ID: season_pass_shockingly_good_2026_event_duration
@@ -116772,7 +116808,20 @@ TEXT: 25 августа – 30 августа
 RESOURCE ID: season_pass_wcs_2026_track_upgrade_header_description
 TEXT: Заработай дополнительные награды и получи доступ к <b>Запдосу</b> в Ранге 30!
 
+RESOURCE ID: season_pass_wcs_2026_track_upgrade_header_description_backpack
+TEXT: Заработай дополнительные награды и получи доступ к <b>Рюкзаку ЧМ 2026/PokémonXP</b> в Ранге 15!
+
 RESOURCE ID: season_pass_wcs_2026_upgrade_description
+TEXT: Приобрети Делюкс-Пропуск GO: PokémonXP и ЧМ 2026, чтобы получить доступ к следующим наградам!
+
+• Рюкзак ЧМ 2026/PokémonXP
+• Встреча с Пикачу в скафандре в стиле Космога
+• Встреча с Пикачу Чемпионат Мира 2026
+• Встречи с тематическими Ивент-Покемонами
+• Редкие Конфеты XL
+• И многим другим!
+
+RESOURCE ID: season_pass_wcs_2026_upgrade_description_out
 TEXT: Приобрети Делюкс-Пропуск GO: PokémonXP и ЧМ 2026, чтобы получить доступ к следующим наградам!
 
 • Встреча с Пикачу в скафандре в стиле Космога
@@ -117632,7 +117681,7 @@ RESOURCE ID: settings_wearables_device_status_unpaired
 TEXT: Not Paired
 
 RESOURCE ID: settings_wearables_device_troubleshooting_url
-TEXT: <url with language query param in it>
+TEXT: https://scopelyexplore.helpshift.com/hc/faq/1337-pairing-and-connecting-pokemon-go-to-official-devices/
 
 RESOURCE ID: settings_wearables_empty_device_list
 TEXT: No Devices Found
@@ -117871,6 +117920,9 @@ TEXT: Твой друг {0} пригласил тебя на EX-Рейд в Ги
 RESOURCE ID: shelmetkarrablast_post_cd_timed_research_name
 TEXT: Квест на время День сообщества Шелмет и Каррабласт – Продолжение
 
+RESOURCE ID: shield_break_adventure_effect_battle_log
+TEXT: YOUR ATTACKS ARE BOOSTED BY DYNAMIC PUNCH+’S ADVENTURE EFFECT!
+
 RESOURCE ID: shinjuku_cross_title
 TEXT: クロス新宿ビジョン
 
@@ -118082,7 +118134,7 @@ RESOURCE ID: shop_daily_bonus_header
 TEXT: Особый подарок от профессора!
 
 RESOURCE ID: shop_discount_disclaimer_helpshift_url
-TEXT: https://niantic.helpshift.com/hc/faq/4707-notice-regarding-discount-rates-displayed-in-the-shop/
+TEXT: https://scopelyexplore.helpshift.com/hc/faq/1267-notice-regarding-discount-rates-displayed-in-the-shop/
 
 RESOURCE ID: shop_discount_disclaimer_modal_title
 TEXT: Скидки, ограниченные по времени
@@ -118115,12 +118167,12 @@ TEXT: {0}: улучшение произведено!
 RESOURCE ID: shop_fully_upgraded_purchasable
 TEXT: {0}: улучшение произведено! Получай больше места для хранения, повышая свой уровень!
 
-<a href="https://niantic.helpshift.com/hc/ru/6-pokemon-go/faq/3049-available-items-your-bag/">Узнай больше о повышении уровня здесь.</a>
+<a href="https://scopelyexplore.helpshift.com/hc/faq/1432-available-items-your-bag/">Узнай больше о повышении уровня здесь.</a>
 
 RESOURCE ID: shop_fully_upgraded_purchasable_plural
 TEXT: {0}: улучшение произведено! Получай больше места для хранения, повышая свой уровень!
 
-<a href="https://niantic.helpshift.com/hc/ru/6-pokemon-go/faq/3049-available-items-your-bag/">Узнай больше о повышении уровня здесь.</a>
+<a href="https://scopelyexplore.helpshift.com/hc/faq/1432-available-items-your-bag/">Узнай больше о повышении уровня здесь.</a>
 
 RESOURCE ID: shop_gift_friend_ineligible_title
 TEXT: Не удалось отправить подарок
@@ -119187,6 +119239,9 @@ TEXT: Нет Поке-Боллов
 
 RESOURCE ID: soft_sfida_title_pokemon_full
 TEXT: Хранилище Покемонов заполнено.
+
+RESOURCE ID: soft_sfida_tutorial_url
+TEXT: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1250-what-is-the-explorer-gadget/
 
 RESOURCE ID: soft_sfida_warn_items_full
 TEXT: Рюкзак для Предметов заполнен.
@@ -124711,7 +124766,7 @@ TEXT: Билет, дающий доступ к ежедневным допол�
 
 Если ты купишь этот билет, с 16 мая до 30 мая при первом входе в игру ты сможешь ежедневно получать по одному дополнительному полевому квесту.
 
-Примечание: Чтобы получить эти дополнительные задания полевых квестов, на момент первого входа в игру за день у тебя должно быть не больше 3 заданий полевых квестов. Также, чтобы получить в награду 20 Покемонет, тебе нужно забрать их после выполнения задания. Узнать больше о дополнительных заданиях полевого квеста можно <a href="https://niantic.helpshift.com/hc/ru/faq/2479-why-does-my-field-research-task-have-a-bonus-tag/">здесь</a>.
+Примечание: Чтобы получить эти дополнительные задания полевых квестов, на момент первого входа в игру за день у тебя должно быть не больше 3 заданий полевых квестов. Также, чтобы получить в награду 20 Покемонет, тебе нужно забрать их после выполнения задания. Узнать больше о дополнительных заданиях полевого квеста можно <a href="https://scopelyexplore.helpshift.com/hc/faq/1098-why-does-my-field-research-task-have-a-bonus-tag/">здесь</a>.
 
 RESOURCE ID: text_rewards_key_conciergecb0925
 TEXT: <b>Включает следующие награды:</b>
@@ -125084,14 +125139,14 @@ TEXT: <b>Включает следующие награды:</b>
 <a href="https://pokemongo.com/gowildarea/global">Узнать больше о бонусах этого билета можно здесь.</a>
 
 RESOURCE ID: text_rewards_key_gowa26
-TEXT: <b>Includes:</b>
-• Up to 6 free Raid Passes each day from spinning Gym Photo Discs
-• Increased chance of receiving event 10 km Eggs from PokéStops
-• Up to 6 Special Trades per day and reduced Stardust cost for trades
-• 1/2 Hatch Distance when Eggs are placed in an Incubator during the event
-• 2× Candy for catching Pokémon
-• A higher chance to encounter Shiny Pokémon during the event
-Learn more about the ticket bonuses <a href="pokemongo.com/gowildarea/global">here</a>.
+TEXT: <b>Включает:</b>
+• До 6 бесплатных Пропусков на Рейды каждый день за прокрутку Фотодисков Гимов
+• Больше шансов получить тематические Яйца на 10 км за прокрутку Покестопов
+• До 6 Специальных Обменов в день и уменьшенная цена Звёздной Пыли для обмена
+• 1/2 Расстояния для Вынашивания, если Яйца помещены в Инкубатор во время события
+• 2× Конфет за поимку Покемонов
+• Больше шансов встретить Сияющих Покемонов во время этого события
+Узнать больше о бонусах этого билета можно <a href="pokemongo.com/gowildarea/global">здесь</a>.
 
 RESOURCE ID: text_rewards_key_growingup0525
 TEXT: <b>Включает следующие награды:</b>
@@ -125407,7 +125462,7 @@ TEXT: Этот билет даёт бонусы, квест на время с�
 • Получай до 150 подарков в день за прокрутку Покестопов и Гимов
 • В твоём рюкзаке для предметов помещается до 40 подарков одновременно
 
-Примечание: Чтобы получить эти дополнительные задания полевых квестов, на момент первого входа в игру за день у тебя должно быть не больше 3 заданий полевых квестов. Также, чтобы получить в награду 20 Покемонет, тебе нужно забрать их после выполнения задания. Узнать больше о дополнительных заданиях полевого квеста можно <a href="https://niantic.helpshift.com/hc/ru/6-pokemon-go/faq/2479-why-does-my-field-research-task-have-a-bonus-tag/">здесь</a>.
+Примечание: Чтобы получить эти дополнительные задания полевых квестов, на момент первого входа в игру за день у тебя должно быть не больше 3 заданий полевых квестов. Также, чтобы получить в награду 20 Покемонет, тебе нужно забрать их после выполнения задания. Узнать больше о дополнительных заданиях полевого квеста можно <a href="https://scopelyexplore.helpshift.com/hc/faq/1098-why-does-my-field-research-task-have-a-bonus-tag/">здесь</a>.
 
 RESOURCE ID: text_rewards_key_monthlyticketoct24
 TEXT: Этот билет даёт бонусы, квест на время с наградой в виде 200 бонусных Покемонет и ежедневные дополнительные полевые квесты с наградами в виде бонусных Покемонет с 3 октября по 2 ноября 2024.
@@ -125419,7 +125474,7 @@ TEXT: Этот билет даёт бонусы, квест на время с�
 • Получай до 150 подарков в день за прокрутку Покестопов и Гимов
 • В твоём рюкзаке для предметов помещается до 40 подарков одновременно
 
-Примечание: Чтобы получить эти дополнительные задания полевых квестов, на момент первого входа в игру за день у тебя должно быть не больше 3 заданий полевых квестов. Также, чтобы получить в награду 20 Покемонет, тебе нужно забрать их после выполнения задания. Узнать больше о дополнительных заданиях полевого квеста можно <a href="https://niantic.helpshift.com/hc/ru/6-pokemon-go/faq/2479-why-does-my-field-research-task-have-a-bonus-tag/">здесь</a>.
+Примечание: Чтобы получить эти дополнительные задания полевых квестов, на момент первого входа в игру за день у тебя должно быть не больше 3 заданий полевых квестов. Также, чтобы получить в награду 20 Покемонет, тебе нужно забрать их после выполнения задания. Узнать больше о дополнительных заданиях полевого квеста можно <a href="https://scopelyexplore.helpshift.com/hc/faq/1098-why-does-my-field-research-task-have-a-bonus-tag/">здесь</a>.
 
 RESOURCE ID: text_rewards_key_monthlyticketsept24
 TEXT: Этот билет даёт бонусы, квест на время с наградой в виде 200 бонусных Покемонет и ежедневные дополнительные полевые квесты с наградами в виде бонусных Покемонет с 3 сентября по 2 октября 2024.
@@ -125431,7 +125486,7 @@ TEXT: Этот билет даёт бонусы, квест на время с�
 • Получай до 150 подарков в день за прокрутку Покестопов и Гимов
 • В твоём рюкзаке для предметов помещается до 40 подарков одновременно
 
-Примечание: Чтобы получить эти дополнительные задания полевых квестов, на момент первого входа в игру за день у тебя должно быть не больше 3 заданий полевых квестов. Также, чтобы получить в награду 20 Покемонет, тебе нужно забрать их после выполнения задания. Узнать больше о дополнительных заданиях полевого квеста можно <a href="https://niantic.helpshift.com/hc/ru/6-pokemon-go/faq/2479-why-does-my-field-research-task-have-a-bonus-tag/">здесь</a>.
+Примечание: Чтобы получить эти дополнительные задания полевых квестов, на момент первого входа в игру за день у тебя должно быть не больше 3 заданий полевых квестов. Также, чтобы получить в награду 20 Покемонет, тебе нужно забрать их после выполнения задания. Узнать больше о дополнительных заданиях полевого квеста можно <a href="https://scopelyexplore.helpshift.com/hc/faq/1098-why-does-my-field-research-task-have-a-bonus-tag/">здесь</a>.
 
 RESOURCE ID: text_rewards_key_munchlax0825
 TEXT: <b>Включает следующие награды:</b>
@@ -126187,7 +126242,7 @@ RESOURCE ID: three_free_raid_passes
 TEXT: Получи бесплатно до 3 Пропусков на Рейды, покрутив Фотодиски в Гимах
 
 RESOURCE ID: three_strike_policy_url
-TEXT: https://pokemongo.nianticlabs.com/support/three-strike-policy
+TEXT: https://scopelyexplore.helpshift.com/hc/faq/1305-gameplay-fairness-policy/
 
 RESOURCE ID: throwback_2020_celebration
 TEXT: Празднование Ностальгического испытания 2020
@@ -127866,6 +127921,9 @@ TEXT: ПРЕДСТОЯЩИЕ СОБЫТИЯ
 
 RESOURCE ID: today_view_upcoming_events_today_marker
 TEXT: СЕГОДНЯ
+
+RESOURCE ID: today_view_welcome_back_tab_label
+TEXT: Kanto Homecoming
 
 RESOURCE ID: toggle_item_equip
 TEXT: EQUIP
@@ -129663,6 +129721,42 @@ TEXT: Квест на Время Мегатренировка Pokémon GO! (1/2)
 
 RESOURCE ID: tr_jp2025_aeon_mall_header_01
 TEXT: Квест на Время Мегатренировка Pokémon GO! (2/2)
+
+RESOURCE ID: tr_kindling_2026_set_01_header
+TEXT: Kanto Homecoming Timed Research (1/12)
+
+RESOURCE ID: tr_kindling_2026_set_02_header
+TEXT: Kanto Homecoming Timed Research (2/12)
+
+RESOURCE ID: tr_kindling_2026_set_03_header
+TEXT: Kanto Homecoming Timed Research (3/12)
+
+RESOURCE ID: tr_kindling_2026_set_04_header
+TEXT: Kanto Homecoming Timed Research (4/12)
+
+RESOURCE ID: tr_kindling_2026_set_05_header
+TEXT: Kanto Homecoming Timed Research (5/12)
+
+RESOURCE ID: tr_kindling_2026_set_06_header
+TEXT: Kanto Homecoming Timed Research (6/12)
+
+RESOURCE ID: tr_kindling_2026_set_07_header
+TEXT: Kanto Homecoming Timed Research (7/12)
+
+RESOURCE ID: tr_kindling_2026_set_08_header
+TEXT: Kanto Homecoming Timed Research (8/12)
+
+RESOURCE ID: tr_kindling_2026_set_09_header
+TEXT: Kanto Homecoming Timed Research (9/12)
+
+RESOURCE ID: tr_kindling_2026_set_10_header
+TEXT: Kanto Homecoming Timed Research (10/12)
+
+RESOURCE ID: tr_kindling_2026_set_11_header
+TEXT: Kanto Homecoming Timed Research (11/12)
+
+RESOURCE ID: tr_kindling_2026_set_12_header
+TEXT: Kanto Homecoming Timed Research (12/12)
 
 RESOURCE ID: tr_kr2025_retention_cherryblossom_title
 TEXT: Испытание Цветущая Вишня
