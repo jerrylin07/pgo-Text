@@ -41139,7 +41139,7 @@ RESOURCE ID: general2.ticket._gowa25_leadup_title
 TEXT: 曠野週特級限時調查入場券
 
 RESOURCE ID: general2.ticket._gowa26_title
-TEXT: Pokémon GO Wild Area 2026: Global Ticket
+TEXT: Pokémon GO 曠野地帶2026全球入場券
 
 RESOURCE ID: general2.ticket._megagalladeraidday_title
 TEXT: 超級艾路雷朵團體戰日入場券
@@ -47519,16 +47519,16 @@ RESOURCE ID: gofest2026_copenhagen
 TEXT: Pokémon GO Fest 2026：哥本哈根
 
 RESOURCE ID: gofest2026_tag
-TEXT: GO Fest 2026: Mega Finale
+TEXT: GO Fest 2026：超級壓軸
 
 RESOURCE ID: gofest2026_tokyo
 TEXT: Pokémon GO Fest 2026：東京
 
 RESOURCE ID: gofest2026_battle_district
-TEXT: Battle District
+TEXT: 對戰地帶
 
 RESOURCE ID: gofest2026_circuit_plaza
-TEXT: Circuit Plaza
+TEXT: 電光廣場
 
 RESOURCE ID: gofest2026_collection_district
 TEXT: 收藏地帶
@@ -47555,7 +47555,7 @@ RESOURCE ID: gofest2026_details_link
 TEXT: 詳情請至<a href="https://pokemongo.com/news/road-of-legends-2026">網站</a>確認
 
 RESOURCE ID: gofest2026_eerie_alley
-TEXT: Eerie Alley
+TEXT: 昏暗小巷
 
 RESOURCE ID: gofest2026_finale_details_link
 TEXT: 詳情請至<a href="https://Pokémongo.com/gofest/megafinale">網站</a>確認
@@ -47567,13 +47567,13 @@ RESOURCE ID: gofest2026_investigation_district
 TEXT: 實地調查地帶
 
 RESOURCE ID: gofest2026_iron_frostworks
-TEXT: Iron Frostworks
+TEXT: 雪之礦山
 
 RESOURCE ID: gofest2026_mindworks_canal
-TEXT: Mindworks Canal
+TEXT: 思緒運河
 
 RESOURCE ID: gofest2026_prism_promenade
-TEXT: Prism Promenade
+TEXT: 稜鏡街道
 
 RESOURCE ID: gofest2026_recruitment_zone
 TEXT: 齊力區域
@@ -47591,10 +47591,10 @@ RESOURCE ID: gofest2026_scouting_district
 TEXT: 冒險地帶
 
 RESOURCE ID: gofest2026_skyline_roosts
-TEXT: Skyline Roosts
+TEXT: 天空居所
 
 RESOURCE ID: gofest2026_verdant_overgrowth
-TEXT: Verdant Overgrowth
+TEXT: 茂盛藤蔓
 
 RESOURCE ID: gofest_arlo_challenge#1
 TEXT: 我們已經成功占領了這場活動，但你還是想跟我打嗎？小心你輸得一敗塗地！
@@ -54941,7 +54941,7 @@ RESOURCE ID: item_global_event_ticket_desc_gowa25
 TEXT: 只要擁有這張入場券，不論你身在何處，都能在當地時間2025年11月15日、16日開始參與Pokémon GO 曠野地帶2025：全球特殊調查。
 
 RESOURCE ID: item_global_event_ticket_desc_gowa26
-TEXT: A ticket to access the Pokémon GO Wild Area 2026: Global Special Research on November 14 and November 15, 2026, wherever you are.
+TEXT: 只要擁有這張入場券，不論你身在何處，都能在當地時間2026年11月14日、15日開始參與Pokémon GO 曠野地帶2026：全球特殊調查。
 
 RESOURCE ID: item_global_event_ticket_desc_hisuiandecidueye
 TEXT: 只要擁有這張入場券，不論你身在何處，都能在當地時間2024年2月11日14:00~22:00領取特別的獎勵。
@@ -55000,9 +55000,9 @@ TEXT: 入場券將會自動啟用，不論你身在何處，都能在當地時�
 請務必在舉辦時間內完成活動指定的課題，以領取所有活動獎勵。
 
 RESOURCE ID: item_global_event_ticket_details_gowa26
-TEXT: This ticket will automatically activate to give you access to the Pokémon GO Wild Area 2026: Global Special Research on November 14 and 15, wherever you are. Details can be found in the in-game News.
+TEXT: 入場券將會自動啟用，不論你身在何處，都能在當地時間11月14日、15日開始參與Pokémon GO曠野地帶：全球特殊調查。詳情請至遊戲內快訊確認。
 
-You must play during the specified time to receive all the event bonuses.
+請務必在舉辦時間內完成活動指定的課題，以領取所有活動獎勵。
 
 RESOURCE ID: item_global_event_ticket_details_hisuiandecidueye
 TEXT: 入場券將會自動啟用，不論你身在何處，都能在當地時間2024年2月11日領取特別的獎勵。
@@ -61801,10 +61801,10 @@ at SHA 4d4f3e80cc7fb911006bd14d198c9831ef66d005
 Pipeline 339838, job 2672172
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-08-21T22:45:32.872454+00:00 for zh-TW
-at SHA 222138e7072
-Pipeline 3890765, job 57214802
-Patch from: 0.425.0-SHA-e7185dda-RC1, 0.423.1-SHA-70644676-RC1, 0.427.0-SHA-fc729f25-RC2
+TEXT: Built at 2026-08-25T00:39:24.215034+00:00 for zh-TW
+at SHA 327cb4e2544
+Pipeline 3895507, job 57281112
+Patch from: 0.427.0-SHA-bafb3348-RC1, 0.425.1-SHA-966e4c2a-RC1
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: 限時調查：格鬥屬性
@@ -110508,7 +110508,6 @@ TEXT: Pokémon Center限定的GO集章趣。
 
 RESOURCE ID: rally_japan_pokemoncenter_2026_desc_detail
 TEXT: 拜訪日本全國各地的Pokémon Center，並蓋上那裡的圖章吧！在各地蓋章而遇見的寶可夢會帶著特別的紀念背卡。
-※Pokémon Center MEGA TOKYO目前暫時停止營業。
 
 RESOURCE ID: rally_japan_pokemoncenter_2026_location
 TEXT: 日本
@@ -112984,6 +112983,9 @@ TEXT: 最後遊玩日期
 
 RESOURCE ID: route_learn_more_url
 TEXT: https://scopelyexplore.helpshift.com/hc/faq/1220-routes-faq/
+
+RESOURCE ID: route_learn_more_url_scopely_helpshift
+TEXT: https://scopelyexplore.helpshift.com/hc/zh-hant/5-pokemon-go/faq/1220-routes-faq/
 
 RESOURCE ID: route_list_context_title
 TEXT: List of pokestops
@@ -118395,6 +118397,9 @@ TEXT: 收到特別的禮物！
 RESOURCE ID: shop_discount_disclaimer_helpshift_url
 TEXT: https://scopelyexplore.helpshift.com/hc/faq/1267-notice-regarding-discount-rates-displayed-in-the-shop/
 
+RESOURCE ID: shop_discount_disclaimer_helpshift_url_scopely_helpshift
+TEXT: https://scopelyexplore.helpshift.com/hc/zh-hant/5-pokemon-go/faq/1267-notice-regarding-discount-rates-displayed-in-the-shop/
+
 RESOURCE ID: shop_discount_disclaimer_modal_title
 TEXT: 限時折扣
 
@@ -118403,6 +118408,9 @@ TEXT: 折扣率和計時器：若套組商品帶有折扣標籤，該標籤會�
 
 RESOURCE ID: shop_discount_disclaimer_publish_id
 TEXT: 4707
+
+RESOURCE ID: shop_discount_disclaimer_publish_id_scopely_helpshift
+TEXT: 1267
 
 RESOURCE ID: shop_enhanced_currency_title
 TEXT: 連結能不足
@@ -118766,6 +118774,9 @@ TEXT: 以 {0} 註冊帳號
 
 RESOURCE ID: sign_in_bonus_key
 TEXT: 登入或創建帳號即可獲得獎勵！
+
+RESOURCE ID: sign_in_support_link_scopely_helpshift
+TEXT: https://scopelyexplore.helpshift.com/hc/zh-hant/5-pokemon-go/faq/1275-help-with-sign-in-issues/
 
 RESOURCE ID: sign_up_button
 TEXT: SIGN UP
@@ -119499,7 +119510,7 @@ RESOURCE ID: soft_sfida_title_pokemon_full
 TEXT: 寶可夢盒已經滿了！
 
 RESOURCE ID: soft_sfida_tutorial_url
-TEXT: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1250-what-is-the-explorer-gadget/
+TEXT: https://scopelyexplore.helpshift.com/hc/zh-hant/5-pokemon-go/faq/1250-what-is-the-explorer-gadget/
 
 RESOURCE ID: soft_sfida_warn_items_full
 TEXT: 包包已經滿了！
@@ -125401,14 +125412,14 @@ TEXT: <b>可獲得的獎勵：</b>
 <a href="https://pokemongo.com/gowildarea/global">關於入場券的獎勵詳情，請參照此處。</a>
 
 RESOURCE ID: text_rewards_key_gowa26
-TEXT: <b>Includes:</b>
-• Up to 6 free Raid Passes each day from spinning Gym Photo Discs
-• Increased chance of receiving event 10 km Eggs from PokéStops
-• Up to 6 Special Trades per day and reduced Stardust cost for trades
-• 1/2 Hatch Distance when Eggs are placed in an Incubator during the event
-• 2× Candy for catching Pokémon
-• A higher chance to encounter Shiny Pokémon during the event
-Learn more about the ticket bonuses <a href="pokemongo.com/gowildarea/global">here</a>.
+TEXT: <b>可獲得的獎勵：</b>
+・每天可透過旋轉道館轉盤獲得最多6張免費團體戰入場券
+・旋轉寶可補給站時獲得10公里蛋的機率提高
+・每天最多可進行6次特殊交換且所需的星星沙子減少
+・活動期間內放入孵化器中的蛋所需孵蛋距離減半
+・捕捉寶可夢時糖果加倍
+・在活動期間內與異色寶可夢相遇的機率提升
+關於入場券的獎勵詳情，請參照<a href="https://pokemongo.com/gowildarea/global">此處</a>。
 
 RESOURCE ID: text_rewards_key_growingup0525
 TEXT: <b>可獲得的獎勵：</b>
@@ -126501,6 +126512,9 @@ TEXT: 旋轉道館轉盤時最多可獲得3張免費的團體戰入場券
 
 RESOURCE ID: three_strike_policy_url
 TEXT: https://scopelyexplore.helpshift.com/hc/faq/1305-gameplay-fairness-policy/
+
+RESOURCE ID: three_strike_policy_url_scopely_helpshift
+TEXT: https://scopelyexplore.helpshift.com/hc/zh-hant/5-pokemon-go/faq/1305-gameplay-fairness-policy/
 
 RESOURCE ID: throwback_2020_celebration
 TEXT: Throwback Challenge 2020 Celebration

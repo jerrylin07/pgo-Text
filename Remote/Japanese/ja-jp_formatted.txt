@@ -61881,10 +61881,10 @@ at SHA 4d4f3e80cc7fb911006bd14d198c9831ef66d005
 Pipeline 339838, job 2672172
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-08-21T22:45:32.872454+00:00 for ja-JP
-at SHA 222138e7072
-Pipeline 3890765, job 57214802
-Patch from: 0.425.0-SHA-e7185dda-RC1, 0.423.1-SHA-70644676-RC1, 0.427.0-SHA-fc729f25-RC2
+TEXT: Built at 2026-08-25T00:39:24.215034+00:00 for ja-JP
+at SHA 327cb4e2544
+Pipeline 3895507, job 57281112
+Patch from: 0.427.0-SHA-bafb3348-RC1, 0.425.1-SHA-966e4c2a-RC1
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: タイムチャレンジ：かくとうタイプ
@@ -110509,7 +110509,6 @@ TEXT: ポケモンセンター限定スタンプラリーです。
 
 RESOURCE ID: rally_japan_pokemoncenter_2026_desc_detail
 TEXT: 日本全国のポケモンセンターを訪れてスタンプを押しましょう！各地でスタンプを押して出会えるポケモンには、特別なロケーション背景がついています。
-*ポケモンセンターメガトウキョーは臨時休業中です。
 
 RESOURCE ID: rally_japan_pokemoncenter_2026_location
 TEXT: 日本
@@ -112990,6 +112989,9 @@ TEXT: 最終使用日
 
 RESOURCE ID: route_learn_more_url
 TEXT: https://scopelyexplore.helpshift.com/hc/faq/1220-routes-faq/
+
+RESOURCE ID: route_learn_more_url_scopely_helpshift
+TEXT: https://scopelyexplore.helpshift.com/hc/ja/5-pokemon-go/faq/1220-routes-faq/
 
 RESOURCE ID: route_list_context_title
 TEXT: List of pokestops
@@ -118200,7 +118202,7 @@ RESOURCE ID: shelmetkarrablast_post_cd_timed_research_name
 TEXT: チョボマキとカブルモコミュニティ・デイコンティニュータイムチャレンジ
 
 RESOURCE ID: shield_break_adventure_effect_battle_log
-TEXT: ばくれつパンチ+のフィールド効果により、メガシンカポケモンに対するこうげきがブーストされます！
+TEXT: ばくれつパンチ+のフィールド効果でこうげきアップ！
 
 RESOURCE ID: shinjuku_cross_title
 TEXT: クロス新宿ビジョン
@@ -118415,6 +118417,9 @@ TEXT: プレゼントが届きました！
 RESOURCE ID: shop_discount_disclaimer_helpshift_url
 TEXT: https://scopelyexplore.helpshift.com/hc/faq/1267-notice-regarding-discount-rates-displayed-in-the-shop/
 
+RESOURCE ID: shop_discount_disclaimer_helpshift_url_scopely_helpshift
+TEXT: https://scopelyexplore.helpshift.com/hc/ja/5-pokemon-go/faq/1267-notice-regarding-discount-rates-displayed-in-the-shop/
+
 RESOURCE ID: shop_discount_disclaimer_modal_title
 TEXT: 期間限定ディスカウント
 
@@ -118423,6 +118428,9 @@ TEXT: 割引率とタイマー：ボックス商品にディスカウントタ�
 
 RESOURCE ID: shop_discount_disclaimer_publish_id
 TEXT: 4707
+
+RESOURCE ID: shop_discount_disclaimer_publish_id_scopely_helpshift
+TEXT: 1267
 
 RESOURCE ID: shop_enhanced_currency_title
 TEXT: リンクチャージが足りません
@@ -118784,6 +118792,9 @@ TEXT: {0}を使用してアカウント作成
 
 RESOURCE ID: sign_in_bonus_key
 TEXT: サインインもしくはアカウント作成でボーナスを受け取れます！
+
+RESOURCE ID: sign_in_support_link_scopely_helpshift
+TEXT: https://scopelyexplore.helpshift.com/hc/ja/5-pokemon-go/faq/1275-help-with-sign-in-issues/
 
 RESOURCE ID: sign_up_button
 TEXT: サインアップ
@@ -119522,7 +119533,7 @@ RESOURCE ID: soft_sfida_title_pokemon_full
 TEXT: ポケモンボックスがいっぱい！
 
 RESOURCE ID: soft_sfida_tutorial_url
-TEXT: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1250-what-is-the-explorer-gadget/
+TEXT: https://scopelyexplore.helpshift.com/hc/ja/5-pokemon-go/faq/1250-what-is-the-explorer-gadget/
 
 RESOURCE ID: soft_sfida_warn_items_full
 TEXT: 道具バッグがいっぱいです！
@@ -126541,6 +126552,9 @@ TEXT: ジムのフォトディスクを回してレイドパス3枚まで入手
 
 RESOURCE ID: three_strike_policy_url
 TEXT: https://scopelyexplore.helpshift.com/hc/faq/1305-gameplay-fairness-policy/
+
+RESOURCE ID: three_strike_policy_url_scopely_helpshift
+TEXT: https://scopelyexplore.helpshift.com/hc/ja/5-pokemon-go/faq/1305-gameplay-fairness-policy/
 
 RESOURCE ID: throwback_2020_celebration
 TEXT: ジェネレーションチャレンジ2020 セレブレーション

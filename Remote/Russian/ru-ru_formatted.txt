@@ -61746,10 +61746,10 @@ at SHA bacc02371739993984570a6f5b31a993cf3b031b
 Pipeline 498004, job 4265729
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-08-21T22:45:32.872454+00:00 for ru-RU
-at SHA 222138e7072
-Pipeline 3890765, job 57214802
-Patch from: 0.425.0-SHA-e7185dda-RC1, 0.423.1-SHA-70644676-RC1, 0.427.0-SHA-fc729f25-RC2
+TEXT: Built at 2026-08-25T00:39:24.215034+00:00 for ru-RU
+at SHA 327cb4e2544
+Pipeline 3895507, job 57281112
+Patch from: 0.427.0-SHA-bafb3348-RC1, 0.425.1-SHA-966e4c2a-RC1
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: ‎Квест на время: Боевой тип
@@ -110256,7 +110256,6 @@ TEXT: Эксклюзивный Марафон Печатей GO доступен
 
 RESOURCE ID: rally_japan_pokemoncenter_2026_desc_detail
 TEXT: Собирай печати, посещая локации Pokémon Center по всей Японии! У Покемонов, пойманных в качестве награды, может быть уникальный Фон Места.
-*Pokémon Center Mega Tokyo временно закрыт.
 
 RESOURCE ID: rally_japan_pokemoncenter_2026_location
 TEXT: Япония
@@ -112733,6 +112732,9 @@ TEXT: Последняя прогулка
 
 RESOURCE ID: route_learn_more_url
 TEXT: https://scopelyexplore.helpshift.com/hc/faq/1220-routes-faq/
+
+RESOURCE ID: route_learn_more_url_scopely_helpshift
+TEXT: https://scopelyexplore.helpshift.com/hc/ru/5-pokemon-go/faq/1220-routes-faq/
 
 RESOURCE ID: route_list_context_title
 TEXT: List of PokéStops or Gyms
@@ -118136,6 +118138,9 @@ TEXT: Особый подарок от профессора!
 RESOURCE ID: shop_discount_disclaimer_helpshift_url
 TEXT: https://scopelyexplore.helpshift.com/hc/faq/1267-notice-regarding-discount-rates-displayed-in-the-shop/
 
+RESOURCE ID: shop_discount_disclaimer_helpshift_url_scopely_helpshift
+TEXT: https://scopelyexplore.helpshift.com/hc/ru/5-pokemon-go/faq/1267-notice-regarding-discount-rates-displayed-in-the-shop/
+
 RESOURCE ID: shop_discount_disclaimer_modal_title
 TEXT: Скидки, ограниченные по времени
 
@@ -118144,6 +118149,9 @@ TEXT: Скидки и таймеры: Теги скидок, отображае�
 
 RESOURCE ID: shop_discount_disclaimer_publish_id
 TEXT: 4707
+
+RESOURCE ID: shop_discount_disclaimer_publish_id_scopely_helpshift
+TEXT: 1267
 
 RESOURCE ID: shop_enhanced_currency_title
 TEXT: Недостаточно Зарядов Связи.
@@ -118509,6 +118517,9 @@ TEXT: Создать аккаунт с {0}
 
 RESOURCE ID: sign_in_bonus_key
 TEXT: Авторизуйся или создай учётную запись, чтобы получить бонусы.
+
+RESOURCE ID: sign_in_support_link_scopely_helpshift
+TEXT: https://scopelyexplore.helpshift.com/hc/ru/5-pokemon-go/faq/1275-help-with-sign-in-issues/
 
 RESOURCE ID: sign_up_button
 TEXT: SIGN UP
@@ -119241,7 +119252,7 @@ RESOURCE ID: soft_sfida_title_pokemon_full
 TEXT: Хранилище Покемонов заполнено.
 
 RESOURCE ID: soft_sfida_tutorial_url
-TEXT: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1250-what-is-the-explorer-gadget/
+TEXT: https://scopelyexplore.helpshift.com/hc/ru/5-pokemon-go/faq/1250-what-is-the-explorer-gadget/
 
 RESOURCE ID: soft_sfida_warn_items_full
 TEXT: Рюкзак для Предметов заполнен.
@@ -126243,6 +126254,9 @@ TEXT: Получи бесплатно до 3 Пропусков на Рейды,
 
 RESOURCE ID: three_strike_policy_url
 TEXT: https://scopelyexplore.helpshift.com/hc/faq/1305-gameplay-fairness-policy/
+
+RESOURCE ID: three_strike_policy_url_scopely_helpshift
+TEXT: https://scopelyexplore.helpshift.com/hc/ru/5-pokemon-go/faq/1305-gameplay-fairness-policy/
 
 RESOURCE ID: throwback_2020_celebration
 TEXT: Празднование Ностальгического испытания 2020

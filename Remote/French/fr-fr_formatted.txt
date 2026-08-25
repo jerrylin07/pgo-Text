@@ -47615,16 +47615,16 @@ RESOURCE ID: gofest2026_copenhagen
 TEXT: Festival Pokémon GO 2026 : Copenhague
 
 RESOURCE ID: gofest2026_tag
-TEXT: GO Fest 2026: Mega Finale
+TEXT: Festival GO 2026 : Méga-Finale
 
 RESOURCE ID: gofest2026_tokyo
 TEXT: Festival Pokémon GO 2026 : Tokyo
 
 RESOURCE ID: gofest2026_battle_district
-TEXT: Battle District
+TEXT: Quartier des Combats
 
 RESOURCE ID: gofest2026_circuit_plaza
-TEXT: Circuit Plaza
+TEXT: Place du circuit
 
 RESOURCE ID: gofest2026_collection_district
 TEXT: Quartier de la Collection
@@ -47651,7 +47651,7 @@ RESOURCE ID: gofest2026_details_link
 TEXT: Tous les détails sont sur le <a href="https://pokemongo.com/news/road-of-legends-2026">site Web</a>.
 
 RESOURCE ID: gofest2026_eerie_alley
-TEXT: Eerie Alley
+TEXT: Passage inquiétant
 
 RESOURCE ID: gofest2026_finale_details_link
 TEXT: Pour en savoir plus, consulte le <a href="https://Pokémongo.com/gofest/megafinale">site Web du Festival GO 2026 : Méga-Finale</a>.
@@ -47663,13 +47663,13 @@ RESOURCE ID: gofest2026_investigation_district
 TEXT: Quartier des Enquêtes
 
 RESOURCE ID: gofest2026_iron_frostworks
-TEXT: Iron Frostworks
+TEXT: Cristaux de fer
 
 RESOURCE ID: gofest2026_mindworks_canal
-TEXT: Mindworks Canal
+TEXT: Canal mental
 
 RESOURCE ID: gofest2026_prism_promenade
-TEXT: Prism Promenade
+TEXT: Promenade prismatique
 
 RESOURCE ID: gofest2026_recruitment_zone
 TEXT: Zone de Recrutement
@@ -47687,10 +47687,10 @@ RESOURCE ID: gofest2026_scouting_district
 TEXT: Quartier de l’Exploration
 
 RESOURCE ID: gofest2026_skyline_roosts
-TEXT: Skyline Roosts
+TEXT: Perchoirs aériens
 
 RESOURCE ID: gofest2026_verdant_overgrowth
-TEXT: Verdant Overgrowth
+TEXT: Croissance verdoyante
 
 RESOURCE ID: gofest_arlo_challenge#1
 TEXT: Nous avons pris le contrôle de votre petite fête, et tu veux toujours me défier ? Sois prêt à affronter la dure réalité.
@@ -61894,10 +61894,10 @@ at SHA 4d4f3e80cc7fb911006bd14d198c9831ef66d005
 Pipeline 339838, job 2672172
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-08-21T22:45:32.872454+00:00 for fr-FR
-at SHA 222138e7072
-Pipeline 3890765, job 57214802
-Patch from: 0.425.0-SHA-e7185dda-RC1, 0.423.1-SHA-70644676-RC1, 0.427.0-SHA-fc729f25-RC2
+TEXT: Built at 2026-08-25T00:39:24.215034+00:00 for fr-FR
+at SHA 327cb4e2544
+Pipeline 3895507, job 57281112
+Patch from: 0.427.0-SHA-bafb3348-RC1, 0.425.1-SHA-966e4c2a-RC1
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: Étude ponctuelle : Choisis ton type de combat
@@ -110429,7 +110429,6 @@ TEXT: Chasse aux tampons GO exclusive disponible seulement dans les Pokémon Ce
 
 RESOURCE ID: rally_japan_pokemoncenter_2026_desc_detail
 TEXT: La chasse aux tampons est ouverte dans les Pokémon Centers du Japon ! Certains Pokémon attrapés lors de rencontres obtenues en récompense seront assortis d’un Fond de lieu unique.
-*Le Pokémon Center Mega Tokyo est temporairement fermé.
 
 RESOURCE ID: rally_japan_pokemoncenter_2026_location
 TEXT: Japon
@@ -112901,6 +112900,9 @@ TEXT: Dernier parcours en date
 
 RESOURCE ID: route_learn_more_url
 TEXT: https://scopelyexplore.helpshift.com/hc/faq/1220-routes-faq/
+
+RESOURCE ID: route_learn_more_url_scopely_helpshift
+TEXT: https://scopelyexplore.helpshift.com/hc/fr/5-pokemon-go/faq/1220-routes-faq/
 
 RESOURCE ID: route_list_context_title
 TEXT: List of pokestops
@@ -118308,6 +118310,9 @@ TEXT: Un cadeau spécial de la part du Professeur !
 RESOURCE ID: shop_discount_disclaimer_helpshift_url
 TEXT: https://scopelyexplore.helpshift.com/hc/faq/1267-notice-regarding-discount-rates-displayed-in-the-shop/
 
+RESOURCE ID: shop_discount_disclaimer_helpshift_url_scopely_helpshift
+TEXT: https://scopelyexplore.helpshift.com/hc/fr/5-pokemon-go/faq/1267-notice-regarding-discount-rates-displayed-in-the-shop/
+
 RESOURCE ID: shop_discount_disclaimer_modal_title
 TEXT: Promotions à durée limitée
 
@@ -118316,6 +118321,9 @@ TEXT: Promotions et minuteurs : les étiquettes de promotion affichées pour le
 
 RESOURCE ID: shop_discount_disclaimer_publish_id
 TEXT: 4707
+
+RESOURCE ID: shop_discount_disclaimer_publish_id_scopely_helpshift
+TEXT: 1267
 
 RESOURCE ID: shop_enhanced_currency_title
 TEXT: Pas assez de Charges-Liens.
@@ -118682,6 +118690,9 @@ TEXT: Créer un compte avec {0}
 
 RESOURCE ID: sign_in_bonus_key
 TEXT: Connecte-toi ou crée un compte pour recevoir des bonus.
+
+RESOURCE ID: sign_in_support_link_scopely_helpshift
+TEXT: https://scopelyexplore.helpshift.com/hc/fr/5-pokemon-go/faq/1275-help-with-sign-in-issues/
 
 RESOURCE ID: sign_up_button
 TEXT: SIGN UP
@@ -119415,7 +119426,7 @@ RESOURCE ID: soft_sfida_title_pokemon_full
 TEXT: Espace de stockage de Pokémon plein.
 
 RESOURCE ID: soft_sfida_tutorial_url
-TEXT: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1250-what-is-the-explorer-gadget/
+TEXT: https://scopelyexplore.helpshift.com/hc/fr/5-pokemon-go/faq/1250-what-is-the-explorer-gadget/
 
 RESOURCE ID: soft_sfida_warn_items_full
 TEXT: Sac d’objets plein.
@@ -126419,6 +126430,9 @@ TEXT: Reçois jusqu’à 3 passes de Raids gratuits en faisant tourner les Phot
 
 RESOURCE ID: three_strike_policy_url
 TEXT: https://scopelyexplore.helpshift.com/hc/faq/1305-gameplay-fairness-policy/
+
+RESOURCE ID: three_strike_policy_url_scopely_helpshift
+TEXT: https://scopelyexplore.helpshift.com/hc/fr/5-pokemon-go/faq/1305-gameplay-fairness-policy/
 
 RESOURCE ID: throwback_2020_celebration
 TEXT: Throwback Challenge 2020 Celebration

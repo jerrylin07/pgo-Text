@@ -59214,10 +59214,10 @@ at SHA 12701f1c07ae7f07a5d50583f697320977df7988
 Pipeline 1139111, job 13470914
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-08-21T22:45:32.872454+00:00 for hi-IN
-at SHA 222138e7072
-Pipeline 3890765, job 57214802
-Patch from: 0.425.0-SHA-e7185dda-RC1, 0.423.1-SHA-70644676-RC1, 0.427.0-SHA-fc729f25-RC2
+TEXT: Built at 2026-08-25T00:39:24.215034+00:00 for hi-IN
+at SHA 327cb4e2544
+Pipeline 3895507, job 57281112
+Patch from: 0.427.0-SHA-bafb3348-RC1, 0.425.1-SHA-966e4c2a-RC1
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: Timed Research: Choose Your Fighting Type
@@ -107557,7 +107557,6 @@ TEXT: केवल जापान के पोकेमॉन सेंटर 
 
 RESOURCE ID: rally_japan_pokemoncenter_2026_desc_detail
 TEXT: जापान भर के भन्नि-भन्नि पोकेमॉन सेंटर जाकर स्टैम्प इकट्ठे करें! रविॉर्ड मुलाकात से पकड़े पोकेमॉन के पास यूनीक लोकेशन बैकग्राउंड हो सकता है।
-*पोकेमॉन सेंटर मेगा तोक्यो अस्थायी रूप से बंद।
 
 RESOURCE ID: rally_japan_pokemoncenter_2026_location
 TEXT: जापान
@@ -110030,6 +110029,9 @@ TEXT: अंतिम ट्रिप
 
 RESOURCE ID: route_learn_more_url
 TEXT: https://scopelyexplore.helpshift.com/hc/faq/1220-routes-faq/
+
+RESOURCE ID: route_learn_more_url_scopely_helpshift
+TEXT: https://scopelyexplore.helpshift.com/hc/hi/5-pokemon-go/faq/1220-routes-faq/
 
 RESOURCE ID: route_list_context_title
 TEXT: List of PokéStops or Gyms
@@ -115418,6 +115420,9 @@ TEXT: एक स्पेशल गिफ़्ट!
 RESOURCE ID: shop_discount_disclaimer_helpshift_url
 TEXT: https://scopelyexplore.helpshift.com/hc/faq/1267-notice-regarding-discount-rates-displayed-in-the-shop/
 
+RESOURCE ID: shop_discount_disclaimer_helpshift_url_scopely_helpshift
+TEXT: https://scopelyexplore.helpshift.com/hc/hi/5-pokemon-go/faq/1267-notice-regarding-discount-rates-displayed-in-the-shop/
+
 RESOURCE ID: shop_discount_disclaimer_modal_title
 TEXT: सीमित समय के लिए छूट
 
@@ -115426,6 +115431,9 @@ TEXT: डिस्काउंट और टाइमर - शॉप में �
 
 RESOURCE ID: shop_discount_disclaimer_publish_id
 TEXT: 4707
+
+RESOURCE ID: shop_discount_disclaimer_publish_id_scopely_helpshift
+TEXT: 1267
 
 RESOURCE ID: shop_enhanced_currency_title
 TEXT: लिंक चार्ज पर्याप्त नहीं है।
@@ -115791,6 +115799,9 @@ TEXT: {0} के ज़रिए अकाउंट बनाएं
 
 RESOURCE ID: sign_in_bonus_key
 TEXT: बोनस प्राप्त करने के लिए साइन इन करें या अकाउंट बनाएँ।
+
+RESOURCE ID: sign_in_support_link_scopely_helpshift
+TEXT: https://scopelyexplore.helpshift.com/hc/hi/5-pokemon-go/faq/1275-help-with-sign-in-issues/
 
 RESOURCE ID: sign_up_button
 TEXT: SIGN UP
@@ -116524,7 +116535,7 @@ RESOURCE ID: soft_sfida_title_pokemon_full
 TEXT: पोकेमॉन स्टोरेज भरी हुई है।
 
 RESOURCE ID: soft_sfida_tutorial_url
-TEXT: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1250-what-is-the-explorer-gadget/
+TEXT: https://scopelyexplore.helpshift.com/hc/hi/5-pokemon-go/faq/1250-what-is-the-explorer-gadget/
 
 RESOURCE ID: soft_sfida_warn_items_full
 TEXT: आइटम बैग भर गया है।
@@ -123526,6 +123537,9 @@ TEXT: जिम की फ़ोटो डिस्क को स्पिन �
 
 RESOURCE ID: three_strike_policy_url
 TEXT: https://scopelyexplore.helpshift.com/hc/faq/1305-gameplay-fairness-policy/
+
+RESOURCE ID: three_strike_policy_url_scopely_helpshift
+TEXT: https://scopelyexplore.helpshift.com/hc/hi/5-pokemon-go/faq/1305-gameplay-fairness-policy/
 
 RESOURCE ID: throwback_2020_celebration
 TEXT: थ्रोबैक चैलेंज 2020 का सेलिब्रेशन:

@@ -61644,10 +61644,10 @@ at SHA 4d4f3e80cc7fb911006bd14d198c9831ef66d005
 Pipeline 339838, job 2672172
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-08-21T22:45:32.872454+00:00 for en-US
-at SHA 222138e7072
-Pipeline 3890765, job 57214802
-Patch from: 0.425.0-SHA-e7185dda-RC1, 0.423.1-SHA-70644676-RC1, 0.427.0-SHA-fc729f25-RC2
+TEXT: Built at 2026-08-25T00:39:24.215034+00:00 for en-US
+at SHA 327cb4e2544
+Pipeline 3895507, job 57281112
+Patch from: 0.427.0-SHA-bafb3348-RC1, 0.425.1-SHA-966e4c2a-RC1
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: Timed Research: Choose Your Fighting Type
@@ -110143,7 +110143,6 @@ TEXT: Exclusive GO Stamp Rally available only at Pokémon Centers in Japan!
 
 RESOURCE ID: rally_japan_pokemoncenter_2026_desc_detail
 TEXT: Collect stamps by visiting Pokémon Centers across Japan! Pokémon caught from reward encounters can have a unique Location Background.
-*Pokémon Center Mega Tokyo is temporarily closed.
 
 RESOURCE ID: rally_japan_pokemoncenter_2026_location
 TEXT: Japan
@@ -112616,6 +112615,9 @@ TEXT: Last Trip
 
 RESOURCE ID: route_learn_more_url
 TEXT: https://scopelyexplore.helpshift.com/hc/faq/1220-routes-faq/
+
+RESOURCE ID: route_learn_more_url_scopely_helpshift
+TEXT: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1220-routes-faq/
 
 RESOURCE ID: route_list_context_title
 TEXT: List of PokéStops or Gyms
@@ -118025,6 +118027,9 @@ TEXT: A special gift from the Professor!
 RESOURCE ID: shop_discount_disclaimer_helpshift_url
 TEXT: https://scopelyexplore.helpshift.com/hc/faq/1267-notice-regarding-discount-rates-displayed-in-the-shop/
 
+RESOURCE ID: shop_discount_disclaimer_helpshift_url_scopely_helpshift
+TEXT: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1267-notice-regarding-discount-rates-displayed-in-the-shop/
+
 RESOURCE ID: shop_discount_disclaimer_modal_title
 TEXT: Limited Time Only Discounts
 
@@ -118033,6 +118038,9 @@ TEXT: Discounts and Timers: Discount tags shown for item bundles in the Shop are
 
 RESOURCE ID: shop_discount_disclaimer_publish_id
 TEXT: 4707
+
+RESOURCE ID: shop_discount_disclaimer_publish_id_scopely_helpshift
+TEXT: 1267
 
 RESOURCE ID: shop_enhanced_currency_title
 TEXT: Not enough Link Charges.
@@ -118398,6 +118406,9 @@ TEXT: Create account with {0}
 
 RESOURCE ID: sign_in_bonus_key
 TEXT: Sign in or create an account to receive bonuses.
+
+RESOURCE ID: sign_in_support_link_scopely_helpshift
+TEXT: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1275-help-with-sign-in-issues/
 
 RESOURCE ID: sign_up_button
 TEXT: SIGN UP
@@ -126142,6 +126153,9 @@ TEXT: Receive up to three Raid Passes at no cost by spinning Photo Discs at Gyms
 
 RESOURCE ID: three_strike_policy_url
 TEXT: https://scopelyexplore.helpshift.com/hc/faq/1305-gameplay-fairness-policy/
+
+RESOURCE ID: three_strike_policy_url_scopely_helpshift
+TEXT: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1305-gameplay-fairness-policy/
 
 RESOURCE ID: throwback_2020_celebration
 TEXT: Throwback Challenge 2020 Celebration

@@ -41255,7 +41255,7 @@ RESOURCE ID: general2.ticket._gowa25_leadup_title
 TEXT: Biglietto per la ricerca a tempo premium “Animo selvaggio”
 
 RESOURCE ID: general2.ticket._gowa26_title
-TEXT: Pokémon GO Wild Area 2026: Global Ticket
+TEXT: Biglietto per l’evento “Terre Selvagge di Pokémon GO 2026 (globale)”
 
 RESOURCE ID: general2.ticket._megagalladeraidday_title
 TEXT: Biglietto per il giorno di raid dedicato a MegaGallade
@@ -55049,7 +55049,7 @@ RESOURCE ID: item_global_event_ticket_desc_gowa25
 TEXT: Un biglietto per accedere alla ricerca speciale dell’evento “Terre Selvagge di Pokémon GO 2025 (globale)” dal 15 al 16 novembre 2025, ora locale, ovunque ti trovi.
 
 RESOURCE ID: item_global_event_ticket_desc_gowa26
-TEXT: A ticket to access the Pokémon GO Wild Area 2026: Global Special Research on November 14 and November 15, 2026, wherever you are.
+TEXT: Un biglietto per accedere alla ricerca speciale dell’evento “Terre Selvagge di Pokémon GO 2026 (globale)” il 14 e il 15 novembre 2026, ovunque ti trovi.
 
 RESOURCE ID: item_global_event_ticket_desc_hisuiandecidueye
 TEXT: Un biglietto per accedere ai bonus speciali domenica 11 febbraio 2024, dalle 14:00 alle 22:00 ora locale, ovunque ti trovi.
@@ -55108,9 +55108,9 @@ TEXT: Questo biglietto si attiverà automaticamente garantendoti l’accesso all
 Per ricevere i bonus, è necessario giocare durante la fascia oraria indicata.
 
 RESOURCE ID: item_global_event_ticket_details_gowa26
-TEXT: This ticket will automatically activate to give you access to the Pokémon GO Wild Area 2026: Global Special Research on November 14 and 15, wherever you are. Details can be found in the in-game News.
+TEXT: Questo biglietto si attiverà automaticamente garantendoti l’accesso alla ricerca speciale dell’evento “Terre Selvagge di Pokémon GO 2026 (globale)” il 14 e 15 novembre, ovunque ti trovi. Per ulteriori dettagli, consulta la sezione Novità dell’app.
 
-You must play during the specified time to receive all the event bonuses.
+Per ricevere i bonus, è necessario giocare durante la fascia oraria indicata.
 
 RESOURCE ID: item_global_event_ticket_details_hisuiandecidueye
 TEXT: Questo biglietto si attiverà automaticamente garantendoti l’accesso ai bonus speciali l’11 febbraio, ovunque ti trovi.
@@ -61906,10 +61906,10 @@ at SHA 4d4f3e80cc7fb911006bd14d198c9831ef66d005
 Pipeline 339838, job 2672172
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-08-21T22:45:32.872454+00:00 for it-IT
-at SHA 222138e7072
-Pipeline 3890765, job 57214802
-Patch from: 0.425.0-SHA-e7185dda-RC1, 0.423.1-SHA-70644676-RC1, 0.427.0-SHA-fc729f25-RC2
+TEXT: Built at 2026-08-25T00:39:24.215034+00:00 for it-IT
+at SHA 327cb4e2544
+Pipeline 3895507, job 57281112
+Patch from: 0.427.0-SHA-bafb3348-RC1, 0.425.1-SHA-966e4c2a-RC1
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: Ricerca a tempo: Scegli il tuo tipo Lotta
@@ -110438,7 +110438,6 @@ TEXT: Un’esclusiva collezione di timbri GO disponibile solo ai Pokémon Center
 
 RESOURCE ID: rally_japan_pokemoncenter_2026_desc_detail
 TEXT: Colleziona i timbri visitando i Pokémon Center in varie località del Giappone! I Pokémon catturati dagli incontri di ricompensa possono avere uno Sfondo di posizione.
-*Il Pokémon Center Mega Tokyo è temporaneamente chiuso.
 
 RESOURCE ID: rally_japan_pokemoncenter_2026_location
 TEXT: Giappone
@@ -112912,6 +112911,9 @@ TEXT: ULTIMA ESCURSIONE
 
 RESOURCE ID: route_learn_more_url
 TEXT: https://scopelyexplore.helpshift.com/hc/faq/1220-routes-faq/
+
+RESOURCE ID: route_learn_more_url_scopely_helpshift
+TEXT: https://scopelyexplore.helpshift.com/hc/it/5-pokemon-go/faq/1220-routes-faq/
 
 RESOURCE ID: route_list_context_title
 TEXT: List of pokestops
@@ -118322,6 +118324,9 @@ TEXT: Un regalo speciale da parte del professore!
 RESOURCE ID: shop_discount_disclaimer_helpshift_url
 TEXT: https://scopelyexplore.helpshift.com/hc/faq/1267-notice-regarding-discount-rates-displayed-in-the-shop/
 
+RESOURCE ID: shop_discount_disclaimer_helpshift_url_scopely_helpshift
+TEXT: https://scopelyexplore.helpshift.com/hc/it/5-pokemon-go/faq/1267-notice-regarding-discount-rates-displayed-in-the-shop/
+
 RESOURCE ID: shop_discount_disclaimer_modal_title
 TEXT: Sconti disponibili per un periodo di tempo limitato
 
@@ -118330,6 +118335,9 @@ TEXT: Sconti e timer: gli sconti mostrati per le offerte di strumenti nel negozi
 
 RESOURCE ID: shop_discount_disclaimer_publish_id
 TEXT: 4707
+
+RESOURCE ID: shop_discount_disclaimer_publish_id_scopely_helpshift
+TEXT: 1267
 
 RESOURCE ID: shop_enhanced_currency_title
 TEXT: Cariche di connessione insufficienti.
@@ -118695,6 +118703,9 @@ TEXT: Crea un account con {0}
 
 RESOURCE ID: sign_in_bonus_key
 TEXT: Accedi o crea un account per ricevere i bonus.
+
+RESOURCE ID: sign_in_support_link_scopely_helpshift
+TEXT: https://scopelyexplore.helpshift.com/hc/it/5-pokemon-go/faq/1275-help-with-sign-in-issues/
 
 RESOURCE ID: sign_up_button
 TEXT: ISCRIVITI
@@ -119428,7 +119439,7 @@ RESOURCE ID: soft_sfida_title_pokemon_full
 TEXT: Lo spazio Pokémon è pieno.
 
 RESOURCE ID: soft_sfida_tutorial_url
-TEXT: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1250-what-is-the-explorer-gadget/
+TEXT: https://scopelyexplore.helpshift.com/hc/it/5-pokemon-go/faq/1250-what-is-the-explorer-gadget/
 
 RESOURCE ID: soft_sfida_warn_items_full
 TEXT: Spazio Borsa pieno.
@@ -125330,14 +125341,15 @@ Scopri di più sui bonus per il biglietto
 qui</a>.
 
 RESOURCE ID: text_rewards_key_gowa26
-TEXT: <b>Includes:</b>
-• Up to 6 free Raid Passes each day from spinning Gym Photo Discs
-• Increased chance of receiving event 10 km Eggs from PokéStops
-• Up to 6 Special Trades per day and reduced Stardust cost for trades
-• 1/2 Hatch Distance when Eggs are placed in an Incubator during the event
-• 2× Candy for catching Pokémon
-• A higher chance to encounter Shiny Pokémon during the event
-Learn more about the ticket bonuses <a href="pokemongo.com/gowildarea/global">here</a>.
+TEXT: <b>Include:</b>
+• Fino a sei biglietti raid gratuiti al giorno facendo girare i dischi foto delle Palestre
+• Maggiori probabilità di ottenere Uova da 10 km dai Pokéstop
+• Fino a sei scambi speciali al giorno e costo di polvere di stelle ridotto per gli scambi
+• La distanza per la schiusa delle Uova messe in un’Incubatrice durante l’evento sarà dimezzata
+• Doppio delle caramelle da cattura
+• Maggiori probabilità di incontrare Pokémon cromatici durante l’evento
+
+Scopri di più sui bonus per il biglietto <a href="pokemongo.com/gowildarea/global">qui</a>.
 
 RESOURCE ID: text_rewards_key_growingup0525
 TEXT: <b>Le ricompense includono:</b>
@@ -126434,6 +126446,9 @@ TEXT: Ottieni fino a tre biglietti raid gratuiti facendo girare i dischi foto de
 
 RESOURCE ID: three_strike_policy_url
 TEXT: https://scopelyexplore.helpshift.com/hc/faq/1305-gameplay-fairness-policy/
+
+RESOURCE ID: three_strike_policy_url_scopely_helpshift
+TEXT: https://scopelyexplore.helpshift.com/hc/it/5-pokemon-go/faq/1305-gameplay-fairness-policy/
 
 RESOURCE ID: throwback_2020_celebration
 TEXT: Throwback Challenge 2020 Celebration

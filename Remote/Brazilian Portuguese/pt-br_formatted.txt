@@ -61948,10 +61948,10 @@ at SHA 4d4f3e80cc7fb911006bd14d198c9831ef66d005
 Pipeline 339838, job 2672172
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-08-21T22:45:32.872454+00:00 for pt-BR
-at SHA 222138e7072
-Pipeline 3890765, job 57214802
-Patch from: 0.425.0-SHA-e7185dda-RC1, 0.423.1-SHA-70644676-RC1, 0.427.0-SHA-fc729f25-RC2
+TEXT: Built at 2026-08-25T00:39:24.215034+00:00 for pt-BR
+at SHA 327cb4e2544
+Pipeline 3895507, job 57281112
+Patch from: 0.427.0-SHA-bafb3348-RC1, 0.425.1-SHA-966e4c2a-RC1
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: Pesquisa temporária: Escolha o seu tipo de lutador
@@ -110484,7 +110484,6 @@ TEXT: Caça aos Selos GO exclusiva, disponível apenas nos Pokémon Centers do J
 
 RESOURCE ID: rally_japan_pokemoncenter_2026_desc_detail
 TEXT: Colete selos visitando Pokémon Centers por todo o Japão! Pokémon pegos em encontros de recompensa podem ter um Fundo de Localidade exclusivo.
-*O Pokémon Center Mega Tokyo está temporariamente fechado.
 
 RESOURCE ID: rally_japan_pokemoncenter_2026_location
 TEXT: Japão
@@ -112959,6 +112958,9 @@ TEXT: Última viagem
 
 RESOURCE ID: route_learn_more_url
 TEXT: https://scopelyexplore.helpshift.com/hc/faq/1220-routes-faq/
+
+RESOURCE ID: route_learn_more_url_scopely_helpshift
+TEXT: https://scopelyexplore.helpshift.com/hc/pt-br/5-pokemon-go/faq/1220-routes-faq/
 
 RESOURCE ID: route_list_context_title
 TEXT: List of PokéStops or Gyms
@@ -118364,6 +118366,9 @@ TEXT: Um presente especial do Professor!
 RESOURCE ID: shop_discount_disclaimer_helpshift_url
 TEXT: https://scopelyexplore.helpshift.com/hc/faq/1267-notice-regarding-discount-rates-displayed-in-the-shop/
 
+RESOURCE ID: shop_discount_disclaimer_helpshift_url_scopely_helpshift
+TEXT: https://scopelyexplore.helpshift.com/hc/pt-br/5-pokemon-go/faq/1267-notice-regarding-discount-rates-displayed-in-the-shop/
+
 RESOURCE ID: shop_discount_disclaimer_modal_title
 TEXT: Descontos por tempo limitado
 
@@ -118372,6 +118377,9 @@ TEXT: Descontos e cronômetros: as etiquetas de descontos mostradas para combos 
 
 RESOURCE ID: shop_discount_disclaimer_publish_id
 TEXT: 4707
+
+RESOURCE ID: shop_discount_disclaimer_publish_id_scopely_helpshift
+TEXT: 1267
 
 RESOURCE ID: shop_enhanced_currency_title
 TEXT: Sem Cargas de Conexão suficientes.
@@ -118737,6 +118745,9 @@ TEXT: Criar conta com {0}
 
 RESOURCE ID: sign_in_bonus_key
 TEXT: Entre ou crie uma conta para receber bônus.
+
+RESOURCE ID: sign_in_support_link_scopely_helpshift
+TEXT: https://scopelyexplore.helpshift.com/hc/pt-br/5-pokemon-go/faq/1275-help-with-sign-in-issues/
 
 RESOURCE ID: sign_up_button
 TEXT: SIGN UP
@@ -119470,7 +119481,7 @@ RESOURCE ID: soft_sfida_title_pokemon_full
 TEXT: Estoque de Pokémon cheio.
 
 RESOURCE ID: soft_sfida_tutorial_url
-TEXT: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1250-what-is-the-explorer-gadget/
+TEXT: https://scopelyexplore.helpshift.com/hc/pt-br/5-pokemon-go/faq/1250-what-is-the-explorer-gadget/
 
 RESOURCE ID: soft_sfida_warn_items_full
 TEXT: A Bolsa está cheia.
@@ -126477,6 +126488,9 @@ TEXT: Receba até três Passes de Reide grátis ao girar fotodiscos de Ginásios
 
 RESOURCE ID: three_strike_policy_url
 TEXT: https://scopelyexplore.helpshift.com/hc/faq/1305-gameplay-fairness-policy/
+
+RESOURCE ID: three_strike_policy_url_scopely_helpshift
+TEXT: https://scopelyexplore.helpshift.com/hc/pt-br/5-pokemon-go/faq/1305-gameplay-fairness-policy/
 
 RESOURCE ID: throwback_2020_celebration
 TEXT: Throwback Challenge 2020 Celebration

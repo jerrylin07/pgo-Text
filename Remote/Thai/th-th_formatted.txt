@@ -20045,7 +20045,7 @@ RESOURCE ID: bonus_today_unova_spawn
 TEXT: โปเกมอนจากภูมิภาคอิชชูกำลังปรากฏตัวในธรรมชาติ
 
 RESOURCE ID: bonus_today_zygarde_cell
-TEXT: อาจพบซีการ์ดเซลล์ที่จุดสิ้นสุดเส้นทาง รวม 5 เส้นทาง (ต่อ 1 วัน)
+TEXT: อาจพบซีการ์ดเซลล์ที่จุดสิ้นสุดเส้นทาง (รวม 5 เส้นทางต่อ 1 วัน)
 
 RESOURCE ID: bonus_today_zygarde_cell_temp
 TEXT: อาจพบซีการ์ดเซลล์ที่จุดสิ้นสุดเส้นทาง (รวม 5 เส้นทางต่อ 1 วัน)
@@ -32187,7 +32187,7 @@ RESOURCE ID: dynamic_punch_+_move_content
 TEXT: มิวทูจะปล่อยหมัดด้วยพลังเต็มพิกัดออกมาเรื่อย ๆ {0} เพิ่มแดเมจที่สร้างให้กับโปเกมอนวิวัฒนาการเมก้าในตีบอส และทำให้โปเกมอนวิวัฒนาการเมก้าของคุณสามารถทำลายโล่ยักษ์ในตีบอสซูเปอร์เมก้าได้ 2 ครั้ง
 
 RESOURCE ID: dynamic_punch_adventure_effects_mapview_dialog
-TEXT: มิวทูจะปล่อยหมัดด้วยพลังเต็มพิกัดออกมาเรื่อย ๆ  เพิ่มแดเมจที่สร้างให้กับโปเกมอนวิวัฒนาการเมก้าในตีบอส และทำให้โปเกมอนวิวัฒนาการเมก้าของคุณสามารถทำลายโล่ยักษ์ในตีบอสซูเปอร์เมก้าได้ 2 ครั้ง
+TEXT: มิวทูจะปล่อยหมัดด้วยพลังเต็มพิกัดออกมาเรื่อย ๆ เพิ่มแดเมจที่สร้างให้กับโปเกมอนวิวัฒนาการเมก้าในตีบอส และทำให้โปเกมอนวิวัฒนาการเมก้าของคุณสามารถทำลายโล่ยักษ์ในตีบอสซูเปอร์เมก้าได้ 2 ครั้ง
 
 RESOURCE ID: dynamic_punch_adventure_effects_mapview_dialog_out
 TEXT: มิวทูจะปล่อยหมัดด้วยพลังเต็มพิกัดออกมาเรื่อย ๆ {0} ทำให้สามารถทำลายโล่ในตีบอสซูเปอร์เมก้าได้ 2 ครั้ง
@@ -39458,13 +39458,13 @@ RESOURCE ID: future_sight+
 TEXT: รู้ล่วงหน้า+
 
 RESOURCE ID: future_sight_+_move_content
-TEXT: มิวทูจะปล่อยก้อนพลังจิตขนาดยักษ์ออกมา {0}  ทำให้สามารถจำแนกโปเกมอนที่มีค่าพลังสูงได้
+TEXT: มิวทูจะปล่อยก้อนพลังจิตขนาดยักษ์ออกมา {0} ทำให้สามารถจำแนกโปเกมอนที่มีค่าพลังสูงได้
 
 RESOURCE ID: future_sight_adventure_effects_mapview_dialog
 TEXT: มิวทูจะปล่อยก้อนพลังจิตขนาดยักษ์ออกมา ทำให้สามารถจำแนกโปเกมอนที่มีค่าพลังสูงได้
 
 RESOURCE ID: future_sight_adventure_effects_mapview_dialog_out
-TEXT: มิวทูจะปล่อยก้อนพลังจิตขนาดยักษ์ออกมา {0}  ทำให้สามารถจำแนกโปเกมอนที่มีค่าพลังสูงได้
+TEXT: มิวทูจะปล่อยก้อนพลังจิตขนาดยักษ์ออกมา {0} ทำให้สามารถจำแนกโปเกมอนที่มีค่าพลังสูงได้
 
 RESOURCE ID: fuzzy_buddies_event_name
 TEXT: วันวิจัยคู่หูขนปุย
@@ -63414,7 +63414,7 @@ RESOURCE ID: lobby_ready_progress
 TEXT: พร้อมแล้ว {0}/{1} คน
 
 RESOURCE ID: lobby_shield_break_power
-TEXT: {0}/{1} ศักยภาพทำลายโล่ป้องกัน
+TEXT: ศักยภาพทำลายโล่ {0}/{1}
 
 RESOURCE ID: local_bonus_event_tag
 TEXT: โบนัสในพื้นที่
@@ -66350,10 +66350,10 @@ at SHA da71d231c41a4d4f7aef0d6fd71061652ff15a0a
 Pipeline 441624, job 3600523
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-08-21T22:45:32.872454+00:00 for th-TH
-at SHA 222138e7072
-Pipeline 3890765, job 57214802
-Patch from: 0.425.0-SHA-e7185dda-RC1, 0.423.1-SHA-70644676-RC1, 0.427.0-SHA-fc729f25-RC2
+TEXT: Built at 2026-08-25T00:39:24.215034+00:00 for th-TH
+at SHA 327cb4e2544
+Pipeline 3895507, job 57281112
+Patch from: 0.427.0-SHA-bafb3348-RC1, 0.425.1-SHA-966e4c2a-RC1
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: งานวิจัยแบบจำกัดเวลา: ประเภทต่อสู้ของคุณ
@@ -110085,13 +110085,19 @@ TEXT: รายงานระบุว่ามีเทรนเนอร์�
 บางคนถึงกับเชื่อว่าก้อนที่ว่าอาจเป็นสิ่งมีชีวิต!
 
 RESOURCE ID: quest_special_dialogue_zygarde_1_2_temp
-TEXT: น่าสงสัยจัง มีรายงานเข้ามามากมายว่ามีสิ่งประหลาดอยู่ตรงเส้นทาง เทรนเนอร์บางคนถึงกับเจอบางสิ่งที่ระบุไม่ได้ว่าคืออะไรด้วย
+TEXT: น่าสงสัยจัง มีรายงานเข้ามามากมายว่า
+เกิดเรื่องประหลาดบนเส้นทาง
+เทรนเนอร์บางคนถึงกับเจอบางสิ่ง
+ที่ระบุไม่ได้ว่าคืออะไรด้วย
 
 RESOURCE ID: quest_special_dialogue_zygarde_1_3
 TEXT: ฉันพอจะคาดเดาได้อยู่ว่าก้อนพวกนี้คืออะไร แต่ฉันอยากจะกลับไปอ่านเอกสาร รวมถึงบทความนั่นอีกรอบก่อน...
 
 RESOURCE ID: quest_special_dialogue_zygarde_1_3_temp
-TEXT: ฉันพอจะคาดเดาได้อยู่ว่าเกิดอะไรขึ้น แต่ฉันอยากจะตรวจสอบเอกสารงานวิจัยของฉันเพิ่มอีกนิดหน่อยก่อน รวมถึงอาจจะอ่านบทความนั่นอีกรอบ...
+TEXT: ฉันพอจะคาดเดาได้อยู่ว่าเกิดอะไรขึ้น
+แต่ฉันอยากจะตรวจสอบเอกสารงานวิจัย
+ของฉันเพิ่มอีกนิดหน่อยก่อน
+รวมถึงอาจจะอ่านบทความนั่นอีกรอบ...
 
 RESOURCE ID: quest_special_dialogue_zygarde_1_4
 TEXT: เธอไปทำงานภาคสนามต่อเถอะ
@@ -110150,7 +110156,10 @@ TEXT: เธอยังจำก้อนสีเขียวรูปทร�
 ฉันคิดว่าพวกมันนั่นแหละคือซีการ์ดเซลล์!
 
 RESOURCE ID: quest_special_dialogue_zygarde_3_5_temp
-TEXT: แล้วเธอไปเอาเซลล์นั่นมาจากที่ไหนน่ะ จำที่ฉันพูดถึงเรื่องประหลาดบนเส้นทางก่อนหน้านี้ได้ไหม ฉันคิดว่าอาจจะเกี่ยวข้องกับซีการ์ดเซลล์ละ!
+TEXT: แล้วเธอไปเอาเซลล์นั่นมาจากที่ไหนน่ะ
+จำที่ฉันพูดถึงเรื่องประหลาดบนเส้นทาง
+ก่อนหน้านี้ได้ไหม ฉันคิดว่าอาจจะ
+เกี่ยวข้องกับซีการ์ดเซลล์ละ!
 
 RESOURCE ID: quest_special_dialogue_zygarde_3_6
 TEXT: ช่วยไปตรวจสอบดูได้ไหมว่าสมมติฐาน
@@ -120881,7 +120890,6 @@ TEXT: แสตมป์แรลลี GO สุดพิเศษเฉพา�
 
 RESOURCE ID: rally_japan_pokemoncenter_2026_desc_detail
 TEXT: แวะไปโปเกมอนเซ็นเตอร์ทั่วประเทศญี่ปุ่นเพื่อสะสมแสตมป์! โปเกมอนที่จับจากการสะสมแสตมป์แต่ละแห่งจะมีพื้นหลังสถานที่พิเศษ
-*Pokémon Center Mega Tokyo ปิดบริการชั่วคราว
 
 RESOURCE ID: rally_japan_pokemoncenter_2026_location
 TEXT: ญี่ปุ่น
@@ -123443,6 +123451,9 @@ TEXT: ครั้งสุดท้าย
 
 RESOURCE ID: route_learn_more_url
 TEXT: https://scopelyexplore.helpshift.com/hc/faq/1220-routes-faq/
+
+RESOURCE ID: route_learn_more_url_scopely_helpshift
+TEXT: https://scopelyexplore.helpshift.com/hc/th/5-pokemon-go/faq/1220-routes-faq/
 
 RESOURCE ID: route_list_context_title
 TEXT: List of pokestops
@@ -129150,6 +129161,9 @@ TEXT: ของขวัญพิเศษ!
 RESOURCE ID: shop_discount_disclaimer_helpshift_url
 TEXT: https://scopelyexplore.helpshift.com/hc/faq/1267-notice-regarding-discount-rates-displayed-in-the-shop/
 
+RESOURCE ID: shop_discount_disclaimer_helpshift_url_scopely_helpshift
+TEXT: https://scopelyexplore.helpshift.com/hc/th/5-pokemon-go/faq/1267-notice-regarding-discount-rates-displayed-in-the-shop/
+
 RESOURCE ID: shop_discount_disclaimer_modal_title
 TEXT: ลดราคาพิเศษเฉพาะช่วง
 
@@ -129158,6 +129172,9 @@ TEXT: ส่วนลดและตัวจับเวลา: แท็กส
 
 RESOURCE ID: shop_discount_disclaimer_publish_id
 TEXT: 4707
+
+RESOURCE ID: shop_discount_disclaimer_publish_id_scopely_helpshift
+TEXT: 1267
 
 RESOURCE ID: shop_enhanced_currency_title
 TEXT: ลิงก์ชาร์จไม่เพียงพอ
@@ -129555,6 +129572,9 @@ TEXT: สร้างบัญชีด้วย {0}
 
 RESOURCE ID: sign_in_bonus_key
 TEXT: ลงชื่อเข้าใช้หรือสร้างบัญชีเพื่อรับโบนัส!
+
+RESOURCE ID: sign_in_support_link_scopely_helpshift
+TEXT: https://scopelyexplore.helpshift.com/hc/th/5-pokemon-go/faq/1275-help-with-sign-in-issues/
 
 RESOURCE ID: sign_up_button
 TEXT: SIGN UP
@@ -130296,7 +130316,7 @@ RESOURCE ID: soft_sfida_title_pokemon_full
 TEXT: ที่เก็บโปเกมอนเต็ม
 
 RESOURCE ID: soft_sfida_tutorial_url
-TEXT: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1250-what-is-the-explorer-gadget/
+TEXT: https://scopelyexplore.helpshift.com/hc/th/5-pokemon-go/faq/1250-what-is-the-explorer-gadget/
 
 RESOURCE ID: soft_sfida_warn_items_full
 TEXT: กระเป๋าเก็บไอเท็มเต็ม
@@ -138398,6 +138418,9 @@ TEXT: รับบัตรตีบอสฟรีได้ถึง 3 ใบ�
 
 RESOURCE ID: three_strike_policy_url
 TEXT: https://scopelyexplore.helpshift.com/hc/faq/1305-gameplay-fairness-policy/
+
+RESOURCE ID: three_strike_policy_url_scopely_helpshift
+TEXT: https://scopelyexplore.helpshift.com/hc/th/5-pokemon-go/faq/1305-gameplay-fairness-policy/
 
 RESOURCE ID: throwback_2020_celebration
 TEXT: Throwback Challenge 2020 Celebration

@@ -45058,10 +45058,10 @@ RESOURCE ID: gofest2026_tokyo
 TEXT: Pokémon GO Fest 2026: Tokyo
 
 RESOURCE ID: gofest2026_battle_district
-TEXT: Battle District
+TEXT: Distrik Pertarungan
 
 RESOURCE ID: gofest2026_circuit_plaza
-TEXT: Circuit Plaza
+TEXT: Plaza Sirkuit
 
 RESOURCE ID: gofest2026_collection_district
 TEXT: Distrik Koleksi
@@ -45088,7 +45088,7 @@ RESOURCE ID: gofest2026_details_link
 TEXT: Untuk detail lebih lanjut, kunjungi <a href="https://pokemongo.com/news/road-of-legends-2026">situs web</a>.
 
 RESOURCE ID: gofest2026_eerie_alley
-TEXT: Eerie Alley
+TEXT: Gang Seram
 
 RESOURCE ID: gofest2026_finale_details_link
 TEXT: Untuk detail lebih lanjut, kunjungi <a href="https://Pokémongo.com/gofest/megafinale">situs GO Fest 2026: Mega Finale</a>.
@@ -45100,13 +45100,13 @@ RESOURCE ID: gofest2026_investigation_district
 TEXT: Distrik Investigasi
 
 RESOURCE ID: gofest2026_iron_frostworks
-TEXT: Iron Frostworks
+TEXT: Tambang Es
 
 RESOURCE ID: gofest2026_mindworks_canal
-TEXT: Mindworks Canal
+TEXT: Kanal Kinerja Pikiran
 
 RESOURCE ID: gofest2026_prism_promenade
-TEXT: Prism Promenade
+TEXT: Promenade Prisma
 
 RESOURCE ID: gofest2026_recruitment_zone
 TEXT: Zona Perekrutan
@@ -45124,10 +45124,10 @@ RESOURCE ID: gofest2026_scouting_district
 TEXT: Distrik Eksplorasi
 
 RESOURCE ID: gofest2026_skyline_roosts
-TEXT: Skyline Roosts
+TEXT: Tenggeran Cakrawala
 
 RESOURCE ID: gofest2026_verdant_overgrowth
-TEXT: Verdant Overgrowth
+TEXT: Vegetasi Semak Belukar
 
 RESOURCE ID: gofest_arlo_challenge#1
 TEXT: Kami telah mengambil alih perayaanmu, dan kamu masih bersikeras menantangku? Bersiaplah untuk menghadapi kenyataan pahit.
@@ -59285,10 +59285,10 @@ at SHA 12701f1c07ae7f07a5d50583f697320977df7988
 Pipeline 1139111, job 13470914
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-08-21T22:45:32.872454+00:00 for id-ID
-at SHA 222138e7072
-Pipeline 3890765, job 57214802
-Patch from: 0.425.0-SHA-e7185dda-RC1, 0.423.1-SHA-70644676-RC1, 0.427.0-SHA-fc729f25-RC2
+TEXT: Built at 2026-08-25T00:39:24.215034+00:00 for id-ID
+at SHA 327cb4e2544
+Pipeline 3895507, job 57281112
+Patch from: 0.427.0-SHA-bafb3348-RC1, 0.425.1-SHA-966e4c2a-RC1
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: Penelitian Berwaktu: Pilih Tipe Petarungmu
@@ -107672,7 +107672,6 @@ TEXT: Reli Stempel GO eksklusif yang hanya tersedia di Pokémon Center di Jepang
 
 RESOURCE ID: rally_japan_pokemoncenter_2026_desc_detail
 TEXT: Kumpulkan stempel dengan mengunjungi Pokémon Center di seluruh Jepang! Pokémon yang ditangkap dari hadiah pertemuan dapat memiliki Latar Belakang Lokasi yang unik.
-*Pokémon Center Mega Tokyo ditutup untuk sementara.
 
 RESOURCE ID: rally_japan_pokemoncenter_2026_location
 TEXT: Jepang
@@ -110144,6 +110143,9 @@ TEXT: Terakhir
 
 RESOURCE ID: route_learn_more_url
 TEXT: https://scopelyexplore.helpshift.com/hc/faq/1220-routes-faq/
+
+RESOURCE ID: route_learn_more_url_scopely_helpshift
+TEXT: https://scopelyexplore.helpshift.com/hc/id/5-pokemon-go/faq/1220-routes-faq/
 
 RESOURCE ID: route_list_context_title
 TEXT: List of PokéStops or Gyms
@@ -115545,6 +115547,9 @@ TEXT: Hadiah spesial!
 RESOURCE ID: shop_discount_disclaimer_helpshift_url
 TEXT: https://scopelyexplore.helpshift.com/hc/faq/1267-notice-regarding-discount-rates-displayed-in-the-shop/
 
+RESOURCE ID: shop_discount_disclaimer_helpshift_url_scopely_helpshift
+TEXT: https://scopelyexplore.helpshift.com/hc/id/5-pokemon-go/faq/1267-notice-regarding-discount-rates-displayed-in-the-shop/
+
 RESOURCE ID: shop_discount_disclaimer_modal_title
 TEXT: Diskon Edisi Terbatas
 
@@ -115553,6 +115558,9 @@ TEXT: Diskon dan Pewaktu: Label diskon yang ditunjukkan untuk bundel item di Tok
 
 RESOURCE ID: shop_discount_disclaimer_publish_id
 TEXT: 4707
+
+RESOURCE ID: shop_discount_disclaimer_publish_id_scopely_helpshift
+TEXT: 1267
 
 RESOURCE ID: shop_enhanced_currency_title
 TEXT: Muatan Link tidak cukup
@@ -115918,6 +115926,9 @@ TEXT: Buat akun dengan {0}
 
 RESOURCE ID: sign_in_bonus_key
 TEXT: Masuk atau buat akun untuk menerima bonus.
+
+RESOURCE ID: sign_in_support_link_scopely_helpshift
+TEXT: https://scopelyexplore.helpshift.com/hc/id/5-pokemon-go/faq/1275-help-with-sign-in-issues/
 
 RESOURCE ID: sign_up_button
 TEXT: SIGN UP
@@ -116651,7 +116662,7 @@ RESOURCE ID: soft_sfida_title_pokemon_full
 TEXT: Penyimpanan Pokémon penuh.
 
 RESOURCE ID: soft_sfida_tutorial_url
-TEXT: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1250-what-is-the-explorer-gadget/
+TEXT: https://scopelyexplore.helpshift.com/hc/id/5-pokemon-go/faq/1250-what-is-the-explorer-gadget/
 
 RESOURCE ID: soft_sfida_warn_items_full
 TEXT: Tas Item penuh.
@@ -123643,6 +123654,9 @@ TEXT: Dapatkan hingga tiga Tiket Raid gratis dengan memutar Disk Foto di Gym
 
 RESOURCE ID: three_strike_policy_url
 TEXT: https://scopelyexplore.helpshift.com/hc/faq/1305-gameplay-fairness-policy/
+
+RESOURCE ID: three_strike_policy_url_scopely_helpshift
+TEXT: https://scopelyexplore.helpshift.com/hc/id/5-pokemon-go/faq/1305-gameplay-fairness-policy/
 
 RESOURCE ID: throwback_2020_celebration
 TEXT: Perayaan Tantangan Kilas Balik 2020

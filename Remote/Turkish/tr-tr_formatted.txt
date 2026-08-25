@@ -45182,16 +45182,16 @@ RESOURCE ID: gofest2026_copenhagen
 TEXT: Pokémon GO Festivali 2026: Kopenhag
 
 RESOURCE ID: gofest2026_tag
-TEXT: GO Fest 2026: Mega Finale
+TEXT: GO Festivali 2026: Mega Final
 
 RESOURCE ID: gofest2026_tokyo
 TEXT: Pokémon GO Festivali 2026: Tokyo
 
 RESOURCE ID: gofest2026_battle_district
-TEXT: Battle District
+TEXT: Maç Mahallesi
 
 RESOURCE ID: gofest2026_circuit_plaza
-TEXT: Circuit Plaza
+TEXT: Voltaj Meydanı
 
 RESOURCE ID: gofest2026_collection_district
 TEXT: Toplama Mahallesi
@@ -45218,7 +45218,7 @@ RESOURCE ID: gofest2026_details_link
 TEXT: Ayrıntıları <a href="https://pokemongo.com/news/road-of-legends-2026">internet sitemizden</a> öğrenebilirsiniz.
 
 RESOURCE ID: gofest2026_eerie_alley
-TEXT: Eerie Alley
+TEXT: Ürkütücü Sokak
 
 RESOURCE ID: gofest2026_finale_details_link
 TEXT: Ayrıntıları <a href="https://Pokémongo.com/gofest/megafinale">GO Festivali 2026: Mega Final internet sitesinden</a> öğrenebilirsiniz.
@@ -45230,13 +45230,13 @@ RESOURCE ID: gofest2026_investigation_district
 TEXT: Dedektiflik Mahallesi
 
 RESOURCE ID: gofest2026_iron_frostworks
-TEXT: Iron Frostworks
+TEXT: Demirden Devler
 
 RESOURCE ID: gofest2026_mindworks_canal
-TEXT: Mindworks Canal
+TEXT: Zihin Patikası
 
 RESOURCE ID: gofest2026_prism_promenade
-TEXT: Prism Promenade
+TEXT: Tuhaflıklar Geçidi
 
 RESOURCE ID: gofest2026_recruitment_zone
 TEXT: Şampiyon Bölgesi
@@ -45254,10 +45254,10 @@ RESOURCE ID: gofest2026_scouting_district
 TEXT: Keşif Mahallesi
 
 RESOURCE ID: gofest2026_skyline_roosts
-TEXT: Skyline Roosts
+TEXT: Gökyüzü Tünekleri
 
 RESOURCE ID: gofest2026_verdant_overgrowth
-TEXT: Verdant Overgrowth
+TEXT: Devasa Yeşillik
 
 RESOURCE ID: gofest_arlo_challenge#1
 TEXT: Kutlamanızı ele geçirdik ve sen hâlâ bana meydan okumak mı istiyorsun? Acı gerçeklerle yüzleşmeye hazırlan.
@@ -59436,10 +59436,10 @@ at SHA 413df5befdbe0d00a543f8a142221526d63b719a
 Pipeline 834428, job 8736424
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-08-21T22:45:32.872454+00:00 for tr-TR
-at SHA 222138e7072
-Pipeline 3890765, job 57214802
-Patch from: 0.425.0-SHA-e7185dda-RC1, 0.423.1-SHA-70644676-RC1, 0.427.0-SHA-fc729f25-RC2
+TEXT: Built at 2026-08-25T00:39:24.215034+00:00 for tr-TR
+at SHA 327cb4e2544
+Pipeline 3895507, job 57281112
+Patch from: 0.427.0-SHA-bafb3348-RC1, 0.425.1-SHA-966e4c2a-RC1
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: Süreli Araştırma: Dövüşçünüzü Seçin
@@ -107766,7 +107766,6 @@ TEXT: Özel GO Damga Toplama etkinliği yalnızca Japonya’daki Pokémon Center
 
 RESOURCE ID: rally_japan_pokemoncenter_2026_desc_detail
 TEXT: Japonya çapındaki Pokémon Center’ları ziyaret ederek damga toplayın! Ödül karşılaşmalarında yakalanan Pokémon’lar eşsiz bir konum arka planına sahip olabilir.
-*Pokémon Center Mega Tokyo geçici olarak kapalıdır.
 
 RESOURCE ID: rally_japan_pokemoncenter_2026_location
 TEXT: Japonya
@@ -110239,6 +110238,9 @@ TEXT: Son Gezi
 
 RESOURCE ID: route_learn_more_url
 TEXT: https://scopelyexplore.helpshift.com/hc/faq/1220-routes-faq/
+
+RESOURCE ID: route_learn_more_url_scopely_helpshift
+TEXT: https://scopelyexplore.helpshift.com/hc/tr/5-pokemon-go/faq/1220-routes-faq/
 
 RESOURCE ID: route_list_context_title
 TEXT: List of pokestops
@@ -115413,7 +115415,7 @@ RESOURCE ID: shelmetkarrablast_post_cd_timed_research_name
 TEXT: Shelmet ve Karrablast Topluluk Gününün Devamı Süreli Araştırması
 
 RESOURCE ID: shield_break_adventure_effect_battle_log
-TEXT: YOUR ATTACKS ARE BOOSTED BY DYNAMIC PUNCH+’S ADVENTURE EFFECT!
+TEXT: SALDIRILARINIZ DİNAMİK YUMRUK+ MACERA ETKİSİ TARAFINDAN GÜÇLENDİRİLDİ!
 
 RESOURCE ID: shinjuku_cross_title
 TEXT: クロス新宿ビジョン
@@ -115628,6 +115630,9 @@ TEXT: Özel bir hediye!
 RESOURCE ID: shop_discount_disclaimer_helpshift_url
 TEXT: https://scopelyexplore.helpshift.com/hc/faq/1267-notice-regarding-discount-rates-displayed-in-the-shop/
 
+RESOURCE ID: shop_discount_disclaimer_helpshift_url_scopely_helpshift
+TEXT: https://scopelyexplore.helpshift.com/hc/tr/5-pokemon-go/faq/1267-notice-regarding-discount-rates-displayed-in-the-shop/
+
 RESOURCE ID: shop_discount_disclaimer_modal_title
 TEXT: Sınırlı Süreli İndirim
 
@@ -115636,6 +115641,9 @@ TEXT: İndirimler ve Sayaçlar: Mağazadaki eşya paketleri üzerinde yer alan i
 
 RESOURCE ID: shop_discount_disclaimer_publish_id
 TEXT: 4707
+
+RESOURCE ID: shop_discount_disclaimer_publish_id_scopely_helpshift
+TEXT: 1267
 
 RESOURCE ID: shop_enhanced_currency_title
 TEXT: Bağlantı Şarjı yetersiz.
@@ -116001,6 +116009,9 @@ TEXT: {0} ile hesap oluştur
 
 RESOURCE ID: sign_in_bonus_key
 TEXT: Bonuslar kazanmak için giriş yapın veya bir hesap oluşturun.
+
+RESOURCE ID: sign_in_support_link_scopely_helpshift
+TEXT: https://scopelyexplore.helpshift.com/hc/tr/5-pokemon-go/faq/1275-help-with-sign-in-issues/
 
 RESOURCE ID: sign_up_button
 TEXT: SIGN UP
@@ -116734,7 +116745,7 @@ RESOURCE ID: soft_sfida_title_pokemon_full
 TEXT: Pokémon deponuz dolu.
 
 RESOURCE ID: soft_sfida_tutorial_url
-TEXT: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1250-what-is-the-explorer-gadget/
+TEXT: https://scopelyexplore.helpshift.com/hc/tr/5-pokemon-go/faq/1250-what-is-the-explorer-gadget/
 
 RESOURCE ID: soft_sfida_warn_items_full
 TEXT: Eşya Çantası dolu.
@@ -123733,6 +123744,9 @@ TEXT: Spor Salonlarındaki Fotoğraf Disklerini döndürerek ücretsiz olarak ü
 
 RESOURCE ID: three_strike_policy_url
 TEXT: https://scopelyexplore.helpshift.com/hc/faq/1305-gameplay-fairness-policy/
+
+RESOURCE ID: three_strike_policy_url_scopely_helpshift
+TEXT: https://scopelyexplore.helpshift.com/hc/tr/5-pokemon-go/faq/1305-gameplay-fairness-policy/
 
 RESOURCE ID: throwback_2020_celebration
 TEXT: Geçmişi Anma Görevi 2020 Kutlaması

@@ -48043,16 +48043,16 @@ RESOURCE ID: gofest2026_copenhagen
 TEXT: Festival de Pokémon GO 2026: Copenhague
 
 RESOURCE ID: gofest2026_tag
-TEXT: GO Fest 2026: Mega Finale
+TEXT: Festival de GO 2026: Megaclausura
 
 RESOURCE ID: gofest2026_tokyo
 TEXT: Festival de Pokémon GO 2026: Tokio
 
 RESOURCE ID: gofest2026_battle_district
-TEXT: Battle District
+TEXT: Distrito Combate
 
 RESOURCE ID: gofest2026_circuit_plaza
-TEXT: Circuit Plaza
+TEXT: Plaza Circuito
 
 RESOURCE ID: gofest2026_collection_district
 TEXT: Distrito Colección
@@ -48079,7 +48079,7 @@ RESOURCE ID: gofest2026_details_link
 TEXT: Para obtener más información, visita el  <a href="https://pokemongo.com/news/road-of-legends-2026">sitio web</a>.
 
 RESOURCE ID: gofest2026_eerie_alley
-TEXT: Eerie Alley
+TEXT: Callejón Espeluznante
 
 RESOURCE ID: gofest2026_finale_details_link
 TEXT: Para obtener más información, visita el <a href="https://Pokémongo.com/gofest/megafinale">sitio web del Festival de GO 2026: Megaclausura</a>.
@@ -48091,13 +48091,13 @@ RESOURCE ID: gofest2026_investigation_district
 TEXT: Distrito Investigación
 
 RESOURCE ID: gofest2026_iron_frostworks
-TEXT: Iron Frostworks
+TEXT: Hielo Férreo
 
 RESOURCE ID: gofest2026_mindworks_canal
-TEXT: Mindworks Canal
+TEXT: Canal Mental
 
 RESOURCE ID: gofest2026_prism_promenade
-TEXT: Prism Promenade
+TEXT: Rambla Fantástica
 
 RESOURCE ID: gofest2026_recruitment_zone
 TEXT: Zona Unión
@@ -48115,10 +48115,10 @@ RESOURCE ID: gofest2026_scouting_district
 TEXT: Distrito Exploración
 
 RESOURCE ID: gofest2026_skyline_roosts
-TEXT: Skyline Roosts
+TEXT: Nidos Estelares
 
 RESOURCE ID: gofest2026_verdant_overgrowth
-TEXT: Verdant Overgrowth
+TEXT: Verdor Frondoso
 
 RESOURCE ID: gofest_arlo_challenge#1
 TEXT: Hemos tomado el control de esta celebración, ¿y aun así insistes en desafiarme? Prepárate para darte de bruces con la realidad.
@@ -62326,10 +62326,10 @@ at SHA 4d4f3e80cc7fb911006bd14d198c9831ef66d005
 Pipeline 339838, job 2672172
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-08-21T22:45:32.872454+00:00 for es-ES
-at SHA 222138e7072
-Pipeline 3890765, job 57214802
-Patch from: 0.425.0-SHA-e7185dda-RC1, 0.423.1-SHA-70644676-RC1, 0.427.0-SHA-fc729f25-RC2
+TEXT: Built at 2026-08-25T00:39:24.215034+00:00 for es-ES
+at SHA 327cb4e2544
+Pipeline 3895507, job 57281112
+Patch from: 0.427.0-SHA-bafb3348-RC1, 0.425.1-SHA-966e4c2a-RC1
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: Investigación temporal: Elige tu tipo de lucha
@@ -110863,7 +110863,6 @@ TEXT: ¡Caza de sellos de GO exclusiva y solo disponible en los Pokémon Center 
 
 RESOURCE ID: rally_japan_pokemoncenter_2026_desc_detail
 TEXT: ¡Colecciona sellos visitando los Pokémon Center de Japón! Los Pokémon que captures en los encuentros de recompensa podrán tener un fondo de lugar exclusivo.
-*Pokémon Center Mega Tokyo está cerrado temporalmente.
 
 RESOURCE ID: rally_japan_pokemoncenter_2026_location
 TEXT: Japón
@@ -113337,6 +113336,9 @@ TEXT: Último trayecto
 
 RESOURCE ID: route_learn_more_url
 TEXT: https://scopelyexplore.helpshift.com/hc/faq/1220-routes-faq/
+
+RESOURCE ID: route_learn_more_url_scopely_helpshift
+TEXT: https://scopelyexplore.helpshift.com/hc/es/5-pokemon-go/faq/1220-routes-faq/
 
 RESOURCE ID: route_list_context_title
 TEXT: List of pokestops
@@ -118529,7 +118531,7 @@ RESOURCE ID: shelmetkarrablast_post_cd_timed_research_name
 TEXT: Investigación temporal: prolongación del Día de la Comunidad de Shelmet y Karrablast
 
 RESOURCE ID: shield_break_adventure_effect_battle_log
-TEXT: YOUR ATTACKS ARE BOOSTED BY DYNAMIC PUNCH+’S ADVENTURE EFFECT!
+TEXT: ¡TUS ATAQUES ESTÁN POTENCIADOS GRACIAS AL EFECTO AVENTURA DE PUÑO DINÁMICO+!
 
 RESOURCE ID: shinjuku_cross_title
 TEXT: クロス新宿ビジョン
@@ -118744,6 +118746,9 @@ TEXT: ¡Un regalo especial de parte del Profesor!
 RESOURCE ID: shop_discount_disclaimer_helpshift_url
 TEXT: https://scopelyexplore.helpshift.com/hc/faq/1267-notice-regarding-discount-rates-displayed-in-the-shop/
 
+RESOURCE ID: shop_discount_disclaimer_helpshift_url_scopely_helpshift
+TEXT: https://scopelyexplore.helpshift.com/hc/es/5-pokemon-go/faq/1267-notice-regarding-discount-rates-displayed-in-the-shop/
+
 RESOURCE ID: shop_discount_disclaimer_modal_title
 TEXT: Descuentos solo por tiempo limitado
 
@@ -118752,6 +118757,9 @@ TEXT: Descuentos y cuentas atrás: Las etiquetas de descuento de los packs de ob
 
 RESOURCE ID: shop_discount_disclaimer_publish_id
 TEXT: 4707
+
+RESOURCE ID: shop_discount_disclaimer_publish_id_scopely_helpshift
+TEXT: 1267
 
 RESOURCE ID: shop_enhanced_currency_title
 TEXT: No tienes suficientes Cargas Unión.
@@ -119117,6 +119125,9 @@ TEXT: Crea una cuenta con {0}
 
 RESOURCE ID: sign_in_bonus_key
 TEXT: Inicia sesión o crea una cuenta para recibir bonus.
+
+RESOURCE ID: sign_in_support_link_scopely_helpshift
+TEXT: https://scopelyexplore.helpshift.com/hc/es/5-pokemon-go/faq/1275-help-with-sign-in-issues/
 
 RESOURCE ID: sign_up_button
 TEXT: SIGN UP
@@ -119848,7 +119859,7 @@ RESOURCE ID: soft_sfida_title_pokemon_full
 TEXT: Tu almacenamiento de Pokémon está lleno.
 
 RESOURCE ID: soft_sfida_tutorial_url
-TEXT: https://scopelyexplore.helpshift.com/hc/en/5-pokemon-go/faq/1250-what-is-the-explorer-gadget/
+TEXT: https://scopelyexplore.helpshift.com/hc/es/5-pokemon-go/faq/1250-what-is-the-explorer-gadget/
 
 RESOURCE ID: soft_sfida_warn_items_full
 TEXT: La Bolsa está llena.
@@ -126851,6 +126862,9 @@ TEXT: Recibe hasta tres pases de incursión sin coste dando vueltas a fotodiscos
 
 RESOURCE ID: three_strike_policy_url
 TEXT: https://scopelyexplore.helpshift.com/hc/faq/1305-gameplay-fairness-policy/
+
+RESOURCE ID: three_strike_policy_url_scopely_helpshift
+TEXT: https://scopelyexplore.helpshift.com/hc/es/5-pokemon-go/faq/1305-gameplay-fairness-policy/
 
 RESOURCE ID: throwback_2020_celebration
 TEXT: Throwback Challenge 2020 Celebration
