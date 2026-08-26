@@ -27673,6 +27673,9 @@ TEXT: GO Maç Ligi: Hatıralar Canlanıyor
 RESOURCE ID: combat_title_season_23
 TEXT: GO Maç Ligi: Daima İleri
 
+RESOURCE ID: combat_title_season_24
+TEXT: GO Maç Ligi: Akşamüstü Keyfi
+
 RESOURCE ID: combat_ultra_league
 TEXT: Ultra Lig
 
@@ -32759,6 +32762,9 @@ TEXT: Şu Anki Sezon: Hatıralar Canlanıyor
 
 RESOURCE ID: event_season23_name
 TEXT: Şu Anki Sezon: Daima İleri
+
+RESOURCE ID: event_season24_name
+TEXT: Şu Anki Sezon: Akşamüstü Keyfi
 
 RESOURCE ID: event_season3_name
 TEXT: Keşif Sezonu
@@ -53904,10 +53910,10 @@ RESOURCE ID: keyboard_symbols
 TEXT: Semboller
 
 RESOURCE ID: kindling_2026_mini_collection
-TEXT: Kanto Homecoming: Road to Mewtwo
+TEXT: Kanto Yuvaya Dönüş: Mewtwo’ya Doğru
 
 RESOURCE ID: kindling_2026_mini_collection_desc
-TEXT: Catch the Pokémon from the Kanto Homecoming Timed Research to encounter Mewtwo!
+TEXT: Kanto Yuvaya Dönüş süreli araştırmasında Pokémon yakalayın, Mewtwo ile karşılaşın!
 
 RESOURCE ID: kingler_gmax_tr_2025_title
 TEXT: Gigantamaks Kingler Premium Süreli Araştırması
@@ -59436,10 +59442,10 @@ at SHA 413df5befdbe0d00a543f8a142221526d63b719a
 Pipeline 834428, job 8736424
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-08-25T00:39:24.215034+00:00 for tr-TR
-at SHA 327cb4e2544
-Pipeline 3895507, job 57281112
-Patch from: 0.427.0-SHA-bafb3348-RC1, 0.425.1-SHA-966e4c2a-RC1
+TEXT: Built at 2026-08-26T01:07:20.006486+00:00 for tr-TR
+at SHA 2e2920214a9
+Pipeline 3898520, job 57331254
+Patch from: 0.427.0-SHA-05b59ce2-RC3, 0.425.1-SHA-966e4c2a-RC1
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: Süreli Araştırma: Dövüşçünüzü Seçin
@@ -81871,7 +81877,7 @@ RESOURCE ID: quest_catch_kanto_pokemon
 TEXT: İlk olarak Kanto bölgesinde keşfedilmiş {0} Pokémon yakalayın
 
 RESOURCE ID: quest_catch_kanto_pokemon_days
-TEXT: Catch Pokémon originally discovered in the Kanto region on {0} different days
+TEXT: {0} farklı gün ilk olarak Kanto bölgesinde keşfedilmiş Pokémon yakalayın
 
 RESOURCE ID: quest_catch_kanto_starters_plural
 TEXT: {0} Bulbasaur, Charmander veya Squirtle yakalayın
@@ -113449,6 +113455,9 @@ TEXT: Hatıralar Canlanıyor
 RESOURCE ID: season23_forever_forward
 TEXT: Daima İleri
 
+RESOURCE ID: season24_twilight_trails
+TEXT: Akşamüstü Keyfi
+
 RESOURCE ID: season_gbl_forecast_title_7
 TEXT: Season of GO
 
@@ -113496,6 +113505,9 @@ TEXT: Pokémon GO: Hatıralar Canlanıyor
 
 RESOURCE ID: season_gbl_forecast_title_23
 TEXT: Pokémon GO: Daima İleri
+
+RESOURCE ID: season_gbl_forecast_title_24
+TEXT: Pokémon GO: Akşamüstü Keyfi
 
 RESOURCE ID: season_partner_research_ltd_amazon_gaming
 TEXT: Limited Partner Research - Hidden Gems : Amazon Prime Gaming
@@ -113790,6 +113802,9 @@ TEXT: Ayrıntıları <a href="https://pokemongo.com/go-pass">internet sitemizden
 
 RESOURCE ID: season_pass_details_link_october2025
 TEXT: Ayrıntıları <a href="https://pokemongo.com/go-pass">internet sitemizden</a> öğrenebilirsiniz.
+
+RESOURCE ID: season_pass_details_link_sep2026
+TEXT: Ayrıntıları <a href="https://pokemongo.com/news/go-pass-september-2026">internet sitemizden</a> öğrenebilirsiniz.
 
 RESOURCE ID: season_pass_details_link_september2025
 TEXT: Ayrıntıları <a href="https://pokemongo.com/go-pass">internet sitemizden</a> öğrenebilirsiniz.
@@ -114200,6 +114215,19 @@ TEXT: Lüks GO Bileti: PokémonXP ve 2026 Dünya Şampiyonası
 
 RESOURCE ID: season_pass_premium_track_title_winter_holidays_2025
 TEXT: Lüks GO Bileti: Kış Tatili 2025
+
+RESOURCE ID: season_pass_sep2026_event_duration
+TEXT: 8 Eylül-6 Ekim
+
+RESOURCE ID: season_pass_sep2026_track_upgrade_header_description
+TEXT: 20. rütbede ilave ödüller kazanıp <b>Süreli Kuluçka Makinesinin</b> kilidini açabilirsiniz!
+
+RESOURCE ID: season_pass_sep2026_upgrade_description
+TEXT: Lüks GO Bileti: Eylül’ü satın alarak şu ödüllerin kilidini açabilirsiniz:
+
+• Bir Süper Kuluçka Makinesi
+• Keşif yaparken yumurta çatlatmak için sınırlı süreliğine kullanabileceğiniz ilave bir sonsuz Kuluçka Makinesi olan bir <a href="https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2358-incubators-hatching-pokemon-eggs/">Süreli Kuluçka Makinesi</a>!
+• Ve daha fazlası!
 
 RESOURCE ID: season_pass_september2025_event_duration
 TEXT: 2 Eylül-7 Ekim
@@ -125424,7 +125452,7 @@ RESOURCE ID: today_view_upcoming_events_today_marker
 TEXT: BUGÜN
 
 RESOURCE ID: today_view_welcome_back_tab_label
-TEXT: Kanto Homecoming
+TEXT: Kanto Yuvaya Dönüş
 
 RESOURCE ID: toggle_item_equip
 TEXT: KUŞAN
@@ -127224,40 +127252,40 @@ RESOURCE ID: tr_jp2025_aeon_mall_header_01
 TEXT: Pokémon GO Mega Eğitim! Süreli Araştırması (2/2)
 
 RESOURCE ID: tr_kindling_2026_set_01_header
-TEXT: Kanto Homecoming Timed Research (1/12)
+TEXT: Kanto Yuvaya Dönüş Süreli Araştırması (1/12)
 
 RESOURCE ID: tr_kindling_2026_set_02_header
-TEXT: Kanto Homecoming Timed Research (2/12)
+TEXT: Kanto Yuvaya Dönüş Süreli Araştırması (2/12)
 
 RESOURCE ID: tr_kindling_2026_set_03_header
-TEXT: Kanto Homecoming Timed Research (3/12)
+TEXT: Kanto Yuvaya Dönüş Süreli Araştırması (3/12)
 
 RESOURCE ID: tr_kindling_2026_set_04_header
-TEXT: Kanto Homecoming Timed Research (4/12)
+TEXT: Kanto Yuvaya Dönüş Süreli Araştırması (4/12)
 
 RESOURCE ID: tr_kindling_2026_set_05_header
-TEXT: Kanto Homecoming Timed Research (5/12)
+TEXT: Kanto Yuvaya Dönüş Süreli Araştırması (5/12)
 
 RESOURCE ID: tr_kindling_2026_set_06_header
-TEXT: Kanto Homecoming Timed Research (6/12)
+TEXT: Kanto Yuvaya Dönüş Süreli Araştırması (6/12)
 
 RESOURCE ID: tr_kindling_2026_set_07_header
-TEXT: Kanto Homecoming Timed Research (7/12)
+TEXT: Kanto Yuvaya Dönüş Süreli Araştırması (7/12)
 
 RESOURCE ID: tr_kindling_2026_set_08_header
-TEXT: Kanto Homecoming Timed Research (8/12)
+TEXT: Kanto Yuvaya Dönüş Süreli Araştırması (8/12)
 
 RESOURCE ID: tr_kindling_2026_set_09_header
-TEXT: Kanto Homecoming Timed Research (9/12)
+TEXT: Kanto Yuvaya Dönüş Süreli Araştırması (9/12)
 
 RESOURCE ID: tr_kindling_2026_set_10_header
-TEXT: Kanto Homecoming Timed Research (10/12)
+TEXT: Kanto Yuvaya Dönüş Süreli Araştırması (10/12)
 
 RESOURCE ID: tr_kindling_2026_set_11_header
-TEXT: Kanto Homecoming Timed Research (11/12)
+TEXT: Kanto Yuvaya Dönüş Süreli Araştırması (11/12)
 
 RESOURCE ID: tr_kindling_2026_set_12_header
-TEXT: Kanto Homecoming Timed Research (12/12)
+TEXT: Kanto Yuvaya Dönüş Süreli Araştırması (12/12)
 
 RESOURCE ID: tr_kr2025_retention_cherryblossom_title
 TEXT: Kiraz Çiçeği Görevi

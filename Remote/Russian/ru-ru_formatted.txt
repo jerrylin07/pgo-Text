@@ -29860,6 +29860,9 @@ TEXT: Боевая Лига GO: Ожившие Воспоминания
 RESOURCE ID: combat_title_season_23
 TEXT: Боевая Лига GO: Всегда Вперёд
 
+RESOURCE ID: combat_title_season_24
+TEXT: Боевая Лига GO: Сумеречные Тропы
+
 RESOURCE ID: combat_ultra_league
 TEXT: Ultra League
 
@@ -34949,6 +34952,9 @@ TEXT: Текущий Сезон: Ожившие Воспоминания
 
 RESOURCE ID: event_season23_name
 TEXT: Текущий Сезон: Всегда Вперёд
+
+RESOURCE ID: event_season24_name
+TEXT: Текущий Сезон: Сумеречные Тропы
 
 RESOURCE ID: event_season3_name
 TEXT: Сезон открытий
@@ -56198,10 +56204,10 @@ RESOURCE ID: keyboard_symbols
 TEXT: Символы
 
 RESOURCE ID: kindling_2026_mini_collection
-TEXT: Kanto Homecoming: Road to Mewtwo
+TEXT: Назад в Канто: Дорога к Мьюту
 
 RESOURCE ID: kindling_2026_mini_collection_desc
-TEXT: Catch the Pokémon from the Kanto Homecoming Timed Research to encounter Mewtwo!
+TEXT: Поймай Покемонов в Квесте на Время Назад в Канто, чтобы встретить Мьюту!
 
 RESOURCE ID: kingler_gmax_tr_2025_title
 TEXT: Премиум-квест на время Гигантамакс-Кинглер
@@ -61746,10 +61752,10 @@ at SHA bacc02371739993984570a6f5b31a993cf3b031b
 Pipeline 498004, job 4265729
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-08-25T00:39:24.215034+00:00 for ru-RU
-at SHA 327cb4e2544
-Pipeline 3895507, job 57281112
-Patch from: 0.427.0-SHA-bafb3348-RC1, 0.425.1-SHA-966e4c2a-RC1
+TEXT: Built at 2026-08-26T01:07:20.006486+00:00 for ru-RU
+at SHA 2e2920214a9
+Pipeline 3898520, job 57331254
+Patch from: 0.427.0-SHA-05b59ce2-RC3, 0.425.1-SHA-966e4c2a-RC1
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: ‎Квест на время: Боевой тип
@@ -84245,7 +84251,7 @@ RESOURCE ID: quest_catch_kanto_pokemon
 TEXT: Поймай Покемонов, впервые обнаруженных в регионе Канто ×{0}
 
 RESOURCE ID: quest_catch_kanto_pokemon_days
-TEXT: Catch Pokémon originally discovered in the Kanto region on {0} different days
+TEXT: Поймай Покемонов, впервые обнаруженных в регионе Канто в разные дни ×{0}
 
 RESOURCE ID: quest_catch_kanto_starters_plural
 TEXT: Поймай Бульбазавра, Чармандера или Сквиртла ×{0}
@@ -115943,6 +115949,9 @@ TEXT: Ожившие Воспоминания
 RESOURCE ID: season23_forever_forward
 TEXT: Всегда Вперёд
 
+RESOURCE ID: season24_twilight_trails
+TEXT: Сумеречные Тропы
+
 RESOURCE ID: season_gbl_forecast_title_7
 TEXT: Сезон GO
 
@@ -115990,6 +115999,9 @@ TEXT: Pokémon GO: Ожившие Воспоминания
 
 RESOURCE ID: season_gbl_forecast_title_23
 TEXT: Pokémon GO: Всегда Вперёд
+
+RESOURCE ID: season_gbl_forecast_title_24
+TEXT: Pokémon GO: Сумеречные Тропы
 
 RESOURCE ID: season_partner_research_ltd_amazon_gaming
 TEXT: Limited Partner Research - Hidden Gems : Amazon Prime Gaming
@@ -116290,6 +116302,9 @@ TEXT: Чтобы узнать больше, посети <a href="https://pokemo
 
 RESOURCE ID: season_pass_details_link_october2025
 TEXT: Чтобы узнать больше, посети <a href="https://pokemongo.com/go-pass">этот сайт</a>.
+
+RESOURCE ID: season_pass_details_link_sep2026
+TEXT: Чтобы узнать больше, посети <a href="https://pokemongo.com/news/go-pass-september-2026">этот сайт</a>.
 
 RESOURCE ID: season_pass_details_link_september2025
 TEXT: Чтобы узнать больше, посети <a href="https://pokemongo.com/go-pass">этот сайт</a>.
@@ -116707,6 +116722,19 @@ TEXT: Делюкс-Пропуск GO: PokémonXP и ЧМ 2026
 
 RESOURCE ID: season_pass_premium_track_title_winter_holidays_2025
 TEXT: Делюкс-Пропуск GO: Зимний Праздник 2025
+
+RESOURCE ID: season_pass_sep2026_event_duration
+TEXT: 8 сентября – 6 октября
+
+RESOURCE ID: season_pass_sep2026_track_upgrade_header_description
+TEXT: Заработай дополнительные награды и получи доступ к <b>Временному Инкубатору</b> в Ранге 20!
+
+RESOURCE ID: season_pass_sep2026_upgrade_description
+TEXT: Приобрети Делюкс-Пропуск GO: Сентябрь, чтобы получить доступ к следующим наградам!
+
+• 1 Суперинкубатор
+• 1 <a href="https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2358-incubators-hatching-pokemon-eggs/">Временный Инкубатор</a> – это дополнительный бесконечный Инкубатор с ограниченным сроком действия для вынашивания Яиц во время исследований!
+• И многим другим!
 
 RESOURCE ID: season_pass_september2025_event_duration
 TEXT: 2 сентября – 7 октября
@@ -117923,7 +117951,7 @@ RESOURCE ID: shelmetkarrablast_post_cd_timed_research_name
 TEXT: Квест на время День сообщества Шелмет и Каррабласт – Продолжение
 
 RESOURCE ID: shield_break_adventure_effect_battle_log
-TEXT: YOUR ATTACKS ARE BOOSTED BY DYNAMIC PUNCH+’S ADVENTURE EFFECT!
+TEXT: ТВОИ АТАКИ УСИЛЕНЫ ЭФФЕКТОМ ПРИКЛЮЧЕНИЙ АТАКИ ДИНАМИЧЕСКИЙ УДАР+!
 
 RESOURCE ID: shinjuku_cross_title
 TEXT: クロス新宿ビジョン
@@ -127937,7 +127965,7 @@ RESOURCE ID: today_view_upcoming_events_today_marker
 TEXT: СЕГОДНЯ
 
 RESOURCE ID: today_view_welcome_back_tab_label
-TEXT: Kanto Homecoming
+TEXT: Назад в Канто
 
 RESOURCE ID: toggle_item_equip
 TEXT: EQUIP
@@ -129737,40 +129765,40 @@ RESOURCE ID: tr_jp2025_aeon_mall_header_01
 TEXT: Квест на Время Мегатренировка Pokémon GO! (2/2)
 
 RESOURCE ID: tr_kindling_2026_set_01_header
-TEXT: Kanto Homecoming Timed Research (1/12)
+TEXT: Квест на Время Назад в Канто (1/12)
 
 RESOURCE ID: tr_kindling_2026_set_02_header
-TEXT: Kanto Homecoming Timed Research (2/12)
+TEXT: Квест на Время Назад в Канто (2/12)
 
 RESOURCE ID: tr_kindling_2026_set_03_header
-TEXT: Kanto Homecoming Timed Research (3/12)
+TEXT: Квест на Время Назад в Канто (3/12)
 
 RESOURCE ID: tr_kindling_2026_set_04_header
-TEXT: Kanto Homecoming Timed Research (4/12)
+TEXT: Квест на Время Назад в Канто (4/12)
 
 RESOURCE ID: tr_kindling_2026_set_05_header
-TEXT: Kanto Homecoming Timed Research (5/12)
+TEXT: Квест на Время Назад в Канто (5/12)
 
 RESOURCE ID: tr_kindling_2026_set_06_header
-TEXT: Kanto Homecoming Timed Research (6/12)
+TEXT: Квест на Время Назад в Канто (6/12)
 
 RESOURCE ID: tr_kindling_2026_set_07_header
-TEXT: Kanto Homecoming Timed Research (7/12)
+TEXT: Квест на Время Назад в Канто (7/12)
 
 RESOURCE ID: tr_kindling_2026_set_08_header
-TEXT: Kanto Homecoming Timed Research (8/12)
+TEXT: Квест на Время Назад в Канто (8/12)
 
 RESOURCE ID: tr_kindling_2026_set_09_header
-TEXT: Kanto Homecoming Timed Research (9/12)
+TEXT: Квест на Время Назад в Канто (9/12)
 
 RESOURCE ID: tr_kindling_2026_set_10_header
-TEXT: Kanto Homecoming Timed Research (10/12)
+TEXT: Квест на Время Назад в Канто (10/12)
 
 RESOURCE ID: tr_kindling_2026_set_11_header
-TEXT: Kanto Homecoming Timed Research (11/12)
+TEXT: Квест на Время Назад в Канто (11/12)
 
 RESOURCE ID: tr_kindling_2026_set_12_header
-TEXT: Kanto Homecoming Timed Research (12/12)
+TEXT: Квест на Время Назад в Канто (12/12)
 
 RESOURCE ID: tr_kr2025_retention_cherryblossom_title
 TEXT: Испытание Цветущая Вишня

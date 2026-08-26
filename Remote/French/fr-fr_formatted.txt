@@ -30010,6 +30010,9 @@ TEXT: Ligue Combat GO : Souvenirs vivants
 RESOURCE ID: combat_title_season_23
 TEXT: Ligue Combat GO : Toujours en avant
 
+RESOURCE ID: combat_title_season_24
+TEXT: Ligue Combat GO : Sentiers crépusculaires
+
 RESOURCE ID: combat_ultra_league
 TEXT: Ligue Hyper
 
@@ -35097,6 +35100,9 @@ TEXT: Saison en cours : Souvenirs vivants
 
 RESOURCE ID: event_season23_name
 TEXT: Saison en cours : Toujours en avant
+
+RESOURCE ID: event_season24_name
+TEXT: Saison en cours : Sentiers crépusculaires
 
 RESOURCE ID: event_season3_name
 TEXT: Saison des découvertes
@@ -56342,10 +56348,10 @@ RESOURCE ID: keyboard_symbols
 TEXT: Symboles
 
 RESOURCE ID: kindling_2026_mini_collection
-TEXT: Kanto Homecoming: Road to Mewtwo
+TEXT: Retrouvailles de Kanto : place à Mewtwo
 
 RESOURCE ID: kindling_2026_mini_collection_desc
-TEXT: Catch the Pokémon from the Kanto Homecoming Timed Research to encounter Mewtwo!
+TEXT: Attrape des Pokémon de l’Étude ponctuelle Retrouvailles de Kanto pour rencontrer Mewtwo !
 
 RESOURCE ID: kingler_gmax_tr_2025_title
 TEXT: Étude ponctuelle premium Krabboss Gigamax
@@ -61894,10 +61900,10 @@ at SHA 4d4f3e80cc7fb911006bd14d198c9831ef66d005
 Pipeline 339838, job 2672172
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-08-25T00:39:24.215034+00:00 for fr-FR
-at SHA 327cb4e2544
-Pipeline 3895507, job 57281112
-Patch from: 0.427.0-SHA-bafb3348-RC1, 0.425.1-SHA-966e4c2a-RC1
+TEXT: Built at 2026-08-26T01:07:20.006486+00:00 for fr-FR
+at SHA 2e2920214a9
+Pipeline 3898520, job 57331254
+Patch from: 0.427.0-SHA-05b59ce2-RC3, 0.425.1-SHA-966e4c2a-RC1
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: Étude ponctuelle : Choisis ton type de combat
@@ -84403,7 +84409,7 @@ RESOURCE ID: quest_catch_kanto_pokemon
 TEXT: Attrape {0} Pokémon découverts dans la région de Kanto
 
 RESOURCE ID: quest_catch_kanto_pokemon_days
-TEXT: Catch Pokémon originally discovered in the Kanto region on {0} different days
+TEXT: Attrape des Pokémon découverts dans la région de Kanto pendant {0} jours différents
 
 RESOURCE ID: quest_catch_kanto_starters_plural
 TEXT: Attrape {0} Bulbizarre, Salamèche ou Carapuce
@@ -116113,6 +116119,9 @@ TEXT: Souvenirs vivants
 RESOURCE ID: season23_forever_forward
 TEXT: Toujours en avant
 
+RESOURCE ID: season24_twilight_trails
+TEXT: Sentiers crépusculaires
+
 RESOURCE ID: season_gbl_forecast_title_7
 TEXT: Saison GO
 
@@ -116160,6 +116169,9 @@ TEXT: Pokémon GO : Souvenirs vivants
 
 RESOURCE ID: season_gbl_forecast_title_23
 TEXT: Pokémon GO : Toujours en avant
+
+RESOURCE ID: season_gbl_forecast_title_24
+TEXT: Pokémon GO : Sentiers crépusculaires
 
 RESOURCE ID: season_partner_research_ltd_amazon_gaming
 TEXT: Limited Partner Research - Hidden Gems : Amazon Prime Gaming
@@ -116459,6 +116471,9 @@ TEXT: Tous les détails sont sur le <a href="https://pokemongo.com/go-pass">site
 
 RESOURCE ID: season_pass_details_link_october2025
 TEXT: Tous les détails sont sur le <a href="https://pokemongo.com/go-pass">site Web</a>.
+
+RESOURCE ID: season_pass_details_link_sep2026
+TEXT: Pour plus d’informations, rends-toi sur le <a href="https://pokemongo.com/news/go-pass-september-2026">site Web</a>.
 
 RESOURCE ID: season_pass_details_link_september2025
 TEXT: Tous les détails sont sur le <a href="https://pokemongo.com/go-pass">site Web</a>.
@@ -116876,6 +116891,19 @@ TEXT: Passe GO deluxe : PokémonXP et Mondiaux 2026
 
 RESOURCE ID: season_pass_premium_track_title_winter_holidays_2025
 TEXT: Passe GO deluxe : Fêtes d’hiver 2025
+
+RESOURCE ID: season_pass_sep2026_event_duration
+TEXT: Du 8 septembre au 6 octobre
+
+RESOURCE ID: season_pass_sep2026_track_upgrade_header_description
+TEXT: Gagne des récompenses supplémentaires et déverrouille un <b>Incubateur ponctuel</b> au rang 20 !
+
+RESOURCE ID: season_pass_sep2026_upgrade_description
+TEXT: Achète le Passe GO deluxe : septembre pour déverrouiller les récompenses suivantes !
+
+• Un Super-Incubateur
+• Un <a href="https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2358-incubators-hatching-pokemon-eggs/">Incubateur ponctuel</a>, un incubateur supplémentaire à usage infini et durée limitée que tu peux utiliser pour faire éclore des Œufs pendant tes explorations !
+• Et plus encore !
 
 RESOURCE ID: season_pass_september2025_event_duration
 TEXT: Du 2 septembre au 7 octobre
@@ -118095,7 +118123,7 @@ RESOURCE ID: shelmetkarrablast_post_cd_timed_research_name
 TEXT: Étude ponctuelle : Journée Communauté prolongée d’Escargaume et de Carabing
 
 RESOURCE ID: shield_break_adventure_effect_battle_log
-TEXT: YOUR ATTACKS ARE BOOSTED BY DYNAMIC PUNCH+’S ADVENTURE EFFECT!
+TEXT: TES ATTAQUES SONT RENFORCÉES PAR L’EFFET AVENTURE DE DYNAMO-POING + !
 
 RESOURCE ID: shinjuku_cross_title
 TEXT: クロス新宿ビジョン
@@ -128125,7 +128153,7 @@ RESOURCE ID: today_view_upcoming_events_today_marker
 TEXT: AUJOURD’HUI
 
 RESOURCE ID: today_view_welcome_back_tab_label
-TEXT: Kanto Homecoming
+TEXT: Retrouvailles de Kanto
 
 RESOURCE ID: toggle_item_equip
 TEXT: ACTIVER
@@ -129925,40 +129953,40 @@ RESOURCE ID: tr_jp2025_aeon_mall_header_01
 TEXT: Étude ponctuelle Méga Entraînement Pokémon GO ! (2/2)
 
 RESOURCE ID: tr_kindling_2026_set_01_header
-TEXT: Kanto Homecoming Timed Research (1/12)
+TEXT: Étude ponctuelle Retrouvailles de Kanto (1/12)
 
 RESOURCE ID: tr_kindling_2026_set_02_header
-TEXT: Kanto Homecoming Timed Research (2/12)
+TEXT: Étude ponctuelle Retrouvailles de Kanto (2/12)
 
 RESOURCE ID: tr_kindling_2026_set_03_header
-TEXT: Kanto Homecoming Timed Research (3/12)
+TEXT: Étude ponctuelle Retrouvailles de Kanto (3/12)
 
 RESOURCE ID: tr_kindling_2026_set_04_header
-TEXT: Kanto Homecoming Timed Research (4/12)
+TEXT: Étude ponctuelle Retrouvailles de Kanto (4/12)
 
 RESOURCE ID: tr_kindling_2026_set_05_header
-TEXT: Kanto Homecoming Timed Research (5/12)
+TEXT: Étude ponctuelle Retrouvailles de Kanto (5/12)
 
 RESOURCE ID: tr_kindling_2026_set_06_header
-TEXT: Kanto Homecoming Timed Research (6/12)
+TEXT: Étude ponctuelle Retrouvailles de Kanto (6/12)
 
 RESOURCE ID: tr_kindling_2026_set_07_header
-TEXT: Kanto Homecoming Timed Research (7/12)
+TEXT: Étude ponctuelle Retrouvailles de Kanto (7/12)
 
 RESOURCE ID: tr_kindling_2026_set_08_header
-TEXT: Kanto Homecoming Timed Research (8/12)
+TEXT: Étude ponctuelle Retrouvailles de Kanto (8/12)
 
 RESOURCE ID: tr_kindling_2026_set_09_header
-TEXT: Kanto Homecoming Timed Research (9/12)
+TEXT: Étude ponctuelle Retrouvailles de Kanto (9/12)
 
 RESOURCE ID: tr_kindling_2026_set_10_header
-TEXT: Kanto Homecoming Timed Research (10/12)
+TEXT: Étude ponctuelle Retrouvailles de Kanto (10/12)
 
 RESOURCE ID: tr_kindling_2026_set_11_header
-TEXT: Kanto Homecoming Timed Research (11/12)
+TEXT: Étude ponctuelle Retrouvailles de Kanto (11/12)
 
 RESOURCE ID: tr_kindling_2026_set_12_header
-TEXT: Kanto Homecoming Timed Research (12/12)
+TEXT: Étude ponctuelle Retrouvailles de Kanto (12/12)
 
 RESOURCE ID: tr_kr2025_retention_cherryblossom_title
 TEXT: Défi Fleur de cerisier

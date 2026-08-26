@@ -30054,6 +30054,9 @@ TEXT: Liga de Batalha GO: Memórias em Movimento
 RESOURCE ID: combat_title_season_23
 TEXT: Liga de Batalha GO: Sempre em Frente
 
+RESOURCE ID: combat_title_season_24
+TEXT: Liga de Batalha GO: Trilhas do Entardecer
+
 RESOURCE ID: combat_ultra_league
 TEXT: ULTRA
 
@@ -35142,6 +35145,9 @@ TEXT: Temporada atual: Memórias em Movimento
 
 RESOURCE ID: event_season23_name
 TEXT: Temporada atual: Sempre em Frente
+
+RESOURCE ID: event_season24_name
+TEXT: Temporada atual: Trilhas do Entardecer
 
 RESOURCE ID: event_season3_name
 TEXT: Temporada de descobertas
@@ -47664,16 +47670,16 @@ RESOURCE ID: gofest2026_copenhagen
 TEXT: Festival de Pokémon GO 2026: Copenhagen
 
 RESOURCE ID: gofest2026_tag
-TEXT: GO Fest 2026: Mega Finale
+TEXT: Festival GO 2026: Megafinal
 
 RESOURCE ID: gofest2026_tokyo
 TEXT: Festival de Pokémon GO 2026: Tóquio
 
 RESOURCE ID: gofest2026_battle_district
-TEXT: Battle District
+TEXT: Distrito Batalha
 
 RESOURCE ID: gofest2026_circuit_plaza
-TEXT: Circuit Plaza
+TEXT: Praça Circuito
 
 RESOURCE ID: gofest2026_collection_district
 TEXT: Distrito Coleção
@@ -47700,7 +47706,7 @@ RESOURCE ID: gofest2026_details_link
 TEXT: Para mais informações, visite o <a href="https://pokemongo.com/news/road-of-legends-2026">site</a>.
 
 RESOURCE ID: gofest2026_eerie_alley
-TEXT: Eerie Alley
+TEXT: Beco Sinistro
 
 RESOURCE ID: gofest2026_finale_details_link
 TEXT: Para mais informações, visite o <a href="https://pokemongo.com/gofest/megafinale">site do Festival GO 2026: Megafinal</a>.
@@ -47712,13 +47718,13 @@ RESOURCE ID: gofest2026_investigation_district
 TEXT: Distrito Investigação
 
 RESOURCE ID: gofest2026_iron_frostworks
-TEXT: Iron Frostworks
+TEXT: Forja Glacial
 
 RESOURCE ID: gofest2026_mindworks_canal
-TEXT: Mindworks Canal
+TEXT: Canal Mental
 
 RESOURCE ID: gofest2026_prism_promenade
-TEXT: Prism Promenade
+TEXT: Passeio Prismático
 
 RESOURCE ID: gofest2026_recruitment_zone
 TEXT: Zona de Recrutamento
@@ -47736,10 +47742,10 @@ RESOURCE ID: gofest2026_scouting_district
 TEXT: Distrito Exploração
 
 RESOURCE ID: gofest2026_skyline_roosts
-TEXT: Skyline Roosts
+TEXT: Poleiros Aéreos
 
 RESOURCE ID: gofest2026_verdant_overgrowth
-TEXT: Verdant Overgrowth
+TEXT: Mata Verdejante
 
 RESOURCE ID: gofest_arlo_challenge#1
 TEXT: Nós dominamos a sua celebração, e mesmo assim, você ainda insiste em me desafiar? Prepare-se para enfrentar uma dura realidade.
@@ -56392,10 +56398,10 @@ RESOURCE ID: keyboard_symbols
 TEXT: Símbolos
 
 RESOURCE ID: kindling_2026_mini_collection
-TEXT: Kanto Homecoming: Road to Mewtwo
+TEXT: De Volta a Kanto: Jornada a Mewtwo
 
 RESOURCE ID: kindling_2026_mini_collection_desc
-TEXT: Catch the Pokémon from the Kanto Homecoming Timed Research to encounter Mewtwo!
+TEXT: Pegue os Pokémon da Pesquisa Temporária De Volta a Kanto para encontrar Mewtwo!
 
 RESOURCE ID: kingler_gmax_tr_2025_title
 TEXT: Pesquisa Temporária Premium de Kingler Gigamax
@@ -61948,10 +61954,10 @@ at SHA 4d4f3e80cc7fb911006bd14d198c9831ef66d005
 Pipeline 339838, job 2672172
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-08-25T00:39:24.215034+00:00 for pt-BR
-at SHA 327cb4e2544
-Pipeline 3895507, job 57281112
-Patch from: 0.427.0-SHA-bafb3348-RC1, 0.425.1-SHA-966e4c2a-RC1
+TEXT: Built at 2026-08-26T01:07:20.006486+00:00 for pt-BR
+at SHA 2e2920214a9
+Pipeline 3898520, job 57331254
+Patch from: 0.427.0-SHA-05b59ce2-RC3, 0.425.1-SHA-966e4c2a-RC1
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: Pesquisa temporária: Escolha o seu tipo de lutador
@@ -84457,7 +84463,7 @@ RESOURCE ID: quest_catch_kanto_pokemon
 TEXT: Pegar {0} Pokémon originalmente descobertos na região de Kanto.
 
 RESOURCE ID: quest_catch_kanto_pokemon_days
-TEXT: Catch Pokémon originally discovered in the Kanto region on {0} different days
+TEXT: Pegar Pokémon originalmente descobertos na região de Kanto em {0} dias diferentes.
 
 RESOURCE ID: quest_catch_kanto_starters_plural
 TEXT: Pegar {0} Bulbasaur, Charmander, ou Squirtle.
@@ -116169,6 +116175,9 @@ TEXT: Memórias em Movimento
 RESOURCE ID: season23_forever_forward
 TEXT: Sempre em Frente
 
+RESOURCE ID: season24_twilight_trails
+TEXT: Trilhas do Entardecer
+
 RESOURCE ID: season_gbl_forecast_title_7
 TEXT: Season of GO
 
@@ -116216,6 +116225,9 @@ TEXT: Pokémon GO: Memórias em Movimento
 
 RESOURCE ID: season_gbl_forecast_title_23
 TEXT: Pokémon GO: Sempre em Frente
+
+RESOURCE ID: season_gbl_forecast_title_24
+TEXT: Pokémon GO: Trilhas do Entardecer
 
 RESOURCE ID: season_partner_research_ltd_amazon_gaming
 TEXT: Limited Partner Research - Hidden Gems : Amazon Prime Gaming
@@ -116515,6 +116527,9 @@ TEXT: Para mais informações, visite o <a href="https://pokemongo.com/go-pass">
 
 RESOURCE ID: season_pass_details_link_october2025
 TEXT: Para mais informações, visite o <a href="https://pokemongo.com/go-pass">site</a>.
+
+RESOURCE ID: season_pass_details_link_sep2026
+TEXT: Para mais informações, visite o <a href="https://pokemongo.com/news/go-pass-september-2026">site</a>.
 
 RESOURCE ID: season_pass_details_link_september2025
 TEXT: Para mais informações, visite o <a href="https://pokemongo.com/go-pass">site</a>.
@@ -116932,6 +116947,19 @@ TEXT: Passe GO Deluxe: PokémonXP e Mundial 2026
 
 RESOURCE ID: season_pass_premium_track_title_winter_holidays_2025
 TEXT: Passe GO Deluxe: Festas de Fim de Ano 2025
+
+RESOURCE ID: season_pass_sep2026_event_duration
+TEXT: 8 de setembro – 6 de outubro
+
+RESOURCE ID: season_pass_sep2026_track_upgrade_header_description
+TEXT: Ganhe recompensas adicionais e desbloqueie uma <b>Incubadora Temporária</b> no Ranque 20!
+
+RESOURCE ID: season_pass_sep2026_upgrade_description
+TEXT: Compre o Passe GO Deluxe: setembro para desbloquear as seguintes recompensas!
+
+• 1 Superincubadora
+• 1 <a href="https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2358-incubators-hatching-pokemon-eggs/">Incubadora Temporária</a>, que é uma Incubadora adicional de uso ilimitado que você pode usar por tempo limitado para chocar Ovos enquanto explora!
+• E muito mais!
 
 RESOURCE ID: season_pass_september2025_event_duration
 TEXT: De 2 de setembro a 7 de outubro
@@ -118151,7 +118179,7 @@ RESOURCE ID: shelmetkarrablast_post_cd_timed_research_name
 TEXT: Continuação do Dia Comunitário (Pesquisa Temporária) de Shelmet e Karrablast
 
 RESOURCE ID: shield_break_adventure_effect_battle_log
-TEXT: YOUR ATTACKS ARE BOOSTED BY DYNAMIC PUNCH+’S ADVENTURE EFFECT!
+TEXT: SEUS ATAQUES SÃO FORTALECIDOS PELO EFEITO DE AVENTURA SOCO DINÂMICO+!
 
 RESOURCE ID: shinjuku_cross_title
 TEXT: クロス新宿ビジョン
@@ -128184,7 +128212,7 @@ RESOURCE ID: today_view_upcoming_events_today_marker
 TEXT: HOJE
 
 RESOURCE ID: today_view_welcome_back_tab_label
-TEXT: Kanto Homecoming
+TEXT: De Volta a Kanto
 
 RESOURCE ID: toggle_item_equip
 TEXT: EQUIPAR
@@ -129985,40 +130013,40 @@ RESOURCE ID: tr_jp2025_aeon_mall_header_01
 TEXT: Pesquisa Temporária de Mega Treinamento Pokémon GO! (2/2)
 
 RESOURCE ID: tr_kindling_2026_set_01_header
-TEXT: Kanto Homecoming Timed Research (1/12)
+TEXT: Pesquisa Temporária De Volta a Kanto (1/12)
 
 RESOURCE ID: tr_kindling_2026_set_02_header
-TEXT: Kanto Homecoming Timed Research (2/12)
+TEXT: Pesquisa Temporária De Volta a Kanto (2/12)
 
 RESOURCE ID: tr_kindling_2026_set_03_header
-TEXT: Kanto Homecoming Timed Research (3/12)
+TEXT: Pesquisa Temporária De Volta a Kanto (3/12)
 
 RESOURCE ID: tr_kindling_2026_set_04_header
-TEXT: Kanto Homecoming Timed Research (4/12)
+TEXT: Pesquisa Temporária De Volta a Kanto (4/12)
 
 RESOURCE ID: tr_kindling_2026_set_05_header
-TEXT: Kanto Homecoming Timed Research (5/12)
+TEXT: Pesquisa Temporária De Volta a Kanto (5/12)
 
 RESOURCE ID: tr_kindling_2026_set_06_header
-TEXT: Kanto Homecoming Timed Research (6/12)
+TEXT: Pesquisa Temporária De Volta a Kanto (6/12)
 
 RESOURCE ID: tr_kindling_2026_set_07_header
-TEXT: Kanto Homecoming Timed Research (7/12)
+TEXT: Pesquisa Temporária De Volta a Kanto (7/12)
 
 RESOURCE ID: tr_kindling_2026_set_08_header
-TEXT: Kanto Homecoming Timed Research (8/12)
+TEXT: Pesquisa Temporária De Volta a Kanto (8/12)
 
 RESOURCE ID: tr_kindling_2026_set_09_header
-TEXT: Kanto Homecoming Timed Research (9/12)
+TEXT: Pesquisa Temporária De Volta a Kanto (9/12)
 
 RESOURCE ID: tr_kindling_2026_set_10_header
-TEXT: Kanto Homecoming Timed Research (10/12)
+TEXT: Pesquisa Temporária De Volta a Kanto (10/12)
 
 RESOURCE ID: tr_kindling_2026_set_11_header
-TEXT: Kanto Homecoming Timed Research (11/12)
+TEXT: Pesquisa Temporária De Volta a Kanto (11/12)
 
 RESOURCE ID: tr_kindling_2026_set_12_header
-TEXT: Kanto Homecoming Timed Research (12/12)
+TEXT: Pesquisa Temporária De Volta a Kanto (12/12)
 
 RESOURCE ID: tr_kr2025_retention_cherryblossom_title
 TEXT: Desafio das Cerejeiras

@@ -27521,6 +27521,9 @@ TEXT: GO बैटल लीग - यादों की यात्रा
 RESOURCE ID: combat_title_season_23
 TEXT: GO बैटल लीग - सदा आगे
 
+RESOURCE ID: combat_title_season_24
+TEXT: GO बैटल लीग - संध्या की सैरें
+
 RESOURCE ID: combat_ultra_league
 TEXT: अल्ट्रा लीग
 
@@ -32606,6 +32609,9 @@ TEXT: वर्तमान सीज़न - यादों की यात�
 
 RESOURCE ID: event_season23_name
 TEXT: वर्तमान सीज़न - सदा आगे
+
+RESOURCE ID: event_season24_name
+TEXT: वर्तमान सीज़न - संध्या की सैरें
 
 RESOURCE ID: event_season3_name
 TEXT: जंगल में ईवी का स्नैपशॉट लें
@@ -53702,10 +53708,10 @@ RESOURCE ID: keyboard_symbols
 TEXT: सिम्बल
 
 RESOURCE ID: kindling_2026_mini_collection
-TEXT: Kanto Homecoming: Road to Mewtwo
+TEXT: कांतो वापसी - म्यूटू का पथ
 
 RESOURCE ID: kindling_2026_mini_collection_desc
-TEXT: Catch the Pokémon from the Kanto Homecoming Timed Research to encounter Mewtwo!
+TEXT: म्यूटू से मुलाकात करने के लिए, कांतो वापसी सीमति समय वाली रसिर्च में उस रसिर्च के पोकेमॉन पकड़ें!
 
 RESOURCE ID: kingler_gmax_tr_2025_title
 TEXT: जायगैंटामैक्स किंगलर प्रीमियम सीमित समय वाली रिसर्च
@@ -59214,10 +59220,10 @@ at SHA 12701f1c07ae7f07a5d50583f697320977df7988
 Pipeline 1139111, job 13470914
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-08-25T00:39:24.215034+00:00 for hi-IN
-at SHA 327cb4e2544
-Pipeline 3895507, job 57281112
-Patch from: 0.427.0-SHA-bafb3348-RC1, 0.425.1-SHA-966e4c2a-RC1
+TEXT: Built at 2026-08-26T01:07:20.006486+00:00 for hi-IN
+at SHA 2e2920214a9
+Pipeline 3898520, job 57331254
+Patch from: 0.427.0-SHA-05b59ce2-RC3, 0.425.1-SHA-966e4c2a-RC1
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: Timed Research: Choose Your Fighting Type
@@ -81668,7 +81674,7 @@ RESOURCE ID: quest_catch_kanto_pokemon
 TEXT: Catch {0} Pokémon originally discovered in the Kanto region
 
 RESOURCE ID: quest_catch_kanto_pokemon_days
-TEXT: Catch Pokémon originally discovered in the Kanto region on {0} different days
+TEXT: {0} अलग-अलग दनि, कांतो रीजन में सबसे पहले खोजे गए पोकेमॉन पकड़ें
 
 RESOURCE ID: quest_catch_kanto_starters_plural
 TEXT: {0} बल्बासॉर, चारमैंडर या स्क्वर्टल पकड़ें
@@ -113237,6 +113243,9 @@ TEXT: यादों की यात्रा
 RESOURCE ID: season23_forever_forward
 TEXT: सदा आगे
 
+RESOURCE ID: season24_twilight_trails
+TEXT: संध्या की सैरें
+
 RESOURCE ID: season_gbl_forecast_title_7
 TEXT: Season of GO
 
@@ -113284,6 +113293,9 @@ TEXT: Pokémon GO - यादों की यात्रा
 
 RESOURCE ID: season_gbl_forecast_title_23
 TEXT: Pokémon GO - सदा आगे
+
+RESOURCE ID: season_gbl_forecast_title_24
+TEXT: Pokémon GO - संध्या की सैरें
 
 RESOURCE ID: season_partner_research_ltd_amazon_gaming
 TEXT: Limited Partner Research - Hidden Gems : Amazon Prime Gaming
@@ -113579,6 +113591,9 @@ TEXT: अधिक जानकारी की लिए <a href="https://pokem
 
 RESOURCE ID: season_pass_details_link_october2025
 TEXT: अधिक जानकारी की लिए <a href="https://pokemongo.com/go-pass">वेबसाइट</a> पर जाएं।
+
+RESOURCE ID: season_pass_details_link_sep2026
+TEXT: अधकि जानकारी की लिए <a href="https://pokemongo.com/news/go-pass-september-2026">वेबसाइट</a> पर जाएँ।
 
 RESOURCE ID: season_pass_details_link_september2025
 TEXT: अधिक जानकारी के लिए, <a href="https://pokemongo.com/go-pass">वेबसाइट</a> देखें।
@@ -113989,6 +114004,18 @@ TEXT: GO पास डीलक्स - पोकेमॉन XP एंड 2026 
 
 RESOURCE ID: season_pass_premium_track_title_winter_holidays_2025
 TEXT: GO पास डीलक्स - विंटर हॉलिडे 2025
+
+RESOURCE ID: season_pass_sep2026_event_duration
+TEXT: 8 सतिम्बर –6 अक्तूबर
+
+RESOURCE ID: season_pass_sep2026_track_upgrade_header_description
+TEXT: अतरिक्ति रविॉर्ड जीतकर रैंक 20 पर <b>समयबद्ध इन्क्यूबेटर</b> अनलॉक करें!
+
+RESOURCE ID: season_pass_sep2026_upgrade_description
+TEXT: नीचे दयिे गए रविॉर्ड को अनलॉक करने के लिए GO पास डीलक्स - सतिम्बर खरीदें!
+• एक सुपर इनक्यूबेटर
+• एक <a href="https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2358-incubators-hatching-pokemon-eggs/">समयबद्ध इन्क्यूबेटर</a>, जो एक अतरिक्ति असीमति उपयोग वाला इनक्यूबेटर है, जसिका उपयोग आप अंडे हैच करने हेतु सीमति समय के लिए कर सकते हैं!
+• और और-भी बहुत कुछ! 
 
 RESOURCE ID: season_pass_september2025_event_duration
 TEXT: 2 सितम्बर –7 अक्तूबर
@@ -125205,7 +125232,7 @@ RESOURCE ID: today_view_upcoming_events_today_marker
 TEXT: TODAY
 
 RESOURCE ID: today_view_welcome_back_tab_label
-TEXT: Kanto Homecoming
+TEXT: कांतो वापसी
 
 RESOURCE ID: toggle_item_equip
 TEXT: इक्विप करें
@@ -127013,40 +127040,40 @@ RESOURCE ID: tr_jp2025_aeon_mall_header_01
 TEXT: Pokémon GO मेगा ट्रेनिंग! सीमित समय वाली रिसर्च (2/2)
 
 RESOURCE ID: tr_kindling_2026_set_01_header
-TEXT: Kanto Homecoming Timed Research (1/12)
+TEXT: कांतो वापसी सीमति समय वाली रसिर्च (1/12)
 
 RESOURCE ID: tr_kindling_2026_set_02_header
-TEXT: Kanto Homecoming Timed Research (2/12)
+TEXT: कांतो वापसी सीमति समय वाली रसिर्च (2/12)
 
 RESOURCE ID: tr_kindling_2026_set_03_header
-TEXT: Kanto Homecoming Timed Research (3/12)
+TEXT: कांतो वापसी सीमति समय वाली रसिर्च (3/12)
 
 RESOURCE ID: tr_kindling_2026_set_04_header
-TEXT: Kanto Homecoming Timed Research (4/12)
+TEXT: कांतो वापसी सीमति समय वाली रसिर्च (4/12)
 
 RESOURCE ID: tr_kindling_2026_set_05_header
-TEXT: Kanto Homecoming Timed Research (5/12)
+TEXT: कांतो वापसी सीमति समय वाली रसिर्च (5/12)
 
 RESOURCE ID: tr_kindling_2026_set_06_header
-TEXT: Kanto Homecoming Timed Research (6/12)
+TEXT: कांतो वापसी सीमति समय वाली रसिर्च (6/12)
 
 RESOURCE ID: tr_kindling_2026_set_07_header
-TEXT: Kanto Homecoming Timed Research (7/12)
+TEXT: कांतो वापसी सीमति समय वाली रसिर्च (7/12)
 
 RESOURCE ID: tr_kindling_2026_set_08_header
-TEXT: Kanto Homecoming Timed Research (8/12)
+TEXT: कांतो वापसी सीमति समय वाली रसिर्च (8/12)
 
 RESOURCE ID: tr_kindling_2026_set_09_header
-TEXT: Kanto Homecoming Timed Research (9/12)
+TEXT: कांतो वापसी सीमति समय वाली रसिर्च (9/12)
 
 RESOURCE ID: tr_kindling_2026_set_10_header
-TEXT: Kanto Homecoming Timed Research (10/12)
+TEXT: कांतो वापसी सीमति समय वाली रसिर्च (10/12)
 
 RESOURCE ID: tr_kindling_2026_set_11_header
-TEXT: Kanto Homecoming Timed Research (11/12)
+TEXT: कांतो वापसी सीमति समय वाली रसिर्च (11/12)
 
 RESOURCE ID: tr_kindling_2026_set_12_header
-TEXT: Kanto Homecoming Timed Research (12/12)
+TEXT: कांतो वापसी सीमति समय वाली रसिर्च (12/12)
 
 RESOURCE ID: tr_kr2025_retention_cherryblossom_title
 TEXT: चैरी के फूल चैलेंज

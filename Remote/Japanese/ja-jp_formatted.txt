@@ -30058,6 +30058,9 @@ TEXT: GOバトルリーグ：めくるめく記憶
 RESOURCE ID: combat_title_season_23
 TEXT: GOバトルリーグ：新たな歩み
 
+RESOURCE ID: combat_title_season_24
+TEXT: GOバトルリーグ：黄昏の旅路
+
 RESOURCE ID: combat_ultra_league
 TEXT: ハイパーリーグ
 
@@ -35203,6 +35206,9 @@ TEXT: 現在のシーズン：めくるめく記憶
 
 RESOURCE ID: event_season23_name
 TEXT: 現在のシーズン：新たな歩み
+
+RESOURCE ID: event_season24_name
+TEXT: 現在のシーズン：黄昏の旅路
 
 RESOURCE ID: event_season3_name
 TEXT: ディスカバリーシーズン
@@ -56328,10 +56334,10 @@ RESOURCE ID: keyboard_symbols
 TEXT: 記号
 
 RESOURCE ID: kindling_2026_mini_collection
-TEXT: Kanto Homecoming: Road to Mewtwo
+TEXT: カントー地方探訪：ミュウツーへの道
 
 RESOURCE ID: kindling_2026_mini_collection_desc
-TEXT: Catch the Pokémon from the Kanto Homecoming Timed Research to encounter Mewtwo!
+TEXT: カントー地方探訪タイムチャレンジでポケモンを捕まえてミュウツーに出会おう！
 
 RESOURCE ID: kingler_gmax_tr_2025_title
 TEXT: キョダイマックスキングラープレミアムタイムチャレンジ
@@ -61881,10 +61887,10 @@ at SHA 4d4f3e80cc7fb911006bd14d198c9831ef66d005
 Pipeline 339838, job 2672172
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-08-25T00:39:24.215034+00:00 for ja-JP
-at SHA 327cb4e2544
-Pipeline 3895507, job 57281112
-Patch from: 0.427.0-SHA-bafb3348-RC1, 0.425.1-SHA-966e4c2a-RC1
+TEXT: Built at 2026-08-26T01:07:20.006486+00:00 for ja-JP
+at SHA 2e2920214a9
+Pipeline 3898520, job 57331254
+Patch from: 0.427.0-SHA-05b59ce2-RC3, 0.425.1-SHA-966e4c2a-RC1
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: タイムチャレンジ：かくとうタイプ
@@ -84550,7 +84556,7 @@ RESOURCE ID: quest_catch_kanto_pokemon
 TEXT: カントー地方で最初に発見されたポケモンを{0}匹捕まえる
 
 RESOURCE ID: quest_catch_kanto_pokemon_days
-TEXT: Catch Pokémon originally discovered in the Kanto region on {0} different days
+TEXT: カントー地方で最初に発見されたポケモンを{0}日にわたり捕まえる
 
 RESOURCE ID: quest_catch_kanto_starters_plural
 TEXT: フシギダネ、ヒトカゲ、もしくはゼニガメを{0}匹捕まえる
@@ -116212,6 +116218,9 @@ TEXT: めくるめく記憶
 RESOURCE ID: season23_forever_forward
 TEXT: 新たな歩み
 
+RESOURCE ID: season24_twilight_trails
+TEXT: 黄昏の旅路
+
 RESOURCE ID: season_gbl_forecast_title_7
 TEXT: シーズンオブGO
 
@@ -116259,6 +116268,9 @@ TEXT: Pokémon GO：めくるめく記憶
 
 RESOURCE ID: season_gbl_forecast_title_23
 TEXT: Pokémon GO：新たな歩み
+
+RESOURCE ID: season_gbl_forecast_title_24
+TEXT: Pokémon GO：黄昏の旅路
 
 RESOURCE ID: season_partner_research_ltd_amazon_gaming
 TEXT: パートナーリサーチ - 隠された宝石：Amazon Prime Gaming
@@ -116559,6 +116571,9 @@ TEXT: （詳細は<a href="https://pokemongo.com/go-pass">ウェブサイト</a>
 
 RESOURCE ID: season_pass_details_link_october2025
 TEXT: 詳細は<a href="https://pokemongo.com/go-pass">ウェブサイト</a>でご確認ください
+
+RESOURCE ID: season_pass_details_link_sep2026
+TEXT: 詳細は<a href="https://pokemongo.com/news/go-pass-september-2026">ウェブサイト</a>でご確認ください
 
 RESOURCE ID: season_pass_details_link_september2025
 TEXT: 詳細は<a href="https://pokemongo.com/go-pass">ウェブサイト</a>でご確認ください
@@ -116978,6 +116993,19 @@ TEXT: GOパスデラックス：ポケモンXP＆チャンピオンシップス2
 
 RESOURCE ID: season_pass_premium_track_title_winter_holidays_2025
 TEXT: GOパスデラックス：ウィンター2025
+
+RESOURCE ID: season_pass_sep2026_event_duration
+TEXT: 9月8日～10月6日
+
+RESOURCE ID: season_pass_sep2026_track_upgrade_header_description
+TEXT: 追加リワードを入手でき、ランク20で<b>ジゲンふかそうち</b>をアンロック！
+
+RESOURCE ID: season_pass_sep2026_upgrade_description
+TEXT: GOパスデラックス：9月を購入すると以下のリワードがアンロックできます！
+
+・スーパーふかそうち1個
+・回数制限なしでタマゴがかえせる<a href="https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2358-incubators-hatching-pokemon-eggs/">ジゲンふかそうち</a>1個
+・その他
 
 RESOURCE ID: season_pass_september2025_event_duration
 TEXT: 9月2日～10月7日
@@ -128256,7 +128284,7 @@ RESOURCE ID: today_view_upcoming_events_today_marker
 TEXT: 今日
 
 RESOURCE ID: today_view_welcome_back_tab_label
-TEXT: Kanto Homecoming
+TEXT: カントー地方探訪
 
 RESOURCE ID: toggle_item_equip
 TEXT: 起動
@@ -130125,40 +130153,40 @@ RESOURCE ID: tr_jp2025_aeon_mall_header_01
 TEXT: ポケモンGOメガとっくん！タイムチャレンジ(2/2)
 
 RESOURCE ID: tr_kindling_2026_set_01_header
-TEXT: Kanto Homecoming Timed Research (1/12)
+TEXT: カントー地方探訪タイムチャレンジ(1/12)
 
 RESOURCE ID: tr_kindling_2026_set_02_header
-TEXT: Kanto Homecoming Timed Research (2/12)
+TEXT: カントー地方探訪タイムチャレンジ(2/12)
 
 RESOURCE ID: tr_kindling_2026_set_03_header
-TEXT: Kanto Homecoming Timed Research (3/12)
+TEXT: カントー地方探訪タイムチャレンジ(3/12)
 
 RESOURCE ID: tr_kindling_2026_set_04_header
-TEXT: Kanto Homecoming Timed Research (4/12)
+TEXT: カントー地方探訪タイムチャレンジ(4/12)
 
 RESOURCE ID: tr_kindling_2026_set_05_header
-TEXT: Kanto Homecoming Timed Research (5/12)
+TEXT: カントー地方探訪タイムチャレンジ(5/12)
 
 RESOURCE ID: tr_kindling_2026_set_06_header
-TEXT: Kanto Homecoming Timed Research (6/12)
+TEXT: カントー地方探訪タイムチャレンジ(6/12)
 
 RESOURCE ID: tr_kindling_2026_set_07_header
-TEXT: Kanto Homecoming Timed Research (7/12)
+TEXT: カントー地方探訪タイムチャレンジ(7/12)
 
 RESOURCE ID: tr_kindling_2026_set_08_header
-TEXT: Kanto Homecoming Timed Research (8/12)
+TEXT: カントー地方探訪タイムチャレンジ(8/12)
 
 RESOURCE ID: tr_kindling_2026_set_09_header
-TEXT: Kanto Homecoming Timed Research (9/12)
+TEXT: カントー地方探訪タイムチャレンジ(9/12)
 
 RESOURCE ID: tr_kindling_2026_set_10_header
-TEXT: Kanto Homecoming Timed Research (10/12)
+TEXT: カントー地方探訪タイムチャレンジ(10/12)
 
 RESOURCE ID: tr_kindling_2026_set_11_header
-TEXT: Kanto Homecoming Timed Research (11/12)
+TEXT: カントー地方探訪タイムチャレンジ(11/12)
 
 RESOURCE ID: tr_kindling_2026_set_12_header
-TEXT: Kanto Homecoming Timed Research (12/12)
+TEXT: カントー地方探訪タイムチャレンジ(12/12)
 
 RESOURCE ID: tr_kr2025_retention_cherryblossom_title
 TEXT: お花見チャレンジ

@@ -27548,6 +27548,9 @@ TEXT: GO Battle League: Kenangan dalam Gerakan
 RESOURCE ID: combat_title_season_23
 TEXT: GO Battle League: Terus Melangkah Maju
 
+RESOURCE ID: combat_title_season_24
+TEXT: GO Battle League: Jejak Senja
+
 RESOURCE ID: combat_ultra_league
 TEXT: Liga Ultra
 
@@ -32631,6 +32634,9 @@ TEXT: Musim Sekarang: Kenangan dalam Gerakan
 
 RESOURCE ID: event_season23_name
 TEXT: Musim Sekarang: Terus Melangkah Maju
+
+RESOURCE ID: event_season24_name
+TEXT: Musim Sekarang: Jejak Senja
 
 RESOURCE ID: event_season3_name
 TEXT: Musim Penjelajahan
@@ -53772,10 +53778,10 @@ RESOURCE ID: keyboard_symbols
 TEXT: Simbol
 
 RESOURCE ID: kindling_2026_mini_collection
-TEXT: Kanto Homecoming: Road to Mewtwo
+TEXT: Pulang ke Kanto: Jalan Menuju Mewtwo
 
 RESOURCE ID: kindling_2026_mini_collection_desc
-TEXT: Catch the Pokémon from the Kanto Homecoming Timed Research to encounter Mewtwo!
+TEXT: Tangkap Pokémon dari Penelitian Berwaktu Pulang ke Kanto untuk bertemu dengan Mewtwo!
 
 RESOURCE ID: kingler_gmax_tr_2025_title
 TEXT: Penelitian Berwaktu Premium Kingler Gigantamax
@@ -59285,10 +59291,10 @@ at SHA 12701f1c07ae7f07a5d50583f697320977df7988
 Pipeline 1139111, job 13470914
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-08-25T00:39:24.215034+00:00 for id-ID
-at SHA 327cb4e2544
-Pipeline 3895507, job 57281112
-Patch from: 0.427.0-SHA-bafb3348-RC1, 0.425.1-SHA-966e4c2a-RC1
+TEXT: Built at 2026-08-26T01:07:20.006486+00:00 for id-ID
+at SHA 2e2920214a9
+Pipeline 3898520, job 57331254
+Patch from: 0.427.0-SHA-05b59ce2-RC3, 0.425.1-SHA-966e4c2a-RC1
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: Penelitian Berwaktu: Pilih Tipe Petarungmu
@@ -81786,7 +81792,7 @@ RESOURCE ID: quest_catch_kanto_pokemon
 TEXT: Catch {0} Pokémon originally discovered in the Kanto region
 
 RESOURCE ID: quest_catch_kanto_pokemon_days
-TEXT: Catch Pokémon originally discovered in the Kanto region on {0} different days
+TEXT: Tangkap Pokémon yang pertama kali ditemukan di Daerah Kanto pada {0} hari yang berbeda
 
 RESOURCE ID: quest_catch_kanto_starters_plural
 TEXT: Tangkap {0} Bulbasaur, Charmander, atau Squirtle
@@ -113353,6 +113359,9 @@ TEXT: Kenangan dalam Gerakan
 RESOURCE ID: season23_forever_forward
 TEXT: Terus Melangkah Maju
 
+RESOURCE ID: season24_twilight_trails
+TEXT: Jejak Senja
+
 RESOURCE ID: season_gbl_forecast_title_7
 TEXT: Musim GO
 
@@ -113400,6 +113409,9 @@ TEXT: Pokémon GO: Kenangan dalam Gerakan
 
 RESOURCE ID: season_gbl_forecast_title_23
 TEXT: Pokémon GO: Terus Melangkah Maju
+
+RESOURCE ID: season_gbl_forecast_title_24
+TEXT: Pokémon GO: Jejak Senja
 
 RESOURCE ID: season_partner_research_ltd_amazon_gaming
 TEXT: Limited Partner Research - Hidden Gems : Amazon Prime Gaming
@@ -113698,6 +113710,9 @@ TEXT: Untuk detail lebih lanjut, kunjungi <a href="https://pokemongo.com/go-pass
 
 RESOURCE ID: season_pass_details_link_october2025
 TEXT: Untuk detail lebih lanjut, kunjungi <a href="https://pokemongo.com/go-pass">situs web</a>.
+
+RESOURCE ID: season_pass_details_link_sep2026
+TEXT: Untuk detail lebih lanjut, kunjungi <a href="https://pokemongo.com/news/go-pass-september-2026">situs web</a>.
 
 RESOURCE ID: season_pass_details_link_september2025
 TEXT: Untuk detail lebih lanjut, kunjungi <a href="https://pokemongo.com/go-pass">situs web</a>.
@@ -114115,6 +114130,19 @@ TEXT: Tiket GO Luks: PokémonXP & 2026 Worlds
 
 RESOURCE ID: season_pass_premium_track_title_winter_holidays_2025
 TEXT: Tiket GO Luks: Liburan Musim Dingin 2025
+
+RESOURCE ID: season_pass_sep2026_event_duration
+TEXT: 8 September – 6 Oktober
+
+RESOURCE ID: season_pass_sep2026_track_upgrade_header_description
+TEXT: Dapatkan hadiah tambahan dan buka <b>Mesin Penetas Berwaktu</b> di Rank 20!
+
+RESOURCE ID: season_pass_sep2026_upgrade_description
+TEXT: Beli Tiket GO Luks: September untuk membuka hadiah berikut!
+
+• 1 Mesin Penetas Super
+• 1 <a href="https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2358-incubators-hatching-pokemon-eggs/">Mesin Penetas Berwaktu</a>, yaitu mesin penetas tambahan dengan penggunaan tak terbatas yang bisa kamu gunakan dalam waktu terbatas untuk menetaskan Telur saat kamu menjelajah!
+• Dan masih banyak lagi!
 
 RESOURCE ID: season_pass_september2025_event_duration
 TEXT: 2 September – 7 Oktober
@@ -115332,7 +115360,7 @@ RESOURCE ID: shelmetkarrablast_post_cd_timed_research_name
 TEXT: Penelitian Berwaktu Kelanjutan Hari Komunitas Shelmet dan Karrablast
 
 RESOURCE ID: shield_break_adventure_effect_battle_log
-TEXT: YOUR ATTACKS ARE BOOSTED BY DYNAMIC PUNCH+’S ADVENTURE EFFECT!
+TEXT: SERANGANMU DIPERKUAT OLEH EFEK PETUALANGAN PUKULAN PELEDAK+!
 
 RESOURCE ID: shinjuku_cross_title
 TEXT: クロス新宿ビジョン
@@ -125322,7 +125350,7 @@ RESOURCE ID: today_view_upcoming_events_today_marker
 TEXT: HARI INI
 
 RESOURCE ID: today_view_welcome_back_tab_label
-TEXT: Kanto Homecoming
+TEXT: Pulang ke Kanto
 
 RESOURCE ID: toggle_item_equip
 TEXT: PASANG
@@ -127122,40 +127150,40 @@ RESOURCE ID: tr_jp2025_aeon_mall_header_01
 TEXT: Penelitian Berwaktu Pelatihan Mega Pokémon GO! (2/2)
 
 RESOURCE ID: tr_kindling_2026_set_01_header
-TEXT: Kanto Homecoming Timed Research (1/12)
+TEXT: Penelitian Berwaktu Pulang ke Kanto (1/12)
 
 RESOURCE ID: tr_kindling_2026_set_02_header
-TEXT: Kanto Homecoming Timed Research (2/12)
+TEXT: Penelitian Berwaktu Pulang ke Kanto (2/12)
 
 RESOURCE ID: tr_kindling_2026_set_03_header
-TEXT: Kanto Homecoming Timed Research (3/12)
+TEXT: Penelitian Berwaktu Pulang ke Kanto (3/12)
 
 RESOURCE ID: tr_kindling_2026_set_04_header
-TEXT: Kanto Homecoming Timed Research (4/12)
+TEXT: Penelitian Berwaktu Pulang ke Kanto (4/12)
 
 RESOURCE ID: tr_kindling_2026_set_05_header
-TEXT: Kanto Homecoming Timed Research (5/12)
+TEXT: Penelitian Berwaktu Pulang ke Kanto (5/12)
 
 RESOURCE ID: tr_kindling_2026_set_06_header
-TEXT: Kanto Homecoming Timed Research (6/12)
+TEXT: Penelitian Berwaktu Pulang ke Kanto (6/12)
 
 RESOURCE ID: tr_kindling_2026_set_07_header
-TEXT: Kanto Homecoming Timed Research (7/12)
+TEXT: Penelitian Berwaktu Pulang ke Kanto (7/12)
 
 RESOURCE ID: tr_kindling_2026_set_08_header
-TEXT: Kanto Homecoming Timed Research (8/12)
+TEXT: Penelitian Berwaktu Pulang ke Kanto (8/12)
 
 RESOURCE ID: tr_kindling_2026_set_09_header
-TEXT: Kanto Homecoming Timed Research (9/12)
+TEXT: Penelitian Berwaktu Pulang ke Kanto (9/12)
 
 RESOURCE ID: tr_kindling_2026_set_10_header
-TEXT: Kanto Homecoming Timed Research (10/12)
+TEXT: Penelitian Berwaktu Pulang ke Kanto (10/12)
 
 RESOURCE ID: tr_kindling_2026_set_11_header
-TEXT: Kanto Homecoming Timed Research (11/12)
+TEXT: Penelitian Berwaktu Pulang ke Kanto (11/12)
 
 RESOURCE ID: tr_kindling_2026_set_12_header
-TEXT: Kanto Homecoming Timed Research (12/12)
+TEXT: Penelitian Berwaktu Pulang ke Kanto (12/12)
 
 RESOURCE ID: tr_kr2025_retention_cherryblossom_title
 TEXT: Tantangan Memandang Bunga

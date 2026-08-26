@@ -20282,7 +20282,7 @@ RESOURCE ID: box_gohatch
 TEXT: GO孵蛋禮盒
 
 RESOURCE ID: box_gomaster
-TEXT: GO Master Box
+TEXT: GO精通禮盒
 
 RESOURCE ID: box_goraid
 TEXT: GO團體戰禮盒
@@ -21439,7 +21439,7 @@ RESOURCE ID: breakfast_tappable_tutorial_body
 TEXT: 只要遊玩路線，就有機會找到基格爾德・細胞。收集到所需數量的細胞後，即可合成基格爾德。
 
 RESOURCE ID: breakfast_tappable_tutorial_body_temp
-TEXT: 只要完成路線，就會找到基格爾德・細胞。收集到所需數量的細胞後，即可合成基格爾德。
+TEXT: 只要完成路線，就能找到基格爾德・細胞。收集到所需數量的細胞後，即可合成基格爾德。
 
 RESOURCE ID: breakthrough_free_remote_raid_pass
 TEXT: 完成突破性進展，獲得遠距團體戰入場券
@@ -29972,6 +29972,9 @@ TEXT: GO對戰聯盟：絢爛奪目的記憶
 RESOURCE ID: combat_title_season_23
 TEXT: GO對戰聯盟：嶄新的步伐
 
+RESOURCE ID: combat_title_season_24
+TEXT: GO對戰聯盟：黃昏之旅
+
 RESOURCE ID: combat_ultra_league
 TEXT: 高級聯盟
 
@@ -35093,6 +35096,9 @@ TEXT: 本季：絢爛奪目的記憶
 
 RESOURCE ID: event_season23_name
 TEXT: 本季：嶄新的步伐
+
+RESOURCE ID: event_season24_name
+TEXT: 本季：黃昏之旅
 
 RESOURCE ID: event_season3_name
 TEXT: 探索的季節
@@ -56250,10 +56256,10 @@ RESOURCE ID: keyboard_symbols
 TEXT: 符號
 
 RESOURCE ID: kindling_2026_mini_collection
-TEXT: Kanto Homecoming: Road to Mewtwo
+TEXT: 探訪關都地區：通往超夢之路
 
 RESOURCE ID: kindling_2026_mini_collection_desc
-TEXT: Catch the Pokémon from the Kanto Homecoming Timed Research to encounter Mewtwo!
+TEXT: 透過探訪關都地區限時調查捕捉寶可夢，遇見超夢吧！
 
 RESOURCE ID: kingler_gmax_tr_2025_title
 TEXT: 超極巨化巨鉗蟹特級限時調查
@@ -61801,10 +61807,10 @@ at SHA 4d4f3e80cc7fb911006bd14d198c9831ef66d005
 Pipeline 339838, job 2672172
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-08-25T00:39:24.215034+00:00 for zh-TW
-at SHA 327cb4e2544
-Pipeline 3895507, job 57281112
-Patch from: 0.427.0-SHA-bafb3348-RC1, 0.425.1-SHA-966e4c2a-RC1
+TEXT: Built at 2026-08-26T01:07:20.006486+00:00 for zh-TW
+at SHA 2e2920214a9
+Pipeline 3898520, job 57331254
+Patch from: 0.427.0-SHA-05b59ce2-RC3, 0.425.1-SHA-966e4c2a-RC1
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: 限時調查：格鬥屬性
@@ -84412,7 +84418,7 @@ RESOURCE ID: quest_catch_kanto_pokemon
 TEXT: 捕捉{0}隻在關都地區首次被發現的寶可夢
 
 RESOURCE ID: quest_catch_kanto_pokemon_days
-TEXT: Catch Pokémon originally discovered in the Kanto region on {0} different days
+TEXT: 捕捉在關都地區首次被發現的寶可夢{0}天
 
 RESOURCE ID: quest_catch_kanto_starters_plural
 TEXT: 捕捉{0}隻妙蛙種子、小火龍或傑尼龜
@@ -100121,7 +100127,7 @@ RESOURCE ID: quest_special_dialogue_zygarde_1_2
 TEXT: 說是在路線的邊緣，他們發現了綠色物體。也有訓練家稱之為綠色生物。
 
 RESOURCE ID: quest_special_dialogue_zygarde_1_2_temp
-TEXT: 有人回報說在路線的邊緣，發生了不可思議的事情。也有訓練家說看到了來歷不明的東西。
+TEXT: 有人回報說在路線的一端，發生了不可思議的事情。似乎也有人說看到了來歷不明的東西。
 
 RESOURCE ID: quest_special_dialogue_zygarde_1_3
 TEXT: 我是有一些頭緒啦……但為了證明我的推論是正確的，我需要去多找點資料。啊不，再去讀一次雜誌的卡洛斯特輯應該就可以知道答案了。
@@ -116200,6 +116206,9 @@ TEXT: 絢爛奪目的記憶
 RESOURCE ID: season23_forever_forward
 TEXT: 嶄新的步伐
 
+RESOURCE ID: season24_twilight_trails
+TEXT: 黃昏之旅
+
 RESOURCE ID: season_gbl_forecast_title_7
 TEXT: Season of GO
 
@@ -116247,6 +116256,9 @@ TEXT: Pokémon GO：絢爛奪目的記憶
 
 RESOURCE ID: season_gbl_forecast_title_23
 TEXT: Pokémon GO：嶄新的步伐
+
+RESOURCE ID: season_gbl_forecast_title_24
+TEXT: Pokémon GO：黃昏之旅
 
 RESOURCE ID: season_partner_research_ltd_amazon_gaming
 TEXT: Limited Partner Research - Hidden Gems : Amazon Prime Gaming
@@ -116545,6 +116557,9 @@ TEXT: （詳情請至<a href="https://pokemongo.com/go-pass">網站</a>確認）
 
 RESOURCE ID: season_pass_details_link_october2025
 TEXT: 詳情請至<a href="https://pokemongo.com/go-pass">網站</a>確認
+
+RESOURCE ID: season_pass_details_link_sep2026
+TEXT: 詳情請至<a href="https://pokemongo.com/news/go-pass-september-2026">網站</a>確認
 
 RESOURCE ID: season_pass_details_link_september2025
 TEXT: 詳情請至 <a href="https://pokemongo.com/go-pass">網站</a>確認
@@ -116962,6 +116977,19 @@ TEXT: GO Pass豪華版：PokémonXP＆錦標賽2026
 
 RESOURCE ID: season_pass_premium_track_title_winter_holidays_2025
 TEXT: GO Pass豪華版：冬日假期2025
+
+RESOURCE ID: season_pass_sep2026_event_duration
+TEXT: 9月8日～10月6日
+
+RESOURCE ID: season_pass_sep2026_track_upgrade_header_description
+TEXT: 可獲得追加的獎勵，並且在級別升上20級後解鎖<b>限時孵化器</b>！
+
+RESOURCE ID: season_pass_sep2026_upgrade_description
+TEXT: 如果購買GO Pass豪華版：9月，將能解鎖下列獎勵！
+
+・1個超級孵化器
+・孵蛋次數無上限的「<a href="https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2358-incubators-hatching-pokemon-eggs/">限時孵化器</a>」
+・其他
 
 RESOURCE ID: season_pass_september2025_event_duration
 TEXT: 9月2日～10月7日
@@ -118182,7 +118210,7 @@ RESOURCE ID: shelmetkarrablast_post_cd_timed_research_name
 TEXT: 小嘴蝸和蓋蓋蟲社群日加長版限時調查
 
 RESOURCE ID: shield_break_adventure_effect_battle_log
-TEXT: YOUR ATTACKS ARE BOOSTED BY DYNAMIC PUNCH+’S ADVENTURE EFFECT!
+TEXT: 爆裂拳+的冒險效果讓攻擊提升了！
 
 RESOURCE ID: shinjuku_cross_title
 TEXT: クロス新宿ビジョン
@@ -128217,7 +128245,7 @@ RESOURCE ID: today_view_upcoming_events_today_marker
 TEXT: 今天
 
 RESOURCE ID: today_view_welcome_back_tab_label
-TEXT: Kanto Homecoming
+TEXT: 探訪關都地區
 
 RESOURCE ID: toggle_item_equip
 TEXT: 啟用
@@ -130049,40 +130077,40 @@ RESOURCE ID: tr_jp2025_aeon_mall_header_01
 TEXT: Pokémon GO超級特訓！限時調查(2/2)
 
 RESOURCE ID: tr_kindling_2026_set_01_header
-TEXT: Kanto Homecoming Timed Research (1/12)
+TEXT: 探訪關都地區限時調查(1/12)
 
 RESOURCE ID: tr_kindling_2026_set_02_header
-TEXT: Kanto Homecoming Timed Research (2/12)
+TEXT: 探訪關都地區限時調查(2/12)
 
 RESOURCE ID: tr_kindling_2026_set_03_header
-TEXT: Kanto Homecoming Timed Research (3/12)
+TEXT: 探訪關都地區限時調查(3/12)
 
 RESOURCE ID: tr_kindling_2026_set_04_header
-TEXT: Kanto Homecoming Timed Research (4/12)
+TEXT: 探訪關都地區限時調查(4/12)
 
 RESOURCE ID: tr_kindling_2026_set_05_header
-TEXT: Kanto Homecoming Timed Research (5/12)
+TEXT: 探訪關都地區限時調查(5/12)
 
 RESOURCE ID: tr_kindling_2026_set_06_header
-TEXT: Kanto Homecoming Timed Research (6/12)
+TEXT: 探訪關都地區限時調查(6/12)
 
 RESOURCE ID: tr_kindling_2026_set_07_header
-TEXT: Kanto Homecoming Timed Research (7/12)
+TEXT: 探訪關都地區限時調查(7/12)
 
 RESOURCE ID: tr_kindling_2026_set_08_header
-TEXT: Kanto Homecoming Timed Research (8/12)
+TEXT: 探訪關都地區限時調查(8/12)
 
 RESOURCE ID: tr_kindling_2026_set_09_header
-TEXT: Kanto Homecoming Timed Research (9/12)
+TEXT: 探訪關都地區限時調查(9/12)
 
 RESOURCE ID: tr_kindling_2026_set_10_header
-TEXT: Kanto Homecoming Timed Research (10/12)
+TEXT: 探訪關都地區限時調查(10/12)
 
 RESOURCE ID: tr_kindling_2026_set_11_header
-TEXT: Kanto Homecoming Timed Research (11/12)
+TEXT: 探訪關都地區限時調查(11/12)
 
 RESOURCE ID: tr_kindling_2026_set_12_header
-TEXT: Kanto Homecoming Timed Research (12/12)
+TEXT: 探訪關都地區限時調查(12/12)
 
 RESOURCE ID: tr_kr2025_retention_cherryblossom_title
 TEXT: 賞花挑戰

@@ -19635,7 +19635,7 @@ RESOURCE ID: bonus_today_zygarde_cell
 TEXT: 하루마다 5개까지 루트 마지막에 지가르데 셀을 발견할 수 있다
 
 RESOURCE ID: bonus_today_zygarde_cell_temp
-TEXT: Zygarde Cells can appear at the end of up to 5 Routes per day
+TEXT: 하루 5루트까지 루트 끝나는 지점에서 지가르데 셀 발견.
 
 RESOURCE ID: bonus_total_6_special_trades
 TEXT: 하루에 가능한 특별한 교환 총 6회
@@ -19962,22 +19962,22 @@ RESOURCE ID: boot_safety_warning_4
 TEXT: Be courteous to members of real-world communities as you play Pokémon GO.
 
 RESOURCE ID: box_gocatch
-TEXT: GO Catch Box
+TEXT: GO캐치 박스
 
 RESOURCE ID: box_gohatch
-TEXT: GO Hatch Box
+TEXT: GO부화 박스
 
 RESOURCE ID: box_gomaster
-TEXT: GO Master Box
+TEXT: GO마스터 박스
 
 RESOURCE ID: box_goraid
-TEXT: GO Raid Box
+TEXT: GO레이드 박스
 
 RESOURCE ID: box_gostarter
-TEXT: GO Starter Box
+TEXT: GO스타터 박스
 
 RESOURCE ID: box_gosticker
-TEXT: GO Sticker Box
+TEXT: GO스티커 박스
 
 RESOURCE ID: box_community_day
 TEXT: 커뮤니티 데이 박스가 숍에 등장
@@ -21125,7 +21125,7 @@ RESOURCE ID: breakfast_tappable_tutorial_body
 TEXT: 루트를 걸으면 지가르데 셀을 발견하기도 합니다. 필요한 수의 셀을 모으면 지가르데를 합성할 수 있습니다.
 
 RESOURCE ID: breakfast_tappable_tutorial_body_temp
-TEXT: You can find Zygarde Cells after completing a Route. You can assemble Zygarde Cells to create different Zygarde forms.
+TEXT: 루트를 완료하면 지가르데 셀을 발견할 수 있습니다. 필요한 수의 셀을 모아 지가르데를 합성할 수 있습니다.
 
 RESOURCE ID: breakthrough_free_remote_raid_pass
 TEXT: 대발견의 리모트 레이드패스
@@ -29650,6 +29650,9 @@ TEXT: GO배틀리그: 생생한 추억
 RESOURCE ID: combat_title_season_23
 TEXT: GO배틀리그: 새로운 발걸음
 
+RESOURCE ID: combat_title_season_24
+TEXT: GO배틀리그: 황혼의 여정
+
 RESOURCE ID: combat_ultra_league
 TEXT: 하이퍼리그
 
@@ -34735,6 +34738,9 @@ TEXT: 현재 시즌: 생생한 추억
 
 RESOURCE ID: event_season23_name
 TEXT: 현재 시즌: 새로운 발걸음
+
+RESOURCE ID: event_season24_name
+TEXT: 현재 시즌: 황혼의 여정
 
 RESOURCE ID: event_season3_name
 TEXT: 디스커버리 시즌
@@ -55813,10 +55819,10 @@ RESOURCE ID: keyboard_symbols
 TEXT: 암호
 
 RESOURCE ID: kindling_2026_mini_collection
-TEXT: Kanto Homecoming: Road to Mewtwo
+TEXT: 관동지방 탐방: 뮤츠에게 가는 길
 
 RESOURCE ID: kindling_2026_mini_collection_desc
-TEXT: Catch the Pokémon from the Kanto Homecoming Timed Research to encounter Mewtwo!
+TEXT: 관동지방 탐방 시간제한 리서치로 포켓몬을 잡고 뮤츠를 만나자!
 
 RESOURCE ID: kingler_gmax_tr_2025_title
 TEXT: 거다이맥스 킹크랩 프리미엄 시간제한 리서치
@@ -61337,10 +61343,10 @@ at SHA 4d4f3e80cc7fb911006bd14d198c9831ef66d005
 Pipeline 339838, job 2672172
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-08-25T00:39:24.215034+00:00 for ko-KR
-at SHA 327cb4e2544
-Pipeline 3895507, job 57281112
-Patch from: 0.427.0-SHA-bafb3348-RC1, 0.425.1-SHA-966e4c2a-RC1
+TEXT: Built at 2026-08-26T01:07:20.006486+00:00 for ko-KR
+at SHA 2e2920214a9
+Pipeline 3898520, job 57331254
+Patch from: 0.427.0-SHA-05b59ce2-RC3, 0.425.1-SHA-966e4c2a-RC1
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: 시간제한 리서치: 격투타입
@@ -83871,7 +83877,7 @@ RESOURCE ID: quest_catch_kanto_pokemon
 TEXT: 관동지방에서 처음으로 발견된 포켓몬 {0}마리를 잡는다
 
 RESOURCE ID: quest_catch_kanto_pokemon_days
-TEXT: Catch Pokémon originally discovered in the Kanto region on {0} different days
+TEXT: 관동지방에서 처음 발견된 포켓몬을 {0}일동안 잡는다
 
 RESOURCE ID: quest_catch_kanto_starters_plural
 TEXT: 이상해씨, 파이리, 꼬부기 중 하나를 {0}마리 잡는다
@@ -99436,13 +99442,13 @@ RESOURCE ID: quest_special_dialogue_zygarde_1_2
 TEXT: 루트 구석에서 녹색 물체를 봤다는 보고야. 녹색의 생명체라고 말하는 트레이너도 있었어.
 
 RESOURCE ID: quest_special_dialogue_zygarde_1_2_temp
-TEXT: Curiously, several mentioned unusual activity along nearby Routes. Some Trainers even spotted something they couldn’t identify!
+TEXT: 루트 끝에서 뭔가 이상한 일이 일어났다는 보고야. 정체를 알 수 없는 것을 봤다는 이야기도 있어.
 
 RESOURCE ID: quest_special_dialogue_zygarde_1_3
 TEXT: 짐작은 했어도.... 확신을 가질 때까지 자료를 찾아볼게. 아니 칼로스지방 특집을 다시 한번 읽으면 알 것 같군.
 
 RESOURCE ID: quest_special_dialogue_zygarde_1_3_temp
-TEXT: I have a theory about what might be drawing attention out there, but I’d like to look through my research materials a tad more first. Maybe even reread that article from earlier...
+TEXT: 대체 무슨 일이 일어나고 있는지 짐작은 되는데... 확실해질 때까지 자료를 찾아볼게. 아마 칼로스지방 특집을 다시 읽으면 알 수 있을 거야.
 
 RESOURCE ID: quest_special_dialogue_zygarde_1_4
 TEXT: 너도 필드워크를 계속해 줄 수 있니?
@@ -99481,7 +99487,7 @@ RESOURCE ID: quest_special_dialogue_zygarde_3_5
 TEXT: 트레이너들의 보고를 정리하면 루트를 걸으면 지가르데 셀을 발견할 가능성이 높다는군 녹색 물체는 셀을 말하는 거였어.
 
 RESOURCE ID: quest_special_dialogue_zygarde_3_5_temp
-TEXT: And where can you find those Cells? Well, do you recall the unusual activity along Routes I mentioned earlier? I reckon it may have been caused by Zygarde Cells!
+TEXT: 그럼 그 셀을 어디서 발견할까? 루트에서 보고된 신기한 현상에 대해 말했었지? 지가르데 셀과 연관이 있는 것 같아.
 
 RESOURCE ID: quest_special_dialogue_zygarde_3_6
 TEXT: %PLAYERNAME%, 너에게 검증을 부탁하고 싶은데 해줄 거지?
@@ -110906,7 +110912,7 @@ RESOURCE ID: report_route_bug_info_zygarde
 TEXT: 모든 루트에서 지가르데 셀이 나오는 것은 아닙니다.
 
 RESOURCE ID: report_route_bug_info_zygarde_temp
-TEXT: Zygarde Cells are not guaranteed to appear at the end of every Route.
+TEXT: 모든 루트의 끝나는 지점에서 지가르데 셀을 발견하는 것은 아닙니다.
 
 RESOURCE ID: report_route_bug_reason_candy
 TEXT: 이 루트를 걸어도 파트너 포켓몬이 빨리 사탕을 발견하지 않았다.
@@ -115493,6 +115499,9 @@ TEXT: 생생한 추억
 RESOURCE ID: season23_forever_forward
 TEXT: 새로운 발걸음
 
+RESOURCE ID: season24_twilight_trails
+TEXT: 황혼의 여정
+
 RESOURCE ID: season_gbl_forecast_title_7
 TEXT: Season of GO
 
@@ -115540,6 +115549,9 @@ TEXT: Pokémon GO: 생생한 추억
 
 RESOURCE ID: season_gbl_forecast_title_23
 TEXT: Pokémon GO: 새로운 발걸음
+
+RESOURCE ID: season_gbl_forecast_title_24
+TEXT: Pokémon GO: 황혼의 여정
 
 RESOURCE ID: season_partner_research_ltd_amazon_gaming
 TEXT: Limited Partner Research - Hidden Gems : Amazon Prime Gaming
@@ -115838,6 +115850,9 @@ TEXT: 자세한 내용은 <a href="https://pokemongo.com/go-pass">웹사이트</
 
 RESOURCE ID: season_pass_details_link_october2025
 TEXT: 자세한 내용은 <a href="https://pokemongo.com/go-pass">웹사이트</a>에서 확인해 주세요.
+
+RESOURCE ID: season_pass_details_link_sep2026
+TEXT: 자세한 내용은 <a href="https://pokemongo.com/news/go-pass-september-2026">웹사이트</a>에서 확인해 주세요.
 
 RESOURCE ID: season_pass_details_link_september2025
 TEXT: 자세한 내용은 <a href="https://pokemongo.com/go-pass">웹사이트</a>에서 확인해 주세요.
@@ -116251,6 +116266,19 @@ TEXT: GO패스 디럭스: PokémonXP & 챔피언십2026
 
 RESOURCE ID: season_pass_premium_track_title_winter_holidays_2025
 TEXT: GO패스 디럭스: 윈터2025
+
+RESOURCE ID: season_pass_sep2026_event_duration
+TEXT: 9월 8일~10월 6일
+
+RESOURCE ID: season_pass_sep2026_track_upgrade_header_description
+TEXT: 추가 리워드를 받을 수 있고 랭크 20에서 <b>시간제한 부화장치</b>를 잠금 해제!
+
+RESOURCE ID: season_pass_sep2026_upgrade_description
+TEXT: GO패스 디럭스: 9월을 구매하면 다음 리워드를 잠금해제할 수 있습니다!
+
+- 슈퍼 부화장치 1개
+- 횟수 제한 없이 알을 부화할 수 있는 <a href="https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2358-incubators-hatching-pokemon-eggs/">시간제한 부화장치</a> 1개
+- 기타
 
 RESOURCE ID: season_pass_september2025_event_duration
 TEXT: 9월 2일~10월 7일
@@ -127479,7 +127507,7 @@ RESOURCE ID: today_view_upcoming_events_today_marker
 TEXT: TODAY
 
 RESOURCE ID: today_view_welcome_back_tab_label
-TEXT: Kanto Homecoming
+TEXT: 관동지방 탐방
 
 RESOURCE ID: toggle_item_equip
 TEXT: 사용
@@ -129279,40 +129307,40 @@ RESOURCE ID: tr_jp2025_aeon_mall_header_01
 TEXT: Pokémon GO 메가 특훈! 시간제한 리서치(2/2)
 
 RESOURCE ID: tr_kindling_2026_set_01_header
-TEXT: Kanto Homecoming Timed Research (1/12)
+TEXT: 관동지방 탐방 시간제한 리서치(1/12)
 
 RESOURCE ID: tr_kindling_2026_set_02_header
-TEXT: Kanto Homecoming Timed Research (2/12)
+TEXT: 관동지방 탐방 시간제한 리서치(2/12)
 
 RESOURCE ID: tr_kindling_2026_set_03_header
-TEXT: Kanto Homecoming Timed Research (3/12)
+TEXT: 관동지방 탐방 시간제한 리서치(3/12)
 
 RESOURCE ID: tr_kindling_2026_set_04_header
-TEXT: Kanto Homecoming Timed Research (4/12)
+TEXT: 관동지방 탐방 시간제한 리서치(4/12)
 
 RESOURCE ID: tr_kindling_2026_set_05_header
-TEXT: Kanto Homecoming Timed Research (5/12)
+TEXT: 관동지방 탐방 시간제한 리서치(5/12)
 
 RESOURCE ID: tr_kindling_2026_set_06_header
-TEXT: Kanto Homecoming Timed Research (6/12)
+TEXT: 관동지방 탐방 시간제한 리서치(6/12)
 
 RESOURCE ID: tr_kindling_2026_set_07_header
-TEXT: Kanto Homecoming Timed Research (7/12)
+TEXT: 관동지방 탐방 시간제한 리서치(7/12)
 
 RESOURCE ID: tr_kindling_2026_set_08_header
-TEXT: Kanto Homecoming Timed Research (8/12)
+TEXT: 관동지방 탐방 시간제한 리서치(8/12)
 
 RESOURCE ID: tr_kindling_2026_set_09_header
-TEXT: Kanto Homecoming Timed Research (9/12)
+TEXT: 관동지방 탐방 시간제한 리서치(9/12)
 
 RESOURCE ID: tr_kindling_2026_set_10_header
-TEXT: Kanto Homecoming Timed Research (10/12)
+TEXT: 관동지방 탐방 시간제한 리서치(10/12)
 
 RESOURCE ID: tr_kindling_2026_set_11_header
-TEXT: Kanto Homecoming Timed Research (11/12)
+TEXT: 관동지방 탐방 시간제한 리서치(11/12)
 
 RESOURCE ID: tr_kindling_2026_set_12_header
-TEXT: Kanto Homecoming Timed Research (12/12)
+TEXT: 관동지방 탐방 시간제한 리서치(12/12)
 
 RESOURCE ID: tr_kr2025_retention_cherryblossom_title
 TEXT: 벚꽃 챌린지

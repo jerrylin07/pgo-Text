@@ -30019,6 +30019,9 @@ TEXT: Lega Lotte GO: Ricordi in movimento
 RESOURCE ID: combat_title_season_23
 TEXT: Lega Lotte GO della stagione “Avanti insieme”
 
+RESOURCE ID: combat_title_season_24
+TEXT: Lega Lotte GO della stagione “Sentieri crepuscolari”
+
 RESOURCE ID: combat_ultra_league
 TEXT: Ultra League
 
@@ -35110,6 +35113,9 @@ TEXT: Stagione corrente: Ricordi in movimento
 
 RESOURCE ID: event_season23_name
 TEXT: Stagione corrente: Avanti insieme
+
+RESOURCE ID: event_season24_name
+TEXT: Stagione corrente: Sentieri crepuscolari
 
 RESOURCE ID: event_season3_name
 TEXT: Stagione delle scoperte
@@ -56359,10 +56365,10 @@ RESOURCE ID: keyboard_symbols
 TEXT: Simboli
 
 RESOURCE ID: kindling_2026_mini_collection
-TEXT: Kanto Homecoming: Road to Mewtwo
+TEXT: Ritorno a Kanto: destinazione Mewtwo
 
 RESOURCE ID: kindling_2026_mini_collection_desc
-TEXT: Catch the Pokémon from the Kanto Homecoming Timed Research to encounter Mewtwo!
+TEXT: Cattura i Pokémon della ricerca a tempo “Ritorno a Kanto” per incontrare Mewtwo!
 
 RESOURCE ID: kingler_gmax_tr_2025_title
 TEXT: Ricerca a tempo premium dedicata a Kingler Gigamax
@@ -61906,10 +61912,10 @@ at SHA 4d4f3e80cc7fb911006bd14d198c9831ef66d005
 Pipeline 339838, job 2672172
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-08-25T00:39:24.215034+00:00 for it-IT
-at SHA 327cb4e2544
-Pipeline 3895507, job 57281112
-Patch from: 0.427.0-SHA-bafb3348-RC1, 0.425.1-SHA-966e4c2a-RC1
+TEXT: Built at 2026-08-26T01:07:20.006486+00:00 for it-IT
+at SHA 2e2920214a9
+Pipeline 3898520, job 57331254
+Patch from: 0.427.0-SHA-05b59ce2-RC3, 0.425.1-SHA-966e4c2a-RC1
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: Ricerca a tempo: Scegli il tuo tipo Lotta
@@ -84408,7 +84414,7 @@ RESOURCE ID: quest_catch_kanto_pokemon
 TEXT: Cattura [0} Pokémon originariamente scoperti nella regione di Kanto
 
 RESOURCE ID: quest_catch_kanto_pokemon_days
-TEXT: Catch Pokémon originally discovered in the Kanto region on {0} different days
+TEXT: Cattura Pokémon originariamente scoperti nella regione di Kanto in {0} giorni diversi
 
 RESOURCE ID: quest_catch_kanto_starters_plural
 TEXT: Cattura {0} Bulbasaur, Charmander o Squirtle
@@ -116129,6 +116135,9 @@ TEXT: Ricordi in movimento
 RESOURCE ID: season23_forever_forward
 TEXT: Avanti insieme
 
+RESOURCE ID: season24_twilight_trails
+TEXT: Sentieri crepuscolari
+
 RESOURCE ID: season_gbl_forecast_title_7
 TEXT: Stagione di GO
 
@@ -116176,6 +116185,9 @@ TEXT: Pokémon GO: Ricordi in movimento
 
 RESOURCE ID: season_gbl_forecast_title_23
 TEXT: Pokémon GO: Avanti insieme
+
+RESOURCE ID: season_gbl_forecast_title_24
+TEXT: Pokémon GO: Sentieri crepuscolari
 
 RESOURCE ID: season_partner_research_ltd_amazon_gaming
 TEXT: Ricerca partner mirata della stagione Gemme nascoste: Amazon Prime Gaming
@@ -116474,6 +116486,9 @@ TEXT: Per ulteriori informazioni, visita il <a href="https://pokemongo.com/go-pa
 
 RESOURCE ID: season_pass_details_link_october2025
 TEXT: Per ulteriori informazioni, visita il <a href="https://pokemongo.com/go-pass">sito</a>.
+
+RESOURCE ID: season_pass_details_link_sep2026
+TEXT: Per ulteriori informazioni, visita il <a href="https://pokemongo.com/news/go-pass-september-2026">sito</a>.
 
 RESOURCE ID: season_pass_details_link_september2025
 TEXT: Per ulteriori informazioni, visita il <a href="https://pokemongo.com/go-pass">sito</a>.
@@ -116890,6 +116905,19 @@ TEXT: Biglietto GO deluxe dell’evento “PokémonXP e Mondiali 2026”
 
 RESOURCE ID: season_pass_premium_track_title_winter_holidays_2025
 TEXT: Biglietto GO deluxe dell’evento “Feste invernali” 2025
+
+RESOURCE ID: season_pass_sep2026_event_duration
+TEXT: Dall’8 settembre al 6 ottobre
+
+RESOURCE ID: season_pass_sep2026_track_upgrade_header_description
+TEXT: Ottieni ricompense aggiuntive e sblocca <b>un’Incubatrice a tempo</b> al livello 20!
+
+RESOURCE ID: season_pass_sep2026_upgrade_description
+TEXT: Acquista il biglietto GO deluxe di settembre per sbloccare le seguenti ricompense!
+
+• Una Superincubatrice
+• Un’<a href="https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2358-incubators-hatching-pokemon-eggs/">Incubatrice a tempo</a>, che è un’Incubatrice aggiuntiva da usare un numero infinito di volte per far schiudere le Uova man mano che esplori!
+• E tanto altro!
 
 RESOURCE ID: season_pass_september2025_event_duration
 TEXT: Dal 2 settembre al 7 ottobre
@@ -118109,7 +118137,7 @@ RESOURCE ID: shelmetkarrablast_post_cd_timed_research_name
 TEXT: Ricerca a tempo “Oltre il Community Day” dedicata a Shelmet e Karrablast
 
 RESOURCE ID: shield_break_adventure_effect_battle_log
-TEXT: YOUR ATTACKS ARE BOOSTED BY DYNAMIC PUNCH+’S ADVENTURE EFFECT!
+TEXT: I TUOI ATTACCHI SONO POTENZIATI DALL’EFFETTO AVVENTURA DI DINAMIPUGNO+!
 
 RESOURCE ID: shinjuku_cross_title
 TEXT: クロス新宿ビジョン
@@ -128141,7 +128169,7 @@ RESOURCE ID: today_view_upcoming_events_today_marker
 TEXT: OGGI
 
 RESOURCE ID: today_view_welcome_back_tab_label
-TEXT: Kanto Homecoming
+TEXT: Ritorno a Kanto
 
 RESOURCE ID: toggle_item_equip
 TEXT: ATTIVA
@@ -129941,40 +129969,40 @@ RESOURCE ID: tr_jp2025_aeon_mall_header_01
 TEXT: Ricerca a tempo dell’evento “Allenamento Mega di Pokémon GO!” (2/2)
 
 RESOURCE ID: tr_kindling_2026_set_01_header
-TEXT: Kanto Homecoming Timed Research (1/12)
+TEXT: Ricerca a tempo “Ritorno a Kanto” (1/12)
 
 RESOURCE ID: tr_kindling_2026_set_02_header
-TEXT: Kanto Homecoming Timed Research (2/12)
+TEXT: Ricerca a tempo “Ritorno a Kanto” (2/12)
 
 RESOURCE ID: tr_kindling_2026_set_03_header
-TEXT: Kanto Homecoming Timed Research (3/12)
+TEXT: Ricerca a tempo “Ritorno a Kanto” (3/12)
 
 RESOURCE ID: tr_kindling_2026_set_04_header
-TEXT: Kanto Homecoming Timed Research (4/12)
+TEXT: Ricerca a tempo “Ritorno a Kanto” (4/12)
 
 RESOURCE ID: tr_kindling_2026_set_05_header
-TEXT: Kanto Homecoming Timed Research (5/12)
+TEXT: Ricerca a tempo “Ritorno a Kanto” (5/12)
 
 RESOURCE ID: tr_kindling_2026_set_06_header
-TEXT: Kanto Homecoming Timed Research (6/12)
+TEXT: Ricerca a tempo “Ritorno a Kanto” (6/12)
 
 RESOURCE ID: tr_kindling_2026_set_07_header
-TEXT: Kanto Homecoming Timed Research (7/12)
+TEXT: Ricerca a tempo “Ritorno a Kanto” (7/12)
 
 RESOURCE ID: tr_kindling_2026_set_08_header
-TEXT: Kanto Homecoming Timed Research (8/12)
+TEXT: Ricerca a tempo “Ritorno a Kanto” (8/12)
 
 RESOURCE ID: tr_kindling_2026_set_09_header
-TEXT: Kanto Homecoming Timed Research (9/12)
+TEXT: Ricerca a tempo “Ritorno a Kanto” (9/12)
 
 RESOURCE ID: tr_kindling_2026_set_10_header
-TEXT: Kanto Homecoming Timed Research (10/12)
+TEXT: Ricerca a tempo “Ritorno a Kanto” (10/12)
 
 RESOURCE ID: tr_kindling_2026_set_11_header
-TEXT: Kanto Homecoming Timed Research (11/12)
+TEXT: Ricerca a tempo “Ritorno a Kanto” (11/12)
 
 RESOURCE ID: tr_kindling_2026_set_12_header
-TEXT: Kanto Homecoming Timed Research (12/12)
+TEXT: Ricerca a tempo “Ritorno a Kanto” (12/12)
 
 RESOURCE ID: tr_kr2025_retention_cherryblossom_title
 TEXT: Sfida fiore di ciliegio

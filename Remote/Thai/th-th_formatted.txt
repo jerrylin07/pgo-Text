@@ -30282,6 +30282,9 @@ TEXT: โกแบตเทิลลีก: ความทรงจำพรั
 RESOURCE ID: combat_title_season_23
 TEXT: โกแบตเทิลลีก: ก้าวเดินครั้งใหม่
 
+RESOURCE ID: combat_title_season_24
+TEXT: โกแบตเทิลลีก: เส้นทางสนธยา
+
 RESOURCE ID: combat_ultra_league
 TEXT: อัลตร้าลีก
 
@@ -35535,6 +35538,9 @@ TEXT: ฤดูกาลปัจจุบัน: ความทรงจำพ
 
 RESOURCE ID: event_season23_name
 TEXT: ฤดูกาลปัจจุบัน: ก้าวเดินครั้งใหม่
+
+RESOURCE ID: event_season24_name
+TEXT: ฤดูกาลปัจจุบัน: เส้นทางสนธยา
 
 RESOURCE ID: event_season3_name
 TEXT: ฤดูกาลแห่งการค้นพบ
@@ -42085,7 +42091,7 @@ RESOURCE ID: general2.ticket._gowa25_leadup_title
 TEXT: ตั๋วงานวิจัยแบบจำกัดเวลาพรีเมียม: คู่มือสู่ธรรมชาติ
 
 RESOURCE ID: general2.ticket._gowa26_title
-TEXT: Pokémon GO Wild Area 2026: Global Ticket
+TEXT: ตั๋ว Pokémon GO ไวลด์แอเรีย 2026: ทั่วโลก
 
 RESOURCE ID: general2.ticket._megagalladeraidday_title
 TEXT: ตั๋ว "วันตีบอสเมก้าเอรูเรโด"
@@ -58987,7 +58993,9 @@ Pokémon GO ไวลด์แอเรีย 2025: ทั่วโลก
 ตามเวลาท้องถิ่นทั่วโลก
 
 RESOURCE ID: item_global_event_ticket_desc_gowa26
-TEXT: A ticket to access the Pokémon GO Wild Area 2026: Global Special Research on November 14 and November 15, 2026, wherever you are.
+TEXT: ตั๋วสำหรับเข้าร่วมงานวิจัยพิเศษ
+Pokémon GO ไวลด์แอเรีย 2026: ทั่วโลก
+ในวันที่ 14-15 พฤศจิกายน 2026\ทั่วโลก
 
 RESOURCE ID: item_global_event_ticket_desc_hisuiandecidueye
 TEXT: ตั๋วสำหรับรับโบนัสพิเศษในวันที่
@@ -59075,9 +59083,13 @@ TEXT: ตั๋วนี้จะทำให้คุณเข้าร่ว�
 เพื่อรับโบนัสทั้งหมดจากอีเวนต์
 
 RESOURCE ID: item_global_event_ticket_details_gowa26
-TEXT: This ticket will automatically activate to give you access to the Pokémon GO Wild Area 2026: Global Special Research on November 14 and 15, wherever you are. Details can be found in the in-game News.
+TEXT: ตั๋วนี้จะทำให้คุณเข้าร่วมงานวิจัยพิเศษ Pokémon GO ไวลด์แอเรีย 2026: ทั่วโลก
+ในวันที่ 14-15 พฤศจิกายน
+ได้โดยอัตโนมัติไม่ว่าคุณจะอยู่ที่ใดในโลก
+สามารถดูรายละเอียดได้ที่ข่าวสารในเกม
 
-You must play during the specified time to receive all the event bonuses.
+คุณต้องเล่นเกมในช่วงเวลาที่กำหนด
+เพื่อรับโบนัสทั้งหมดจากอีเวนต์
 
 RESOURCE ID: item_global_event_ticket_details_hisuiandecidueye
 TEXT: ตั๋วสำหรับรับโบนัสพิเศษ
@@ -60521,10 +60533,10 @@ RESOURCE ID: keyboard_symbols
 TEXT: สัญลักษณ์
 
 RESOURCE ID: kindling_2026_mini_collection
-TEXT: Kanto Homecoming: Road to Mewtwo
+TEXT: เยี่ยมชมภูมิภาคคันโต: เส้นทางสู่มิวทู
 
 RESOURCE ID: kindling_2026_mini_collection_desc
-TEXT: Catch the Pokémon from the Kanto Homecoming Timed Research to encounter Mewtwo!
+TEXT: จับโปเกมอนจากงานวิจัยแบบจำกัดเวลาเยี่ยมชมภูมิภาคคันโตเพื่อเผชิญหน้ากับมิวทู!
 
 RESOURCE ID: kingler_gmax_tr_2025_title
 TEXT: งานวิจัยแบบจำกัดเวลาพรีเมียม: คิงเกลอร์กิกะแมกซ์
@@ -66350,10 +66362,10 @@ at SHA da71d231c41a4d4f7aef0d6fd71061652ff15a0a
 Pipeline 441624, job 3600523
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-08-25T00:39:24.215034+00:00 for th-TH
-at SHA 327cb4e2544
-Pipeline 3895507, job 57281112
-Patch from: 0.427.0-SHA-bafb3348-RC1, 0.425.1-SHA-966e4c2a-RC1
+TEXT: Built at 2026-08-26T01:07:20.006486+00:00 for th-TH
+at SHA 2e2920214a9
+Pipeline 3898520, job 57331254
+Patch from: 0.427.0-SHA-05b59ce2-RC3, 0.425.1-SHA-966e4c2a-RC1
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: งานวิจัยแบบจำกัดเวลา: ประเภทต่อสู้ของคุณ
@@ -91450,7 +91462,8 @@ TEXT: จับโปเกมอนที่ถูกค้นพบครั�
 ในภูมิภาคคันโต {0} ตัว
 
 RESOURCE ID: quest_catch_kanto_pokemon_days
-TEXT: Catch Pokémon originally discovered in the Kanto region on {0} different days
+TEXT: จับโปเกมอนที่ถูกค้นพบครั้งแรก
+ในภูมิภาคคันโตรวม {0} วัน
 
 RESOURCE ID: quest_catch_kanto_starters_plural
 TEXT: จับฟุชิกิดาเนะ, ฮิโตคาเงะ หรือเซนิกาเมะ {0} ตัว
@@ -126872,6 +126885,9 @@ TEXT: ความทรงจำพรั่งพรู
 RESOURCE ID: season23_forever_forward
 TEXT: ก้าวเดินครั้งใหม่
 
+RESOURCE ID: season24_twilight_trails
+TEXT: เส้นทางสนธยา
+
 RESOURCE ID: season_gbl_forecast_title_7
 TEXT: Season of GO
 
@@ -126919,6 +126935,9 @@ TEXT: Pokémon GO: ความทรงจำพรั่งพรู
 
 RESOURCE ID: season_gbl_forecast_title_23
 TEXT: Pokémon GO: ก้าวเดินครั้งใหม่
+
+RESOURCE ID: season_gbl_forecast_title_24
+TEXT: Pokémon GO: เส้นทางสนธยา
 
 RESOURCE ID: season_partner_research_ltd_amazon_gaming
 TEXT: Limited Partner Research - Hidden Gems : Amazon Prime Gaming
@@ -127226,6 +127245,9 @@ TEXT: ตรวจสอบรายละเอียดได้ที่<a hr
 
 RESOURCE ID: season_pass_details_link_october2025
 TEXT: ตรวจสอบรายละเอียดได้ที่<a href="https://pokemongo.com/go-pass">เว็บไซต์</a>นี้
+
+RESOURCE ID: season_pass_details_link_sep2026
+TEXT: ตรวจสอบรายละเอียดได้ที่<a href="https://pokemongo.com/news/go-pass-september-2026">เว็บไซต์</a>นี้
 
 RESOURCE ID: season_pass_details_link_september2025
 TEXT: ตรวจสอบรายละเอียดได้ที่<a href="https://pokemongo.com/go-pass">เว็บไซต์</a>นี้
@@ -127652,6 +127674,19 @@ TEXT: บัตรผ่าน GO Deluxe: โปเกมอน XP & WCS 2026
 
 RESOURCE ID: season_pass_premium_track_title_winter_holidays_2025
 TEXT: บัตรผ่าน GO Deluxe: วินเทอร์ฮอลิเดย์ 2025
+
+RESOURCE ID: season_pass_sep2026_event_duration
+TEXT: 8 กันยายน ถึง 6 ตุลาคม
+
+RESOURCE ID: season_pass_sep2026_track_upgrade_header_description
+TEXT: รับรางวัลเพิ่มเติมและปลดล็อก<b>เครื่องฟักไข่จำกัดเวลา</b>ที่ระดับ 20!
+
+RESOURCE ID: season_pass_sep2026_upgrade_description
+TEXT: ซื้อบัตรผ่าน GO Deluxe: กันยายน เพื่อปลดล็อกรางวัลต่อไปนี้!
+
+- เครื่องฟักไข่ชั้นเยี่ยม 1 ชิ้น
+- <a href="https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2358-incubators-hatching-pokemon-eggs/">เครื่องฟักไข่จำกัดเวลา</a>ที่สามารถฟักไข่ได้ไม่จำกัดจำนวนครั้ง 1 ชิ้น
+- และอื่น ๆ
 
 RESOURCE ID: season_pass_september2025_event_duration
 TEXT: 2 กันยายน ถึง 7 ตุลาคม
@@ -128897,7 +128932,7 @@ RESOURCE ID: shelmetkarrablast_post_cd_timed_research_name
 TEXT: งานวิจัยแบบจำกัดเวลาภาคต่อโชโบมากิและคาบูรูโมะคอมมิวนิตี้เดย์
 
 RESOURCE ID: shield_break_adventure_effect_battle_log
-TEXT: YOUR ATTACKS ARE BOOSTED BY DYNAMIC PUNCH+’S ADVENTURE EFFECT!
+TEXT: พลังโจมตีของคุณได้รับการบูสต์จากเอฟเฟกต์ผจญภัย "หมัดดินระเบิด+"
 
 RESOURCE ID: shinjuku_cross_title
 TEXT: クロス新宿ビジョン
@@ -137207,14 +137242,15 @@ TEXT: <b>สิ่งที่จะได้รับ:</b>
 <a href="https://pokemongo.com/gowildarea/global">เรียนรู้เพิ่มเติมเกี่ยวกับโบนัสตั๋วได้ที่นี่</a>
 
 RESOURCE ID: text_rewards_key_gowa26
-TEXT: <b>Includes:</b>
-• Up to 6 free Raid Passes each day from spinning Gym Photo Discs
-• Increased chance of receiving event 10 km Eggs from PokéStops
-• Up to 6 Special Trades per day and reduced Stardust cost for trades
-• 1/2 Hatch Distance when Eggs are placed in an Incubator during the event
-• 2× Candy for catching Pokémon
-• A higher chance to encounter Shiny Pokémon during the event
-Learn more about the ticket bonuses <a href="pokemongo.com/gowildarea/global">here</a>.
+TEXT: <b>สิ่งที่จะได้รับ:</b>
+- บัตรตีบอสฟรีสูงสุด 6 ใบในแต่ละวัน โดยการหมุนแผ่นภาพที่ยิม
+- เพิ่มโอกาสได้รับไข่ 10 กม. จากการหมุนเสาโปเกสต็อป
+- แลกเปลี่ยนแบบพิเศษได้สูงสุด 6 ครั้งต่อวัน และลดปริมาณสตาร์ดัสต์ที่ใช้สำหรับแลกเปลี่ยน
+- 1/2 ระยะทางฟักไข่สำหรับไข่ที่วางไว้ในเครื่องฟักไข่ในช่วงอีเวนต์
+- 2× ลูกอมจากการจับโปเกมอน
+- โอกาสในการเผชิญหน้ากับโปเกมอนสีแตกต่างจะเพิ่มขึ้นในระหว่างอีเวนต์
+
+เรียนรู้เพิ่มเติมเกี่ยวกับโบนัสตั๋วได้<a href="pokemongo.com/gowildarea/global">ที่นี่</a>
 
 RESOURCE ID: text_rewards_key_growingup0525
 TEXT: <b>รางวัลที่จะได้รับ:</b>
@@ -140281,7 +140317,7 @@ RESOURCE ID: today_view_upcoming_events_today_marker
 TEXT: TODAY
 
 RESOURCE ID: today_view_welcome_back_tab_label
-TEXT: Kanto Homecoming
+TEXT: เยี่ยมชมภูมิภาคคันโต
 
 RESOURCE ID: toggle_item_equip
 TEXT: ติดตั้ง
@@ -142402,40 +142438,40 @@ RESOURCE ID: tr_jp2025_aeon_mall_header_01
 TEXT: งานวิจัยแบบจำกัดเวลาการฝึกเมก้า Pokémon GO! (2/2)
 
 RESOURCE ID: tr_kindling_2026_set_01_header
-TEXT: Kanto Homecoming Timed Research (1/12)
+TEXT: งานวิจัยแบบจำกัดเวลาเยี่ยมชมภูมิภาคคันโต (1/12)
 
 RESOURCE ID: tr_kindling_2026_set_02_header
-TEXT: Kanto Homecoming Timed Research (2/12)
+TEXT: งานวิจัยแบบจำกัดเวลาเยี่ยมชมภูมิภาคคันโต (2/12)
 
 RESOURCE ID: tr_kindling_2026_set_03_header
-TEXT: Kanto Homecoming Timed Research (3/12)
+TEXT: งานวิจัยแบบจำกัดเวลาเยี่ยมชมภูมิภาคคันโต (3/12)
 
 RESOURCE ID: tr_kindling_2026_set_04_header
-TEXT: Kanto Homecoming Timed Research (4/12)
+TEXT: งานวิจัยแบบจำกัดเวลาเยี่ยมชมภูมิภาคคันโต (4/12)
 
 RESOURCE ID: tr_kindling_2026_set_05_header
-TEXT: Kanto Homecoming Timed Research (5/12)
+TEXT: งานวิจัยแบบจำกัดเวลาเยี่ยมชมภูมิภาคคันโต (5/12)
 
 RESOURCE ID: tr_kindling_2026_set_06_header
-TEXT: Kanto Homecoming Timed Research (6/12)
+TEXT: งานวิจัยแบบจำกัดเวลาเยี่ยมชมภูมิภาคคันโต (6/12)
 
 RESOURCE ID: tr_kindling_2026_set_07_header
-TEXT: Kanto Homecoming Timed Research (7/12)
+TEXT: งานวิจัยแบบจำกัดเวลาเยี่ยมชมภูมิภาคคันโต (7/12)
 
 RESOURCE ID: tr_kindling_2026_set_08_header
-TEXT: Kanto Homecoming Timed Research (8/12)
+TEXT: งานวิจัยแบบจำกัดเวลาเยี่ยมชมภูมิภาคคันโต (8/12)
 
 RESOURCE ID: tr_kindling_2026_set_09_header
-TEXT: Kanto Homecoming Timed Research (9/12)
+TEXT: งานวิจัยแบบจำกัดเวลาเยี่ยมชมภูมิภาคคันโต (9/12)
 
 RESOURCE ID: tr_kindling_2026_set_10_header
-TEXT: Kanto Homecoming Timed Research (10/12)
+TEXT: งานวิจัยแบบจำกัดเวลาเยี่ยมชมภูมิภาคคันโต (10/12)
 
 RESOURCE ID: tr_kindling_2026_set_11_header
-TEXT: Kanto Homecoming Timed Research (11/12)
+TEXT: งานวิจัยแบบจำกัดเวลาเยี่ยมชมภูมิภาคคันโต (11/12)
 
 RESOURCE ID: tr_kindling_2026_set_12_header
-TEXT: Kanto Homecoming Timed Research (12/12)
+TEXT: งานวิจัยแบบจำกัดเวลาเยี่ยมชมภูมิภาคคันโต (12/12)
 
 RESOURCE ID: tr_kr2025_retention_cherryblossom_title
 TEXT: คำท้าดอกซากุระ

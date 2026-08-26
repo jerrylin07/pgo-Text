@@ -30340,6 +30340,9 @@ TEXT: GO-Kampfliga: Erinnerungen in Bewegung
 RESOURCE ID: combat_title_season_23
 TEXT: GO-Kampfliga: Immer weiter
 
+RESOURCE ID: combat_title_season_24
+TEXT: GO-Kampfliga: Abendgoldpfade
+
 RESOURCE ID: combat_ultra_league
 TEXT: Ultra League
 
@@ -35430,6 +35433,9 @@ TEXT: Aktuelle Jahreszeit: Erinnerungen in Bewegung
 
 RESOURCE ID: event_season23_name
 TEXT: Aktuelle Jahreszeit: Immer weiter
+
+RESOURCE ID: event_season24_name
+TEXT: Aktuelle Saison: Abendgoldpfade
 
 RESOURCE ID: event_season3_name
 TEXT: Jahreszeit der Entdeckung
@@ -47967,16 +47973,16 @@ RESOURCE ID: gofest2026_copenhagen
 TEXT: Pokémon GO Fest 2026: Kopenhagen
 
 RESOURCE ID: gofest2026_tag
-TEXT: GO Fest 2026: Mega Finale
+TEXT: GO Fest 2026: Mega-Finale
 
 RESOURCE ID: gofest2026_tokyo
 TEXT: Pokémon GO Fest 2026: Tokio
 
 RESOURCE ID: gofest2026_battle_district
-TEXT: Battle District
+TEXT: Kampfbezirk
 
 RESOURCE ID: gofest2026_circuit_plaza
-TEXT: Circuit Plaza
+TEXT: Stromkreisplatz
 
 RESOURCE ID: gofest2026_collection_district
 TEXT: Sammlerbezirk
@@ -48003,7 +48009,7 @@ RESOURCE ID: gofest2026_details_link
 TEXT: Weitere Infos findest du auf der <a href="https://pokemongo.com/news/road-of-legends-2026">Website</a>.
 
 RESOURCE ID: gofest2026_eerie_alley
-TEXT: Eerie Alley
+TEXT: Schaurige Gasse
 
 RESOURCE ID: gofest2026_finale_details_link
 TEXT: Weitere Details gibt es auf der Website von <a href="https://Pokémongo.com/gofest/megafinale">GO Fest 2026: Mega-Finale</a>.
@@ -48015,13 +48021,13 @@ RESOURCE ID: gofest2026_investigation_district
 TEXT: Untersucherbezirk
 
 RESOURCE ID: gofest2026_iron_frostworks
-TEXT: Iron Frostworks
+TEXT: Froststahlwerke
 
 RESOURCE ID: gofest2026_mindworks_canal
-TEXT: Mindworks Canal
+TEXT: Gedankenstrom
 
 RESOURCE ID: gofest2026_prism_promenade
-TEXT: Prism Promenade
+TEXT: Prisma-Promenade
 
 RESOURCE ID: gofest2026_recruitment_zone
 TEXT: Rekrutierungszone
@@ -48039,10 +48045,10 @@ RESOURCE ID: gofest2026_scouting_district
 TEXT: Erkunderbezirk
 
 RESOURCE ID: gofest2026_skyline_roosts
-TEXT: Skyline Roosts
+TEXT: Himmelsnester
 
 RESOURCE ID: gofest2026_verdant_overgrowth
-TEXT: Verdant Overgrowth
+TEXT: Grünes Dickicht
 
 RESOURCE ID: gofest_arlo_challenge#1
 TEXT: Wir haben euer Fest schon übernommen und du willst mich immer noch herausfordern? Mach dich bereit für die harte Realität.
@@ -56696,10 +56702,10 @@ RESOURCE ID: keyboard_symbols
 TEXT: Symbole
 
 RESOURCE ID: kindling_2026_mini_collection
-TEXT: Kanto Homecoming: Road to Mewtwo
+TEXT: Heimkehr nach Kanto: Der Weg zu Mewtu
 
 RESOURCE ID: kindling_2026_mini_collection_desc
-TEXT: Catch the Pokémon from the Kanto Homecoming Timed Research to encounter Mewtwo!
+TEXT: Fange die Pokémon aus der Befristeten Forschung: Heimkehr nach Kanto, um Mewtu zu begegnen!
 
 RESOURCE ID: kingler_gmax_tr_2025_title
 TEXT: Befristete Premium-Forschung: Gigadynamax-Kingler
@@ -62249,10 +62255,10 @@ at SHA 4d4f3e80cc7fb911006bd14d198c9831ef66d005
 Pipeline 339838, job 2672172
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-08-25T00:39:24.215034+00:00 for de-DE
-at SHA 327cb4e2544
-Pipeline 3895507, job 57281112
-Patch from: 0.427.0-SHA-bafb3348-RC1, 0.425.1-SHA-966e4c2a-RC1
+TEXT: Built at 2026-08-26T01:07:20.006486+00:00 for de-DE
+at SHA 2e2920214a9
+Pipeline 3898520, job 57331254
+Patch from: 0.427.0-SHA-05b59ce2-RC3, 0.425.1-SHA-966e4c2a-RC1
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: Befristete Forschung: Ansage vom Typ Kampf
@@ -84762,7 +84768,7 @@ RESOURCE ID: quest_catch_kanto_pokemon
 TEXT: Fange {0} Pokémon, die ursprünglich in der Kanto-Region entdeckt wurden.
 
 RESOURCE ID: quest_catch_kanto_pokemon_days
-TEXT: Catch Pokémon originally discovered in the Kanto region on {0} different days
+TEXT: Fange Pokémon, die ursprünglich in der Kanto-Region entdeckt wurden, an {0} unterschiedlichen Tagen.
 
 RESOURCE ID: quest_catch_kanto_starters_plural
 TEXT: Fange {0} Bisasam, Glumanda oder Schiggy.
@@ -116477,6 +116483,9 @@ TEXT: Erinnerungen in Bewegung
 RESOURCE ID: season23_forever_forward
 TEXT: Immer weiter
 
+RESOURCE ID: season24_twilight_trails
+TEXT: Abendgoldpfade
+
 RESOURCE ID: season_gbl_forecast_title_7
 TEXT: Season of GO
 
@@ -116524,6 +116533,9 @@ TEXT: Pokémon GO: Erinnerungen in Bewegung
 
 RESOURCE ID: season_gbl_forecast_title_23
 TEXT: Pokémon GO: Immer weiter
+
+RESOURCE ID: season_gbl_forecast_title_24
+TEXT: Pokémon GO: Abendgoldpfade
 
 RESOURCE ID: season_partner_research_ltd_amazon_gaming
 TEXT: Limited Partner Research - Hidden Gems : Amazon Prime Gaming
@@ -116822,6 +116834,9 @@ TEXT: Weitere Infos findest du auf der <a href="https://pokemongo.com/de/go-pass
 
 RESOURCE ID: season_pass_details_link_october2025
 TEXT: Weitere Infos findest du auf der <a href="https://pokemongo.com/de/go-pass">Website</a>.
+
+RESOURCE ID: season_pass_details_link_sep2026
+TEXT: Weitere Infos findest du auf der <a href="https://pokemongo.com/news/go-pass-september-2026">Website</a>.
 
 RESOURCE ID: season_pass_details_link_september2025
 TEXT: Weitere Infos findest du auf der <a href="https://pokemongo.com/de/go-pass">Website</a>.
@@ -117239,6 +117254,19 @@ TEXT: GO-Pass-Deluxe: PokémonXP & Weltmeisterschaften 2026
 
 RESOURCE ID: season_pass_premium_track_title_winter_holidays_2025
 TEXT: GO-Pass-Deluxe: Winter-Feiertage 2025
+
+RESOURCE ID: season_pass_sep2026_event_duration
+TEXT: 8. September bis 6. Oktober
+
+RESOURCE ID: season_pass_sep2026_track_upgrade_header_description
+TEXT: Verdiene zusätzliche Belohnungen und schalte eine <b>Befristete Brutmaschine</b> bei Stufe 20 frei!
+
+RESOURCE ID: season_pass_sep2026_upgrade_description
+TEXT: Schnapp dir den GO-Pass-Deluxe: September, um die folgenden Belohnungen freizuschalten!
+
+• Eine Super-Brutmaschine
+• Eine <a href="https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2358-incubators-hatching-pokemon-eggs/">Befristete Brutmaschine</a>, eine zusätzliche, zeitlich begrenzte Brutmaschine zum Ausbrüten von Eiern, die du unbegrenzt nutzen kannst, während du auf Erkundung gehst!
+• Und vieles mehr!
 
 RESOURCE ID: season_pass_september2025_event_duration
 TEXT: 2. September bis 7. Oktober
@@ -118458,7 +118486,7 @@ RESOURCE ID: shelmetkarrablast_post_cd_timed_research_name
 TEXT: Community Day mit Schnuthelm und Laukaps: Befristete Forschung – Fortsetzung
 
 RESOURCE ID: shield_break_adventure_effect_battle_log
-TEXT: YOUR ATTACKS ARE BOOSTED BY DYNAMIC PUNCH+’S ADVENTURE EFFECT!
+TEXT: DEINE ATTACKEN ERHALTEN DURCH DEN ABENTEUER-EFFEKT VON WUCHTSCHLAG+ EINEN BOOST!
 
 RESOURCE ID: shinjuku_cross_title
 TEXT: クロス新宿ビジョン
@@ -128489,7 +128517,7 @@ RESOURCE ID: today_view_upcoming_events_today_marker
 TEXT: HEUTE
 
 RESOURCE ID: today_view_welcome_back_tab_label
-TEXT: Kanto Homecoming
+TEXT: Heimkehr nach Kanto
 
 RESOURCE ID: toggle_item_equip
 TEXT: EINSCHALTEN
@@ -130289,40 +130317,40 @@ RESOURCE ID: tr_jp2025_aeon_mall_header_01
 TEXT: Befristete Forschung: Pokémon GO-Mega-Training! (2/2)
 
 RESOURCE ID: tr_kindling_2026_set_01_header
-TEXT: Kanto Homecoming Timed Research (1/12)
+TEXT: Befristete Forschung: Heimkehr nach Kanto (1/12)
 
 RESOURCE ID: tr_kindling_2026_set_02_header
-TEXT: Kanto Homecoming Timed Research (2/12)
+TEXT: Befristete Forschung: Heimkehr nach Kanto (2/12)
 
 RESOURCE ID: tr_kindling_2026_set_03_header
-TEXT: Kanto Homecoming Timed Research (3/12)
+TEXT: Befristete Forschung: Heimkehr nach Kanto (3/12)
 
 RESOURCE ID: tr_kindling_2026_set_04_header
-TEXT: Kanto Homecoming Timed Research (4/12)
+TEXT: Befristete Forschung: Heimkehr nach Kanto (4/12)
 
 RESOURCE ID: tr_kindling_2026_set_05_header
-TEXT: Kanto Homecoming Timed Research (5/12)
+TEXT: Befristete Forschung: Heimkehr nach Kanto (5/12)
 
 RESOURCE ID: tr_kindling_2026_set_06_header
-TEXT: Kanto Homecoming Timed Research (6/12)
+TEXT: Befristete Forschung: Heimkehr nach Kanto (6/12)
 
 RESOURCE ID: tr_kindling_2026_set_07_header
-TEXT: Kanto Homecoming Timed Research (7/12)
+TEXT: Befristete Forschung: Heimkehr nach Kanto (7/12)
 
 RESOURCE ID: tr_kindling_2026_set_08_header
-TEXT: Kanto Homecoming Timed Research (8/12)
+TEXT: Befristete Forschung: Heimkehr nach Kanto (8/12)
 
 RESOURCE ID: tr_kindling_2026_set_09_header
-TEXT: Kanto Homecoming Timed Research (9/12)
+TEXT: Befristete Forschung: Heimkehr nach Kanto (9/12)
 
 RESOURCE ID: tr_kindling_2026_set_10_header
-TEXT: Kanto Homecoming Timed Research (10/12)
+TEXT: Befristete Forschung: Heimkehr nach Kanto (10/12)
 
 RESOURCE ID: tr_kindling_2026_set_11_header
-TEXT: Kanto Homecoming Timed Research (11/12)
+TEXT: Befristete Forschung: Heimkehr nach Kanto (11/12)
 
 RESOURCE ID: tr_kindling_2026_set_12_header
-TEXT: Kanto Homecoming Timed Research (12/12)
+TEXT: Befristete Forschung: Heimkehr nach Kanto (12/12)
 
 RESOURCE ID: tr_kr2025_retention_cherryblossom_title
 TEXT: Kirschblüten-Herausforderung
