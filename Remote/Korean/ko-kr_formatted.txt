@@ -61343,10 +61343,10 @@ at SHA 4d4f3e80cc7fb911006bd14d198c9831ef66d005
 Pipeline 339838, job 2672172
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-08-26T01:07:20.006486+00:00 for ko-KR
-at SHA 2e2920214a9
-Pipeline 3898520, job 57331254
-Patch from: 0.427.0-SHA-05b59ce2-RC3, 0.425.1-SHA-966e4c2a-RC1
+TEXT: Built at 2026-08-28T01:42:44.267676+00:00 for ko-KR
+at SHA 878816a4cdd
+Pipeline 3904949, job 57436540
+Patch from: 0.427.0-SHA-fc729f25-RC2, 0.425.1-SHA-966e4c2a-RC1
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: 시간제한 리서치: 격투타입
@@ -83536,6 +83536,15 @@ RESOURCE ID: quest_branch_choose_mega_delphox
 TEXT: 메가마폭시
 
 RESOURCE ID: quest_branch_choose_mega_greninja
+TEXT: 메가개굴닌자
+
+RESOURCE ID: quest_branch_choose_mega_chesnaught_out
+TEXT: 메가브리가론
+
+RESOURCE ID: quest_branch_choose_mega_delphox_out
+TEXT: 메가마폭시
+
+RESOURCE ID: quest_branch_choose_mega_greninja_out
 TEXT: 메가개굴닌자
 
 RESOURCE ID: quest_branch_choose_oshawott_desc
@@ -117502,7 +117511,7 @@ RESOURCE ID: shelmetkarrablast_post_cd_timed_research_name
 TEXT: 쪼마리와 딱정곤 커뮤니티 데이 컨티뉴 시간제한 리서치
 
 RESOURCE ID: shield_break_adventure_effect_battle_log
-TEXT: YOUR ATTACKS ARE BOOSTED BY DYNAMIC PUNCH+’S ADVENTURE EFFECT!
+TEXT: 폭발펀치+ 필드 효과로 공격 상승!
 
 RESOURCE ID: shinjuku_cross_title
 TEXT: クロス新宿ビジョン

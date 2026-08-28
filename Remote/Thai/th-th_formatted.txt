@@ -50128,16 +50128,16 @@ RESOURCE ID: gofest2026_copenhagen
 TEXT: Pokémon GO Fest 2026: โคเปนเฮเกน
 
 RESOURCE ID: gofest2026_tag
-TEXT: GO Fest 2026: Mega Finale
+TEXT: GO Fest 2026: เมก้าฟินาเล
 
 RESOURCE ID: gofest2026_tokyo
 TEXT: Pokémon GO Fest 2026: โตเกียว
 
 RESOURCE ID: gofest2026_battle_district
-TEXT: Battle District
+TEXT: เขตแบตเทิล
 
 RESOURCE ID: gofest2026_circuit_plaza
-TEXT: Circuit Plaza
+TEXT: ลานกว้างวงจร
 
 RESOURCE ID: gofest2026_collection_district
 TEXT: เขตสะสม
@@ -50164,7 +50164,7 @@ RESOURCE ID: gofest2026_details_link
 TEXT: ตรวจสอบรายละเอียดได้ที่<a href="https://pokemongo.com/news/road-of-legends-2026">เว็บไซต์</a>นี้
 
 RESOURCE ID: gofest2026_eerie_alley
-TEXT: Eerie Alley
+TEXT: ตรอกมืดมิด
 
 RESOURCE ID: gofest2026_finale_details_link
 TEXT: ตรวจสอบรายละเอียดได้ที่<a href="https://pokemongo.com/gofest/megafinale">เว็บไซต์ GO Fest 2026: เมก้าฟินาเล</a>
@@ -50176,13 +50176,13 @@ RESOURCE ID: gofest2026_investigation_district
 TEXT: เขตสืบสวน
 
 RESOURCE ID: gofest2026_iron_frostworks
-TEXT: Iron Frostworks
+TEXT: เหมืองแร่น้ำแข็ง
 
 RESOURCE ID: gofest2026_mindworks_canal
-TEXT: Mindworks Canal
+TEXT: คลองนึกคิด
 
 RESOURCE ID: gofest2026_prism_promenade
-TEXT: Prism Promenade
+TEXT: ถนนปริซึม
 
 RESOURCE ID: gofest2026_recruitment_zone
 TEXT: โซนร่วมทีม
@@ -50200,10 +50200,10 @@ RESOURCE ID: gofest2026_scouting_district
 TEXT: เขตสอดแนม
 
 RESOURCE ID: gofest2026_skyline_roosts
-TEXT: Skyline Roosts
+TEXT: ถิ่นเหนือฟากฟ้า
 
 RESOURCE ID: gofest2026_verdant_overgrowth
-TEXT: Verdant Overgrowth
+TEXT: พุ่มไม้เลื้อย
 
 RESOURCE ID: gofest_arlo_challenge#1
 TEXT: พวกเรายึดงานเฉลิมฉลองของแกแล้ว แต่แกยังดึงดันที่จะท้าทายฉันเหรอ? งั้นก็เตรียมพร้อมเจอความจริงอันแสนโหดร้ายได้เลย
@@ -66362,10 +66362,10 @@ at SHA da71d231c41a4d4f7aef0d6fd71061652ff15a0a
 Pipeline 441624, job 3600523
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-08-26T01:07:20.006486+00:00 for th-TH
-at SHA 2e2920214a9
-Pipeline 3898520, job 57331254
-Patch from: 0.427.0-SHA-05b59ce2-RC3, 0.425.1-SHA-966e4c2a-RC1
+TEXT: Built at 2026-08-28T01:42:44.267676+00:00 for th-TH
+at SHA 878816a4cdd
+Pipeline 3904949, job 57436540
+Patch from: 0.427.0-SHA-fc729f25-RC2, 0.425.1-SHA-966e4c2a-RC1
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: งานวิจัยแบบจำกัดเวลา: ประเภทต่อสู้ของคุณ
@@ -91087,12 +91087,21 @@ RESOURCE ID: quest_branch_choose_la_reine_desc
 TEXT: เมื่อเลือกเส้นทางนี้ ในระหว่างอีเวนต์ จะสามารถเปลี่ยนทริมเมียนเป็นทรงราชินีได้ (ในการเปลี่ยนร่างทริมเมียน จำเป็นต้องใช้ลูกอมทริมเมียน 25 เม็ดและ 10,000 สตาร์ดัสต์)
 
 RESOURCE ID: quest_branch_choose_mega_chesnaught
-TEXT: เลือกฮาริมารอน
+TEXT: เลือกเมก้าบริการอน
 
 RESOURCE ID: quest_branch_choose_mega_delphox
-TEXT: เลือกฟ็อกโกะ
+TEXT: เลือกเมก้ามาฟ็อกซี
 
 RESOURCE ID: quest_branch_choose_mega_greninja
+TEXT: เลือกเมก้าเก็คโคกะ
+
+RESOURCE ID: quest_branch_choose_mega_chesnaught_out
+TEXT: เลือกฮาริมารอน
+
+RESOURCE ID: quest_branch_choose_mega_delphox_out
+TEXT: เลือกฟ็อกโกะ
+
+RESOURCE ID: quest_branch_choose_mega_greninja_out
 TEXT: เลือกเคโรมัตซึ
 
 RESOURCE ID: quest_branch_choose_oshawott_desc
@@ -97199,7 +97208,7 @@ RESOURCE ID: quest_snapshot_wild_bug_plural
 TEXT: ถ่ายภาพโปเกมอนป่าประเภทแมลง {0} ภาพ
 
 RESOURCE ID: quest_snapshot_wild_bug_unique_plural
-TEXT: ถ่ายภาพโปเกมอนประเภทแมลง
+TEXT: ถ่ายภาพโปเกมอนป่าประเภทแมลง
 ที่แตกต่างกัน {0} สายพันธุ์
 
 RESOURCE ID: quest_snapshot_wild_butterfree_shinx_blitzle
@@ -97354,7 +97363,7 @@ RESOURCE ID: quest_snapshot_wild_steel_plural
 TEXT: ถ่ายภาพโปเกมอนป่าประเภทโลหะ {0} ภาพ
 
 RESOURCE ID: quest_snapshot_wild_steel_unique_plural
-TEXT: ถ่ายภาพโปเกมอนประเภทโลหะ
+TEXT: ถ่ายภาพโปเกมอนป่าประเภทโลหะ
 ที่แตกต่างกัน {0} สายพันธุ์
 
 RESOURCE ID: quest_snapshot_wild_trapinch_sandshrew_cacnea
@@ -131077,7 +131086,8 @@ TEXT: วันนี้คุณสามารถเข้าร่วมต�
 บัตรตีบอสระยะไกลจะถูกใช้งานเมื่อแบตเทิลเริ่มขึ้น
 
 RESOURCE ID: squash_confirmation_singular
-TEXT: วันนี้คุณสามารถเข้าร่วมตีบอสระยะไกล/nหรือแบตเทิลแมกซ์ระยะไกลได้อีก 1 ครั้ง
+TEXT: วันนี้คุณสามารถเข้าร่วมตีบอสระยะไกล
+หรือแบตเทิลแมกซ์ระยะไกลได้อีก 1 ครั้ง
 บัตรตีบอสระยะไกลจะถูกใช้งานเมื่อแบตเทิลเริ่มขึ้น
 
 RESOURCE ID: squash_confirmation_plural_archived

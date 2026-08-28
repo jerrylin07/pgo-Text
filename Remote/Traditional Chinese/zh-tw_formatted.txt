@@ -61807,10 +61807,10 @@ at SHA 4d4f3e80cc7fb911006bd14d198c9831ef66d005
 Pipeline 339838, job 2672172
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-08-26T01:07:20.006486+00:00 for zh-TW
-at SHA 2e2920214a9
-Pipeline 3898520, job 57331254
-Patch from: 0.427.0-SHA-05b59ce2-RC3, 0.425.1-SHA-966e4c2a-RC1
+TEXT: Built at 2026-08-28T01:42:44.267676+00:00 for zh-TW
+at SHA 878816a4cdd
+Pipeline 3904949, job 57436540
+Patch from: 0.427.0-SHA-fc729f25-RC2, 0.425.1-SHA-966e4c2a-RC1
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: 限時調查：格鬥屬性
@@ -84077,6 +84077,15 @@ RESOURCE ID: quest_branch_choose_mega_delphox
 TEXT: 超級妖火紅狐
 
 RESOURCE ID: quest_branch_choose_mega_greninja
+TEXT: 超級甲賀忍蛙
+
+RESOURCE ID: quest_branch_choose_mega_chesnaught_out
+TEXT: 超級布里卡隆
+
+RESOURCE ID: quest_branch_choose_mega_delphox_out
+TEXT: 超級妖火紅狐
+
+RESOURCE ID: quest_branch_choose_mega_greninja_out
 TEXT: 超級甲賀忍蛙
 
 RESOURCE ID: quest_branch_choose_oshawott_desc

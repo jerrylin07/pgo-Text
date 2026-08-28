@@ -38688,7 +38688,7 @@ RESOURCE ID: general2.ticket._gowa25_leadup_title
 TEXT: Penelitian Berwaktu Premium Bersiap untuk Alam Liar
 
 RESOURCE ID: general2.ticket._gowa26_title
-TEXT: Tiket Pokémon GO Wild Area 2026 Global
+TEXT: Tiket Pokémon GO Wild Area 2026: Global
 
 RESOURCE ID: general2.ticket._megagalladeraidday_title
 TEXT: Tiket Hari Raid Mega Gallade
@@ -59291,10 +59291,10 @@ at SHA 12701f1c07ae7f07a5d50583f697320977df7988
 Pipeline 1139111, job 13470914
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-08-26T01:07:20.006486+00:00 for id-ID
-at SHA 2e2920214a9
-Pipeline 3898520, job 57331254
-Patch from: 0.427.0-SHA-05b59ce2-RC3, 0.425.1-SHA-966e4c2a-RC1
+TEXT: Built at 2026-08-28T01:42:44.267676+00:00 for id-ID
+at SHA 878816a4cdd
+Pipeline 3904949, job 57436540
+Patch from: 0.427.0-SHA-fc729f25-RC2, 0.425.1-SHA-966e4c2a-RC1
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: Penelitian Berwaktu: Pilih Tipe Petarungmu
@@ -81445,12 +81445,21 @@ RESOURCE ID: quest_branch_choose_la_reine_desc
 TEXT: Pilih opsi ini untuk mengubah potongan Furfrou regionalmu yang biasa menjadi Potongan Ratu hingga akhir event. Mengubah potongan Furfrou-mu dari satu potongan ke potongan lainnya akan membutuhkan 25 Permen Furfrou dan 10.000 Debu Bintang.
 
 RESOURCE ID: quest_branch_choose_mega_chesnaught
-TEXT: Pilih Chespin
+TEXT: Pilih Mega Chesnaught
 
 RESOURCE ID: quest_branch_choose_mega_delphox
-TEXT: Pilih Fennekin
+TEXT: Pilih Mega Delphox
 
 RESOURCE ID: quest_branch_choose_mega_greninja
+TEXT: Pilih Mega Greninja
+
+RESOURCE ID: quest_branch_choose_mega_chesnaught_out
+TEXT: Pilih Chespin
+
+RESOURCE ID: quest_branch_choose_mega_delphox_out
+TEXT: Pilih Fennekin
+
+RESOURCE ID: quest_branch_choose_mega_greninja_out
 TEXT: Pilih Froakie
 
 RESOURCE ID: quest_branch_choose_oshawott_desc
@@ -122573,7 +122582,7 @@ TEXT: <b>Termasuk:</b>
 • Peningkatan peluang untuk menerima Telur 5  km event dari memutar PokéStop
 • Hingga 6 Pertukaran Spesial per hari dan pengurangan biaya Debu Bintang untuk pertukaran
 • Pengurangan 1/2 Jarak Penetasan untuk Telur yang ditempatkan di Mesin Penetas
-• Permen untuk menangkap Pokémon ×2
+• Permen dari menangkap Pokémon ×2
 • Peluang lebih tinggi untuk menangkap Pokémon Bersinar selama event
 
 <a href="https://pokemongo.com/gowildarea/global"> Pelajari lebih lanjut tentang bonus tiket di sini.</a>
@@ -122584,6 +122593,7 @@ TEXT: <b>Termasuk:</b>
 • Peningkatan peluang untuk menerima Telur 10 km event dari memutar PokéStop
 • Hingga 6 Pertukaran Spesial per hari dan pengurangan biaya Debu Bintang untuk pertukaran
 • Pengurangan 1/2 Jarak Penetasan saat Telur ditempatkan di Mesin Penetas selama event
+• Permen dari menangkap Pokémon ×2
 • Peluang lebih tinggi untuk menangkap Pokémon Bersinar selama event
 Pelajari lebih lanjut tentang bonus tiket <a href="https://pokemongo.com/gowildarea/global">di sini</a>.
 
@@ -123502,7 +123512,7 @@ TEXT: <b>Termasuk:</b>
 • Peningkatan peluang untuk menerima Telur 5  km event dari memutar PokéStop
 • Hingga 6 Pertukaran Spesial per hari dan pengurangan biaya Debu Bintang untuk pertukaran
 • Pengurangan 1/2 Jarak Penetasan untuk Telur yang ditempatkan di Mesin Penetas
-• Permen untuk menangkap Pokémon ×2
+• Permen dari menangkap Pokémon ×2
 • Peluang lebih tinggi untuk menangkap Pokémon Bersinar selama event
 
  Pelajari lebih lanjut tentang bonus tiket <a href="https://pokemongo.com/gowildarea/global">di sini</a>.

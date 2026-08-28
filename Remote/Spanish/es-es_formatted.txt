@@ -62332,10 +62332,10 @@ at SHA 4d4f3e80cc7fb911006bd14d198c9831ef66d005
 Pipeline 339838, job 2672172
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-08-26T01:07:20.006486+00:00 for es-ES
-at SHA 2e2920214a9
-Pipeline 3898520, job 57331254
-Patch from: 0.427.0-SHA-05b59ce2-RC3, 0.425.1-SHA-966e4c2a-RC1
+TEXT: Built at 2026-08-28T01:42:44.267676+00:00 for es-ES
+at SHA 878816a4cdd
+Pipeline 3904949, job 57436540
+Patch from: 0.427.0-SHA-fc729f25-RC2, 0.425.1-SHA-966e4c2a-RC1
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: Investigación temporal: Elige tu tipo de lucha
@@ -84495,12 +84495,21 @@ RESOURCE ID: quest_branch_choose_la_reine_desc
 TEXT: Selecciona esta opción para cambiar el corte o cortes regionales habituales de tu Furfrou por el Corte Aristocrático durante el resto del evento. Cambiar el corte de tus Furfrou de uno a otro tendrá un coste de 25 Caramelos Furfrou y 10 000 Polvos Estelares.
 
 RESOURCE ID: quest_branch_choose_mega_chesnaught
-TEXT: Elegir a Chespin
+TEXT: Elegir a Mega-Chesnaught
 
 RESOURCE ID: quest_branch_choose_mega_delphox
-TEXT: Elegir a Fennekin
+TEXT: Elegir a Mega-Delphox
 
 RESOURCE ID: quest_branch_choose_mega_greninja
+TEXT: Elegir a Mega-Greninja
+
+RESOURCE ID: quest_branch_choose_mega_chesnaught_out
+TEXT: Elegir a Chespin
+
+RESOURCE ID: quest_branch_choose_mega_delphox_out
+TEXT: Elegir a Fennekin
+
+RESOURCE ID: quest_branch_choose_mega_greninja_out
 TEXT: Elegir a Froakie
 
 RESOURCE ID: quest_branch_choose_oshawott_desc

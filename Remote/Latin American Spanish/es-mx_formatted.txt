@@ -38886,7 +38886,7 @@ RESOURCE ID: general2.ticket._gowa25_leadup_title
 TEXT: Entrada: Investigación Temporal Prémium de Preparativos silvestres
 
 RESOURCE ID: general2.ticket._gowa26_title
-TEXT: Pokémon GO Wild Area 2026: Global Ticket
+TEXT: Entrada de Área Silvestre de Pokémon GO 2026: Global
 
 RESOURCE ID: general2.ticket._megagalladeraidday_title
 TEXT: Entrada: Día de Incursiones de Mega-Gallade
@@ -45258,16 +45258,16 @@ RESOURCE ID: gofest2026_copenhagen
 TEXT: Festival de Pokémon GO 2026: Copenhague
 
 RESOURCE ID: gofest2026_tag
-TEXT: GO Fest 2026: Mega Finale
+TEXT: Festival de GO 2026: Megaclausura
 
 RESOURCE ID: gofest2026_tokyo
 TEXT: Festival de Pokémon GO 2026: Tokio
 
 RESOURCE ID: gofest2026_battle_district
-TEXT: Battle District
+TEXT: Distrito de Combate
 
 RESOURCE ID: gofest2026_circuit_plaza
-TEXT: Circuit Plaza
+TEXT: Circuitoplaza
 
 RESOURCE ID: gofest2026_collection_district
 TEXT: Distrito de Colección
@@ -45294,7 +45294,7 @@ RESOURCE ID: gofest2026_details_link
 TEXT: Para obtener más información, visita el <a href="https://pokemongo.com/news/road-of-legends-2026">sitio web</a>.
 
 RESOURCE ID: gofest2026_eerie_alley
-TEXT: Eerie Alley
+TEXT: Callejón Espeluznante
 
 RESOURCE ID: gofest2026_finale_details_link
 TEXT: Para obtener más información, visita el <a href="https://pokemongo.com/gofest/megafinale">sitio web del Festival de GO 2026: Megaclausura</a>.
@@ -45306,13 +45306,13 @@ RESOURCE ID: gofest2026_investigation_district
 TEXT: Distrito de Investigación
 
 RESOURCE ID: gofest2026_iron_frostworks
-TEXT: Iron Frostworks
+TEXT: Forjaférrea Glacial
 
 RESOURCE ID: gofest2026_mindworks_canal
-TEXT: Mindworks Canal
+TEXT: Canal Mental
 
 RESOURCE ID: gofest2026_prism_promenade
-TEXT: Prism Promenade
+TEXT: Paseo Prismático
 
 RESOURCE ID: gofest2026_recruitment_zone
 TEXT: Zona de Reclutamiento
@@ -45330,10 +45330,10 @@ RESOURCE ID: gofest2026_scouting_district
 TEXT: Distrito de Exploración
 
 RESOURCE ID: gofest2026_skyline_roosts
-TEXT: Skyline Roosts
+TEXT: Atalayas Estelares
 
 RESOURCE ID: gofest2026_verdant_overgrowth
-TEXT: Verdant Overgrowth
+TEXT: Vegetación Frondosa
 
 RESOURCE ID: gofest_arlo_challenge#1
 TEXT: Invadimos esta celebración, ¿y aun así insistes en desafiarme? Prepárate para el duro choque con la realidad.
@@ -52626,7 +52626,7 @@ RESOURCE ID: item_global_event_ticket_desc_gowa25
 TEXT: Una entrada para acceder a la Investigación Especial de Área Silvestre de Pokémon GO 2025: Global el 15 y 16 de noviembre de 2025 en tu hora local, estés donde estés.
 
 RESOURCE ID: item_global_event_ticket_desc_gowa26
-TEXT: A ticket to access the Pokémon GO Wild Area 2026: Global Special Research on November 14 and November 15, 2026, wherever you are.
+TEXT: Una entrada para acceder a la Investigación Especial de Área Silvestre de Pokémon GO 2026: Global el 14 y 15 de noviembre de 2026, estés donde estés.
 
 RESOURCE ID: item_global_event_ticket_desc_hisuiandecidueye
 TEXT: Una entrada para acceder a bonificaciones especiales el domingo 11 de febrero de 2024 de 2 p. m. a 10 p. m. en tu hora local, estés donde estés.
@@ -52685,9 +52685,9 @@ TEXT: Esta entrada se activará automáticamente el 15 y 16 de noviembre para da
 Debes jugar durante las horas especificadas para recibir todas las bonificaciones del evento.
 
 RESOURCE ID: item_global_event_ticket_details_gowa26
-TEXT: This ticket will automatically activate to give you access to the Pokémon GO Wild Area 2026: Global Special Research on November 14 and 15, wherever you are. Details can be found in the in-game News.
+TEXT: Esta entrada se activará automáticamente el 14 y 15 de noviembre para darte acceso a la Investigación Especial de Área Silvestre de Pokémon GO 2026: Global en tu hora local, estés donde estés. Puedes encontrar más información en las Noticias dentro del juego.
 
-You must play during the specified time to receive all the event bonuses.
+Debes jugar durante las horas especificadas para recibir todas las bonificaciones del evento.
 
 RESOURCE ID: item_global_event_ticket_details_hisuiandecidueye
 TEXT: Esta entrada se activará automáticamente para darte acceso a las bonificaciones especiales el 11 de febrero, estés donde estés.
@@ -59454,10 +59454,10 @@ at SHA 0b3915937aff7
 Pipeline 2177475, job 26434025
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-08-26T01:07:20.006486+00:00 for es-MX
-at SHA 2e2920214a9
-Pipeline 3898520, job 57331254
-Patch from: 0.427.0-SHA-05b59ce2-RC3, 0.425.1-SHA-966e4c2a-RC1
+TEXT: Built at 2026-08-28T01:42:44.267676+00:00 for es-MX
+at SHA 878816a4cdd
+Pipeline 3904949, job 57436540
+Patch from: 0.427.0-SHA-fc729f25-RC2, 0.425.1-SHA-966e4c2a-RC1
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: Investigación Temporal: Elige tu tipo de lucha
@@ -81466,12 +81466,21 @@ RESOURCE ID: quest_branch_choose_la_reine_desc
 TEXT: Selecciona esta opción para cambiar el corte o cortes regionales habituales de tu Furfrou por el Corte Aristocrático durante el resto del evento. Cambiar el corte de tus Furfrou de uno a otro tendrá un costo de 25 Caramelos Furfrou y 10,000 Polvos Estrella.
 
 RESOURCE ID: quest_branch_choose_mega_chesnaught
-TEXT: Elegir a Chespin
+TEXT: Elegir a Mega-Chesnaught
 
 RESOURCE ID: quest_branch_choose_mega_delphox
-TEXT: Elegir a Fennekin
+TEXT: Elegir a Mega-Delphox
 
 RESOURCE ID: quest_branch_choose_mega_greninja
+TEXT: Elegir a Mega-Greninja
+
+RESOURCE ID: quest_branch_choose_mega_chesnaught_out
+TEXT: Elegir a Chespin
+
+RESOURCE ID: quest_branch_choose_mega_delphox_out
+TEXT: Elegir a Fennekin
+
+RESOURCE ID: quest_branch_choose_mega_greninja_out
 TEXT: Elegir a Froakie
 
 RESOURCE ID: quest_branch_choose_oshawott_desc
@@ -114931,7 +114940,7 @@ RESOURCE ID: shelmetkarrablast_post_cd_timed_research_name
 TEXT: Investigación Temporal: El Día de la Comunidad de Shelmet y Karrablast sigue
 
 RESOURCE ID: shield_break_adventure_effect_battle_log
-TEXT: YOUR ATTACKS ARE BOOSTED BY DYNAMIC PUNCH+’S ADVENTURE EFFECT!
+TEXT: ¡TUS ATAQUES TIENEN MÁS PODER GRACIAS AL EFECTO AVENTURA DE PUÑO DINÁMICO+!
 
 RESOURCE ID: shinjuku_cross_title
 TEXT: クロス新宿ビジョン
@@ -122156,14 +122165,11 @@ TEXT: <b>Incluye:</b>
 <a href="https://pokemongo.com/gowildarea/global">Obtén más información sobre las bonificaciones de la entrada aquí.</a>
 
 RESOURCE ID: text_rewards_key_gowa26
-TEXT: <b>Includes:</b>
-• Up to 6 free Raid Passes each day from spinning Gym Photo Discs
-• Increased chance of receiving event 10 km Eggs from PokéStops
-• Up to 6 Special Trades per day and reduced Stardust cost for trades
-• 1/2 Hatch Distance when Eggs are placed in an Incubator during the event
-• 2× Candy for catching Pokémon
-• A higher chance to encounter Shiny Pokémon during the event
-Learn more about the ticket bonuses <a href="pokemongo.com/gowildarea/global">here</a>.
+TEXT: Incluye:• Hasta 6 Pases de Incursión gratuitos cada día al girar fotodiscos en Gimnasios• Mayor probabilidad de obtener Huevos de 10 km del evento en las Poképaradas• Hasta 6 intercambios especiales cada día y un menor costo de Polvo Estrella en los intercambios
+• 1/2 de la distancia para eclosionar Huevos si los colocas en una Incubadora durante el evento
+• 2× Caramelos por atrapar Pokémon
+• Una mayor probabilidad de encontrarte a Pokémon brillantes durante el evento
+Obtén más información sobre las bonificaciones de la entrada <a href="pokemongo.com/gowildarea/global">aquí</a>.
 
 RESOURCE ID: text_rewards_key_growingup0525
 TEXT: <b>Las recompensas incluyen:</b>

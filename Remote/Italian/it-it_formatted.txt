@@ -47637,16 +47637,16 @@ RESOURCE ID: gofest2026_copenhagen
 TEXT: Festival di Pokémon GO 2026 a Copenaghen
 
 RESOURCE ID: gofest2026_tag
-TEXT: GO Fest 2026: Mega Finale
+TEXT: Mega finale del Festival di GO 2026
 
 RESOURCE ID: gofest2026_tokyo
 TEXT: Festival di Pokémon GO 2026 a Tokyo
 
 RESOURCE ID: gofest2026_battle_district
-TEXT: Battle District
+TEXT: Quartiere della lotta
 
 RESOURCE ID: gofest2026_circuit_plaza
-TEXT: Circuit Plaza
+TEXT: Piazza elettrizzante
 
 RESOURCE ID: gofest2026_collection_district
 TEXT: Quartiere della collezione
@@ -47673,7 +47673,7 @@ RESOURCE ID: gofest2026_details_link
 TEXT: Per ulteriori informazioni, visita il <a href="https://pokemongo.com/news/road-of-legends-2026">sito</a>.
 
 RESOURCE ID: gofest2026_eerie_alley
-TEXT: Eerie Alley
+TEXT: Vicolo sinistro
 
 RESOURCE ID: gofest2026_finale_details_link
 TEXT: Per saperne di più, visita il <a href="https://Pokémongo.com/gofest/megafinale">sito web dell’ evento Mega finale del Festival di GO 2026</a>.
@@ -47685,13 +47685,13 @@ RESOURCE ID: gofest2026_investigation_district
 TEXT: Quartiere delle indagini
 
 RESOURCE ID: gofest2026_iron_frostworks
-TEXT: Iron Frostworks
+TEXT: Ghiacciai ferrosi
 
 RESOURCE ID: gofest2026_mindworks_canal
-TEXT: Mindworks Canal
+TEXT: Canale psichico
 
 RESOURCE ID: gofest2026_prism_promenade
-TEXT: Prism Promenade
+TEXT: Passeggiata prismatica
 
 RESOURCE ID: gofest2026_recruitment_zone
 TEXT: Zona delle reclute
@@ -47709,10 +47709,10 @@ RESOURCE ID: gofest2026_scouting_district
 TEXT: Quartiere dell’esplorazione
 
 RESOURCE ID: gofest2026_skyline_roosts
-TEXT: Skyline Roosts
+TEXT: Nidi urbani
 
 RESOURCE ID: gofest2026_verdant_overgrowth
-TEXT: Verdant Overgrowth
+TEXT: Flora rigogliosa
 
 RESOURCE ID: gofest_arlo_challenge#1
 TEXT: Ti abbiamo rubato la festicciola e ancora vuoi sfidarmi? Preparati a fare i conti con la dura realtà.
@@ -61912,10 +61912,10 @@ at SHA 4d4f3e80cc7fb911006bd14d198c9831ef66d005
 Pipeline 339838, job 2672172
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-08-26T01:07:20.006486+00:00 for it-IT
-at SHA 2e2920214a9
-Pipeline 3898520, job 57331254
-Patch from: 0.427.0-SHA-05b59ce2-RC3, 0.425.1-SHA-966e4c2a-RC1
+TEXT: Built at 2026-08-28T01:42:44.267676+00:00 for it-IT
+at SHA 878816a4cdd
+Pipeline 3904949, job 57436540
+Patch from: 0.427.0-SHA-fc729f25-RC2, 0.425.1-SHA-966e4c2a-RC1
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: Ricerca a tempo: Scegli il tuo tipo Lotta
@@ -84067,12 +84067,21 @@ RESOURCE ID: quest_branch_choose_la_reine_desc
 TEXT: Seleziona questa opzione per cambiare il taglio regionale o altri tagli di Furfrou nel Taglio Regina per tutto il resto dell’evento. Cambiare il taglio di Furfrou costerà 25 caramelle Furfrou e 10.000 unità di polvere di stelle.
 
 RESOURCE ID: quest_branch_choose_mega_chesnaught
-TEXT: Scegli Chespin
+TEXT: Scegli MegaChesnaught
 
 RESOURCE ID: quest_branch_choose_mega_delphox
-TEXT: Scegli Fennekin
+TEXT: Scegli MegaDelphox
 
 RESOURCE ID: quest_branch_choose_mega_greninja
+TEXT: Scegli MegaGreninja
+
+RESOURCE ID: quest_branch_choose_mega_chesnaught_out
+TEXT: Scegli Chespin
+
+RESOURCE ID: quest_branch_choose_mega_delphox_out
+TEXT: Scegli Fennekin
+
+RESOURCE ID: quest_branch_choose_mega_greninja_out
 TEXT: Scegli Froakie
 
 RESOURCE ID: quest_branch_choose_oshawott_desc

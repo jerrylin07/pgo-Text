@@ -59442,10 +59442,10 @@ at SHA 413df5befdbe0d00a543f8a142221526d63b719a
 Pipeline 834428, job 8736424
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-08-26T01:07:20.006486+00:00 for tr-TR
-at SHA 2e2920214a9
-Pipeline 3898520, job 57331254
-Patch from: 0.427.0-SHA-05b59ce2-RC3, 0.425.1-SHA-966e4c2a-RC1
+TEXT: Built at 2026-08-28T01:42:44.267676+00:00 for tr-TR
+at SHA 878816a4cdd
+Pipeline 3904949, job 57436540
+Patch from: 0.427.0-SHA-fc729f25-RC2, 0.425.1-SHA-966e4c2a-RC1
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: Süreli Araştırma: Dövüşçünüzü Seçin
@@ -81530,12 +81530,21 @@ RESOURCE ID: quest_branch_choose_la_reine_desc
 TEXT: Furfrou’nuzun her zamanki bölgesel süs veya süslerini etkinliğin geri kalanı boyunca La Reine Süslüye çevirmek için bu seçeneği seçin. Furfrou’nuzun süsünü değiştirmenin bedeli 25 Furfrou şekeri ve 10.000 yıldız tozudur.
 
 RESOURCE ID: quest_branch_choose_mega_chesnaught
-TEXT: Chespin’i seçin
+TEXT: Mega Chesnaught
 
 RESOURCE ID: quest_branch_choose_mega_delphox
-TEXT: Fennekin’i seçin
+TEXT: Mega Delphox
 
 RESOURCE ID: quest_branch_choose_mega_greninja
+TEXT: Mega Greninja
+
+RESOURCE ID: quest_branch_choose_mega_chesnaught_out
+TEXT: Chespin’i seçin
+
+RESOURCE ID: quest_branch_choose_mega_delphox_out
+TEXT: Fennekin’i seçin
+
+RESOURCE ID: quest_branch_choose_mega_greninja_out
 TEXT: Froakie’yi seçin
 
 RESOURCE ID: quest_branch_choose_oshawott_desc

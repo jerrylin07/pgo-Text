@@ -47476,16 +47476,16 @@ RESOURCE ID: gofest2026_copenhagen
 TEXT: Фестиваль Pokémon GO 2026: Копенгаген
 
 RESOURCE ID: gofest2026_tag
-TEXT: GO Fest 2026: Mega Finale
+TEXT: Фестиваль GO 2026: Мегафинал
 
 RESOURCE ID: gofest2026_tokyo
 TEXT: Фестиваль Pokémon GO 2026: Токио
 
 RESOURCE ID: gofest2026_battle_district
-TEXT: Battle District
+TEXT: Округ Битв
 
 RESOURCE ID: gofest2026_circuit_plaza
-TEXT: Circuit Plaza
+TEXT: Центр Электросети
 
 RESOURCE ID: gofest2026_collection_district
 TEXT: Округ Коллекция
@@ -47512,7 +47512,7 @@ RESOURCE ID: gofest2026_details_link
 TEXT: Чтобы узнать больше, посети <a href="https://pokemongo.com/news/road-of-legends-2026">этот сайт</a>.
 
 RESOURCE ID: gofest2026_eerie_alley
-TEXT: Eerie Alley
+TEXT: Зловещий Переулок
 
 RESOURCE ID: gofest2026_finale_details_link
 TEXT: Чтобы узнать больше, посети <a href="https://Pokémongo.com/gofest/megafinale">сайт Фестиваля GO 2026: Мегафинал</a>.
@@ -47524,13 +47524,13 @@ RESOURCE ID: gofest2026_investigation_district
 TEXT: Округ Исследование
 
 RESOURCE ID: gofest2026_iron_frostworks
-TEXT: Iron Frostworks
+TEXT: Железный Хлад
 
 RESOURCE ID: gofest2026_mindworks_canal
-TEXT: Mindworks Canal
+TEXT: Ментальный Канал
 
 RESOURCE ID: gofest2026_prism_promenade
-TEXT: Prism Promenade
+TEXT: Призматическая Прогулка
 
 RESOURCE ID: gofest2026_recruitment_zone
 TEXT: Зона Чемпионы
@@ -47548,10 +47548,10 @@ RESOURCE ID: gofest2026_scouting_district
 TEXT: Округ Поиск
 
 RESOURCE ID: gofest2026_skyline_roosts
-TEXT: Skyline Roosts
+TEXT: Небесное Пристанище
 
 RESOURCE ID: gofest2026_verdant_overgrowth
-TEXT: Verdant Overgrowth
+TEXT: Зелёные Заросли
 
 RESOURCE ID: gofest_arlo_challenge#1
 TEXT: We’ve taken over your celebration, and you still insist on challenging me? Get ready to face the harsh reality.
@@ -61579,7 +61579,7 @@ RESOURCE ID: mega_level_up_unlock_confirmation_title_level
 TEXT: Хочешь повысить уровень до: {0}?
 
 RESOURCE ID: mega_level_up_unlock_cost_error_toast
-TEXT: Недостаточно Мегаэнергии Покемона {0}.
+TEXT: Недостаточно Мегаэнергии {0}.
 
 RESOURCE ID: mega_level_up_unlock_dialog_confirmation
 TEXT: ПОВЫСИТЬ УРОВЕНЬ
@@ -61752,10 +61752,10 @@ at SHA bacc02371739993984570a6f5b31a993cf3b031b
 Pipeline 498004, job 4265729
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-08-26T01:07:20.006486+00:00 for ru-RU
-at SHA 2e2920214a9
-Pipeline 3898520, job 57331254
-Patch from: 0.427.0-SHA-05b59ce2-RC3, 0.425.1-SHA-966e4c2a-RC1
+TEXT: Built at 2026-08-28T01:42:44.267676+00:00 for ru-RU
+at SHA 878816a4cdd
+Pipeline 3904949, job 57436540
+Patch from: 0.427.0-SHA-fc729f25-RC2, 0.425.1-SHA-966e4c2a-RC1
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: ‎Квест на время: Боевой тип
@@ -83904,12 +83904,21 @@ RESOURCE ID: quest_branch_choose_la_reine_desc
 TEXT: Выбери этот вариант, чтобы изменить обычную региональную причёску или причёски твоего Фурфру на форму Причёска-Королева до окончания события. Изменение причёски твоего Фурфру с одной на любую другую будет стоить 25 Фурфру-Конфет и 10 000 Звёздной Пыли.
 
 RESOURCE ID: quest_branch_choose_mega_chesnaught
-TEXT: Выбери Чеспина
+TEXT: Выбери Мега-Чеснот
 
 RESOURCE ID: quest_branch_choose_mega_delphox
-TEXT: Выбери Феннекина
+TEXT: Выбери Мега-Делфокс
 
 RESOURCE ID: quest_branch_choose_mega_greninja
+TEXT: Выбери Мега-Грениндзя
+
+RESOURCE ID: quest_branch_choose_mega_chesnaught_out
+TEXT: Выбери Чеспина
+
+RESOURCE ID: quest_branch_choose_mega_delphox_out
+TEXT: Выбери Феннекина
+
+RESOURCE ID: quest_branch_choose_mega_greninja_out
 TEXT: Выбери Фроки
 
 RESOURCE ID: quest_branch_choose_oshawott_desc
@@ -83984,13 +83993,13 @@ RESOURCE ID: quest_branch_wcs_choose_mega_greninja
 TEXT: Выбери Фроки
 
 RESOURCE ID: quest_branch_wcs_choose_mega_chesnaught_desc
-TEXT: Выбери этот путь, чтобы встретиться с Чеспином, Покемоном-Колючий Орех, а также получить достаточно Мегаэнергии Чеснота, чтобы мегаэволюционировать Чеснота в первый раз.
+TEXT: Выбери этот путь, чтобы встретиться с Чеспином, Покемоном-Колючий Орех, а также получить достаточно Мегаэнергии Чеснот, чтобы мегаэволюционировать Чеснота в первый раз.
 
 RESOURCE ID: quest_branch_wcs_choose_mega_delphox_desc
-TEXT: Выбери этот путь, чтобы встретиться с Феннекином, Покемоном-Лисой, а также получить достаточно Мегаэнергии Делфокса, чтобы мегаэволюционировать Делфокса в первый раз.
+TEXT: Выбери этот путь, чтобы встретиться с Феннекином, Покемоном-Лисой, а также получить достаточно Мегаэнергии Делфокс, чтобы мегаэволюционировать Делфокса в первый раз.
 
 RESOURCE ID: quest_branch_wcs_choose_mega_greninja_desc
-TEXT: Выбери этот путь, чтобы встретиться с Фроки, Покемоном Лягушка-Пузырь, а также получить достаточно Мегаэнергии Грениндзи, чтобы мегаэволюционировать Грениндзю в первый раз.
+TEXT: Выбери этот путь, чтобы встретиться с Фроки, Покемоном Лягушка-Пузырь, а также получить достаточно Мегаэнергии Грениндзя, чтобы мегаэволюционировать Грениндзю в первый раз.
 
 RESOURCE ID: quest_branching_special_dialogue_1
 TEXT: Рад тебя видеть, %PLAYERNAME%! Нас ждут увлекательные исследования, но мне нужна твоя помощь.

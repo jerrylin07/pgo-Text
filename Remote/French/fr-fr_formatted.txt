@@ -61900,10 +61900,10 @@ at SHA 4d4f3e80cc7fb911006bd14d198c9831ef66d005
 Pipeline 339838, job 2672172
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-08-26T01:07:20.006486+00:00 for fr-FR
-at SHA 2e2920214a9
-Pipeline 3898520, job 57331254
-Patch from: 0.427.0-SHA-05b59ce2-RC3, 0.425.1-SHA-966e4c2a-RC1
+TEXT: Built at 2026-08-28T01:42:44.267676+00:00 for fr-FR
+at SHA 878816a4cdd
+Pipeline 3904949, job 57436540
+Patch from: 0.427.0-SHA-fc729f25-RC2, 0.425.1-SHA-966e4c2a-RC1
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: Étude ponctuelle : Choisis ton type de combat
@@ -84062,12 +84062,21 @@ RESOURCE ID: quest_branch_choose_la_reine_desc
 TEXT: Choisis cette option pour changer la coupe régionale habituelle (ou les coupes régionales) de ton Couafarel et lui donner la Coupe Reine. Cela durera jusqu’à la fin de l’évènement. Faire passer Couafarel d’une coupe à une autre coûtera 25 Bonbons Couafarel et 10 000 Poussières Étoiles.
 
 RESOURCE ID: quest_branch_choose_mega_chesnaught
-TEXT: Choisir Marisson
+TEXT: Choisir Méga-Blindépique
 
 RESOURCE ID: quest_branch_choose_mega_delphox
-TEXT: Choisir Feunnec
+TEXT: Choisir Méga-Goupelin
 
 RESOURCE ID: quest_branch_choose_mega_greninja
+TEXT: Choisir Méga-Amphinobi
+
+RESOURCE ID: quest_branch_choose_mega_chesnaught_out
+TEXT: Choisir Marisson
+
+RESOURCE ID: quest_branch_choose_mega_delphox_out
+TEXT: Choisir Feunnec
+
+RESOURCE ID: quest_branch_choose_mega_greninja_out
 TEXT: Choisir Grenousse
 
 RESOURCE ID: quest_branch_choose_oshawott_desc

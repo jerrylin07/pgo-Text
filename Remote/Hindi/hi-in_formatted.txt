@@ -38605,7 +38605,7 @@ RESOURCE ID: general2.ticket._gowa25_leadup_title
 TEXT: वाइल्ड वीक प्रीमियम सीमित समय वाली रिसर्च के लिए तैयार हो जाएँ
 
 RESOURCE ID: general2.ticket._gowa26_title
-TEXT: Pokémon GO Wild Area 2026: Global Ticket
+TEXT: GO वाइल्ड एरयिा 2026 - ग्लोबल टकिट
 
 RESOURCE ID: general2.ticket._megagalladeraidday_title
 TEXT: मेगा गलेड रेड दिवस टिकट
@@ -44978,16 +44978,16 @@ RESOURCE ID: gofest2026_copenhagen
 TEXT: Pokémon GO फ़ेस्टिवल 2026 - कोपेनहेगन
 
 RESOURCE ID: gofest2026_tag
-TEXT: GO Fest 2026: Mega Finale
+TEXT: GO Fest 2026 - मेगा फ़निाले
 
 RESOURCE ID: gofest2026_tokyo
 TEXT: Pokémon GO फ़ेस्टिवल 2026 - तोक्यो
 
 RESOURCE ID: gofest2026_battle_district
-TEXT: Battle District
+TEXT: बैटल ज़ोन
 
 RESOURCE ID: gofest2026_circuit_plaza
-TEXT: Circuit Plaza
+TEXT: सर्कटि प्लाज़ा
 
 RESOURCE ID: gofest2026_collection_district
 TEXT: कलेक्शन डस्ट्रिक्टि
@@ -45014,7 +45014,7 @@ RESOURCE ID: gofest2026_details_link
 TEXT: अधकि जानकारी की लिए <a href="https://pokemongo.com/news/road-of-legends-2026">वेबसाइट</a> पर जाएँ।
 
 RESOURCE ID: gofest2026_eerie_alley
-TEXT: Eerie Alley
+TEXT: भूतयिा गली
 
 RESOURCE ID: gofest2026_finale_details_link
 TEXT: अधकि जानकारी की लिए <a href="https://pokemongo.com/gofest/megafinale"> GO Fest 2026 - मेगा फ़निाले की वेबसाइट</a> पर जाएँ।
@@ -45026,13 +45026,13 @@ RESOURCE ID: gofest2026_investigation_district
 TEXT: जाँच डस्ट्रिक्टि
 
 RESOURCE ID: gofest2026_iron_frostworks
-TEXT: Iron Frostworks
+TEXT: बर्फ़ीली खान
 
 RESOURCE ID: gofest2026_mindworks_canal
-TEXT: Mindworks Canal
+TEXT: माइंडवर्क कनाल
 
 RESOURCE ID: gofest2026_prism_promenade
-TEXT: Prism Promenade
+TEXT: प्रज़्मि गली
 
 RESOURCE ID: gofest2026_recruitment_zone
 TEXT: रिक्रूट ज़ोन
@@ -45050,10 +45050,10 @@ RESOURCE ID: gofest2026_scouting_district
 TEXT: स्काउट डस्ट्रिक्टि
 
 RESOURCE ID: gofest2026_skyline_roosts
-TEXT: Skyline Roosts
+TEXT: आसमानी बसेरा
 
 RESOURCE ID: gofest2026_verdant_overgrowth
-TEXT: Verdant Overgrowth
+TEXT: हरयिाली वाटकिा
 
 RESOURCE ID: gofest_arlo_challenge#1
 TEXT: हमने तुम्हारे जश्न पर कब्ज़ा कर लिया है, और तुम अब भी मुझे चैलेंज दे रहे हो? कड़वे सच का सामना करने के लिए तैयार हो जाओ।
@@ -52402,7 +52402,7 @@ RESOURCE ID: item_global_event_ticket_desc_gowa25
 TEXT: स्ठानीय समयानुसार, 15 नवम्बर और 16 नवम्बर, 2025 को होने वाली Pokémon GO वाइल्ड एरिया 2025 - ग्लोबल स्पेशल रिसर्च को एक्सेस करने की टिकट।
 
 RESOURCE ID: item_global_event_ticket_desc_gowa26
-TEXT: A ticket to access the Pokémon GO Wild Area 2026: Global Special Research on November 14 and November 15, 2026, wherever you are.
+TEXT: 14 नवम्बर और 15 नवम्बर, 2026 को होने वाली Pokémon GO वाइल्ड एरयिा 2026 - ग्लोबल स्पेशल रसिर्च को एक्सेस करने की टकिट।
 
 RESOURCE ID: item_global_event_ticket_desc_hisuiandecidueye
 TEXT: स्थानीय समयानुसार, 11 जनवरी, 2024 को दुपहर 2:00 बजे से लेकर रात 10:00 बजे तक मिलने वाले स्पेशल बोनस की टिकट।
@@ -52461,9 +52461,9 @@ TEXT: यह टिकट अपने आप ऐक्टिवेट होक
 सभी इवेंट बोनस पाने के लिए आपको निर्धारित समय में खेलना आवश्यक है।
 
 RESOURCE ID: item_global_event_ticket_details_gowa26
-TEXT: This ticket will automatically activate to give you access to the Pokémon GO Wild Area 2026: Global Special Research on November 14 and 15, wherever you are. Details can be found in the in-game News.
+TEXT: यह टकिट अपने आप ऐक्टविेट होकर, आपको 14 नवम्बर और 15 नवम्बर को होने वाली Pokémon GO वाइल्ड एरयिा 2026 - ग्लोबल स्पेशल रसिर्च का ऐक्सेस देगी। अधकि जानकारी के लिए इन-गेम न्यूज़ देखें।
 
-You must play during the specified time to receive all the event bonuses.
+सभी इवेंट बोनस पाने के लिए आपको नर्धिारति समय में खेलना आवश्यक है।
 
 RESOURCE ID: item_global_event_ticket_details_hisuiandecidueye
 TEXT: यह टिकट अपने आप ऐक्टिवेट होकर 11 जनवरी को मिलने वाले स्पेशल बोनस का ऐक्सेस आपको देगा।
@@ -59220,10 +59220,10 @@ at SHA 12701f1c07ae7f07a5d50583f697320977df7988
 Pipeline 1139111, job 13470914
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-08-26T01:07:20.006486+00:00 for hi-IN
-at SHA 2e2920214a9
-Pipeline 3898520, job 57331254
-Patch from: 0.427.0-SHA-05b59ce2-RC3, 0.425.1-SHA-966e4c2a-RC1
+TEXT: Built at 2026-08-28T01:42:44.267676+00:00 for hi-IN
+at SHA 878816a4cdd
+Pipeline 3904949, job 57436540
+Patch from: 0.427.0-SHA-fc729f25-RC2, 0.425.1-SHA-966e4c2a-RC1
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: Timed Research: Choose Your Fighting Type
@@ -81327,12 +81327,21 @@ RESOURCE ID: quest_branch_choose_la_reine_desc
 TEXT: अपने फ़ुरफ़्रू के सभी आम रिजनल ट्रिम को इवेंट के समाप्त होने तक क्वीन कट में बदलने के लिए, यह ऑप्शन चुनें। अपने फ़ुरफ़्रू के लुक को किसी एक कट से दूसरे कट में बदलने के लिए 25 फ़ुरफ़्रू कैंडी और 10,000 स्टार-डस्ट लगेंगे।
 
 RESOURCE ID: quest_branch_choose_mega_chesnaught
-TEXT: चेस्पनि चुनें
+TEXT: मेगा चेसनॉट चुनें
 
 RESOURCE ID: quest_branch_choose_mega_delphox
-TEXT: फ़ेनेकन चुनें
+TEXT: मेगा डेलफ़ॉक्स चुनें
 
 RESOURCE ID: quest_branch_choose_mega_greninja
+TEXT: मेगा ग्रेनिंजा चुनें
+
+RESOURCE ID: quest_branch_choose_mega_chesnaught_out
+TEXT: चेस्पनि चुनें
+
+RESOURCE ID: quest_branch_choose_mega_delphox_out
+TEXT: फ़ेनेकन चुनें
+
+RESOURCE ID: quest_branch_choose_mega_greninja_out
 TEXT: फ़्रोकी चुनें
 
 RESOURCE ID: quest_branch_choose_oshawott_desc
@@ -115232,7 +115241,7 @@ RESOURCE ID: shelmetkarrablast_post_cd_timed_research_name
 TEXT: शेलमेट और कैराब्लास्ट कम्युनिटी डे कंटिन्यू टाइम सीमित समय वाली रिसर्च
 
 RESOURCE ID: shield_break_adventure_effect_battle_log
-TEXT: YOUR ATTACKS ARE BOOSTED BY DYNAMIC PUNCH+’S ADVENTURE EFFECT!
+TEXT: आपके अटैक डाइनैमकि पंच के फ़ील्ड इफ़ेक्ट से बूस्ट हो चुके हैं!
 
 RESOURCE ID: shinjuku_cross_title
 TEXT: クロス新宿ビジョン
@@ -122459,14 +122468,15 @@ TEXT: <b>शामिल :</b>
 <a href="https://pokemongo.com/gowildarea/global">टिकट बोनस के बारे में अधिक जानकारी यहाँ प्राप्त करें।</a>
 
 RESOURCE ID: text_rewards_key_gowa26
-TEXT: <b>Includes:</b>
-• Up to 6 free Raid Passes each day from spinning Gym Photo Discs
-• Increased chance of receiving event 10 km Eggs from PokéStops
-• Up to 6 Special Trades per day and reduced Stardust cost for trades
-• 1/2 Hatch Distance when Eggs are placed in an Incubator during the event
-• 2× Candy for catching Pokémon
-• A higher chance to encounter Shiny Pokémon during the event
-Learn more about the ticket bonuses <a href="pokemongo.com/gowildarea/global">here</a>.
+TEXT: <b>शामलि :</b>
+• जमि की फ़ोटो डस्कि स्पनि करने से प्रतदिनि अधकितम 6 निःशुल्क रेड पास
+• पोकेस्टॉप स्पनि करने से इवेंट वाले 10 कि.मी. अंडे मलिने की अधकि संभावना
+• हर दनि अधकितम 6 स्पेशल ट्रेड और ट्रेड के लिए स्टार-डस्ट की कम लागत
+• ईवेंट के चलते समय, इन्क्यूबेटर में रखे अंडों के लिए आधी हैच दूरी
+• पोकेमॉन पकड़ने पर 2× कैंडी
+• इवेंट के दौरान शाइनी पोकेमॉन से मुलाकात होने की अधकि संभावना
+
+टकिट बोनस के बारे में अधकि जानकारी <a href="https://pokemongo.com/gowildarea/global">यहाँ</a> प्राप्त करें।
 
 RESOURCE ID: text_rewards_key_growingup0525
 TEXT: <b>शामिल रिवॉर्ड -</b>

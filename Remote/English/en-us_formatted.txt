@@ -61650,10 +61650,10 @@ at SHA 4d4f3e80cc7fb911006bd14d198c9831ef66d005
 Pipeline 339838, job 2672172
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-08-26T01:07:20.006486+00:00 for en-US
-at SHA 2e2920214a9
-Pipeline 3898520, job 57331254
-Patch from: 0.427.0-SHA-05b59ce2-RC3, 0.425.1-SHA-966e4c2a-RC1
+TEXT: Built at 2026-08-28T01:42:44.267676+00:00 for en-US
+at SHA 878816a4cdd
+Pipeline 3904949, job 57436540
+Patch from: 0.427.0-SHA-fc729f25-RC2, 0.425.1-SHA-966e4c2a-RC1
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: Timed Research: Choose Your Fighting Type
@@ -83801,12 +83801,21 @@ RESOURCE ID: quest_branch_choose_la_reine_desc
 TEXT: Select this option to change your usual regional Furfrou trim or trims to the La Reine Trim for the remainder of the event. Changing your Furfrou from one trim to any other trim will cost 25 Furfrou Candy and 10,000 Stardust.
 
 RESOURCE ID: quest_branch_choose_mega_chesnaught
-TEXT: Choose Chespin
+TEXT: Choose Mega Chesnaught
 
 RESOURCE ID: quest_branch_choose_mega_delphox
-TEXT: Choose Fennekin
+TEXT: Choose Mega Delphox
 
 RESOURCE ID: quest_branch_choose_mega_greninja
+TEXT: Choose Mega Greninja
+
+RESOURCE ID: quest_branch_choose_mega_chesnaught_out
+TEXT: Choose Chespin
+
+RESOURCE ID: quest_branch_choose_mega_delphox_out
+TEXT: Choose Fennekin
+
+RESOURCE ID: quest_branch_choose_mega_greninja_out
 TEXT: Choose Froakie
 
 RESOURCE ID: quest_branch_choose_oshawott_desc
