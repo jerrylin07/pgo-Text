@@ -40724,7 +40724,7 @@ RESOURCE ID: general2.ticket._gowa25_leadup_title
 TEXT: 와일드 위크 프리미엄 시간제한 리서치 티켓
 
 RESOURCE ID: general2.ticket._gowa26_title
-TEXT: Pokémon GO Wild Area 2026: Global Ticket
+TEXT: Pokémon GO 와일드 에리어 2026 글로벌 티켓
 
 RESOURCE ID: general2.ticket._megagalladeraidday_title
 TEXT: 메가엘레이드 레이드 데이 티켓
@@ -54509,7 +54509,7 @@ RESOURCE ID: item_global_event_ticket_desc_gowa25
 TEXT: 현지시간 2025년 11월 15일, 16일에 Pokémon GO 와일드 에리어 2025: 글로벌 스페셜리서치를 진행할 수 있는 티켓.
 
 RESOURCE ID: item_global_event_ticket_desc_gowa26
-TEXT: A ticket to access the Pokémon GO Wild Area 2026: Global Special Research on November 14 and November 15, 2026, wherever you are.
+TEXT: 현지시간 2026년 11월 14일, 15일에 Pokémon GO 와일드 에리어 2026: 글로벌 스페셜리서치를 진행할 수 있는 티켓.
 
 RESOURCE ID: item_global_event_ticket_desc_hisuiandecidueye
 TEXT: 현지 시간 2024년 2월 11일 14시~ 22시에 보너스를 받기 위한 티켓.
@@ -54568,9 +54568,9 @@ TEXT: 이 티켓은 자동으로 활성화되어 현지시간 2025년 11월 15�
 이벤트 관련 모든 보너스를 받기 위해서는 개최 시간 내에 완료할 필요가 있습니다.
 
 RESOURCE ID: item_global_event_ticket_details_gowa26
-TEXT: This ticket will automatically activate to give you access to the Pokémon GO Wild Area 2026: Global Special Research on November 14 and 15, wherever you are. Details can be found in the in-game News.
+TEXT: 이 티켓은 자동으로 활성화되어 현지시간 2026년 11월 14일, 15일에 'Pokémon GO 와일드 에리어 2026: 글로벌 스페셜리서치'를 손에 넣을 수 있습니다. 자세한 내용은 게임 내 새소식에서 확인할 수 있습니다.
 
-You must play during the specified time to receive all the event bonuses.
+이벤트 관련 모든 보너스를 받기 위해서는 개최 시간 내에 완료할 필요가 있습니다.
 
 RESOURCE ID: item_global_event_ticket_details_hisuiandecidueye
 TEXT: 이 티켓은 자동으로 활성화되어 현지시간 2024년 2월 11일에 발생하는 보너스를 손에 넣을 수 있습니다.
@@ -61343,10 +61343,10 @@ at SHA 4d4f3e80cc7fb911006bd14d198c9831ef66d005
 Pipeline 339838, job 2672172
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-08-28T01:42:44.267676+00:00 for ko-KR
-at SHA 878816a4cdd
-Pipeline 3904949, job 57436540
-Patch from: 0.427.0-SHA-fc729f25-RC2, 0.425.1-SHA-966e4c2a-RC1
+TEXT: Built at 2026-08-29T01:37:54.684139+00:00 for ko-KR
+at SHA e3fea6414a91
+Pipeline 3907274, job 57477324
+Patch from: 0.427.0-SHA-3b6aecd1-RC5, 0.425.1-SHA-966e4c2a-RC1
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: 시간제한 리서치: 격투타입
@@ -124725,14 +124725,14 @@ TEXT: <b>받을 수 있는 것:</b>
 <a href="https://pokemongo.com/gowildarea/global">티켓 보너스에 대한 자세한 내용은 여기에서 확인하세요.</a>
 
 RESOURCE ID: text_rewards_key_gowa26
-TEXT: <b>Includes:</b>
-• Up to 6 free Raid Passes each day from spinning Gym Photo Discs
-• Increased chance of receiving event 10 km Eggs from PokéStops
-• Up to 6 Special Trades per day and reduced Stardust cost for trades
-• 1/2 Hatch Distance when Eggs are placed in an Incubator during the event
-• 2× Candy for catching Pokémon
-• A higher chance to encounter Shiny Pokémon during the event
-Learn more about the ticket bonuses <a href="pokemongo.com/gowildarea/global">here</a>.
+TEXT: <b>받을 수 있는 것:</b>
+- 매일 체육관 포토디스크를 돌려 레이드패스를 최대 6장 받을 수 있다
+- 포켓스톱을 돌려 10km 알을 받을 확률 증가
+- 하루에 가능한 특별한 교환이 총 6회와 교환에 필요한 별의모래 감소
+- 이벤트 중 부화장치에 넣은 알 부화 거리 1/2
+- 포켓몬을 잡았을 때 받을 수 있는 포켓몬의 사탕 2배
+- 이벤트 기간 중 색이 다른 포켓몬과 만날 확률 증가
+티켓 보너스에 대한 자세한 내용은 <a href="pokemongo.com/gowildarea/global">여기</a>에서 확인하세요.
 
 RESOURCE ID: text_rewards_key_growingup0525
 TEXT: <b>받을 수 있는 리워드:</b>

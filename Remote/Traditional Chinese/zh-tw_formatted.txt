@@ -41145,7 +41145,7 @@ RESOURCE ID: general2.ticket._gowa25_leadup_title
 TEXT: 曠野週特級限時調查入場券
 
 RESOURCE ID: general2.ticket._gowa26_title
-TEXT: Pokémon GO 曠野地帶2026全球入場券
+TEXT: Pokémon GO曠野地帶2026全球入場券
 
 RESOURCE ID: general2.ticket._megagalladeraidday_title
 TEXT: 超級艾路雷朵團體戰日入場券
@@ -54947,7 +54947,7 @@ RESOURCE ID: item_global_event_ticket_desc_gowa25
 TEXT: 只要擁有這張入場券，不論你身在何處，都能在當地時間2025年11月15日、16日開始參與Pokémon GO 曠野地帶2025：全球特殊調查。
 
 RESOURCE ID: item_global_event_ticket_desc_gowa26
-TEXT: 只要擁有這張入場券，不論你身在何處，都能在當地時間2026年11月14日、15日開始參與Pokémon GO 曠野地帶2026：全球特殊調查。
+TEXT: 只要擁有這張入場券，不論你身在何處，都能在當地時間2026年11月14日、15日開始參與Pokémon GO曠野地帶2026：全球特殊調查。
 
 RESOURCE ID: item_global_event_ticket_desc_hisuiandecidueye
 TEXT: 只要擁有這張入場券，不論你身在何處，都能在當地時間2024年2月11日14:00~22:00領取特別的獎勵。
@@ -55006,7 +55006,7 @@ TEXT: 入場券將會自動啟用，不論你身在何處，都能在當地時�
 請務必在舉辦時間內完成活動指定的課題，以領取所有活動獎勵。
 
 RESOURCE ID: item_global_event_ticket_details_gowa26
-TEXT: 入場券將會自動啟用，不論你身在何處，都能在當地時間11月14日、15日開始參與Pokémon GO曠野地帶：全球特殊調查。詳情請至遊戲內快訊確認。
+TEXT: 入場券將會自動啟用，不論你身在何處，都能在當地時間11月14日、15日開始參與Pokémon GO曠野地帶2026：全球特殊調查。詳情請至遊戲內快訊確認。
 
 請務必在舉辦時間內完成活動指定的課題，以領取所有活動獎勵。
 
@@ -61807,10 +61807,10 @@ at SHA 4d4f3e80cc7fb911006bd14d198c9831ef66d005
 Pipeline 339838, job 2672172
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-08-28T01:42:44.267676+00:00 for zh-TW
-at SHA 878816a4cdd
-Pipeline 3904949, job 57436540
-Patch from: 0.427.0-SHA-fc729f25-RC2, 0.425.1-SHA-966e4c2a-RC1
+TEXT: Built at 2026-08-29T01:37:54.684139+00:00 for zh-TW
+at SHA e3fea6414a91
+Pipeline 3907274, job 57477324
+Patch from: 0.427.0-SHA-3b6aecd1-RC5, 0.425.1-SHA-966e4c2a-RC1
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: 限時調查：格鬥屬性
@@ -125455,7 +125455,7 @@ TEXT: <b>可獲得的獎勵：</b>
 ・每天最多可進行6次特殊交換且所需的星星沙子減少
 ・活動期間內放入孵化器中的蛋所需孵蛋距離減半
 ・捕捉寶可夢時糖果加倍
-・在活動期間內與異色寶可夢相遇的機率提升
+・在活動期間內容易遇見異色寶可夢
 關於入場券的獎勵詳情，請參照<a href="https://pokemongo.com/gowildarea/global">此處</a>。
 
 RESOURCE ID: text_rewards_key_growingup0525
