@@ -2688,6 +2688,9 @@ TEXT: कुल एक्टिविटी
 RESOURCE ID: avatar_detail_walking_distance
 TEXT: चली गई दूरी
 
+RESOURCE ID: avatar_dress_s24ryme
+TEXT: राइम-स्टाइल आउटफ़टि
+
 RESOURCE ID: avatar_edit_appearance_title
 TEXT: दिखने का तरीका
 
@@ -5070,6 +5073,9 @@ TEXT: शिकागो वाइट सॉक्स टोपी
 
 RESOURCE ID: avatar_hat_partyhat
 TEXT: पार्टी हैट
+
+RESOURCE ID: avatar_hat_s24ryme
+TEXT: राइम-स्टाइल टोपी और बालयिाँ
 
 RESOURCE ID: avatar_hat_snom
 TEXT: स्नॉम टोपी
@@ -7589,6 +7595,9 @@ TEXT: ब्लू-स्टाइल पोज़
 RESOURCE ID: avatar_pose_s23cynthia
 TEXT: सिंथिआ पोज़
 
+RESOURCE ID: avatar_pose_s24ryme
+TEXT: राइम पोज़
+
 RESOURCE ID: avatar_pose_safariball
 TEXT: GO वाइल्ड एरिया 2024 पोज़
 
@@ -7669,6 +7678,9 @@ TEXT: हैलोवीन ब्लाउस
 
 RESOURCE ID: avatar_shirt_marshtompsweater
 TEXT: मार्शटॉम्प स्वेटर
+
+RESOURCE ID: avatar_shirt_maschiff
+TEXT: मैसचफ़ि जर्सी
 
 RESOURCE ID: avatar_shirt_mlb2026
 TEXT: MLB टी-शर्ट 2026
@@ -7860,6 +7872,9 @@ TEXT: ब्लू-स्टाइल जूते
 
 RESOURCE ID: avatar_shoes_s23cynthia
 TEXT: सिंथिआ-स्टाइल जूते
+
+RESOURCE ID: avatar_shoes_s24ryme
+TEXT: राइम-स्टाइल जूते
 
 RESOURCE ID: avatar_shoes_sizzlipedeboots
 TEXT: सिज़्लीपीड बूट
@@ -27578,6 +27593,9 @@ TEXT: कम्युनिटी डे : चेस्पिन
 RESOURCE ID: community_day_classic_deino_event_name
 TEXT: कम्युनटिी डे क्लासकि - डाइनो
 
+RESOURCE ID: community_day_classic_gible_event_name
+TEXT: कम्युनटिी डे क्लासकि - गबिल
+
 RESOURCE ID: community_day_dec2021_event_name
 TEXT: दिसंबर कम्युनिटी डे 2021
 
@@ -27793,6 +27811,9 @@ TEXT: कम्युनिटी डे - स्कोरबनी
 
 RESOURCE ID: community_day_seedot_event_name
 TEXT: कम्युनिटी डे : सीडॉट
+
+RESOURCE ID: community_day_sep2026_gible
+TEXT: गबिल कलेक्शन चैलेंज
 
 RESOURCE ID: community_day_sewaddle_event_name
 TEXT: कम्युनिटी डे - सवाडल
@@ -28975,6 +28996,9 @@ TEXT: अधिक जानकारी की लिए <a href="https://pokem
 RESOURCE ID: details_link_key_lunar_new_year_feb2026
 TEXT: अधिक जानकारी की लिए <a href="https://pokemongo.com/news/lunar-new-year-event-2026">वेबसाइट</a> पर जाएं।
 
+RESOURCE ID: details_link_key_mega_squads
+TEXT: अधकि जानकारी की लिए <a href="https://pokemongo.com/news/mega-squads-2026">वेबसाइट</a> पर जाएँ।
+
 RESOURCE ID: details_link_key_mega_falinks_raid_day
 TEXT: अधकि जानकारी की लिए <a href="https://pokemongo.com/news/falinks-super-mega-raid-day-2026">वेबसाइट</a> पर जाएँ।
 
@@ -28984,11 +29008,17 @@ TEXT: अधकि जानकारी की लिए <a href="https://pokem
 RESOURCE ID: details_link_key_mega_skarmory_raid_day
 TEXT: अधकि जानकारी की लिए <a href="https://pokemongo.com/news/skarmory-super-mega-raid-day-2026">वेबसाइट</a> पर जाएँ।
 
+RESOURCE ID: details_link_key_mega_staraptor_raid_day
+TEXT: अधकि जानकारी की लिए <a href="https://pokemongo.com/news/staraptor-super-mega-raid-day-2026">वेबसाइट</a> पर जाएँ।
+
 RESOURCE ID: details_link_key_new_year_jan2026
 TEXT: अधिक जानकारी के लिए, <a href="https://pokemongolive.com/post/new-years-2026">वेबसाइट</a> देखें।
 
 RESOURCE ID: details_link_key_oricorio_mastery_feb2026
 TEXT: अधिक जानकारी की लिए <a href="https://pokemongolive.com/post/catch-mastery-oricorio-2026">वेबसाइट</a> पर जाएं।
+
+RESOURCE ID: details_link_key_phantump_mastery_sep2026
+TEXT: अधकि जानकारी की लिए <a href="https://pokemongolive.com/post/catch-mastery-Phantump-2026">वेबसाइट</a> पर जाएँ।
 
 RESOURCE ID: details_link_key_pinch_perfect_event_name_jan2026
 TEXT: अधिक जानकारी के लिए, <a href="https://pokemongo.com/news/pinch-perfect-2026">वेबसाइट</a> देखें।
@@ -31155,6 +31185,9 @@ TEXT: 7 सितंबर, दुपहर 2:00 बजे – शाम 5:00 �
 RESOURCE ID: event_datetime_range_key_megaskarmoryraidday
 TEXT: 27 जून, दुपहर 2:00 बजे – शाम 5:00 बजे
 
+RESOURCE ID: event_datetime_range_key_megastaraptorraidday
+TEXT: 19 सतिम्बर, दुपहर 2:00 बजे – शाम 5:00 बजे
+
 RESOURCE ID: event_datetime_range_key_megastarmieraidday
 TEXT: 22 अगस्त, दुपहर 11:00 बजे – शाम 5:00 बजे
 
@@ -31335,6 +31368,9 @@ TEXT: 16 मार्च, सुबह 10:00 बजे - रात 8:00 तक
 RESOURCE ID: event_datetime_range_key_catch_mastery_oricorio
 TEXT: 7 फ़रवरी, सुबह 10:00 बजे – रात 8:00 बजे तक
 
+RESOURCE ID: event_datetime_range_key_catch_mastery_phantump
+TEXT: 26 सतिम्बर, सुबह 10:00 बजे – शाम 8:00 बजे
+
 RESOURCE ID: event_datetime_range_key_cd_flabebe25
 TEXT: 14 सितम्बर, दुपहर 2:00 बजे – शाम 5:00 बजे तक
 
@@ -31405,6 +31441,9 @@ TEXT: 16 मई, दुपहर 2:00 बजे – शाम 5:00 बजे
 
 RESOURCE ID: event_datetime_range_key_cdc_eevee25
 TEXT: 5 जुलाई, दोपहर 2:00 बजे – 6 जुलाई, शाम 5:00 बजे
+
+RESOURCE ID: event_datetime_range_key_cdc_gible26
+TEXT: 12 सतिम्बर, दुपहर 2:00 बजे – शाम 5:00 बजे
 
 RESOURCE ID: event_datetime_range_key_cdc_machop25
 TEXT: 24 मई, दुपहर 2:00 बजे - शाम 5:00 बजे तक
@@ -31878,6 +31917,9 @@ TEXT: राइचू सुपर मेगा रेड दविस सीम
 
 RESOURCE ID: event_mega_skarmory_raid_day_timed_research
 TEXT: स्कार्मरी सुपर मेगा रेड दविस सीमति समय वाली रसिर्च
+
+RESOURCE ID: event_mega_staraptor_raid_day_timed_research
+TEXT: स्टारैप्टर सुपर मेगा रेड दविस सीमति समय वाली रसिर्च
 
 RESOURCE ID: event_mega_starmie_raid_day_timed_research
 TEXT: स्टारमी सुपर मेगा रेड दविस सीमति समय वाली रसिर्च
@@ -37737,6 +37779,9 @@ TEXT: आप चाहे कहीं पर भी हों, लोकल ट
 
 स्पेशल इवेंट के सभी बोनस पाने के लिए, आपको तय समय के दौरान ही खेलना होगा।
 
+RESOURCE ID: general1.ticket.5_megastaraptorraidday
+TEXT: स्टारैप्टर सुपर मेगा रेड दविस टकिट
+
 RESOURCE ID: general1.ticket.5._gowa2024raidver1_title
 TEXT: वाइल्ड वीक - रेड
 
@@ -38406,6 +38451,9 @@ TEXT: डाइनो कम्युनटिी डे क्लासकि �
 RESOURCE ID: general1.ticket_cdc_eevee25_title
 TEXT: ईवी कम्युनिटी डे क्लासिक टिकट
 
+RESOURCE ID: general1.ticket_cdc_gible26_title
+TEXT: गबिल कम्युनटिी डे क्लासकि टकिट
+
 RESOURCE ID: general1.ticket_cdc_machop25_title
 TEXT: मचॉप कम्युनिटी डे क्लासिक टिकट
 
@@ -38628,6 +38676,9 @@ TEXT: पिंच परफ़ेक्ट प्रीमियम सीम�
 RESOURCE ID: general2.ticket4.catch_mastery_archen
 TEXT: कैच मास्टरी - आर्केन प्रीमियम सीमित समय वाली रिसर्च
 
+RESOURCE ID: general2.ticket4.catch_mastery_phantump
+TEXT: कैच मास्टरी - फ़ैंटम्प प्रीमयिम सीमति समय वाली टकिट
+
 RESOURCE ID: general2.ticket5.gmax_pikachu_max_battle
 TEXT: जायगैंटामैक्स पिकाचू मैक्स बैटल डे टिकट
 
@@ -38811,6 +38862,9 @@ TEXT: #PokemonGOFest2021 के साथ फ़ोटो पोस्ट कर
 
 RESOURCE ID: ghost_type_event
 TEXT: टाइप सर्ज : घोस्ट
+
+RESOURCE ID: gible_website_link
+TEXT: अधकि जानकारी की लिए <a href="https://pokemongo.com/news/communitydayclassic-gible-september-2026">वेबसाइट</a> पर जाएँ।
 
 RESOURCE ID: gift_additional_items
 TEXT: अतिरिक्त आइटम 'गिफ़्ट' में दिखाई देंगे
@@ -50654,11 +50708,17 @@ TEXT: टिकट
 RESOURCE ID: item_event_ticket_02_desc_catch_mastery_oricorio
 TEXT: स्थानीय समयानुसार 7 फ़रवरी, 2026 को सुबह 10:00 बजे से रात 8:00 बजे तक कैच मास्टरी - ऑरिकोरियो प्रीमियम सीमित समय वाली रिसर्च का एक्सेस टिकट।
 
+RESOURCE ID: item_event_ticket_02_desc_catch_mastery_phantump
+TEXT: स्थानीय समयानुसार 26 सतिम्बर, 2026 को सुबह 10:00 बजे से रात 8:00 बजे तक कैच मास्टरी - फ़ैंटम्प प्रीमयिम सीमति समय वाली रसिर्च को एक्सेस करने की टकिट।
+
 RESOURCE ID: item_event_ticket_02_desc_pinch_perfect
 TEXT: स्थानीय समयानुसार, 6 जनवरी, 2026, सुबह 10:00 बजे से 11 जनवरी, 2026, शाम 8:00 बजे तक होने वाली पिंच परफ़ेक्ट प्रीमियम सीमित समय वाली रिसर्च को एक्सेस करने की टिकट।
 
 RESOURCE ID: item_event_ticket_02_details_catch_mastery_oricorio
 TEXT: यह टिकट अपने आप ऐक्टिवेट होकर, आपको 7 फ़रवरी को होने वाली कैच मास्टरी - ऑरिकोरियो प्रीमियम सीमित समय वाली रिसर्च का ऐक्सेस देगी।
+
+RESOURCE ID: item_event_ticket_02_details_catch_mastery_phantump
+TEXT: यह टकिट अपने आप ऐक्टविेट होकर, आपको 26 सतिम्बर को होने वाली कैच मास्टरी - फ़ैंटम्प प्रीमयिम सीमति समय वाली रसिर्च का ऐक्सेस देगी।
 
 RESOURCE ID: item_event_ticket_02_details_pinch_perfect
 TEXT: यह टिकट 6 जनवरी को अपने आप ऐक्टिवेट होकर, आपको कैंडी पिंच परफ़ेक्ट प्रीमियम सीमित समय वाली रिसर्च का ऐक्सेस देगी।
@@ -51358,6 +51418,9 @@ TEXT: स्थानीय समयानुसार, 7 सितंबर, 2
 RESOURCE ID: item_event_ticket_gray_desc_megaskarmoryraidday
 TEXT: स्थानीय समयानुसार, 27 जून, 2026 को दुपहर 2:00 बजे से लेकर रात 5:00 बजे तक स्पेशल बोनस को एक्सेस करने की टकिट।
 
+RESOURCE ID: item_event_ticket_gray_desc_megastaraptorraidday
+TEXT: स्थानीय समयानुसार, शनविार 19 सतिम्बर, 2026 को दुपहर 2:00 बजे से रात 5:00 बजे तक मलिने वाले स्पेशल बोनस का एक टकिट।
+
 RESOURCE ID: item_event_ticket_gray_desc_monthlyticketnov24
 TEXT: डेली पोकेकॉइन सिलेक्शन पार्ट 3 सीमित समय वाली रिसर्च, पोकेकॉइन प्रदान करने वाली डेली बोनस फ़ील्ड रिसर्च, और अन्य बोनस को स्थानीय समयानुसार  3 नवंबर को सुबह 12:00 बजे से 2 दिसंबर, 2024 को रात 11:59 बजे तक एक्सेस करने की टिकट।
 
@@ -51544,6 +51607,9 @@ TEXT: यह टिकट अपने आप ऐक्टिवेट होक
 RESOURCE ID: item_event_ticket_gray_details_megaskarmoryraidday
 TEXT: यह टकिट 27 मई को अपने आप ऐक्टविेट होकर, आपको स्पेशल बोनस का ऐक्सेस देगी।
 
+RESOURCE ID: item_event_ticket_gray_details_megastaraptorraidday
+TEXT: यह टकिट 19 सतिम्बर को अपने आप ऐक्टविेट होकर, आपको स्पेशल बोनस का ऐक्सेस देगी।
+
 RESOURCE ID: item_event_ticket_gray_details_monthlyticketnov24
 TEXT: यह टिकट अपने आप ऐक्टिवेट होकर स्थानीय समयानुसार 3 नवंबर को होने वाली डेली पोकेकॉइन सिलेक्शन पार्ट 3 का ऐक्सेस आपको देगा।
 
@@ -51716,6 +51782,9 @@ TEXT: स्थानीय समयानुसार 16 मई को दु�
 
 RESOURCE ID: item_event_ticket_pink_desc_cdc_eevee25
 TEXT: स्थानीय समयानुसार 5 जुलाई, दुपहर 2:00 बजे से शुरू होने वाली ईवी कम्युनिटी डे क्लासिक स्पेशल रिसर्च को एक्सेस करने की टिकट।
+
+RESOURCE ID: item_event_ticket_pink_desc_cdc_gible26
+TEXT: स्थानीय समयानुसार 12 सतिम्बर को दुपहर 2:00 बजे से शुरू होने वाली गबिल कम्युनटिी डे क्लासकि स्पेशल रसिर्च, बस एक बाइट, को ऐक्सेस करने की टकिट।
 
 RESOURCE ID: item_event_ticket_pink_desc_cdc_machop25
 TEXT: स्थानीय समयानुसार 24 मई, दुपहर 2:00 बजे से शुरू होने वाली मचॉप कम्युनिटी डे क्लासिक स्पेशल रिसर्च को एक्सेस करने की टिकट।
@@ -52103,6 +52172,9 @@ TEXT: यह टकिट 16 मई को अपने आप ऐक्टव�
 
 RESOURCE ID: item_event_ticket_pink_details_cdc_eevee25
 TEXT: यह टिकट 5 जुलाई को अपने आप ऐक्टिवेट होकर, आपको ईवी कम्युनिटी डे क्लासिक स्पेशल रिसर्च का एक्सेस देगी।
+
+RESOURCE ID: item_event_ticket_pink_details_cdc_gible26
+TEXT: यह टकिट 12 सतिम्बर को अपने आप ऐक्टविेट होकर, आपको गबिल कम्युनटिी डे क्लासकि स्पेशल रसिर्च का एक्सेस देगी।
 
 RESOURCE ID: item_event_ticket_pink_details_cdc_machop25
 TEXT: यह टिकट अपने आप ऐक्टिवेट होकर, स्थानीय समयानुसार 24 मई को होने वाली मचॉप कम्युनिटी डे क्लासिक स्पेशल रिसर्च का एक्सेस देगा।
@@ -58691,6 +58763,15 @@ TEXT: चलते हुए, आप उस पोकेमॉन के लि�
 RESOURCE ID: mega_catch_candy_bonus
 TEXT: मेगा
 
+RESOURCE ID: mega_catch_cup_great_title
+TEXT: मेगा कैच कप - ग्रेट लीग एडशिन
+
+RESOURCE ID: mega_championship_cup_great_title
+TEXT: 2026 GO LAIC कप - ग्रेट लीग एडशिन
+
+RESOURCE ID: mega_color_cup_great_title
+TEXT: मेगा कलर कप - ग्रेट लीग एडशिन
+
 RESOURCE ID: mega_cooldown_countdown_description
 TEXT: Rest Period
 
@@ -58747,6 +58828,9 @@ TEXT: आपको इस रेड से सिर्फ़ {0} मेगा �
 
 RESOURCE ID: mega_energy_not_awarded_singular
 TEXT: आपको इस रेड से सिर्फ़ 1 मेगा एनर्जी मिली, क्योंकि आप {0} की अधिकतम सीमा तक पहुंच गए हैं।
+
+RESOURCE ID: mega_energy_weedle_pidgey_houndour_carvanha
+TEXT: वीडल, पजिी, हाउंडाउर, कार्वाना और उनके एवोलूशन को पकड़ने पर मेगा एनर्जी मलि सकती है।
 
 RESOURCE ID: mega_enhanced_not_enough_megas
 TEXT: रेड शुरू करने के लिए मेगा-एवॉल्व पोकेमॉन वाले और ट्रेनर्स की ज़रूरत है।
@@ -58835,6 +58919,9 @@ TEXT: रेड दिवस - मेगा गलेड
 
 RESOURCE ID: mega_gym_defender_warning
 TEXT: जिम की सुरक्षा के लिए मेगा-एवॉल्व हो चुके पोकेमॉन को तैनात नहीं किया जा सकता।
+
+RESOURCE ID: mega_halloween_cup_great_title
+TEXT: मेगा हैलोवीन कप - ग्रेट लीग एडशिन
 
 RESOURCE ID: mega_hud_border_text_1
 TEXT: कैंडी बूस्ट के प्रकार
@@ -59175,6 +59262,12 @@ TEXT: स्पीड
 RESOURCE ID: mega_speedup_unlock_description
 TEXT: इस पोकेमॉन का मेगा लेवल बढ़ाने के लिए मेगा एनर्जी का उपयोग करें।
 
+RESOURCE ID: mega_squads_event_name
+TEXT: टीम मेगा
+
+RESOURCE ID: mega_staraptor_raid_day_event_name
+TEXT: स्टारैप्टर सुपर मेगा रेड दविस
+
 RESOURCE ID: mega_starmie_raid_day_event_name
 TEXT: अल्ट्रा अनलॉक - स्टारमी सुपर मेगा रेड दविस
 
@@ -59220,10 +59313,10 @@ at SHA 12701f1c07ae7f07a5d50583f697320977df7988
 Pipeline 1139111, job 13470914
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-08-29T01:37:54.684139+00:00 for hi-IN
-at SHA e3fea6414a91
-Pipeline 3907274, job 57477324
-Patch from: 0.427.0-SHA-3b6aecd1-RC5, 0.425.1-SHA-966e4c2a-RC1
+TEXT: Built at 2026-09-02T02:46:00.003808+00:00 for hi-IN
+at SHA c548b2d4c69
+Pipeline 3914795, job 57587942
+Patch from: 0.427.0-SHA-bafb3348-RC1, 0.427.1-SHA-4a569ba7-RC1, 0.429.0-SHA-d6c796f0-RC1
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: Timed Research: Choose Your Fighting Type
@@ -66223,6 +66316,9 @@ TEXT: ठीक है
 
 RESOURCE ID: pgp_weak_signal
 TEXT: सिग्नल कमज़ोर है। डिवाइस के और पास जाइए।
+
+RESOURCE ID: phantump_mastery_sep2026
+TEXT: कैच मास्टरी - फ़ैंटम्प
 
 RESOURCE ID: photo_saved
 TEXT: फ़ोटो सेव हो गई
@@ -81577,6 +81673,9 @@ TEXT: कार्बिंक को पकड़ें
 RESOURCE ID: quest_catch_celebi_types_plural
 TEXT: {0} ग्रास या साइकिक टाइप पोकेमॉन पकड़ें
 
+RESOURCE ID: quest_catch_cherubi_plural
+TEXT: {0} चेरीरी पकड़ें
+
 RESOURCE ID: quest_catch_chespin_family_plural
 TEXT: {0} चेस्पनि, क्वलिडनि, या चेसनॉट पकड़ें
 
@@ -81600,6 +81699,9 @@ TEXT: {0} डार्क टाइप पोकेमॉन पकड़ें
 
 RESOURCE ID: quest_catch_darumaka_plural
 TEXT: {0} डारुमाका पकड़ें
+
+RESOURCE ID: quest_catch_drifloon_plural
+TEXT: {0} ड्रफ़्लिून को पकड़ें
 
 RESOURCE ID: quest_catch_ducklett_plural
 TEXT: {0} डकलेट पकड़ें
@@ -82138,6 +82240,9 @@ TEXT: {0} बग टाइप पोकेमॉन पकड़ें
 RESOURCE ID: quest_catch_type_bug_singular
 TEXT: बग टाइप पोकेमॉन पकड़ें
 
+RESOURCE ID: quest_catch_type_bug_flying_plural
+TEXT:  {0} बग या फ़्लाइंग टाइप पोकेमॉन पकड़ें
+
 RESOURCE ID: quest_catch_type_bug_plural_unique
 TEXT: बग टाइप पोकेमॉन की {0} अलग-अलग प्रजातियों को पकड़ें
 
@@ -82233,6 +82338,9 @@ TEXT: घोस्ट टाइप पोकेमॉन पकड़ें
 
 RESOURCE ID: quest_catch_type_ghost_dark_plural
 TEXT: Catch {0} Ghost- or Dark-type Pokémon
+
+RESOURCE ID: quest_catch_type_ghost_grass_plural
+TEXT: {0} ग्रास या घोस्ट टाइप पोकेमॉन पकड़ें
 
 RESOURCE ID: quest_catch_type_ghost_plural_unique
 TEXT: घोस्ट टाइप पोकेमॉन की {0} अलग-अलग प्रजातियों को पकड़ें
@@ -82728,6 +82836,9 @@ TEXT: इलेक्ट्रकि टाइप के कसिी रेड 
 
 RESOURCE ID: quest_defeat_fighting_type_raid_singular
 TEXT: फ़ाइटिंग टाइप के कसिी रेड बॉस को हराएँ
+
+RESOURCE ID: quest_defeat_flying_type_raid_singular
+TEXT: फ़्लाइंग टाइप के कसिी रेड बॉस को हराएँ
 
 RESOURCE ID: quest_defeat_jessie_james_plural
 TEXT: जेसी: हम फिर से जा रहे हैं!
@@ -85030,6 +85141,9 @@ TEXT: {0} फ़्लैफ़ी विकसित करें
 RESOURCE ID: quest_flabebe_catch_b
 TEXT: {0} फ़्लबेबे पकड़ें
 
+RESOURCE ID: quest_flamigo_catch_plural
+TEXT: {0} फ़्लमीगो पकड़ें
+
 RESOURCE ID: quest_flett_catch_b
 TEXT: {0} फ़्लेचलिंग को विकसित करें
 
@@ -85949,6 +86063,9 @@ TEXT: {0} हॉपिप को विकसित करें
 RESOURCE ID: quest_hoppt_evolve_s1
 TEXT: {0} स्किप्लूम को विकसित करें
 
+RESOURCE ID: quest_houndour_catch_plural
+TEXT: {0} हाउंडाउर को पकड़ें
+
 RESOURCE ID: quest_incense_plural
 TEXT: {0} इंसेंस इस्तेमाल करें
 
@@ -86282,6 +86399,9 @@ TEXT: एक चारिज़ार्ड को मेगा एवॉल्�
 
 RESOURCE ID: quest_mega_evolve_diancie
 TEXT: डायंसी को मेगा एवॉल्व करें
+
+RESOURCE ID: quest_mega_evolve_houndoom
+TEXT: एक हाउंडूम को मेगा एवॉल्व करें
 
 RESOURCE ID: quest_mega_evolve_mewtwo
 TEXT: म्यूटू को मेगा एवॉल्व करें
@@ -97763,6 +97883,9 @@ TEXT: क्रॉकापैला
 RESOURCE ID: quest_title_genesect
 TEXT: ड्राइव की जांच
 
+RESOURCE ID: quest_title_gible
+TEXT: बस एक बाइट
+
 RESOURCE ID: quest_title_giblt
 TEXT: सीज़न ऑफ़ डिस्कवरी
 
@@ -98527,6 +98650,15 @@ TEXT: ड्राइव की जांच (4/5)
 
 RESOURCE ID: quest_title_genesect_4
 TEXT: ड्राइव की जाँच (5/5)
+
+RESOURCE ID: quest_title_gible_0
+TEXT: बस एक बाइट (1/3)
+
+RESOURCE ID: quest_title_gible_1
+TEXT: बस एक बाइट (2/3)
+
+RESOURCE ID: quest_title_gible_2
+TEXT: बस एक बाइट (3/3)
 
 RESOURCE ID: quest_title_giblt_0
 TEXT: जस्ट ए निबल
@@ -113470,6 +113602,9 @@ TEXT: GO पास - उड़ती टैक्सी
 RESOURCE ID: season_pass_base_track_title_halloween_2025
 TEXT: GO पास - हैलोवीन 2025
 
+RESOURCE ID: season_pass_base_track_title_mega_squads_2026
+TEXT: GO पास - टीम मेगा
+
 RESOURCE ID: season_pass_base_track_title_pikachu_celebration_2026
 TEXT: GO पास - पकिाचू सेलब्रिेशन
 
@@ -113784,6 +113919,19 @@ TEXT: नीचे दयिे गए रविॉर्ड को अनलॉ
 • एक सुपर इनक्यूबेटर
 • और-भी बहुत कुछ! 
 
+RESOURCE ID: season_pass_mega_squads_2026_event_duration
+TEXT: 8 सतिम्बर – 14 सतिम्बर 
+
+RESOURCE ID: season_pass_mega_squads_2026_upgrade_description
+TEXT: ये इनाम पाने के लिए GO पास डीलक्स - टीम मेगा खरीदें!
+
+• मैसचफ़ि जर्सी
+• इवेंट-थीम वाले पोकेमॉन से मुलाकात
+• 1,000 हाउंडूम मेगा एनर्जी
+• 1,000 बीड्रलि मेगा एनर्जी
+• रेयर कैंडी XL
+• और भी बहुत कुछ!
+
 RESOURCE ID: season_pass_milestone_bonus_title_01
 TEXT: टीयर 1 GO पास बोनस
 
@@ -113860,6 +114008,9 @@ TEXT: GO पास डीलक्स - कैंडेला की जीत �
 
 RESOURCE ID: season_pass_premium_track_plus_six_ranks_title_flying_taxi_2026
 TEXT: GO पास डीलक्स - उड़ती टैक्सी + 6 रैंक
+
+RESOURCE ID: season_pass_premium_track_plus_six_ranks_title_mega_squads_2026
+TEXT: GO पास डीलक्स - टीम मेगा + 6 रैंक
 
 RESOURCE ID: season_pass_premium_track_plus_six_ranks_title_pikachu_celebration_2026
 TEXT: GO पास डीलक्स - पकिाचू सेलब्रिेशन + 6 रैंक
@@ -113992,6 +114143,9 @@ TEXT: GO पास डीलक्स - उड़ती टैक्सी
 
 RESOURCE ID: season_pass_premium_track_title_halloween_2025
 TEXT: GO पास डीलक्स - हैलोवीन 2025
+
+RESOURCE ID: season_pass_premium_track_title_mega_squads_2026
+TEXT: GO पास डीलक्स - टीम मेगा
 
 RESOURCE ID: season_pass_premium_track_title_pikachu_celebration_2026
 TEXT: GO पास डीलक्स - पकिाचू सेलब्रिेशन
@@ -115953,6 +116107,9 @@ TEXT: स्प्रिंग इनटू स्प्रिंग इवे�
 RESOURCE ID: six_free_raid_passes
 TEXT: Up to six free Raid Passes per day by spinning Gym Photo Discs
 
+RESOURCE ID: size_xxs_increase_rattata
+TEXT: XXS रटैटा से मुलाकात होने की अधकि संभावना
+
 RESOURCE ID: size_xxs_xxl_increase
 TEXT: XXS और XXL पोकेमॉन को ढूंढ पाने की संभावना बढ़ी
 
@@ -115979,6 +116136,492 @@ TEXT: हर घंटे की शुरुआत में, स्किड�
 
 RESOURCE ID: skiddo_o_clock_active
 TEXT: स्किडू अब बड़ी संख्या में दिखाई दे रहे हैं!
+
+RESOURCE ID: sku.name.01462643d4974791b8d2454a659f1627
+TEXT: रेड सप्लाई कटि
+
+RESOURCE ID: sku.name.04e29abd8a306f0a052425d6e5edc9ca
+TEXT: अट्रैक्ट स्टार्टर पैक
+
+RESOURCE ID: sku.name.09423923391bfc355924a19316fc9bfd
+TEXT: मैराथन बॉक्स
+
+RESOURCE ID: sku.name.0acdebd94b9f4bed474ac57bd86381f0
+TEXT: कैच सप्लाई बंडल
+
+RESOURCE ID: sku.name.0afb00fcca4118f8649800a4e930db1a
+TEXT: मैराथन बॉक्स
+
+RESOURCE ID: sku.name.0b8a496f7744fc9031042ea2fd2fc705
+TEXT: हैच जर्नी पैक
+
+RESOURCE ID: sku.name.0bd00fc5a08517e8582afc4d785fbb35
+TEXT: रेड लकी पैक
+
+RESOURCE ID: sku.name.0e878655870119774dfcea7d84e417a2
+TEXT: फ़्रेंड बूस्ट बॉक्स
+
+RESOURCE ID: sku.name.0f85d99376b5d8a702726ff574207d9c
+TEXT: अल्ट्रा हैच रेड बॉक्स
+
+RESOURCE ID: sku.name.107d0c724dc97fb00534e6b50dac68ee
+TEXT: रेड एंड फ़्रेड पैक
+
+RESOURCE ID: sku.name.1095580d014f0cd5e2f767b921869c7a
+TEXT: फ़्रेंड सपोर्ट बॉक्स
+
+RESOURCE ID: sku.name.125124b82f9ad4a7a1a6f9596e2e2527
+TEXT: ग्रैंड हैच एडवेंचर पैक
+
+RESOURCE ID: sku.name.136b8a0e1a31a38226ee1a5dd46f3e9c
+TEXT: फ़्रेंड एक्सप्लोरर बंडल
+
+RESOURCE ID: sku.name.13bf8c402357b3b1c4d96c0dc37d4129
+TEXT: फ़ास्ट लर्नर बंडल
+
+RESOURCE ID: sku.name.146189316ce9d6e650b04fee60f12bf4
+TEXT: रेड एंड हैच प्रीमयिम बॉक्स
+
+RESOURCE ID: sku.name.14623b871356368595cacc049f8d994d
+TEXT: अल्टीमेट रेड पैक
+
+RESOURCE ID: sku.name.1742b7fe1eb42140bc00395a7d544a1d
+TEXT: ग्रेट बॉक्स
+
+RESOURCE ID: sku.name.17a7dc83bd81b395d3425bcc5cbae59c
+TEXT: ग्रैंड एग-सेलेरेटर
+
+RESOURCE ID: sku.name.1949953e2bfb406ecc09b4469a853ee3
+TEXT: रेड कटि
+
+RESOURCE ID: sku.name.194b00bdb658cd06167b21ebe53c12a5
+TEXT: स्टारडस्ट सीकर पैक
+
+RESOURCE ID: sku.name.1c3bd672e151a5174677d449a9627b3e
+TEXT: रेड लीडर पैक
+
+RESOURCE ID: sku.name.1d66ef1e5cb89dd99dbb968683f385b9
+TEXT: कैच प्रो बॉक्स
+
+RESOURCE ID: sku.name.1e07ef4a833f2c0f4aeb361c61a8990e
+TEXT: रेड रकिवरी कटि
+
+RESOURCE ID: sku.name.1e33c405dcc51b7139743198a636d7b4
+TEXT: रेड यूटलिाइज़ेशन सेट
+
+RESOURCE ID: sku.name.1ef1dc28ce024bcd13e80c90f597d2b0
+TEXT: रेड लेजेंडरी पैक
+
+RESOURCE ID: sku.name.1f083335cc28273e5bb3f1a19363369d
+TEXT: बेरी सप्लाई कटि
+
+RESOURCE ID: sku.name.21818f6f2f05c9bab39777965b15f7df
+TEXT: हैच एंड बैटल पैक
+
+RESOURCE ID: sku.name.23bab598533656bb9c15022d0bc43c02
+TEXT: रेड हीलर पैक
+
+RESOURCE ID: sku.name.261b3c713b8cc8961c66e7f0e82cec38
+TEXT: रूकी कैच कटि
+
+RESOURCE ID: sku.name.27a02eb4e21fdc8603d595af42362634
+TEXT: बैलेंस्ड एडवेंचरर पैक
+
+RESOURCE ID: sku.name.2a9b4f3e54d9ddac93154466de2164c6
+TEXT: स्काउट कटि
+
+RESOURCE ID: sku.name.2b89b67fab128f8b4d67ba8465d92fda
+TEXT: Veteran Box
+
+RESOURCE ID: sku.name.2b9fa2cf05014ca2f8f8c9003c7e81cd
+TEXT: हैच एंड असॉल्ट पैक
+
+RESOURCE ID: sku.name.2bdfd5cb0af09322abd5ecc41fa28461
+TEXT: अल्टमिेट जर्नी बॉक्स
+
+RESOURCE ID: sku.name.2cd6fe5ab245f141b8676c2819a26b9b
+TEXT: रेड बूस्टर कटि
+
+RESOURCE ID: sku.name.2eaf29d3db3b88322c7fb9e246d1df30
+TEXT: रॉकेट पर्सूट पैक
+
+RESOURCE ID: sku.name.305458e5d3f48af60c9fc7f23d2786ba
+TEXT: हैच एंड कैच बॉक्स
+
+RESOURCE ID: sku.name.311cc712f9cc8669ab3089dcddc0a795
+TEXT: कैंडी कलेक्टर बॉक्स
+
+RESOURCE ID: sku.name.32da5b673d0cdc2a40813de0a1e22012
+TEXT: रेड स्टार कटि
+
+RESOURCE ID: sku.name.33d1467ac22068cceca55c6d04611415
+TEXT: स्पेशल बॉक्स
+
+RESOURCE ID: sku.name.3430a9172eef66289df52b281cbf772f
+TEXT: रेड चैलेंजर कटि
+
+RESOURCE ID: sku.name.34be4dc764f418155b102941c3c23af0
+TEXT: ग्रैंड हैच बॉक्स
+
+RESOURCE ID: sku.name.34f2d475eec0860dd051f5749055c172
+TEXT: ग्रैंड जर्नी बॉक्स
+
+RESOURCE ID: sku.name.3708c615d3654cf9de8c6bfb2c91d784
+TEXT: सुपर हैच बॉक्स
+
+RESOURCE ID: sku.name.385e3d5f89ee7b10f215be5e63399364
+TEXT: रेड कमांडर बॉक्स
+
+RESOURCE ID: sku.name.3b8aeb4e02951459ab369f8a914a18f2
+TEXT: मजेस्टकि हैच बॉक्स
+
+RESOURCE ID: sku.name.3fc296ca367dca50982995c1f1db48b6
+TEXT: रेड पावर पैक
+
+RESOURCE ID: sku.name.41fa9b1ceaaa0f8d22bd93045864a94a
+TEXT: अट्रैक्ट बॉक्स
+
+RESOURCE ID: sku.name.423dc4edf1c1a7db561c0924db1c825f
+TEXT: इवॉल्व एंड बैटल बॉक्स
+
+RESOURCE ID: sku.name.431d2126604264c974e087fffbe4df6c
+TEXT: हैच एंड स्नैक बंडल
+
+RESOURCE ID: sku.name.478969c8241c9200a30c884ed0650ba9
+TEXT: कैच प्रो पैक
+
+RESOURCE ID: sku.name.4958ec550d7935afab10cbc0a5356852
+TEXT: रेड कैप्टन पैक
+
+RESOURCE ID: sku.name.4ac8f7d66f07e3457e154af761720831
+TEXT: बैलेंस्ड रेड पैक
+
+RESOURCE ID: sku.name.4c0eed28d70fe426ebeb9fdb206a566d
+TEXT: हैच हेल्पर
+
+RESOURCE ID: sku.name.4c4c2d36a6fdd80d4d768a2a5a3c7136
+TEXT: रेड एडवेंचर पैक
+
+RESOURCE ID: sku.name.4de2d091ed41b08ffa7b1c2453ab2b21
+TEXT: हैच स्टार बंडल
+
+RESOURCE ID: sku.name.4e9225525b42d3ed33ea890436a3037d
+TEXT: वॉयेजर बॉक्स
+
+RESOURCE ID: sku.name.5144d2ec9958a06417802e0b2773b3e3
+TEXT: हैच एंड कैच बैच
+
+RESOURCE ID: sku.name.52074f9586a2ae9b06a4decf977946dc
+TEXT: पोके बॉल स्टॉकपाइल
+
+RESOURCE ID: sku.name.59708544cd1b6be5cbf2ad6825011006
+TEXT: रेड एंड हैच सेट
+
+RESOURCE ID: sku.name.59a44f3c1ace6b6f069a105fd2dccea0
+TEXT: रेड एंड स्टारडस्ट पैक
+
+RESOURCE ID: sku.name.59fc0bf3c3ac729323b1e2724c1da5c4
+TEXT: फ़्रेंड दोस्ती बॉक्स
+
+RESOURCE ID: sku.name.5b3f9c14917a6030ecf4da0b3d104e5a
+TEXT: फ़्रेंड ट्रीट बॉक्स
+
+RESOURCE ID: sku.name.5cdc2cf31ca24feff6011fb6ecfa4be2
+TEXT: रेड बेरी बॉक्स
+
+RESOURCE ID: sku.name.5d2ee0503dd054cc72cb2d7245556b1b
+TEXT: रेड एक्सपर्ट कटि
+
+RESOURCE ID: sku.name.5d46a544e8326b8b54b109b5793e16df
+TEXT: हैच बॉक्स
+
+RESOURCE ID: sku.name.611bdb88515990e46e3b330a73683dfd
+TEXT: डबल पैक
+
+RESOURCE ID: sku.name.617aea66497fd71bace30de4f330c024
+TEXT: सुपर इनक्यूबेटर बॉक्स
+
+RESOURCE ID: sku.name.626a6b5ab38722f74fba431d0d1e1e1e
+TEXT: प्रो हैचर बॉक्स
+
+RESOURCE ID: sku.name.664bdca17e3b4de696ff89e7d68e5dad
+TEXT: रेड रकिवरी सेट
+
+RESOURCE ID: sku.name.66c2dcee3a342681b478f8a424d0f2da
+TEXT: मक्स्डि रेड पैक
+
+RESOURCE ID: sku.name.67af12619eb9cf3cfa122877f255b405
+TEXT: GO रॉकेट बॉक्स
+
+RESOURCE ID: sku.name.6a1aab4ef098e251dc12c588c301ac4c
+TEXT: अल्टमिेट हैच बॉक्स
+
+RESOURCE ID: sku.name.6c34321e9a3687f5d0ee37dbca741981
+TEXT: बूस्टेड बैटलर बॉक्स
+
+RESOURCE ID: sku.name.6c747a012a073df85d07ab800f5ac145
+TEXT: प्रीमयिम रकिवरी कटि
+
+RESOURCE ID: sku.name.6ccda3bd89c982c1e2d8f9ff60fc384d
+TEXT: लकी सेवन बॉक्स
+
+RESOURCE ID: sku.name.6efc0a9edaaecab5dcc15c0626967bd1
+TEXT: हैच एंड रेड पैक
+
+RESOURCE ID: sku.name.712e49cf1366e6d1fdb769be70d294c5
+TEXT: हैच री-सप्लाई
+
+RESOURCE ID: sku.name.71d0368257e8eb0795ebf7470b661316
+TEXT: प्रो रेड बॉक्स
+
+RESOURCE ID: sku.name.71d695300ddb7435e3464b24b6e435c0
+TEXT: प्रो रेड बंडल
+
+RESOURCE ID: sku.name.727ff6133bd121d7007373e6a68e6511
+TEXT: हैच फ़्रेंड बॉक्स
+
+RESOURCE ID: sku.name.75849ab69b8eefb2d4bf6563f8166255
+TEXT: टीम GO रॉकेट बंडल
+
+RESOURCE ID: sku.name.75ffbae8a3f3ebf539bc4b11dcc6049a
+TEXT: एस बॉक्स
+
+RESOURCE ID: sku.name.7aaa23646c4ed769e25eaba61fdf4a9d
+TEXT: अल्ट्रा ट्रेनिंग बॉक्स
+
+RESOURCE ID: sku.name.7bed2a42057154827ddd4153b1db6a8e
+TEXT: क्वकि स्टडी बॉक्स
+
+RESOURCE ID: sku.name.7c4a9d4f2b2ebb59fb9e148c2349cccd
+TEXT: रमिोट रेड बॉक्स
+
+RESOURCE ID: sku.name.7cfdac1e6c5a246808e1c2c31308c4f3
+TEXT: अल्ट्रा बॉक्स
+
+RESOURCE ID: sku.name.7d4a9c0ff05a65568fdc79830f379800
+TEXT: फ़्रेंड प्ले पैक
+
+RESOURCE ID: sku.name.8158c4d5f83a2d82e33d9c44d433c733
+TEXT: सुपर स्वीट कैंडी बॉक्स
+
+RESOURCE ID: sku.name.842396e5a5ebdaba5f04d60d2bf78fc7
+TEXT: बैटल पास क्वकि पैक
+
+RESOURCE ID: sku.name.855f6aaba1c0563fc28993366cb1bc0e
+TEXT: एक्सपैंशन बंडल
+
+RESOURCE ID: sku.name.867e2b7c0ef8fa7b0a84c0fd6584cb12
+TEXT: प्रो ट्रेनिंग बॉक्स
+
+RESOURCE ID: sku.name.89039d5f0ec76dfa03a268dcbab1f522
+TEXT: मास्टर कैचर बॉक्स
+
+RESOURCE ID: sku.name.8bd6eeb5569c01e5b58325548a205252
+TEXT: हैच ट्रायो
+
+RESOURCE ID: sku.name.8c861242c113bd6e44794359625ffb8a
+TEXT: एपेक्स कटि
+
+RESOURCE ID: sku.name.8e547320f870591a4e21287e2a9e9648
+TEXT: हाइब्रडि रेड पैक
+
+RESOURCE ID: sku.name.90fc4c766a6592fb365991f5c740d5b2
+TEXT: स्वीट रेड पैक
+
+RESOURCE ID: sku.name.9194d7678014c3fe48aa0647e3a37598
+TEXT: बेरी स्टॉक
+
+RESOURCE ID: sku.name.922eab7dfc24e0328425b93fcfd2f504
+TEXT: एपेक्स एडवेंचर बॉक्स
+
+RESOURCE ID: sku.name.927c8c50f927329016dd617f9d8b6e4d
+TEXT: सुपर हैच स्टॉक
+
+RESOURCE ID: sku.name.9484b6d9dc913da1c59efe026dfd11cc
+TEXT: एलीट हैच बॉक्स
+
+RESOURCE ID: sku.name.9703636dd0e33cdc470e2eccadbe87a0
+TEXT: लेजेंडरी पैक
+
+RESOURCE ID: sku.name.9719b54b763f4755bcda95d27c38cc50
+TEXT: रेड चैंपयिन पैक
+
+RESOURCE ID: sku.name.97d3979487618aa0300bb45e1cd3986c
+TEXT: सुप्रीम कटि
+
+RESOURCE ID: sku.name.97ff078393c7473e45e45eb46e79b90c
+TEXT: हैच पाथ पैक
+
+RESOURCE ID: sku.name.9821852ab8f0045cd52ac7d7c1f9ce83
+TEXT: रेड एंड स्टारडस्ट पैक
+
+RESOURCE ID: sku.name.9b2c04d62464927984d51330381d1e10
+TEXT: रकिवरी कटि
+
+RESOURCE ID: sku.name.9c80c016bde82db2e3b91c1e65f64e05
+TEXT: प्रो ट्रेनर बॉक्स
+
+RESOURCE ID: sku.name.9c835022386afe00ff20bdd235c6b2c9
+TEXT: स्टारडस्ट सर्ज बंडल
+
+RESOURCE ID: sku.name.a4084bfbd9cdda3ac5bc46aa44968af2
+TEXT: फ़्रेड बैटलर कटि
+
+RESOURCE ID: sku.name.a6c664eb5262bc2b3e486492858ecf89
+TEXT: एग-स्ट्रैवगैंज़ा बॉक्स
+
+RESOURCE ID: sku.name.a76e6235f32ced7e335dad50e8e222bb
+TEXT: ट्रेनिंग बॉक्स
+
+RESOURCE ID: sku.name.a7d19965d3494422d7b78c113b9f5311
+TEXT: वॉयजर ट्रपिल प्ले पैक
+
+RESOURCE ID: sku.name.a7fbe76ddc4351aca68cb08baa87d753
+TEXT: Battle-Ready Box
+
+RESOURCE ID: sku.name.a8157eea098ee2ae91ff520e87abd6a2
+TEXT: एडवेंचर बॉक्स
+
+RESOURCE ID: sku.name.a8a3683a1235e0fc6e0ff3164205bcc2
+TEXT: बूस्टर बंडल
+
+RESOURCE ID: sku.name.acbf3a5e673d60d4ab5cc2e0ddb5bbc5
+TEXT: हैच मक्सि पैक
+
+RESOURCE ID: sku.name.ae590a7877e7987e5798e4671bc58fc9
+TEXT: रूकी ट्रायो
+
+RESOURCE ID: sku.name.b094c8e0cf401151ccdb30ba01ff892e
+TEXT: लीजेंडरी एडवेंचर बॉक्स
+
+RESOURCE ID: sku.name.b1ac1d151fd29a98b7da18ef702079ea
+TEXT: अट्रैक्ट मास्टर बॉक्स
+
+RESOURCE ID: sku.name.b20ff6e817e9266e067105a2b5cc974b
+TEXT: अट्रैक्ट बंडल
+
+RESOURCE ID: sku.name.b2bbc20562ea77f6ca53a3f6052066c1
+TEXT: कैच एंड ट्रेन बॉक्स
+
+RESOURCE ID: sku.name.b59957ad61a6d7d99f89534bf37ab757
+TEXT: रेड-रेडी पैक
+
+RESOURCE ID: sku.name.b69b2c558fbceb7aee0b9266935cd452
+TEXT: रेड एंड स्टारडस्ट कटि
+
+RESOURCE ID: sku.name.b73177c6630116e3d61a1551dd8f0e1e
+TEXT: हाइकर बॉक्स
+
+RESOURCE ID: sku.name.b8075058f6759d7751931e3c533c53d8
+TEXT: अल्टमिेट एडवेंचर बॉक्स
+
+RESOURCE ID: sku.name.ba307d925557a0fb3a76b251ff1d4231
+TEXT: रेड एंड हैच पैक
+
+RESOURCE ID: sku.name.bdf3bd34d400d57d85ce67f3ebcd5354
+TEXT: वांडरर बॉक्स
+
+RESOURCE ID: sku.name.c0d28b354635019c289ddad69af4d94b
+TEXT: ट्रेनी बॉक्स
+
+RESOURCE ID: sku.name.c4741b85307e0b92ddd3c6f57b2e7d2a
+TEXT: ग्रैंड इनक्यूबेटर बॉक्स
+
+RESOURCE ID: sku.name.c5d6548487d8e93500043ed3a4bedc76
+TEXT: रेड XP पैक
+
+RESOURCE ID: sku.name.c5f4af59430fe314d35d805031864bdc
+TEXT: कैच एन्थूज़यिास्ट बंडल
+
+RESOURCE ID: sku.name.cc6cdab1c0aa1f2226c1a86107740a91
+TEXT: हीलर पैक
+
+RESOURCE ID: sku.name.cc70831c2bfdab9ff8545ff5f45ce72e
+TEXT: इनक्यूबेशन पैक
+
+RESOURCE ID: sku.name.cf949cfd89aec1ac677aa83f47b9a120
+TEXT: ट्रेनर पैक
+
+RESOURCE ID: sku.name.cfa140dbb8df2f6cd19693abb06751fc
+TEXT: रेड एंड बैटल कटि
+
+RESOURCE ID: sku.name.d1ecde0868a2542d34a15915983d090b
+TEXT: द स्टॉकपाइल
+
+RESOURCE ID: sku.name.d2a419673120c3627a44822de832a1f8
+TEXT: इवोल्यूशन बॉक्स
+
+RESOURCE ID: sku.name.d50aa18be532d1a2051cb5494af1c08b
+TEXT: रेड होस्ट बॉक्स
+
+RESOURCE ID: sku.name.d8ee342e0e4e6497e11d9f87a56c26aa
+TEXT: रमिोट एडवेंचर बॉक्स
+
+RESOURCE ID: sku.name.dbc166f935a59e0d496987ed93943f13
+TEXT: हैंडी हैचर
+
+RESOURCE ID: sku.name.dd28c6a6fee82245463ae2e31c2472c7
+TEXT: हैच पैराडाइज़
+
+RESOURCE ID: sku.name.e0d97944694ca67dc0c0c90efe737afc
+TEXT: GO रॉकेट लीडर कटि
+
+RESOURCE ID: sku.name.e16ee8b38979f539eb016ee48aa90c6c
+TEXT: रेड बूस्ट बॉक्स
+
+RESOURCE ID: sku.name.e26febb897799b20178aa04815138240
+TEXT: एक्सपर्ट बॉक्स
+
+RESOURCE ID: sku.name.e82de250f090fb202cf4b5c85cae49be
+TEXT: रमिोट रेड एंड हैच कटि
+
+RESOURCE ID: sku.name.e9575614522d814eb8e3969e9574ba3a
+TEXT: ट्रैवलर टूल कटि
+
+RESOURCE ID: sku.name.ee6e01f33fe5238b827492fc589dac6b
+TEXT: अल्ट्रा रेड बॉक्स
+
+RESOURCE ID: sku.name.f0d1236ca5070a8ca97d4f4b829f9f77
+TEXT: एक्सप्लोरर स्टार्टर कटि
+
+RESOURCE ID: sku.name.f147f5d28b8adedd36bcf9cc7509a94e
+TEXT: रेड स्टार्टर कटि
+
+RESOURCE ID: sku.name.f330a140b1873dd886587035bc71d73c
+TEXT: ट्रपिल बूस्ट बंडल
+
+RESOURCE ID: sku.name.f3dc01be79b51484f2ddf6723e3bd87e
+TEXT: एक्सप्लोर बॉक्स
+
+RESOURCE ID: sku.name.f42ba393f6e92088ad2f42d125ad3415
+TEXT: जमि रकिवरी कटि
+
+RESOURCE ID: sku.name.f5c2badf8de0a9ab1025b97cce93e73a
+TEXT: एक्सप्लोरर ट्रायो पैक
+
+RESOURCE ID: sku.name.f6e2f75435b17ba015399978d0f8f8c2
+TEXT: ग्रैंड हैच स्टॉक
+
+RESOURCE ID: sku.name.f8b5ed9cdfee9f176e2c08e0d9ebd1a4
+TEXT: ग्रैंड हैच जर्नी बॉक्स
+
+RESOURCE ID: sku.name.f973563210354b6b53e0ea77e9c201e4
+TEXT: मक्स्डि रेड ट्रीट बैग
+
+RESOURCE ID: sku.name.fa49f9633732e64e7033aba66307f346
+TEXT: रॉकेट-रेडी हैच बॉक्स
+
+RESOURCE ID: sku.name.faefcdfec0d5e95b59cc1cd91e5f8293
+TEXT: रॉकेट चेज़र पैक
+
+RESOURCE ID: sku.name.fb70ea3b37b6df6d5b06bfb3371e693c
+TEXT: रेड एंड हैच बॉक्स
+
+RESOURCE ID: sku.name.fb89f96f1ef100e03e7f84ffc2aabfcb
+TEXT: ट्रपिल टेन बॉक्स
+
+RESOURCE ID: sku.name.febba925660813dc8cc3e50b38337c97
+TEXT: हीलर स्टैश
 
 RESOURCE ID: sku.name.item_max_boost
 TEXT: मैक्स मुशरूम
@@ -122762,6 +123405,13 @@ TEXT: <b>शामलि बोनस -</b>
 • सफल सुपर मेगा रेड के लिए 5,000 अतरिक्ति स्टार-डस्ट
 • सफल सुपर मेगा रेड के लिए 5,000 अतरिक्ति XP
 
+RESOURCE ID: text_rewards_key_megastaraptorraidday
+TEXT: <b>शामलि बोनस -</b>
+• जमि के फ़ोटो डस्कि स्पनि करने से 8 अतरिक्ति रेड पास
+• रेड से रेयर कैंडी XL प्राप्त करने की ज़्यादा संभावना
+• सफल सुपर मेगा रेड के लिए 5,000 अतरिक्ति स्टार-डस्ट
+• सफल सुपर मेगा रेड के लिए 5,000 अतरिक्ति XP
+
 RESOURCE ID: text_rewards_key_meloettamasterwork2025
 TEXT: <b>इसमें ये रिवॉर्ड शामिल हैं -</b>
 • शाइनी मेलोएटा (सिंगिंग फ़ॉर्म) से मुलाकात
@@ -123137,6 +123787,12 @@ TEXT: <b>शामिल रिवॉर्ड -</b>
 • पोके बॉल और बेरी
 • 12,000 XP और 3,000 स्टार-डस्ट
 
+RESOURCE ID: text_rewards_key_catch_mastery_phantump
+TEXT: <b>शामलि रविॉर्ड -</b>
+• फ़ैंटम्प के साथ 40 मुलाकातें
+• पोके बॉल और बेरी
+• 12,000 XP और 3,000 स्टार-डस्ट
+
 RESOURCE ID: text_rewards_key_cd_flabebe25
 TEXT: <b>शामिल रिवॉर्ड -</b>
 • प्रीमियम इन-गेम आइटम, जैसे कि प्रीमियम बैटल पास, चार्ज्ड TM और रेयर कैंडी
@@ -123272,6 +123928,12 @@ TEXT: <b>शामिल रिवॉर्ड -</b>
 • प्रीमियम इन-गेम आइटम, जैसे कि प्रीमियम बैटल पास, चार्ज्ड TM और रेयर कैंडी
 • स्पैशल बैकग्राउंड वाले ईवी के साथ मुलाकातें
 और और-भी बहुत कुछ!
+
+RESOURCE ID: text_rewards_key_cdc_gible26
+TEXT: <b>शामलि रविॉर्ड -</b>
+• प्रीमयिम इन-गेम आइटम, जैसे कि प्रीमयिम बैटल पास, चार्ज्ड TM और रेयर कैंडी
+• स्पैशल बैकग्राउंड वाले गबिल के साथ मुलाकातें
+• और और-भी!
 
 RESOURCE ID: text_rewards_key_cdc_machop25
 TEXT: <b>शामिल रिवॉर्ड -</b>
@@ -127505,6 +128167,72 @@ TEXT: पार्टनर रसिर्च - SoftBank (7/8)
 RESOURCE ID: tr_partner_softbank_june2026_header_7
 TEXT: पार्टनर रसिर्च - SoftBank (8/8)
 
+RESOURCE ID: tr_phantump_mastery_sep2026
+TEXT: कैच मास्टरी - फ़ैंटम्प सीमति समय वाली रसिर्च
+
+RESOURCE ID: tr_phantump_mastery_paid_sep2026
+TEXT: कैच मास्टरी - फ़ैंटम्प प्रीमयिम सीमति समय वाली रसिर्च
+
+RESOURCE ID: tr_phantump_mastery_paid_sep2026_header_0
+TEXT: कैच मास्टरी - फ़ैंटम्प प्रीमयिम सीमति समय वाली रसिर्च (1/10)
+
+RESOURCE ID: tr_phantump_mastery_paid_sep2026_header_1
+TEXT: कैच मास्टरी - फ़ैंटम्प प्रीमयिम सीमति समय वाली रसिर्च (2/10)
+
+RESOURCE ID: tr_phantump_mastery_paid_sep2026_header_2
+TEXT: कैच मास्टरी - फ़ैंटम्प प्रीमयिम सीमति समय वाली रसिर्च (3/10)
+
+RESOURCE ID: tr_phantump_mastery_paid_sep2026_header_3
+TEXT: कैच मास्टरी - फ़ैंटम्प प्रीमयिम सीमति समय वाली रसिर्च (4/10)
+
+RESOURCE ID: tr_phantump_mastery_paid_sep2026_header_4
+TEXT: कैच मास्टरी - फ़ैंटम्प प्रीमयिम सीमति समय वाली रसिर्च (5/10)
+
+RESOURCE ID: tr_phantump_mastery_paid_sep2026_header_5
+TEXT: कैच मास्टरी - फ़ैंटम्प प्रीमयिम सीमति समय वाली रसिर्च (6/10)
+
+RESOURCE ID: tr_phantump_mastery_paid_sep2026_header_6
+TEXT: कैच मास्टरी - फ़ैंटम्प प्रीमयिम सीमति समय वाली रसिर्च (7/10)
+
+RESOURCE ID: tr_phantump_mastery_paid_sep2026_header_7
+TEXT: कैच मास्टरी - फ़ैंटम्प प्रीमयिम सीमति समय वाली रसिर्च (8/10)
+
+RESOURCE ID: tr_phantump_mastery_paid_sep2026_header_8
+TEXT: कैच मास्टरी - फ़ैंटम्प प्रीमयिम सीमति समय वाली रसिर्च (9/10)
+
+RESOURCE ID: tr_phantump_mastery_paid_sep2026_header_9
+TEXT: कैच मास्टरी - फ़ैंटम्प प्रीमयिम सीमति समय वाली रसिर्च (10/10)
+
+RESOURCE ID: tr_phantump_mastery_sep2026_header_0
+TEXT: कैच मास्टरी - फ़ैंटम्प सीमति समय वाली रसिर्च (1/10)
+
+RESOURCE ID: tr_phantump_mastery_sep2026_header_1
+TEXT: कैच मास्टरी - फ़ैंटम्प सीमति समय वाली रसिर्च (2/10)
+
+RESOURCE ID: tr_phantump_mastery_sep2026_header_2
+TEXT: कैच मास्टरी - फ़ैंटम्प सीमति समय वाली रसिर्च (3/10)
+
+RESOURCE ID: tr_phantump_mastery_sep2026_header_3
+TEXT: कैच मास्टरी - फ़ैंटम्प सीमति समय वाली रसिर्च (4/10)
+
+RESOURCE ID: tr_phantump_mastery_sep2026_header_4
+TEXT: कैच मास्टरी - फ़ैंटम्प सीमति समय वाली रसिर्च (5/10)
+
+RESOURCE ID: tr_phantump_mastery_sep2026_header_5
+TEXT: कैच मास्टरी - फ़ैंटम्प सीमति समय वाली रसिर्च (6/10)
+
+RESOURCE ID: tr_phantump_mastery_sep2026_header_6
+TEXT: कैच मास्टरी - फ़ैंटम्प सीमति समय वाली रसिर्च (7/10)
+
+RESOURCE ID: tr_phantump_mastery_sep2026_header_7
+TEXT: कैच मास्टरी - फ़ैंटम्प सीमति समय वाली रसिर्च (8/10)
+
+RESOURCE ID: tr_phantump_mastery_sep2026_header_8
+TEXT: कैच मास्टरी - फ़ैंटम्प सीमति समय वाली रसिर्च (9/10)
+
+RESOURCE ID: tr_phantump_mastery_sep2026_header_9
+TEXT: कैच मास्टरी - फ़ैंटम्प सीमति समय वाली रसिर्च (10/10)
+
 RESOURCE ID: tr_photo_safari_ho_oh_title
 TEXT: Rainbow Skies
 
@@ -130046,7 +130774,7 @@ RESOURCE ID: verdant_wonders_event_collection_challenge
 TEXT: सब्ज़ अजूबे कलेक्शन चैलेंज
 
 RESOURCE ID: veteran_box_title
-TEXT: Veteran Box
+TEXT: वेट्रन बॉक्स
 
 RESOURCE ID: video_sponsored_gift_tutorial_description_1
 TEXT: As you explore while playing Pokémon GO, you may receive Gifts and video messages from our sponsors.
@@ -130094,22 +130822,22 @@ RESOURCE ID: visit_web_store_banner_string_key
 TEXT: विशेष ऑफ़र और बोनस रिवॉर्ड के लिए <color=#F2A64B>Pokémon GO Web Store</color> पर जाएँ।
 
 RESOURCE ID: visit_web_store_banner_url_key
-TEXT: https://store.pokemongo.com/?utm_source=PGO&utm_medium=IAN&utm_campaign=pgo_webstore_linkout&utm_content=banner_view_webstore_IAN
+TEXT: https://store.pokemongo.com/hi/?utm_source=PGO&utm_medium=IAN&utm_campaign=pgo_webstore_linkout&utm_content=banner_view_webstore_IAN
 
 RESOURCE ID: visit_web_store_item_purchase_page_url_key
 TEXT: https://store.pokemongo.com/hi/purchase/item/{0}?utm_source=PGO&utm_medium=in-game-shop&utm_campaign=pgo_webstore_linkout&utm_content={1}
 
 RESOURCE ID: visit_web_store_item_url_key
-TEXT: https://store.pokemongo.com/?utm_source=PGO&utm_medium=in-game-shop&utm_campaign=pgo_webstore_linkout&utm_content=sku_button&itemId={0}
+TEXT: https://store.pokemongo.com/hi/?utm_source=PGO&utm_medium=in-game-shop&utm_campaign=pgo_webstore_linkout&utm_content=sku_button&itemId={0}
 
 RESOURCE ID: visit_web_store_pokecoin_floater_url_key
-TEXT: https://store.pokemongo.com/?utm_source=PGO&utm_medium=in-game-shop&utm_campaign=pgo_webstore_linkout&utm_content=webstore_icon#POKECOINS
+TEXT: https://store.pokemongo.com/hi/?utm_source=PGO&utm_medium=in-game-shop&utm_campaign=pgo_webstore_linkout&utm_content=webstore_icon#POKECOINS
 
 RESOURCE ID: visit_web_store_pokecoin_string_key
 TEXT: <color=#F2A64B>Pokémon GO Web Store</color> पर दोगुने रिवॉर्ड पॉइंट और 10% तक अतिरिक्त बोनस पोके कॉइन पाएं!
 
 RESOURCE ID: visit_web_store_pokecoin_url_key
-TEXT: https://store.pokemongo.com/?utm_source=PGO&utm_medium=in-game-shop&utm_campaign=pgo_webstore_linkout&utm_content=banner_pokecoins#POKECOINS
+TEXT: https://store.pokemongo.com/hi/?utm_source=PGO&utm_medium=in-game-shop&utm_campaign=pgo_webstore_linkout&utm_content=banner_pokecoins#POKECOINS
 
 RESOURCE ID: volbeat_illumise_all_regions
 TEXT: पूरी दुनिया में, वोल्बीट और इलुमीज़े वाइल्ड दिखाई दे रहे हैं
