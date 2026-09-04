@@ -82,6 +82,18 @@ TEXT: Премиум-Квест на Время 10-летний Юбилей
 RESOURCE ID: 30th_anniversary_all_out_event_name
 TEXT: 30-летний Юбилей Покемон: Все Вместе
 
+RESOURCE ID: 30th_anniversary_apac_event_name_malaysia
+TEXT: PokéXciting! Малайзия: Присоединяйся к Крупнейшей Вечеринке Покемон!
+
+RESOURCE ID: 30th_anniversary_apac_event_name_phillipine
+TEXT: PokéXciting! Филиппины: Присоединяйся к Крупнейшей Вечеринке Покемон!
+
+RESOURCE ID: 30th_anniversary_apac_event_name_sg
+TEXT: PokéXciting! Сингапур: Присоединяйся к Крупнейшей Вечеринке Покемон!
+
+RESOURCE ID: 30th_anniversary_apac_event_name_tw
+TEXT: PokéXciting! Тайвань: Присоединяйся к Крупнейшей Вечеринке Покемон!
+
 RESOURCE ID: 30th_anniversary_event_name
 TEXT: 30-летний Юбилей Покемон
 
@@ -13552,6 +13564,27 @@ TEXT: Городское Сафари Pokémon GO
 RESOURCE ID: badge_safari_2026_munich_day_02_title
 TEXT: Городское Сафари Pokémon GO
 
+RESOURCE ID: badge_safari_2026_rdj_add_on_hatch_test_title
+TEXT: Pokémon GO City Safari—Egg-thusiast
+
+RESOURCE ID: badge_safari_2026_rdj_add_on_hatch_title
+TEXT: Городское Сафари Pokémon GO – Яичный Энтузиазм
+
+RESOURCE ID: badge_safari_2026_rdj_add_on_raid_test_title
+TEXT: Pokémon GO City Safari—Raid Lover
+
+RESOURCE ID: badge_safari_2026_rdj_add_on_raid_title
+TEXT: Городское Сафари Pokémon GO – Любовь к Рейдам
+
+RESOURCE ID: badge_safari_2026_rdj_day_00_title
+TEXT: Городское Сафари Pokémon GO
+
+RESOURCE ID: badge_safari_2026_rdj_day_01_title
+TEXT: Городское Сафари Pokémon GO
+
+RESOURCE ID: badge_safari_2026_rdj_day_02_title
+TEXT: Городское Сафари Pokémon GO
+
 RESOURCE ID: badge_safari_2026_riodejaneiro_add_on_hatch_test_title
 TEXT: Pokémon GO City Safari—Egg-thusiast
 
@@ -14151,6 +14184,27 @@ TEXT: Мюнхен, 26 сентября 2026
 
 RESOURCE ID: badge_safari_2026_munich_day_02
 TEXT: Мюнхен, 27 сентября 2026
+
+RESOURCE ID: badge_safari_2026_rdj_add_on_hatch
+TEXT: Рио-де-Жанейро 2026
+
+RESOURCE ID: badge_safari_2026_rdj_add_on_hatch_test
+TEXT: Rio de Janeiro 2026
+
+RESOURCE ID: badge_safari_2026_rdj_add_on_raid
+TEXT: Рио-де-Жанейро 2026
+
+RESOURCE ID: badge_safari_2026_rdj_add_on_raid_test
+TEXT: Rio de Janeiro 2026
+
+RESOURCE ID: badge_safari_2026_rdj_day_00
+TEXT: Рио-де-Жанейро 2026
+
+RESOURCE ID: badge_safari_2026_rdj_day_01
+TEXT: Рио-де-Жанейро, 26 сентября 2026
+
+RESOURCE ID: badge_safari_2026_rdj_day_02
+TEXT: Рио-де-Жанейро, 27 сентября 2026
 
 RESOURCE ID: badge_safari_2026_riodejaneiro_add_on_hatch
 TEXT: Рио-де-Жанейро 2026
@@ -18318,6 +18372,9 @@ TEXT: Намного больше шансов получить яйца на 10
 RESOURCE ID: bonus_10x_catch_xp
 TEXT: 10× XP за Поимку
 
+RESOURCE ID: bonus_30thapac_gmax
+TEXT: Формы Гигантамакс Чаризарда, Венузавра и Бластойза появляются в Битвах Макс
+
 RESOURCE ID: bonus_1000_xp_ub_raid
 TEXT: +1000 XP за успешное завершение рейда против Ультрачудовища
 
@@ -18479,6 +18536,9 @@ TEXT: Эволюционируй Фрогадира, чтобы получить
 
 RESOURCE ID: bonus_cd_move_fuecoco
 TEXT: Эволюционируй Крокалора, чтобы получить Скеледиржа, который знает заряженную атаку Обжигающий Взрыв!
+
+RESOURCE ID: bonus_cd_move_gible
+TEXT: Эволюционируй Габайта, чтобы получить Гарчомпа, который знает Заряженную Атаку Сила Земли!
 
 RESOURCE ID: bonus_cd_move_goomy
 TEXT: Эволюционируй Слиггу, чтобы получить Гудру, который знает заряженную атаку Громовой Кулак!
@@ -19249,6 +19309,9 @@ TEXT: В местных особых рейдах появляется Мега-
 RESOURCE ID: bonus_mega_cp_boost
 TEXT: Усиленная БС для всех прошедших Мегаэволюцию Покемонов
 
+RESOURCE ID: bonus_mega_energy_gible
+TEXT: Заработай 300 Мегаэнергии Гарчомп, завершив Коллекционное Испытание Гибл
+
 RESOURCE ID: bonus_mega_energy_spin_chance
 TEXT: Шанс получить Мегаэнергию за прокрутку Покестопов или Гимов
 
@@ -19362,6 +19425,9 @@ TEXT: Ежедневные неожиданные встречи с Пикачу
 
 RESOURCE ID: bonus_pikachu_10th_anniversary_costume
 TEXT: Пикачу-ассистенты Профессора Уиллоу появляются в рейдах и Квестах на Время
+
+RESOURCE ID: bonus_pikachu_30thapac
+TEXT: Дикие PokéXciting! Пикачу появляются в связанном с событием Квесте на Время и в неожиданных встречах в Стоп-Кадре GO
 
 RESOURCE ID: bonus_pikachu_npb_costume
 TEXT: Пикачу в бейсбольных футболках теперь появляются в рейдах и Квестах на Время
@@ -20973,8 +21039,14 @@ TEXT: Получи бонус атаки в зависимости от коли
 RESOURCE ID: bread_lobby_attack_multiplier_dialog_title
 TEXT: Бонус атаки
 
+RESOURCE ID: bread_lobby_countdown_to_battle_start
+TEXT: Countdown to the Max Battle start
+
 RESOURCE ID: bread_lobby_error_battle_completed
 TEXT: Тебе уже удалось сразиться в этой Зоне силы.
+
+RESOURCE ID: bread_lobby_error_failed_to_create_battle
+TEXT: Could not join the Max Battle. Please try again later.
 
 RESOURCE ID: bread_lobby_error_friend_details_unavailable
 TEXT: Произошла ошибка при отправке приглашения. Попробуй ещё раз.
@@ -21155,6 +21227,21 @@ TEXT: Ты хочешь выйти?
 
 RESOURCE ID: bread_post_battle_encounter_run_away_description
 TEXT: Если ты выйдешь, то больше не сможешь поймать этого Покемона.
+
+RESOURCE ID: bread_private_lobby_error_unavailable
+TEXT: Private groups are currently unavailable. Please try again later.
+
+RESOURCE ID: bread_private_lobby_error_flip_unavailable
+TEXT: The group could not be changed to public.
+
+RESOURCE ID: bread_private_lobby_error_limit_reached
+TEXT: The maximum number of private groups for this Max Battle has been reached.
+
+RESOURCE ID: bread_private_lobby_error_not_creator
+TEXT: Only the Trainer who created this group can change it to public.
+
+RESOURCE ID: bread_private_lobby_error_not_found
+TEXT: This group could not be found. The code may be incorrect, or the group may no longer be available.
 
 RESOURCE ID: bread_release_title
 TEXT: Ты хочешь, чтобы этот Покемон вернулся: {0}?
@@ -31851,6 +31938,9 @@ TEXT: Исследователи Иви – Мумбаи (1/1)
 RESOURCE ID: eevee_explorers_munich_title
 TEXT: Исследователи Иви – Марафон Печатей Мюнхен
 
+RESOURCE ID: eevee_explorers_rdj_title
+TEXT: Исследователи Иви – Марафон Печатей Рио-де-Жанейро
+
 RESOURCE ID: eevee_explorers_riodejaneiro_title
 TEXT: Исследователи Иви – Марафон Печатей Рио-де-Жанейро
 
@@ -34853,6 +34943,9 @@ TEXT: Получено в Ранге 30
 
 RESOURCE ID: event_pass_premium_reward_banner_bottom_text_02
 TEXT: Получено в ранге 40
+
+RESOURCE ID: event_pass_premium_reward_banner_bottom_text_25
+TEXT: Получено в ранге 25
 
 RESOURCE ID: event_pass_premium_reward_banner_bottom_text_30anniv_2026
 TEXT: Получено в Ранге 79
@@ -41279,6 +41372,9 @@ TEXT: Что-то пошло не так. Пожалуйста, попробуй
 
 RESOURCE ID: general_submit_an_appeal
 TEXT: Подать апелляцию
+
+RESOURCE ID: general_supply_balloon_30thapac
+TEXT: Воздушный Шар Снабжения будет появляться каждый час. Коснись его, чтобы получить предметы для вечеринки!
 
 RESOURCE ID: general_total_caps
 TEXT: TOTAL
@@ -51321,6 +51417,9 @@ TEXT: 2× XP за вынашивание
 
 RESOURCE ID: hatch_xp_triple
 TEXT: 3× XP за вынашивание
+
+RESOURCE ID: hatenna_wattrel_stardust_catch
+TEXT: Хатенна и Ваттрел дают дополнительную Звёздную Пыль при поимке
 
 RESOURCE ID: heal_all_button
 TEXT: Излечить всех
@@ -61845,10 +61944,10 @@ at SHA bacc02371739993984570a6f5b31a993cf3b031b
 Pipeline 498004, job 4265729
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-09-02T02:46:00.003808+00:00 for ru-RU
-at SHA c548b2d4c69
-Pipeline 3914795, job 57587942
-Patch from: 0.427.0-SHA-bafb3348-RC1, 0.427.1-SHA-4a569ba7-RC1, 0.429.0-SHA-d6c796f0-RC1
+TEXT: Built at 2026-09-04T06:18:32.891802+00:00 for ru-RU
+at SHA 75c193b8ad4
+Pipeline 3921469, job 57699227
+Patch from: 0.427.0-SHA-fc729f25-RC2, 0.427.1-SHA-4a569ba7-RC1, 0.429.0-SHA-d6c796f0-RC1
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: ‎Квест на время: Боевой тип
@@ -77994,6 +78093,9 @@ TEXT: https://support.pokemon.com/hc/en-us/articles/360050219032-How-to-transfer
 RESOURCE ID: pokemon_home_support_page_url
 TEXT: https://support.pokemon.com/hc/en-us/categories/360001984231-Pok%C3%A9mon-HOME
 
+RESOURCE ID: pokemon_horizons_2026_event_name
+TEXT: Праздничное Событие Сериал Покемон 2026
+
 RESOURCE ID: pokemon_hungry_notification_toast
 TEXT: {0} needs a treat!
 
@@ -83162,6 +83264,47 @@ TEXT: Конфиденциальность
 RESOURCE ID: privacy_policy_update_notice
 TEXT: Пожалуйста, просмотри обновлённую Политику конфиденциальности Niantic для получения дополнительной информации о новых функциях продукта и о том, как мы обрабатываем личные данные.
 
+RESOURCE ID: private_group_title
+TEXT: Private Group
+
+RESOURCE ID: private_group_pill
+TEXT: PRIVATE
+
+RESOURCE ID: private_group_change_to_public_title
+TEXT: Change to Public
+
+RESOURCE ID: private_group_change_to_public_desc
+TEXT: If you change this group to public, anyone can join and battle with you. Once you change to public, your group cannot be made private again.
+
+Are you sure you want to change to a public group?
+
+RESOURCE ID: private_group_change_to_public_button
+TEXT: CHANGE TO PUBLIC
+
+RESOURCE ID: private_group_code_intro
+TEXT: Battle together with friends by entering their group code.
+
+RESOURCE ID: private_group_code_label
+TEXT: GROUP CODE
+
+RESOURCE ID: private_group_create_button
+TEXT: Create Group
+
+RESOURCE ID: private_group_created_title
+TEXT: Successfully created a group!
+
+RESOURCE ID: private_group_entry_button
+TEXT: PRIVATE GROUP
+
+RESOURCE ID: private_group_invalid_code
+TEXT: This group code is invalid. Please enter a valid code.
+
+RESOURCE ID: private_group_join_button
+TEXT: Join Group
+
+RESOURCE ID: private_group_share_code_message
+TEXT: Share this group code with your friends. They can join you by entering this group code.
+
 RESOURCE ID: prof_willow_birthday_2026_title
 TEXT: Квест День Рождения Уиллоу
 
@@ -86141,6 +86284,9 @@ TEXT: Сделай фото своего Иви в Мумбаи
 RESOURCE ID: quest_event_eevee_snapshot_munich
 TEXT: Сделай фото своего Иви в Мюнхене
 
+RESOURCE ID: quest_event_eevee_snapshot_rdj
+TEXT: Сделай фото своего Иви в Рио-де-Жанейро
+
 RESOURCE ID: quest_event_eevee_snapshot_riodejaneiro
 TEXT: Сделай фото своего Иви в Рио-де-Жанейро
 
@@ -86231,6 +86377,9 @@ TEXT: Покрути 1 Покестоп или Гим в Мумбаи
 RESOURCE ID: quest_event_spin_munich
 TEXT: Покрути 1 Покестоп или Гим в Мюнхене
 
+RESOURCE ID: quest_event_spin_rdj
+TEXT: Покрути 1 Покестоп или Гим в Рио-де-Жанейро
+
 RESOURCE ID: quest_event_spin_riodejaneiro
 TEXT: Покрути 1 Покестоп или Гим в Рио-де-Жанейро
 
@@ -86272,6 +86421,9 @@ TEXT: Эволюционируй 1 Бульбазавра
 
 RESOURCE ID: quest_evolve_charmander
 TEXT: Эволюционируй 1 Чармандера
+
+RESOURCE ID: quest_evolve_charmeleon
+TEXT: Эволюционируй Чармелеона
 
 RESOURCE ID: quest_evolve_chikorita
 TEXT: Эволюционируй своего Чикориту
@@ -89873,6 +90025,12 @@ TEXT: Сделай {0} фото разных огненных Покемонов
 RESOURCE ID: quest_snapshot_wild_bug
 TEXT: Сделай {0} фото диких насекомых Покемонов
 
+RESOURCE ID: quest_snapshot_wild_bulbasaur
+TEXT: Сделай фото дикого Бульбазавра
+
+RESOURCE ID: quest_snapshot_wild_charmander
+TEXT: Сделай фото дикого Чармандера
+
 RESOURCE ID: quest_snapshot_wild_dark
 TEXT: Сделай {0} фото диких тёмных Покемонов
 
@@ -89915,8 +90073,14 @@ TEXT: Сделай фото дикого Хутхута
 RESOURCE ID: quest_snapshot_wild_ice
 TEXT: Сделай {0} фото диких ледяных Покемонов
 
+RESOURCE ID: quest_snapshot_wild_meowth
+TEXT: Сделай фото дикого Мяута
+
 RESOURCE ID: quest_snapshot_wild_normal
 TEXT: Сделай {0} фото диких обычных Покемонов
+
+RESOURCE ID: quest_snapshot_wild_piakchu
+TEXT: Сделай фото дикого Пикачу
 
 RESOURCE ID: quest_snapshot_wild_plural
 TEXT: Сделай фото диких Покемонов ×{0}
@@ -89927,6 +90091,9 @@ TEXT: Сделай {0} фото диких ядовитых Покемонов
 RESOURCE ID: quest_snapshot_wild_psychic
 TEXT: Сделай {0} фото диких психических Покемонов
 
+RESOURCE ID: quest_snapshot_wild_psyduck
+TEXT: Сделай фото дикого Псайдака
+
 RESOURCE ID: quest_snapshot_wild_raikou
 TEXT: Сделай фото дикого Райку
 
@@ -89935,6 +90102,9 @@ TEXT: Сделай {0} фото диких каменных Покемонов
 
 RESOURCE ID: quest_snapshot_wild_singular
 TEXT: Сделай фото дикого Покемона
+
+RESOURCE ID: quest_snapshot_wild_squirtle
+TEXT: Сделай фото дикого Сквиртла
 
 RESOURCE ID: quest_snapshot_wild_steel
 TEXT: Сделай {0} фото диких стальных Покемонов
@@ -104705,6 +104875,9 @@ TEXT: Покрути Покестопы или Гимы ×{0}
 RESOURCE ID: quest_visit_pokestops_singular
 TEXT: Покрути 1 Покестоп или Гим
 
+RESOURCE ID: quest_visit_pokestops_days_plural
+TEXT: Покрути 1 Покестоп или Гим в разные дни ×{0}
+
 RESOURCE ID: quest_visit_pokestops_party_plural
 TEXT: Играя в команде, покрути Покестопы или Гимы ×{0}
 
@@ -110158,6 +110331,81 @@ TEXT: Победи в {0} рейдах
 RESOURCE ID: raidweek_2019_medium_raid
 TEXT: Победи в {0} рейдах
 
+RESOURCE ID: rally_apac_30_cross_regional_title
+TEXT: Марафон Печатей PokéXciting! – Азиатско-Тихоокеанский Регион
+
+RESOURCE ID: rally_apac_30_regional_malaysia_title
+TEXT: Марафон Печатей PokéXciting! – Малайзия
+
+RESOURCE ID: rally_apac_30_regional_philippines_title
+TEXT: Марафон Печатей PokéXciting! – Филиппины
+
+RESOURCE ID: rally_apac_30_regional_singapore_title
+TEXT: Марафон Печатей PokéXciting! – Сингапур
+
+RESOURCE ID: rally_apac_30_regional_taiwan_title
+TEXT: Марафон Печатей PokéXciting! – Тайвань
+
+RESOURCE ID: rally_apac_30_cross_regional_desc
+TEXT: Празднуй PokéXciting! в Азиатско-Тихоокеанском регионе!
+
+RESOURCE ID: rally_apac_30_cross_regional_desc_detail
+TEXT: Повстречай PokéXciting! Пикачу при посещении специальных Покестопов по всему Азиатско-Тихоокеанскому региону. Чтобы узнать больше, посмотри на карту.
+
+RESOURCE ID: rally_apac_30_cross_regional_location
+TEXT: Азиатско-Тихоокеанский Регион
+
+RESOURCE ID: rally_apac_30_cross_regional_rewards_desc
+TEXT: Исследуй Азиатско-Тихоокеанский регион, чтобы встретить PokéXciting! Пикачу разных цветов с эксклюзивными городскими Фонами Места.
+
+RESOURCE ID: rally_apac_30_regional_malaysia_desc
+TEXT: Празднуй PokéXciting! в Малайзии!
+
+RESOURCE ID: rally_apac_30_regional_malaysia_desc_detail
+TEXT: Повстречай PokéXciting! Пикачу при посещении специальных Покестопов по всему Куала-Лумпуру. Чтобы узнать больше, посмотри на карту.
+
+RESOURCE ID: rally_apac_30_regional_malaysia_location
+TEXT: Куала-Лумпур, Малайзия
+
+RESOURCE ID: rally_apac_30_regional_malaysia_reward_desc
+TEXT: Исследуй Куала-Лумпур, чтобы встретить PokéXciting! Пикачу (Бирюзовый) с эксклюзивным Фоном Места Куала-Лумпур.
+
+RESOURCE ID: rally_apac_30_regional_philippines_desc
+TEXT: Празднуй PokéXciting! на Филиппинах!
+
+RESOURCE ID: rally_apac_30_regional_philippines_desc_detail
+TEXT: Повстречай PokéXciting! Пикачу при посещении специальных Покестопов по всему Пасаю. Чтобы узнать больше, посмотри на карту.
+
+RESOURCE ID: rally_apac_30_regional_philippines_location
+TEXT: Пасай, Филиппины
+
+RESOURCE ID: rally_apac_30_regional_philippines_reward_desc
+TEXT: Исследуй Пасай, чтобы встретить PokéXciting! Пикачу (Красный) с эксклюзивным Фоном Места Пасай.
+
+RESOURCE ID: rally_apac_30_regional_singapore_desc
+TEXT: Празднуй PokéXciting! в Сингапуре!
+
+RESOURCE ID: rally_apac_30_regional_singapore_desc_detail
+TEXT: Повстречай PokéXciting! Пикачу при посещении специальных Покестопов по всему Сингапуру. Чтобы узнать больше, посмотри на карту.
+
+RESOURCE ID: rally_apac_30_regional_singapore_location
+TEXT: Сингапур
+
+RESOURCE ID: rally_apac_30_regional_singapore_reward_desc
+TEXT: Исследуй Сингапур, чтобы встретить PokéXciting! Пикачу (Синий) с эксклюзивным Фоном Места Сингапур.
+
+RESOURCE ID: rally_apac_30_regional_taiwan_desc
+TEXT: Празднуй PokéXciting! в Тайване!
+
+RESOURCE ID: rally_apac_30_regional_taiwan_desc_detail
+TEXT: Повстречай PokéXciting! Пикачу при посещении специальных Покестопов по всему Тайбэю. Чтобы узнать больше, посмотри на карту.
+
+RESOURCE ID: rally_apac_30_regional_taiwan_location
+TEXT: Тайбэй, Тайвань
+
+RESOURCE ID: rally_apac_30_regional_taiwan_reward_desc
+TEXT: Исследуй Тайбэй, чтобы встретить PokéXciting! Пикачу (Розовый) с эксклюзивным Фоном Места Тайбэй.
+
 RESOURCE ID: rally_city_safari_2025_amsterdam_desc
 TEXT: Добро пожаловать на Городское Сафари: Амстердам!
 
@@ -110313,6 +110561,18 @@ TEXT: Мюнхен, Германия
 
 RESOURCE ID: rally_city_safari_2026_munich_rewards_desc_general
 TEXT: Исследуй город, чтобы встретить Иви в шляпе исследователя с эксклюзивным Фоном Места Мюнхен.
+
+RESOURCE ID: rally_city_safari_2026_rdj_desc
+TEXT: Добро пожаловать на Городское Сафари: Рио-де-Жанейро!
+
+RESOURCE ID: rally_city_safari_2026_rdj_desc_detail
+TEXT: До 8 встреч с Иви по билетам в день события при посещении специальных Покестопов по всему Рио-де-Жанейро. Чтобы узнать больше, посмотри на карту.
+
+RESOURCE ID: rally_city_safari_2026_rdj_location
+TEXT: Рио-де-Жанейро, Бразилия
+
+RESOURCE ID: rally_city_safari_2026_rdj_rewards_desc_general
+TEXT: Исследуй город, чтобы встретить Иви в шляпе исследователя с эксклюзивным Фоном Места Рио-де-Жанейро.
 
 RESOURCE ID: rally_city_safari_2026_riodejaneiro_desc
 TEXT: Добро пожаловать на Городское Сафари: Рио-де-Жанейро!
@@ -114760,6 +115020,9 @@ TEXT: Городское Сафари: Марсель 2026
 RESOURCE ID: safari_city_2026_munich_title
 TEXT: Городское Сафари: Мюнхен 2026
 
+RESOURCE ID: safari_city_2026_rdj_title
+TEXT: Городское Сафари: Рио-де-Жанейро 2026
+
 RESOURCE ID: safari_city_2026_riodejaneiro_title
 TEXT: Городское Сафари: Рио-де-Жанейро 2026
 
@@ -114834,6 +115097,9 @@ TEXT: Городское Сафари: Марсель 2026 (1/3)
 
 RESOURCE ID: safari_city_2026_munich_title_00
 TEXT: Городское Сафари: Мюнхен 2026 (1/3)
+
+RESOURCE ID: safari_city_2026_rdj_title_00
+TEXT: Городское Сафари: Рио-де-Жанейро 2026 (1/3)
 
 RESOURCE ID: safari_city_2026_riodejaneiro_title_00
 TEXT: Городское Сафари: Рио-де-Жанейро 2026 (1/3)
@@ -114910,6 +115176,9 @@ TEXT: Городское Сафари: Марсель 2026 (2/3)
 RESOURCE ID: safari_city_2026_munich_title_01
 TEXT: Городское Сафари: Мюнхен 2026 (2/3)
 
+RESOURCE ID: safari_city_2026_rdj_title_01
+TEXT: Городское Сафари: Рио-де-Жанейро 2026 (2/3)
+
 RESOURCE ID: safari_city_2026_riodejaneiro_title_01
 TEXT: Городское Сафари: Рио-де-Жанейро 2026 (2/3)
 
@@ -114984,6 +115253,9 @@ TEXT: Городское Сафари: Марсель 2026 (3/3)
 
 RESOURCE ID: safari_city_2026_munich_title_02
 TEXT: Городское Сафари: Мюнхен 2026 (3/3)
+
+RESOURCE ID: safari_city_2026_rdj_title_02
+TEXT: Городское Сафари: Рио-де-Жанейро 2026 (3/3)
 
 RESOURCE ID: safari_city_2026_riodejaneiro_title_02
 TEXT: Городское Сафари: Рио-де-Жанейро 2026 (3/3)
@@ -116311,6 +116583,9 @@ TEXT: Пропуск GO: Летающее Такси
 RESOURCE ID: season_pass_base_track_title_halloween_2025
 TEXT: Пропуск GO: Хэллоуин 2025
 
+RESOURCE ID: season_pass_base_track_title_horizons_fall_2026
+TEXT: Праздничное Событие Пропуск GO: Коллаборация
+
 RESOURCE ID: season_pass_base_track_title_mega_squads_2026
 TEXT: Пропуск GO: Мега Отряды
 
@@ -116474,6 +116749,9 @@ TEXT: Чтобы узнать больше, посети <a href="https://pokemo
 RESOURCE ID: season_pass_details_link_halloween_2025
 TEXT: Чтобы узнать больше, посети <a href="https://pokemongo.com/news/go-pass-halloween-2025">этот сайт</a>.
 
+RESOURCE ID: season_pass_details_link_horizons_fall_2026
+TEXT: Чтобы узнать больше, посети <a href="https://pokemongo.com/news/pokemon-horizons-celebration-event-2026">этот сайт</a>.
+
 RESOURCE ID: season_pass_details_link_pikachu_celebration_2026
 TEXT: Чтобы узнать больше, посети <a href="https://pokemongo.com/news/special-anniversary-pikachu-celebration">этот сайт</a>.
 
@@ -116533,6 +116811,19 @@ TEXT: Приобрети Делюкс-Пропуск GO: Хэллоуин 2025, 
 • Поза Чаепития
 • Встречи с тематическими Ивент-Покемонами
 • Редкие Конфеты XL
+• И многим другим!
+
+RESOURCE ID: season_pass_horizons_fall_2026_event_duration
+TEXT: 16 сентября – 22 сентября
+
+RESOURCE ID: season_pass_horizons_fall_2026_track_upgrade_header_description
+TEXT: Заработай дополнительные награды и получи доступ к <b>встрече с Рокраффом</b> в Ранге 60!
+
+RESOURCE ID: season_pass_horizons_fall_2026_upgrade_description
+TEXT: Приобрети Праздничное Событие Делюкс-Пропуск GO: Коллаборация, чтобы получить доступ к следующим наградам!
+
+• Встречи с тематическими Ивент-Покемонами
+• Редкие Конфеты XL
 • И многим другим!
 
 RESOURCE ID: season_pass_january2026_event_duration
@@ -116727,6 +117018,9 @@ TEXT: Делюкс-Пропуск GO: Кандела: Стремление к �
 RESOURCE ID: season_pass_premium_track_plus_six_ranks_title_flying_taxi_2026
 TEXT: Делюкс-Пропуск GO: Летающее Такси + 6 Рангов
 
+RESOURCE ID: season_pass_premium_track_plus_six_ranks_title_horizons_fall_2026
+TEXT: Праздничное Событие Делюкс-Пропуск GO: Коллаборация + 6 Рангов
+
 RESOURCE ID: season_pass_premium_track_plus_six_ranks_title_mega_squads_2026
 TEXT: Делюкс-Пропуск GO: Мега Отряды + 6 Рангов
 
@@ -116861,6 +117155,9 @@ TEXT: Делюкс-Пропуск GO: Летающее Такси
 
 RESOURCE ID: season_pass_premium_track_title_halloween_2025
 TEXT: Делюкс-Пропуск GO: Хэллоуин 2025
+
+RESOURCE ID: season_pass_premium_track_title_horizons_fall_2026
+TEXT: Праздничное Событие Делюкс-Пропуск GO: Коллаборация
 
 RESOURCE ID: season_pass_premium_track_title_mega_squads_2026
 TEXT: Делюкс-Пропуск GO: Мега Отряды
@@ -125834,7 +126131,6 @@ TEXT: <b>Включает:</b>
 • До 6 бесплатных Пропусков на Рейды каждый день за прокрутку Фотодисков Гимов
 • Больше шансов получить тематические Яйца на 10 км за прокрутку Покестопов
 • До 6 Специальных Обменов в день и уменьшенная цена Звёздной Пыли для обмена
-• 1/2 Расстояния для Вынашивания, если Яйца помещены в Инкубатор во время события
 • 2× Конфет за поимку Покемонов
 • Больше шансов встретить Сияющих Покемонов во время этого события
 Узнать больше о бонусах этого билета можно <a href="pokemongo.com/gowildarea/global">здесь</a>.
@@ -126778,6 +127074,16 @@ TEXT: <b>Включает следующие награды:</b>
 
 Узнать больше о бонусах этого билета можно <a href="https://pokemongo.com/gowildarea/global">здесь</a>.
 
+RESOURCE ID: text_rewards_key_gowa26_out
+TEXT: <b>Включает:</b>
+• До 6 бесплатных Пропусков на Рейды каждый день за прокрутку Фотодисков Гимов
+• Больше шансов получить тематические Яйца на 10 км за прокрутку Покестопов
+• До 6 Специальных Обменов в день и уменьшенная цена Звёздной Пыли для обмена
+• 1/2 Расстояния для Вынашивания, если Яйца помещены в Инкубатор во время события
+• 2× Конфет за поимку Покемонов
+• Больше шансов встретить Сияющих Покемонов во время этого события
+Узнать больше о бонусах этого билета можно <a href="pokemongo.com/gowildarea/global">здесь</a>.
+
 RESOURCE ID: text_rewards_key_harvestfestival_oct25
 TEXT: <b>Включает следующие награды:</b>
 • Встречи с Апплином
@@ -127213,6 +127519,9 @@ TEXT: Билет на Специальный Квест День Сообщес
 
 RESOURCE ID: ticket_fuecoco_cd
 TEXT: Билет, дающий доступ к специальному квесту Крокапелла, доступен в магазине
+
+RESOURCE ID: ticket_gible_cd
+TEXT: Билет на Специальный Квест Классический День Сообщества Гибл доступен в магазине
 
 RESOURCE ID: ticket_glide_victory_tr
 TEXT: Билет, дающий доступ к квесту на время Полёт к победе, доступен в магазине
@@ -128661,6 +128970,186 @@ TEXT: Всего печатей: {0}
 
 RESOURCE ID: tr_npb2026
 TEXT: Дополнительный Квест на Время Игра в Болл!
+
+RESOURCE ID: tr_30thapac_eventfocus_2026_header_0_my
+TEXT: PokéXciting! Квест на Время Присоединяйся к Вечеринке: Малайзия (1/3)
+
+RESOURCE ID: tr_30thapac_eventfocus_2026_header_0_ph
+TEXT: PokéXciting! Квест на Время Присоединяйся к Вечеринке: Филиппины (1/3)
+
+RESOURCE ID: tr_30thapac_eventfocus_2026_header_0_sg
+TEXT: PokéXciting! Квест на Время Присоединяйся к Вечеринке: Сингапур (1/3)
+
+RESOURCE ID: tr_30thapac_eventfocus_2026_header_0_tw
+TEXT: PokéXciting! Квест на Время Присоединяйся к Вечеринке: Тайвань (1/3)
+
+RESOURCE ID: tr_30thapac_eventfocus_2026_header_1_my
+TEXT: PokéXciting! Квест на Время Присоединяйся к Вечеринке: Малайзия (2/3)
+
+RESOURCE ID: tr_30thapac_eventfocus_2026_header_1_ph
+TEXT: PokéXciting! Квест на Время Присоединяйся к Вечеринке: Филиппины (2/3)
+
+RESOURCE ID: tr_30thapac_eventfocus_2026_header_1_sg
+TEXT: PokéXciting! Квест на Время Присоединяйся к Вечеринке: Сингапур (2/3)
+
+RESOURCE ID: tr_30thapac_eventfocus_2026_header_1_tw
+TEXT: PokéXciting! Квест на Время Присоединяйся к Вечеринке: Тайвань (2/3)
+
+RESOURCE ID: tr_30thapac_eventfocus_2026_header_2_my
+TEXT: PokéXciting! Квест на Время Присоединяйся к Вечеринке: Малайзия (3/3)
+
+RESOURCE ID: tr_30thapac_eventfocus_2026_header_2_ph
+TEXT: PokéXciting! Квест на Время Присоединяйся к Вечеринке: Филиппины (3/3)
+
+RESOURCE ID: tr_30thapac_eventfocus_2026_header_2_sg
+TEXT: PokéXciting! Квест на Время Присоединяйся к Вечеринке: Сингапур (3/3)
+
+RESOURCE ID: tr_30thapac_eventfocus_2026_header_2_tw
+TEXT: PokéXciting! Квест на Время Присоединяйся к Вечеринке: Тайвань (3/3)
+
+RESOURCE ID: tr_30thapac_eventfocus_2026_header_my
+TEXT: PokéXciting! Квест на Время Присоединяйся к Вечеринке: Малайзия
+
+RESOURCE ID: tr_30thapac_eventfocus_2026_header_ph
+TEXT: PokéXciting! Квест на Время Присоединяйся к Вечеринке: Филиппины
+
+RESOURCE ID: tr_30thapac_eventfocus_2026_header_sg
+TEXT: PokéXciting! Квест на Время Присоединяйся к Вечеринке: Сингапур
+
+RESOURCE ID: tr_30thapac_eventfocus_2026_header_tw
+TEXT: PokéXciting! Квест на Время Присоединяйся к Вечеринке: Тайвань
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_0_my
+TEXT: PokéXciting! Квест на Время Воспоминания за 30 Лет: Малайзия (1/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_0_ph
+TEXT: PokéXciting! Квест на Время Воспоминания за 30 Лет: Филиппины (1/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_0_sg
+TEXT: PokéXciting! Квест на Время Воспоминания за 30 Лет: Сингапур (1/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_0_tw
+TEXT: PokéXciting! Квест на Время Воспоминания за 30 Лет: Тайвань (1/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_1_my
+TEXT: PokéXciting! Квест на Время Воспоминания за 30 Лет: Малайзия (2/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_1_ph
+TEXT: PokéXciting! Квест на Время Воспоминания за 30 Лет: Филиппины (2/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_1_sg
+TEXT: PokéXciting! Квест на Время Воспоминания за 30 Лет: Сингапур (2/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_1_tw
+TEXT: PokéXciting! Квест на Время Воспоминания за 30 Лет: Тайвань (2/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_2_my
+TEXT: PokéXciting! Квест на Время Воспоминания за 30 Лет: Малайзия (3/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_2_ph
+TEXT: PokéXciting! Квест на Время Воспоминания за 30 Лет: Филиппины (3/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_2_sg
+TEXT: PokéXciting! Квест на Время Воспоминания за 30 Лет: Сингапур (3/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_2_tw
+TEXT: PokéXciting! Квест на Время Воспоминания за 30 Лет: Тайвань (3/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_3_my
+TEXT: PokéXciting! Квест на Время Воспоминания за 30 Лет: Малайзия (4/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_3_ph
+TEXT: PokéXciting! Квест на Время Воспоминания за 30 Лет: Филиппины (4/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_3_sg
+TEXT: PokéXciting! Квест на Время Воспоминания за 30 Лет: Сингапур (4/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_3_tw
+TEXT: PokéXciting! Квест на Время Воспоминания за 30 Лет: Тайвань (4/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_4_my
+TEXT: PokéXciting! Квест на Время Воспоминания за 30 Лет: Малайзия (5/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_4_ph
+TEXT: PokéXciting! Квест на Время Воспоминания за 30 Лет: Филиппины (5/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_4_sg
+TEXT: PokéXciting! Квест на Время Воспоминания за 30 Лет: Сингапур (5/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_4_tw
+TEXT: PokéXciting! Квест на Время Воспоминания за 30 Лет: Тайвань (5/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_5_my
+TEXT: PokéXciting! Квест на Время Воспоминания за 30 Лет: Малайзия (6/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_5_ph
+TEXT: PokéXciting! Квест на Время Воспоминания за 30 Лет: Филиппины (6/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_5_sg
+TEXT: PokéXciting! Квест на Время Воспоминания за 30 Лет: Сингапур (6/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_5_tw
+TEXT: PokéXciting! Квест на Время Воспоминания за 30 Лет: Тайвань (6/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_6_my
+TEXT: PokéXciting! Квест на Время Воспоминания за 30 Лет: Малайзия (7/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_6_ph
+TEXT: PokéXciting! Квест на Время Воспоминания за 30 Лет: Филиппины (7/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_6_sg
+TEXT: PokéXciting! Квест на Время Воспоминания за 30 Лет: Сингапур (7/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_6_tw
+TEXT: PokéXciting! Квест на Время Воспоминания за 30 Лет: Тайвань (7/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_7_my
+TEXT: PokéXciting! Квест на Время Воспоминания за 30 Лет: Малайзия (8/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_7_ph
+TEXT: PokéXciting! Квест на Время Воспоминания за 30 Лет: Филиппины (8/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_7_sg
+TEXT: PokéXciting! Квест на Время Воспоминания за 30 Лет: Сингапур (8/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_7_tw
+TEXT: PokéXciting! Квест на Время Воспоминания за 30 Лет: Тайвань (8/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_8_my
+TEXT: PokéXciting! Квест на Время Воспоминания за 30 Лет: Малайзия (9/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_8_ph
+TEXT: PokéXciting! Квест на Время Воспоминания за 30 Лет: Филиппины (9/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_8_sg
+TEXT: PokéXciting! Квест на Время Воспоминания за 30 Лет: Сингапур (9/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_8_tw
+TEXT: PokéXciting! Квест на Время Воспоминания за 30 Лет: Тайвань (9/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_9_my
+TEXT: PokéXciting! Квест на Время Воспоминания за 30 Лет: Малайзия (10/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_9_ph
+TEXT: PokéXciting! Квест на Время Воспоминания за 30 Лет: Филиппины (10/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_9_sg
+TEXT: PokéXciting! Квест на Время Воспоминания за 30 Лет: Сингапур (10/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_9_tw
+TEXT: PokéXciting! Квест на Время Воспоминания за 30 Лет: Тайвань (10/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_my
+TEXT: PokéXciting! Квест на Время Воспоминания за 30 Лет: Малайзия
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_ph
+TEXT: PokéXciting! Квест на Время Воспоминания за 30 Лет: Филиппины
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_sg
+TEXT: PokéXciting! Квест на Время Воспоминания за 30 Лет: Сингапур
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_tw
+TEXT: PokéXciting! Квест на Время Воспоминания за 30 Лет: Тайвань
 
 RESOURCE ID: tr_151_challenge
 TEXT: Испытание 151
@@ -131506,6 +131995,9 @@ TEXT: 2 дополнительных специальных обмена в де
 
 RESOURCE ID: trade_special_in_pokedex
 TEXT: Legendary or Shiny Pokémon in Pokédex
+
+RESOURCE ID: trade_special_total_3
+TEXT: Три Специальных Обмена в день
 
 RESOURCE ID: trade_stardust_half
 TEXT: 1/2 цены звёздной пыли для обмена

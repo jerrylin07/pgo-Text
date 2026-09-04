@@ -82,6 +82,18 @@ TEXT: 10週年紀念特級限時調查
 RESOURCE ID: 30th_anniversary_all_out_event_name
 TEXT: 寶可夢30週年活動：大集合
 
+RESOURCE ID: 30th_anniversary_apac_event_name_malaysia
+TEXT: PokéXciting! in 馬來西亞
+
+RESOURCE ID: 30th_anniversary_apac_event_name_phillipine
+TEXT: PokéXciting! in 菲律賓
+
+RESOURCE ID: 30th_anniversary_apac_event_name_sg
+TEXT: PokéXciting! in 新加坡
+
+RESOURCE ID: 30th_anniversary_apac_event_name_tw
+TEXT: PokéXciting! in 台灣
+
 RESOURCE ID: 30th_anniversary_event_name
 TEXT: 寶可夢30週年活動
 
@@ -13669,6 +13681,27 @@ TEXT: Pokémon GO City Safari
 RESOURCE ID: badge_safari_2026_munich_day_02_title
 TEXT: Pokémon GO City Safari
 
+RESOURCE ID: badge_safari_2026_rdj_add_on_hatch_test_title
+TEXT: Pokémon GO City Safari—Egg-thusiast
+
+RESOURCE ID: badge_safari_2026_rdj_add_on_hatch_title
+TEXT: Pokémon GO City Safari—孵蛋加值包
+
+RESOURCE ID: badge_safari_2026_rdj_add_on_raid_test_title
+TEXT: Pokémon GO City Safari—Raid Lover
+
+RESOURCE ID: badge_safari_2026_rdj_add_on_raid_title
+TEXT: Pokémon GO City Safari—團體戰加值包
+
+RESOURCE ID: badge_safari_2026_rdj_day_00_title
+TEXT: Pokémon GO City Safari
+
+RESOURCE ID: badge_safari_2026_rdj_day_01_title
+TEXT: Pokémon GO City Safari
+
+RESOURCE ID: badge_safari_2026_rdj_day_02_title
+TEXT: Pokémon GO City Safari
+
 RESOURCE ID: badge_safari_2026_riodejaneiro_add_on_hatch_test_title
 TEXT: Pokémon GO City Safari—Egg-thusiast
 
@@ -14268,6 +14301,27 @@ TEXT: 慕尼黑，2026年9月26日
 
 RESOURCE ID: badge_safari_2026_munich_day_02
 TEXT: 慕尼黑，2026年9月27日
+
+RESOURCE ID: badge_safari_2026_rdj_add_on_hatch
+TEXT: 里約熱內盧2026
+
+RESOURCE ID: badge_safari_2026_rdj_add_on_hatch_test
+TEXT: Rio de Janeiro 2026
+
+RESOURCE ID: badge_safari_2026_rdj_add_on_raid
+TEXT: 里約熱內盧2026
+
+RESOURCE ID: badge_safari_2026_rdj_add_on_raid_test
+TEXT: Rio de Janeiro 2026
+
+RESOURCE ID: badge_safari_2026_rdj_day_00
+TEXT: 里約熱內盧2026
+
+RESOURCE ID: badge_safari_2026_rdj_day_01
+TEXT: 里約熱內盧，2026年9月26日
+
+RESOURCE ID: badge_safari_2026_rdj_day_02
+TEXT: 里約熱內盧，2026年9月27日
 
 RESOURCE ID: badge_safari_2026_riodejaneiro_add_on_hatch
 TEXT: 里約熱內盧2026
@@ -18423,6 +18477,9 @@ TEXT: 旋轉寶可補給站或道館轉盤時獲得10km蛋的機率大幅提高
 RESOURCE ID: bonus_10x_catch_xp
 TEXT: 捕獲寶可夢時的XP增為10倍
 
+RESOURCE ID: bonus_30thapac_gmax
+TEXT: 超極巨化的噴火龍、妙蛙花和水箭龜在極巨對戰中出現了
+
 RESOURCE ID: bonus_1000_xp_ub_raid
 TEXT: 在究極異獸團體戰中獲勝可多獲得1000XP
 
@@ -18584,6 +18641,9 @@ TEXT: 讓呱頭蛙進化成甲賀忍蛙後，牠就能學會特殊招式「加�
 
 RESOURCE ID: bonus_cd_move_fuecoco
 TEXT: 讓炙燙鱷進化成骨紋巨聲鱷，牠就能學會特殊招式「爆炸烈焰」！
+
+RESOURCE ID: bonus_cd_move_gible
+TEXT: 讓尖牙陸鯊進化成烈咬陸鯊後，牠就能學會特殊招式「大地之力」！
 
 RESOURCE ID: bonus_cd_move_goomy
 TEXT: 讓黏美兒進化成黏美龍後，牠就能學會特殊招式「雷電拳」！
@@ -19354,6 +19414,9 @@ TEXT: 超級化石翼龍會在地圖上的特別團體戰中出現
 RESOURCE ID: bonus_mega_cp_boost
 TEXT: 所有超級進化寶可夢的CP提升
 
+RESOURCE ID: bonus_mega_energy_gible
+TEXT: 完成圓陸鯊收藏家挑戰即可獲得300烈咬陸鯊超級能量
+
 RESOURCE ID: bonus_mega_energy_spin_chance
 TEXT: 旋轉寶可補給站或道館轉盤時有機會獲得超級能量
 
@@ -19467,6 +19530,9 @@ TEXT: 戴著鬥也帽子、鬥子帽子、共平遮陽帽或鳴依遮陽帽的�
 
 RESOURCE ID: bonus_pikachu_10th_anniversary_costume
 TEXT: 維羅博士的助手皮卡丘在團體戰和限時調查中出現
+
+RESOURCE ID: bonus_pikachu_30thapac
+TEXT: 「PokéXciting!皮卡丘」出現在地圖上、限時調查和GO Snapshot
 
 RESOURCE ID: bonus_pikachu_npb_costume
 TEXT: 穿著棒球衣的皮卡丘在團體戰和限時調查中登場
@@ -21078,8 +21144,14 @@ TEXT: 會根據被指派到能量點的寶可夢數量獲得攻擊加成
 RESOURCE ID: bread_lobby_attack_multiplier_dialog_title
 TEXT: 攻擊加成
 
+RESOURCE ID: bread_lobby_countdown_to_battle_start
+TEXT: Countdown to the Max Battle start
+
 RESOURCE ID: bread_lobby_error_battle_completed
 TEXT: 你已經在這個能量點參加過對戰了
+
+RESOURCE ID: bread_lobby_error_failed_to_create_battle
+TEXT: Could not join the Max Battle. Please try again later.
 
 RESOURCE ID: bread_lobby_error_friend_details_unavailable
 TEXT: 傳送邀請時出現了一些問題，請再試一次。
@@ -21260,6 +21332,21 @@ TEXT: 要逃跑嗎？
 
 RESOURCE ID: bread_post_battle_encounter_run_away_description
 TEXT: 如果你選擇逃跑，之後將無法捕捉這隻寶可夢。
+
+RESOURCE ID: bread_private_lobby_error_unavailable
+TEXT: Private groups are currently unavailable. Please try again later.
+
+RESOURCE ID: bread_private_lobby_error_flip_unavailable
+TEXT: The group could not be changed to public.
+
+RESOURCE ID: bread_private_lobby_error_limit_reached
+TEXT: The maximum number of private groups for this Max Battle has been reached.
+
+RESOURCE ID: bread_private_lobby_error_not_creator
+TEXT: Only the Trainer who created this group can change it to public.
+
+RESOURCE ID: bread_private_lobby_error_not_found
+TEXT: This group could not be found. The code may be incorrect, or the group may no longer be available.
 
 RESOURCE ID: bread_release_title
 TEXT: 要收回{0}嗎？
@@ -22551,7 +22638,7 @@ RESOURCE ID: campfire_check_in_reward_notification_toast
 TEXT: 收到社群大使活動的簽到獎勵了！
 
 RESOURCE ID: campfire_checkin_notification
-TEXT: 聚會「{0}」將於{1}開始！快去簽到吧！
+TEXT: <b>聚會「{0}」</b>將於{1}開始！快去簽到吧！
 
 RESOURCE ID: campfire_checkin_ended_notification
 TEXT: <b>聚會「{0}」</b>在{1}開始了！
@@ -31968,6 +32055,9 @@ TEXT: 伊布探索  – 孟買 (1/1)
 RESOURCE ID: eevee_explorers_munich_title
 TEXT: 伊布探索 – 慕尼黑集章趣
 
+RESOURCE ID: eevee_explorers_rdj_title
+TEXT: 伊布探索 – 里約熱內盧集章趣
+
 RESOURCE ID: eevee_explorers_riodejaneiro_title
 TEXT: 伊布探索 – 里約熱內盧集章趣
 
@@ -34998,6 +35088,9 @@ TEXT: 在30級獲得
 
 RESOURCE ID: event_pass_premium_reward_banner_bottom_text_02
 TEXT: 在40級獲得！
+
+RESOURCE ID: event_pass_premium_reward_banner_bottom_text_25
+TEXT: 在25級獲得！
 
 RESOURCE ID: event_pass_premium_reward_banner_bottom_text_30anniv_2026
 TEXT: 在79級獲得
@@ -41327,6 +41420,9 @@ TEXT: 發生錯誤。請再試一次。
 
 RESOURCE ID: general_submit_an_appeal
 TEXT: 提出異議
+
+RESOURCE ID: general_supply_balloon_30thapac
+TEXT: 補給氣球會每小時出現，是獲得道具的好機會！
 
 RESOURCE ID: general_total_caps
 TEXT: TOTAL
@@ -51370,6 +51466,9 @@ TEXT: 孵蛋的XP加倍
 
 RESOURCE ID: hatch_xp_triple
 TEXT: 孵蛋的XP增為3倍
+
+RESOURCE ID: hatenna_wattrel_stardust_catch
+TEXT: 捕捉到迷布莉姆和電海燕時可獲得額外的星星沙子
 
 RESOURCE ID: heal_all_button
 TEXT: Heal All
@@ -61902,10 +62001,10 @@ at SHA 4d4f3e80cc7fb911006bd14d198c9831ef66d005
 Pipeline 339838, job 2672172
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-09-02T02:46:00.003808+00:00 for zh-TW
-at SHA c548b2d4c69
-Pipeline 3914795, job 57587942
-Patch from: 0.427.0-SHA-bafb3348-RC1, 0.427.1-SHA-4a569ba7-RC1, 0.429.0-SHA-d6c796f0-RC1
+TEXT: Built at 2026-09-04T06:18:32.891802+00:00 for zh-TW
+at SHA 75c193b8ad4
+Pipeline 3921469, job 57699227
+Patch from: 0.427.0-SHA-fc729f25-RC2, 0.427.1-SHA-4a569ba7-RC1, 0.429.0-SHA-d6c796f0-RC1
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: 限時調查：格鬥屬性
@@ -78165,6 +78264,9 @@ TEXT: https://support.pokemon.com/hc/en-us/articles/360050219032-How-to-transfer
 RESOURCE ID: pokemon_home_support_page_url
 TEXT: https://support.pokemon.com/hc/en-us/categories/360001984231-Pok%C3%A9mon-HOME
 
+RESOURCE ID: pokemon_horizons_2026_event_name
+TEXT: 動畫合作活動2026
+
 RESOURCE ID: pokemon_hungry_notification_toast
 TEXT: {0} 需要一頓大餐！
 
@@ -83331,6 +83433,47 @@ TEXT: 隱私權
 RESOURCE ID: privacy_policy_update_notice
 TEXT: 請查看Niantic最新的隱私權政策，確認新功能及我們處理個人資料的方式。
 
+RESOURCE ID: private_group_title
+TEXT: Private Group
+
+RESOURCE ID: private_group_pill
+TEXT: PRIVATE
+
+RESOURCE ID: private_group_change_to_public_title
+TEXT: Change to Public
+
+RESOURCE ID: private_group_change_to_public_desc
+TEXT: If you change this group to public, anyone can join and battle with you. Once you change to public, your group cannot be made private again.
+
+Are you sure you want to change to a public group?
+
+RESOURCE ID: private_group_change_to_public_button
+TEXT: CHANGE TO PUBLIC
+
+RESOURCE ID: private_group_code_intro
+TEXT: Battle together with friends by entering their group code.
+
+RESOURCE ID: private_group_code_label
+TEXT: GROUP CODE
+
+RESOURCE ID: private_group_create_button
+TEXT: Create Group
+
+RESOURCE ID: private_group_created_title
+TEXT: Successfully created a group!
+
+RESOURCE ID: private_group_entry_button
+TEXT: PRIVATE GROUP
+
+RESOURCE ID: private_group_invalid_code
+TEXT: This group code is invalid. Please enter a valid code.
+
+RESOURCE ID: private_group_join_button
+TEXT: Join Group
+
+RESOURCE ID: private_group_share_code_message
+TEXT: Share this group code with your friends. They can join you by entering this group code.
+
 RESOURCE ID: prof_willow_birthday_2026_title
 TEXT: 博士的生日調查
 
@@ -86309,6 +86452,9 @@ TEXT: 在孟買為你的伊布拍攝1張GO Snapshot照片
 RESOURCE ID: quest_event_eevee_snapshot_munich
 TEXT: 在慕尼黑為你的伊布拍攝1張GO Snapshot照片
 
+RESOURCE ID: quest_event_eevee_snapshot_rdj
+TEXT: 在里約熱內盧為你的伊布拍攝1張GO Snapshot照片
+
 RESOURCE ID: quest_event_eevee_snapshot_riodejaneiro
 TEXT: 在里約熱內盧為你的伊布拍攝1張GO Snapshot照片
 
@@ -86399,6 +86545,9 @@ TEXT: 旋轉1個孟買的寶可補給站或道館轉盤
 RESOURCE ID: quest_event_spin_munich
 TEXT: 旋轉1個慕尼黑的寶可補給站或道館轉盤
 
+RESOURCE ID: quest_event_spin_rdj
+TEXT: 旋轉1個里約熱內盧的寶可補給站或道館轉盤
+
 RESOURCE ID: quest_event_spin_riodejaneiro
 TEXT: 旋轉1個里約熱內盧的寶可補給站或道館轉盤
 
@@ -86440,6 +86589,9 @@ TEXT: 讓1隻妙蛙種子進化
 
 RESOURCE ID: quest_evolve_charmander
 TEXT: 讓1隻小火龍進化
+
+RESOURCE ID: quest_evolve_charmeleon
+TEXT: 讓1隻火恐龍進化
 
 RESOURCE ID: quest_evolve_chikorita
 TEXT: 讓1隻菊草葉進化
@@ -90042,6 +90194,12 @@ TEXT: 為 {0} 種火屬性寶可夢拍攝GO Snapshot照片
 RESOURCE ID: quest_snapshot_wild_bug
 TEXT: Take {0} Snapshots of Wild Bug-type Pokémon
 
+RESOURCE ID: quest_snapshot_wild_bulbasaur
+TEXT: 為野生妙蛙種子拍攝1張GO Snapshot照片
+
+RESOURCE ID: quest_snapshot_wild_charmander
+TEXT: 為野生小火龍拍攝1張GO Snapshot照片
+
 RESOURCE ID: quest_snapshot_wild_dark
 TEXT: Take {0} Snapshots of Wild Dark-type Pokémon
 
@@ -90084,8 +90242,14 @@ TEXT: 為咕咕拍攝1張GO Snapshot照片
 RESOURCE ID: quest_snapshot_wild_ice
 TEXT: Take {0} Snapshots of Wild Ice-type Pokémon
 
+RESOURCE ID: quest_snapshot_wild_meowth
+TEXT: 為野生喵喵拍攝1張GO Snapshot照片
+
 RESOURCE ID: quest_snapshot_wild_normal
 TEXT: Take {0} Snapshots of Wild Normal-type Pokémon
+
+RESOURCE ID: quest_snapshot_wild_piakchu
+TEXT: 為野生皮卡丘拍攝1張GO Snapshot照片
 
 RESOURCE ID: quest_snapshot_wild_plural
 TEXT: 為野生寶可夢拍攝 {0} 張GO Snapshot照片
@@ -90096,6 +90260,9 @@ TEXT: Take {0} Snapshots of Wild Poison-type Pokémon
 RESOURCE ID: quest_snapshot_wild_psychic
 TEXT: Take {0} Snapshots of Wild Psychic-type Pokémon
 
+RESOURCE ID: quest_snapshot_wild_psyduck
+TEXT: 為野生可達鴨拍攝1張GO Snapshot照片
+
 RESOURCE ID: quest_snapshot_wild_raikou
 TEXT: 為野生雷公拍攝1張GO Snapshot照片
 
@@ -90104,6 +90271,9 @@ TEXT: Take {0} Snapshots of Wild Rock-type Pokémon
 
 RESOURCE ID: quest_snapshot_wild_singular
 TEXT: 為野生寶可夢拍攝1張GO Snapshot照片
+
+RESOURCE ID: quest_snapshot_wild_squirtle
+TEXT: 為野生傑尼龜拍攝1張GO Snapshot照片
 
 RESOURCE ID: quest_snapshot_wild_steel
 TEXT: Take {0} Snapshots of Wild Steel-type Pokémon
@@ -104958,6 +105128,9 @@ TEXT: 拜訪 {0} 個寶可補給站
 RESOURCE ID: quest_visit_pokestops_singular
 TEXT: 旋轉1次寶可補給站的轉盤
 
+RESOURCE ID: quest_visit_pokestops_days_plural
+TEXT: 旋轉1個寶可補給站或道館轉盤{0}天
+
 RESOURCE ID: quest_visit_pokestops_party_plural
 TEXT: 在參加小隊時旋轉{0}次寶可補給站或道館的轉盤
 
@@ -110412,6 +110585,81 @@ TEXT: 在團體戰中獲勝 {0} 次
 RESOURCE ID: raidweek_2019_medium_raid
 TEXT: 在團體戰中獲勝 {0} 次
 
+RESOURCE ID: rally_apac_30_cross_regional_title
+TEXT: PokéXciting!集章趣（亞洲）
+
+RESOURCE ID: rally_apac_30_regional_malaysia_title
+TEXT: PokéXciting!集章趣（馬來西亞）
+
+RESOURCE ID: rally_apac_30_regional_philippines_title
+TEXT: PokéXciting!集章趣（菲律賓）
+
+RESOURCE ID: rally_apac_30_regional_singapore_title
+TEXT: PokéXciting!集章趣（新加坡）
+
+RESOURCE ID: rally_apac_30_regional_taiwan_title
+TEXT: PokéXciting!集章趣（台灣）
+
+RESOURCE ID: rally_apac_30_cross_regional_desc
+TEXT: 慶祝PokéXciting! in 亞洲吧！
+
+RESOURCE ID: rally_apac_30_cross_regional_desc_detail
+TEXT: 巡訪設置在PokéXciting!活動舉辦地點的指定寶可補給站，並蓋上那裡的圖章吧！詳情請至集章趣地圖確認。
+
+RESOURCE ID: rally_apac_30_cross_regional_location
+TEXT: 亞洲
+
+RESOURCE ID: rally_apac_30_cross_regional_rewards_desc
+TEXT: 完成集章趣即可遇見帶著紀念背卡的各種髮色的「PokéXciting!皮卡丘」
+
+RESOURCE ID: rally_apac_30_regional_malaysia_desc
+TEXT: 慶祝PokéXciting! in 馬來西亞吧！
+
+RESOURCE ID: rally_apac_30_regional_malaysia_desc_detail
+TEXT: 巡訪設置在吉隆坡的指定寶可補給站，並蓋上那裡的圖章吧！詳情請至集章趣地圖確認。
+
+RESOURCE ID: rally_apac_30_regional_malaysia_location
+TEXT: 吉隆坡，馬來西亞
+
+RESOURCE ID: rally_apac_30_regional_malaysia_reward_desc
+TEXT: 完成集章趣即可遇見帶著紀念背卡的「PokéXciting!皮卡丘（藍綠）」
+
+RESOURCE ID: rally_apac_30_regional_philippines_desc
+TEXT: 慶祝PokéXciting! in 菲律賓吧！
+
+RESOURCE ID: rally_apac_30_regional_philippines_desc_detail
+TEXT: 巡訪設置在帕賽的指定寶可補給站，並蓋上那裡的圖章吧！詳情請至集章趣地圖確認。
+
+RESOURCE ID: rally_apac_30_regional_philippines_location
+TEXT: 帕賽，菲律賓
+
+RESOURCE ID: rally_apac_30_regional_philippines_reward_desc
+TEXT: 完成集章趣即可遇見帶著紀念背卡的「PokéXciting!皮卡丘（紅）」
+
+RESOURCE ID: rally_apac_30_regional_singapore_desc
+TEXT: 慶祝PokéXciting! in 新加坡吧！
+
+RESOURCE ID: rally_apac_30_regional_singapore_desc_detail
+TEXT: 巡訪設置在新加坡的指定寶可補給站，並蓋上那裡的圖章吧！詳情請至集章趣地圖確認。
+
+RESOURCE ID: rally_apac_30_regional_singapore_location
+TEXT: 新加坡
+
+RESOURCE ID: rally_apac_30_regional_singapore_reward_desc
+TEXT: 完成集章趣即可遇見帶著紀念背卡的「PokéXciting!皮卡丘（藍）」
+
+RESOURCE ID: rally_apac_30_regional_taiwan_desc
+TEXT: 慶祝PokéXciting! in 台灣吧！
+
+RESOURCE ID: rally_apac_30_regional_taiwan_desc_detail
+TEXT: 巡訪設置在台北的指定寶可補給站，並蓋上那裡的圖章吧！詳情請至集章趣地圖確認。
+
+RESOURCE ID: rally_apac_30_regional_taiwan_location
+TEXT: 台北，台灣
+
+RESOURCE ID: rally_apac_30_regional_taiwan_reward_desc
+TEXT: 完成集章趣即可遇見帶著紀念背卡的「PokéXciting!皮卡丘（粉紅）」
+
 RESOURCE ID: rally_city_safari_2025_amsterdam_desc
 TEXT: 歡迎來到City Safari：阿姆斯特丹！
 
@@ -110567,6 +110815,18 @@ TEXT: 慕尼黑，德國
 
 RESOURCE ID: rally_city_safari_2026_munich_rewards_desc_general
 TEXT: 與帶著慕尼黑紀念背卡的伊布（戴著狩獵帽的伊布）相遇
+
+RESOURCE ID: rally_city_safari_2026_rdj_desc
+TEXT: 歡迎來到City Safari：里約熱內盧！
+
+RESOURCE ID: rally_city_safari_2026_rdj_desc_detail
+TEXT: 造訪里約熱內盧的集章趣寶可補給站，將有機會遇見伊布（1張入場券最多8次）。詳請請至集章趣地圖確認。
+
+RESOURCE ID: rally_city_safari_2026_rdj_location
+TEXT: 里約熱內盧，巴西
+
+RESOURCE ID: rally_city_safari_2026_rdj_rewards_desc_general
+TEXT: 與帶著里約熱內盧紀念背卡的伊布（戴著狩獵帽的伊布）相遇
 
 RESOURCE ID: rally_city_safari_2026_riodejaneiro_desc
 TEXT: 歡迎來到City Safari：里約熱內盧！
@@ -115018,6 +115278,9 @@ TEXT: City Safari：馬賽2026
 RESOURCE ID: safari_city_2026_munich_title
 TEXT: City Safari：慕尼黑2026
 
+RESOURCE ID: safari_city_2026_rdj_title
+TEXT: City Safari：里約熱內盧2026
+
 RESOURCE ID: safari_city_2026_riodejaneiro_title
 TEXT: City Safari：里約熱內盧2026
 
@@ -115092,6 +115355,9 @@ TEXT: City Safari：馬賽2026(1/3)
 
 RESOURCE ID: safari_city_2026_munich_title_00
 TEXT: City Safari：慕尼黑2026(1/3)
+
+RESOURCE ID: safari_city_2026_rdj_title_00
+TEXT: City Safari：里約熱內盧2026(1/3)
 
 RESOURCE ID: safari_city_2026_riodejaneiro_title_00
 TEXT: City Safari：里約熱內盧2026(1/3)
@@ -115168,6 +115434,9 @@ TEXT: City Safari：馬賽2026(2/3)
 RESOURCE ID: safari_city_2026_munich_title_01
 TEXT: City Safari：慕尼黑2026(2/3)
 
+RESOURCE ID: safari_city_2026_rdj_title_01
+TEXT: City Safari：里約熱內盧2026(2/3)
+
 RESOURCE ID: safari_city_2026_riodejaneiro_title_01
 TEXT: City Safari：里約熱內盧2026(2/3)
 
@@ -115242,6 +115511,9 @@ TEXT: City Safari：馬賽2026(3/3)
 
 RESOURCE ID: safari_city_2026_munich_title_02
 TEXT: City Safari：慕尼黑2026(3/3)
+
+RESOURCE ID: safari_city_2026_rdj_title_02
+TEXT: City Safari：里約熱內盧2026(3/3)
 
 RESOURCE ID: safari_city_2026_riodejaneiro_title_02
 TEXT: City Safari：里約熱內盧2026(3/3)
@@ -116570,6 +116842,9 @@ TEXT: GO Pass：空中飛翔的影子
 RESOURCE ID: season_pass_base_track_title_halloween_2025
 TEXT: GO Pass：萬聖節2025
 
+RESOURCE ID: season_pass_base_track_title_horizons_fall_2026
+TEXT: GO Pass：聯名慶典活動
+
 RESOURCE ID: season_pass_base_track_title_mega_squads_2026
 TEXT: GO Pass：超級小隊
 
@@ -116731,6 +117006,9 @@ TEXT: 詳情請至<a href="https://pokemongo.com/news/flying-taxi-2026">網站</
 RESOURCE ID: season_pass_details_link_halloween_2025
 TEXT: （詳情請至<a href="https://pokemongo.com/news/go-pass-halloween-2025">網站</a>確認）
 
+RESOURCE ID: season_pass_details_link_horizons_fall_2026
+TEXT: 詳情請至<a href="https://pokemongo.com/news/pokemon-horizons-celebration-event-2026">網站</a>確認
+
 RESOURCE ID: season_pass_details_link_pikachu_celebration_2026
 TEXT: 詳情請至<a href="https://pokemongo.com/news/special-anniversary-pikachu-celebration">網站</a>確認
 
@@ -116788,6 +117066,19 @@ RESOURCE ID: season_pass_halloween_2025_upgrade_description
 TEXT: 如果購買GO Pass豪華版：萬聖節2025，將能解鎖下列獎勵！
 
 ・品茶姿勢
+・與活動主題寶可夢相遇
+・神奇糖果XL
+・其他
+
+RESOURCE ID: season_pass_horizons_fall_2026_event_duration
+TEXT: 9月16日～22日
+
+RESOURCE ID: season_pass_horizons_fall_2026_track_upgrade_header_description
+TEXT: 可獲得追加的獎勵，並且在級別升上60級後解鎖<b>與岩狗狗相遇的機會</b>！
+
+RESOURCE ID: season_pass_horizons_fall_2026_upgrade_description
+TEXT: 如果購買GO Pass豪華版：聯名慶典活動，將能解鎖下列獎勵！
+
 ・與活動主題寶可夢相遇
 ・神奇糖果XL
 ・其他
@@ -116984,6 +117275,9 @@ TEXT: GO Pass豪華版：坎迪拉的對戰法探索＋6級
 RESOURCE ID: season_pass_premium_track_plus_six_ranks_title_flying_taxi_2026
 TEXT: GO Pass豪華版：空中飛翔的影子＋6級
 
+RESOURCE ID: season_pass_premium_track_plus_six_ranks_title_horizons_fall_2026
+TEXT: GO Pass豪華版：聯名慶典活動＋6級
+
 RESOURCE ID: season_pass_premium_track_plus_six_ranks_title_mega_squads_2026
 TEXT: GO Pass豪華版：超級小隊＋6級
 
@@ -117118,6 +117412,9 @@ TEXT: GO Pass豪華版：空中飛翔的影子
 
 RESOURCE ID: season_pass_premium_track_title_halloween_2025
 TEXT: GO Pass豪華版：萬聖節2025
+
+RESOURCE ID: season_pass_premium_track_title_horizons_fall_2026
+TEXT: GO Pass豪華版：聯名慶典活動
 
 RESOURCE ID: season_pass_premium_track_title_mega_squads_2026
 TEXT: GO Pass豪華版：超級小隊
@@ -119455,7 +119752,7 @@ RESOURCE ID: sku.name.a7d19965d3494422d7b78c113b9f5311
 TEXT: 旅行者三重樂包
 
 RESOURCE ID: sku.name.a7fbe76ddc4351aca68cb08baa87d753
-TEXT: Battle-Ready Box
+TEXT: Battle Ready Box
 
 RESOURCE ID: sku.name.a8157eea098ee2ae91ff520e87abd6a2
 TEXT: 冒險禮盒
@@ -126098,7 +126395,6 @@ TEXT: <b>可獲得的獎勵：</b>
 ・每天可透過旋轉道館轉盤獲得最多6張免費團體戰入場券
 ・旋轉寶可補給站時獲得10公里蛋的機率提高
 ・每天最多可進行6次特殊交換且所需的星星沙子減少
-・活動期間內放入孵化器中的蛋所需孵蛋距離減半
 ・捕捉寶可夢時糖果加倍
 ・在活動期間內容易遇見異色寶可夢
 關於入場券的獎勵詳情，請參照<a href="https://pokemongo.com/gowildarea/global">此處</a>。
@@ -127040,6 +127336,16 @@ TEXT: <b>可獲得的獎勵：</b>
 
 關於入場券的獎勵詳情，請參照<a href="https://pokemongo.com/gowildarea/global">此處</a>。
 
+RESOURCE ID: text_rewards_key_gowa26_out
+TEXT: <b>可獲得的獎勵：</b>
+・每天可透過旋轉道館轉盤獲得最多6張免費團體戰入場券
+・旋轉寶可補給站時獲得10公里蛋的機率提高
+・每天最多可進行6次特殊交換且所需的星星沙子減少
+・活動期間內放入孵化器中的蛋所需孵蛋距離減半
+・捕捉寶可夢時糖果加倍
+・在活動期間內容易遇見異色寶可夢
+關於入場券的獎勵詳情，請參照<a href="https://pokemongo.com/gowildarea/global">此處</a>。
+
 RESOURCE ID: text_rewards_key_harvestfestival_oct25
 TEXT: <b>可獲得的獎勵：</b>
 ・與啃果蟲相遇
@@ -127473,6 +127779,9 @@ TEXT: 涼脊龍社群日特殊調查入場券在商店裡上架了
 
 RESOURCE ID: ticket_fuecoco_cd
 TEXT: 特殊調查「解開火鱷寶可夢之謎！」的入場券在商店裡上架了
+
+RESOURCE ID: ticket_gible_cd
+TEXT: 圓陸鯊經典社群日特殊調查入場券在商店裡上架了
 
 RESOURCE ID: ticket_glide_victory_tr
 TEXT: 勝利滑翔限時調查入場券已在商店中上架
@@ -128943,6 +129252,186 @@ TEXT: 合計{0}個
 
 RESOURCE ID: tr_npb2026
 TEXT: 開球！獎勵限時調查
+
+RESOURCE ID: tr_30thapac_eventfocus_2026_header_0_my
+TEXT: PokéXciting! in 馬來西亞限時調查(1/3)
+
+RESOURCE ID: tr_30thapac_eventfocus_2026_header_0_ph
+TEXT: PokéXciting! in 菲律賓限時調查(1/3)
+
+RESOURCE ID: tr_30thapac_eventfocus_2026_header_0_sg
+TEXT: PokéXciting! in 新加坡限時調查(1/3)
+
+RESOURCE ID: tr_30thapac_eventfocus_2026_header_0_tw
+TEXT: PokéXciting! in 台灣限時調查(1/3)
+
+RESOURCE ID: tr_30thapac_eventfocus_2026_header_1_my
+TEXT: PokéXciting! in 馬來西亞限時調查(2/3)
+
+RESOURCE ID: tr_30thapac_eventfocus_2026_header_1_ph
+TEXT: PokéXciting! in 菲律賓限時調查(2/3)
+
+RESOURCE ID: tr_30thapac_eventfocus_2026_header_1_sg
+TEXT: PokéXciting! in 新加坡限時調查(2/3)
+
+RESOURCE ID: tr_30thapac_eventfocus_2026_header_1_tw
+TEXT: PokéXciting! in 台灣限時調查(2/3)
+
+RESOURCE ID: tr_30thapac_eventfocus_2026_header_2_my
+TEXT: PokéXciting! in 馬來西亞限時調查(3/3)
+
+RESOURCE ID: tr_30thapac_eventfocus_2026_header_2_ph
+TEXT: PokéXciting! in 菲律賓限時調查(3/3)
+
+RESOURCE ID: tr_30thapac_eventfocus_2026_header_2_sg
+TEXT: PokéXciting! in 新加坡限時調查(3/3)
+
+RESOURCE ID: tr_30thapac_eventfocus_2026_header_2_tw
+TEXT: PokéXciting! in 台灣限時調查(3/3)
+
+RESOURCE ID: tr_30thapac_eventfocus_2026_header_my
+TEXT: PokéXciting! in 馬來西亞限時調查
+
+RESOURCE ID: tr_30thapac_eventfocus_2026_header_ph
+TEXT: PokéXciting! in 菲律賓限時調查
+
+RESOURCE ID: tr_30thapac_eventfocus_2026_header_sg
+TEXT: PokéXciting! in 新加坡限時調查
+
+RESOURCE ID: tr_30thapac_eventfocus_2026_header_tw
+TEXT: PokéXciting! in 台灣限時調查
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_0_my
+TEXT: PokéXciting! in 馬來西亞：30年的軌跡限時調查(1/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_0_ph
+TEXT: PokéXciting! in 菲律賓：30年的軌跡限時調查(1/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_0_sg
+TEXT: PokéXciting! in 新加坡：30年的軌跡限時調查(1/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_0_tw
+TEXT: PokéXciting! in 台灣：30年的軌跡限時調查(1/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_1_my
+TEXT:  PokéXciting! in 馬來西亞：30年的軌跡限時調查(2/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_1_ph
+TEXT: PokéXciting! in 菲律賓：30年的軌跡限時調查(2/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_1_sg
+TEXT: PokéXciting! in 新加坡：30年的軌跡限時調查(2/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_1_tw
+TEXT: PokéXciting! in 台灣：30年的軌跡限時調查(2/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_2_my
+TEXT: PokéXciting! in 馬來西亞：30年的軌跡限時調查(3/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_2_ph
+TEXT: PokéXciting! in 菲律賓：30年的軌跡限時調查(3/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_2_sg
+TEXT: PokéXciting! in 新加坡：30年的軌跡限時調查(3/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_2_tw
+TEXT: PokéXciting! in 台灣：30年的軌跡限時調查(3/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_3_my
+TEXT: PokéXciting! in 馬來西亞：30年的軌跡限時調查(4/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_3_ph
+TEXT: PokéXciting! in 菲律賓：30年的軌跡限時調查(4/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_3_sg
+TEXT: PokéXciting! in 新加坡：30年的軌跡限時調查(4/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_3_tw
+TEXT: PokéXciting! in 台灣：30年的軌跡限時調查(4/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_4_my
+TEXT: PokéXciting! in 馬來西亞：30年的軌跡限時調查(5/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_4_ph
+TEXT: PokéXciting! in 菲律賓：30年的軌跡限時調查(5/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_4_sg
+TEXT: PokéXciting! in 新加坡：30年的軌跡限時調查(5/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_4_tw
+TEXT: PokéXciting! in 台灣：30年的軌跡限時調查(5/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_5_my
+TEXT: PokéXciting! in 馬來西亞：30年的軌跡限時調查(6/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_5_ph
+TEXT: PokéXciting! in 菲律賓：30年的軌跡限時調查(6/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_5_sg
+TEXT: PokéXciting! in 新加坡：30年的軌跡限時調查(6/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_5_tw
+TEXT: PokéXciting! in 台灣：30年的軌跡限時調查(6/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_6_my
+TEXT: PokéXciting! in 馬來西亞：30年的軌跡限時調查(7/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_6_ph
+TEXT: PokéXciting! in 菲律賓：30年的軌跡限時調查(7/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_6_sg
+TEXT: PokéXciting! in 新加坡：30年的軌跡限時調查(7/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_6_tw
+TEXT: PokéXciting! in 台灣：30年的軌跡限時調查(7/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_7_my
+TEXT: PokéXciting! in 馬來西亞：30年的軌跡限時調查(8/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_7_ph
+TEXT: PokéXciting! in 菲律賓：30年的軌跡限時調查(8/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_7_sg
+TEXT: PokéXciting! in 新加坡：30年的軌跡限時調查(8/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_7_tw
+TEXT: PokéXciting! in 台灣：30年的軌跡限時調查(8/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_8_my
+TEXT: PokéXciting! in 馬來西亞：30年的軌跡限時調查(9/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_8_ph
+TEXT: PokéXciting! in 菲律賓：30年的軌跡限時調查(9/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_8_sg
+TEXT: PokéXciting! in 新加坡：30年的軌跡限時調查(9/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_8_tw
+TEXT: PokéXciting! in 台灣：30年的軌跡限時調查(9/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_9_my
+TEXT: PokéXciting! in 馬來西亞：30年的軌跡限時調查(10/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_9_ph
+TEXT: PokéXciting! in 菲律賓：30年的軌跡限時調查(10/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_9_sg
+TEXT: PokéXciting! in 新加坡：30年的軌跡限時調查(10/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_9_tw
+TEXT: PokéXciting! in 台灣：30年的軌跡限時調查(10/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_my
+TEXT: PokéXciting! in 馬來西亞：30年的軌跡限時調查
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_ph
+TEXT: PokéXciting! in 菲律賓：30年的軌跡限時調查
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_sg
+TEXT: PokéXciting! in 新加坡：30年的軌跡限時調查
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_tw
+TEXT: PokéXciting! in 台灣：30年的軌跡限時調查
 
 RESOURCE ID: tr_151_challenge
 TEXT: 151大挑戰
@@ -130885,7 +131374,7 @@ RESOURCE ID: tr_kr2025_retention_warm_hearted_desc
 TEXT: 窩心挑戰限時調查
 
 RESOURCE ID: tr_kr_tr_test_2026_week1_title
-TEXT: 4週接力限時調查：Part 1
+TEXT: 多週接力限時調查：Part 1
 
 RESOURCE ID: tr_kr_tr_test_2026_feature_button_text_1
 TEXT: 探索
@@ -130936,37 +131425,37 @@ RESOURCE ID: tr_kr_tr_test_2026_feature_key_8
 TEXT: 聚焦於團體戰的冒險之路。
 
 RESOURCE ID: tr_kr_tr_test_2026_week1_0
-TEXT: 4週接力限時調查：Part 1(1/2)
+TEXT: 多週接力限時調查：Part 1(1/2)
 
 RESOURCE ID: tr_kr_tr_test_2026_week1_1
-TEXT: 4週接力限時調查：Part 1(2/2)
+TEXT: 多週接力限時調查：Part 1(2/2)
 
 RESOURCE ID: tr_kr_tr_test_2026_week2
-TEXT: 4週接力限時調查：Part 2
+TEXT: 多週接力限時調查：Part 2
 
 RESOURCE ID: tr_kr_tr_test_2026_week2_0
-TEXT: 4週接力限時調查：Part 2(1/2)
+TEXT: 多週接力限時調查：Part 2(1/2)
 
 RESOURCE ID: tr_kr_tr_test_2026_week2_1
-TEXT: 4週接力限時調查：Part 2(2/2)
+TEXT: 多週接力限時調查：Part 2(2/2)
 
 RESOURCE ID: tr_kr_tr_test_2026_week3
-TEXT: 4週接力限時調查：Part 3
+TEXT: 多週接力限時調查：Part 3
 
 RESOURCE ID: tr_kr_tr_test_2026_week3_0
-TEXT: 4週接力限時調查：Part 3(1/2)
+TEXT: 多週接力限時調查：Part 3(1/2)
 
 RESOURCE ID: tr_kr_tr_test_2026_week3_1
-TEXT: 4週接力限時調查：Part 3(2/2)
+TEXT: 多週接力限時調查：Part 3(2/2)
 
 RESOURCE ID: tr_kr_tr_test_2026_week4
-TEXT: 4週接力限時調查：Part 4
+TEXT: 多週接力限時調查：Part 4
 
 RESOURCE ID: tr_kr_tr_test_2026_week4_0
-TEXT: 4週接力限時調查：Part 4(1/2)
+TEXT: 多週接力限時調查：Part 4(1/2)
 
 RESOURCE ID: tr_kr_tr_test_2026_week4_1
-TEXT: 4週接力限時調查：Part 4(2/2)
+TEXT: 多週接力限時調查：Part 4(2/2)
 
 RESOURCE ID: tr_latam_soccer_collab_title_00
 TEXT: 最佳進球！獎勵限時調查(1/3)
@@ -131894,6 +132383,9 @@ TEXT: 追加2次特殊交換
 
 RESOURCE ID: trade_special_in_pokedex
 TEXT: 已登錄至圖鑑的傳說的寶可夢或異色寶可夢
+
+RESOURCE ID: trade_special_total_3
+TEXT: 一天最多可進行3次特殊交換
 
 RESOURCE ID: trade_stardust_half
 TEXT: 交換寶可夢所需的星星沙子減半

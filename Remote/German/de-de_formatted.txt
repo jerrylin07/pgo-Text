@@ -82,6 +82,18 @@ TEXT: Befristete Premium-Forschung: Party zum 10. Jubiläum
 RESOURCE ID: 30th_anniversary_all_out_event_name
 TEXT: 30 Jahre Pokémon: Grenzenlos
 
+RESOURCE ID: 30th_anniversary_apac_event_name_malaysia
+TEXT: PokéXciting! Malaysia: Komm zur größten Pokémon-Party aller Zeiten!
+
+RESOURCE ID: 30th_anniversary_apac_event_name_phillipine
+TEXT: PokéXciting! Philippinen: Komm zur größten Pokémon-Party aller Zeiten!
+
+RESOURCE ID: 30th_anniversary_apac_event_name_sg
+TEXT: PokéXciting! Singapur: Komm zur größten Pokémon-Party aller Zeiten!
+
+RESOURCE ID: 30th_anniversary_apac_event_name_tw
+TEXT: PokéXciting! Taiwan: Komm zur größten Pokémon-Party aller Zeiten!
+
 RESOURCE ID: 30th_anniversary_event_name
 TEXT: 30 Jahre Pokémon
 
@@ -14034,6 +14046,27 @@ TEXT: Pokémon GO-Stadt-Safari
 RESOURCE ID: badge_safari_2026_munich_day_02_title
 TEXT: Pokémon GO-Stadt-Safari
 
+RESOURCE ID: badge_safari_2026_rdj_add_on_hatch_test_title
+TEXT: Pokémon GO City Safari—Egg-thusiast
+
+RESOURCE ID: badge_safari_2026_rdj_add_on_hatch_title
+TEXT: Pokémon GO-Stadt-Safari – Schwärmer-Ei
+
+RESOURCE ID: badge_safari_2026_rdj_add_on_raid_test_title
+TEXT: Pokémon GO City Safari—Raid Lover
+
+RESOURCE ID: badge_safari_2026_rdj_add_on_raid_title
+TEXT: Pokémon GO-Stadt-Safari – Raid-Liebe
+
+RESOURCE ID: badge_safari_2026_rdj_day_00_title
+TEXT: Pokémon GO-Stadt-Safari
+
+RESOURCE ID: badge_safari_2026_rdj_day_01_title
+TEXT: Pokémon GO-Stadt-Safari
+
+RESOURCE ID: badge_safari_2026_rdj_day_02_title
+TEXT: Pokémon GO-Stadt-Safari
+
 RESOURCE ID: badge_safari_2026_riodejaneiro_add_on_hatch_test_title
 TEXT: Pokémon GO City Safari—Egg-thusiast
 
@@ -14633,6 +14666,27 @@ TEXT: München, 26. September 2026
 
 RESOURCE ID: badge_safari_2026_munich_day_02
 TEXT: München, 27. September 2026
+
+RESOURCE ID: badge_safari_2026_rdj_add_on_hatch
+TEXT: Rio de Janeiro 2026
+
+RESOURCE ID: badge_safari_2026_rdj_add_on_hatch_test
+TEXT: Rio de Janeiro 2026
+
+RESOURCE ID: badge_safari_2026_rdj_add_on_raid
+TEXT: Rio de Janeiro 2026
+
+RESOURCE ID: badge_safari_2026_rdj_add_on_raid_test
+TEXT: Rio de Janeiro 2026
+
+RESOURCE ID: badge_safari_2026_rdj_day_00
+TEXT: Rio de Janeiro 2026
+
+RESOURCE ID: badge_safari_2026_rdj_day_01
+TEXT: Rio de Janeiro, 26. September 2026
+
+RESOURCE ID: badge_safari_2026_rdj_day_02
+TEXT: Rio de Janeiro, 27. September 2026
 
 RESOURCE ID: badge_safari_2026_riodejaneiro_add_on_hatch
 TEXT: Rio de Janeiro 2026
@@ -18795,6 +18849,9 @@ TEXT: Stark erhöhte Chance auf Erhalt von 10-km-Eier für das Drehen von PokéS
 RESOURCE ID: bonus_10x_catch_xp
 TEXT: 10× Fang-EP
 
+RESOURCE ID: bonus_30thapac_gmax
+TEXT: Die Gigadynamax-Versionen von Glurak, Bisaflor und Turtok erscheinen in Dyna-Kämpfen.
+
 RESOURCE ID: bonus_1000_xp_ub_raid
 TEXT: +1000 EP für den erfolgreichen Abschluss eines Ultrabestien-Raids
 
@@ -18956,6 +19013,9 @@ TEXT: Entwickle Amphizel, um ein Quajutsu zu erhalten, das die Lade-Attacke Aqua
 
 RESOURCE ID: bonus_cd_move_fuecoco
 TEXT: Entwickle Lokroko, um ein Skelokrok zu erhalten, das die Lade-Attacke Lohekanonade beherrscht!
+
+RESOURCE ID: bonus_cd_move_gible
+TEXT: Entwickle Knarksel, um ein Knakrack zu erhalten, das die Lade-Attacke Erdkräfte beherrscht!
 
 RESOURCE ID: bonus_cd_move_goomy
 TEXT: Entwickle Viscargot, um ein Viscogon zu erhalten, das die Lade-Attacke Donnerschlag beherrscht.
@@ -19727,6 +19787,9 @@ TEXT: Mega-Aerodactyl erscheinen vor Ort in besonderen Raids
 RESOURCE ID: bonus_mega_cp_boost
 TEXT: Erhöhte WP für alle Mega-Entwicklungs-Pokémon
 
+RESOURCE ID: bonus_mega_energy_gible
+TEXT: Verdiene 300 Knakrack-Mega-Energie, indem du die Kaumalat-Sammler-Herausforderung abschließt!
+
 RESOURCE ID: bonus_mega_energy_spin_chance
 TEXT: Chance, durch das Drehen von PokéStops oder Arenen Mega-Energie zu erhalten
 
@@ -19840,6 +19903,9 @@ TEXT: Tägliche überraschende Begegnungen in GO-Schnappschuss mit Pikachu, die 
 
 RESOURCE ID: bonus_pikachu_10th_anniversary_costume
 TEXT: Professor Willows Assistent-Pikachu erscheinen in Raids und Befristeter Forschung
+
+RESOURCE ID: bonus_pikachu_30thapac
+TEXT: PokéXciting! Pikachu erscheinen als Begegnungen, in Befristeten Event-Forschungen und als GO-Schnappschuss-Begegnungen.
 
 RESOURCE ID: bonus_pikachu_npb_costume
 TEXT: Pikachu mit Baseball-Jersey erscheinen jetzt in Raids und Befristeter Forschung
@@ -21451,8 +21517,14 @@ TEXT: Basierend auf der Anzahl der Pokémon, die an der Kraftquelle platziert si
 RESOURCE ID: bread_lobby_attack_multiplier_dialog_title
 TEXT: Angriffsbonus
 
+RESOURCE ID: bread_lobby_countdown_to_battle_start
+TEXT: Countdown to the Max Battle start
+
 RESOURCE ID: bread_lobby_error_battle_completed
 TEXT: Du hast bereits an dieser Kraftquelle gekämpft.
+
+RESOURCE ID: bread_lobby_error_failed_to_create_battle
+TEXT: Could not join the Max Battle. Please try again later.
 
 RESOURCE ID: bread_lobby_error_friend_details_unavailable
 TEXT: Beim Senden dieser Einladung ist etwas schiefgelaufen. Bitte versuche es erneut.
@@ -21634,6 +21706,21 @@ TEXT: Möchtest du flüchten?
 
 RESOURCE ID: bread_post_battle_encounter_run_away_description
 TEXT: Wenn du flüchtest, kannst du dieses Pokémon nicht fangen.
+
+RESOURCE ID: bread_private_lobby_error_unavailable
+TEXT: Private groups are currently unavailable. Please try again later.
+
+RESOURCE ID: bread_private_lobby_error_flip_unavailable
+TEXT: The group could not be changed to public.
+
+RESOURCE ID: bread_private_lobby_error_limit_reached
+TEXT: The maximum number of private groups for this Max Battle has been reached.
+
+RESOURCE ID: bread_private_lobby_error_not_creator
+TEXT: Only the Trainer who created this group can change it to public.
+
+RESOURCE ID: bread_private_lobby_error_not_found
+TEXT: This group could not be found. The code may be incorrect, or the group may no longer be available.
 
 RESOURCE ID: bread_release_title
 TEXT: Möchtest du, dass {0} zurückkehrt?
@@ -32333,6 +32420,9 @@ TEXT: Evoli-Forscher – Mumbai (1/1)
 RESOURCE ID: eevee_explorers_munich_title
 TEXT: Stempel-Rallye: München – Evoli-Forscher
 
+RESOURCE ID: eevee_explorers_rdj_title
+TEXT: Stempel-Rallye: Rio de Janeiro – Evoli-Forscher
+
 RESOURCE ID: eevee_explorers_riodejaneiro_title
 TEXT: Stempel-Rallye: Rio de Janeiro – Evoli-Forscher
 
@@ -35334,6 +35424,9 @@ TEXT: Belohnung für Stufe 30
 
 RESOURCE ID: event_pass_premium_reward_banner_bottom_text_02
 TEXT: Belohnung für Stufe 40
+
+RESOURCE ID: event_pass_premium_reward_banner_bottom_text_25
+TEXT: Belohnung für Stufe 25
 
 RESOURCE ID: event_pass_premium_reward_banner_bottom_text_30anniv_2026
 TEXT: Belohnung für Stufe 79
@@ -41776,6 +41869,9 @@ TEXT: Etwas ist schiefgegangen. Versuche es noch mal.
 
 RESOURCE ID: general_submit_an_appeal
 TEXT: Submit an Appeal
+
+RESOURCE ID: general_supply_balloon_30thapac
+TEXT: Ein Versorgungsballon erscheint stündlich. Tippe drauf und schnapp dir Items für die Party.
 
 RESOURCE ID: general_total_caps
 TEXT: GESAMT
@@ -51817,6 +51913,9 @@ TEXT: 2× Schlüpf-EP
 
 RESOURCE ID: hatch_xp_triple
 TEXT: 3× Schlüpf-EP
+
+RESOURCE ID: hatenna_wattrel_stardust_catch
+TEXT: Zusätzlicher Sternenstaub für das Fangen von Brimova und Voltrel
 
 RESOURCE ID: heal_all_button
 TEXT: Alle heilen
@@ -62348,10 +62447,10 @@ at SHA 4d4f3e80cc7fb911006bd14d198c9831ef66d005
 Pipeline 339838, job 2672172
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-09-02T02:46:00.003808+00:00 for de-DE
-at SHA c548b2d4c69
-Pipeline 3914795, job 57587942
-Patch from: 0.427.0-SHA-bafb3348-RC1, 0.427.1-SHA-4a569ba7-RC1, 0.429.0-SHA-d6c796f0-RC1
+TEXT: Built at 2026-09-04T06:18:32.891802+00:00 for de-DE
+at SHA 75c193b8ad4
+Pipeline 3921469, job 57699227
+Patch from: 0.427.0-SHA-fc729f25-RC2, 0.427.1-SHA-4a569ba7-RC1, 0.429.0-SHA-d6c796f0-RC1
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: Befristete Forschung: Ansage vom Typ Kampf
@@ -78512,6 +78611,9 @@ TEXT: https://support.pokemon.com/hc/de/articles/360050219032-So-%C3%BCbertr%C3%
 RESOURCE ID: pokemon_home_support_page_url
 TEXT: https://support.pokemon.com/hc/de/categories/360001984231-Pok%C3%A9mon-HOME
 
+RESOURCE ID: pokemon_horizons_2026_event_name
+TEXT: Event zur Feier von Pokémon Horizonte: Die Serie 2026
+
 RESOURCE ID: pokemon_hungry_notification_toast
 TEXT: {0} braucht einen Snack!
 
@@ -83678,6 +83780,47 @@ TEXT: Datenschutz
 RESOURCE ID: privacy_policy_update_notice
 TEXT: Bitte lies die aktualisierte Datenschutzrichtlinie von Niantic, die zusätzliche Informationen zu neuen Produktfunktionen und zu unserem Umgang mit personenbezogenen Daten enthält.
 
+RESOURCE ID: private_group_title
+TEXT: Private Group
+
+RESOURCE ID: private_group_pill
+TEXT: PRIVATE
+
+RESOURCE ID: private_group_change_to_public_title
+TEXT: Change to Public
+
+RESOURCE ID: private_group_change_to_public_desc
+TEXT: If you change this group to public, anyone can join and battle with you. Once you change to public, your group cannot be made private again.
+
+Are you sure you want to change to a public group?
+
+RESOURCE ID: private_group_change_to_public_button
+TEXT: CHANGE TO PUBLIC
+
+RESOURCE ID: private_group_code_intro
+TEXT: Battle together with friends by entering their group code.
+
+RESOURCE ID: private_group_code_label
+TEXT: GROUP CODE
+
+RESOURCE ID: private_group_create_button
+TEXT: Create Group
+
+RESOURCE ID: private_group_created_title
+TEXT: Successfully created a group!
+
+RESOURCE ID: private_group_entry_button
+TEXT: PRIVATE GROUP
+
+RESOURCE ID: private_group_invalid_code
+TEXT: This group code is invalid. Please enter a valid code.
+
+RESOURCE ID: private_group_join_button
+TEXT: Join Group
+
+RESOURCE ID: private_group_share_code_message
+TEXT: Share this group code with your friends. They can join you by entering this group code.
+
 RESOURCE ID: prof_willow_birthday_2026_title
 TEXT: Willows Geburtstagsforschung
 
@@ -86658,6 +86801,9 @@ TEXT: Mache einen Schnappschuss von deinem Evoli in Mumbai.
 RESOURCE ID: quest_event_eevee_snapshot_munich
 TEXT: Mache einen Schnappschuss von deinem Evoli in München.
 
+RESOURCE ID: quest_event_eevee_snapshot_rdj
+TEXT: Mache einen Schnappschuss von deinem Evoli in Rio de Janeiro.
+
 RESOURCE ID: quest_event_eevee_snapshot_riodejaneiro
 TEXT: Mache einen Schnappschuss von deinem Evoli in Rio de Janeiro.
 
@@ -86748,6 +86894,9 @@ TEXT: Drehe einen PokéStop oder eine Arena in Mumbai.
 RESOURCE ID: quest_event_spin_munich
 TEXT: Drehe einen PokéStop oder eine Arena in München.
 
+RESOURCE ID: quest_event_spin_rdj
+TEXT: Drehe einen PokéStop oder eine Arena in Rio de Janeiro.
+
 RESOURCE ID: quest_event_spin_riodejaneiro
 TEXT: Drehe einen PokéStop oder eine Arena in Rio de Janeiro.
 
@@ -86789,6 +86938,9 @@ TEXT: Entwickle ein Bisasam.
 
 RESOURCE ID: quest_evolve_charmander
 TEXT: Entwickle ein Glumanda.
+
+RESOURCE ID: quest_evolve_charmeleon
+TEXT: Entwickle ein Glutexo
 
 RESOURCE ID: quest_evolve_chikorita
 TEXT: Entwickle dein Endivie.
@@ -90390,6 +90542,12 @@ TEXT: Mache Schnappschüsse von {0} verschiedenen Feuer-Pokémon.
 RESOURCE ID: quest_snapshot_wild_bug
 TEXT: Mache {0} Schnappschüsse von Käfer-Pokémon im Freien.
 
+RESOURCE ID: quest_snapshot_wild_bulbasaur
+TEXT: Mache einen Schnappschuss von Bisasam im Freien.
+
+RESOURCE ID: quest_snapshot_wild_charmander
+TEXT: Mache einen Schnappschuss von Glumanda im Freien.
+
 RESOURCE ID: quest_snapshot_wild_dark
 TEXT: Mache {0} Schnappschüsse von Unlicht-Pokémon im Freien.
 
@@ -90432,8 +90590,14 @@ TEXT: Mache einen Schnappschuss von Hoothoot im Freien.
 RESOURCE ID: quest_snapshot_wild_ice
 TEXT: Mache {0} Schnappschüsse von Eis-Pokémon im Freien.
 
+RESOURCE ID: quest_snapshot_wild_meowth
+TEXT: Mache einen Schnappschuss von Mauzi im Freien.
+
 RESOURCE ID: quest_snapshot_wild_normal
 TEXT: Mache {0} Schnappschüsse von Normal-Pokémon im Freien.
+
+RESOURCE ID: quest_snapshot_wild_piakchu
+TEXT: Mache einen Schnappschuss von Pikachu im Freien.
 
 RESOURCE ID: quest_snapshot_wild_plural
 TEXT: Mache {0} Schnappschüsse von Pokémon im Freien.
@@ -90444,6 +90608,9 @@ TEXT: Mache {0} Schnappschüsse von Gift-Pokémon im Freien.
 RESOURCE ID: quest_snapshot_wild_psychic
 TEXT: Mache {0} Schnappschüsse von Psycho-Pokémon im Freien.
 
+RESOURCE ID: quest_snapshot_wild_psyduck
+TEXT: Mache einen Schnappschuss von Enton im Freien.
+
 RESOURCE ID: quest_snapshot_wild_raikou
 TEXT: Mache einen Schnappschuss von Raikou im Freien.
 
@@ -90452,6 +90619,9 @@ TEXT: Mache {0} Schnappschüsse von Gesteins-Pokémon im Freien.
 
 RESOURCE ID: quest_snapshot_wild_singular
 TEXT: Mache einen Schnappschuss von einem Pokémon im Freien.
+
+RESOURCE ID: quest_snapshot_wild_squirtle
+TEXT: Mache einen Schnappschuss von Schiggy im Freien.
 
 RESOURCE ID: quest_snapshot_wild_steel
 TEXT: Mache {0} Schnappschüsse von Stahl-Pokémon im Freien.
@@ -105241,6 +105411,9 @@ TEXT: Drehe {0} PokéStops oder Arenen.
 RESOURCE ID: quest_visit_pokestops_singular
 TEXT: Drehe einen PokéStop oder eine Arena.
 
+RESOURCE ID: quest_visit_pokestops_days_plural
+TEXT: Drehe einen PokéStop oder eine Arena an {0} unterschiedlichen Tagen.
+
 RESOURCE ID: quest_visit_pokestops_party_plural
 TEXT: Drehe {0} PokéStops oder Arenen mit einem Team.
 
@@ -110694,6 +110867,81 @@ TEXT: Gewinne {0} Raids.
 RESOURCE ID: raidweek_2019_medium_raid
 TEXT: Gewinne {0} Raids.
 
+RESOURCE ID: rally_apac_30_cross_regional_title
+TEXT: PokéXciting! Stempel-Rallye – Asien-Pazifik
+
+RESOURCE ID: rally_apac_30_regional_malaysia_title
+TEXT: PokéXciting! Stempel-Rallye – Malaysia
+
+RESOURCE ID: rally_apac_30_regional_philippines_title
+TEXT: PokéXciting! Stempel-Rallye – Die Philippinen
+
+RESOURCE ID: rally_apac_30_regional_singapore_title
+TEXT: PokéXciting! Stempel-Rallye – Singapur
+
+RESOURCE ID: rally_apac_30_regional_taiwan_title
+TEXT: PokéXciting! Stempel-Rallye – Taiwan
+
+RESOURCE ID: rally_apac_30_cross_regional_desc
+TEXT: Feiere PokéXciting! in der Asien-Pazifik-Region!
+
+RESOURCE ID: rally_apac_30_cross_regional_desc_detail
+TEXT: Begegne PokéXciting! Pikachu, indem du besondere PokéStops in der Asien-Pazifik-Region besuchst. Sieh dir die Karte für weitere Details an.
+
+RESOURCE ID: rally_apac_30_cross_regional_location
+TEXT: Asien-Pazifik-Region
+
+RESOURCE ID: rally_apac_30_cross_regional_rewards_desc
+TEXT: Erkunde die Asien-Pazifik-Region, um PokéXciting! Pikachu in verschiedenen Farben mit exklusiven Ortshintergründen zu begegnen.
+
+RESOURCE ID: rally_apac_30_regional_malaysia_desc
+TEXT: Feiere PokéXciting! in Malaysia!
+
+RESOURCE ID: rally_apac_30_regional_malaysia_desc_detail
+TEXT: Begegne PokéXciting! Pikachu, indem du besondere PokéStops in Kuala Lumpur besuchst. Sieh dir die Karte für weitere Details an.
+
+RESOURCE ID: rally_apac_30_regional_malaysia_location
+TEXT: Kuala Lumpur, Malaysia
+
+RESOURCE ID: rally_apac_30_regional_malaysia_reward_desc
+TEXT: Erkunde Kuala Lumpur, um PokéXciting! Pikachu (Türkis) mit exklusivem Kuala Lumpur-Ortshintergrund zu begegnen.
+
+RESOURCE ID: rally_apac_30_regional_philippines_desc
+TEXT: Feiere PokéXciting! in den Philippinen!
+
+RESOURCE ID: rally_apac_30_regional_philippines_desc_detail
+TEXT: Begegne PokéXciting! Pikachu, indem du besondere PokéStops in Pasay City besuchst. Sieh dir die Karte für weitere Details an.
+
+RESOURCE ID: rally_apac_30_regional_philippines_location
+TEXT: Pasay City, Philippinen
+
+RESOURCE ID: rally_apac_30_regional_philippines_reward_desc
+TEXT: Erkunde Pasay City, um PokéXciting! Pikachu (Rot) mit exklusivem Pasay City-Ortshintergrund zu begegnen.
+
+RESOURCE ID: rally_apac_30_regional_singapore_desc
+TEXT: Feiere PokéXciting! in Singapur!
+
+RESOURCE ID: rally_apac_30_regional_singapore_desc_detail
+TEXT: Begegne PokéXciting! Pikachu, indem du besondere PokéStops in Singapur besuchst. Sieh dir die Karte für weitere Details an.
+
+RESOURCE ID: rally_apac_30_regional_singapore_location
+TEXT: Singapur
+
+RESOURCE ID: rally_apac_30_regional_singapore_reward_desc
+TEXT: Erkunde Singapur, um PokéXciting! Pikachu (Blau) mit exklusivem Singapur-Ortshintergrund zu begegnen.
+
+RESOURCE ID: rally_apac_30_regional_taiwan_desc
+TEXT: Feiere PokéXciting! in Taiwan!
+
+RESOURCE ID: rally_apac_30_regional_taiwan_desc_detail
+TEXT: Begegne PokéXciting! Pikachu, indem du besondere PokéStops in Taipeh besuchst. Sieh dir die Karte für weitere Details an.
+
+RESOURCE ID: rally_apac_30_regional_taiwan_location
+TEXT: Taipeh, Taiwan
+
+RESOURCE ID: rally_apac_30_regional_taiwan_reward_desc
+TEXT: Erkunde Taipeh, um PokéXciting! Pikachu (Pink) mit exklusivem Taipeh-Ortshintergrund zu begegnen.
+
 RESOURCE ID: rally_city_safari_2025_amsterdam_desc
 TEXT: Willkommen bei der Stadt-Safari: Amsterdam!
 
@@ -110849,6 +111097,18 @@ TEXT: München, Deutschland
 
 RESOURCE ID: rally_city_safari_2026_munich_rewards_desc_general
 TEXT: Erkunde die Stadt, um Evoli mit Forscherhut und exklusivem München-Ortshintergrund zu begegnen.
+
+RESOURCE ID: rally_city_safari_2026_rdj_desc
+TEXT: Willkommen zur Stadt-Safari in Rio de Janeiro!
+
+RESOURCE ID: rally_city_safari_2026_rdj_desc_detail
+TEXT: Begegne bis zu acht Evoli pro Eventtag mit Ticket-Zutritt, indem du spezielle PokéStops in Rio de Janeiro besuchst. Sieh dir die Karte für weitere Details an.
+
+RESOURCE ID: rally_city_safari_2026_rdj_location
+TEXT: Rio de Janeiro, Brasilien
+
+RESOURCE ID: rally_city_safari_2026_rdj_rewards_desc_general
+TEXT: Erkunde die Stadt, um Evoli mit Forscherhut und exklusivem Rio de Janeiro-Ortshintergrund zu begegnen.
 
 RESOURCE ID: rally_city_safari_2026_riodejaneiro_desc
 TEXT: Willkommen zur Stadt-Safari in Rio de Janeiro!
@@ -115294,6 +115554,9 @@ TEXT: Stadt-Safari: Marseille 2026
 RESOURCE ID: safari_city_2026_munich_title
 TEXT: Stadt-Safari: München 2026
 
+RESOURCE ID: safari_city_2026_rdj_title
+TEXT: Stadt-Safari: Rio de Janeiro 2026
+
 RESOURCE ID: safari_city_2026_riodejaneiro_title
 TEXT: Stadt-Safari: Rio de Janeiro 2026
 
@@ -115368,6 +115631,9 @@ TEXT: Stadt-Safari: Marseille 2026 (1/3)
 
 RESOURCE ID: safari_city_2026_munich_title_00
 TEXT: Stadt-Safari: München 2026 (1/3)
+
+RESOURCE ID: safari_city_2026_rdj_title_00
+TEXT: Stadt-Safari: Rio de Janeiro 2026 (1/3)
 
 RESOURCE ID: safari_city_2026_riodejaneiro_title_00
 TEXT: Stadt-Safari: Rio de Janeiro 2026 (1/3)
@@ -115444,6 +115710,9 @@ TEXT: Stadt-Safari: Marseille 2026 (2/3)
 RESOURCE ID: safari_city_2026_munich_title_01
 TEXT: Stadt-Safari: München 2026 (2/3)
 
+RESOURCE ID: safari_city_2026_rdj_title_01
+TEXT: Stadt-Safari: Rio de Janeiro 2026 (2/3)
+
 RESOURCE ID: safari_city_2026_riodejaneiro_title_01
 TEXT: Stadt-Safari: Rio de Janeiro 2026 (2/3)
 
@@ -115518,6 +115787,9 @@ TEXT: Stadt-Safari: Marseille 2026 (3/3)
 
 RESOURCE ID: safari_city_2026_munich_title_02
 TEXT: Stadt-Safari: München 2026 (3/3)
+
+RESOURCE ID: safari_city_2026_rdj_title_02
+TEXT: Stadt-Safari: Rio de Janeiro 2026 (3/3)
 
 RESOURCE ID: safari_city_2026_riodejaneiro_title_02
 TEXT: Stadt-Safari: Rio de Janeiro 2026 (3/3)
@@ -116844,6 +117116,9 @@ TEXT: GO-Pass: Flugtaxi
 RESOURCE ID: season_pass_base_track_title_halloween_2025
 TEXT: GO-Pass: Halloween 2025
 
+RESOURCE ID: season_pass_base_track_title_horizons_fall_2026
+TEXT: GO-Pass: Event zur Feier der Kollaboration
+
 RESOURCE ID: season_pass_base_track_title_mega_squads_2026
 TEXT: GO-Pass: Mega-Meuten
 
@@ -117006,6 +117281,9 @@ TEXT: Weitere Infos findest du auf der <a href="https://pokemongo.com/news/flyin
 RESOURCE ID: season_pass_details_link_halloween_2025
 TEXT: Weitere Infos findest du auf der <a href="https://pokemongo.com/de/news/go-pass-halloween-2025">Website</a>.
 
+RESOURCE ID: season_pass_details_link_horizons_fall_2026
+TEXT: Weitere Infos findest du auf der <a href="https://pokemongo.com/news/pokemon-horizons-celebration-event-2026">Website</a>.
+
 RESOURCE ID: season_pass_details_link_pikachu_celebration_2026
 TEXT: Weitere Infos findest du auf der <a href="https://pokemongo.com/news/special-anniversary-pikachu-celebration">Website</a>.
 
@@ -117066,6 +117344,19 @@ TEXT: Schnapp dir den GO-Pass-Deluxe: Halloween 2025, um die folgenden Belohnung
 • Begegnungen mit Event-Pokémon
 • Sonderbonbons XL
 • Und viel mehr!
+
+RESOURCE ID: season_pass_horizons_fall_2026_event_duration
+TEXT: 16. bis 22. September
+
+RESOURCE ID: season_pass_horizons_fall_2026_track_upgrade_header_description
+TEXT: Verdiene zusätzliche Belohnungen und schalte auf Stufe 60 eine <b>Begegnung mit Wuffels</b> frei!
+
+RESOURCE ID: season_pass_horizons_fall_2026_upgrade_description
+TEXT: Schnapp dir den GO-Pass-Deluxe: Event zur Feier der Kollaboration, um die folgenden Belohnungen freizuschalten:
+
+ • Begegnungen mit Event-Pokémon
+• Sonderbonbons XL
+• Und vieles mehr!
 
 RESOURCE ID: season_pass_january2026_event_duration
 TEXT: 6. Januar – 5. Februar
@@ -117259,6 +117550,9 @@ TEXT: GO-Pass-Deluxe: Candelas Sieges-Mission + 6 Stufen
 RESOURCE ID: season_pass_premium_track_plus_six_ranks_title_flying_taxi_2026
 TEXT: GO-Pass-Deluxe: Flugtaxi + 6 Stufen
 
+RESOURCE ID: season_pass_premium_track_plus_six_ranks_title_horizons_fall_2026
+TEXT: GO-Pass-Deluxe: Event zur Feier der Kollaboration + 6 Stufen
+
 RESOURCE ID: season_pass_premium_track_plus_six_ranks_title_mega_squads_2026
 TEXT: GO-Pass-Deluxe: Mega-Meuten + 6 Stufen
 
@@ -117393,6 +117687,9 @@ TEXT: GO-Pass-Deluxe: Flugtaxi
 
 RESOURCE ID: season_pass_premium_track_title_halloween_2025
 TEXT: GO-Pass-Deluxe: Halloween 2025
+
+RESOURCE ID: season_pass_premium_track_title_horizons_fall_2026
+TEXT: GO-Pass-Deluxe: Event zur Feier der Kollaboration
 
 RESOURCE ID: season_pass_premium_track_title_mega_squads_2026
 TEXT: GO-Pass-Deluxe: Mega-Meuten
@@ -126372,7 +126669,6 @@ TEXT: <b>Enthält:</b>
 • Bis zu 6 kostenlose Raid-Pässe pro Tagdurch das Drehen von Fotoscheiben auf Arenen
 • Erhöhte Chance, 10-km-Event-Eier von PokéStops zu erhalten
 • Bis zu 6 Spezial-Tausche pro Tag und verringerte Sternenstaubkosten beim Tauschen
-• 1/2 Schlüpf-Distanz, wenn Eier während des Events in eine Brutmaschine gelegt werden
 • 2× Bonbons für das Fangen von Pokémon
 • Erhöhte Chance, während des Events Schillernden Pokémon zu begegnen
 Erfahre <a href="pokemongo.com/gowildarea/global">hier</a> mehr über die Ticket-Boni.
@@ -127317,6 +127613,16 @@ TEXT: <b>Enthält:</b>
 
 Erfahre mehr über die Ticket-Boni <a href="https://pokemongolive.com/gowildarea/global">hier</a>.
 
+RESOURCE ID: text_rewards_key_gowa26_out
+TEXT: <b>Enthält:</b>
+• Bis zu 6 kostenlose Raid-Pässe pro Tagdurch das Drehen von Fotoscheiben auf Arenen
+• Erhöhte Chance, 10-km-Event-Eier von PokéStops zu erhalten
+• Bis zu 6 Spezial-Tausche pro Tag und verringerte Sternenstaubkosten beim Tauschen
+• 1/2 Schlüpf-Distanz, wenn Eier während des Events in eine Brutmaschine gelegt werden
+• 2× Bonbons für das Fangen von Pokémon
+• Erhöhte Chance, während des Events Schillernden Pokémon zu begegnen
+Erfahre <a href="pokemongo.com/gowildarea/global">hier</a> mehr über die Ticket-Boni.
+
 RESOURCE ID: text_rewards_key_harvestfestival_oct25
 TEXT: <b>Enthält folgende Belohnungen:</b>
 • Begegnungen mit Knapfel
@@ -127752,6 +128058,9 @@ TEXT: Ticket für die Spezialforschung zum Community Day mit Frospino im Shop er
 
 RESOURCE ID: ticket_fuecoco_cd
 TEXT: Ticket für die Spezialforschung „Krokopella“ im Shop erhältlich
+
+RESOURCE ID: ticket_gible_cd
+TEXT: Ticket für die Spezialforschung zum Community Day Classic mit Kaumalat im Shop erhältlich
 
 RESOURCE ID: ticket_glide_victory_tr
 TEXT: Ticket für die Befristete Forschung „Zum Sieg gleiten“ im Shop erhältlich
@@ -129213,6 +129522,186 @@ TEXT: {0} Stempel insgesamt
 
 RESOURCE ID: tr_npb2026
 TEXT: Befristete Bonus-Forschung: Play Ball!
+
+RESOURCE ID: tr_30thapac_eventfocus_2026_header_0_my
+TEXT: PokéXciting! Befristete Forschung: Komm zur Party in Malaysia (1/3)
+
+RESOURCE ID: tr_30thapac_eventfocus_2026_header_0_ph
+TEXT: PokéXciting! Befristete Forschung: Komm zur Party auf den Philippinen (1/3)
+
+RESOURCE ID: tr_30thapac_eventfocus_2026_header_0_sg
+TEXT: PokéXciting! Befristete Forschung: Komm zur Party in Singapur (1/3)
+
+RESOURCE ID: tr_30thapac_eventfocus_2026_header_0_tw
+TEXT: PokéXciting! Befristete Forschung: Komm zur Party in Taiwan (1/3)
+
+RESOURCE ID: tr_30thapac_eventfocus_2026_header_1_my
+TEXT: PokéXciting! Befristete Forschung: Komm zur Party in Malaysia (2/3)
+
+RESOURCE ID: tr_30thapac_eventfocus_2026_header_1_ph
+TEXT: PokéXciting! Befristete Forschung: Komm zur Party auf den Philippinen (2/3)
+
+RESOURCE ID: tr_30thapac_eventfocus_2026_header_1_sg
+TEXT: PokéXciting! Befristete Forschung: Komm zur Party in Singapur (2/3)
+
+RESOURCE ID: tr_30thapac_eventfocus_2026_header_1_tw
+TEXT: PokéXciting! Befristete Forschung: Komm zur Party in Taiwan (2/3)
+
+RESOURCE ID: tr_30thapac_eventfocus_2026_header_2_my
+TEXT: PokéXciting! Befristete Forschung: Komm zur Party in Malaysia (3/3)
+
+RESOURCE ID: tr_30thapac_eventfocus_2026_header_2_ph
+TEXT: PokéXciting! Befristete Forschung: Komm zur Party auf den Philippinen (3/3)
+
+RESOURCE ID: tr_30thapac_eventfocus_2026_header_2_sg
+TEXT: PokéXciting! Befristete Forschung: Komm zur Party in Singapur (3/3)
+
+RESOURCE ID: tr_30thapac_eventfocus_2026_header_2_tw
+TEXT: PokéXciting! Befristete Forschung: Komm zur Party in Taiwan (3/3)
+
+RESOURCE ID: tr_30thapac_eventfocus_2026_header_my
+TEXT: PokéXciting! Befristete Forschung: Komm zur Party in Malaysia
+
+RESOURCE ID: tr_30thapac_eventfocus_2026_header_ph
+TEXT: PokéXciting! Befristete Forschung: Komm zur Party auf den Philippinen
+
+RESOURCE ID: tr_30thapac_eventfocus_2026_header_sg
+TEXT: PokéXciting! Befristete Forschung: Komm zur Party in Singapur
+
+RESOURCE ID: tr_30thapac_eventfocus_2026_header_tw
+TEXT: PokéXciting! Befristete Forschung: Komm zur Party in Taiwan
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_0_my
+TEXT: PokéXciting! Befristete Forschung: Erinnerungen aus 30 Jahren in Malaysia (1/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_0_ph
+TEXT: PokéXciting! Befristete Forschung: Erinnerungen aus 30 Jahren auf den Philippinen (1/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_0_sg
+TEXT: PokéXciting! Befristete Forschung: Erinnerungen aus 30 Jahren in Singapur (1/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_0_tw
+TEXT: PokéXciting! Befristete Forschung: Erinnerungen aus 30 Jahren in Taiwan (1/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_1_my
+TEXT: PokéXciting! Befristete Forschung: Erinnerungen aus 30 Jahren in Malaysia (2/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_1_ph
+TEXT: PokéXciting! Befristete Forschung: Erinnerungen aus 30 Jahren auf den Philippinen (2/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_1_sg
+TEXT: PokéXciting! Befristete Forschung: Erinnerungen aus 30 Jahren in Singapur (2/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_1_tw
+TEXT: PokéXciting! Befristete Forschung: Erinnerungen aus 30 Jahren in Taiwan (2/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_2_my
+TEXT: PokéXciting! Befristete Forschung: Erinnerungen aus 30 Jahren in Malaysia (3/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_2_ph
+TEXT: PokéXciting! Befristete Forschung: Erinnerungen aus 30 Jahren auf den Philippinen (3/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_2_sg
+TEXT: PokéXciting! Befristete Forschung: Erinnerungen aus 30 Jahren in Singapur (3/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_2_tw
+TEXT: PokéXciting! Befristete Forschung: Erinnerungen aus 30 Jahren in Taiwan (3/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_3_my
+TEXT: PokéXciting! Befristete Forschung: Erinnerungen aus 30 Jahren in Malaysia (4/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_3_ph
+TEXT: PokéXciting! Befristete Forschung: Erinnerungen aus 30 Jahren auf den Philippinen (4/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_3_sg
+TEXT: PokéXciting! Befristete Forschung: Erinnerungen aus 30 Jahren in Singapur (4/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_3_tw
+TEXT: PokéXciting! Befristete Forschung: Erinnerungen aus 30 Jahren in Taiwan (4/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_4_my
+TEXT: PokéXciting! Befristete Forschung: Erinnerungen aus 30 Jahren in Malaysia (5/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_4_ph
+TEXT: PokéXciting! Befristete Forschung: Erinnerungen aus 30 Jahren auf den Philippinen (5/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_4_sg
+TEXT: PokéXciting! Befristete Forschung: Erinnerungen aus 30 Jahren in Singapur (5/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_4_tw
+TEXT: PokéXciting! Befristete Forschung: Erinnerungen aus 30 Jahren in Taiwan (5/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_5_my
+TEXT: PokéXciting! Befristete Forschung: Erinnerungen aus 30 Jahren in Malaysia (6/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_5_ph
+TEXT: PokéXciting! Befristete Forschung: Erinnerungen aus 30 Jahren auf den Philippinen (6/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_5_sg
+TEXT: PokéXciting! Befristete Forschung: Erinnerungen aus 30 Jahren in Singapur (6/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_5_tw
+TEXT: PokéXciting! Befristete Forschung: Erinnerungen aus 30 Jahren in Taiwan (6/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_6_my
+TEXT: PokéXciting! Befristete Forschung: Erinnerungen aus 30 Jahren in Malaysia (7/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_6_ph
+TEXT: PokéXciting! Befristete Forschung: Erinnerungen aus 30 Jahren auf den Philippinen (7/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_6_sg
+TEXT: PokéXciting! Befristete Forschung: Erinnerungen aus 30 Jahren in Singapur (7/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_6_tw
+TEXT: PokéXciting! Befristete Forschung: Erinnerungen aus 30 Jahren in Taiwan (7/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_7_my
+TEXT: PokéXciting! Befristete Forschung: Erinnerungen aus 30 Jahren in Malaysia (8/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_7_ph
+TEXT: PokéXciting! Befristete Forschung: Erinnerungen aus 30 Jahren auf den Philippinen (8/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_7_sg
+TEXT: PokéXciting! Befristete Forschung: Erinnerungen aus 30 Jahren in Singapur (8/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_7_tw
+TEXT: PokéXciting! Befristete Forschung: Erinnerungen aus 30 Jahren in Taiwan (8/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_8_my
+TEXT: PokéXciting! Befristete Forschung: Erinnerungen aus 30 Jahren in Malaysia (9/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_8_ph
+TEXT: PokéXciting! Befristete Forschung: Erinnerungen aus 30 Jahren auf den Philippinen (9/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_8_sg
+TEXT: PokéXciting! Befristete Forschung: Erinnerungen aus 30 Jahren in Singapur (9/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_8_tw
+TEXT: PokéXciting! Befristete Forschung: Erinnerungen aus 30 Jahren in Taiwan (9/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_9_my
+TEXT: PokéXciting! Befristete Forschung: Erinnerungen aus 30 Jahren in Malaysia (10/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_9_ph
+TEXT: PokéXciting! Befristete Forschung: Erinnerungen aus 30 Jahren auf den Philippinen (10/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_9_sg
+TEXT: PokéXciting! Befristete Forschung: Erinnerungen aus 30 Jahren in Singapur (10/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_9_tw
+TEXT: PokéXciting! Befristete Forschung: Erinnerungen aus 30 Jahren in Taiwan (10/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_my
+TEXT: PokéXciting! Befristete Forschung: Erinnerungen aus 30 Jahren in Malaysia
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_ph
+TEXT: PokéXciting! Befristete Forschung: Erinnerungen aus 30 Jahren auf den Philippinen
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_sg
+TEXT: PokéXciting! Befristete Forschung: Erinnerungen aus 30 Jahren in Singapur
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_tw
+TEXT: PokéXciting! Befristete Forschung: Erinnerungen aus 30 Jahren in Taiwan
 
 RESOURCE ID: tr_151_challenge
 TEXT: 151-Herausforderung
@@ -132057,6 +132546,9 @@ TEXT: Zwei zusätzliche Spezial-Tausche pro Tag
 
 RESOURCE ID: trade_special_in_pokedex
 TEXT: Legendäre oder Schillernde Pokémon im Pokédex
+
+RESOURCE ID: trade_special_total_3
+TEXT: Insgesamt drei Spezial-Tausche pro Tag
 
 RESOURCE ID: trade_stardust_half
 TEXT: 1/2 Sternenstaub-Kosten fürs Tauschen

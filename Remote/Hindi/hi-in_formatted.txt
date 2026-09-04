@@ -82,6 +82,18 @@ TEXT: 10वीं एनविर्सरी पार्टी प्रीम
 RESOURCE ID: 30th_anniversary_all_out_event_name
 TEXT: Pokémon 30वीं ऐनिवर्सरी - ऑल आउट
 
+RESOURCE ID: 30th_anniversary_apac_event_name_malaysia
+TEXT: मलेशयिा में PokéXciting! सबसे बड़ी पोकेमॉन पार्टी!
+
+RESOURCE ID: 30th_anniversary_apac_event_name_phillipine
+TEXT: फ़लिीपींस में PokéXciting! सबसे बड़ी पोकेमॉन पार्टी!
+
+RESOURCE ID: 30th_anniversary_apac_event_name_sg
+TEXT: सिंगापुर में PokéXciting! सबसे बड़ी पोकेमॉन पार्टी!
+
+RESOURCE ID: 30th_anniversary_apac_event_name_tw
+TEXT: ताइवान में PokéXciting! सबसे बड़ी पोकेमॉन पार्टी!
+
 RESOURCE ID: 30th_anniversary_event_name
 TEXT: Pokémon 30वीं ऐनिवर्सरी
 
@@ -13409,6 +13421,27 @@ TEXT: Pokémon GO City Safari
 RESOURCE ID: badge_safari_2026_munich_day_02_title
 TEXT: Pokémon GO City Safari
 
+RESOURCE ID: badge_safari_2026_rdj_add_on_hatch_test_title
+TEXT: Pokémon GO City Safari—Egg-thusiast
+
+RESOURCE ID: badge_safari_2026_rdj_add_on_hatch_title
+TEXT: Pokémon GO City Safari — अंडे का शौकीन
+
+RESOURCE ID: badge_safari_2026_rdj_add_on_raid_test_title
+TEXT: Pokémon GO City Safari—Raid Lover
+
+RESOURCE ID: badge_safari_2026_rdj_add_on_raid_title
+TEXT: Pokémon GO City Safari — रेड लवर
+
+RESOURCE ID: badge_safari_2026_rdj_day_00_title
+TEXT: Pokémon GO City Safari
+
+RESOURCE ID: badge_safari_2026_rdj_day_01_title
+TEXT: Pokémon GO City Safari
+
+RESOURCE ID: badge_safari_2026_rdj_day_02_title
+TEXT: Pokémon GO City Safari
+
 RESOURCE ID: badge_safari_2026_riodejaneiro_add_on_hatch_test_title
 TEXT: Pokémon GO City Safari—Egg-thusiast
 
@@ -14008,6 +14041,27 @@ TEXT: म्यूनखि, 26 सतिम्बर, 2026
 
 RESOURCE ID: badge_safari_2026_munich_day_02
 TEXT: म्यूनखि, 27 सतिम्बर, 2026
+
+RESOURCE ID: badge_safari_2026_rdj_add_on_hatch
+TEXT: रयिो डी जेनेरो 2026
+
+RESOURCE ID: badge_safari_2026_rdj_add_on_hatch_test
+TEXT: Rio de Janeiro 2026
+
+RESOURCE ID: badge_safari_2026_rdj_add_on_raid
+TEXT: रयिो डी जेनेरो 2026
+
+RESOURCE ID: badge_safari_2026_rdj_add_on_raid_test
+TEXT: Rio de Janeiro 2026
+
+RESOURCE ID: badge_safari_2026_rdj_day_00
+TEXT: रयिो डी जेनेरो 2026
+
+RESOURCE ID: badge_safari_2026_rdj_day_01
+TEXT: रयिो डी जेनेरो, 26 सतिम्बर, 2026
+
+RESOURCE ID: badge_safari_2026_rdj_day_02
+TEXT: रयिो डी जेनेरो, 27 सतिम्बर, 2026
 
 RESOURCE ID: badge_safari_2026_riodejaneiro_add_on_hatch
 TEXT: रयिो डी जेनेरो 2026
@@ -18164,6 +18218,9 @@ TEXT: Highly increased chance of obtaining 10 km Eggs from spinning PokéStops o
 RESOURCE ID: bonus_10x_catch_xp
 TEXT: 10× कैच XP
 
+RESOURCE ID: bonus_30thapac_gmax
+TEXT: मैक्स बैटल में जायगैंटामैक्स फ़ॉर्म में चारज़िार्ड, वीनासॉर और ब्लास्टॉइस दखिाई दे रहे हैं
+
 RESOURCE ID: bonus_1000_xp_ub_raid
 TEXT: +1000 XP for successful completion of an Ultra Beast raid
 
@@ -18325,6 +18382,9 @@ TEXT: फ़्रॉगाडीयर को विकसित कर ऐस�
 
 RESOURCE ID: bonus_cd_move_fuecoco
 TEXT: क्रॉकालॉर को विकसित कर ऐसा स्कैलेडर्ज पाएं जिसे चार्ज्ड अटैक ब्लास्ट बर्न आता है।
+
+RESOURCE ID: bonus_cd_move_gible
+TEXT: चार्ज्ड अटैक पृथ्वी शक्ति जानने वाला गारचॉम्प पाने के लिए, गबाइट को वकिसति करें!
 
 RESOURCE ID: bonus_cd_move_goomy
 TEXT: स्लिगू को एक ऐसे गूड्रा में विकसित करें जिसे चार्ज्ड अटैक थंडर पंच आता हो।
@@ -19095,6 +19155,9 @@ TEXT: स्पेशल रेड में स्थानीय रूप स
 RESOURCE ID: bonus_mega_cp_boost
 TEXT: सभी मेगा एवॉल्व हुए पोकेमॉन के लिए CP बूस्ट
 
+RESOURCE ID: bonus_mega_energy_gible
+TEXT: गबिल कलेक्शन चैलेंज पूरा कर, 300 गारचॉम्प मेगा एनर्जी कमाएँ
+
 RESOURCE ID: bonus_mega_energy_spin_chance
 TEXT: पोकेस्टॉप या जिम स्पिन करने से मेगा एनर्जि प्राप्त करने की संभावना
 
@@ -19208,6 +19271,9 @@ TEXT: GO स्नैपशॉट में ऐसे पिकाचू के 
 
 RESOURCE ID: bonus_pikachu_10th_anniversary_costume
 TEXT: रेड और सीमति समय वाली रसिर्च में प्रौफ़ेसर वलिो का सहायक पकिाचू दखिाई दे रहा है
+
+RESOURCE ID: bonus_pikachu_30thapac
+TEXT: PokéXciting! पकिाचू अब जंगल में, ईवेंट वाली सीमति समय वाली रसिर्च में और GO स्नैपशॉट कीं सरप्राइज़ मुलाकातों में दखिाई दे रहें हैं
 
 RESOURCE ID: bonus_pikachu_npb_costume
 TEXT: बेसबॉल जर्सी पहने पिकाचू अब रेड और सीमित समय वाली रिसर्च में देखाई दे रहें हैं
@@ -20819,8 +20885,14 @@ TEXT: पावर स्पॉट पर प्लेस किये गए �
 RESOURCE ID: bread_lobby_attack_multiplier_dialog_title
 TEXT: अटैक बोनस
 
+RESOURCE ID: bread_lobby_countdown_to_battle_start
+TEXT: Countdown to the Max Battle start
+
 RESOURCE ID: bread_lobby_error_battle_completed
 TEXT: आप पहले ही इस पावर स्पॉट पर बैटल कर चुके हैं।
+
+RESOURCE ID: bread_lobby_error_failed_to_create_battle
+TEXT: Could not join the Max Battle. Please try again later.
 
 RESOURCE ID: bread_lobby_error_friend_details_unavailable
 TEXT: निमंत्रण भेजते समय कोई गड़बड़ी हुई। कृपया फिर से प्रयास करें।
@@ -21002,6 +21074,21 @@ TEXT: क्या आप बच कर भागना चाहेंगे?
 
 RESOURCE ID: bread_post_battle_encounter_run_away_description
 TEXT: यदि आप बच कर भागे, तो आप इस पोकेमॉन को पकड़ नहीं पाएँगे।
+
+RESOURCE ID: bread_private_lobby_error_unavailable
+TEXT: Private groups are currently unavailable. Please try again later.
+
+RESOURCE ID: bread_private_lobby_error_flip_unavailable
+TEXT: The group could not be changed to public.
+
+RESOURCE ID: bread_private_lobby_error_limit_reached
+TEXT: The maximum number of private groups for this Max Battle has been reached.
+
+RESOURCE ID: bread_private_lobby_error_not_creator
+TEXT: Only the Trainer who created this group can change it to public.
+
+RESOURCE ID: bread_private_lobby_error_not_found
+TEXT: This group could not be found. The code may be incorrect, or the group may no longer be available.
 
 RESOURCE ID: bread_release_title
 TEXT: क्या आप चाहते हैं कि {0} लौटे?
@@ -29514,6 +29601,9 @@ TEXT: ईवी एक्सप्लोरर – मुम्बई (1/1)
 RESOURCE ID: eevee_explorers_munich_title
 TEXT: ईवी एक्सप्लोरर – म्यूनखि स्टैम्प रैली
 
+RESOURCE ID: eevee_explorers_rdj_title
+TEXT: ईवी एक्सप्लोरर – रयिो डी जेनेरो स्टैम्प रैली
+
 RESOURCE ID: eevee_explorers_riodejaneiro_title
 TEXT: ईवी एक्सप्लोरर – रयिो डी जेनेरो स्टैम्प रैली
 
@@ -32510,6 +32600,9 @@ TEXT: रैंक 30 पर प्रदान
 
 RESOURCE ID: event_pass_premium_reward_banner_bottom_text_02
 TEXT: रैक 40 पर मिलेगा
+
+RESOURCE ID: event_pass_premium_reward_banner_bottom_text_25
+TEXT: रैक 25 पर मलिेगा
 
 RESOURCE ID: event_pass_premium_reward_banner_bottom_text_30anniv_2026
 TEXT: रैंक 79 पर प्रदान
@@ -38783,6 +38876,9 @@ TEXT: कुछ गड़बड़ी हुई। कृपया फिर स
 
 RESOURCE ID: general_submit_an_appeal
 TEXT: Submit an Appeal
+
+RESOURCE ID: general_supply_balloon_30thapac
+TEXT: हर घंटे एक सप्लाई बलून आएगा। पार्टी के लिए आइटम इकट्ठे करने के लिए उसे टैप करें।
 
 RESOURCE ID: general_total_caps
 TEXT: कुल
@@ -48834,6 +48930,9 @@ TEXT: 2× हैच XP
 
 RESOURCE ID: hatch_xp_triple
 TEXT: 3× हैच XP
+
+RESOURCE ID: hatenna_wattrel_stardust_catch
+TEXT: हैटेना और वॉट्रल को पकड़ने पर अतरिक्ति स्टार-डस्ट प्राप्त करें।
 
 RESOURCE ID: heal_all_button
 TEXT: Heal All
@@ -59313,10 +59412,10 @@ at SHA 12701f1c07ae7f07a5d50583f697320977df7988
 Pipeline 1139111, job 13470914
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-09-02T02:46:00.003808+00:00 for hi-IN
-at SHA c548b2d4c69
-Pipeline 3914795, job 57587942
-Patch from: 0.427.0-SHA-bafb3348-RC1, 0.427.1-SHA-4a569ba7-RC1, 0.429.0-SHA-d6c796f0-RC1
+TEXT: Built at 2026-09-04T06:18:32.891802+00:00 for hi-IN
+at SHA 75c193b8ad4
+Pipeline 3921469, job 57699227
+Patch from: 0.427.0-SHA-fc729f25-RC2, 0.427.1-SHA-4a569ba7-RC1, 0.429.0-SHA-d6c796f0-RC1
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: Timed Research: Choose Your Fighting Type
@@ -75430,6 +75529,9 @@ TEXT: https://support.pokemon.com/hc/en-us/articles/360050219032-How-to-transfer
 RESOURCE ID: pokemon_home_support_page_url
 TEXT: https://support.pokemon.com/hc/en-us/categories/360001984231-Pok%C3%A9mon-HOME
 
+RESOURCE ID: pokemon_horizons_2026_event_name
+TEXT: Pokémon Horizons - The Series सेलब्रिेशन इवेंट 2026
+
 RESOURCE ID: pokemon_hungry_notification_toast
 TEXT: {0} को ट्रीट चाहिए!
 
@@ -80587,6 +80689,47 @@ TEXT: गोपनीयता
 RESOURCE ID: privacy_policy_update_notice
 TEXT: नए प्रोडक्ट फ़ीचर और हमारे द्वारा व्यक्तिगत डेटा प्रोसेस करने के तरीके के बारे में अतिरिक्त जानकारी के लिए कृपया अपडेट की गई Niantic प्राइवेसी पॉलिसी देखें.
 
+RESOURCE ID: private_group_title
+TEXT: Private Group
+
+RESOURCE ID: private_group_pill
+TEXT: PRIVATE
+
+RESOURCE ID: private_group_change_to_public_title
+TEXT: Change to Public
+
+RESOURCE ID: private_group_change_to_public_desc
+TEXT: If you change this group to public, anyone can join and battle with you. Once you change to public, your group cannot be made private again.
+
+Are you sure you want to change to a public group?
+
+RESOURCE ID: private_group_change_to_public_button
+TEXT: CHANGE TO PUBLIC
+
+RESOURCE ID: private_group_code_intro
+TEXT: Battle together with friends by entering their group code.
+
+RESOURCE ID: private_group_code_label
+TEXT: GROUP CODE
+
+RESOURCE ID: private_group_create_button
+TEXT: Create Group
+
+RESOURCE ID: private_group_created_title
+TEXT: Successfully created a group!
+
+RESOURCE ID: private_group_entry_button
+TEXT: PRIVATE GROUP
+
+RESOURCE ID: private_group_invalid_code
+TEXT: This group code is invalid. Please enter a valid code.
+
+RESOURCE ID: private_group_join_button
+TEXT: Join Group
+
+RESOURCE ID: private_group_share_code_message
+TEXT: Share this group code with your friends. They can join you by entering this group code.
+
 RESOURCE ID: prof_willow_birthday_2026_title
 TEXT: वलिो की जन्मदनि रसिर्च
 
@@ -83563,6 +83706,9 @@ TEXT: मुम्बई में अपने ईवी का एक स्�
 RESOURCE ID: quest_event_eevee_snapshot_munich
 TEXT: म्यूनखि में अपने ईवी का स्नैपशॉट लें
 
+RESOURCE ID: quest_event_eevee_snapshot_rdj
+TEXT: रयिो डी जेनेरो में अपने ईवी का स्नैपशॉट लें
+
 RESOURCE ID: quest_event_eevee_snapshot_riodejaneiro
 TEXT: रयिो डी जेनेरो में अपने ईवी का स्नैपशॉट लें
 
@@ -83653,6 +83799,9 @@ TEXT: मुम्बई में एक पोकेस्टॉप या ज
 RESOURCE ID: quest_event_spin_munich
 TEXT: म्यूनखि में कसिी पोकेस्टॉप या जमि को स्पनि करें
 
+RESOURCE ID: quest_event_spin_rdj
+TEXT: रयिो डी जेनेरो में कसिी पोकेस्टॉप या जमि को स्पनि करें
+
 RESOURCE ID: quest_event_spin_riodejaneiro
 TEXT: रयिो डी जेनेरो में कसिी पोकेस्टॉप या जमि को स्पनि करें
 
@@ -83694,6 +83843,9 @@ TEXT: चारमैंडर का स्नैपशॉट लें
 
 RESOURCE ID: quest_evolve_charmander
 TEXT: बल्बासॉर को एवॉल्व करें
+
+RESOURCE ID: quest_evolve_charmeleon
+TEXT:  चार्मलियिन वकिसति करें
 
 RESOURCE ID: quest_evolve_chikorita
 TEXT: सीज़न ऑफ़ हेरिटेज: XP चैलेंज (6/15)
@@ -87291,6 +87443,12 @@ TEXT: Take snapshots of {0} different Pokémon
 RESOURCE ID: quest_snapshot_unique_fire_pokemon
 TEXT: Take snapshots of {0} different Fire-type Pokémon
 
+RESOURCE ID: quest_snapshot_wild_bulbasaur
+TEXT: जंगल में बल्बासॉर का स्नैपशॉट लें
+
+RESOURCE ID: quest_snapshot_wild_charmander
+TEXT: जंगल में चारमैंडर का स्नैपशॉट लें
+
 RESOURCE ID: quest_snapshot_wild_eevee
 TEXT: पोकेमॉन पकड़ें
 
@@ -87300,14 +87458,26 @@ TEXT: Take a snapshot of Entei in the wild
 RESOURCE ID: quest_snapshot_wild_hoothoot
 TEXT: वाइल्ड हूटहूट का स्नैपशॉट लें
 
+RESOURCE ID: quest_snapshot_wild_meowth
+TEXT: जंगल में म्याउथ का स्नैपशॉट लें
+
+RESOURCE ID: quest_snapshot_wild_piakchu
+TEXT: जंगल में पकिाचू का स्नैपशॉट लें
+
 RESOURCE ID: quest_snapshot_wild_plural
 TEXT: जंगल में हूटहूट का स्नैपशॉट लें
+
+RESOURCE ID: quest_snapshot_wild_psyduck
+TEXT: जंगल में साइडक का स्नैपशॉट लें
 
 RESOURCE ID: quest_snapshot_wild_raikou
 TEXT: Take a snapshot of Raikou in the wild
 
 RESOURCE ID: quest_snapshot_wild_singular
 TEXT: {0} ट्रबिश पकड़ें
+
+RESOURCE ID: quest_snapshot_wild_squirtle
+TEXT: जंगल में स्क्वर्टल का स्नैपशॉट लें
 
 RESOURCE ID: quest_snapshot_wild_suicune
 TEXT: Take a snapshot of Suicune in the wild
@@ -102065,6 +102235,9 @@ TEXT: {0} पोकेस्टॉप या जिम को स्पिन �
 RESOURCE ID: quest_visit_pokestops_singular
 TEXT: पोकेस्टॉप या जिम को स्पिन करें
 
+RESOURCE ID: quest_visit_pokestops_days_plural
+TEXT: {0} अलग अलग दनिों में कसिी पोकेस्टॉप या जमि को स्पनि करें
+
 RESOURCE ID: quest_visit_pokestops_party_plural
 TEXT: टीम में शामिल हो कर {0} पोकेस्टॉप या जिम स्पिन करें
 
@@ -107459,6 +107632,81 @@ TEXT: {0} रेड जीतें
 RESOURCE ID: raidweek_2019_medium_raid
 TEXT: {0} रेड जीतें
 
+RESOURCE ID: rally_apac_30_cross_regional_title
+TEXT: PokéXciting! स्टैम्प रैली – एशयिा-प्रशांत
+
+RESOURCE ID: rally_apac_30_regional_malaysia_title
+TEXT: PokéXciting! स्टैम्प रैली – मलेशयिा
+
+RESOURCE ID: rally_apac_30_regional_philippines_title
+TEXT: PokéXciting! स्टैम्प रैली – फ़लिीपींस
+
+RESOURCE ID: rally_apac_30_regional_singapore_title
+TEXT: PokéXciting! स्टैम्प रैली – सिंगापुर
+
+RESOURCE ID: rally_apac_30_regional_taiwan_title
+TEXT: PokéXciting! स्टैम्प रैली – ताइवान
+
+RESOURCE ID: rally_apac_30_cross_regional_desc
+TEXT: एशयिा-प्रशांत में PokéXciting! का अवसर मनाएँ!
+
+RESOURCE ID: rally_apac_30_cross_regional_desc_detail
+TEXT: एशयिा-प्रशांत भर के स्पेशल पोकेस्टॉप पर जाकर PokéXciting! पकिाचू से मुलाकात करें। अधकि जानकारी के लिए मैप देखें।
+
+RESOURCE ID: rally_apac_30_cross_regional_location
+TEXT: एशयिा-प्रशांत
+
+RESOURCE ID: rally_apac_30_cross_regional_rewards_desc
+TEXT: एशयिा-प्रशांत में एक्सप्लोर करते हुए, वशिेष सटिी लोकेशन बैकग्राउंड वाले PokéXciting! पकिाचू के अनेक रंगों से मुलाकात करें।
+
+RESOURCE ID: rally_apac_30_regional_malaysia_desc
+TEXT: मलेशयिा में PokéXciting! का अवसर मनाएँ!
+
+RESOURCE ID: rally_apac_30_regional_malaysia_desc_detail
+TEXT: कुआलालमपुर के कई स्पेशल पोकेस्टॉप पर जाकर PokéXciting! पकिाचू से मुलाकात करें। अधकि जानकारी के लिए मैप देखें।
+
+RESOURCE ID: rally_apac_30_regional_malaysia_location
+TEXT: कुआला लंपुर, मलेशयिा
+
+RESOURCE ID: rally_apac_30_regional_malaysia_reward_desc
+TEXT: कुआलालमपुर को एक्सप्लोर कर, वशिेष कुआलालमपुर लोकेशन बैकग्राउंड वाले PokéXciting! पकिाचू (फ़रिोज़ी) से मुलाकात करें।
+
+RESOURCE ID: rally_apac_30_regional_philippines_desc
+TEXT: फ़लिीपींस में PokéXciting! का अवसर मनाएँ!
+
+RESOURCE ID: rally_apac_30_regional_philippines_desc_detail
+TEXT: पासाय सटिी के कई स्पेशल पोकेस्टॉप पर जाकर PokéXciting! पकिाचू से मुलाकात करें। अधकि जानकारी के लिए मैप देखें।
+
+RESOURCE ID: rally_apac_30_regional_philippines_location
+TEXT: पासाय सटिी, फ़लिीपींस
+
+RESOURCE ID: rally_apac_30_regional_philippines_reward_desc
+TEXT: पासाय सटिी को एक्सप्लोर कर, वशिेष पासाय सटिी लोकेशन बैकग्राउंड वाले PokéXciting! पकिाचू (लाल) से मुलाकात करें।
+
+RESOURCE ID: rally_apac_30_regional_singapore_desc
+TEXT: सिंगापुर में PokéXciting! का अवसर मनाएँ!
+
+RESOURCE ID: rally_apac_30_regional_singapore_desc_detail
+TEXT: सिंगापुर के कई स्पेशल पोकेस्टॉप पर जाकर PokéXciting! पकिाचू से मुलाकात करें। अधकि जानकारी के लिए मैप देखें।
+
+RESOURCE ID: rally_apac_30_regional_singapore_location
+TEXT: सिंगापुर
+
+RESOURCE ID: rally_apac_30_regional_singapore_reward_desc
+TEXT: सिंगापुर को एक्सप्लोर कर, वशिेष सिंगापुर लोकेशन बैकग्राउंड वाले PokéXciting! पकिाचू (नीला) से मुलाकात करें।
+
+RESOURCE ID: rally_apac_30_regional_taiwan_desc
+TEXT: ताइवान में PokéXciting! का अवसर मनाएँ!
+
+RESOURCE ID: rally_apac_30_regional_taiwan_desc_detail
+TEXT: ताइपेई के कई स्पेशल पोकेस्टॉप पर जाकर PokéXciting! पकिाचू से मुलाकात करें। अधकि जानकारी के लिए मैप देखें।
+
+RESOURCE ID: rally_apac_30_regional_taiwan_location
+TEXT: ताइपेई, ताइवान
+
+RESOURCE ID: rally_apac_30_regional_taiwan_reward_desc
+TEXT: ताइपेई को एक्सप्लोर कर, वशिेष ताइपेई लोकेशन बैकग्राउंड वाले PokéXciting! पकिाचू (पिंक) से मुलाकात करें।
+
 RESOURCE ID: rally_city_safari_2025_amsterdam_desc
 TEXT: City Safari - ऐम्स्टर्डैम में आपका स्वागत है!
 
@@ -107614,6 +107862,18 @@ TEXT: म्यूनखि, जर्मनी
 
 RESOURCE ID: rally_city_safari_2026_munich_rewards_desc_general
 TEXT: म्यूनखि के वशिेष लोकेशन बैकग्राउंड के साथ, एक्सप्लोरर हैट पहने ईवी से मुलाकात करने के लिए शहर को एक्सप्लोर करें।
+
+RESOURCE ID: rally_city_safari_2026_rdj_desc
+TEXT: City Safari - रयिो डी जेनेरो में आपका स्वागत है!
+
+RESOURCE ID: rally_city_safari_2026_rdj_desc_detail
+TEXT: रयिो डी जेनेरो के कई वशिेष पोकेस्टॉप पर जाकर, हर टकिट वाले इवेंट डे में आप आठ तक ईवी से मुलाकात कर सकते हैं। और जानकारी के लिए मैप देखें।
+
+RESOURCE ID: rally_city_safari_2026_rdj_location
+TEXT: रयिो डी जेनेरो, ब्राज़ील
+
+RESOURCE ID: rally_city_safari_2026_rdj_rewards_desc_general
+TEXT: रयिो डी जेनेरो के वशिेष लोकेशन बैकग्राउंड के साथ, एक्सप्लोरर हैट पहने ईवी से मुलाकात करने के लिए शहर को एक्सप्लोर करें।
 
 RESOURCE ID: rally_city_safari_2026_riodejaneiro_desc
 TEXT: City Safari - रयिो डी जेनेरो में आपका स्वागत है!
@@ -112054,6 +112314,9 @@ TEXT: City Safari - मार्से 2026
 RESOURCE ID: safari_city_2026_munich_title
 TEXT: City Safari - म्यूनखि 2026
 
+RESOURCE ID: safari_city_2026_rdj_title
+TEXT: City Safari - रयिो डी जेनेरो 2026
+
 RESOURCE ID: safari_city_2026_riodejaneiro_title
 TEXT: City Safari - रयिो डी जेनेरो 2026
 
@@ -112128,6 +112391,9 @@ TEXT: City Safari - मार्से 2026 (1/3)
 
 RESOURCE ID: safari_city_2026_munich_title_00
 TEXT: City Safari - म्यूनखि 2026 (1/3)
+
+RESOURCE ID: safari_city_2026_rdj_title_00
+TEXT: City Safari - रयिो डी जेनेरो 2026 (1/3)
 
 RESOURCE ID: safari_city_2026_riodejaneiro_title_00
 TEXT: City Safari - रयिो डी जेनेरो 2026 (1/3)
@@ -112204,6 +112470,9 @@ TEXT: City Safari - मार्से 2026 (2/3)
 RESOURCE ID: safari_city_2026_munich_title_01
 TEXT: City Safari - म्यूनखि 2026 (2/3)
 
+RESOURCE ID: safari_city_2026_rdj_title_01
+TEXT: City Safari - रयिो डी जेनेरो 2026 (2/3)
+
 RESOURCE ID: safari_city_2026_riodejaneiro_title_01
 TEXT: City Safari - रयिो डी जेनेरो 2026 (2/3)
 
@@ -112278,6 +112547,9 @@ TEXT: City Safari - मार्से 2026 (3/3)
 
 RESOURCE ID: safari_city_2026_munich_title_02
 TEXT: City Safari - म्यूनखि 2026 (3/3)
+
+RESOURCE ID: safari_city_2026_rdj_title_02
+TEXT: City Safari - रयिो डी जेनेरो 2026 (3/3)
 
 RESOURCE ID: safari_city_2026_riodejaneiro_title_02
 TEXT: City Safari - रयिो डी जेनेरो 2026 (3/3)
@@ -113602,6 +113874,9 @@ TEXT: GO पास - उड़ती टैक्सी
 RESOURCE ID: season_pass_base_track_title_halloween_2025
 TEXT: GO पास - हैलोवीन 2025
 
+RESOURCE ID: season_pass_base_track_title_horizons_fall_2026
+TEXT: GO Pass - कोलैबोरेशन सेलब्रिेशन इवेंट
+
 RESOURCE ID: season_pass_base_track_title_mega_squads_2026
 TEXT: GO पास - टीम मेगा
 
@@ -113763,6 +114038,9 @@ TEXT: अधकि जानकारी की लिए <a href="https://pokem
 RESOURCE ID: season_pass_details_link_halloween_2025
 TEXT: अधिक जानकारी की लिए <a href="https://pokemongo.com/news/go-pass-halloween-2025">वेबसाइट</a> पर जाएं।
 
+RESOURCE ID: season_pass_details_link_horizons_fall_2026
+TEXT: अधकि जानकारी की लिए <a href="https://pokemongo.com/news/pokemon-horizons-celebration-event-2026">वेबसाइट</a> पर जाएँ।
+
 RESOURCE ID: season_pass_details_link_pikachu_celebration_2026
 TEXT: अधकि जानकारी की लिए <a href="https://pokemongo.com/news/special-anniversary-pikachu-celebration">वेबसाइट</a> पर जाएँ।
 
@@ -113820,6 +114098,19 @@ RESOURCE ID: season_pass_halloween_2025_upgrade_description
 TEXT: नीचे दिये गए रिवॉर्ड को अनलॉक करने के लिए GO पास डीलक्स - हैलोवीन 2025 खरीदें!
 
 • टीटाइम पोज़
+• इवेंट की थीम वाले पोकेमॉन से मुलाकातें
+• रेयर कैंडी XL
+• और-भी बहुत कुछ! 
+
+RESOURCE ID: season_pass_horizons_fall_2026_event_duration
+TEXT: 16 सतिम्बर – 22 सतिम्बर 
+
+RESOURCE ID: season_pass_horizons_fall_2026_track_upgrade_header_description
+TEXT: अतरिक्ति रविॉर्ड पायें और रैंक 60 पर <b>रॉकरफ़ के साथ एक मुलाकात</b> अनलॉक करें!
+
+RESOURCE ID: season_pass_horizons_fall_2026_upgrade_description
+TEXT: नीचे दयिे गए रविॉर्ड को अनलॉक करने के लिए GO पास डीलक्स - कोलैबोरेशन सेलब्रिेशन इवेंट खरीदें!
+
 • इवेंट की थीम वाले पोकेमॉन से मुलाकातें
 • रेयर कैंडी XL
 • और-भी बहुत कुछ! 
@@ -114009,6 +114300,9 @@ TEXT: GO पास डीलक्स - कैंडेला की जीत �
 RESOURCE ID: season_pass_premium_track_plus_six_ranks_title_flying_taxi_2026
 TEXT: GO पास डीलक्स - उड़ती टैक्सी + 6 रैंक
 
+RESOURCE ID: season_pass_premium_track_plus_six_ranks_title_horizons_fall_2026
+TEXT: GO पास डीलक्स - कोलैबोरेशन सेलब्रिेशन इवेंट + 6 रैंक
+
 RESOURCE ID: season_pass_premium_track_plus_six_ranks_title_mega_squads_2026
 TEXT: GO पास डीलक्स - टीम मेगा + 6 रैंक
 
@@ -114143,6 +114437,9 @@ TEXT: GO पास डीलक्स - उड़ती टैक्सी
 
 RESOURCE ID: season_pass_premium_track_title_halloween_2025
 TEXT: GO पास डीलक्स - हैलोवीन 2025
+
+RESOURCE ID: season_pass_premium_track_title_horizons_fall_2026
+TEXT: GO पास डीलक्स - कोलैबोरेशन सेलब्रिेशन इवेंट
 
 RESOURCE ID: season_pass_premium_track_title_mega_squads_2026
 TEXT: GO पास डीलक्स - टीम मेगा
@@ -116477,7 +116774,7 @@ RESOURCE ID: sku.name.a7d19965d3494422d7b78c113b9f5311
 TEXT: वॉयजर ट्रपिल प्ले पैक
 
 RESOURCE ID: sku.name.a7fbe76ddc4351aca68cb08baa87d753
-TEXT: Battle-Ready Box
+TEXT: Battle Ready Box
 
 RESOURCE ID: sku.name.a8157eea098ee2ae91ff520e87abd6a2
 TEXT: एडवेंचर बॉक्स
@@ -123115,7 +123412,6 @@ TEXT: <b>शामलि :</b>
 • जमि की फ़ोटो डस्कि स्पनि करने से प्रतदिनि अधकितम 6 निःशुल्क रेड पास
 • पोकेस्टॉप स्पनि करने से इवेंट वाले 10 कि.मी. अंडे मलिने की अधकि संभावना
 • हर दनि अधकितम 6 स्पेशल ट्रेड और ट्रेड के लिए स्टार-डस्ट की कम लागत
-• ईवेंट के चलते समय, इन्क्यूबेटर में रखे अंडों के लिए आधी हैच दूरी
 • पोकेमॉन पकड़ने पर 2× कैंडी
 • इवेंट के दौरान शाइनी पोकेमॉन से मुलाकात होने की अधकि संभावना
 
@@ -124061,6 +124357,17 @@ TEXT: <b>शामिल :</b>
 
 टिकट बोनस के बारे में अधिक जानकारी <a href="https://pokemongo.com/gowildarea/global">यहाँ</a> प्राप्त करें।
 
+RESOURCE ID: text_rewards_key_gowa26_out
+TEXT: <b>शामलि :</b>
+• जमि की फ़ोटो डस्कि स्पनि करने से प्रतदिनि अधकितम 6 निःशुल्क रेड पास
+• पोकेस्टॉप स्पनि करने से इवेंट वाले 10 कि.मी. अंडे मलिने की अधकि संभावना
+• हर दनि अधकितम 6 स्पेशल ट्रेड और ट्रेड के लिए स्टार-डस्ट की कम लागत
+• ईवेंट के चलते समय, इन्क्यूबेटर में रखे अंडों के लिए आधी हैच दूरी
+• पोकेमॉन पकड़ने पर 2× कैंडी
+• इवेंट के दौरान शाइनी पोकेमॉन से मुलाकात होने की अधकि संभावना
+
+टकिट बोनस के बारे में अधकि जानकारी <a href="https://pokemongo.com/gowildarea/global">यहाँ</a> प्राप्त करें।
+
 RESOURCE ID: text_rewards_key_harvestfestival_oct25
 TEXT: <b>शामिल रिवॉर्ड :</b>
 • फ़्रूकीरा के साथ मुलाकातें
@@ -124496,6 +124803,9 @@ TEXT: शॉप में फ़्रजिबिैक्स कम्यु�
 
 RESOURCE ID: ticket_fuecoco_cd
 TEXT: क्रॉकापैला स्पेशल रिसर्च की टिकट शॉप में उपलब्ध है
+
+RESOURCE ID: ticket_gible_cd
+TEXT: शॉप में गबिल कम्युनटिी डे क्लासकि स्पेशल रसिर्च की टकिट उपलब्ध है
 
 RESOURCE ID: ticket_glide_victory_tr
 TEXT: विजय की ओर सीमित समय वाली रिसर्च की टिकट अब शॉप में उपलब्ध है
@@ -125929,6 +126239,186 @@ TEXT: कुल {0} स्टैम्प
 
 RESOURCE ID: tr_npb2026
 TEXT: मैच शुरू! बोनस सीमित समय वाली रिसर्च
+
+RESOURCE ID: tr_30thapac_eventfocus_2026_header_0_my
+TEXT: मलेशयिा में PokéXciting! सीमति समय वाली रसिर्च (1/3)
+
+RESOURCE ID: tr_30thapac_eventfocus_2026_header_0_ph
+TEXT: फ़लिीपींस में PokéXciting! सीमति समय वाली रसिर्च (1/3)
+
+RESOURCE ID: tr_30thapac_eventfocus_2026_header_0_sg
+TEXT: सिंगापुर में PokéXciting! सीमति समय वाली रसिर्च (1/3)
+
+RESOURCE ID: tr_30thapac_eventfocus_2026_header_0_tw
+TEXT: ताइवान में PokéXciting! सीमति समय वाली रसिर्च (1/3)
+
+RESOURCE ID: tr_30thapac_eventfocus_2026_header_1_my
+TEXT: मलेशयिा में PokéXciting! सीमति समय वाली रसिर्च (2/3)
+
+RESOURCE ID: tr_30thapac_eventfocus_2026_header_1_ph
+TEXT: फ़लिीपींस में PokéXciting! सीमति समय वाली रसिर्च (2/3)
+
+RESOURCE ID: tr_30thapac_eventfocus_2026_header_1_sg
+TEXT: सिंगापुर में PokéXciting! सीमति समय वाली रसिर्च (2/3)
+
+RESOURCE ID: tr_30thapac_eventfocus_2026_header_1_tw
+TEXT: ताइवान में PokéXciting! सीमति समय वाली रसिर्च (2/3)
+
+RESOURCE ID: tr_30thapac_eventfocus_2026_header_2_my
+TEXT: मलेशयिा में PokéXciting! सीमति समय वाली रसिर्च (3/3)
+
+RESOURCE ID: tr_30thapac_eventfocus_2026_header_2_ph
+TEXT: फ़लिीपींस में PokéXciting! सीमति समय वाली रसिर्च (3/3)
+
+RESOURCE ID: tr_30thapac_eventfocus_2026_header_2_sg
+TEXT: सिंगापुर में PokéXciting! सीमति समय वाली रसिर्च (3/3)
+
+RESOURCE ID: tr_30thapac_eventfocus_2026_header_2_tw
+TEXT: ताइवान में PokéXciting! सीमति समय वाली रसिर्च (3/3)
+
+RESOURCE ID: tr_30thapac_eventfocus_2026_header_my
+TEXT: मलेशयिा में PokéXciting! सीमति समय वाली रसिर्च
+
+RESOURCE ID: tr_30thapac_eventfocus_2026_header_ph
+TEXT: फ़लिीपींस में PokéXciting! सीमति समय वाली रसिर्च
+
+RESOURCE ID: tr_30thapac_eventfocus_2026_header_sg
+TEXT: सिंगापुर में PokéXciting! सीमति समय वाली रसिर्च
+
+RESOURCE ID: tr_30thapac_eventfocus_2026_header_tw
+TEXT: ताइवान में PokéXciting! सीमति समय वाली रसिर्च
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_0_my
+TEXT: मलेशयिा में PokéXciting! 30 वर्षों की यादें सीमति समय वाली रसिर्च (1/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_0_ph
+TEXT: फ़लिीपींस में PokéXciting! 30 वर्षों की यादें सीमति समय वाली रसिर्च (1/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_0_sg
+TEXT: सिंगापुर में PokéXciting! 30 वर्षों की यादें सीमति समय वाली रसिर्च (1/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_0_tw
+TEXT: ताइवान में PokéXciting! 30 वर्षों की यादें सीमति समय वाली रसिर्च (1/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_1_my
+TEXT: मलेशयिा में PokéXciting! 30 वर्षों की यादें सीमति समय वाली रसिर्च (2/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_1_ph
+TEXT: फ़लिीपींस में PokéXciting! 30 वर्षों की यादें सीमति समय वाली रसिर्च (2/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_1_sg
+TEXT: सिंगापुर में PokéXciting! 30 वर्षों की यादें सीमति समय वाली रसिर्च (2/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_1_tw
+TEXT: ताइवान में PokéXciting! 30 वर्षों की यादें सीमति समय वाली रसिर्च (2/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_2_my
+TEXT: मलेशयिा में PokéXciting! 30 वर्षों की यादें सीमति समय वाली रसिर्च (3/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_2_ph
+TEXT: फ़लिीपींस में PokéXciting! 30 वर्षों की यादें सीमति समय वाली रसिर्च (3/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_2_sg
+TEXT: सिंगापुर में PokéXciting! 30 वर्षों की यादें सीमति समय वाली रसिर्च (3/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_2_tw
+TEXT: ताइवान में PokéXciting! 30 वर्षों की यादें सीमति समय वाली रसिर्च (3/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_3_my
+TEXT: मलेशयिा में PokéXciting! 30 वर्षों की यादें सीमति समय वाली रसिर्च (4/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_3_ph
+TEXT: फ़लिीपींस में PokéXciting! 30 वर्षों की यादें सीमति समय वाली रसिर्च (4/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_3_sg
+TEXT: सिंगापुर में PokéXciting! 30 वर्षों की यादें सीमति समय वाली रसिर्च (4/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_3_tw
+TEXT: ताइवान में PokéXciting! 30 वर्षों की यादें सीमति समय वाली रसिर्च (4/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_4_my
+TEXT: मलेशयिा में PokéXciting! 30 वर्षों की यादें सीमति समय वाली रसिर्च (5/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_4_ph
+TEXT: फ़लिीपींस में PokéXciting! 30 वर्षों की यादें सीमति समय वाली रसिर्च (5/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_4_sg
+TEXT: सिंगापुर में PokéXciting! 30 वर्षों की यादें सीमति समय वाली रसिर्च (5/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_4_tw
+TEXT: ताइवान में PokéXciting! 30 वर्षों की यादें सीमति समय वाली रसिर्च (5/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_5_my
+TEXT: मलेशयिा में PokéXciting! 30 वर्षों की यादें सीमति समय वाली रसिर्च (6/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_5_ph
+TEXT: फ़लिीपींस में PokéXciting! 30 वर्षों की यादें सीमति समय वाली रसिर्च (6/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_5_sg
+TEXT: सिंगापुर में PokéXciting! 30 वर्षों की यादें सीमति समय वाली रसिर्च (6/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_5_tw
+TEXT: ताइवान में PokéXciting! 30 वर्षों की यादें सीमति समय वाली रसिर्च (6/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_6_my
+TEXT: मलेशयिा में PokéXciting! 30 वर्षों की यादें सीमति समय वाली रसिर्च (7/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_6_ph
+TEXT: फ़लिीपींस में PokéXciting! 30 वर्षों की यादें सीमति समय वाली रसिर्च (7/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_6_sg
+TEXT: सिंगापुर में PokéXciting! 30 वर्षों की यादें सीमति समय वाली रसिर्च (7/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_6_tw
+TEXT: ताइवान में PokéXciting! 30 वर्षों की यादें सीमति समय वाली रसिर्च (7/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_7_my
+TEXT: मलेशयिा में PokéXciting! 30 वर्षों की यादें सीमति समय वाली रसिर्च (8/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_7_ph
+TEXT: फ़लिीपींस में PokéXciting! 30 वर्षों की यादें सीमति समय वाली रसिर्च (8/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_7_sg
+TEXT: सिंगापुर में PokéXciting! 30 वर्षों की यादें सीमति समय वाली रसिर्च (8/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_7_tw
+TEXT: ताइवान में PokéXciting! 30 वर्षों की यादें सीमति समय वाली रसिर्च (8/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_8_my
+TEXT: मलेशयिा में PokéXciting! 30 वर्षों की यादें सीमति समय वाली रसिर्च (9/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_8_ph
+TEXT: फ़लिीपींस में PokéXciting! 30 वर्षों की यादें सीमति समय वाली रसिर्च (9/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_8_sg
+TEXT: सिंगापुर में PokéXciting! 30 वर्षों की यादें सीमति समय वाली रसिर्च (9/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_8_tw
+TEXT: ताइवान में PokéXciting! 30 वर्षों की यादें सीमति समय वाली रसिर्च (9/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_9_my
+TEXT: मलेशयिा में PokéXciting! 30 वर्षों की यादें सीमति समय वाली रसिर्च (10/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_9_ph
+TEXT: फ़लिीपींस में PokéXciting! 30 वर्षों की यादें सीमति समय वाली रसिर्च (10/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_9_sg
+TEXT: सिंगापुर में PokéXciting! 30 वर्षों की यादें सीमति समय वाली रसिर्च (10/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_9_tw
+TEXT: ताइवान में PokéXciting! 30 वर्षों की यादें सीमति समय वाली रसिर्च (10/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_my
+TEXT: मलेशयिा में PokéXciting! 30 वर्षों की यादें सीमति समय वाली रसिर्च
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_ph
+TEXT: फ़लिीपींस में PokéXciting! 30 वर्षों की यादें सीमति समय वाली रसिर्च
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_sg
+TEXT: सिंगापुर में PokéXciting! 30 वर्षों की यादें सीमति समय वाली रसिर्च
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_tw
+TEXT: ताइवान में PokéXciting! 30 वर्षों की यादें सीमति समय वाली रसिर्च
 
 RESOURCE ID: tr_151_challenge
 TEXT: 151 Challenge
@@ -128781,6 +129271,9 @@ TEXT: हर दिन 2 अतिरिक्त स्पेशल ट्र�
 
 RESOURCE ID: trade_special_in_pokedex
 TEXT: पोकेडेक्स में लेजेंडरी या शाइनी पोकेमॉन
+
+RESOURCE ID: trade_special_total_3
+TEXT: हर दनि कुल तीन स्पेशल ट्रेड
 
 RESOURCE ID: trade_stardust_half
 TEXT: ट्रेड के लिए 1/2 स्टार डस्ट की कीमत

@@ -82,6 +82,18 @@ TEXT: 10周年記念プレミアムタイムチャレンジ
 RESOURCE ID: 30th_anniversary_all_out_event_name
 TEXT: ポケモン30周年イベント：大集合
 
+RESOURCE ID: 30th_anniversary_apac_event_name_malaysia
+TEXT: マレーシアでPokéXciting！
+
+RESOURCE ID: 30th_anniversary_apac_event_name_phillipine
+TEXT: フィリピンでPokéXciting！
+
+RESOURCE ID: 30th_anniversary_apac_event_name_sg
+TEXT: シンガポールでPokéXciting！
+
+RESOURCE ID: 30th_anniversary_apac_event_name_tw
+TEXT: 台湾でPokéXciting！
+
 RESOURCE ID: 30th_anniversary_event_name
 TEXT: ポケモン30周年イベント
 
@@ -13769,6 +13781,27 @@ TEXT: Pokémon GO City Safari
 RESOURCE ID: badge_safari_2026_munich_day_02_title
 TEXT: Pokémon GO City Safari
 
+RESOURCE ID: badge_safari_2026_rdj_add_on_hatch_test_title
+TEXT: Pokémon GO City Safari—Egg-thusiast
+
+RESOURCE ID: badge_safari_2026_rdj_add_on_hatch_title
+TEXT: Pokémon GO City Safari—タマゴ名人
+
+RESOURCE ID: badge_safari_2026_rdj_add_on_raid_test_title
+TEXT: Pokémon GO City Safari—Raid Lover
+
+RESOURCE ID: badge_safari_2026_rdj_add_on_raid_title
+TEXT: Pokémon GO City Safari—レイド大好き
+
+RESOURCE ID: badge_safari_2026_rdj_day_00_title
+TEXT: Pokémon GO City Safari
+
+RESOURCE ID: badge_safari_2026_rdj_day_01_title
+TEXT: Pokémon GO City Safari
+
+RESOURCE ID: badge_safari_2026_rdj_day_02_title
+TEXT: Pokémon GO City Safari
+
 RESOURCE ID: badge_safari_2026_riodejaneiro_add_on_hatch_test_title
 TEXT: Pokémon GO City Safari—Egg-thusiast
 
@@ -14368,6 +14401,27 @@ TEXT: ミュンヘン、2026年9月26日
 
 RESOURCE ID: badge_safari_2026_munich_day_02
 TEXT: ミュンヘン、2026年9月27日
+
+RESOURCE ID: badge_safari_2026_rdj_add_on_hatch
+TEXT: リオデジャネイロ2026
+
+RESOURCE ID: badge_safari_2026_rdj_add_on_hatch_test
+TEXT: Rio de Janeiro 2026
+
+RESOURCE ID: badge_safari_2026_rdj_add_on_raid
+TEXT: リオデジャネイロ2026
+
+RESOURCE ID: badge_safari_2026_rdj_add_on_raid_test
+TEXT: Rio de Janeiro 2026
+
+RESOURCE ID: badge_safari_2026_rdj_day_00
+TEXT: リオデジャネイロ2026
+
+RESOURCE ID: badge_safari_2026_rdj_day_01
+TEXT: リオデジャネイロ、2026年9月26日
+
+RESOURCE ID: badge_safari_2026_rdj_day_02
+TEXT: リオデジャネイロ、2026年9月27日
 
 RESOURCE ID: badge_safari_2026_riodejaneiro_add_on_hatch
 TEXT: リオデジャネイロ2026
@@ -18500,6 +18554,9 @@ TEXT: ポケストップかジムを回してもらえる10kmタマゴ確率ア�
 RESOURCE ID: bonus_10x_catch_xp
 TEXT: 10x　ポケモンを捕まえてもらえるXP
 
+RESOURCE ID: bonus_30thapac_gmax
+TEXT: キョダイマックスしたリザードン、フシギバナ、カメックスがマックスバトルに出現
+
 RESOURCE ID: bonus_1000_xp_ub_raid
 TEXT: +1000　UBレイドでもらえるXP
 
@@ -18661,6 +18718,9 @@ TEXT: ゲコガシラをゲッコウガに進化させるとハイドロカノ�
 
 RESOURCE ID: bonus_cd_move_fuecoco
 TEXT: アチゲータをラウドボーンに進化させるとブラストバーンを覚えている
+
+RESOURCE ID: bonus_cd_move_gible
+TEXT: ガバイトをガブリアスに進化させるとだいちのちからを覚えている
 
 RESOURCE ID: bonus_cd_move_goomy
 TEXT: ヌメイルをヌメルゴンに進化させるとかみなりパンチを覚えている
@@ -19435,6 +19495,9 @@ TEXT: メガプテラがエリア内の特別なレイドに出現
 RESOURCE ID: bonus_mega_cp_boost
 TEXT: すべてのメガシンカしたポケモンのCP増
 
+RESOURCE ID: bonus_mega_energy_gible
+TEXT: フカマルコレクションチャレンジ完了で300ガブリアスメガエナジーがもらえる
+
 RESOURCE ID: bonus_mega_energy_spin_chance
 TEXT: ポケストップ・ジムスピンでメガエナジーをもらえることがある
 
@@ -19548,6 +19611,9 @@ TEXT: 毎日GOスナップショットでトウヤの帽子、トウコの帽子
 
 RESOURCE ID: bonus_pikachu_10th_anniversary_costume
 TEXT: ウィロー博士の助手ピカチュウがレイドとタイムチャレンジに出現
+
+RESOURCE ID: bonus_pikachu_30thapac
+TEXT: 「PokéXciting!ピカチュウ」が野生、タイムチャレンジ、GOスナップショットで出現
 
 RESOURCE ID: bonus_pikachu_npb_costume
 TEXT: ベースボールシャツを身にまとったピカチュウがレイドとタイムチャレンジに登場
@@ -21164,8 +21230,14 @@ TEXT: パワースポットに配置されたポケモンの数によって攻�
 RESOURCE ID: bread_lobby_attack_multiplier_dialog_title
 TEXT: 攻撃ブースト
 
+RESOURCE ID: bread_lobby_countdown_to_battle_start
+TEXT: 開始まで
+
 RESOURCE ID: bread_lobby_error_battle_completed
 TEXT: このパワースポットですでにバトルに参加しました
+
+RESOURCE ID: bread_lobby_error_failed_to_create_battle
+TEXT: マックスバトルに参加できませんでした。しばらくしてから再度お試しください。
 
 RESOURCE ID: bread_lobby_error_friend_details_unavailable
 TEXT: 招待を送信中に問題が起きました。もう一度お試しください。
@@ -21346,6 +21418,21 @@ TEXT: 逃げてもいいですか？
 
 RESOURCE ID: bread_post_battle_encounter_run_away_description
 TEXT: 逃げるとこのポケモンを捕まえることはできません。
+
+RESOURCE ID: bread_private_lobby_error_unavailable
+TEXT: プライベートグループは利用できません。しばらくしてから再度お試しください。
+
+RESOURCE ID: bread_private_lobby_error_flip_unavailable
+TEXT: このグループはオープンに変更できません
+
+RESOURCE ID: bread_private_lobby_error_limit_reached
+TEXT: このマックスバトルに参加できるプライベートグループの上限に達しました
+
+RESOURCE ID: bread_private_lobby_error_not_creator
+TEXT: このグループを作成したトレーナーのみがオープンに変更できます
+
+RESOURCE ID: bread_private_lobby_error_not_found
+TEXT: グループコードが見つかりません。コードが間違っているか、グループがすでに存在していない可能性があります。
 
 RESOURCE ID: bread_release_title
 TEXT: {0}を戻しますか？
@@ -32073,6 +32160,9 @@ TEXT: イーブイチャレンジ  –
 RESOURCE ID: eevee_explorers_munich_title
 TEXT: イーブイと探検 – ミュンヘンスタンプラリー
 
+RESOURCE ID: eevee_explorers_rdj_title
+TEXT: イーブイと探検 – リオデジャネイロスタンプラリー
+
 RESOURCE ID: eevee_explorers_riodejaneiro_title
 TEXT: イーブイと探検 – リオデジャネイロスタンプラリー
 
@@ -35108,6 +35198,9 @@ TEXT: ランク30で出会える
 
 RESOURCE ID: event_pass_premium_reward_banner_bottom_text_02
 TEXT: ランク40でゲット
+
+RESOURCE ID: event_pass_premium_reward_banner_bottom_text_25
+TEXT: ランク25でゲット
 
 RESOURCE ID: event_pass_premium_reward_banner_bottom_text_30anniv_2026
 TEXT: ランク79で出会える
@@ -41371,6 +41464,9 @@ TEXT: エラーです。操作をやり直してください。
 
 RESOURCE ID: general_submit_an_appeal
 TEXT: 異議申し立て
+
+RESOURCE ID: general_supply_balloon_30thapac
+TEXT: 補給気球が毎時出現、道具ゲットのチャンス！
 
 RESOURCE ID: general_total_caps
 TEXT: TOTAL
@@ -51418,6 +51514,9 @@ TEXT: 2×　タマゴふかでもらえるXP
 
 RESOURCE ID: hatch_xp_triple
 TEXT: 3×　タマゴふかでもらえるXP
+
+RESOURCE ID: hatenna_wattrel_stardust_catch
+TEXT: ミブリムとカイデンを捕まえると追加のほしのすながもらえる
 
 RESOURCE ID: heal_all_button
 TEXT: すべて回復
@@ -61982,10 +62081,10 @@ at SHA 4d4f3e80cc7fb911006bd14d198c9831ef66d005
 Pipeline 339838, job 2672172
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-09-02T02:46:00.003808+00:00 for ja-JP
-at SHA c548b2d4c69
-Pipeline 3914795, job 57587942
-Patch from: 0.427.0-SHA-bafb3348-RC1, 0.427.1-SHA-4a569ba7-RC1, 0.429.0-SHA-d6c796f0-RC1
+TEXT: Built at 2026-09-04T06:18:32.891802+00:00 for ja-JP
+at SHA 75c193b8ad4
+Pipeline 3921469, job 57699227
+Patch from: 0.427.0-SHA-fc729f25-RC2, 0.427.1-SHA-4a569ba7-RC1, 0.429.0-SHA-d6c796f0-RC1
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: タイムチャレンジ：かくとうタイプ
@@ -78292,6 +78391,9 @@ TEXT: https://support.pokemon.com/hc/en-us/articles/360050219032-How-to-transfer
 RESOURCE ID: pokemon_home_support_page_url
 TEXT: https://support.pokemon.com/hc/en-us/categories/360001984231-Pok%C3%A9mon-HOME
 
+RESOURCE ID: pokemon_horizons_2026_event_name
+TEXT: TVアニメコラボ2026
+
 RESOURCE ID: pokemon_hungry_notification_toast
 TEXT: {0}が疲れてきたようだ！
 
@@ -83466,6 +83568,47 @@ TEXT: プライバシー
 RESOURCE ID: privacy_policy_update_notice
 TEXT: 新機能および個人情報の取り扱いに関連して、Nianticプライバシーポリシーが更新されましたので、ご確認ください。
 
+RESOURCE ID: private_group_title
+TEXT: プライベートグループ
+
+RESOURCE ID: private_group_pill
+TEXT: プライベート
+
+RESOURCE ID: private_group_change_to_public_title
+TEXT: オープンに変更する
+
+RESOURCE ID: private_group_change_to_public_desc
+TEXT: グループをオープンに変更すると、誰でもバトルに参加できるようになります。変更後、プライベートに戻すことはできません。
+
+本当にオープンにしてもいいですか？
+
+RESOURCE ID: private_group_change_to_public_button
+TEXT: オープンに変更する
+
+RESOURCE ID: private_group_code_intro
+TEXT: グループコード入力でフレンドと一緒にバトル
+
+RESOURCE ID: private_group_code_label
+TEXT: グループコード
+
+RESOURCE ID: private_group_create_button
+TEXT: グループをつくる
+
+RESOURCE ID: private_group_created_title
+TEXT: グループ作成に成功しました！
+
+RESOURCE ID: private_group_entry_button
+TEXT: プライベートグループ
+
+RESOURCE ID: private_group_invalid_code
+TEXT: グループコードが無効です。正しいコードを入力してください。
+
+RESOURCE ID: private_group_join_button
+TEXT: グループに参加
+
+RESOURCE ID: private_group_share_code_message
+TEXT: このグループコードをフレンドに入力してもらうと、一緒にバトルに参加できます。
+
 RESOURCE ID: prof_willow_birthday_2026_title
 TEXT: 博士の誕生日チャレンジ
 
@@ -86447,6 +86590,9 @@ TEXT: ムンバイであなたのイーブイのGOスナップショット写真
 RESOURCE ID: quest_event_eevee_snapshot_munich
 TEXT: ミュンヘンであなたのイーブイのGOスナップショット写真を1枚撮る
 
+RESOURCE ID: quest_event_eevee_snapshot_rdj
+TEXT: リオデジャネイロであなたのイーブイのGOスナップショット写真を1枚撮る
+
 RESOURCE ID: quest_event_eevee_snapshot_riodejaneiro
 TEXT: リオデジャネイロであなたのイーブイのGOスナップショット写真を1枚撮る
 
@@ -86537,6 +86683,9 @@ TEXT: ムンバイのポケストップ・ジム1個を回す
 RESOURCE ID: quest_event_spin_munich
 TEXT: ミュンヘンのポケストップ・ジム1個を回す
 
+RESOURCE ID: quest_event_spin_rdj
+TEXT: リオデジャネイロのポケストップ・ジム1個を回す
+
 RESOURCE ID: quest_event_spin_riodejaneiro
 TEXT: リオデジャネイロのポケストップ・ジム1個を回す
 
@@ -86578,6 +86727,9 @@ TEXT: フシギダネを進化させる
 
 RESOURCE ID: quest_evolve_charmander
 TEXT: ヒトカゲを進化させる
+
+RESOURCE ID: quest_evolve_charmeleon
+TEXT: リザードを進化させる
 
 RESOURCE ID: quest_evolve_chikorita
 TEXT: チコリータを進化させる
@@ -90180,6 +90332,12 @@ TEXT: ほのおタイプのポケモン{0}種類のGOスナップショット写
 RESOURCE ID: quest_snapshot_wild_bug
 TEXT: むしタイプの野生ポケモンのGOスナップショット写真を{0}枚撮る
 
+RESOURCE ID: quest_snapshot_wild_bulbasaur
+TEXT: 野生のフシギダネのGOスナップショット写真を撮る
+
+RESOURCE ID: quest_snapshot_wild_charmander
+TEXT: 野生のヒトカゲのGOスナップショット写真を撮る
+
 RESOURCE ID: quest_snapshot_wild_dark
 TEXT: あくタイプの野生ポケモンのGOスナップショット写真を{0}枚撮る
 
@@ -90222,8 +90380,14 @@ TEXT: 野生のホーホーのGOスナップショット写真を撮る
 RESOURCE ID: quest_snapshot_wild_ice
 TEXT: こおりタイプの野生ポケモンのGOスナップショット写真を{0}枚撮る
 
+RESOURCE ID: quest_snapshot_wild_meowth
+TEXT: 野生のニャースのGOスナップショット写真を撮る
+
 RESOURCE ID: quest_snapshot_wild_normal
 TEXT: ノーマルタイプの野生ポケモンのGOスナップショット写真を{0}枚撮る
+
+RESOURCE ID: quest_snapshot_wild_piakchu
+TEXT: 野生のピカチュウのGOスナップショット写真を撮る
 
 RESOURCE ID: quest_snapshot_wild_plural
 TEXT: 野生ポケモンのGOスナップショット写真を{0}枚撮る
@@ -90234,6 +90398,9 @@ TEXT: どくタイプの野生ポケモンのGOスナップショット写真を
 RESOURCE ID: quest_snapshot_wild_psychic
 TEXT: エスパータイプの野生ポケモンのGOスナップショット写真を{0}枚撮る
 
+RESOURCE ID: quest_snapshot_wild_psyduck
+TEXT: 野生のコダックのGOスナップショット写真を撮る
+
 RESOURCE ID: quest_snapshot_wild_raikou
 TEXT: 野生のライコウのGOスナップショット写真を撮る
 
@@ -90242,6 +90409,9 @@ TEXT: いわタイプの野生ポケモンのGOスナップショット写真を
 
 RESOURCE ID: quest_snapshot_wild_singular
 TEXT: 野生ポケモンのGOスナップショット写真を撮る
+
+RESOURCE ID: quest_snapshot_wild_squirtle
+TEXT: 野生のゼニガメのGOスナップショット写真を撮る
 
 RESOURCE ID: quest_snapshot_wild_steel
 TEXT: はがねタイプの野生ポケモンのGOスナップショット写真を{0}枚撮る
@@ -104955,6 +105125,9 @@ TEXT: ポケストップ{0}個を回す
 RESOURCE ID: quest_visit_pokestops_singular
 TEXT: ポケストップ1個を回す
 
+RESOURCE ID: quest_visit_pokestops_days_plural
+TEXT: ポケストップ・ジムを{0}日にわたって回す
+
 RESOURCE ID: quest_visit_pokestops_party_plural
 TEXT: チーム参加中ポケストップ・ジムを{0}個回す
 
@@ -110413,6 +110586,81 @@ TEXT: レイドバトルで{0}回勝つ
 RESOURCE ID: raidweek_2019_medium_raid
 TEXT: レイドバトルで{0}回勝つ
 
+RESOURCE ID: rally_apac_30_cross_regional_title
+TEXT: PokéXciting!スタンプラリー（アジア）
+
+RESOURCE ID: rally_apac_30_regional_malaysia_title
+TEXT: PokéXciting!スタンプラリー（マレーシア）
+
+RESOURCE ID: rally_apac_30_regional_philippines_title
+TEXT: PokéXciting!スタンプラリー（フィリピン）
+
+RESOURCE ID: rally_apac_30_regional_singapore_title
+TEXT: PokéXciting!スタンプラリー（シンガポール）
+
+RESOURCE ID: rally_apac_30_regional_taiwan_title
+TEXT: PokéXciting!スタンプラリー（台湾）
+
+RESOURCE ID: rally_apac_30_cross_regional_desc
+TEXT: PokéXciting! アジアをお祝いしましょう！
+
+RESOURCE ID: rally_apac_30_cross_regional_desc_detail
+TEXT: PokéXciting! イベント開催地に設けられた指定ポケストップを巡り、スタンプを押しましょう！詳細はスタンプラリーマップでご確認ください。
+
+RESOURCE ID: rally_apac_30_cross_regional_location
+TEXT: アジア
+
+RESOURCE ID: rally_apac_30_cross_regional_rewards_desc
+TEXT: スタンプを集めていくと、ロケーション背景のついた様々な髪色の「PokéXciting!ピカチュウ」と出会えます
+
+RESOURCE ID: rally_apac_30_regional_malaysia_desc
+TEXT: PokéXciting! マレーシアをお祝いしましょう！
+
+RESOURCE ID: rally_apac_30_regional_malaysia_desc_detail
+TEXT: クアラルンプールに設けられた指定ポケストップを巡り、スタンプを押しましょう！詳細はスタンプラリーマップでご確認ください。
+
+RESOURCE ID: rally_apac_30_regional_malaysia_location
+TEXT: クアラルンプール、マレーシア
+
+RESOURCE ID: rally_apac_30_regional_malaysia_reward_desc
+TEXT: スタンプを集めていくと、ロケーション背景のついた「PokéXciting!ピカチュウ（ターコイズ）」と出会えます
+
+RESOURCE ID: rally_apac_30_regional_philippines_desc
+TEXT: PokéXciting! フィリピンをお祝いしましょう！
+
+RESOURCE ID: rally_apac_30_regional_philippines_desc_detail
+TEXT: パサイに設けられた指定ポケストップを巡り、スタンプを押しましょう！詳細はスタンプラリーマップでご確認ください。
+
+RESOURCE ID: rally_apac_30_regional_philippines_location
+TEXT: パサイ、フィリピン
+
+RESOURCE ID: rally_apac_30_regional_philippines_reward_desc
+TEXT: スタンプを集めていくと、ロケーション背景のついた「PokéXciting!ピカチュウ（レッド）」と出会えます
+
+RESOURCE ID: rally_apac_30_regional_singapore_desc
+TEXT: PokéXciting! シンガポールをお祝いしましょう！
+
+RESOURCE ID: rally_apac_30_regional_singapore_desc_detail
+TEXT: シンガポールに設けられた指定ポケストップを巡り、スタンプを押しましょう！詳細はスタンプラリーマップでご確認ください。
+
+RESOURCE ID: rally_apac_30_regional_singapore_location
+TEXT: シンガポール
+
+RESOURCE ID: rally_apac_30_regional_singapore_reward_desc
+TEXT: スタンプを集めていくと、ロケーション背景のついた「PokéXciting!ピカチュウ（ブルー）」と出会えます
+
+RESOURCE ID: rally_apac_30_regional_taiwan_desc
+TEXT: PokéXciting! 台湾をお祝いしましょう！
+
+RESOURCE ID: rally_apac_30_regional_taiwan_desc_detail
+TEXT: 台北に設けられた指定ポケストップを巡り、スタンプを押しましょう！詳細はスタンプラリーマップでご確認ください。
+
+RESOURCE ID: rally_apac_30_regional_taiwan_location
+TEXT: 台北、台湾
+
+RESOURCE ID: rally_apac_30_regional_taiwan_reward_desc
+TEXT: スタンプを集めていくと、ロケーション背景のついた「PokéXciting!ピカチュウ（ピンク）」と出会えます
+
 RESOURCE ID: rally_city_safari_2025_amsterdam_desc
 TEXT: City Safari：アムステルダムへようこそ！
 
@@ -110568,6 +110816,18 @@ TEXT: ミュンヘン、ドイツ
 
 RESOURCE ID: rally_city_safari_2026_munich_rewards_desc_general
 TEXT: 限定ミュンヘンロケーション背景つきイーブイ（サファリ帽をかぶったイーブイ）との出会い
+
+RESOURCE ID: rally_city_safari_2026_rdj_desc
+TEXT: City Safari：リオデジャネイロへようこそ！
+
+RESOURCE ID: rally_city_safari_2026_rdj_desc_detail
+TEXT: リオデジャネイロにあるスタンプラリーポケストップを訪れるとイーブイに出会う（チケット1枚につき最大8回）ことがあります。詳細はスタンプラリーマップでご確認ください。
+
+RESOURCE ID: rally_city_safari_2026_rdj_location
+TEXT: リオデジャネイロ、ブラジル
+
+RESOURCE ID: rally_city_safari_2026_rdj_rewards_desc_general
+TEXT: 限定リオデジャネイロロケーション背景つきイーブイ（サファリ帽をかぶったイーブイ）との出会い
 
 RESOURCE ID: rally_city_safari_2026_riodejaneiro_desc
 TEXT: City Safari：リオデジャネイロへようこそ！
@@ -115026,6 +115286,9 @@ TEXT: CitySafari：マルセイユ2026
 RESOURCE ID: safari_city_2026_munich_title
 TEXT: CitySafari：ミュンヘン2026
 
+RESOURCE ID: safari_city_2026_rdj_title
+TEXT: City Safari：リオデジャネイロ2026
+
 RESOURCE ID: safari_city_2026_riodejaneiro_title
 TEXT: City Safari：リオデジャネイロ2026
 
@@ -115100,6 +115363,9 @@ TEXT: CitySafari：マルセイユ2026(1/3)
 
 RESOURCE ID: safari_city_2026_munich_title_00
 TEXT: CitySafari：ミュンヘン2026(1/3)
+
+RESOURCE ID: safari_city_2026_rdj_title_00
+TEXT: City Safari：リオデジャネイロ2026(1/3)
 
 RESOURCE ID: safari_city_2026_riodejaneiro_title_00
 TEXT: City Safari：リオデジャネイロ2026(1/3)
@@ -115176,6 +115442,9 @@ TEXT: CitySafari：マルセイユ2026(2/3)
 RESOURCE ID: safari_city_2026_munich_title_01
 TEXT: CitySafari：ミュンヘン2026(2/3)
 
+RESOURCE ID: safari_city_2026_rdj_title_01
+TEXT: City Safari：リオデジャネイロ2026(2/3)
+
 RESOURCE ID: safari_city_2026_riodejaneiro_title_01
 TEXT: City Safari：リオデジャネイロ2026(2/3)
 
@@ -115250,6 +115519,9 @@ TEXT: CitySafari：マルセイユ2026(3/3)
 
 RESOURCE ID: safari_city_2026_munich_title_02
 TEXT: CitySafari：ミュンヘン2026(3/3)
+
+RESOURCE ID: safari_city_2026_rdj_title_02
+TEXT: City Safari：リオデジャネイロ2026(3/3)
 
 RESOURCE ID: safari_city_2026_riodejaneiro_title_02
 TEXT: City Safari：リオデジャネイロ2026(3/3)
@@ -116583,6 +116855,9 @@ TEXT: GOパス：空を飛ぶ影
 RESOURCE ID: season_pass_base_track_title_halloween_2025
 TEXT: GOパス：ハロウィン2025
 
+RESOURCE ID: season_pass_base_track_title_horizons_fall_2026
+TEXT: GOパス：コラボセレブレーションイベント
+
 RESOURCE ID: season_pass_base_track_title_mega_squads_2026
 TEXT: GOパス：チームメガ
 
@@ -116745,6 +117020,9 @@ TEXT: 詳細は<a href="https://pokemongo.com/news/flying-taxi-2026">ウェブ�
 RESOURCE ID: season_pass_details_link_halloween_2025
 TEXT: （詳細は<a href="https://pokemongo.com/news/go-pass-halloween-2025">ウェブサイト</a>でご確認ください）
 
+RESOURCE ID: season_pass_details_link_horizons_fall_2026
+TEXT: 詳細は<a href="https://pokemongo.com/news/pokemon-horizons-celebration-event-2026">ウェブサイト</a>でご確認ください
+
 RESOURCE ID: season_pass_details_link_pikachu_celebration_2026
 TEXT: 詳細は<a href="https://pokemongo.com/news/special-anniversary-pikachu-celebration">ウェブサイト</a>でご確認ください
 
@@ -116802,6 +117080,19 @@ RESOURCE ID: season_pass_halloween_2025_upgrade_description
 TEXT: GOパスデラックス：ハロウィン2025を購入すると以下のリワードがアンロックできます！
 
 ・ティータイムポーズ
+・イベントテーマのポケモンとの出会い
+・ふしぎなアメXL
+・その他
+
+RESOURCE ID: season_pass_horizons_fall_2026_event_duration
+TEXT: 9月16日～22日
+
+RESOURCE ID: season_pass_horizons_fall_2026_track_upgrade_header_description
+TEXT: 追加リワードを入手でき、ランク60で<b>イワンコとの出会い</b>をアンロック！
+
+RESOURCE ID: season_pass_horizons_fall_2026_upgrade_description
+TEXT: GOパスデラックス：コラボセレブレーションイベントを購入すると以下のリワードがアンロックできます！
+
 ・イベントテーマのポケモンとの出会い
 ・ふしぎなアメXL
 ・その他
@@ -116999,6 +117290,9 @@ TEXT: GOパスデラックス：キャンデラの戦法探求＋6ランク
 RESOURCE ID: season_pass_premium_track_plus_six_ranks_title_flying_taxi_2026
 TEXT: GOパスデラックス：空を飛ぶ影＋6ランク
 
+RESOURCE ID: season_pass_premium_track_plus_six_ranks_title_horizons_fall_2026
+TEXT: GOパスデラックス：コラボセレブレーションイベント＋6ランク
+
 RESOURCE ID: season_pass_premium_track_plus_six_ranks_title_mega_squads_2026
 TEXT: GOパスデラックス：チームメガ＋6ランク
 
@@ -117134,6 +117428,9 @@ TEXT: GOパスデラックス：空を飛ぶ影
 
 RESOURCE ID: season_pass_premium_track_title_halloween_2025
 TEXT: GOパスデラックス：ハロウィン2025
+
+RESOURCE ID: season_pass_premium_track_title_horizons_fall_2026
+TEXT: GOパスデラックス：コラボセレブレーションイベント
 
 RESOURCE ID: season_pass_premium_track_title_mega_squads_2026
 TEXT: GOパスデラックス：チームメガ
@@ -126140,7 +126437,6 @@ TEXT: <b>もらえるもの：</b>
 ・毎日ジムのフォトディスクを回してもらえるレイドパス上限6枚
 ・ポケストップを回してもらえる10kmタマゴ確率アップ
 ・一日にできる特別な交換計6回と交換に必要なほしのすな減
-・イベント中にふかそうちにセットするタマゴのふか距離半減
 ・ポケモンを捕まえてもらえるアメ2倍
 ・イベント期間中に色違いポケモンに出会いやすい、など
 チケットボーナスについての詳細は <a href="https://pokemongo.com/gowildarea/global">こちら</a>でご確認ください。
@@ -127078,6 +127374,16 @@ TEXT: <b>もらえるもの：</b>
 
 チケットボーナスについての詳細は <a href="https://pokemongo.com/gowildarea/global">こちら</a>でご確認ください。
 
+RESOURCE ID: text_rewards_key_gowa26_out
+TEXT: <b>もらえるもの：</b>
+・毎日ジムのフォトディスクを回してもらえるレイドパス上限6枚
+・ポケストップを回してもらえる10kmタマゴ確率アップ
+・一日にできる特別な交換計6回と交換に必要なほしのすな減
+・イベント中にふかそうちにセットするタマゴのふか距離半減
+・ポケモンを捕まえてもらえるアメ2倍
+・イベント期間中に色違いポケモンに出会いやすい、など
+チケットボーナスについての詳細は <a href="https://pokemongo.com/gowildarea/global">こちら</a>でご確認ください。
+
 RESOURCE ID: text_rewards_key_harvestfestival_oct25
 TEXT: <b>もらえるもの：</b>
 ・カジッチュとの出会い
@@ -127513,6 +127819,9 @@ TEXT: セビエコミュニティ・デイスペシャルリサーチのチケ�
 
 RESOURCE ID: ticket_fuecoco_cd
 TEXT: 「ほのおワニポケモンを解明せよ！」スペシャルリサーチのチケットがショップに登場
+
+RESOURCE ID: ticket_gible_cd
+TEXT: フカマルコミュニティ・デイ復刻スペシャルリサーチのチケットがショップに登場
 
 RESOURCE ID: ticket_glide_victory_tr
 TEXT: 「勝利の滑空」タイムチャレンジチケットがショップに登場
@@ -128982,6 +129291,186 @@ TEXT: 計{0}個
 
 RESOURCE ID: tr_npb2026
 TEXT: プレイボール！ボーナスタイムチャレンジ
+
+RESOURCE ID: tr_30thapac_eventfocus_2026_header_0_my
+TEXT:  マレーシアでPokéXciting！タイムチャレンジ(1/3)
+
+RESOURCE ID: tr_30thapac_eventfocus_2026_header_0_ph
+TEXT: フィリピンでPokéXciting！タイムチャレンジ(1/3)
+
+RESOURCE ID: tr_30thapac_eventfocus_2026_header_0_sg
+TEXT: シンガポールでPokéXciting！タイムチャレンジ(1/3)
+
+RESOURCE ID: tr_30thapac_eventfocus_2026_header_0_tw
+TEXT: 台湾でPokéXciting！タイムチャレンジ(1/3)
+
+RESOURCE ID: tr_30thapac_eventfocus_2026_header_1_my
+TEXT:  マレーシアでPokéXciting！タイムチャレンジ(2/3)
+
+RESOURCE ID: tr_30thapac_eventfocus_2026_header_1_ph
+TEXT: フィリピンでPokéXciting！タイムチャレンジ(2/3)
+
+RESOURCE ID: tr_30thapac_eventfocus_2026_header_1_sg
+TEXT: シンガポールでPokéXciting！タイムチャレンジ(2/3)
+
+RESOURCE ID: tr_30thapac_eventfocus_2026_header_1_tw
+TEXT: 台湾でPokéXciting！タイムチャレンジ(2/3)
+
+RESOURCE ID: tr_30thapac_eventfocus_2026_header_2_my
+TEXT:  マレーシアでPokéXciting！タイムチャレンジ(3/3)
+
+RESOURCE ID: tr_30thapac_eventfocus_2026_header_2_ph
+TEXT: フィリピンでPokéXciting！タイムチャレンジ(3/3)
+
+RESOURCE ID: tr_30thapac_eventfocus_2026_header_2_sg
+TEXT: シンガポールでPokéXciting！タイムチャレンジ(3/3)
+
+RESOURCE ID: tr_30thapac_eventfocus_2026_header_2_tw
+TEXT: 台湾でPokéXciting！タイムチャレンジ(3/3)
+
+RESOURCE ID: tr_30thapac_eventfocus_2026_header_my
+TEXT:  マレーシアでPokéXciting！タイムチャレンジ
+
+RESOURCE ID: tr_30thapac_eventfocus_2026_header_ph
+TEXT: フィリピンでPokéXciting！タイムチャレンジ
+
+RESOURCE ID: tr_30thapac_eventfocus_2026_header_sg
+TEXT: シンガポールでPokéXciting！タイムチャレンジ
+
+RESOURCE ID: tr_30thapac_eventfocus_2026_header_tw
+TEXT: 台湾でPokéXciting！タイムチャレンジ
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_0_my
+TEXT:  マレーシアでPokéXciting！30年の歩みタイムチャレンジ(1/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_0_ph
+TEXT: フィリピンでPokéXciting！30年の歩みタイムチャレンジ(1/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_0_sg
+TEXT: シンガポールでPokéXciting！30年の歩みタイムチャレンジ(1/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_0_tw
+TEXT: 台湾でPokéXciting！30年の歩みタイムチャレンジ(1/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_1_my
+TEXT:  マレーシアでPokéXciting！30年の歩みタイムチャレンジ(2/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_1_ph
+TEXT: フィリピンでPokéXciting！30年の歩みタイムチャレンジ(2/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_1_sg
+TEXT: シンガポールでPokéXciting！30年の歩みタイムチャレンジ(2/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_1_tw
+TEXT: 台湾でPokéXciting！30年の歩みタイムチャレンジ(2/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_2_my
+TEXT:  マレーシアでPokéXciting！30年の歩みタイムチャレンジ(3/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_2_ph
+TEXT: フィリピンでPokéXciting！30年の歩みタイムチャレンジ(3/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_2_sg
+TEXT: シンガポールでPokéXciting！30年の歩みタイムチャレンジ(3/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_2_tw
+TEXT: 台湾でPokéXciting！30年の歩みタイムチャレンジ(3/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_3_my
+TEXT:  マレーシアでPokéXciting！30年の歩みタイムチャレンジ(4/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_3_ph
+TEXT: フィリピンでPokéXciting！30年の歩みタイムチャレンジ(4/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_3_sg
+TEXT: シンガポールでPokéXciting！30年の歩みタイムチャレンジ(4/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_3_tw
+TEXT: 台湾でPokéXciting！30年の歩みタイムチャレンジ(4/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_4_my
+TEXT:  マレーシアでPokéXciting！30年の歩みタイムチャレンジ(5/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_4_ph
+TEXT: フィリピンでPokéXciting！30年の歩みタイムチャレンジ(5/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_4_sg
+TEXT: シンガポールでPokéXciting！30年の歩みタイムチャレンジ(5/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_4_tw
+TEXT: 台湾でPokéXciting！30年の歩みタイムチャレンジ(5/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_5_my
+TEXT:  マレーシアでPokéXciting！30年の歩みタイムチャレンジ(6/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_5_ph
+TEXT: フィリピンでPokéXciting！30年の歩みタイムチャレンジ(6/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_5_sg
+TEXT: シンガポールでPokéXciting！30年の歩みタイムチャレンジ(6/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_5_tw
+TEXT: 台湾でPokéXciting！30年の歩みタイムチャレンジ(6/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_6_my
+TEXT:  マレーシアでPokéXciting！30年の歩みタイムチャレンジ(7/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_6_ph
+TEXT: フィリピンでPokéXciting！30年の歩みタイムチャレンジ(7/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_6_sg
+TEXT: シンガポールでPokéXciting！30年の歩みタイムチャレンジ(7/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_6_tw
+TEXT: 台湾でPokéXciting！30年の歩みタイムチャレンジ(7/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_7_my
+TEXT:  マレーシアでPokéXciting！30年の歩みタイムチャレンジ(8/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_7_ph
+TEXT: フィリピンでPokéXciting！30年の歩みタイムチャレンジ(8/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_7_sg
+TEXT: シンガポールでPokéXciting！30年の歩みタイムチャレンジ(8/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_7_tw
+TEXT: 台湾でPokéXciting！30年の歩みタイムチャレンジ(8/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_8_my
+TEXT:  マレーシアでPokéXciting！30年の歩みタイムチャレンジ(9/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_8_ph
+TEXT: フィリピンでPokéXciting！30年の歩みタイムチャレンジ(9/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_8_sg
+TEXT: シンガポールでPokéXciting！30年の歩みタイムチャレンジ(9/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_8_tw
+TEXT: 台湾でPokéXciting！30年の歩みタイムチャレンジ(9/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_9_my
+TEXT:  マレーシアでPokéXciting！30年の歩みタイムチャレンジ(10/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_9_ph
+TEXT: フィリピンでPokéXciting！30年の歩みタイムチャレンジ(10/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_9_sg
+TEXT: シンガポールでPokéXciting！30年の歩みタイムチャレンジ(10/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_9_tw
+TEXT: 台湾でPokéXciting！30年の歩みタイムチャレンジ(10/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_my
+TEXT:  マレーシアでPokéXciting！30年の歩みタイムチャレンジ
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_ph
+TEXT: フィリピンでPokéXciting！30年の歩みタイムチャレンジ
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_sg
+TEXT: シンガポールでPokéXciting！30年の歩みタイムチャレンジ
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_tw
+TEXT: 台湾でPokéXciting！30年の歩みタイムチャレンジ
 
 RESOURCE ID: tr_151_challenge
 TEXT: 151チャレンジ
@@ -131971,6 +132460,9 @@ TEXT: 特別な交換2回追加
 
 RESOURCE ID: trade_special_in_pokedex
 TEXT: 図鑑に登録済みの伝説および色違いのポケモン
+
+RESOURCE ID: trade_special_total_3
+TEXT: 一日にできる特別な交換計3回
 
 RESOURCE ID: trade_stardust_half
 TEXT: 1/2　交換に必要なほしのすな

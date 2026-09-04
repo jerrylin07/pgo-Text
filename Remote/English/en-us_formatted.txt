@@ -82,6 +82,18 @@ TEXT: 10th Anniversary Party Premium Timed Research
 RESOURCE ID: 30th_anniversary_all_out_event_name
 TEXT: Pokémon 30th Anniversary: All Out
 
+RESOURCE ID: 30th_anniversary_apac_event_name_malaysia
+TEXT: PokéXciting! Malaysia: Join the Biggest Pokémon Party Ever!
+
+RESOURCE ID: 30th_anniversary_apac_event_name_phillipine
+TEXT: PokéXciting! The Philippines: Join the Biggest Pokémon Party Ever!
+
+RESOURCE ID: 30th_anniversary_apac_event_name_sg
+TEXT: PokéXciting! Singapore: Join the Biggest Pokémon Party Ever!
+
+RESOURCE ID: 30th_anniversary_apac_event_name_tw
+TEXT: PokéXciting! Taiwan: Join the Biggest Pokémon Party Ever!
+
 RESOURCE ID: 30th_anniversary_event_name
 TEXT: Pokémon 30th Anniversary
 
@@ -13496,6 +13508,27 @@ TEXT: Pokémon GO City Safari
 RESOURCE ID: badge_safari_2026_munich_day_02_title
 TEXT: Pokémon GO City Safari
 
+RESOURCE ID: badge_safari_2026_rdj_add_on_hatch_test_title
+TEXT: Pokémon GO City Safari—Egg-thusiast
+
+RESOURCE ID: badge_safari_2026_rdj_add_on_hatch_title
+TEXT: Pokémon GO City Safari—Egg-thusiast
+
+RESOURCE ID: badge_safari_2026_rdj_add_on_raid_test_title
+TEXT: Pokémon GO City Safari—Raid Lover
+
+RESOURCE ID: badge_safari_2026_rdj_add_on_raid_title
+TEXT: Pokémon GO City Safari—Raid Lover
+
+RESOURCE ID: badge_safari_2026_rdj_day_00_title
+TEXT: Pokémon GO City Safari
+
+RESOURCE ID: badge_safari_2026_rdj_day_01_title
+TEXT: Pokémon GO City Safari
+
+RESOURCE ID: badge_safari_2026_rdj_day_02_title
+TEXT: Pokémon GO City Safari
+
 RESOURCE ID: badge_safari_2026_riodejaneiro_add_on_hatch_test_title
 TEXT: Pokémon GO City Safari—Egg-thusiast
 
@@ -14095,6 +14128,27 @@ TEXT: Munich, September 26, 2026
 
 RESOURCE ID: badge_safari_2026_munich_day_02
 TEXT: Munich, September 27, 2026
+
+RESOURCE ID: badge_safari_2026_rdj_add_on_hatch
+TEXT: Rio de Janeiro 2026
+
+RESOURCE ID: badge_safari_2026_rdj_add_on_hatch_test
+TEXT: Rio de Janeiro 2026
+
+RESOURCE ID: badge_safari_2026_rdj_add_on_raid
+TEXT: Rio de Janeiro 2026
+
+RESOURCE ID: badge_safari_2026_rdj_add_on_raid_test
+TEXT: Rio de Janeiro 2026
+
+RESOURCE ID: badge_safari_2026_rdj_day_00
+TEXT: Rio de Janeiro 2026
+
+RESOURCE ID: badge_safari_2026_rdj_day_01
+TEXT: Rio de Janeiro, September 26, 2026
+
+RESOURCE ID: badge_safari_2026_rdj_day_02
+TEXT: Rio de Janeiro, September 27, 2026
 
 RESOURCE ID: badge_safari_2026_riodejaneiro_add_on_hatch
 TEXT: Rio de Janeiro 2026
@@ -18257,6 +18311,9 @@ TEXT: Highly increased chance of obtaining 10 km Eggs from spinning PokéStops o
 RESOURCE ID: bonus_10x_catch_xp
 TEXT: 10× Catch XP
 
+RESOURCE ID: bonus_30thapac_gmax
+TEXT: The Gigantamax forms of Charizard, Venusaur, and Blastoise are appearing in Max Battles
+
 RESOURCE ID: bonus_1000_xp_ub_raid
 TEXT: +1000 XP for successful completion of an Ultra Beast raid
 
@@ -18418,6 +18475,9 @@ TEXT: Evolve Frogadier to get a Greninja that knows the Charged Attack Hydro Can
 
 RESOURCE ID: bonus_cd_move_fuecoco
 TEXT: Evolve Crocalor to get a Skeledirge that knows the Charged Attack Blast Burn!
+
+RESOURCE ID: bonus_cd_move_gible
+TEXT: Evolve Gabite to get a Garchomp that knows the Charged Attack Earth Power!
 
 RESOURCE ID: bonus_cd_move_goomy
 TEXT: Evolve Sliggoo to get a Goodra that knows the Charged Attack Thunder Punch!
@@ -19188,6 +19248,9 @@ TEXT: Mega Aerodactyl appearing locally in special raids
 RESOURCE ID: bonus_mega_cp_boost
 TEXT: Boosted CP for all Mega-Evolved Pokémon
 
+RESOURCE ID: bonus_mega_energy_gible
+TEXT: Earn 300 Garchomp Mega Energy by completing the Gible Collection Challenge
+
 RESOURCE ID: bonus_mega_energy_spin_chance
 TEXT: Chance of receiving Mega Energy from spinning PokéStops or Gyms
 
@@ -19301,6 +19364,9 @@ TEXT: Daily surprise encounters in GO Snapshot with Pikachu wearing the followin
 
 RESOURCE ID: bonus_pikachu_10th_anniversary_costume
 TEXT: Professor Willow’s assistant Pikachu are appearing in raids and Timed Research
+
+RESOURCE ID: bonus_pikachu_30thapac
+TEXT: PokéXciting! Pikachu are appearing in the wild, event-related Timed Research, and GO Snapshot surprise encounters
 
 RESOURCE ID: bonus_pikachu_npb_costume
 TEXT: Pikachu wearing a baseball jersey are now appearing in raids and Timed Research
@@ -20912,8 +20978,14 @@ TEXT: Get an attack bonus based on how many Pokémon are placed at the Power Spo
 RESOURCE ID: bread_lobby_attack_multiplier_dialog_title
 TEXT: Attack Bonus
 
+RESOURCE ID: bread_lobby_countdown_to_battle_start
+TEXT: Countdown to the Max Battle start
+
 RESOURCE ID: bread_lobby_error_battle_completed
 TEXT: You have already battled at this Power Spot.
+
+RESOURCE ID: bread_lobby_error_failed_to_create_battle
+TEXT: Could not join the Max Battle. Please try again later.
 
 RESOURCE ID: bread_lobby_error_friend_details_unavailable
 TEXT: Something went wrong when sending this invite. Please try again.
@@ -21095,6 +21167,21 @@ TEXT: Do you want to run away?
 
 RESOURCE ID: bread_post_battle_encounter_run_away_description
 TEXT: If you run away, you won’t be able to catch this Pokémon.
+
+RESOURCE ID: bread_private_lobby_error_unavailable
+TEXT: Private groups are currently unavailable. Please try again later.
+
+RESOURCE ID: bread_private_lobby_error_flip_unavailable
+TEXT: The group could not be changed to public.
+
+RESOURCE ID: bread_private_lobby_error_limit_reached
+TEXT: The maximum number of private groups for this Max Battle has been reached.
+
+RESOURCE ID: bread_private_lobby_error_not_creator
+TEXT: Only the Trainer who created this group can change it to public.
+
+RESOURCE ID: bread_private_lobby_error_not_found
+TEXT: This group could not be found. The code may be incorrect, or the group may no longer be available.
 
 RESOURCE ID: bread_release_title
 TEXT: Do you want {0} to return?
@@ -31793,6 +31880,9 @@ TEXT: Eevee Explorers – Mumbai (1/1)
 RESOURCE ID: eevee_explorers_munich_title
 TEXT: Eevee Explorers – Munich Stamp Rally
 
+RESOURCE ID: eevee_explorers_rdj_title
+TEXT: Eevee Explorers – Rio de Janeiro Stamp Rally
+
 RESOURCE ID: eevee_explorers_riodejaneiro_title
 TEXT: Eevee Explorers – Rio de Janeiro Stamp Rally
 
@@ -34792,6 +34882,9 @@ TEXT: Awarded at Rank 30
 
 RESOURCE ID: event_pass_premium_reward_banner_bottom_text_02
 TEXT: Awarded at Rank 40
+
+RESOURCE ID: event_pass_premium_reward_banner_bottom_text_25
+TEXT: Awarded at Rank 25
 
 RESOURCE ID: event_pass_premium_reward_banner_bottom_text_30anniv_2026
 TEXT: Awarded at Rank 79
@@ -41180,6 +41273,9 @@ TEXT: Something went wrong. Please try again.
 
 RESOURCE ID: general_submit_an_appeal
 TEXT: Submit an Appeal
+
+RESOURCE ID: general_supply_balloon_30thapac
+TEXT: A Supply Balloon will appear every hour. Tap it to get items for the party!
 
 RESOURCE ID: general_total_caps
 TEXT: TOTAL
@@ -51220,6 +51316,9 @@ TEXT: 2× Hatch XP
 
 RESOURCE ID: hatch_xp_triple
 TEXT: 3× Hatch XP
+
+RESOURCE ID: hatenna_wattrel_stardust_catch
+TEXT: Hatenna and Wattrel award additional Stardust when caught
 
 RESOURCE ID: heal_all_button
 TEXT: Heal All
@@ -61743,10 +61842,10 @@ at SHA 4d4f3e80cc7fb911006bd14d198c9831ef66d005
 Pipeline 339838, job 2672172
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-09-02T02:46:00.003808+00:00 for en-US
-at SHA c548b2d4c69
-Pipeline 3914795, job 57587942
-Patch from: 0.427.0-SHA-bafb3348-RC1, 0.427.1-SHA-4a569ba7-RC1, 0.429.0-SHA-d6c796f0-RC1
+TEXT: Built at 2026-09-04T06:18:32.891802+00:00 for en-US
+at SHA 75c193b8ad4
+Pipeline 3921469, job 57699227
+Patch from: 0.427.0-SHA-fc729f25-RC2, 0.427.1-SHA-4a569ba7-RC1, 0.429.0-SHA-d6c796f0-RC1
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: Timed Research: Choose Your Fighting Type
@@ -77897,6 +77996,9 @@ TEXT: https://support.pokemon.com/hc/en-us/articles/360050219032-How-to-transfer
 RESOURCE ID: pokemon_home_support_page_url
 TEXT: https://support.pokemon.com/hc/en-us/categories/360001984231-Pok%C3%A9mon-HOME
 
+RESOURCE ID: pokemon_horizons_2026_event_name
+TEXT: Pokémon Horizons: The Series Celebration Event 2026
+
 RESOURCE ID: pokemon_hungry_notification_toast
 TEXT: {0} needs a treat!
 
@@ -83059,6 +83161,47 @@ TEXT: Privacy
 RESOURCE ID: privacy_policy_update_notice
 TEXT: Please review the updated Niantic Privacy Policy for additional information about new product features and how we process personal data.
 
+RESOURCE ID: private_group_title
+TEXT: Private Group
+
+RESOURCE ID: private_group_pill
+TEXT: PRIVATE
+
+RESOURCE ID: private_group_change_to_public_title
+TEXT: Change to Public
+
+RESOURCE ID: private_group_change_to_public_desc
+TEXT: If you change this group to public, anyone can join and battle with you. Once you change to public, your group cannot be made private again.
+
+Are you sure you want to change to a public group?
+
+RESOURCE ID: private_group_change_to_public_button
+TEXT: CHANGE TO PUBLIC
+
+RESOURCE ID: private_group_code_intro
+TEXT: Battle together with friends by entering their group code.
+
+RESOURCE ID: private_group_code_label
+TEXT: GROUP CODE
+
+RESOURCE ID: private_group_create_button
+TEXT: Create Group
+
+RESOURCE ID: private_group_created_title
+TEXT: Successfully created a group!
+
+RESOURCE ID: private_group_entry_button
+TEXT: PRIVATE GROUP
+
+RESOURCE ID: private_group_invalid_code
+TEXT: This group code is invalid. Please enter a valid code.
+
+RESOURCE ID: private_group_join_button
+TEXT: Join Group
+
+RESOURCE ID: private_group_share_code_message
+TEXT: Share this group code with your friends. They can join you by entering this group code.
+
 RESOURCE ID: prof_willow_birthday_2026_title
 TEXT: Willow’s Birthday Research
 
@@ -86037,6 +86180,9 @@ TEXT: Take a Snapshot of your Eevee in Mumbai
 RESOURCE ID: quest_event_eevee_snapshot_munich
 TEXT: Take a snapshot of your Eevee in Munich
 
+RESOURCE ID: quest_event_eevee_snapshot_rdj
+TEXT: Take a snapshot of your Eevee in Rio de Janeiro
+
 RESOURCE ID: quest_event_eevee_snapshot_riodejaneiro
 TEXT: Take a snapshot of your Eevee in Rio de Janeiro
 
@@ -86127,6 +86273,9 @@ TEXT: Spin a PokéStop or Gym in Mumbai
 RESOURCE ID: quest_event_spin_munich
 TEXT: Spin a PokéStop or Gym in Munich
 
+RESOURCE ID: quest_event_spin_rdj
+TEXT: Spin a PokéStop or Gym in Rio de Janeiro
+
 RESOURCE ID: quest_event_spin_riodejaneiro
 TEXT: Spin a PokéStop or Gym in Rio de Janeiro
 
@@ -86168,6 +86317,9 @@ TEXT: Evolve a Bulbasaur
 
 RESOURCE ID: quest_evolve_charmander
 TEXT: Evolve a Charmander
+
+RESOURCE ID: quest_evolve_charmeleon
+TEXT: Evolve a Charmeleon
 
 RESOURCE ID: quest_evolve_chikorita
 TEXT: Evolve your Chikorita
@@ -89769,6 +89921,12 @@ TEXT: Take snapshots of {0} different Fire-type Pokémon
 RESOURCE ID: quest_snapshot_wild_bug
 TEXT: Take {0} Snapshots of Wild Bug-type Pokémon
 
+RESOURCE ID: quest_snapshot_wild_bulbasaur
+TEXT: Take a snapshot of Bulbasaur in the wild
+
+RESOURCE ID: quest_snapshot_wild_charmander
+TEXT: Take a snapshot of Charmander in the wild
+
 RESOURCE ID: quest_snapshot_wild_dark
 TEXT: Take {0} Snapshots of Wild Dark-type Pokémon
 
@@ -89811,8 +89969,14 @@ TEXT: Take a snapshot of Hoothoot in the wild
 RESOURCE ID: quest_snapshot_wild_ice
 TEXT: Take {0} Snapshots of Wild Ice-type Pokémon
 
+RESOURCE ID: quest_snapshot_wild_meowth
+TEXT: Take a snapshot of Meowth in the wild
+
 RESOURCE ID: quest_snapshot_wild_normal
 TEXT: Take {0} Snapshots of Wild Normal-type Pokémon
+
+RESOURCE ID: quest_snapshot_wild_piakchu
+TEXT: Take a snapshot of Pikachu in the wild
 
 RESOURCE ID: quest_snapshot_wild_plural
 TEXT: Take {0} snapshots of wild Pokémon
@@ -89823,6 +89987,9 @@ TEXT: Take {0} Snapshots of Wild Poison-type Pokémon
 RESOURCE ID: quest_snapshot_wild_psychic
 TEXT: Take {0} Snapshots of Wild Psychic-type Pokémon
 
+RESOURCE ID: quest_snapshot_wild_psyduck
+TEXT: Take a snapshot of Psyduck in the wild
+
 RESOURCE ID: quest_snapshot_wild_raikou
 TEXT: Take a snapshot of Raikou in the wild
 
@@ -89831,6 +89998,9 @@ TEXT: Take {0} Snapshots of Wild Rock-type Pokémon
 
 RESOURCE ID: quest_snapshot_wild_singular
 TEXT: Take a snapshot of a wild Pokémon
+
+RESOURCE ID: quest_snapshot_wild_squirtle
+TEXT: Take a snapshot of Squirtle in the wild
 
 RESOURCE ID: quest_snapshot_wild_steel
 TEXT: Take {0} Snapshots of Wild Steel-type Pokémon
@@ -104594,6 +104764,9 @@ TEXT: Spin {0} PokéStops or Gyms
 RESOURCE ID: quest_visit_pokestops_singular
 TEXT: Spin a PokéStop or Gym
 
+RESOURCE ID: quest_visit_pokestops_days_plural
+TEXT: Spin a PokéStop or Gym on {0} different days
+
 RESOURCE ID: quest_visit_pokestops_party_plural
 TEXT: Spin {0} PokéStops or Gyms while in a party
 
@@ -110045,6 +110218,81 @@ TEXT: Win {0} raids
 RESOURCE ID: raidweek_2019_medium_raid
 TEXT: Win {0} raids
 
+RESOURCE ID: rally_apac_30_cross_regional_title
+TEXT: PokéXciting! Stamp Rally – Asia-Pacific
+
+RESOURCE ID: rally_apac_30_regional_malaysia_title
+TEXT: PokéXciting! Stamp Rally – Malaysia
+
+RESOURCE ID: rally_apac_30_regional_philippines_title
+TEXT: PokéXciting! Stamp Rally – The Philippines
+
+RESOURCE ID: rally_apac_30_regional_singapore_title
+TEXT: PokéXciting! Stamp Rally – Singapore
+
+RESOURCE ID: rally_apac_30_regional_taiwan_title
+TEXT: PokéXciting! Stamp Rally – Taiwan
+
+RESOURCE ID: rally_apac_30_cross_regional_desc
+TEXT: Celebrate PokéXciting! in the Asia-Pacific region!
+
+RESOURCE ID: rally_apac_30_cross_regional_desc_detail
+TEXT: Encounter PokéXciting! Pikachu by visiting special PokéStops across the Asia-Pacific region. See the map for more details.
+
+RESOURCE ID: rally_apac_30_cross_regional_location
+TEXT: Asia-Pacific Region
+
+RESOURCE ID: rally_apac_30_cross_regional_rewards_desc
+TEXT: Explore the Asia-Pacific region to encounter different colors of PokéXciting! Pikachu, featuring exclusive city Location Backgrounds.
+
+RESOURCE ID: rally_apac_30_regional_malaysia_desc
+TEXT: Celebrate PokéXciting! in Malaysia!
+
+RESOURCE ID: rally_apac_30_regional_malaysia_desc_detail
+TEXT: Encounter PokéXciting! Pikachu by visiting special PokéStops around Kuala Lumpur. See the map for more details.
+
+RESOURCE ID: rally_apac_30_regional_malaysia_location
+TEXT: Kuala Lumpur, Malaysia
+
+RESOURCE ID: rally_apac_30_regional_malaysia_reward_desc
+TEXT: Explore Kuala Lumpur to encounter PokéXciting! Pikachu (Turquoise), featuring an exclusive Kuala Lumpur Location Background.
+
+RESOURCE ID: rally_apac_30_regional_philippines_desc
+TEXT: Celebrate PokéXciting! in the Philippines!
+
+RESOURCE ID: rally_apac_30_regional_philippines_desc_detail
+TEXT: Encounter PokéXciting! Pikachu by visiting special PokéStops around Pasay City. See the map for more details.
+
+RESOURCE ID: rally_apac_30_regional_philippines_location
+TEXT: Pasay City, Philippines
+
+RESOURCE ID: rally_apac_30_regional_philippines_reward_desc
+TEXT: Explore Pasay City to encounter PokéXciting! Pikachu (Red), featuring an exclusive Pasay City Location Background.
+
+RESOURCE ID: rally_apac_30_regional_singapore_desc
+TEXT: Celebrate PokéXciting! in Singapore!
+
+RESOURCE ID: rally_apac_30_regional_singapore_desc_detail
+TEXT: Encounter PokéXciting! Pikachu by visiting special PokéStops around Singapore. See the map for more details.
+
+RESOURCE ID: rally_apac_30_regional_singapore_location
+TEXT: Singapore
+
+RESOURCE ID: rally_apac_30_regional_singapore_reward_desc
+TEXT: Explore Singapore to encounter PokéXciting! Pikachu (Blue), featuring an exclusive Singapore Location Background.
+
+RESOURCE ID: rally_apac_30_regional_taiwan_desc
+TEXT: Celebrate PokéXciting! in Taiwan!
+
+RESOURCE ID: rally_apac_30_regional_taiwan_desc_detail
+TEXT: Encounter PokéXciting! Pikachu by visiting special PokéStops around Taipei. See the map for more details.
+
+RESOURCE ID: rally_apac_30_regional_taiwan_location
+TEXT: Taipei, Taiwan
+
+RESOURCE ID: rally_apac_30_regional_taiwan_reward_desc
+TEXT: Explore Taipei to encounter PokéXciting! Pikachu (Pink), featuring an exclusive Taipei Location Background.
+
 RESOURCE ID: rally_city_safari_2025_amsterdam_desc
 TEXT: Welcome to City Safari: Amsterdam!
 
@@ -110200,6 +110448,18 @@ TEXT: Munich, Germany
 
 RESOURCE ID: rally_city_safari_2026_munich_rewards_desc_general
 TEXT: Explore the city to encounter Eevee wearing an explorer hat, featuring an exclusive Munich Location Background.
+
+RESOURCE ID: rally_city_safari_2026_rdj_desc
+TEXT: Welcome to City Safari: Rio de Janeiro!
+
+RESOURCE ID: rally_city_safari_2026_rdj_desc_detail
+TEXT: Encounter up to eight Eevee per ticketed event day by visiting special PokéStops around the Rio de Janeiro. See the map for more details.
+
+RESOURCE ID: rally_city_safari_2026_rdj_location
+TEXT: Rio de Janeiro, Brazil
+
+RESOURCE ID: rally_city_safari_2026_rdj_rewards_desc_general
+TEXT: Explore the city to encounter Eevee wearing an explorer hat, featuring an exclusive Rio de Janeiro Location Background.
 
 RESOURCE ID: rally_city_safari_2026_riodejaneiro_desc
 TEXT: Welcome to City Safari: Rio de Janeiro!
@@ -114647,6 +114907,9 @@ TEXT: City Safari: Marseille 2026
 RESOURCE ID: safari_city_2026_munich_title
 TEXT: City Safari: Munich 2026
 
+RESOURCE ID: safari_city_2026_rdj_title
+TEXT: City Safari: Rio de Janeiro 2026
+
 RESOURCE ID: safari_city_2026_riodejaneiro_title
 TEXT: City Safari: Rio de Janeiro 2026
 
@@ -114721,6 +114984,9 @@ TEXT: City Safari: Marseille 2026 (1/3)
 
 RESOURCE ID: safari_city_2026_munich_title_00
 TEXT: City Safari: Munich 2026 (1/3)
+
+RESOURCE ID: safari_city_2026_rdj_title_00
+TEXT: City Safari: Rio de Janeiro 2026 (1/3)
 
 RESOURCE ID: safari_city_2026_riodejaneiro_title_00
 TEXT: City Safari: Rio de Janeiro 2026 (1/3)
@@ -114797,6 +115063,9 @@ TEXT: City Safari: Marseille 2026 (2/3)
 RESOURCE ID: safari_city_2026_munich_title_01
 TEXT: City Safari: Munich 2026 (2/3)
 
+RESOURCE ID: safari_city_2026_rdj_title_01
+TEXT: City Safari: Rio de Janeiro 2026 (2/3)
+
 RESOURCE ID: safari_city_2026_riodejaneiro_title_01
 TEXT: City Safari: Rio de Janeiro 2026 (2/3)
 
@@ -114871,6 +115140,9 @@ TEXT: City Safari: Marseille 2026 (3/3)
 
 RESOURCE ID: safari_city_2026_munich_title_02
 TEXT: City Safari: Munich 2026 (3/3)
+
+RESOURCE ID: safari_city_2026_rdj_title_02
+TEXT: City Safari: Rio de Janeiro 2026 (3/3)
 
 RESOURCE ID: safari_city_2026_riodejaneiro_title_02
 TEXT: City Safari: Rio de Janeiro 2026 (3/3)
@@ -116198,6 +116470,9 @@ TEXT: GO Pass: Flying Taxi
 RESOURCE ID: season_pass_base_track_title_halloween_2025
 TEXT: GO Pass: Halloween 2025
 
+RESOURCE ID: season_pass_base_track_title_horizons_fall_2026
+TEXT: GO Pass: Collaboration Celebration Event
+
 RESOURCE ID: season_pass_base_track_title_mega_squads_2026
 TEXT: GO Pass: Mega Squads
 
@@ -116360,6 +116635,9 @@ TEXT: For more details, visit the <a href="https://pokemongo.com/news/flying-tax
 RESOURCE ID: season_pass_details_link_halloween_2025
 TEXT: For more details, visit the <a href="https://pokemongo.com/news/go-pass-halloween-2025">website</a>.
 
+RESOURCE ID: season_pass_details_link_horizons_fall_2026
+TEXT: For more details, visit the <a href="https://pokemongo.com/news/pokemon-horizons-celebration-event-2026">website</a>.
+
 RESOURCE ID: season_pass_details_link_pikachu_celebration_2026
 TEXT: For more details, visit the <a href="https://pokemongo.com/news/special-anniversary-pikachu-celebration">website</a>.
 
@@ -116418,6 +116696,19 @@ TEXT: Purchase GO Pass Deluxe: Halloween 2025 to unlock the following rewards!
 
 • Teatime Pose
 • Encounters with event-themed Pokémon
+• Rare Candy XL
+• And much more!
+
+RESOURCE ID: season_pass_horizons_fall_2026_event_duration
+TEXT: September 16 – September 22
+
+RESOURCE ID: season_pass_horizons_fall_2026_track_upgrade_header_description
+TEXT: Earn additional rewards and unlock <b>an encounter with Rockruff</b> at Rank 60!
+
+RESOURCE ID: season_pass_horizons_fall_2026_upgrade_description
+TEXT: Purchase GO Pass Deluxe: Collaboration Celebration Event to unlock the following rewards!
+
+ • Encounters with event-themed Pokémon
 • Rare Candy XL
 • And much more!
 
@@ -116613,6 +116904,9 @@ TEXT: GO Pass Deluxe: Candela’s Quest for Victory + 6 Ranks
 RESOURCE ID: season_pass_premium_track_plus_six_ranks_title_flying_taxi_2026
 TEXT: GO Pass Deluxe: Flying Taxi + 6 Ranks
 
+RESOURCE ID: season_pass_premium_track_plus_six_ranks_title_horizons_fall_2026
+TEXT: GO Pass Deluxe: Collaboration Celebration Event + 6 Ranks
+
 RESOURCE ID: season_pass_premium_track_plus_six_ranks_title_mega_squads_2026
 TEXT: GO Pass Deluxe: Mega Squads + 6 Ranks
 
@@ -116747,6 +117041,9 @@ TEXT: GO Pass Deluxe: Flying Taxi
 
 RESOURCE ID: season_pass_premium_track_title_halloween_2025
 TEXT: GO Pass Deluxe: Halloween 2025
+
+RESOURCE ID: season_pass_premium_track_title_horizons_fall_2026
+TEXT: GO Pass Deluxe: Collaboration Celebration Event
 
 RESOURCE ID: season_pass_premium_track_title_mega_squads_2026
 TEXT: GO Pass Deluxe: Mega Squads
@@ -119085,7 +119382,7 @@ RESOURCE ID: sku.name.a7d19965d3494422d7b78c113b9f5311
 TEXT: Voyager Triple Play Pack
 
 RESOURCE ID: sku.name.a7fbe76ddc4351aca68cb08baa87d753
-TEXT: Battle-Ready Box
+TEXT: Battle Ready Box
 
 RESOURCE ID: sku.name.a8157eea098ee2ae91ff520e87abd6a2
 TEXT: Adventure Box
@@ -125733,7 +126030,6 @@ TEXT: <b>Includes:</b>
 • Up to 6 free Raid Passes each day from spinning Gym Photo Discs
 • Increased chance of receiving event 10 km Eggs from PokéStops
 • Up to 6 Special Trades per day and reduced Stardust cost for trades
-• 1/2 Hatch Distance when Eggs are placed in an Incubator during the event
 • 2× Candy for catching Pokémon
 • A higher chance to encounter Shiny Pokémon during the event
 Learn more about the ticket bonuses <a href="pokemongo.com/gowildarea/global">here</a>.
@@ -126677,6 +126973,16 @@ TEXT: <b>Includes:</b>
 
 Learn more about the ticket bonuses <a href="https://pokemongo.com/gowildarea/global">here</a>.
 
+RESOURCE ID: text_rewards_key_gowa26_out
+TEXT: <b>Includes:</b>
+• Up to 6 free Raid Passes each day from spinning Gym Photo Discs
+• Increased chance of receiving event 10 km Eggs from PokéStops
+• Up to 6 Special Trades per day and reduced Stardust cost for trades
+• 1/2 Hatch Distance when Eggs are placed in an Incubator during the event
+• 2× Candy for catching Pokémon
+• A higher chance to encounter Shiny Pokémon during the event
+Learn more about the ticket bonuses <a href="pokemongo.com/gowildarea/global">here</a>.
+
 RESOURCE ID: text_rewards_key_harvestfestival_oct25
 TEXT: <b>Included rewards:</b>
 • Encounters with Applin
@@ -127112,6 +127418,9 @@ TEXT: Ticket for the Frigibax Community Day Special Research available in the sh
 
 RESOURCE ID: ticket_fuecoco_cd
 TEXT: Ticket for the Crocapella Special Research available in the shop
+
+RESOURCE ID: ticket_gible_cd
+TEXT: Ticket for the Gible Community Day Classic Special Research available in the shop
 
 RESOURCE ID: ticket_glide_victory_tr
 TEXT: Ticket for the Glide to Victory Timed Research available in the shop
@@ -128583,6 +128892,186 @@ TEXT: {0} total stamps
 
 RESOURCE ID: tr_npb2026
 TEXT: Play Ball! Bonus Timed Research
+
+RESOURCE ID: tr_30thapac_eventfocus_2026_header_0_my
+TEXT: PokéXciting! Join the Party in Malaysia Timed Research (1/3)
+
+RESOURCE ID: tr_30thapac_eventfocus_2026_header_0_ph
+TEXT: PokéXciting! Join the Party in the Philippines Timed Research (1/3)
+
+RESOURCE ID: tr_30thapac_eventfocus_2026_header_0_sg
+TEXT: PokéXciting! Join the Party in Singapore Timed Research (1/3)
+
+RESOURCE ID: tr_30thapac_eventfocus_2026_header_0_tw
+TEXT: PokéXciting! Join the Party in Taiwan Timed Research (1/3)
+
+RESOURCE ID: tr_30thapac_eventfocus_2026_header_1_my
+TEXT: PokéXciting! Join the Party in Malaysia Timed Research (2/3)
+
+RESOURCE ID: tr_30thapac_eventfocus_2026_header_1_ph
+TEXT: PokéXciting! Join the Party in the Philippines Timed Research (2/3)
+
+RESOURCE ID: tr_30thapac_eventfocus_2026_header_1_sg
+TEXT: PokéXciting! Join the Party in Singapore Timed Research (2/3)
+
+RESOURCE ID: tr_30thapac_eventfocus_2026_header_1_tw
+TEXT: PokéXciting! Join the Party in Taiwan Timed Research (2/3)
+
+RESOURCE ID: tr_30thapac_eventfocus_2026_header_2_my
+TEXT: PokéXciting! Join the Party in Malaysia Timed Research (3/3)
+
+RESOURCE ID: tr_30thapac_eventfocus_2026_header_2_ph
+TEXT: PokéXciting! Join the Party in the Philippines Timed Research (3/3)
+
+RESOURCE ID: tr_30thapac_eventfocus_2026_header_2_sg
+TEXT: PokéXciting! Join the Party in Singapore Timed Research (3/3)
+
+RESOURCE ID: tr_30thapac_eventfocus_2026_header_2_tw
+TEXT: PokéXciting! Join the Party in Taiwan Timed Research (3/3)
+
+RESOURCE ID: tr_30thapac_eventfocus_2026_header_my
+TEXT: PokéXciting! Join the Party in Malaysia Timed Research
+
+RESOURCE ID: tr_30thapac_eventfocus_2026_header_ph
+TEXT: PokéXciting! Join the Party in the Philippines Timed Research
+
+RESOURCE ID: tr_30thapac_eventfocus_2026_header_sg
+TEXT: PokéXciting! Join the Party in Singapore Timed Research
+
+RESOURCE ID: tr_30thapac_eventfocus_2026_header_tw
+TEXT: PokéXciting! Join the Party in Taiwan Timed Research
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_0_my
+TEXT: PokéXciting! Memory of 30 in Malaysia Timed Research (1/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_0_ph
+TEXT: PokéXciting! Memory of 30 in the Philippines Timed Research (1/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_0_sg
+TEXT: PokéXciting! Memory of 30 in Singapore Timed Research (1/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_0_tw
+TEXT: PokéXciting! Memory of 30 in Taiwan Timed Research (1/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_1_my
+TEXT: PokéXciting! Memory of 30 in Malaysia Timed Research (2/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_1_ph
+TEXT: PokéXciting! Memory of 30 in the Philippines Timed Research (2/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_1_sg
+TEXT: PokéXciting! Memory of 30 in Singapore Timed Research (2/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_1_tw
+TEXT: PokéXciting! Memory of 30 in Taiwan Timed Research (2/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_2_my
+TEXT: PokéXciting! Memory of 30 in Malaysia Timed Research (3/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_2_ph
+TEXT: PokéXciting! Memory of 30 in the Philippines Timed Research (3/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_2_sg
+TEXT: PokéXciting! Memory of 30 in Singapore Timed Research (3/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_2_tw
+TEXT: PokéXciting! Memory of 30 in Taiwan Timed Research (3/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_3_my
+TEXT: PokéXciting! Memory of 30 in Malaysia Timed Research (4/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_3_ph
+TEXT: PokéXciting! Memory of 30 in the Philippines Timed Research (4/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_3_sg
+TEXT: PokéXciting! Memory of 30 in Singapore Timed Research (4/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_3_tw
+TEXT: PokéXciting! Memory of 30 in Taiwan Timed Research (4/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_4_my
+TEXT: PokéXciting! Memory of 30 in Malaysia Timed Research (5/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_4_ph
+TEXT: PokéXciting! Memory of 30 in the Philippines Timed Research (5/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_4_sg
+TEXT: PokéXciting! Memory of 30 in Singapore Timed Research (5/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_4_tw
+TEXT: PokéXciting! Memory of 30 in Taiwan Timed Research (5/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_5_my
+TEXT: PokéXciting! Memory of 30 in Malaysia Timed Research (6/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_5_ph
+TEXT: PokéXciting! Memory of 30 in the Philippines Timed Research (6/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_5_sg
+TEXT: PokéXciting! Memory of 30 in Singapore Timed Research (6/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_5_tw
+TEXT: PokéXciting! Memory of 30 in Taiwan Timed Research (6/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_6_my
+TEXT: PokéXciting! Memory of 30 in Malaysia Timed Research (7/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_6_ph
+TEXT: PokéXciting! Memory of 30 in the Philippines Timed Research (7/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_6_sg
+TEXT: PokéXciting! Memory of 30 in Singapore Timed Research (7/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_6_tw
+TEXT: PokéXciting! Memory of 30 in Taiwan Timed Research (7/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_7_my
+TEXT: PokéXciting! Memory of 30 in Malaysia Timed Research (8/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_7_ph
+TEXT: PokéXciting! Memory of 30 in the Philippines Timed Research (8/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_7_sg
+TEXT: PokéXciting! Memory of 30 in Singapore Timed Research (8/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_7_tw
+TEXT: PokéXciting! Memory of 30 in Taiwan Timed Research (8/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_8_my
+TEXT: PokéXciting! Memory of 30 in Malaysia Timed Research (9/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_8_ph
+TEXT: PokéXciting! Memory of 30 in the Philippines Timed Research (9/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_8_sg
+TEXT: PokéXciting! Memory of 30 in Singapore Timed Research (9/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_8_tw
+TEXT: PokéXciting! Memory of 30 in Taiwan Timed Research (9/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_9_my
+TEXT: PokéXciting! Memory of 30 in Malaysia Timed Research (10/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_9_ph
+TEXT: PokéXciting! Memory of 30 in the Philippines Timed Research (10/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_9_sg
+TEXT: PokéXciting! Memory of 30 in Singapore Timed Research (10/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_9_tw
+TEXT: PokéXciting! Memory of 30 in Taiwan Timed Research (10/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_my
+TEXT: PokéXciting! Memory of 30 in Malaysia Timed Research
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_ph
+TEXT: PokéXciting! Memory of 30 in the Philippines Timed Research
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_sg
+TEXT: PokéXciting! Memory of 30 in Singapore Timed Research
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_tw
+TEXT: PokéXciting! Memory of 30 in Taiwan Timed Research
 
 RESOURCE ID: tr_151_challenge
 TEXT: 151 Challenge
@@ -131430,6 +131919,9 @@ TEXT: Two additional Special Trades per day
 
 RESOURCE ID: trade_special_in_pokedex
 TEXT: Legendary or Shiny Pokémon in Pokédex
+
+RESOURCE ID: trade_special_total_3
+TEXT: Three total Special Trades per day
 
 RESOURCE ID: trade_stardust_half
 TEXT: 1/2 Stardust cost for trades
