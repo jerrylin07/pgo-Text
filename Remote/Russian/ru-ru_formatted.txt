@@ -29247,6 +29247,9 @@ TEXT: Tap to swap Pokémon
 RESOURCE ID: combat_choose_next_pokemon
 TEXT: Switch in a new Pokémon?
 
+RESOURCE ID: combat_choose_pokemon_scaled
+TEXT: Some Pokémon’s CP has been adjusted for this league.
+
 RESOURCE ID: combat_choosing_their_team
 TEXT: is choosing their team!
 
@@ -56479,6 +56482,72 @@ TEXT: В честь Летнего Водного Фестиваля 2025 еже
 RESOURCE ID: kr_festival_tr_location_background
 TEXT: У Покемонов, пойманных в Квестах на Время, может быть эксклюзивный Фон Места
 
+RESOURCE ID: kr_hanbok_pikachu_2026_irl_event_tag
+TEXT: Осенний Пикник Пикачу 2026
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_irl_title
+TEXT: Осенний Пикник Пикачу 2026
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_title
+TEXT: День с Пикачу в Корее 2026
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_event_desc
+TEXT: Пикачу в оранжевом ханбоке появляется поблизости!
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_irl_event_desc
+TEXT: Обрати внимание на места с Пикачу в ханбоке!
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_irl_fr_bonus_desc
+TEXT: Тематический Полевой Ивент-Квест, во время которого можно встретить Пикачу в оранжевом ханбоке
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_irl_raid_bonus_desc
+TEXT: Следуй за специальными Покестопами по всей зоне события и сражайся с Пикачу в оранжевом ханбоке раз в день в рейдах в определённых Гимах по пути.
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_irl_tr_bonus_desc
+TEXT: Повстречай Пикачу в оранжевом ханбоке во время Квеста на Время, прокручивая специальные Покестопы по всей зоне события. Чтобы узнать больше, посети официальный блог.
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_irl_tr_name
+TEXT: Квест на Время Дорога на Осенний Пикник Пикачу
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_irl_tr_name_1
+TEXT: Квест на Время Дорога на Осенний Пикник Пикачу (1/2)
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_irl_tr_name_2
+TEXT: Квест на Время Дорога на Осенний Пикник Пикачу (2/2)
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_irl_tr_spin_plural
+TEXT: Покрути не прокрученные Покестопы с Пикачу в ханбоке ×{0}
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_irl_tr_spin_singular
+TEXT: Покрути 1 не прокрученный Покестоп с Пикачу в ханбоке
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_raid_bonus_desc
+TEXT: Пикачу в оранжевом ханбоке будут чаще появляться в рейдах
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_tr_bonus_desc
+TEXT: Получи шанс встретить Пикачу в оранжевом ханбоке во время Квеста на Время.
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_tr_name
+TEXT: Квест на Время День с Пикачу в Корее 2026
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_tr_name_1
+TEXT: Квест на Время День с Пикачу в Корее 2026 (1/3)
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_tr_name_2
+TEXT: Квест на Время День с Пикачу в Корее 2026 (2/3)
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_tr_name_3
+TEXT: Квест на Время День с Пикачу в Корее 2026 (3/3)
+
+RESOURCE ID: kr_hangul_day_2026_title
+TEXT: 2026 Hangul Day
+
+RESOURCE ID: kr_hangul_day_2026_bonus_desc
+TEXT: Celebrate Hangul Day with event-themed Pokémon appearing in the wild! Use Incense or Lure Modules to encounter special Pokémon.
+
+RESOURCE ID: kr_hangul_day_sep2026_cc_title
+TEXT: 2026 Hangul Day Collection Challenge
+
 RESOURCE ID: kr_lantern_festival_2025_massive_bonus_title
 TEXT: Время Мэджикарпа!
 
@@ -61540,6 +61609,9 @@ TEXT: Выбери, какой Покемон должен мегаэволюц�
 RESOURCE ID: mega_evolve_lobby_existing_toast
 TEXT: За один раз ты можешь использовать только одного Покемона, прошедшего мегаэволюцию
 
+RESOURCE ID: mega_evolve_pokemon_to_use_in_this_party
+TEXT: Mega Evolve Gengar to use this party.
+
 RESOURCE ID: mega_evolve_preview_first_time
 TEXT: После того как ты впервые мегаэволюционируешь Покемона, ты можешь мегаэволюционировать его снова по истечении времени отдыха – уже без мегаэнергии.
 
@@ -61944,10 +62016,10 @@ at SHA bacc02371739993984570a6f5b31a993cf3b031b
 Pipeline 498004, job 4265729
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-09-05T00:32:30.434548+00:00 for ru-RU
-at SHA cdf94269c783
-Pipeline 3923663, job 57741156
-Patch from: 0.427.0-SHA-3b6aecd1-RC5, 0.425.1-SHA-966e4c2a-RC1, 0.429.0-SHA-de304d2a-RC2
+TEXT: Built at 2026-09-09T21:50:37.113604+00:00 for ru-RU
+at SHA 83a400d168f
+Pipeline 3932304, job 57870598
+Patch from: 0.427.98-SHA-5e44928a-RC1, 0.429.0-SHA-d6c796f0-RC1, 0.427.1-SHA-4a569ba7-RC1
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: ‎Квест на время: Боевой тип
@@ -67638,6 +67710,9 @@ TEXT: Тебе нужно будет находить и собирать Пок
 
 RESOURCE ID: onboard_welcome_screen|9
 TEXT: Выбери свой стиль и отправляйся навстречу приключениям!
+
+RESOURCE ID: one_or_more_pokemon_exceed_this_leagues_cp_limit
+TEXT: One or more Pokémon exceed this league’s CP limit.
 
 RESOURCE ID: one_route_nearby_label
 TEXT: 1 route
@@ -112077,6 +112152,9 @@ TEXT: Вернулся сегодня
 RESOURCE ID: returning_sign_in_partial
 TEXT: Вход с {0}
 
+RESOURCE ID: revert_pokemon_to_its_primal_form_to_use_this_party
+TEXT: Revert Kyogre to its Primal form to use this party.
+
 RESOURCE ID: revive_all_button
 TEXT: Оживить всех
 
@@ -118663,12 +118741,12 @@ TEXT: {0}: улучшение произведено!
 RESOURCE ID: shop_fully_upgraded_purchasable
 TEXT: {0}: улучшение произведено! Получай больше места для хранения, повышая свой уровень!
 
-<a href="https://scopelyexplore.helpshift.com/hc/faq/1432-available-items-your-bag/">Узнай больше о повышении уровня здесь.</a>
+<a href="https://scopelyexplore.helpshift.com/hc/faq/1235-available-items-your-bag/">Узнай больше о повышении уровня здесь.</a>
 
 RESOURCE ID: shop_fully_upgraded_purchasable_plural
 TEXT: {0}: улучшение произведено! Получай больше места для хранения, повышая свой уровень!
 
-<a href="https://scopelyexplore.helpshift.com/hc/faq/1432-available-items-your-bag/">Узнай больше о повышении уровня здесь.</a>
+<a href="https://scopelyexplore.helpshift.com/hc/faq/1235-available-items-your-bag/">Узнай больше о повышении уровня здесь.</a>
 
 RESOURCE ID: shop_gift_friend_ineligible_title
 TEXT: Не удалось отправить подарок
@@ -120018,6 +120096,12 @@ TEXT: Автоматически бросай Поке-Боллы и крути 
 RESOURCE ID: soft_sfida_desc_default_short
 TEXT: Автоматически бросай Поке-Боллы и крути Поке-Стопы, пока ты передвигаешься во время исследования, когда Pokémon GO закрыто.
 
+RESOURCE ID: soft_sfida_desc_foreground
+TEXT: Automatically throw Poké Balls and spin PokéStops in the background while moving. You can activate it once daily.
+
+RESOURCE ID: soft_sfida_desc_foreground_short
+TEXT: Encounter Pokémon and spin PokéStops in the background while moving.
+
 RESOURCE ID: soft_sfida_desc_items_full
 TEXT: Организуй свой Рюкзак для Предметов или увеличь объём своего хранилища предметов.
 
@@ -120059,6 +120143,12 @@ TEXT: Организовать
 
 RESOURCE ID: soft_sfida_btn_manage_item_bag
 TEXT: Организовать
+
+RESOURCE ID: soft_sfida_btn_switch_caps
+TEXT: SWITCH
+
+RESOURCE ID: soft_sfida_btn_unpair_device_caps
+TEXT: UNPAIR DEVICE
 
 RESOURCE ID: soft_sfida_btn_view_summary
 TEXT: Посмотреть отчёт
@@ -125309,6 +125399,12 @@ TEXT: Квест на Время Сладкий Сонм: Свирликс (2/2)
 RESOURCE ID: switch_sleep_warning
 TEXT: While connecting to the Nintendo Switch, don’t turn off your smartphone or enter sleep mode. 
 
+RESOURCE ID: switch_to_soft_sfida_description_default
+TEXT: If you're unable to use your device but want to remain paired, you can use Explorer Gadget Instead.
+
+RESOURCE ID: switch_to_soft_sfida_title_default
+TEXT: Pause your device and switch to Explorer Gadget?
+
 RESOURCE ID: swsh_masterball_sr_title
 TEXT: Непревзойдённый квест: Мастер-Болл
 
@@ -126133,7 +126229,6 @@ TEXT: <b>Включает:</b>
 • До 6 Специальных Обменов в день и уменьшенная цена Звёздной Пыли для обмена
 • 2× Конфет за поимку Покемонов
 • Больше шансов встретить Сияющих Покемонов во время этого события
-Узнать больше о бонусах этого билета можно <a href="pokemongo.com/gowildarea/global">здесь</a>.
 
 RESOURCE ID: text_rewards_key_growingup0525
 TEXT: <b>Включает следующие награды:</b>

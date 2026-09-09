@@ -29187,6 +29187,9 @@ TEXT: Tap to swap Pokémon
 RESOURCE ID: combat_choose_next_pokemon
 TEXT: Swap in a new Pokémon?
 
+RESOURCE ID: combat_choose_pokemon_scaled
+TEXT: Some Pokémon’s CP has been adjusted for this league.
+
 RESOURCE ID: combat_choosing_their_team
 TEXT: is choosing their team!
 
@@ -56380,6 +56383,72 @@ TEXT: To celebrate Summer Water Festival 2025, daily Timed Research will be avai
 RESOURCE ID: kr_festival_tr_location_background
 TEXT: Pokémon caught from Timed Research tasks may have an exclusive Location Background
 
+RESOURCE ID: kr_hanbok_pikachu_2026_irl_event_tag
+TEXT: Pikachu’s Autumn Picnic 2026
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_irl_title
+TEXT: Pikachu’s Autumn Picnic 2026
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_title
+TEXT: Pikachu’s Day Out in Korea 2026
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_event_desc
+TEXT: Pikachu wearing an orange hanbok is appearing nearby!
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_irl_event_desc
+TEXT: Look out for locations featuring Pikachu wearing a hanbok!
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_irl_fr_bonus_desc
+TEXT: Event-themed Field Research with a chance to encounter Pikachu wearing an orange hanbok
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_irl_raid_bonus_desc
+TEXT: Follow the special PokéStops around the event area and take on Pikachu wearing an orange hanbok in raids at certain Gyms along the way, once per day.
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_irl_tr_bonus_desc
+TEXT: Encounter Pikachu wearing an orange hanbok through Timed Research by spinning special PokéStops around the event area. See the official blog for more details.
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_irl_tr_name
+TEXT: Pikachu’s Autumn Picnic Trail Timed Research
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_irl_tr_name_1
+TEXT: Pikachu’s Autumn Picnic Trail Timed Research (1/2)
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_irl_tr_name_2
+TEXT: Pikachu’s Autumn Picnic Trail Timed Research (2/2)
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_irl_tr_spin_plural
+TEXT: Spin {0} PokéStops featuring Pikachu wearing a hanbok that you haven’t spun yet
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_irl_tr_spin_singular
+TEXT: Spin a PokéStop featuring Pikachu wearing a hanbok that you haven’t spun yet
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_raid_bonus_desc
+TEXT: Pikachu wearing an orange hanbok will appear more frequently in raids
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_tr_bonus_desc
+TEXT: Get a chance to encounter Pikachu wearing an orange hanbok through Timed Research.
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_tr_name
+TEXT: Pikachu’s Day Out in Korea 2026 Timed Research
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_tr_name_1
+TEXT: Pikachu’s Day Out in Korea 2026 Timed Research (1/3)
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_tr_name_2
+TEXT: Pikachu’s Day Out in Korea 2026 Timed Research (2/3)
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_tr_name_3
+TEXT: Pikachu’s Day Out in Korea 2026 Timed Research (3/3)
+
+RESOURCE ID: kr_hangul_day_2026_title
+TEXT: 2026 Hangul Day
+
+RESOURCE ID: kr_hangul_day_2026_bonus_desc
+TEXT: Celebrate Hangul Day with event-themed Pokémon appearing in the wild! Use Incense or Lure Modules to encounter special Pokémon.
+
+RESOURCE ID: kr_hangul_day_sep2026_cc_title
+TEXT: 2026 Hangul Day Collection Challenge
+
 RESOURCE ID: kr_lantern_festival_2025_massive_bonus_title
 TEXT: It’s Magikarp time!
 
@@ -61438,6 +61507,9 @@ TEXT: Select a Pokémon to Mega Evolve!
 RESOURCE ID: mega_evolve_lobby_existing_toast
 TEXT: You can only use one Mega-Evolved Pokémon at a time.
 
+RESOURCE ID: mega_evolve_pokemon_to_use_in_this_party
+TEXT: Mega Evolve Gengar to use this party.
+
 RESOURCE ID: mega_evolve_preview_first_time
 TEXT: After you Mega Evolve a Pokémon for the first time, you can Mega Evolve it again without Mega Energy after a rest period.
 
@@ -61842,10 +61914,10 @@ at SHA 4d4f3e80cc7fb911006bd14d198c9831ef66d005
 Pipeline 339838, job 2672172
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-09-05T00:32:30.434548+00:00 for en-US
-at SHA cdf94269c783
-Pipeline 3923663, job 57741156
-Patch from: 0.427.0-SHA-3b6aecd1-RC5, 0.425.1-SHA-966e4c2a-RC1, 0.429.0-SHA-de304d2a-RC2
+TEXT: Built at 2026-09-09T21:50:37.113604+00:00 for en-US
+at SHA 83a400d168f
+Pipeline 3932304, job 57870598
+Patch from: 0.427.98-SHA-5e44928a-RC1, 0.429.0-SHA-d6c796f0-RC1, 0.427.1-SHA-4a569ba7-RC1
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: Timed Research: Choose Your Fighting Type
@@ -67529,6 +67601,9 @@ TEXT: You’ll need to find and collect Pokémon from everywhere.
 
 RESOURCE ID: onboard_welcome_screen|9
 TEXT: Choose your style to start your adventure!
+
+RESOURCE ID: one_or_more_pokemon_exceed_this_leagues_cp_limit
+TEXT: One or more Pokémon exceed this league’s CP limit.
 
 RESOURCE ID: one_route_nearby_label
 TEXT: 1 route
@@ -111963,6 +112038,9 @@ TEXT: Returned Today
 RESOURCE ID: returning_sign_in_partial
 TEXT: Sign in with {0}
 
+RESOURCE ID: revert_pokemon_to_its_primal_form_to_use_this_party
+TEXT: Revert Kyogre to its Primal form to use this party.
+
 RESOURCE ID: revive_all_button
 TEXT: Revive All
 
@@ -118551,12 +118629,12 @@ TEXT: Your {0} are fully upgraded!
 RESOURCE ID: shop_fully_upgraded_purchasable
 TEXT: Your {0} is fully upgraded! Earn more storage by leveling up!
 
-<a href="https://scopelyexplore.helpshift.com/hc/faq/1432-available-items-your-bag/">Learn more about leveling up here.</a>
+<a href="https://scopelyexplore.helpshift.com/hc/faq/1235-available-items-your-bag/">Learn more about leveling up here.</a>
 
 RESOURCE ID: shop_fully_upgraded_purchasable_plural
 TEXT: Your {0} are fully upgraded! Earn more storage by leveling up!
 
-<a href="https://scopelyexplore.helpshift.com/hc/faq/1432-available-items-your-bag/">Learn more about leveling up here.</a>
+<a href="https://scopelyexplore.helpshift.com/hc/faq/1235-available-items-your-bag/">Learn more about leveling up here.</a>
 
 RESOURCE ID: shop_gift_friend_ineligible_title
 TEXT: Cannot Send Gift
@@ -119907,6 +119985,12 @@ TEXT: Automatically throw Poké Balls and spin PokéStops while exploring with P
 RESOURCE ID: soft_sfida_desc_default_short
 TEXT: Automatically throw Poké Balls and spin PokéStops while exploring with Pokémon GO closed.
 
+RESOURCE ID: soft_sfida_desc_foreground
+TEXT: Automatically throw Poké Balls and spin PokéStops in the background while moving. You can activate it once daily.
+
+RESOURCE ID: soft_sfida_desc_foreground_short
+TEXT: Encounter Pokémon and spin PokéStops in the background while moving.
+
 RESOURCE ID: soft_sfida_desc_items_full
 TEXT: Manage your Item Bag or upgrade your item storage capacity.
 
@@ -119948,6 +120032,12 @@ TEXT: Manage Pokémon
 
 RESOURCE ID: soft_sfida_btn_manage_item_bag
 TEXT: Manage Item Bag
+
+RESOURCE ID: soft_sfida_btn_switch_caps
+TEXT: SWITCH
+
+RESOURCE ID: soft_sfida_btn_unpair_device_caps
+TEXT: UNPAIR DEVICE
 
 RESOURCE ID: soft_sfida_btn_view_summary
 TEXT: View Summary
@@ -125198,6 +125288,12 @@ TEXT: Sweet Swarm Timed Research: Swirlix (2/2)
 RESOURCE ID: switch_sleep_warning
 TEXT: Please make sure that the mobile phone is up and running while connecting to SWITCH. Mobile phones going into sleep mode may disconnect from SWITCH.
 
+RESOURCE ID: switch_to_soft_sfida_description_default
+TEXT: If you're unable to use your device but want to remain paired, you can use Explorer Gadget Instead.
+
+RESOURCE ID: switch_to_soft_sfida_title_default
+TEXT: Pause your device and switch to Explorer Gadget?
+
 RESOURCE ID: swsh_masterball_sr_title
 TEXT: Masterwork Research: Master Ball
 
@@ -126032,7 +126128,6 @@ TEXT: <b>Includes:</b>
 • Up to 6 Special Trades per day and reduced Stardust cost for trades
 • 2× Candy for catching Pokémon
 • A higher chance to encounter Shiny Pokémon during the event
-Learn more about the ticket bonuses <a href="pokemongo.com/gowildarea/global">here</a>.
 
 RESOURCE ID: text_rewards_key_growingup0525
 TEXT: <b>Included rewards:</b>

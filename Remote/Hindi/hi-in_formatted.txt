@@ -26910,6 +26910,9 @@ TEXT: पोकेमॉन को किसी दूसरे पोकेम�
 RESOURCE ID: combat_choose_next_pokemon
 TEXT: दूसरे पोकेमॉन पर स्विच करें?
 
+RESOURCE ID: combat_choose_pokemon_scaled
+TEXT: Some Pokémon’s CP has been adjusted for this league.
+
 RESOURCE ID: combat_choosing_their_team
 TEXT: अपनी टीम चुन रहा है!
 
@@ -53983,6 +53986,72 @@ TEXT: समर वॉटर फ़ेस्टीवल 2025 को मना�
 RESOURCE ID: kr_festival_tr_location_background
 TEXT: सीमित समय वाली रिसर्च टास्क से पकड़े गए पोकेमॉन के पास विशेष लोकेशन बैकग्राउंड हो सकता है
 
+RESOURCE ID: kr_hanbok_pikachu_2026_irl_event_tag
+TEXT: पकिाचू का ऑटम पकिनकि 2026
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_irl_title
+TEXT: पकिाचू का ऑटम पकिनकि 2026
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_title
+TEXT: पकिाचू चला कोरयिा 2026
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_event_desc
+TEXT: पास में नारंगी हांबोक पहने पकिाचू दखिाई दे रहा है!
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_irl_event_desc
+TEXT: हांबोक पहने पकिाचू के दखिाई देने वाले स्थानों के लिए ध्यान दें
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_irl_fr_bonus_desc
+TEXT: ईवेंट के थीम वाली फ़ील्ड रसिर्च, जसिमें आपकी मुलाकात नारंगी हांबोक पहने पकिाचू से हो सकती है
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_irl_raid_bonus_desc
+TEXT: ईवेंट के एरयिा के आस-पास के अलग-अलग स्पेशल पोकेस्टॉप की सैर करते हुए, रास्ते में आने वाले चुने गए जमि पर होने वाली रेड में नारंगी हांबोक पहने पकिाचू को चुनौती दें। हर दनि एक बार।
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_irl_tr_bonus_desc
+TEXT: ईवेंट के एरयिा के पास स्पेशल पोकेस्टॉप को स्पनि कर, सीमति समय वाली रसिर्च के द्वारा नारंगी हांबोक पहने पकिाचू से मुलाकात करें। और जानकारी के लिए ब्लॉग देखें।
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_irl_tr_name
+TEXT: पकिाचू का ऑटम पकिनकि ट्रेल सीमति समय वाली रसिर्च
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_irl_tr_name_1
+TEXT: पकिाचू का ऑटम पकिनकि ट्रेल सीमति समय वाली रसिर्च (1/2)
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_irl_tr_name_2
+TEXT: पकिाचू का ऑटम पकिनकि ट्रेल सीमति समय वाली रसिर्च (2/2)
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_irl_tr_spin_plural
+TEXT: हांबोक पहने पकिाचू वाले {0} ऐसे पोकेस्टॉप स्पनि करें, जन्हिें आपने अभी स्पनि ना कयिा हो
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_irl_tr_spin_singular
+TEXT: हांबोक पहने पकिाचू वाले कसिी एक पोकेस्टॉप को स्पनि करें, जसिे आपने अभी स्पनि ना कयिा हो
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_raid_bonus_desc
+TEXT: नारंगी हांबोक पहने पकिाचू रेड में और अधकि बार दखिाई देंगे।
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_tr_bonus_desc
+TEXT: सीमति समय वाली रसिर्च के द्वारा, नारंगी हांबोक पहने पकिाचू से मुलाकात का चांस पाएँ।
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_tr_name
+TEXT: पकिाचू चला कोरयिा 2026 सीमति समय वाली रसिर्च
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_tr_name_1
+TEXT: पकिाचू चला कोरयिा 2026 सीमति समय वाली रसिर्च (1/3)
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_tr_name_2
+TEXT: पकिाचू चला कोरयिा 2026 सीमति समय वाली रसिर्च (2/3)
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_tr_name_3
+TEXT: पकिाचू चला कोरयिा 2026 सीमति समय वाली रसिर्च (3/3)
+
+RESOURCE ID: kr_hangul_day_2026_title
+TEXT: 2026 Hangul Day
+
+RESOURCE ID: kr_hangul_day_2026_bonus_desc
+TEXT: Celebrate Hangul Day with event-themed Pokémon appearing in the wild! Use Incense or Lure Modules to encounter special Pokémon.
+
+RESOURCE ID: kr_hangul_day_sep2026_cc_title
+TEXT: 2026 Hangul Day Collection Challenge
+
 RESOURCE ID: kr_lantern_festival_2025_massive_bonus_title
 TEXT: मैजिकार्प टाइम आ गया है!
 
@@ -59007,6 +59076,9 @@ TEXT: Select a Pokémon to Mega Evolve!
 RESOURCE ID: mega_evolve_lobby_existing_toast
 TEXT: You can only use one Mega-Evolved Pokémon at a time.
 
+RESOURCE ID: mega_evolve_pokemon_to_use_in_this_party
+TEXT: Mega Evolve Gengar to use this party.
+
 RESOURCE ID: mega_evolve_preview_first_time
 TEXT: After you Mega Evolve a Pokémon for the first time, you can Mega Evolve it again without Mega Energy after a rest period.
 
@@ -59412,10 +59484,10 @@ at SHA 12701f1c07ae7f07a5d50583f697320977df7988
 Pipeline 1139111, job 13470914
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-09-05T00:32:30.434548+00:00 for hi-IN
-at SHA cdf94269c783
-Pipeline 3923663, job 57741156
-Patch from: 0.427.0-SHA-3b6aecd1-RC5, 0.425.1-SHA-966e4c2a-RC1, 0.429.0-SHA-de304d2a-RC2
+TEXT: Built at 2026-09-09T21:50:37.113604+00:00 for hi-IN
+at SHA 83a400d168f
+Pipeline 3932304, job 57870598
+Patch from: 0.427.98-SHA-5e44928a-RC1, 0.429.0-SHA-d6c796f0-RC1, 0.427.1-SHA-4a569ba7-RC1
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: Timed Research: Choose Your Fighting Type
@@ -65133,6 +65205,9 @@ TEXT: आपको हर जगह से पोकेमॉन ढूंढक
 
 RESOURCE ID: onboard_welcome_screen|9
 TEXT: एडवेंचर पर जाने के लिए, अपना स्टाइल चुनें!
+
+RESOURCE ID: one_or_more_pokemon_exceed_this_leagues_cp_limit
+TEXT: One or more Pokémon exceed this league’s CP limit.
 
 RESOURCE ID: one_route_nearby_label
 TEXT: 1 route
@@ -109377,6 +109452,9 @@ TEXT: आज वापस लौटे पोकेमॉन
 RESOURCE ID: returning_sign_in_partial
 TEXT: {0} के ज़रिए साइन इन करें
 
+RESOURCE ID: revert_pokemon_to_its_primal_form_to_use_this_party
+TEXT: Revert Kyogre to its Primal form to use this party.
+
 RESOURCE ID: revive_all_button
 TEXT: Revive All
 
@@ -115943,12 +116021,12 @@ TEXT: आपके {0} पूरे अपग्रेड हो चुके �
 RESOURCE ID: shop_fully_upgraded_purchasable
 TEXT: आपका {0} पूरा अपग्रेड हो चुका है। लेवल अप कर अधकि स्टोरेज पाएँ।
 
-<a href="https://scopelyexplore.helpshift.com/hc/faq/1432-available-items-your-bag/">लेवल अप करने के बारे में यहाँ से जानें।</a>
+<a href="https://scopelyexplore.helpshift.com/hc/faq/1235-available-items-your-bag/">लेवल अप करने के बारे में यहाँ से जानें।</a>
 
 RESOURCE ID: shop_fully_upgraded_purchasable_plural
 TEXT: आपके {0} पूरे अपग्रेड हो चुके हैं। लेवल अप कर अधकि स्टोरेज पाएँ।
 
-<a href="https://scopelyexplore.helpshift.com/hc/faq/1432-available-items-your-bag/">लेवल अप करने के बारे में यहाँ से जानें।</a>
+<a href="https://scopelyexplore.helpshift.com/hc/faq/1235-available-items-your-bag/">लेवल अप करने के बारे में यहाँ से जानें।</a>
 
 RESOURCE ID: shop_gift_friend_ineligible_title
 TEXT: Cannot Send Gift
@@ -117299,6 +117377,12 @@ TEXT: Pokémon GO के बंद होने पर, एक्सप्लो
 RESOURCE ID: soft_sfida_desc_default_short
 TEXT: Pokémon GO के बंद होने पर, एक्सप्लोर करते समय अपने-आप पोके बॉल फेंकें और पोकेस्टॉप स्पनि करें।
 
+RESOURCE ID: soft_sfida_desc_foreground
+TEXT: Automatically throw Poké Balls and spin PokéStops in the background while moving. You can activate it once daily.
+
+RESOURCE ID: soft_sfida_desc_foreground_short
+TEXT: Encounter Pokémon and spin PokéStops in the background while moving.
+
 RESOURCE ID: soft_sfida_desc_items_full
 TEXT: अपना आइटम बैग मैनेज करें, या आइटम स्टोरेज की क्षमता बढ़ाएं।
 
@@ -117340,6 +117424,12 @@ TEXT: पोकेमॉन मैनेज
 
 RESOURCE ID: soft_sfida_btn_manage_item_bag
 TEXT: आइटम बैग मैनेज करें
+
+RESOURCE ID: soft_sfida_btn_switch_caps
+TEXT: SWITCH
+
+RESOURCE ID: soft_sfida_btn_unpair_device_caps
+TEXT: UNPAIR DEVICE
 
 RESOURCE ID: soft_sfida_btn_view_summary
 TEXT: सारांश देखें
@@ -122584,6 +122674,12 @@ TEXT: हनी और क्रीम सीमित समय वाली �
 RESOURCE ID: switch_sleep_warning
 TEXT: Nintendo Switch से कनेक्ट करते समय, अपने स्मार्टफ़ोन को बंद न करें या इसे स्लीप मोड में न जाने दें
 
+RESOURCE ID: switch_to_soft_sfida_description_default
+TEXT: If you're unable to use your device but want to remain paired, you can use Explorer Gadget Instead.
+
+RESOURCE ID: switch_to_soft_sfida_title_default
+TEXT: Pause your device and switch to Explorer Gadget?
+
 RESOURCE ID: swsh_masterball_sr_title
 TEXT: मास्टरवर्क रिसर्च - मास्टर बॉल
 
@@ -123414,8 +123510,6 @@ TEXT: <b>शामलि :</b>
 • हर दनि अधकितम 6 स्पेशल ट्रेड और ट्रेड के लिए स्टार-डस्ट की कम लागत
 • पोकेमॉन पकड़ने पर 2× कैंडी
 • इवेंट के दौरान शाइनी पोकेमॉन से मुलाकात होने की अधकि संभावना
-
-टकिट बोनस के बारे में अधकि जानकारी <a href="https://pokemongo.com/gowildarea/global">यहाँ</a> प्राप्त करें।
 
 RESOURCE ID: text_rewards_key_growingup0525
 TEXT: <b>शामिल रिवॉर्ड -</b>

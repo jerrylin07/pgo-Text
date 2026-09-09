@@ -21698,10 +21698,15 @@ RESOURCE ID: bread_station_tutorial_title_7
 TEXT: โบนัสเข้าร่วมในพื้นที่
 
 RESOURCE ID: bread_station_tutorial_message_0
-TEXT: พบโปเกมอนแมกซ์สุดแกร่งได้ที่พาวเวอร์สป็อต
+TEXT: พบโปเกมอนแมกซ์สุดแกร่งได้ที่
+พาวเวอร์สป็อต
 
 RESOURCE ID: bread_station_tutorial_message_1
-TEXT: สะสมอนุภาคแมกซ์ได้จากพาวเวอร์สป็อต คุณสามารถนำไปใช้ในการเข้าร่วมแบตเทิลแมกซ์ที่พาวเวอร์สป็อต รวมถึงปลดล็อกและเลเวลอัปท่าแมกซ์ได้
+TEXT: สะสมอนุภาคแมกซ์ได้จากพาวเวอร์
+สป็อต คุณสามารถนำไปใช้ในการ
+เข้าร่วมแบตเทิลแมกซ์ที่พาวเวอร์
+สป็อต รวมถึงปลดล็อกและเลเวลอัป
+ท่าแมกซ์ได้
 
 RESOURCE ID: bread_station_tutorial_message_2
 TEXT: เอาชนะบอสพาวเวอร์สป็อตเพื่อจับมัน!
@@ -21713,8 +21718,8 @@ TEXT: หลังจากเอาชนะบอสพาวเวอร์�
 คุณจะสามารถเลือกโปเกมอนจาก
 ทีมแบตเทิลและวางที่พาวเวอร์สป็อตนั้น
 เพื่อช่วยเทรนเนอร์อื่นและรับลูกอมได้
-คุณสามารถวางโปเกมอนได้สูงสุด 20 ตัว
-ที่พาวเวอร์สป็อตที่แตกต่างกัน
+คุณสามารถวางโปเกมอนได้สูงสุด
+20 ตัวที่พาวเวอร์สป็อตที่แตกต่างกัน
 
 RESOURCE ID: bread_station_tutorial_message_5
 TEXT: คุณอาจได้เผชิญหน้ากับโปเกมอน
@@ -21724,10 +21729,13 @@ TEXT: คุณอาจได้เผชิญหน้ากับโปเ�
 อาจปรากฏตัว!
 
 RESOURCE ID: bread_station_tutorial_message_6
-TEXT: คุณสามารถเข้าร่วมแบตเทิลแมกซ์ระยะไกลได้โดยการใช้บัตรตีบอสระยะไกลและอนุภาคแมกซ์
+TEXT: คุณสามารถเข้าร่วมแบตเทิลแมกซ์
+ระยะไกลได้โดยการใช้บัตรตีบอส
+ระยะไกลและอนุภาคแมกซ์
 
 RESOURCE ID: bread_station_tutorial_message_7
-TEXT: รับรางวัลเพิ่มเติมเมื่อชนะแบตเทิลแมกซ์ในพื้นที่
+TEXT: รับรางวัลเพิ่มเติมเมื่อชนะ
+แบตเทิลแมกซ์ในพื้นที่
 
 RESOURCE ID: bread_stationing_error
 TEXT: พบปัญหาในการวางโปเกมอนของคุณ โปรดลองใหม่อีกครั้ง
@@ -29664,6 +29672,9 @@ TEXT: แตะเพื่อสลับโปเกมอน
 RESOURCE ID: combat_choose_next_pokemon
 TEXT: เปลี่ยนโปเกมอนตัวใหม่?
 
+RESOURCE ID: combat_choose_pokemon_scaled
+TEXT: Some Pokémon’s CP has been adjusted for this league.
+
 RESOURCE ID: combat_choosing_their_team
 TEXT: กำลังเลือกทีม!
 
@@ -30874,7 +30885,8 @@ RESOURCE ID: connecting_pokeball_plus
 TEXT: Connecting Poké Ball Plus
 
 RESOURCE ID: consume_combat_pass_warning_title
-TEXT: ใช้{0}ของคุณหรือไม่?
+TEXT: ใช้{0}ของคุณ
+หรือไม่?
 
 RESOURCE ID: consume_combat_pass_warning_desc
 TEXT: คุณสามารถใช้{0}ของคุณ
@@ -31104,9 +31116,12 @@ RESOURCE ID: continue_to_battle_button
 TEXT: แบตเทิลต่อ
 
 RESOURCE ID: convert_to_stardust
-TEXT: คุณจะได้รับสตาร์ดัสต์เมื่อเปิดของขวัญนี้ แต่จะไม่ได้รับไอเท็มอื่นเนื่องจากกระเป๋าเก็บไอเท็มเต็ม
+TEXT: คุณจะได้รับสตาร์ดัสต์เมื่อเปิดของขวัญนี้
+แต่จะไม่ได้รับไอเท็มอื่นเนื่องจาก
+กระเป๋าเก็บไอเท็มเต็ม
 
-สามารถตั้งค่าให้เปิดของขวัญได้หรือไม่เมื่อกระเป๋าเก็บไอเท็มเต็มที่การตั้งค่า
+สามารถตั้งค่าให้เปิดของขวัญได้หรือไม่
+เมื่อกระเป๋าเก็บไอเท็มเต็มที่การตั้งค่า
 
 
 
@@ -35901,7 +35916,8 @@ RESOURCE ID: evergreen_week_tr_battle_description_key_1
 TEXT: เลือกเส้นทางนี้เพื่อรับ +5,000 XP เมื่อตีบอสเสร็จสิ้น
 
 RESOURCE ID: evergreen_week_tr_battle_description_key_2
-TEXT: เลือกเส้นทางนี้เพื่อรับชิ้นส่วนลึกลับจากลูกสมุนแก๊งโกร็อกเกตเพิ่มขึ้น
+TEXT: เลือกเส้นทางนี้เพื่อรับชิ้นส่วนลึกลับจาก
+ลูกสมุนแก๊งโกร็อกเกตเพิ่มขึ้น
 
 RESOURCE ID: evergreen_week_tr_battle_tgr_key
 TEXT: แบตเทิล (แก๊งโกร็อกเกต)
@@ -35937,7 +35953,8 @@ RESOURCE ID: evergreen_week_tr_catch_description_key_1
 TEXT: เลือกเส้นทางนี้เพื่อรับ 1.5× XP จากการจับโปเกมอนเมื่อขว้างได้ดีขึ้นไป
 
 RESOURCE ID: evergreen_week_tr_catch_description_key_2
-TEXT: เลือกเส้นทางนี้เพื่อรับลูกอมจากการจับโปเกมอนเพิ่มเมื่อขว้างได้ดีขึ้นไป
+TEXT: เลือกเส้นทางนี้เพื่อรับลูกอมจากการจับ
+โปเกมอนเพิ่มเมื่อขว้างได้ดีขึ้นไป
 
 RESOURCE ID: evergreen_week_tr_catch_xp_key
 TEXT: จับ (XP)
@@ -39262,7 +39279,7 @@ RESOURCE ID: friendship_friday
 TEXT: วันศุกร์มิตรภาพ
 
 RESOURCE ID: friendship_strengthened
-TEXT: ระดับมิตรภาพกับ{0}เพิ่มขึ้นแล้ว!
+TEXT: ระดับมิตรภาพกับ {0} เพิ่มขึ้นแล้ว!
 
 RESOURCE ID: friendship_bonus_increase
 TEXT: Friendship levels increase more quickly
@@ -54747,7 +54764,9 @@ TEXT: และเธอกับโปเกมอนต้องเป็น�
 ถึงจะฝึกได้ ฉันจะรอเธอมาฝึกนะ!
 
 RESOURCE ID: hyper_training_completed_key
-TEXT: การฝึกขั้นสุดยอดเสร็จสิ้น!
+TEXT: การฝึก
+ขั้นสุดยอด
+เสร็จสิ้น!
 
 RESOURCE ID: hyper_training_defense_1
 TEXT: ฝึกป้องกัน 1
@@ -59935,7 +59954,9 @@ RESOURCE ID: item_shockingly_good_milestone_name
 TEXT: ไอเท็มอวาตาร์
 
 RESOURCE ID: item_single_stat_increase_desc
-TEXT: ใช้เข้าคอร์สการฝึกขั้นสุดยอดระยะเวลา 1 ปี เพื่อเพิ่มค่าพลังใดค่าหนึ่งของโปเกมอนให้เต็ม
+TEXT: ใช้เข้าคอร์สการฝึกขั้นสุดยอด
+ระยะเวลา 1 ปี เพื่อเพิ่มค่าพลังใด
+ค่าหนึ่งของโปเกมอนให้เต็ม
 
 RESOURCE ID: item_single_stat_increase_name
 TEXT: ฝาเงิน
@@ -60042,7 +60063,9 @@ RESOURCE ID: item_ticket_city_safari_03_name
 TEXT: ตั๋ว Safari: ไถหนาน
 
 RESOURCE ID: item_triple_stat_increase_desc
-TEXT: ใช้เข้าคอร์สการฝึกขั้นสุดยอดระยะเวลา 1 ปี เพื่อเพิ่มค่าพลังทั้งหมดของโปเกมอนให้เต็ม
+TEXT: ใช้เข้าคอร์สการฝึกขั้นสุดยอด
+ระยะเวลา 1 ปี เพื่อเพิ่มค่าพลัง
+ทั้งหมดของโปเกมอนให้เต็ม
 
 RESOURCE ID: item_triple_stat_increase_name
 TEXT: ฝาทอง
@@ -60829,6 +60852,72 @@ TEXT: ฉลองเทศกาลน้ำ 2025! กำลังแจกง�
 RESOURCE ID: kr_festival_tr_location_background
 TEXT: โปเกมอนที่จับจากภารกิจงานวิจัยแบบจำกัดเวลาอาจมีพื้นหลังสถานที่พิเศษ
 
+RESOURCE ID: kr_hanbok_pikachu_2026_irl_event_tag
+TEXT: ปิกนิกฤดูใบไม้ร่วงของพิคาชู 2026
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_irl_title
+TEXT: ปิกนิกฤดูใบไม้ร่วงของพิคาชู 2026
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_title
+TEXT: พิคาชูเที่ยวเกาหลี 2026
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_event_desc
+TEXT: พิคาชูสวมชุดฮันบกสีส้มปรากฏตัว
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_irl_event_desc
+TEXT: ออกตามหาสถานที่ที่มีพิคาชูสวมชุดฮันบกกันเถอะ!
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_irl_fr_bonus_desc
+TEXT: มีโอกาสเผชิญหน้ากับพิคาชูสวมชุดฮันบกสีส้มในงานวิจัยภาคสนามธีมอีเวนต์
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_irl_raid_bonus_desc
+TEXT: เมื่อตระเวนตามเสาโปเกสต็อปพิเศษในพื้นที่อีเวนต์ จะสามารถจับพิคาชูสวมชุดฮันบกสีส้มได้ในตีบอส (1 ครั้งต่อ 1 วัน)
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_irl_tr_bonus_desc
+TEXT: เผชิญหน้ากับพิคาชูสวมชุดฮันบกสีส้มในงานวิจัยแบบจำกัดเวลา ด้วยการหมุนเสาโปเกสต็อปพิเศษในพื้นที่อีเวนต์ โปรดตรวจสอบรายละเอียดทางบล็อกทางการ
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_irl_tr_name
+TEXT: งานวิจัยแบบจำกัดเวลาเส้นทางปิกนิกฤดูใบไม้ร่วงของพิคาชู
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_irl_tr_name_1
+TEXT: งานวิจัยแบบจำกัดเวลาเส้นทางปิกนิกฤดูใบไม้ร่วงของพิคาชู (1/2)
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_irl_tr_name_2
+TEXT: งานวิจัยแบบจำกัดเวลาเส้นทางปิกนิกฤดูใบไม้ร่วงของพิคาชู (2/2)
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_irl_tr_spin_plural
+TEXT: หมุนเสาโปเกสต็อป {0} แห่งที่มีพิคาชูสวมชุดฮันบกที่ยังไม่เคยหมุน
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_irl_tr_spin_singular
+TEXT: หมุนเสาโปเกสต็อปที่มีพิคาชูสวมชุดฮันบกที่ยังไม่เคยหมุน
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_raid_bonus_desc
+TEXT: พิคาชูสวมชุดฮันบกสีส้มจะปรากฏตัวบ่อยขึ้นในตีบอส
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_tr_bonus_desc
+TEXT: โอกาสเผชิญหน้ากับพิคาชูสวมชุดฮันบกสีส้มในงานวิจัยแบบจำกัดเวลา
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_tr_name
+TEXT: งานวิจัยแบบจำกัดเวลาพิคาชูเที่ยวเกาหลี 2026
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_tr_name_1
+TEXT: งานวิจัยแบบจำกัดเวลาพิคาชูเที่ยวเกาหลี 2026 (1/3)
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_tr_name_2
+TEXT: งานวิจัยแบบจำกัดเวลาพิคาชูเที่ยวเกาหลี 2026 (2/3)
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_tr_name_3
+TEXT: งานวิจัยแบบจำกัดเวลาพิคาชูเที่ยวเกาหลี 2026 (3/3)
+
+RESOURCE ID: kr_hangul_day_2026_title
+TEXT: 2026 Hangul Day
+
+RESOURCE ID: kr_hangul_day_2026_bonus_desc
+TEXT: Celebrate Hangul Day with event-themed Pokémon appearing in the wild! Use Incense or Lure Modules to encounter special Pokémon.
+
+RESOURCE ID: kr_hangul_day_sep2026_cc_title
+TEXT: 2026 Hangul Day Collection Challenge
+
 RESOURCE ID: kr_lantern_festival_2025_massive_bonus_title
 TEXT: คอยคิงไทม์!
 
@@ -61078,7 +61167,8 @@ RESOURCE ID: lapras_gmax_tr_2025_title
 TEXT: งานวิจัยแบบจำกัดเวลาพรีเมียม: วันแบตเทิลแมกซ์ลาพลาซกิกะแมกซ์
 
 RESOURCE ID: large_raid_courtesy_reminder
-TEXT: โปรดมีมารยาทและเคารพต่อผู้คนรอบกายคุณ!
+TEXT: โปรดมีมารยาทและ
+เคารพต่อผู้คนรอบกายคุณ!
 
 RESOURCE ID: last_played_today
 TEXT: เล่นครั้งล่าสุด : วันนี้
@@ -63685,7 +63775,7 @@ RESOURCE ID: location_space_limit_message
 TEXT: ขณะนี้มีพื้นที่ไม่เพียงพอสำหรับจัดวางโปเกมอน
 
 RESOURCE ID: log_friend_invited_you_to_ex_raid
-TEXT: {0}ได้เชิญคุณเข้าร่วมการตีบอส EX!
+TEXT: {0} ได้เชิญคุณเข้าร่วมการตีบอส EX!
 
 RESOURCE ID: log_into_pokemon_home_app
 TEXT: กรุณาเข้าสู่ระบบในแอป Pokémon HOME
@@ -63892,7 +63982,8 @@ RESOURCE ID: lucky_remote_trade_overlay_complete
 TEXT: ตรวจสอบและยืนยันการ<color=#F2A64B><b>แลกเปลี่ยนระยะไกลนำโชค</b></color>
 
 RESOURCE ID: lucky_remote_trade_overlay_respond
-TEXT: ตรวจสอบคำขอ<color=#F2A64B><b>แลกเปลี่ยนระยะไกลนำโชค</b></color>
+TEXT: ตรวจสอบคำขอ
+<color=#F2A64B><b>แลกเปลี่ยนระยะไกลนำโชค</b></color>
 
 RESOURCE ID: lucky_remote_trade_waiting_for_response
 TEXT: รอการ<color=#F2A64B><b>แลกเปลี่ยนระยะไกลนำโชค</b></color>
@@ -66094,6 +66185,9 @@ TEXT: เลือกโปเกมอนที่จะวิวัฒนา�
 RESOURCE ID: mega_evolve_lobby_existing_toast
 TEXT: คุณสามารถวิวัฒนาการเมก้าได้ทีละตัวเท่านั้น
 
+RESOURCE ID: mega_evolve_pokemon_to_use_in_this_party
+TEXT: Mega Evolve Gengar to use this party.
+
 RESOURCE ID: mega_evolve_preview_first_time
 TEXT: หลังจากที่วิวัฒนาการเมก้าโปเกมอนเป็น
 ครั้งแรก เมื่อช่วงพักสิ้นสุด คุณจะสามารถ
@@ -66143,7 +66237,8 @@ RESOURCE ID: mega_level_4_ftue_body_details_prompt
 TEXT: โปเกมอนตัวนี้สามารถไปถึงระดับซูเปอร์แมกซ์ได้แล้ว เรียนรู้เพิ่มเติมเกี่ยวกับระดับเมก้าหรือไม่?
 
 RESOURCE ID: mega_level_4_ftue_body_evolve_prompt
-TEXT: โปเกมอนตัวนี้สามารถไปถึงระดับซูเปอร์แมกซ์ได้แล้ว
+TEXT: โปเกมอนตัวนี้สามารถไปถึง
+ระดับซูเปอร์แมกซ์ได้แล้ว
 
 RESOURCE ID: mega_level_banner_level_up
 TEXT: ระดับเมก้าเพิ่มขึ้นแล้ว!
@@ -66575,10 +66670,10 @@ at SHA da71d231c41a4d4f7aef0d6fd71061652ff15a0a
 Pipeline 441624, job 3600523
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-09-05T00:32:30.434548+00:00 for th-TH
-at SHA cdf94269c783
-Pipeline 3923663, job 57741156
-Patch from: 0.427.0-SHA-3b6aecd1-RC5, 0.425.1-SHA-966e4c2a-RC1, 0.429.0-SHA-de304d2a-RC2
+TEXT: Built at 2026-09-09T21:50:37.113604+00:00 for th-TH
+at SHA 83a400d168f
+Pipeline 3932304, job 57870598
+Patch from: 0.427.98-SHA-5e44928a-RC1, 0.429.0-SHA-d6c796f0-RC1, 0.427.1-SHA-4a569ba7-RC1
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: งานวิจัยแบบจำกัดเวลา: ประเภทต่อสู้ของคุณ
@@ -72267,13 +72362,26 @@ RESOURCE ID: occlusions_tutorial_title
 TEXT: ระบบผสานความเป็นจริง
 
 RESOURCE ID: occlusions_tutorial_body_off
-TEXT: ลูกเล่นนี้ช่วยปรับโปเกมอนในโหมด AR ให้เข้ากับสภาพแวดล้อมของคุณได้อย่างแนบเนียนยิ่งขึ้น และสามารถเคลื่อนที่ไปด้านหลังวัตถุได้ คุณสามารถเปิดลูกเล่นนี้ได้โดยแตะที่ปุ่มระบบผสานความเป็นจริง
+TEXT: ลูกเล่นนี้ช่วยปรับโปเกมอนในโหมด
+AR ให้เข้ากับสภาพแวดล้อมของคุณ
+ได้อย่างแนบเนียนยิ่งขึ้น
+และสามารถเคลื่อนที่ไปด้านหลังวัตถุได้
+คุณสามารถเปิดลูกเล่นนี้ได้โดยแตะที่
+ปุ่มระบบผสานความเป็นจริง
 
 RESOURCE ID: occlusions_tutorial_body_on
-TEXT: ลูกเล่นนี้ช่วยปรับโปเกมอนในโหมด AR ให้เข้ากับสภาพแวดล้อมของคุณได้อย่างแนบเนียนยิ่งขึ้น และสามารถเคลื่อนที่ไปด้านหลังวัตถุได้ คุณสามารถปิดลูกเล่นนี้ได้โดยแตะที่ปุ่มระบบผสานความเป็นจริง
+TEXT: ลูกเล่นนี้ช่วยปรับโปเกมอนในโหมด
+AR ให้เข้ากับสภาพแวดล้อมของคุณ
+ได้อย่างแนบเนียนยิ่งขึ้น
+และสามารถเคลื่อนที่ไปด้านหลังวัตถุได้
+คุณสามารถปิดลูกเล่นนี้ได้โดยแตะที่
+ปุ่มระบบผสานความเป็นจริง
 
 RESOURCE ID: occlusions_tutorial_body_forced_on
-TEXT: ลูกเล่นนี้ช่วยปรับโปเกมอนในโหมด AR ให้เข้ากับสภาพแวดล้อมของคุณได้อย่างแนบเนียนยิ่งขึ้น และสามารถเคลื่อนที่ไปด้านหลังวัตถุได้
+TEXT: ลูกเล่นนี้ช่วยปรับโปเกมอนในโหมด
+AR ให้เข้ากับสภาพแวดล้อมของคุณ
+ได้อย่างแนบเนียนยิ่งขึ้น
+และสามารถเคลื่อนที่ไปด้านหลังวัตถุได้
 
 RESOURCE ID: oct22_evo_collection_challenge_1
 TEXT: รวมดาววิวัฒนาการ: คำท้าอีวุย
@@ -72416,6 +72524,9 @@ TEXT: คุณจะต้องตามหาและรวบรวมโ�
 
 RESOURCE ID: onboard_welcome_screen|9
 TEXT: เลือกสไตล์ของคุณเพื่อเริ่มผจญภัยกันเลย!
+
+RESOURCE ID: one_or_more_pokemon_exceed_this_leagues_cp_limit
+TEXT: One or more Pokémon exceed this league’s CP limit.
 
 RESOURCE ID: one_route_nearby_label
 TEXT: 1 route
@@ -73119,7 +73230,8 @@ RESOURCE ID: party_play_add_friend_enable_body
 TEXT: สามารถเปลี่ยนได้ที่การตั้งค่าในภายหลัง
 
 RESOURCE ID: party_play_add_friend_enabled_toast
-TEXT: เปิดใช้งานส่งคำขอเป็นเพื่อนจากสมาชิกปาร์ตี้แล้ว
+TEXT: เปิดใช้งานส่งคำขอเป็นเพื่อนจาก
+สมาชิกปาร์ตี้แล้ว
 
 RESOURCE ID: party_play_bookmark_description_text
 TEXT: ติดตามกิจกรรมของคุณผ่านกิจกรรมที่ถูกใจ!
@@ -85501,7 +85613,8 @@ TEXT: คุณต้องการวิวัฒนาการเมก้�
 {0}หรือไม่?
 
 RESOURCE ID: pokemon_info_mega_evolution_replace
-TEXT: Your {0} will no longer be Mega Evolved!
+TEXT: {0}ของคุณจะคลายสภาพ
+จากร่างเมก้า
 
 RESOURCE ID: pokemon_info_mega_evolution_time
 TEXT: วิวัฒนาการเมก้ามีผลอยู่ได้ {0} ชั่วโมง
@@ -118549,7 +118662,8 @@ RESOURCE ID: raid_join_private_lobby_invalid_code
 TEXT: รหัสกลุ่มไม่ถูกต้อง กรุณากรอกรหัสกลุ่มให้ถูกต้อง
 
 RESOURCE ID: raid_leave_lobby_prompt
-TEXT: หากคุณออกจากกลุ่มนี้คุณจะไม่สามารถเข้าร่วมใหม่ได้
+TEXT: หากคุณออกจากกลุ่มนี้
+คุณจะไม่สามารถเข้าร่วมใหม่ได้
 
 คุณต้องการออกจากกลุ่มหรือไม่?
 
@@ -121983,7 +122097,7 @@ RESOURCE ID: remote_raid_invite_friend_remotely_bonus
 TEXT: สามารถเชิญเพื่อนเข้าร่วมตีบอสได้จากระยะไกล
 
 RESOURCE ID: remote_raid_invite_ingame_notif
-TEXT: {0}ได้เชิญคุณเข้าร่วมการตีบอส!
+TEXT: {0} ได้เชิญคุณเข้าร่วมการตีบอส!
 
 RESOURCE ID: remote_raid_invite_push_notif
 TEXT: Raid Invitation
@@ -122082,7 +122196,8 @@ RESOURCE ID: remote_trade_cancel_offer_title
 TEXT: รายละเอียดการแลกเปลี่ยนระยะไกล
 
 RESOURCE ID: remote_trade_cancel_offer_tooltip
-TEXT: รอเพื่อนตรวจสอบและยืนยันการแลกเปลี่ยน
+TEXT: รอเพื่อนตรวจสอบและยืนยัน
+การแลกเปลี่ยน
 
 RESOURCE ID: remote_trade_cancel_offered_header
 TEXT: โปเกมอนที่เสนอแลกเปลี่ยน
@@ -122145,10 +122260,13 @@ RESOURCE ID: remote_trade_escrowed_pokemon_message
 TEXT: ลบแท็กของโปเกมอนนอกเหนือจากโปเกมอนที่กำลังรอแลกเปลี่ยนระยะไกล
 
 RESOURCE ID: remote_trade_exit_warning_title
-TEXT: คุณแน่ใจหรือไม่ว่าต้องการออกจากการแลกเปลี่ยนระยะไกลกับ {0}?
+TEXT: คุณแน่ใจหรือไม่ว่าต้องการออก
+จากการแลกเปลี่ยนระยะไกล
+กับ {0}?
 
 RESOURCE ID: remote_trade_exit_warning_message_continue
-TEXT: สามารถยืนยันการแลกเปลี่ยนระยะไกลได้ตลอดเวลา ก่อนคำขอหมดอายุ
+TEXT: สามารถยืนยันการแลกเปลี่ยนระยะไกล
+ได้ตลอดเวลา ก่อนคำขอหมดอายุ
 
 RESOURCE ID: remote_trade_exit_warning_message_later
 TEXT: สามารถแลกเปลี่ยนระยะไกลได้ในภายหลัง
@@ -122206,28 +122324,34 @@ RESOURCE ID: remote_trade_locked_singular
 TEXT: รับแต้มมิตรภาพ 1 แต้ม เพื่อปลดล็อกการแลกเปลี่ยนระยะไกล
 
 RESOURCE ID: remote_trade_no_tagged_pokemon
-TEXT: ติดแท็กโปเกมอนที่อนุญาตให้แลกเปลี่ยนระยะไกลกับเพื่อนแท้ตลอดไป การแลกเปลี่ยนจริงจะดำเนินการหลังยืนยัน
+TEXT: ติดแท็กโปเกมอนที่อนุญาตให้แลกเปลี่ยน
+ระยะไกลกับเพื่อนแท้ตลอดไป
+การแลกเปลี่ยนจริงจะดำเนินการหลังยืนยัน
 
 RESOURCE ID: remote_trade_notif_action_button
 TEXT: ตรวจสอบ
 
 RESOURCE ID: remote_trade_offer_selection_title
-TEXT: เลือกโปเกมอนที่ต้องการเสนอแลกเปลี่ยน
+TEXT: เลือกโปเกมอนที่ต้องการ
+เสนอแลกเปลี่ยน
 
 RESOURCE ID: remote_trade_offer_selection_header
 TEXT: คำขอของ {0}
 
 RESOURCE ID: remote_trade_offer_selection_tooltip
-TEXT: โปเกมอนที่เสนอแลกเปลี่ยนจะถูกพักไว้จนกว่าการแลกเปลี่ยนจะเสร็จสมบูรณ์
+TEXT: โปเกมอนที่เสนอแลกเปลี่ยนจะถูกพักไว้
+จนกว่าการแลกเปลี่ยนจะเสร็จสมบูรณ์
 
 RESOURCE ID: remote_trade_offer_selection_title_singular
-TEXT: เลือกโปเกมอนที่ต้องการเสนอแลกเปลี่ยน
+TEXT: เลือกโปเกมอนที่ต้องการ
+เสนอแลกเปลี่ยน
 
 RESOURCE ID: remote_trade_overlay_complete
 TEXT: ตรวจสอบและยืนยันคำขอแลกเปลี่ยนระยะไกล
 
 RESOURCE ID: remote_trade_overlay_respond
-TEXT: ตรวจสอบคำขอแลกเปลี่ยนระยะไกล
+TEXT: ตรวจสอบคำขอ
+แลกเปลี่ยนระยะไกล
 
 RESOURCE ID: remote_trade_player_no_tagged_pokemon_title
 TEXT: ก่อนเริ่ม
@@ -122340,10 +122464,16 @@ TEXT: สามารถเสนอโปเกมอนในการ
 จะอยู่ในสภาพติดแท็กต่อไป
 
 RESOURCE ID: remote_trade_time_locked_message_singular
-TEXT: สามารถเสนอโปเกมอนตัวนี้ในการแลกเปลี่ยนระยะไกลได้ในอีก {0} วัน (อยู่ในสภาพติดแท็กแลกเปลี่ยนระยะไกลต่อไป)
+TEXT: สามารถเสนอโปเกมอนตัวนี้ในการ
+แลกเปลี่ยนระยะไกลได้ในอีก {0} วัน
+(อยู่ในสภาพติดแท็กแลกเปลี่ยน
+ระยะไกลต่อไป)
 
 RESOURCE ID: remote_trade_time_locked_message_singular_day
-TEXT: สามารถเสนอโปเกมอนตัวนี้ในการแลกเปลี่ยนระยะไกลได้ในอีก 1 วัน (อยู่ในสภาพติดแท็กแลกเปลี่ยนระยะไกลต่อไป)
+TEXT: สามารถเสนอโปเกมอนตัวนี้ในการ
+แลกเปลี่ยนระยะไกลได้ในอีก 1 วัน
+(อยู่ในสภาพติดแท็กแลกเปลี่ยน
+ระยะไกลต่อไป)
 
 RESOURCE ID: remote_trade_time_locked_pokemon_toast
 TEXT: โปเกมอนตัวนี้สามารถแลกเปลี่ยนได้ในอีก {0} วัน
@@ -122369,7 +122499,8 @@ RESOURCE ID: remote_trade_view_pokemon_locked
 TEXT: ปลดล็อกเมื่อเป็น "เพื่อนแท้ตลอดไป"
 
 RESOURCE ID: remote_trade_waiting_for_response
-TEXT: กำลังรอการตอบรับการแลกเปลี่ยนระยะไกล
+TEXT: กำลังรอการตอบรับ
+การแลกเปลี่ยนระยะไกล
 
 RESOURCE ID: remoteraidticket.1_title
 TEXT: บัตรตีบอสระยะไกล
@@ -122769,6 +122900,9 @@ TEXT: ถูกส่งกลับคืนในวันนี้
 
 RESOURCE ID: returning_sign_in_partial
 TEXT: ลงชื่อเข้าใช้ด้วย {0}
+
+RESOURCE ID: revert_pokemon_to_its_primal_form_to_use_this_party
+TEXT: Revert Kyogre to its Primal form to use this party.
 
 RESOURCE ID: revive_all_button
 TEXT: Revive All
@@ -129592,7 +129726,9 @@ RESOURCE ID: shop_sticker
 TEXT: สติกเกอร์
 
 RESOURCE ID: shop_already_own_this_ticket
-TEXT: คุณมีตั๋วสำหรับอีเวนต์นี้แล้ว
+TEXT: คุณมีตั๋วสำหรับอีเวนต์นี้แล้ว หรือมีงานวิจัย
+ที่กำลังดำเนินการอยู่หรือเสร็จสิ้นแล้ว
+ซึ่งทำให้คุณขาดคุณสมบัติในการซื้อตั๋วนี้
 
 RESOURCE ID: shop_battle_tickets_title
 TEXT: คุณไม่มีบัตรแบตเทิลพรีเมียม!
@@ -129714,12 +129850,12 @@ TEXT: {0}อัปเกรดจนถึงขีดจำกัดแล้�
 RESOURCE ID: shop_fully_upgraded_purchasable
 TEXT: {0}อัปเกรดจนถึงขีดจำกัดแล้ว เมื่อเพิ่มเทรนเนอร์เลเวล จะสามารถอัปเกรดเพิ่มได้
 
-<a href="https://scopelyexplore.helpshift.com/hc/faq/1432-available-items-your-bag/">เรียนรู้เพิ่มเติมเกี่ยวกับการเลเวลอัปได้ที่นี่</a>
+<a href="https://scopelyexplore.helpshift.com/hc/faq/1235-available-items-your-bag/">เรียนรู้เพิ่มเติมเกี่ยวกับการเลเวลอัปได้ที่นี่</a>
 
 RESOURCE ID: shop_fully_upgraded_purchasable_plural
 TEXT: {0}อัปเกรดจนถึงขีดจำกัดแล้ว เมื่อเพิ่มเทรนเนอร์เลเวล จะสามารถอัปเกรดเพิ่มได้
 
-<a href="https://scopelyexplore.helpshift.com/hc/faq/1432-available-items-your-bag/">เรียนรู้เพิ่มเติมเกี่ยวกับการเลเวลอัปได้ที่นี่</a>
+<a href="https://scopelyexplore.helpshift.com/hc/faq/1235-available-items-your-bag/">เรียนรู้เพิ่มเติมเกี่ยวกับการเลเวลอัปได้ที่นี่</a>
 
 RESOURCE ID: shop_gift_friend_ineligible_title
 TEXT: ไม่สามารถส่งตั๋วได้
@@ -130115,7 +130251,9 @@ RESOURCE ID: single_stat_increase_ftue_title
 TEXT: คุณได้รับฝาเงินแล้ว!
 
 RESOURCE ID: single_stat_increase_ftue_body
-TEXT: ใช้เข้าคอร์สการฝึกขั้นสุดยอดระยะเวลา 1 ปี เพื่อเพิ่มค่าพลังใดค่าหนึ่งของโปเกมอนให้เต็ม
+TEXT: ใช้เข้าคอร์สการฝึกขั้นสุดยอด
+ระยะเวลา 1 ปี เพื่อเพิ่มค่าพลังใด
+ค่าหนึ่งของโปเกมอนให้เต็ม
 
 RESOURCE ID: single_transfer_100_pokemon
 TEXT: โปเกมอน ★ 100%
@@ -131099,11 +131237,18 @@ TEXT: ผลของวันนี้ พรุ่งนี้ก็เปิ�
 
 RESOURCE ID: soft_sfida_desc_default
 TEXT: ขว้างมอนสเตอร์บอลและหมุนเสาโปเกสต็อป
-โดยอัตโนมัติขณะสำรวจตอนที่ปิดแอปฯ อยู่ (ใช้ได้ 1 ครั้งต่อวัน)
+โดยอัตโนมัติขณะสำรวจตอนที่ปิดแอปฯ อยู่
+(ใช้ได้ 1 ครั้งต่อวัน)
 
 RESOURCE ID: soft_sfida_desc_default_short
 TEXT: ขว้างมอนสเตอร์บอลและหมุนเสาโปเกสต็อป
 โดยอัตโนมัติขณะสำรวจตอนที่ปิดแอปฯ อยู่
+
+RESOURCE ID: soft_sfida_desc_foreground
+TEXT: Automatically throw Poké Balls and spin PokéStops in the background while moving. You can activate it once daily.
+
+RESOURCE ID: soft_sfida_desc_foreground_short
+TEXT: Encounter Pokémon and spin PokéStops in the background while moving.
 
 RESOURCE ID: soft_sfida_desc_items_full
 TEXT: กรุณาจัดระเบียบกระเป๋าเก็บไอเท็ม หรืออัปเกรดพื้นที่จัดเก็บ
@@ -131148,6 +131293,12 @@ TEXT: จัดระเบียบโปเกมอน
 
 RESOURCE ID: soft_sfida_btn_manage_item_bag
 TEXT: จัดระเบียบกระเป๋าเก็บไอเท็ม
+
+RESOURCE ID: soft_sfida_btn_switch_caps
+TEXT: SWITCH
+
+RESOURCE ID: soft_sfida_btn_unpair_device_caps
+TEXT: UNPAIR DEVICE
 
 RESOURCE ID: soft_sfida_btn_view_summary
 TEXT: ดูผลสรุป
@@ -131277,10 +131428,12 @@ RESOURCE ID: soft_sfida_settings_reconnect
 TEXT: เครื่องมือนักสำรวจเปิดอยู่ แตะที่นี่เพื่อเชื่อมต่อ
 
 RESOURCE ID: soft_sfida_settings_dialog_title
-TEXT: ปิดการใช้งานเครื่องมือนักสำรวจของวันนี้เลยหรือไม่?
+TEXT: ปิดการใช้งานเครื่องมือนักสำรวจ
+ของวันนี้เลยหรือไม่?
 
 RESOURCE ID: soft_sfida_settings_dialog_desc
-TEXT: การใช้งานเครื่องมือนักสำรวจจะสิ้นสุดลงเมื่อเชื่อมต่อุปกรณ์เสริม
+TEXT: การใช้งานเครื่องมือนักสำรวจจะสิ้นสุดลง
+เมื่อเชื่อมต่อุปกรณ์เสริม
 
 RESOURCE ID: soft_sfida_settings_notification_header
 TEXT: เครื่องมือนักสำรวจ
@@ -137344,6 +137497,12 @@ TEXT: งานวิจัยแบบจำกัดเวลาหวาน�
 RESOURCE ID: switch_sleep_warning
 TEXT: ขณะที่กำลังเชื่อมต่อกับ Nintendo Switch ห้ามปิดสมาร์ตโฟนของคุณหรือเข้าสู่โหมดสลีป
 
+RESOURCE ID: switch_to_soft_sfida_description_default
+TEXT: If you're unable to use your device but want to remain paired, you can use Explorer Gadget Instead.
+
+RESOURCE ID: switch_to_soft_sfida_title_default
+TEXT: Pause your device and switch to Explorer Gadget?
+
 RESOURCE ID: swsh_masterball_sr_title
 TEXT: งานวิจัยระยะยาว: มาสเตอร์บอล
 
@@ -138220,8 +138379,6 @@ TEXT: <b>สิ่งที่จะได้รับ:</b>
 - แลกเปลี่ยนแบบพิเศษได้สูงสุด 6 ครั้งต่อวัน และลดปริมาณสตาร์ดัสต์ที่ใช้สำหรับแลกเปลี่ยน
 - 2× ลูกอมจากการจับโปเกมอน
 - โอกาสในการเผชิญหน้ากับโปเกมอนสีแตกต่างจะเพิ่มขึ้นในระหว่างอีเวนต์
-
-เรียนรู้เพิ่มเติมเกี่ยวกับโบนัสตั๋วได้<a href="pokemongo.com/gowildarea/global">ที่นี่</a>
 
 RESOURCE ID: text_rewards_key_growingup0525
 TEXT: <b>รางวัลที่จะได้รับ:</b>
@@ -144637,7 +144794,7 @@ RESOURCE ID: trade_friend_connected_toast
 TEXT: {0}เชื่อมต่อแล้ว!
 
 RESOURCE ID: trade_friend_is_selecting
-TEXT: กำลังรอ{0}เลือกโปเกมอน...
+TEXT: กำลังรอ {0} เลือกโปเกมอน...
 
 RESOURCE ID: trade_friend_left_title
 TEXT: การแลกเปลี่ยนถูกยุติ
@@ -144981,7 +145138,9 @@ RESOURCE ID: triple_stat_increase_ftue_title
 TEXT: คุณได้รับฝาทองแล้ว!
 
 RESOURCE ID: triple_stat_increase_ftue_body
-TEXT: ใช้เข้าคอร์สการฝึกขั้นสุดยอดระยะเวลา 1 ปี เพื่อเพิ่มค่าพลังทั้งหมดของโปเกมอนให้เต็ม
+TEXT: ใช้เข้าคอร์สการฝึกขั้นสุดยอด
+ระยะเวลา 1 ปี เพื่อเพิ่มค่าพลัง
+ทั้งหมดของโปเกมอนให้เต็ม
 
 RESOURCE ID: triumph_together_tr
 TEXT: งานวิจัยแบบจำกัดเวลาพร้อมหน้าคว้าชัย
@@ -145090,7 +145249,13 @@ RESOURCE ID: tutorial_bf+_remote_trading_body
 TEXT: เมื่อเป็น "เพื่อนแท้ตลอดไป" จะสามารถดูโปเกมอนที่ติดแท็ก "แลกเปลี่ยนระยะไกล" รวมถึงจะสามารถแลกเปลี่ยนระยะไกลได้
 
 RESOURCE ID: tutorial_bf+_trade_with_friends_body
-TEXT: เมื่อถึงเลเวล 10 จะสามารถแลกเปลี่ยนโปเกมอนกับเพื่อนเพื่อช่วยให้โปเกเด็กซ์สมบูรณ์ยิ่งขึ้นได้ คุณจะสามารถแลกเปลี่ยนกับเพื่อนที่อยู่ใกล้ ๆ ได้เท่านั้น และจะสามารถแลกเปลี่ยนระยะไกลกับเพื่อนที่เป็น "เพื่อนแท้ตลอดไป" ได้
+TEXT: เมื่อถึงเลเวล 10 จะสามารถแลกเปลี่ยน
+โปเกมอนกับเพื่อนเพื่อช่วยให้โปเกเด็กซ์
+สมบูรณ์ยิ่งขึ้นได้
+คุณจะสามารถแลกเปลี่ยนกับเพื่อน
+ที่อยู่ใกล้ ๆ ได้เท่านั้น และจะสามารถ
+แลกเปลี่ยนระยะไกลกับเพื่อนที่เป็น
+"เพื่อนแท้ตลอดไป" ได้
 
 RESOURCE ID: tutorial_buddy_giftbox
 TEXT: คู่หูของคุณนำของขวัญบางอย่างกลับมาจากการสำรวจบริเวณรอบ ๆ ลองส่งของขวัญไปให้เพื่อนของคุณดูสิ!
@@ -145143,13 +145308,19 @@ TEXT: ถ้าเจอแล้วไม่มั่นใจว่าเป�
 ก็ไปให้หัวหน้าทีมตรวจสอบดูนะ!
 
 RESOURCE ID: tutorial_remote_trade_candy_bonuses_body
-TEXT: เหมือนกับการแลกเปลี่ยนในพื้นที่ จำนวนลูกอมที่ได้รับจะแตกต่างกันไปตามระยะทางระหว่างสถานที่จับโปเกมอนที่แลกเปลี่ยนทั้ง 2 ตัว ยิ่งระยะไกล (ถึงราว 100 กม.) ยิ่งได้รับลูกอมเยอะขึ้น
+TEXT: เหมือนกับการแลกเปลี่ยนในพื้นที่
+จำนวนลูกอมที่ได้รับจะแตกต่างกันไป
+ตามระยะทางระหว่างสถานที่จับ
+โปเกมอนที่แลกเปลี่ยนทั้ง 2 ตัว
+ยิ่งระยะไกล (ถึงราว 100 กม.) ยิ่งได้รับ
+ลูกอมเยอะขึ้น
 
 RESOURCE ID: tutorial_remote_trade_icon_glossary_title
 TEXT: คำอธิบายไอคอน
 
 RESOURCE ID: tutorial_remote_trade_icon_glossary_top
-TEXT: โปเกมอนบางตัวอาจมีไอคอนด้านล่างนี้ปรากฏอยู่
+TEXT: โปเกมอนบางตัวอาจมีไอคอนด้านล่างนี้
+ปรากฏอยู่
 
 RESOURCE ID: tutorial_remote_trade_icon_glossary_unregistered
 TEXT: โปเกมอนที่ยังไม่เคยจับ
@@ -145173,15 +145344,21 @@ RESOURCE ID: tutorial_remote_trade_pokemon_title
 TEXT: เลือกโปเกมอน 1 ตัว
 
 RESOURCE ID: tutorial_remote_trade_pokemon_body
-TEXT: คุณและเพื่อนของคุณต้องเลือกโปเกมอนจากในคำขอ จากนั้นจึงตรวจสอบและยืนยันการแลกเปลี่ยน
+TEXT: คุณและเพื่อนของคุณต้องเลือก
+โปเกมอนจากในคำขอ จากนั้นจึง
+ตรวจสอบและยืนยันการแลกเปลี่ยน
 
 RESOURCE ID: tutorial_remote_trade_selection_title
-TEXT: เลือกโปเกมอนที่ต้องการจากในรายชื่อของเพื่อน
+TEXT: เลือกโปเกมอนที่ต้องการ
+จากในรายชื่อของเพื่อน
 
 RESOURCE ID: tutorial_remote_trade_selection_body
-TEXT: เลือกโปเกมอนที่ต้องการ 1-3 ตัวจากในรายชื่อโปเกมอนที่ติดแท็ก "แลกเปลี่ยนระยะไกล" ของเพื่อน
+TEXT: เลือกโปเกมอนที่ต้องการ 1-3 ตัว
+จากในรายชื่อโปเกมอนที่ติดแท็ก
+"แลกเปลี่ยนระยะไกล" ของเพื่อน
 
-เพื่อนก็จะเลือกโปเกมอนของคุณที่ติดแท็กเช่นเดียวกัน
+เพื่อนก็จะเลือกโปเกมอนของคุณ
+ที่ติดแท็กเช่นเดียวกัน
 
 RESOURCE ID: tutorial_remote_trade_tag_unlocked_title
 TEXT: แท็ก "แลกเปลี่ยนระยะไกล"
@@ -145195,9 +145372,13 @@ RESOURCE ID: tutorial_remote_trade_tag_unlocked_confirm
 TEXT: ไปที่แท็ก
 
 RESOURCE ID: tutorial_remote_trade_with_stardust_body
-TEXT: เหมือนกับการแลกเปลี่ยนในพื้นที่ ปริมาณสตาร์ดัสต์ที่จำเป็นสำหรับการแลกเปลี่ยนจะแตกต่างกันไปตามแต่ละโปเกมอน
+TEXT: เหมือนกับการแลกเปลี่ยนในพื้นที่
+ปริมาณสตาร์ดัสต์ที่จำเป็นสำหรับ
+การแลกเปลี่ยนจะแตกต่างกันไป
+ตามแต่ละโปเกมอน
 
-การแลกเปลี่ยนระยะไกลจะไม่ถูกนับเป็นการแลกเปลี่ยนแบบพิเศษ
+การแลกเปลี่ยนระยะไกลจะไม่ถูกนับ
+เป็นการแลกเปลี่ยนแบบพิเศษ
 
 RESOURCE ID: tutorial_route_bonus_0
 TEXT: ได้รับลูกอมจากคู่หูเร็วขึ้น
@@ -147779,22 +147960,29 @@ RESOURCE ID: weekly_challenges_description
 TEXT: เทรนเนอร์ 4 คนร่วมมือกันทำคำท้าให้เสร็จสิ้น!
 
 RESOURCE ID: weekly_challenges_add_friend_enable_title
-TEXT: เปิดใช้งานส่งคำขอเป็นเพื่อนจากสมาชิกคำท้ารายสัปดาห์หรือไม่?
+TEXT: เปิดใช้งานส่งคำขอเป็นเพื่อนจาก
+สมาชิกคำท้ารายสัปดาห์หรือไม่?
 
 RESOURCE ID: weekly_challenges_add_friend_enable_body
-TEXT: ร่วมมือกันทำคำท้ารายสัปดาห์ให้เสร็จสิ้นเพื่อเพิ่มระดับมิตรภาพ คุณสามารถเปลี่ยนการตั้งค่าได้ที่เมนูการตั้งค่าในภายหลัง
+TEXT: ร่วมมือกันทำคำท้ารายสัปดาห์
+ให้เสร็จสิ้นเพื่อเพิ่มระดับมิตรภาพ
+คุณสามารถเปลี่ยนการตั้งค่าได้ที่
+เมนูการตั้งค่าในภายหลัง
 
 RESOURCE ID: weekly_challenges_add_friend_enabled_off_toast
-TEXT: ปิดใช้งานส่งคำขอเป็นเพื่อนจากสมาชิกคำท้ารายสัปดาห์แล้ว
+TEXT: ปิดใช้งานส่งคำขอเป็นเพื่อนจาก
+สมาชิกคำท้ารายสัปดาห์แล้ว
 
 RESOURCE ID: weekly_challenges_add_friend_enabled_on_toast
-TEXT: เปิดใช้งานส่งคำขอเป็นเพื่อนจากสมาชิกคำท้ารายสัปดาห์แล้ว
+TEXT: เปิดใช้งานส่งคำขอเป็นเพื่อนจาก
+สมาชิกคำท้ารายสัปดาห์แล้ว
 
 RESOURCE ID: weekly_challenges_allow_friend_requests_toggle_title
 TEXT: สมาชิกคำท้ารายสัปดาห์
 
 RESOURCE ID: weekly_challenges_allow_friend_requests_toggle_tip
-TEXT: ร่วมมือกันทำคำท้ารายสัปดาห์ให้เสร็จสิ้นเพื่อเพิ่มระดับมิตรภาพ
+TEXT: ร่วมมือกันทำคำท้ารายสัปดาห์
+ให้เสร็จสิ้นเพื่อเพิ่มระดับมิตรภาพ
 
 RESOURCE ID: weekly_challenges_canceled_invite_success_toast
 TEXT: ยกเลิกคำเชิญถึง {0} แล้ว

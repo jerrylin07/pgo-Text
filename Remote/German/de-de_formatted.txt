@@ -21518,13 +21518,13 @@ RESOURCE ID: bread_lobby_attack_multiplier_dialog_title
 TEXT: Angriffsbonus
 
 RESOURCE ID: bread_lobby_countdown_to_battle_start
-TEXT: Countdown to the Max Battle start
+TEXT: Countdown bis zum Beginn des Dyna-Kampfs
 
 RESOURCE ID: bread_lobby_error_battle_completed
 TEXT: Du hast bereits an dieser Kraftquelle gekämpft.
 
 RESOURCE ID: bread_lobby_error_failed_to_create_battle
-TEXT: Could not join the Max Battle. Please try again later.
+TEXT: Dem Dyna-Kampf konnte nicht beigetreten werden. Bitte versuche es später erneut.
 
 RESOURCE ID: bread_lobby_error_friend_details_unavailable
 TEXT: Beim Senden dieser Einladung ist etwas schiefgelaufen. Bitte versuche es erneut.
@@ -21708,19 +21708,19 @@ RESOURCE ID: bread_post_battle_encounter_run_away_description
 TEXT: Wenn du flüchtest, kannst du dieses Pokémon nicht fangen.
 
 RESOURCE ID: bread_private_lobby_error_unavailable
-TEXT: Private groups are currently unavailable. Please try again later.
+TEXT: Private Gruppen sind momentan nicht verfügbar. Bitte versuche es später erneut.
 
 RESOURCE ID: bread_private_lobby_error_flip_unavailable
-TEXT: The group could not be changed to public.
+TEXT: Die Gruppe konnte nicht geöffnet werden.
 
 RESOURCE ID: bread_private_lobby_error_limit_reached
-TEXT: The maximum number of private groups for this Max Battle has been reached.
+TEXT: Die maximale Anzahl an privaten Gruppen für diesen Dyna-Kampf ist bereits erreicht.
 
 RESOURCE ID: bread_private_lobby_error_not_creator
-TEXT: Only the Trainer who created this group can change it to public.
+TEXT: Nur der Trainer, der diese Gruppe erstellt hat, kann sie öffentlich stellen.
 
 RESOURCE ID: bread_private_lobby_error_not_found
-TEXT: This group could not be found. The code may be incorrect, or the group may no longer be available.
+TEXT: Die Gruppe wurde nicht gefunden. Der Code wurde vielleicht falsch eingegeben oder die Gruppe ist nicht mehr verfügbar.
 
 RESOURCE ID: bread_release_title
 TEXT: Möchtest du, dass {0} zurückkehrt?
@@ -29726,6 +29726,9 @@ TEXT: Tippen, um Pokémon zu wechseln
 
 RESOURCE ID: combat_choose_next_pokemon
 TEXT: Swap in a new Pokémon?
+
+RESOURCE ID: combat_choose_pokemon_scaled
+TEXT: Some Pokémon’s CP has been adjusted for this league.
 
 RESOURCE ID: combat_choosing_their_team
 TEXT: is choosing their team!
@@ -56977,6 +56980,72 @@ TEXT: Zur Feier des Wasserfestivals 2025 ist in Korea eine tägliche Befristete 
 RESOURCE ID: kr_festival_tr_location_background
 TEXT: Pokémon, die bei Befristeten Forschungsaufgaben gefangen wurden, können einen exklusiven Ortshintergrund haben.
 
+RESOURCE ID: kr_hanbok_pikachu_2026_irl_event_tag
+TEXT: Pikachus Herbst-Picknick 2026
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_irl_title
+TEXT: Pikachus Herbst-Picknick 2026
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_title
+TEXT: Pikachus Ausflug in Korea 2026
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_event_desc
+TEXT: Pikachu mit orangefarbenem Hanbok erscheint in der Nähe!
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_irl_event_desc
+TEXT: Halte Ausschau nach Orten, an denen du Pikachu mit Hanbok findest!
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_irl_fr_bonus_desc
+TEXT: Event-Feldforschung mit der Chance, Pikachu mit orangefarbenem Hanbok zu begegnen
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_irl_raid_bonus_desc
+TEXT: Folge den besonderen PokéStops im Event-Bereich und stelle dich einmal pro Tag Pikachu mit orangefarbenem Hanbok in Raids an ausgewählten Arenen.
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_irl_tr_bonus_desc
+TEXT: Begegne einem Pikachu mit orangefarbenem Hanbok im Rahmen einer Befristeten Forschung, indem du besondere PokéStops im Event-Bereich drehst. Auf dem offiziellen Blog gibt es weitere Details.
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_irl_tr_name
+TEXT: Befristete Forschung: Pikachus Herbst-Picknick-Weg
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_irl_tr_name_1
+TEXT: Befristete Forschung: Pikachus Herbst-Picknick-Weg (1/2)
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_irl_tr_name_2
+TEXT: Befristete Forschung: Pikachus Herbst-Picknick-Weg (2/2)
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_irl_tr_spin_plural
+TEXT: Drehe {0} PokéStops mit Pikachu mit Hanbok, die du bisher noch nicht gedreht hast.
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_irl_tr_spin_singular
+TEXT: Drehe einen PokéStop mit Pikachu mit Hanbok, den du bisher noch nicht gedreht hast.
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_raid_bonus_desc
+TEXT: Pikachu mit orangefarbenem Hanbok erscheint mit vermehrter Häufigkeit in Raids
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_tr_bonus_desc
+TEXT: Erhalte durch Befristete Forschung die Chance, Pikachu mit orangefarbenem Hanbok zu begegnen.
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_tr_name
+TEXT: Befristete Forschung: Pikachus Ausflug in Korea 2026
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_tr_name_1
+TEXT: Befristete Forschung: Pikachus Ausflug in Korea 2026 (1/3)
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_tr_name_2
+TEXT: Befristete Forschung: Pikachus Ausflug in Korea 2026 (2/3)
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_tr_name_3
+TEXT: Befristete Forschung: Pikachus Ausflug in Korea 2026 (3/3)
+
+RESOURCE ID: kr_hangul_day_2026_title
+TEXT: 2026 Hangul Day
+
+RESOURCE ID: kr_hangul_day_2026_bonus_desc
+TEXT: Celebrate Hangul Day with event-themed Pokémon appearing in the wild! Use Incense or Lure Modules to encounter special Pokémon.
+
+RESOURCE ID: kr_hangul_day_sep2026_cc_title
+TEXT: 2026 Hangul Day Collection Challenge
+
 RESOURCE ID: kr_lantern_festival_2025_massive_bonus_title
 TEXT: Es ist Karpador-Zeit!
 
@@ -62043,6 +62112,9 @@ TEXT: Wähle ein Pokémon, bei dem du die Mega-Entwicklung auslösen möchtest!
 RESOURCE ID: mega_evolve_lobby_existing_toast
 TEXT: Du kannst immer nur ein Mega-Entwicklungs-Pokémon einsetzen.
 
+RESOURCE ID: mega_evolve_pokemon_to_use_in_this_party
+TEXT: Mega Evolve Gengar to use this party.
+
 RESOURCE ID: mega_evolve_preview_first_time
 TEXT: Nachdem du bei einem Pokémon zum ersten Mal die Mega-Entwicklung ausgelöst hast, kannst du bei ihm nach einer Ruhephase die Mega-Entwicklung ohne Mega-Energie erneut auslösen.
 
@@ -62447,10 +62519,10 @@ at SHA 4d4f3e80cc7fb911006bd14d198c9831ef66d005
 Pipeline 339838, job 2672172
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-09-05T00:32:30.434548+00:00 for de-DE
-at SHA cdf94269c783
-Pipeline 3923663, job 57741156
-Patch from: 0.427.0-SHA-3b6aecd1-RC5, 0.425.1-SHA-966e4c2a-RC1, 0.429.0-SHA-de304d2a-RC2
+TEXT: Built at 2026-09-09T21:50:37.113604+00:00 for de-DE
+at SHA 83a400d168f
+Pipeline 3932304, job 57870598
+Patch from: 0.427.98-SHA-5e44928a-RC1, 0.429.0-SHA-d6c796f0-RC1, 0.427.1-SHA-4a569ba7-RC1
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: Befristete Forschung: Ansage vom Typ Kampf
@@ -68141,6 +68213,9 @@ TEXT: Deine Aufgabe besteht darin, überall Pokémon zu suchen und zu sammeln!
 
 RESOURCE ID: onboard_welcome_screen|9
 TEXT: Wähle jetzt deinen Look für dein Abenteuer aus.
+
+RESOURCE ID: one_or_more_pokemon_exceed_this_leagues_cp_limit
+TEXT: One or more Pokémon exceed this league’s CP limit.
 
 RESOURCE ID: one_route_nearby_label
 TEXT: 1 route
@@ -83781,45 +83856,45 @@ RESOURCE ID: privacy_policy_update_notice
 TEXT: Bitte lies die aktualisierte Datenschutzrichtlinie von Niantic, die zusätzliche Informationen zu neuen Produktfunktionen und zu unserem Umgang mit personenbezogenen Daten enthält.
 
 RESOURCE ID: private_group_title
-TEXT: Private Group
+TEXT: Private Gruppe
 
 RESOURCE ID: private_group_pill
-TEXT: PRIVATE
+TEXT: PRIVAT
 
 RESOURCE ID: private_group_change_to_public_title
-TEXT: Change to Public
+TEXT: Gruppe öffnen
 
 RESOURCE ID: private_group_change_to_public_desc
-TEXT: If you change this group to public, anyone can join and battle with you. Once you change to public, your group cannot be made private again.
+TEXT: Wenn du die Gruppe öffentlich machst, kann jeder beitreten und an deiner Seite kämpfen. Wenn deine Gruppe öffentlich gemacht wird, kann sie nicht wieder auf privat eingestellt werden.
 
-Are you sure you want to change to a public group?
+Bist du dir sicher, dass du sie zu einer öffentlichen Gruppe machen willst?
 
 RESOURCE ID: private_group_change_to_public_button
-TEXT: CHANGE TO PUBLIC
+TEXT: GRUPPE ÖFFNEN
 
 RESOURCE ID: private_group_code_intro
-TEXT: Battle together with friends by entering their group code.
+TEXT: Kämpfe gemeinsam mit Freunden, indem du ihren Gruppen-Code eingibst.
 
 RESOURCE ID: private_group_code_label
-TEXT: GROUP CODE
+TEXT: GRUPPEN-CODE
 
 RESOURCE ID: private_group_create_button
-TEXT: Create Group
+TEXT: Gruppe erstellen
 
 RESOURCE ID: private_group_created_title
-TEXT: Successfully created a group!
+TEXT: Gruppe erfolgreich erstellt!
 
 RESOURCE ID: private_group_entry_button
-TEXT: PRIVATE GROUP
+TEXT: PRIVATE GRUPPE
 
 RESOURCE ID: private_group_invalid_code
-TEXT: This group code is invalid. Please enter a valid code.
+TEXT: Dieser Gruppen-Code ist ungültig. Bitte gib einen gültigen Code ein.
 
 RESOURCE ID: private_group_join_button
-TEXT: Join Group
+TEXT: Gruppe beitreten
 
 RESOURCE ID: private_group_share_code_message
-TEXT: Share this group code with your friends. They can join you by entering this group code.
+TEXT: Teile diesen Gruppen-Code mit deinen Freunden. Sie können deiner Gruppe beitreten, indem sie diesen Gruppen-Code eingeben.
 
 RESOURCE ID: prof_willow_birthday_2026_title
 TEXT: Willows Geburtstagsforschung
@@ -112611,6 +112686,9 @@ TEXT: Heute zurückgekehrt
 RESOURCE ID: returning_sign_in_partial
 TEXT: Anmelden mit {0}
 
+RESOURCE ID: revert_pokemon_to_its_primal_form_to_use_this_party
+TEXT: Revert Kyogre to its Primal form to use this party.
+
 RESOURCE ID: revive_all_button
 TEXT: Alle wiederbeleben
 
@@ -119198,12 +119276,12 @@ TEXT: {0}-Aufbewahrung vollständig verbessert!
 RESOURCE ID: shop_fully_upgraded_purchasable
 TEXT: {0} vollständig verbessert! Erhalte mehr Aufbewahrung, indem du auflevelst!
 
-<a href="https://scopelyexplore.helpshift.com/hc/faq/1432-available-items-your-bag/">Hier erfährst du mehr über das Aufleveln.</a>
+<a href="https://scopelyexplore.helpshift.com/hc/faq/1235-available-items-your-bag/">Hier erfährst du mehr über das Aufleveln.</a>
 
 RESOURCE ID: shop_fully_upgraded_purchasable_plural
 TEXT: Deine {0}-Aufbewahrung ist vollständig verbessert! Erhalte mehr Aufbewahrung, indem du auflevelst!
 
-<a href="https://scopelyexplore.helpshift.com/hc/faq/1432-available-items-your-bag/">Hier erfährst du mehr über das Aufleveln.</a>
+<a href="https://scopelyexplore.helpshift.com/hc/faq/1235-available-items-your-bag/">Hier erfährst du mehr über das Aufleveln.</a>
 
 RESOURCE ID: shop_gift_friend_ineligible_title
 TEXT: Geschenk kann nicht verschickt werden
@@ -120554,6 +120632,12 @@ TEXT: Wirf beim Erkunden automatisch Pokébälle und drehe PokéStops, während 
 RESOURCE ID: soft_sfida_desc_default_short
 TEXT: Wirf beim Erkunden automatisch Pokébälle und drehe PokéStops, während Pokémon GO geschlossen ist.
 
+RESOURCE ID: soft_sfida_desc_foreground
+TEXT: Automatically throw Poké Balls and spin PokéStops in the background while moving. You can activate it once daily.
+
+RESOURCE ID: soft_sfida_desc_foreground_short
+TEXT: Encounter Pokémon and spin PokéStops in the background while moving.
+
 RESOURCE ID: soft_sfida_desc_items_full
 TEXT: Du kannst deinen Item-Beutel verwalten oder unter Upgrades dein Aufbewahrungslimit erhöhen.
 
@@ -120595,6 +120679,12 @@ TEXT: Pokémon verwalten
 
 RESOURCE ID: soft_sfida_btn_manage_item_bag
 TEXT: Item-Beutel verwalten
+
+RESOURCE ID: soft_sfida_btn_switch_caps
+TEXT: SWITCH
+
+RESOURCE ID: soft_sfida_btn_unpair_device_caps
+TEXT: UNPAIR DEVICE
 
 RESOURCE ID: soft_sfida_btn_view_summary
 TEXT: Bericht ansehen
@@ -125839,6 +125929,12 @@ TEXT: Befristete Forschung: Süßer Schwarm – Flauschling (2/2)
 RESOURCE ID: switch_sleep_warning
 TEXT: Please make sure that the mobile phone is up and running while connecting to SWITCH. Mobile phones going into sleep mode may disconnect from SWITCH.
 
+RESOURCE ID: switch_to_soft_sfida_description_default
+TEXT: If you're unable to use your device but want to remain paired, you can use Explorer Gadget Instead.
+
+RESOURCE ID: switch_to_soft_sfida_title_default
+TEXT: Pause your device and switch to Explorer Gadget?
+
 RESOURCE ID: swsh_masterball_sr_title
 TEXT: Meisterwerk-Forschung: Meisterball
 
@@ -126671,7 +126767,6 @@ TEXT: <b>Enthält:</b>
 • Bis zu 6 Spezial-Tausche pro Tag und verringerte Sternenstaubkosten beim Tauschen
 • 2× Bonbons für das Fangen von Pokémon
 • Erhöhte Chance, während des Events Schillernden Pokémon zu begegnen
-Erfahre <a href="pokemongo.com/gowildarea/global">hier</a> mehr über die Ticket-Boni.
 
 RESOURCE ID: text_rewards_key_growingup0525
 TEXT: <b>Enthaltene Belohnungen:</b>

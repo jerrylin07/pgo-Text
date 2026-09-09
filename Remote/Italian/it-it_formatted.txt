@@ -29406,6 +29406,9 @@ TEXT: Tocca per cambiare Pokémon
 RESOURCE ID: combat_choose_next_pokemon
 TEXT: Swap in a new Pokémon?
 
+RESOURCE ID: combat_choose_pokemon_scaled
+TEXT: Some Pokémon’s CP has been adjusted for this league.
+
 RESOURCE ID: combat_choosing_their_team
 TEXT: is choosing their team!
 
@@ -56640,6 +56643,72 @@ TEXT: Quest’estate, per festeggiare il Festival dell’Acqua 2025, sarà dispo
 RESOURCE ID: kr_festival_tr_location_background
 TEXT: I Pokémon catturati nelle missioni di ricerca a tempo potrebbero avere un esclusivo Sfondo di posizione
 
+RESOURCE ID: kr_hanbok_pikachu_2026_irl_event_tag
+TEXT: Picnic autunnale di Pikachu 2026
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_irl_title
+TEXT: Picnic autunnale di Pikachu 2026
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_title
+TEXT: Giornata di svago di Pikachu in Korea 2026
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_event_desc
+TEXT: Pikachu con hanbok arancione sta apparendo nelle vicinanze!
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_irl_event_desc
+TEXT: Cerca i luoghi in cui puoi incontrare Pikachu con hanbok!
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_irl_fr_bonus_desc
+TEXT: Ricerca sul campo a tema che offre una possibilità di incontrare Pikachu con hanbok arancione
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_irl_raid_bonus_desc
+TEXT: Visita i Pokéstop speciali presenti nei dintorni della zona dell’evento e affronta Pikachu con hanbok arancione nei raid e in alcune Palestre lungo il percorso, una volta al giorno.
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_irl_tr_bonus_desc
+TEXT: Incontra Pikachu con hanbok arancione tramite la ricerca a tempo facendo girare i dischi di Pokéstop speciali presenti nei dintorni della zona dell’evento. Visita il blog ufficiale per ulteriori dettagli.
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_irl_tr_name
+TEXT: Ricerca a tempo “Cammino del picnic autunnale di Pikachu”
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_irl_tr_name_1
+TEXT: Ricerca a tempo “Cammino del picnic autunnale di Pikachu” (1/2)
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_irl_tr_name_2
+TEXT: Ricerca a tempo “Cammino del picnic autunnale di Pikachu” (2/2)
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_irl_tr_spin_plural
+TEXT: Fai girare {0} dischi di Pokéstop che non hai ancora girato in cui appare Pikachu con hanbok
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_irl_tr_spin_singular
+TEXT: Fai girare il disco di un Pokéstop che non hai ancora girato in cui appare Pikachu con hanbok
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_raid_bonus_desc
+TEXT: Pikachu con hanbok arancione apparirà più frequentemente nei raid
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_tr_bonus_desc
+TEXT: Non perdere l’occasione di incontrare Pikachu con hanbok arancione durante la ricerca a tempo.
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_tr_name
+TEXT: Ricerca a tempo della giornata di svago di Pikachu in Korea 2026
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_tr_name_1
+TEXT: Ricerca a tempo della giornata di svago di Pikachu in Korea 2026 (1/3)
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_tr_name_2
+TEXT: Ricerca a tempo della giornata di svago di Pikachu in Korea 2026 (2/3)
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_tr_name_3
+TEXT: Ricerca a tempo della giornata di svago di Pikachu in Korea 2026 (3/3)
+
+RESOURCE ID: kr_hangul_day_2026_title
+TEXT: 2026 Hangul Day
+
+RESOURCE ID: kr_hangul_day_2026_bonus_desc
+TEXT: Celebrate Hangul Day with event-themed Pokémon appearing in the wild! Use Incense or Lure Modules to encounter special Pokémon.
+
+RESOURCE ID: kr_hangul_day_sep2026_cc_title
+TEXT: 2026 Hangul Day Collection Challenge
+
 RESOURCE ID: kr_lantern_festival_2025_massive_bonus_title
 TEXT: Magia di Magikarp!
 
@@ -61700,6 +61769,9 @@ TEXT: Scegli un Pokémon da far megaevolvere!
 RESOURCE ID: mega_evolve_lobby_existing_toast
 TEXT: Puoi usare solo un Pokémon megaevoluto alla volta.
 
+RESOURCE ID: mega_evolve_pokemon_to_use_in_this_party
+TEXT: Mega Evolve Gengar to use this party.
+
 RESOURCE ID: mega_evolve_preview_first_time
 TEXT: Quando hai fatto megaevolvere un Pokémon per la prima volta, lo puoi rifare megaevolvere senza Megaenergia dopo un periodo di riposo.
 
@@ -62104,10 +62176,10 @@ at SHA 4d4f3e80cc7fb911006bd14d198c9831ef66d005
 Pipeline 339838, job 2672172
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-09-05T00:32:30.434548+00:00 for it-IT
-at SHA cdf94269c783
-Pipeline 3923663, job 57741156
-Patch from: 0.427.0-SHA-3b6aecd1-RC5, 0.425.1-SHA-966e4c2a-RC1, 0.429.0-SHA-de304d2a-RC2
+TEXT: Built at 2026-09-09T21:50:37.113604+00:00 for it-IT
+at SHA 83a400d168f
+Pipeline 3932304, job 57870598
+Patch from: 0.427.98-SHA-5e44928a-RC1, 0.429.0-SHA-d6c796f0-RC1, 0.427.1-SHA-4a569ba7-RC1
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: Ricerca a tempo: Scegli il tuo tipo Lotta
@@ -67793,6 +67865,9 @@ TEXT: Non dovrai far altro che trovare e catturare Pokémon in giro per il mondo
 
 RESOURCE ID: onboard_welcome_screen|9
 TEXT: Ora, scegli un look per la tua avventura.
+
+RESOURCE ID: one_or_more_pokemon_exceed_this_leagues_cp_limit
+TEXT: One or more Pokémon exceed this league’s CP limit.
 
 RESOURCE ID: one_route_nearby_label
 TEXT: 1 route
@@ -112258,6 +112333,9 @@ TEXT: Tornati oggi
 RESOURCE ID: returning_sign_in_partial
 TEXT: Accedi con {0}
 
+RESOURCE ID: revert_pokemon_to_its_primal_form_to_use_this_party
+TEXT: Revert Kyogre to its Primal form to use this party.
+
 RESOURCE ID: revive_all_button
 TEXT: Rianima tutti
 
@@ -118848,12 +118926,12 @@ TEXT: {0} già ampliate al massimo!
 RESOURCE ID: shop_fully_upgraded_purchasable
 TEXT: {0} già ampliato al massimo! Ottieni più spazio salendo di livello!
 
-<a href="https://scopelyexplore.helpshift.com/hc/faq/1432-available-items-your-bag/">Scopri di più sugli aumenti di livello qui.</a>
+<a href="https://scopelyexplore.helpshift.com/hc/faq/1235-available-items-your-bag/">Scopri di più sugli aumenti di livello qui.</a>
 
 RESOURCE ID: shop_fully_upgraded_purchasable_plural
 TEXT: {0} già ampliate al massimo! Ottieni più spazio salendo di livello!
 
-<a href="https://scopelyexplore.helpshift.com/hc/faq/1432-available-items-your-bag/">Scopri di più sugli aumenti di livello qui.</a>
+<a href="https://scopelyexplore.helpshift.com/hc/faq/1235-available-items-your-bag/">Scopri di più sugli aumenti di livello qui.</a>
 
 RESOURCE ID: shop_gift_friend_ineligible_title
 TEXT: Impossibile inviare biglietto in regalo
@@ -120204,6 +120282,12 @@ TEXT: Lancia automaticamente Poké Ball e fai girare i dischi dei Pokéstop quan
 RESOURCE ID: soft_sfida_desc_default_short
 TEXT: Lancia automaticamente Poké Ball e fai girare i dischi dei Pokéstop quando esplori con l’app di Pokémon GO chiusa.
 
+RESOURCE ID: soft_sfida_desc_foreground
+TEXT: Automatically throw Poké Balls and spin PokéStops in the background while moving. You can activate it once daily.
+
+RESOURCE ID: soft_sfida_desc_foreground_short
+TEXT: Encounter Pokémon and spin PokéStops in the background while moving.
+
 RESOURCE ID: soft_sfida_desc_items_full
 TEXT: Organizza o amplia il tuo spazio Borsa.
 
@@ -120245,6 +120329,12 @@ TEXT: Organizza Pokémon
 
 RESOURCE ID: soft_sfida_btn_manage_item_bag
 TEXT: Organizza spazio Borsa
+
+RESOURCE ID: soft_sfida_btn_switch_caps
+TEXT: SWITCH
+
+RESOURCE ID: soft_sfida_btn_unpair_device_caps
+TEXT: UNPAIR DEVICE
 
 RESOURCE ID: soft_sfida_btn_view_summary
 TEXT: Vedi riepilogo
@@ -125495,6 +125585,12 @@ TEXT: Ricerca a tempo dedicata a  Swirlix dell’evento “Dolcissimo sciame” 
 RESOURCE ID: switch_sleep_warning
 TEXT: Please make sure that the mobile phone is up and running while connecting to SWITCH. Mobile phones going into sleep mode may disconnect from SWITCH.
 
+RESOURCE ID: switch_to_soft_sfida_description_default
+TEXT: If you're unable to use your device but want to remain paired, you can use Explorer Gadget Instead.
+
+RESOURCE ID: switch_to_soft_sfida_title_default
+TEXT: Pause your device and switch to Explorer Gadget?
+
 RESOURCE ID: swsh_masterball_sr_title
 TEXT: Ricerca magistrale: Master Ball
 
@@ -126324,8 +126420,6 @@ TEXT: <b>Include:</b>
 • Fino a sei scambi speciali al giorno e costo di polvere di stelle ridotto per gli scambi
 • Doppio delle caramelle da cattura
 • Maggiori probabilità di incontrare Pokémon cromatici durante l’evento
-
-Scopri di più sui bonus per il biglietto <a href="pokemongo.com/gowildarea/global">qui</a>.
 
 RESOURCE ID: text_rewards_key_growingup0525
 TEXT: <b>Le ricompense includono:</b>

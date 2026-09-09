@@ -27060,6 +27060,9 @@ TEXT: Pokémon’ları değiştirmek için dokunun
 RESOURCE ID: combat_choose_next_pokemon
 TEXT: Yeni Pokémon'a geçilsin mi?
 
+RESOURCE ID: combat_choose_pokemon_scaled
+TEXT: Some Pokémon’s CP has been adjusted for this league.
+
 RESOURCE ID: combat_choosing_their_team
 TEXT: takımını seçiyor!
 
@@ -54185,6 +54188,72 @@ TEXT: Su Festivali 2025 boyunca Kore’nin her yerinden günlük süreli araşt�
 RESOURCE ID: kr_festival_tr_location_background
 TEXT: Süreli araştırma görevlerinden yakalanan Pokémon’lar ayrıcalıklı bir konum arka planına sahip olabilir
 
+RESOURCE ID: kr_hanbok_pikachu_2026_irl_event_tag
+TEXT: Pikachu’nun Güz Pikniği 2026
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_irl_title
+TEXT: Pikachu’nun Güz Pikniği 2026
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_title
+TEXT: Pikachu’nun Kore’deki Günübirlik Gezisi 2026
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_event_desc
+TEXT: Turuncu hanbok kıyafetli Pikachu yakınlarda ortaya çıkıyor!
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_irl_event_desc
+TEXT: Gözünüz hanbok kıyafetli Pikachu’ların öne çıktığı konumlarda olsun!
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_irl_fr_bonus_desc
+TEXT: Turuncu hanbok kıyafetli Pikachu ile karşılaşma şansı içeren etkinlik temalı alan araştırması
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_irl_raid_bonus_desc
+TEXT: Etkinlik alanındaki özel PokéDurakları takip edin ve yolunuza çıkan belirli spor salonlarında turuncu hanbok kıyafetli Pikachu’ya günde bir kez olmak üzere meydan okuyun.
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_irl_tr_bonus_desc
+TEXT: Etkinlik alanındaki özel PokéDurakları döndürerek süreli araştırmada turuncu hanbok kıyafetli Pikachu ile karşılaşın. Ayrıntıları resmî blogdan öğrenebilirsiniz.
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_irl_tr_name
+TEXT: Pikachu’nun Güz Pikniği Patikası Süreli Araştırması
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_irl_tr_name_1
+TEXT: Pikachu’nun Güz Pikniği Patikası Süreli Araştırması (1/2)
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_irl_tr_name_2
+TEXT: Pikachu’nun Güz Pikniği Patikası Süreli Araştırması (2/2)
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_irl_tr_spin_plural
+TEXT: Hanbok kıyafetli Pikachu’ların öne çıktığı, henüz döndürmediğiniz {0} PokéDurak döndürün
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_irl_tr_spin_singular
+TEXT: Hanbok kıyafetli Pikachu’ların öne çıktığı, henüz döndürmediğiniz bir PokéDurak döndürün
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_raid_bonus_desc
+TEXT: Turuncu hanbok kıyafetli Pikachu akınlarda daha sık ortaya çıkacak
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_tr_bonus_desc
+TEXT: Süreli araştırmada turuncu hanbok kıyafetli Pikachu ile karşılaşma şansı kazanabilirsiniz.
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_tr_name
+TEXT: Pikachu’nun Kore’deki Günübirlik Gezisi 2026 Süreli Araştırması
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_tr_name_1
+TEXT: Pikachu’nun Kore’deki Günübirlik Gezisi 2026 Süreli Araştırması (1/3)
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_tr_name_2
+TEXT: Pikachu’nun Kore’deki Günübirlik Gezisi 2026 Süreli Araştırması (2/3)
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_tr_name_3
+TEXT: Pikachu’nun Kore’deki Günübirlik Gezisi 2026 Süreli Araştırması (3/3)
+
+RESOURCE ID: kr_hangul_day_2026_title
+TEXT: 2026 Hangul Day
+
+RESOURCE ID: kr_hangul_day_2026_bonus_desc
+TEXT: Celebrate Hangul Day with event-themed Pokémon appearing in the wild! Use Incense or Lure Modules to encounter special Pokémon.
+
+RESOURCE ID: kr_hangul_day_sep2026_cc_title
+TEXT: 2026 Hangul Day Collection Challenge
+
 RESOURCE ID: kr_lantern_festival_2025_massive_bonus_title
 TEXT: Magikarp Zamanı geldi!
 
@@ -59230,6 +59299,9 @@ TEXT: Mega Evrimleştirmek istediğiniz Pokémon'u seçin!
 RESOURCE ID: mega_evolve_lobby_existing_toast
 TEXT: Aynı anda yalnızca bir Mega Evrimleşmiş Pokémon kullanabilirsiniz
 
+RESOURCE ID: mega_evolve_pokemon_to_use_in_this_party
+TEXT: Mega Evolve Gengar to use this party.
+
 RESOURCE ID: mega_evolve_preview_first_time
 TEXT: Bir Pokémon'u ilk kez Mega Evrimleştirdikten sonra dinlenme süresinin dolmasını bekleyerek Mega Enerji kullanmadan tekrar Mega Evrimleştirebilirsiniz.
 
@@ -59634,10 +59706,10 @@ at SHA 413df5befdbe0d00a543f8a142221526d63b719a
 Pipeline 834428, job 8736424
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-09-05T00:32:30.434548+00:00 for tr-TR
-at SHA cdf94269c783
-Pipeline 3923663, job 57741156
-Patch from: 0.427.0-SHA-3b6aecd1-RC5, 0.425.1-SHA-966e4c2a-RC1, 0.429.0-SHA-de304d2a-RC2
+TEXT: Built at 2026-09-09T21:50:37.113604+00:00 for tr-TR
+at SHA 83a400d168f
+Pipeline 3932304, job 57870598
+Patch from: 0.427.98-SHA-5e44928a-RC1, 0.429.0-SHA-d6c796f0-RC1, 0.427.1-SHA-4a569ba7-RC1
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: Süreli Araştırma: Dövüşçünüzü Seçin
@@ -65318,6 +65390,9 @@ TEXT: Bunun için pek çok yerden Pokémon bulup toplaman gerekecek.
 
 RESOURCE ID: onboard_welcome_screen|9
 TEXT: Macerana başlamak için görünümünü seç!
+
+RESOURCE ID: one_or_more_pokemon_exceed_this_leagues_cp_limit
+TEXT: One or more Pokémon exceed this league’s CP limit.
 
 RESOURCE ID: one_route_nearby_label
 TEXT: 1 route
@@ -109585,6 +109660,9 @@ TEXT: Bugün Dönenler
 RESOURCE ID: returning_sign_in_partial
 TEXT: {0} ile oturum aç
 
+RESOURCE ID: revert_pokemon_to_its_primal_form_to_use_this_party
+TEXT: Revert Kyogre to its Primal form to use this party.
+
 RESOURCE ID: revive_all_button
 TEXT: Hepsini Canlandır
 
@@ -116154,12 +116232,12 @@ TEXT: {0} tamamen geliştirildi!
 RESOURCE ID: shop_fully_upgraded_purchasable
 TEXT: {0} tamamen geliştirildi! Seviye atlayarak depo kapasitenizi daha da geliştirebilirsiniz!
 
-<a href="https://scopelyexplore.helpshift.com/hc/faq/1432-available-items-your-bag/">Seviye atlama hakkındaki ayrıntıları buradan öğrenebilirsiniz.</a>
+<a href="https://scopelyexplore.helpshift.com/hc/faq/1235-available-items-your-bag/">Seviye atlama hakkındaki ayrıntıları buradan öğrenebilirsiniz.</a>
 
 RESOURCE ID: shop_fully_upgraded_purchasable_plural
 TEXT: {0} tamamen geliştirildi! Seviye atlayarak depo kapasitenizi daha da geliştirebilirsiniz!
 
-<a href="https://scopelyexplore.helpshift.com/hc/faq/1432-available-items-your-bag/">Seviye atlama hakkındaki ayrıntıları buradan öğrenebilirsiniz.</a>
+<a href="https://scopelyexplore.helpshift.com/hc/faq/1235-available-items-your-bag/">Seviye atlama hakkındaki ayrıntıları buradan öğrenebilirsiniz.</a>
 
 RESOURCE ID: shop_gift_friend_ineligible_title
 TEXT: Hediye Gönderilemiyor
@@ -117510,6 +117588,12 @@ TEXT: Pokémon GO kapalıyken dolaştığınızda otomatik olarak Poké Topu at�
 RESOURCE ID: soft_sfida_desc_default_short
 TEXT: Pokémon GO kapalıyken dolaştığınızda otomatik olarak Poké Topu atıp PokéDurak döndürün.
 
+RESOURCE ID: soft_sfida_desc_foreground
+TEXT: Automatically throw Poké Balls and spin PokéStops in the background while moving. You can activate it once daily.
+
+RESOURCE ID: soft_sfida_desc_foreground_short
+TEXT: Encounter Pokémon and spin PokéStops in the background while moving.
+
 RESOURCE ID: soft_sfida_desc_items_full
 TEXT: Eşya Çantanızı yönetin veya eşya depolama kapasitenizi artırın.
 
@@ -117551,6 +117635,12 @@ TEXT: Pokémon’ları Yönet
 
 RESOURCE ID: soft_sfida_btn_manage_item_bag
 TEXT: Eşya Çantasını Yönet
+
+RESOURCE ID: soft_sfida_btn_switch_caps
+TEXT: SWITCH
+
+RESOURCE ID: soft_sfida_btn_unpair_device_caps
+TEXT: UNPAIR DEVICE
 
 RESOURCE ID: soft_sfida_btn_view_summary
 TEXT: Özeti görüntüle
@@ -122798,6 +122888,12 @@ TEXT: Tatlı ve Ballı Süreli Araştırması: Swirlix (2/2)
 RESOURCE ID: switch_sleep_warning
 TEXT: Nintendo Switch'e bağlanırken akıllı telefonunuzu kapatmayın ya da uyku moduna almayın. 
 
+RESOURCE ID: switch_to_soft_sfida_description_default
+TEXT: If you're unable to use your device but want to remain paired, you can use Explorer Gadget Instead.
+
+RESOURCE ID: switch_to_soft_sfida_title_default
+TEXT: Pause your device and switch to Explorer Gadget?
+
 RESOURCE ID: swsh_masterball_sr_title
 TEXT: Ustalık Araştırması: Usta Top
 
@@ -123622,7 +123718,6 @@ TEXT: <b>Şu bonusları içerir:</b>
 • Takaslar için gereken yıldız tozu bedelinde indirim ve günde 6 adede kadar özel takas
 • Pokémon yakalama için 2× şeker
 • Etkinlik boyunca Parlak Pokémon’larla karşılaşma şansında artış
-Bilet bonusları hakkındaki ayrıntıları <a href="pokemongo.com/gowildarea/global">buradan</a> öğrenebilirsiniz.
 
 RESOURCE ID: text_rewards_key_growingup0525
 TEXT: <b>Şu ödülleri içerir:</b>

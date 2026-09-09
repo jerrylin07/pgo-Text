@@ -29445,6 +29445,9 @@ TEXT: 入れ替えるポケモンをタップ
 RESOURCE ID: combat_choose_next_pokemon
 TEXT: ポケモンを交代させますか？
 
+RESOURCE ID: combat_choose_pokemon_scaled
+TEXT: Some Pokémon’s CP has been adjusted for this league.
+
 RESOURCE ID: combat_choosing_their_team
 TEXT: パーティ選択中
 
@@ -56614,6 +56617,76 @@ TEXT: 水祭り2025をお祝いして韓国でタイムチャレンジを配布�
 RESOURCE ID: kr_festival_tr_location_background
 TEXT: タイムチャレンジタスクで捕まえるポケモンに限定ロケーション背景がついている可能性
 
+RESOURCE ID: kr_hanbok_pikachu_2026_irl_event_tag
+TEXT: ピカチュウのオータムピクニック2026
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_irl_title
+TEXT: ピカチュウのオータムピクニック2026
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_title
+TEXT: ピカチュウのお出かけin韓国2026
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_event_desc
+TEXT: オレンジ色のハンボクを身にまとったピカチュウが出現
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_irl_event_desc
+TEXT: ハンボクを身にまとったピカチュウのいる場所を目指して探索しましょう！
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_irl_fr_bonus_desc
+TEXT: イベントフィールドリサーチでオレンジ色のハンボクを身にまとったピカチュウに出会えることがある
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_irl_raid_bonus_desc
+TEXT: イベントエリア内の特別なポケストップを巡ると、オレンジ色のハンボクを身にまとったピカチュウをレイドで捕まえる（1日1回）ことが可能
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_irl_tr_bonus_desc
+TEXT: イベントエリア内の特別なポケストップを回すタイムチャレンジでオレンジ色のハンボクを身にまとったピカチュウに出会えます。詳細は公式ブログでご確認ください。
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_irl_tr_name
+TEXT: ピカチュウのオータムピクニックトレイルタイムチャレンジ
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_irl_tr_name_1
+TEXT: ピカチュウのオータムピクニックトレイルタイムチャレンジ(1/2)
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_irl_tr_name_2
+TEXT: ピカチュウのオータムピクニックトレイルタイムチャレンジ(2/2)
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_irl_tr_spin_plural
+TEXT: ハンボクを身にまとったピカチュウを示す回したことがないポケストップ{0}個を回す
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_irl_tr_spin_singular
+TEXT: ハンボクを身にまとったピカチュウを示す回したことがないポケストップを回す
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_raid_bonus_desc
+TEXT: オレンジ色のハンボクを身にまとったピカチュウがより頻繁にレイドで出現
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_tr_bonus_desc
+TEXT: タイムチャレンジでオレンジ色のハンボクを身にまとったピカチュウに出会える
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_tr_name
+TEXT: ピカチュウのお出かけin韓国2026
+タイムチャレンジ
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_tr_name_1
+TEXT: ピカチュウのお出かけin韓国2026
+タイムチャレンジ(1/3)
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_tr_name_2
+TEXT: ピカチュウのお出かけin韓国2026
+タイムチャレンジ(2/3)
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_tr_name_3
+TEXT: ピカチュウのお出かけin韓国2026
+タイムチャレンジ(3/3)
+
+RESOURCE ID: kr_hangul_day_2026_title
+TEXT: 2026 Hangul Day
+
+RESOURCE ID: kr_hangul_day_2026_bonus_desc
+TEXT: Celebrate Hangul Day with event-themed Pokémon appearing in the wild! Use Incense or Lure Modules to encounter special Pokémon.
+
+RESOURCE ID: kr_hangul_day_sep2026_cc_title
+TEXT: 2026 Hangul Day Collection Challenge
+
 RESOURCE ID: kr_lantern_festival_2025_massive_bonus_title
 TEXT: コイキングタイム！
 
@@ -61685,6 +61758,9 @@ TEXT: メガシンカさせるポケモンを選択
 RESOURCE ID: mega_evolve_lobby_existing_toast
 TEXT: 1匹だけメガシンカさせることができます
 
+RESOURCE ID: mega_evolve_pokemon_to_use_in_this_party
+TEXT: Mega Evolve Gengar to use this party.
+
 RESOURCE ID: mega_evolve_preview_first_time
 TEXT: 初めてポケモンをメガシンカさせたあとは休憩時間を経てメガエナジーなしで再びメガシンカできます。
 
@@ -62081,10 +62157,10 @@ at SHA 4d4f3e80cc7fb911006bd14d198c9831ef66d005
 Pipeline 339838, job 2672172
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-09-05T00:32:30.434548+00:00 for ja-JP
-at SHA cdf94269c783
-Pipeline 3923663, job 57741156
-Patch from: 0.427.0-SHA-3b6aecd1-RC5, 0.425.1-SHA-966e4c2a-RC1, 0.429.0-SHA-de304d2a-RC2
+TEXT: Built at 2026-09-09T21:50:37.113604+00:00 for ja-JP
+at SHA 83a400d168f
+Pipeline 3932304, job 57870598
+Patch from: 0.427.98-SHA-5e44928a-RC1, 0.429.0-SHA-d6c796f0-RC1, 0.427.1-SHA-4a569ba7-RC1
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: タイムチャレンジ：かくとうタイプ
@@ -67893,6 +67969,9 @@ TEXT: きみには世界中を探検し、ポケモンを捕まえて報告し�
 
 RESOURCE ID: onboard_welcome_screen|9
 TEXT: さて、どんなスタイルで出かけるのかな？
+
+RESOURCE ID: one_or_more_pokemon_exceed_this_leagues_cp_limit
+TEXT: One or more Pokémon exceed this league’s CP limit.
 
 RESOURCE ID: one_route_nearby_label
 TEXT: 1ポケルート
@@ -112337,6 +112416,9 @@ TEXT: 今日戻ってきたポケモン
 RESOURCE ID: returning_sign_in_partial
 TEXT: {0}でサインイン
 
+RESOURCE ID: revert_pokemon_to_its_primal_form_to_use_this_party
+TEXT: Revert Kyogre to its Primal form to use this party.
+
 RESOURCE ID: revive_all_button
 TEXT: すべて回復
 
@@ -118943,12 +119025,12 @@ TEXT: {0}はこれ以上アップグレードできません
 RESOURCE ID: shop_fully_upgraded_purchasable
 TEXT: {0}は上限までアップグレードされています。トレーナーレベルを上げると増やすことが可能です。
 
-<a href="https://scopelyexplore.helpshift.com/hc/faq/1432-available-items-your-bag/">レベルアップの詳細はこちら。</a>
+<a href="https://scopelyexplore.helpshift.com/hc/faq/1235-available-items-your-bag/">レベルアップの詳細はこちら。</a>
 
 RESOURCE ID: shop_fully_upgraded_purchasable_plural
 TEXT: {0}は上限までアップグレードされています。トレーナーレベルを上げると増やすことが可能です。
 
-<a href="https://scopelyexplore.helpshift.com/hc/faq/1432-available-items-your-bag/">レベルアップの詳細はこちら。</a>
+<a href="https://scopelyexplore.helpshift.com/hc/faq/1235-available-items-your-bag/">レベルアップの詳細はこちら。</a>
 
 RESOURCE ID: shop_gift_friend_ineligible_title
 TEXT: チケットが贈れません
@@ -120300,6 +120382,12 @@ TEXT: アプリを閉じて探索中モンスターボールを投げポケス�
 RESOURCE ID: soft_sfida_desc_default_short
 TEXT: アプリを閉じて探索中モンスターボールを投げポケストップを回します
 
+RESOURCE ID: soft_sfida_desc_foreground
+TEXT: Automatically throw Poké Balls and spin PokéStops in the background while moving. You can activate it once daily.
+
+RESOURCE ID: soft_sfida_desc_foreground_short
+TEXT: Encounter Pokémon and spin PokéStops in the background while moving.
+
 RESOURCE ID: soft_sfida_desc_items_full
 TEXT: 道具バッグ内を整理するか、アップグレードしてください
 
@@ -120341,6 +120429,12 @@ TEXT: ボックスを見る
 
 RESOURCE ID: soft_sfida_btn_manage_item_bag
 TEXT: 道具バッグを見る
+
+RESOURCE ID: soft_sfida_btn_switch_caps
+TEXT: SWITCH
+
+RESOURCE ID: soft_sfida_btn_unpair_device_caps
+TEXT: UNPAIR DEVICE
 
 RESOURCE ID: soft_sfida_btn_view_summary
 TEXT: サマリーを見る
@@ -125615,6 +125709,12 @@ TEXT: ハニー＆クリームタイムチャレンジ：ペロッパフ(2/2)
 RESOURCE ID: switch_sleep_warning
 TEXT: Please make sure that the mobile phone is up and running while connecting to SWITCH. Mobile phones going into sleep mode may disconnect from SWITCH.
 
+RESOURCE ID: switch_to_soft_sfida_description_default
+TEXT: If you're unable to use your device but want to remain paired, you can use Explorer Gadget Instead.
+
+RESOURCE ID: switch_to_soft_sfida_title_default
+TEXT: Pause your device and switch to Explorer Gadget?
+
 RESOURCE ID: swsh_masterball_sr_title
 TEXT: 続行リサーチ：マスターボール
 
@@ -126439,7 +126539,6 @@ TEXT: <b>もらえるもの：</b>
 ・一日にできる特別な交換計6回と交換に必要なほしのすな減
 ・ポケモンを捕まえてもらえるアメ2倍
 ・イベント期間中に色違いポケモンに出会いやすい、など
-チケットボーナスについての詳細は <a href="https://pokemongo.com/gowildarea/global">こちら</a>でご確認ください。
 
 RESOURCE ID: text_rewards_key_growingup0525
 TEXT: <b>もらえるもの：</b>

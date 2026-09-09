@@ -29810,6 +29810,9 @@ TEXT: Toca para cambiar de Pokémon
 RESOURCE ID: combat_choose_next_pokemon
 TEXT: ¿Poner un nuevo Pokémon?
 
+RESOURCE ID: combat_choose_pokemon_scaled
+TEXT: Some Pokémon’s CP has been adjusted for this league.
+
 RESOURCE ID: combat_choosing_their_team
 TEXT: is choosing their team!
 
@@ -57052,6 +57055,72 @@ TEXT: Como parte de la celebración del Festival Acuático 2025, habrá disponib
 RESOURCE ID: kr_festival_tr_location_background
 TEXT: Los Pokémon capturados en las tareas de investigación temporal pueden tener un fondo de lugar exclusivo
 
+RESOURCE ID: kr_hanbok_pikachu_2026_irl_event_tag
+TEXT: Pícnic otoñal de Pikachu 2026
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_irl_title
+TEXT: Pícnic otoñal de Pikachu 2026
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_title
+TEXT: Día de escapada de Pikachu en Corea 2026
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_event_desc
+TEXT: ¡Pikachu con hanbok naranja está apareciendo en los alrededores!
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_irl_event_desc
+TEXT: ¡Busca ubicaciones en las que haya Pikachu con hanbok!
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_irl_fr_bonus_desc
+TEXT: Investigación de campo del evento con oportunidad de encontrarse con Pikachu con hanbok naranja
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_irl_raid_bonus_desc
+TEXT: Sigue las Poképaradas especiales en el área del evento y enfréntate a Pikachu con hanbok naranja en incursiones en determinados Gimnasios por el camino, una vez al día.
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_irl_tr_bonus_desc
+TEXT: Encuéntrate con Pikachu con hanbok naranja mediante la investigación temporal dando vueltas a fotodiscos en Poképaradas especiales del área del evento. Consulta el blog oficial para obtener más información.
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_irl_tr_name
+TEXT: Investigación temporal: Recorrido del Pícnic otoñal de Pikachu
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_irl_tr_name_1
+TEXT: Investigación temporal: Recorrido del Pícnic otoñal de Pikachu (1/2)
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_irl_tr_name_2
+TEXT: Investigación temporal: Recorrido del Pícnic otoñal de Pikachu (2/2)
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_irl_tr_spin_plural
+TEXT: Da vueltas a {0} fotodiscos en Poképaradas con Pikachu con hanbok a los que aún no hayas dado vueltas
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_irl_tr_spin_singular
+TEXT: Da vueltas a un fotodisco en una Poképarada con Pikachu con hanbok al que aún no hayas dado vueltas
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_raid_bonus_desc
+TEXT: Pikachu con hanbok naranja aparecerá con más frecuencia en las incursiones
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_tr_bonus_desc
+TEXT: Consigue una oportunidad de encontrarte con Pikachu con hanbok naranja mediante la investigación temporal.
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_tr_name
+TEXT: Investigación temporal del Día de escapada de Pikachu en Corea 2026
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_tr_name_1
+TEXT: Investigación temporal del Día de escapada de Pikachu en Corea 2026 (1/3)
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_tr_name_2
+TEXT: Investigación temporal del Día de escapada de Pikachu en Corea 2026 (2/3)
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_tr_name_3
+TEXT: Investigación temporal del Día de escapada de Pikachu en Corea 2026 (3/3)
+
+RESOURCE ID: kr_hangul_day_2026_title
+TEXT: 2026 Hangul Day
+
+RESOURCE ID: kr_hangul_day_2026_bonus_desc
+TEXT: Celebrate Hangul Day with event-themed Pokémon appearing in the wild! Use Incense or Lure Modules to encounter special Pokémon.
+
+RESOURCE ID: kr_hangul_day_sep2026_cc_title
+TEXT: 2026 Hangul Day Collection Challenge
+
 RESOURCE ID: kr_lantern_festival_2025_massive_bonus_title
 TEXT: ¡Es el momento de Magikarp!
 
@@ -62120,6 +62189,9 @@ TEXT: ¡Selecciona un Pokémon para hacerlo megaevolucionar!
 RESOURCE ID: mega_evolve_lobby_existing_toast
 TEXT: Solo puedes usar un Pokémon megaevolucionado a la vez
 
+RESOURCE ID: mega_evolve_pokemon_to_use_in_this_party
+TEXT: Mega Evolve Gengar to use this party.
+
 RESOURCE ID: mega_evolve_preview_first_time
 TEXT: Una vez que hayas megaevolucionado a un Pokémon por primera vez, puedes hacerlo megaevolucionar de nuevo sin Megaenergía tras un periodo de descanso.
 
@@ -62524,10 +62596,10 @@ at SHA 4d4f3e80cc7fb911006bd14d198c9831ef66d005
 Pipeline 339838, job 2672172
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-09-05T00:32:30.434548+00:00 for es-ES
-at SHA cdf94269c783
-Pipeline 3923663, job 57741156
-Patch from: 0.427.0-SHA-3b6aecd1-RC5, 0.425.1-SHA-966e4c2a-RC1, 0.429.0-SHA-de304d2a-RC2
+TEXT: Built at 2026-09-09T21:50:37.113604+00:00 for es-ES
+at SHA 83a400d168f
+Pipeline 3932304, job 57870598
+Patch from: 0.427.98-SHA-5e44928a-RC1, 0.429.0-SHA-d6c796f0-RC1, 0.427.1-SHA-4a569ba7-RC1
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: Investigación temporal: Elige tu tipo de lucha
@@ -68219,6 +68291,9 @@ TEXT: ¡Tendrás que encontrar y coleccionar Pokémon de todas partes!
 
 RESOURCE ID: onboard_welcome_screen|9
 TEXT: Ahora, elige el estilo que quieres para tu aventura.
+
+RESOURCE ID: one_or_more_pokemon_exceed_this_leagues_cp_limit
+TEXT: One or more Pokémon exceed this league’s CP limit.
 
 RESOURCE ID: one_route_nearby_label
 TEXT: 1 route
@@ -112682,6 +112757,9 @@ TEXT: Ha vuelto hoy
 RESOURCE ID: returning_sign_in_partial
 TEXT: Inicia sesión con {0}
 
+RESOURCE ID: revert_pokemon_to_its_primal_form_to_use_this_party
+TEXT: Revert Kyogre to its Primal form to use this party.
+
 RESOURCE ID: revive_all_button
 TEXT: Revivir a todos
 
@@ -119270,12 +119348,12 @@ TEXT: ¡Tus {0} se han mejorado al máximo!
 RESOURCE ID: shop_fully_upgraded_purchasable
 TEXT: ¡Tu {0} se ha mejorado al máximo! ¡Consigue más almacenamiento subiendo de nivel!
 
-<a href="https://scopelyexplore.helpshift.com/hc/faq/1432-available-items-your-bag/">Obtén más información sobre cómo subir de nivel aquí.</a>
+<a href="https://scopelyexplore.helpshift.com/hc/faq/1235-available-items-your-bag/">Obtén más información sobre cómo subir de nivel aquí.</a>
 
 RESOURCE ID: shop_fully_upgraded_purchasable_plural
 TEXT: ¡Tus {0} se han mejorado al máximo! ¡Consigue más almacenamiento subiendo de nivel!
 
-<a href="https://scopelyexplore.helpshift.com/hc/faq/1432-available-items-your-bag/">Obtén más información sobre cómo subir de nivel aquí.</a>
+<a href="https://scopelyexplore.helpshift.com/hc/faq/1235-available-items-your-bag/">Obtén más información sobre cómo subir de nivel aquí.</a>
 
 RESOURCE ID: shop_gift_friend_ineligible_title
 TEXT: No se puede enviar el regalo
@@ -120626,6 +120704,12 @@ TEXT: Lanza Poké Balls y da vueltas a los fotodiscos de las Poképaradas autom�
 RESOURCE ID: soft_sfida_desc_default_short
 TEXT: Lanza Poké Balls y da vueltas a los fotodiscos de las Poképaradas automáticamente  mientras exploras cuando Pokémon GO esté cerrado.
 
+RESOURCE ID: soft_sfida_desc_foreground
+TEXT: Automatically throw Poké Balls and spin PokéStops in the background while moving. You can activate it once daily.
+
+RESOURCE ID: soft_sfida_desc_foreground_short
+TEXT: Encounter Pokémon and spin PokéStops in the background while moving.
+
 RESOURCE ID: soft_sfida_desc_items_full
 TEXT: Administra tu Bolsa o aumenta el espacio para mejorar tu capacidad de almacenamiento.
 
@@ -120667,6 +120751,12 @@ TEXT: Administrar Pokémon
 
 RESOURCE ID: soft_sfida_btn_manage_item_bag
 TEXT: Administrar tu Bolsa
+
+RESOURCE ID: soft_sfida_btn_switch_caps
+TEXT: SWITCH
+
+RESOURCE ID: soft_sfida_btn_unpair_device_caps
+TEXT: UNPAIR DEVICE
 
 RESOURCE ID: soft_sfida_btn_view_summary
 TEXT: Ver resumen
@@ -125911,6 +126001,12 @@ TEXT: Investigación temporal de Dulce enjambre: Swirlix (2/2)
 RESOURCE ID: switch_sleep_warning
 TEXT: Please make sure that the mobile phone is up and running while connecting to SWITCH. Mobile phones going into sleep mode may disconnect from SWITCH.
 
+RESOURCE ID: switch_to_soft_sfida_description_default
+TEXT: If you're unable to use your device but want to remain paired, you can use Explorer Gadget Instead.
+
+RESOURCE ID: switch_to_soft_sfida_title_default
+TEXT: Pause your device and switch to Explorer Gadget?
+
 RESOURCE ID: swsh_masterball_sr_title
 TEXT: investigación magistral: Master Ball
 
@@ -126743,7 +126839,6 @@ TEXT: <b>Incluye:</b>
 • Hasta 6 intercambios especiales cada día y un menor coste de Polvos Estelares en los intercambios
 • Doble de Caramelos por capturar Pokémon
 • Una mayor probabilidad de encontrarte con Pokémon variocolor durante el evento
-Consulta toda la información sobre los bonus de la entrada <a href="pokemongo.com/gowildarea/global">aquí</a>.
 
 RESOURCE ID: text_rewards_key_growingup0525
 TEXT: <b>Recompensas incluidas:</b>

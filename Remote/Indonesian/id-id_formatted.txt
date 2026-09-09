@@ -26935,6 +26935,9 @@ TEXT: Ketuk untuk mengganti Pokémon
 RESOURCE ID: combat_choose_next_pokemon
 TEXT: Ganti ke Pokémon baru?
 
+RESOURCE ID: combat_choose_pokemon_scaled
+TEXT: Some Pokémon’s CP has been adjusted for this league.
+
 RESOURCE ID: combat_choosing_their_team
 TEXT: sedang memilih tim!
 
@@ -54053,6 +54056,72 @@ TEXT: Untuk merayakan Festival Air Musim Panas 2025, Penelitian Berwaktu Harian 
 RESOURCE ID: kr_festival_tr_location_background
 TEXT: Pokémon yang ditangkap dari tugas Penelitian Berwaktu mungkin memiliki Latar Belakang Lokasi eksklusif.
 
+RESOURCE ID: kr_hanbok_pikachu_2026_irl_event_tag
+TEXT: Piknik Musim Gugur Pikachu 2026
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_irl_title
+TEXT: Piknik Musim Gugur Pikachu 2026
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_title
+TEXT: Pikachu Berekreasi di Korea 2026
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_event_desc
+TEXT: Pikachu berhanbok oranye muncul di dekat sini!
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_irl_event_desc
+TEXT: Cari lokasi yang menampilkan Pikachu berhanbok!
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_irl_fr_bonus_desc
+TEXT: Penelitian Lapangan bertema event dengan kesempatan untuk bertemu dengan Pikachu berhanbok oranye.
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_irl_raid_bonus_desc
+TEXT: Kunjungi PokéStop spesial di sekitar area event dan hadapi Pikachu berhanbok oranye dalam Raid di Gym tertentu di sepanjang area, satu kali sehari.
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_irl_tr_bonus_desc
+TEXT: Temui Pikachu berhanbok oranye melalui Penelitian Berwaktu dengan memutar PokéStop spesial di sekitar area event. Cek blog resmi kami untuk detail lebih lanjut.
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_irl_tr_name
+TEXT: Penelitian Berwaktu Jejak Piknik Musim Gugur Pikachu
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_irl_tr_name_1
+TEXT: Penelitian Berwaktu Jejak Piknik Musim Gugur Pikachu (1/2)
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_irl_tr_name_2
+TEXT: Penelitian Berwaktu Jejak Piknik Musim Gugur Pikachu (2/2)
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_irl_tr_spin_plural
+TEXT: Putar {0} PokéStop yang menampilkan Pikachu berhanbok yang belum pernah kamu putar sebelumnya.
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_irl_tr_spin_singular
+TEXT: Putar PokéStop yang menampilkan Pikachu berhanbok yang belum pernah kamu putar sebelumnya.
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_raid_bonus_desc
+TEXT: Pikachu berhanbok oranye akan lebih sering muncul di Raid
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_tr_bonus_desc
+TEXT: Dapatkan kesempatan untuk bertemu dengan Pikachu berhanbok oranye melalui Penelitian Berwaktu.
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_tr_name
+TEXT: Penelitian Berwaktu Pikachu Berekreasi di Korea 2026
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_tr_name_1
+TEXT: Penelitian Berwaktu Pikachu Berekreasi di Korea 2026 (1/3)
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_tr_name_2
+TEXT: Penelitian Berwaktu Pikachu Berekreasi di Korea 2026 (2/3)
+
+RESOURCE ID: kr_hanbok_pikachu_picnic_2026_tr_name_3
+TEXT: Penelitian Berwaktu Pikachu Berekreasi di Korea 2026 (3/3)
+
+RESOURCE ID: kr_hangul_day_2026_title
+TEXT: 2026 Hangul Day
+
+RESOURCE ID: kr_hangul_day_2026_bonus_desc
+TEXT: Celebrate Hangul Day with event-themed Pokémon appearing in the wild! Use Incense or Lure Modules to encounter special Pokémon.
+
+RESOURCE ID: kr_hangul_day_sep2026_cc_title
+TEXT: 2026 Hangul Day Collection Challenge
+
 RESOURCE ID: kr_lantern_festival_2025_massive_bonus_title
 TEXT: Waktunya Magikarp!
 
@@ -59079,6 +59148,9 @@ TEXT: Select a Pokémon to Mega Evolve!
 RESOURCE ID: mega_evolve_lobby_existing_toast
 TEXT: You can only use one Mega-Evolved Pokémon at a time.
 
+RESOURCE ID: mega_evolve_pokemon_to_use_in_this_party
+TEXT: Mega Evolve Gengar to use this party.
+
 RESOURCE ID: mega_evolve_preview_first_time
 TEXT: After you Mega Evolve a Pokémon for the first time, you can Mega Evolve it again without Mega Energy after a rest period.
 
@@ -59483,10 +59555,10 @@ at SHA 12701f1c07ae7f07a5d50583f697320977df7988
 Pipeline 1139111, job 13470914
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-09-05T00:32:30.434548+00:00 for id-ID
-at SHA cdf94269c783
-Pipeline 3923663, job 57741156
-Patch from: 0.427.0-SHA-3b6aecd1-RC5, 0.425.1-SHA-966e4c2a-RC1, 0.429.0-SHA-de304d2a-RC2
+TEXT: Built at 2026-09-09T21:50:37.113604+00:00 for id-ID
+at SHA 83a400d168f
+Pipeline 3932304, job 57870598
+Patch from: 0.427.98-SHA-5e44928a-RC1, 0.429.0-SHA-d6c796f0-RC1, 0.427.1-SHA-4a569ba7-RC1
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: Penelitian Berwaktu: Pilih Tipe Petarungmu
@@ -65225,6 +65297,9 @@ TEXT: Temukan dan tangkaplah Pokémon dari mana saja!
 
 RESOURCE ID: onboard_welcome_screen|9
 TEXT: Pilih gaya dan mulai petualanganmu!
+
+RESOURCE ID: one_or_more_pokemon_exceed_this_leagues_cp_limit
+TEXT: One or more Pokémon exceed this league’s CP limit.
 
 RESOURCE ID: one_route_nearby_label
 TEXT: 1 route
@@ -109492,6 +109567,9 @@ TEXT: Kembali Hari Ini
 RESOURCE ID: returning_sign_in_partial
 TEXT: Masuk dengan {0}
 
+RESOURCE ID: revert_pokemon_to_its_primal_form_to_use_this_party
+TEXT: Revert Kyogre to its Primal form to use this party.
+
 RESOURCE ID: revive_all_button
 TEXT: Revive All
 
@@ -116071,12 +116149,12 @@ TEXT: {0}-mu telah ditingkatkan sepenuhnya!
 RESOURCE ID: shop_fully_upgraded_purchasable
 TEXT: {0} telah ditingkatkan sepenuhnya! Dapatkan lebih banyak penyimpanan dengan naik level!
 
-<a href="https://scopelyexplore.helpshift.com/hc/faq/1432-available-items-your-bag/">Pelajari lebih lanjut tentang naik level di sini.</a>
+<a href="https://scopelyexplore.helpshift.com/hc/faq/1235-available-items-your-bag/">Pelajari lebih lanjut tentang naik level di sini.</a>
 
 RESOURCE ID: shop_fully_upgraded_purchasable_plural
 TEXT: {0}-mu telah ditingkatkan sepenuhnya! Dapatkan lebih banyak penyimpanan dengan naik level!
 
-<a href="https://scopelyexplore.helpshift.com/hc/faq/1432-available-items-your-bag/">Pelajari lebih lanjut tentang naik level di sini.</a>
+<a href="https://scopelyexplore.helpshift.com/hc/faq/1235-available-items-your-bag/">Pelajari lebih lanjut tentang naik level di sini.</a>
 
 RESOURCE ID: shop_gift_friend_ineligible_title
 TEXT: Cannot Send Gift
@@ -117427,6 +117505,12 @@ TEXT: Melempar Bola Pokémon secara otomatis dan memutar PokéStop saat menjelaj
 RESOURCE ID: soft_sfida_desc_default_short
 TEXT: Melempar Bola Pokémon secara otomatis dan memutar PokéStop saat menjelajah dengan Pokémon GO yang tertutup.
 
+RESOURCE ID: soft_sfida_desc_foreground
+TEXT: Automatically throw Poké Balls and spin PokéStops in the background while moving. You can activate it once daily.
+
+RESOURCE ID: soft_sfida_desc_foreground_short
+TEXT: Encounter Pokémon and spin PokéStops in the background while moving.
+
 RESOURCE ID: soft_sfida_desc_items_full
 TEXT: Kelola Tas Item-mu atau tingkatkan kapasitas penyimpanan item-mu.
 
@@ -117468,6 +117552,12 @@ TEXT: Kelola Pokémon
 
 RESOURCE ID: soft_sfida_btn_manage_item_bag
 TEXT: Kelola Tas Item
+
+RESOURCE ID: soft_sfida_btn_switch_caps
+TEXT: SWITCH
+
+RESOURCE ID: soft_sfida_btn_unpair_device_caps
+TEXT: UNPAIR DEVICE
 
 RESOURCE ID: soft_sfida_btn_view_summary
 TEXT: Lihat Ringkasan
@@ -122708,6 +122798,12 @@ TEXT: Penelitian Berwaktu Madu dan Krim: Swirlix (2/2)
 RESOURCE ID: switch_sleep_warning
 TEXT: Jangan matikan atau gunakan mode tidur smartphone saat menghubungkan ke Nintendo Switch,.
 
+RESOURCE ID: switch_to_soft_sfida_description_default
+TEXT: If you're unable to use your device but want to remain paired, you can use Explorer Gadget Instead.
+
+RESOURCE ID: switch_to_soft_sfida_title_default
+TEXT: Pause your device and switch to Explorer Gadget?
+
 RESOURCE ID: swsh_masterball_sr_title
 TEXT: Penelitian Mahakarya: Bola Master
 
@@ -123534,7 +123630,6 @@ TEXT: <b>Termasuk:</b>
 • Hingga 6 Pertukaran Spesial per hari dan pengurangan biaya Debu Bintang untuk pertukaran
 • Permen dari menangkap Pokémon ×2
 • Peluang lebih tinggi untuk menangkap Pokémon Bersinar selama event
-Pelajari lebih lanjut tentang bonus tiket <a href="https://pokemongo.com/gowildarea/global">di sini</a>.
 
 RESOURCE ID: text_rewards_key_growingup0525
 TEXT: <b>Termasuk hadiah:</b>
