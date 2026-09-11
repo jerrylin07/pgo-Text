@@ -269,7 +269,7 @@ RESOURCE ID: abi_new_player_onboarding_list_header
 TEXT: 向手機裡的聯絡人傳送朋友申請。成為朋友後，你們就可以……
 
 RESOURCE ID: abi_new_player_onboarding_opt_in_info
-TEXT: 你可以從Niantic社交帳戶設定中關閉此功能
+TEXT: 你可以從Scopely Explore社交帳戶設定中關閉此功能
 
 RESOURCE ID: abi_new_player_onboarding_opt_in_check_box
 TEXT: 若自己有在對方聯絡人一覽表中，則允許對方傳送朋友申請
@@ -284,7 +284,7 @@ RESOURCE ID: about_screen_btn
 TEXT: 關於 Pokémon GO
 
 RESOURCE ID: about_screen_copyright1
-TEXT: ©2016-2017 Niantic, Inc.
+TEXT: ©2016-2017 Scopely Explore, Inc.
 
 RESOURCE ID: about_screen_copyright2
 TEXT: ©2016-2017 Pokémon.
@@ -422,13 +422,13 @@ RESOURCE ID: add_friend_confirmation_title
 TEXT: 要向 {0} 傳送朋友申請嗎？
 
 RESOURCE ID: add_friends_niantic_title
-TEXT: Friend in Niantic Games
+TEXT: Scopely Explore Games的朋友
 
 RESOURCE ID: add_friends_privacy_prompt
 TEXT: 朋友之間可以相互確認彼此的個人檔案及最近捕捉到的寶可夢。當你傳送友情禮物或跟朋友交換寶可夢時，他可能會知道你的所在位置。
 
 RESOURCE ID: add_niantic_friend_tip
-TEXT: 在這個遊戲中新增朋友會在你們都有遊玩的所有Niantic遊戲中新增對方為朋友。
+TEXT: 在這個遊戲中新增朋友會在你們都有遊玩的所有Scopely Explore遊戲中新增對方為朋友。
 
 RESOURCE ID: add_referrer_disabled
 TEXT: 無法建立推薦連結
@@ -1249,6 +1249,9 @@ TEXT: Apple Watch enabled!
 RESOURCE ID: applewatch_enable_modal_success_message
 TEXT: Success! Open the Apple Watch app to start a session.
 
+RESOURCE ID: applin_apple_drop_bonus
+TEXT: 野生啃果蟲持有酸酸蘋果、甜甜蘋果和蜜汁蘋果的機率提高
+
 RESOURCE ID: appraisal_filter_group_key
 TEXT: 調查
 
@@ -2067,10 +2070,10 @@ RESOURCE ID: ardk_download_button
 TEXT: DOWNLOAD
 
 RESOURCE ID: ardk_download_confirm_title
-TEXT: Niantic AR Platform（試用版）
+TEXT: Scopely Explore AR Platform（試用版）
 
 RESOURCE ID: ardk_download_confirm_body
-TEXT: 為提供更完善的AR夥伴功能，請下載Niantic AR Platform。你隨時都可以關閉此測試版功能。
+TEXT: 為提供更完善的AR夥伴功能，請下載Scopely Explore AR Platform。你隨時都可以關閉此測試版功能。
 
 RESOURCE ID: ardk_download_confirm_size
 TEXT: 下載檔案：{0} MB
@@ -2079,7 +2082,7 @@ RESOURCE ID: ardk_download_progress_format
 TEXT: {0} / {1} MB
 
 RESOURCE ID: ardk_download_prompt_downloading
-TEXT: 正在下載Niantic AR Platform……
+TEXT: 正在下載Scopely Explore AR Platform……
 
 RESOURCE ID: ardk_download_prompt_dowload_progress
 TEXT: {0} / {1} MB
@@ -2091,7 +2094,7 @@ RESOURCE ID: ardk_download_prompt_multi_success_header
 TEXT: 成功！
 
 RESOURCE ID: ardk_download_prompt_multiplayer_legal_tos_description
-TEXT: Niantic將會在你使用AR功能時處理透過照相機取得的地理空間資訊。{0}。
+TEXT: Scopely Explore將會在你使用AR功能時處理透過照相機取得的地理空間資訊。{0}。
 
 RESOURCE ID: ardk_download_prompt_multiplayer_legal_tos_link_text
 TEXT: 更多關於道館徽章的情報
@@ -2103,7 +2106,7 @@ RESOURCE ID: ardk_download_prompt_retry_header
 TEXT: 下載失敗
 
 RESOURCE ID: ardk_download_prompt_success_body
-TEXT: Niantic AR Platform下載成功
+TEXT: Scopely Explore AR Platform下載成功
 
 RESOURCE ID: ardk_download_prompt_success_header
 TEXT: 成功！
@@ -2113,10 +2116,10 @@ RESOURCE ID: ardk_download_prompt_title_dbow
 TEXT: 欲使用AR共享時光功能，請先下載更新內容。
 
 RESOURCE ID: ardk_download_prompt_title_monodepth
-TEXT: 下載Niantic AR套組，體驗更全面的AR樂趣。
+TEXT: 下載Scopely Explore AR套組，體驗更全面的AR樂趣。
 
 RESOURCE ID: ardk_update_confirm_title
-TEXT: 更新Niantic AR Platform
+TEXT: 更新Scopely Explore AR Platform
 
 RESOURCE ID: ardk_update_confirm_body
 TEXT: 為獲得最佳AR遊戲體驗，請下載此功能
@@ -21877,16 +21880,16 @@ RESOURCE ID: buddy_monodepth_flag
 TEXT: 試用版
 
 RESOURCE ID: buddy_monodepth_modal_title
-TEXT: 關閉Niantic AR Platform（試用版）
+TEXT: 關閉Scopely Explore AR Platform（試用版）
 
 RESOURCE ID: buddy_monodepth_modal_message
-TEXT: 確定要關閉Niantic AR Platform（測試版）嗎？你隨時都可以在設定中關閉此功能。
+TEXT: 確定要關閉Scopely Explore AR Platform（測試版）嗎？你隨時都可以在設定中關閉此功能。
 
 RESOURCE ID: buddy_monodepth_modal_continue_button
 TEXT: 繼續使用
 
 RESOURCE ID: buddy_monodepth_modal_turn_off_button
-TEXT: 關閉Niantic AR Platform（試用版）
+TEXT: 關閉Scopely Explore AR Platform（試用版）
 
 RESOURCE ID: buddy_multilplayer_qr_display_header
 TEXT: 夥伴小組二維條碼
@@ -25650,6 +25653,10 @@ TEXT: 繁體中文
 RESOURCE ID: choose_event_variant_failed
 TEXT: 無法選擇版本，請稍後再試一次
 
+RESOURCE ID: cinderace_gmax_tr_2026_title
+TEXT: 超極巨化閃焰王牌
+特級限時調查
+
 RESOURCE ID: city_accra
 TEXT: 阿克拉
 
@@ -29360,7 +29367,7 @@ RESOURCE ID: combat_choose_next_pokemon
 TEXT: 要替換寶可夢嗎？
 
 RESOURCE ID: combat_choose_pokemon_scaled
-TEXT: Some Pokémon’s CP has been adjusted for this league.
+TEXT: A Pokémon’s CP has been adjusted for this league.
 
 RESOURCE ID: combat_choosing_their_team
 TEXT: 正在選擇陣營！
@@ -29777,7 +29784,7 @@ RESOURCE ID: combat_lets_not_battle
 TEXT: 等一下
 
 RESOURCE ID: combat_log_upload_complete_modal_body
-TEXT: 感謝你和Niantic分享遊戲紀錄。你的遊戲紀錄將被用來改善遊戲。
+TEXT: 感謝你和Scopely Explore分享遊戲紀錄。你的遊戲紀錄將被用來改善遊戲。
 
 若你希望針對相關問題做進一步詢問，請和我們的客服聯絡並附上遊戲紀錄。
 
@@ -29785,7 +29792,7 @@ RESOURCE ID: combat_log_upload_modal_title
 TEXT: 上傳遊戲紀錄
 
 RESOURCE ID: combat_log_upload_modal_body
-TEXT: 如果你最後一場對場發生了什麼問題，你可以將遊戲紀錄上傳和Niantic分享。
+TEXT: 如果你最後一場對場發生了什麼問題，你可以將遊戲紀錄上傳和Scopely Explore分享。
 
 RESOURCE ID: combat_log_upload_modal_complete_title
 TEXT: 完成上傳！
@@ -30085,6 +30092,18 @@ TEXT: 高級聯盟
 
 RESOURCE ID: combat_use_this_party
 TEXT: 確定
+
+RESOURCE ID: comic_con_malaga_2026_title
+TEXT: Pokémon GO：聖地牙哥動漫展馬拉加
+
+RESOURCE ID: comic_con_malaga_2026_tr_title
+TEXT: 聖地牙哥動漫展馬拉加限時調查
+
+RESOURCE ID: comic_con_malaga_2026_tr_01
+TEXT: 聖地牙哥動漫展馬拉加限時調查(1/2)
+
+RESOURCE ID: comic_con_malaga_2026_tr_02
+TEXT: 聖地牙哥動漫展馬拉加限時調查(2/2)
 
 RESOURCE ID: community_ambassador_tr_title
 TEXT: 社群大使獎勵限時調查
@@ -31533,11 +31552,20 @@ TEXT: 詳情請至<a href="https://pokemongo.com/news/flying-taxi-2026">網站</
 RESOURCE ID: details_link_key_flying_taxi_taken_over
 TEXT: 詳情請至<a href="https://pokemongo.com/news/flying-taxi-taken-over-2026">網站</a>確認
 
+RESOURCE ID: details_link_key_gmax_cinderace
+TEXT: 詳情請至<a href="https://pokemongo.com/news/gigantamax-cinderace-max-battle-day-2026">網站</a>確認
+
 RESOURCE ID: details_link_key_gmax_rillaboom
 TEXT: 詳情請至<a href="https://pokemongo.com/news/gigantamax-rillaboom-max-battle-day-2026">網站</a>確認
 
 RESOURCE ID: details_link_key_gmax_pikachu_max_battle
 TEXT: （詳情請至<a href="https://pokemongo.com/news/gigantamax-pikachu-max-battle-day-2026">網站</a>確認）
+
+RESOURCE ID: details_link_key_harvest_festival
+TEXT: 詳情請至<a href="https://pokemongo.com/news/harvest-festival-2026">網站</a>確認
+
+RESOURCE ID: details_link_key_harvest_festival_taken_over
+TEXT: 詳情請至<a href="https://pokemongo.com/news/harvest-festival-taken-over-2026">網站</a>確認
 
 RESOURCE ID: details_link_key_lunar_new_year_feb2026
 TEXT: （詳情請至<a href="https://pokemongo.com/news/lunar-new-year-event-2026">網站</a>確認）
@@ -32598,6 +32626,21 @@ TEXT: 克里夫
 RESOURCE ID: em_hawlucha_2025_tr_path_b_desc
 TEXT: 選擇這個分歧，就能與腕力、不良蛙和搬運小匠相遇，並且獲得特殊招式學習器及一般招式學習器。
 
+RESOURCE ID: em_hawlucha_2026_tr_dialog_00
+TEXT: 嘿，%PLAYERNAME%！你會選誰的風格來鍛鍊呢？想要有縝密的計畫性就選亞洛，想憑藉熱情勇往直前的話則是坎迪拉……
+
+RESOURCE ID: em_hawlucha_2026_tr_path_a
+TEXT: 坎迪拉
+
+RESOURCE ID: em_hawlucha_2026_tr_path_a_desc
+TEXT: 選擇這個分歧，就能與烈焰馬、火稚雞和小火焰猴相遇，並且獲得薰香及貼圖。
+
+RESOURCE ID: em_hawlucha_2026_tr_path_b
+TEXT: 亞洛
+
+RESOURCE ID: em_hawlucha_2026_tr_path_b_desc
+TEXT: 選擇這個分歧，就能與猴怪、巨鉗螳螂和洗翠狃拉相遇，並且獲得薰香及貼圖。
+
 RESOURCE ID: em_holi_2025_event_title
 TEXT: 色彩節2025
 
@@ -33541,6 +33584,9 @@ TEXT: 8月16日10:00～
 
 RESOURCE ID: event_datetime_range_key_gmaxbutterfree25
 TEXT: 8月3日14:00～17:00
+
+RESOURCE ID: event_datetime_range_key_gmaxcinderace26
+TEXT: 10月3日14:00～17:00
 
 RESOURCE ID: event_datetime_range_key_gmaxgarbodor25
 TEXT: 11月1日14:00～17:00
@@ -36179,7 +36225,7 @@ RESOURCE ID: fb_invite_import_friends_title
 TEXT: Import friends from Facebook?
 
 RESOURCE ID: fb_invite_import_friends_info
-TEXT: If you choose to import Facebook Friends into Pokémon GO, Niantic will only show you friends who are already on Pokémon GO and have also chosen to import Facebook Friends. Niantic will have limited access to your Facebook profile name, friends list, and photo. You can always change your mind and unfriend someone within the Friends menu or edit your app permissions withinFacebook.For more information visit the <a href="help_center_link">Help Center</a>.
+TEXT: 選擇匯入Facebook朋友名單後，Scopely Explore將有權閱覽你Facebook朋友名單中為Pokémon GO玩家且已選擇匯入Facebook朋友名單的朋友列表。Scopely Explore將可閱覽你的Facebook個人檔案、大頭貼照及訓練家名稱。你隨時都可以從Pokémon GO朋友名單上移除朋友，也可以在Facebook中調整應用程式的權限。詳情請見常見問題。
 
 RESOURCE ID: fb_invite_initial_adoption_message_logged_in_with_fb
 TEXT: Some of your Facebook Friends may be playing Pokémon GO! Add them to send Gifts, trade Pokémon, and more!
@@ -37820,25 +37866,25 @@ RESOURCE ID: form_chill_drive
 TEXT: 攜帶冰凍卡帶
 
 RESOURCE ID: form_core_blue
-TEXT: Blue Core
+TEXT: 淺藍色核心
 
 RESOURCE ID: form_core_green
-TEXT: Green Core
+TEXT: 綠色核心
 
 RESOURCE ID: form_core_indigo
-TEXT: Indigo Core
+TEXT: 藍色核心
 
 RESOURCE ID: form_core_orange
-TEXT: Orange Core
+TEXT: 橙色核心
 
 RESOURCE ID: form_core_red
-TEXT: Red Core
+TEXT: 紅色核心
 
 RESOURCE ID: form_core_violet
-TEXT: Violet Core
+TEXT: 紫色核心
 
 RESOURCE ID: form_core_yellow
-TEXT: Yellow Core
+TEXT: 黃色核心
 
 RESOURCE ID: form_cream_caramel
 TEXT: Caramel Swirl
@@ -38685,7 +38731,7 @@ RESOURCE ID: friend_is_at_a_max_battle
 TEXT: 正在參加<b>{0}</b>對戰
 
 RESOURCE ID: friend_niantic_game_preview_list_title
-TEXT: 其他共享的Niantic遊戲
+TEXT: 其他共享的Scopely Explore遊戲
 
 RESOURCE ID: friend_opened_your_gift
 TEXT: 你的友情禮物讓 {0} 獲得了 {1} 個道具！
@@ -38725,7 +38771,7 @@ TEXT: 收到 {0} 傳送的友情禮物了！
 
 RESOURCE ID: friend_sort_online_not_available_body
 TEXT: <b>若要啟用此排序方法，請先開啟「顯示上線狀態」功能。你隨時都可以開啟/關閉此功能。</b>
-<size=24>請注意：開啟「顯示上線狀態」功能後，你在玩的所有Niantic遊戲都將會啟用此功能</size>
+<size=24>請注意：開啟「顯示上線狀態」功能後，你在玩的所有Scopely Explore遊戲都將會啟用此功能</size>
 
 RESOURCE ID: friend_sort_online_not_available_header
 TEXT: 切換上線狀態顯示
@@ -38953,7 +38999,7 @@ RESOURCE ID: friendslist_sort_raid
 TEXT: 團體戰中({0})
 
 RESOURCE ID: friendslist_sort_online_unavailable
-TEXT: Cannot sort friends by online status when not opted in to Niantic Online.
+TEXT: 如果你尚未啟用Scopely Explore Online，你將無法實行上線狀態排序。
 
 RESOURCE ID: frigibax_cd_website_link
 TEXT: 詳情請至<a href="https://pokemongo.com/news/communityday-june-2026-frigibax">網站</a>確認
@@ -40365,6 +40411,9 @@ TEXT: Pokémon GO Tour：城都
 
 RESOURCE ID: general1.ticket.4_finalstrike0525_title
 TEXT: 最後一擊：GO對戰週特級限時調查入場券
+
+RESOURCE ID: general1.ticket.4_gmaxcinderace26_title
+TEXT: 閃焰王牌（超極巨化）極巨對戰日入場券
 
 RESOURCE ID: general1.ticket.4_gmaxmeowth26_title
 TEXT: 喵喵（超極巨化）極巨對戰日入場券
@@ -42161,6 +42210,9 @@ TEXT: 巴大蝶（超極巨化）
 
 RESOURCE ID: gmax_butterfree_max_battles
 TEXT: 超極巨化的巴大蝶在極巨對戰中出現了
+
+RESOURCE ID: gmax_cinderace_max_battles
+TEXT: 超極巨化的閃焰王牌在極巨對戰中出現了
 
 RESOURCE ID: gmax_garbodor_lead_up_timed_research
 TEXT: 灰塵山（超極巨化）極巨對戰日前導限時調查
@@ -51407,6 +51459,12 @@ TEXT: 南瓜園收藏家挑戰
 RESOURCE ID: harvest_festival_oct2025_smoliv_cc
 TEXT: 橄欖園收藏家挑戰
 
+RESOURCE ID: harvest_festival_s24_event_name
+TEXT: 豐收節：收集啃果蟲
+
+RESOURCE ID: harvest_festival_taken_over_event_name
+TEXT: 豐收節：佔領
+
 RESOURCE ID: harvest_festival_tr_name
 TEXT: 豐收節特級限時調查
 
@@ -54921,6 +54979,12 @@ TEXT: An extra event ticket from a purchase error. You can send it to a friend o
 RESOURCE ID: item_event_ticket_pink_to_gift_name
 TEXT: 額外入場券
 
+RESOURCE ID: item_event_ticket_s24_oct_3_maxbattle_desc_gmaxcinderace26
+TEXT: 只要擁有這張入場券，不論你身在何處，都能在當地時間2026年10月3日14:00～17:00領取特別的獎勵。
+
+RESOURCE ID: item_event_ticket_s24_oct_3_maxbattle_details_gmaxcinderace26
+TEXT: 入場券將會自動啟動。不論你身在何處，都能在當地時間2026年10月3日領取特別的獎勵。
+
 RESOURCE ID: item_event_ticket_to_gift_desc
 TEXT: 由於購買入場券贈送給朋友時發生錯誤，未能將這張入場券送出去。你可以把它轉送給其他朋友，或是申請退費。
 
@@ -56601,13 +56665,13 @@ TEXT: 皮卡丘出門趣in韓國2026
 限時調查(3/3)
 
 RESOURCE ID: kr_hangul_day_2026_title
-TEXT: 2026 Hangul Day
+TEXT: Hangul Day 2026
 
 RESOURCE ID: kr_hangul_day_2026_bonus_desc
 TEXT: Celebrate Hangul Day with event-themed Pokémon appearing in the wild! Use Incense or Lure Modules to encounter special Pokémon.
 
 RESOURCE ID: kr_hangul_day_sep2026_cc_title
-TEXT: 2026 Hangul Day Collection Challenge
+TEXT: Hangul Day 2026 Collection Challenge
 
 RESOURCE ID: kr_lantern_festival_2025_massive_bonus_title
 TEXT: 現在是鯉魚王時刻！
@@ -56865,7 +56929,7 @@ RESOURCE ID: last_played_yesterday
 TEXT: Last Played: Yesterday
 
 RESOURCE ID: last_played_date_setting_description
-TEXT: Let my friends see info about the last time I played a Niantic game.
+TEXT: 讓朋友看見我最後一次玩Scopely Explore遊戲的時間
 
 RESOURCE ID: last_played_two_plus_days_ago
 TEXT: Last Played: 2+ days ago
@@ -59479,7 +59543,7 @@ RESOURCE ID: log_verbose_raid_modal_desc_cache
 TEXT: 分析資訊將會被儲存24小時，或是被儲存到下次團體戰開始為止。你隨時都可以從「設定」上傳分析資訊。
 
 RESOURCE ID: log_verbose_raid_modal_desc_info
-TEXT: 現在你可以將參加團體戰時的分析資訊傳送給Niantic，協助我們改善團體戰。
+TEXT: 現在你可以將參加團體戰時的分析資訊傳送給Scopely Explore，協助我們改善團體戰。
 
 RESOURCE ID: log_verbose_raid_modal_desc_url_link
 TEXT: 請至官方網站確認。
@@ -60418,7 +60482,7 @@ RESOURCE ID: marketing_email_opt_in_toggle
 TEXT: 開啟電子郵件通知功能
 
 RESOURCE ID: marketing_notification_opt_in_title
-TEXT: Niantic將傳送有關活動、優惠及遊戲更新等通知
+TEXT: Scopely Explore將傳送有關活動、優惠及遊戲更新等通知
 
 RESOURCE ID: marketing_notification_opt_in_message
 TEXT: 通知方法包括提示、聲音及標記。你可以在裝置設定中指定接收通知的方法。
@@ -61147,6 +61211,12 @@ TEXT: 超極巨化卡比獸特別極巨對戰活動入場券獎勵
 
 RESOURCE ID: max_battle_day_gigantamax_snorlax_special_event_name
 TEXT: 超極巨化卡比獸特別極巨對戰活動
+
+RESOURCE ID: max_battle_day_gmax_cinderace_ticketed
+TEXT: 閃焰王牌（超極巨化）極巨對戰日入場券獎勵
+
+RESOURCE ID: max_battle_day_gmax_cinderace_event_name
+TEXT: 閃焰王牌（超極巨化）極巨對戰日
 
 RESOURCE ID: max_battle_day_gmax_meowth_ticketed
 TEXT: 喵喵（超極巨化）極巨對戰日入場券獎勵
@@ -62077,10 +62147,10 @@ at SHA 4d4f3e80cc7fb911006bd14d198c9831ef66d005
 Pipeline 339838, job 2672172
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-09-09T21:50:37.113604+00:00 for zh-TW
-at SHA 83a400d168f
-Pipeline 3932304, job 57870598
-Patch from: 0.427.98-SHA-5e44928a-RC1, 0.429.0-SHA-d6c796f0-RC1, 0.427.1-SHA-4a569ba7-RC1
+TEXT: Built at 2026-09-11T20:57:11.794309+00:00 for zh-TW
+at SHA 9f591d8678c
+Pipeline 3938550, job 57981687
+Patch from: 0.429.0-SHA-de304d2a-RC2, 0.427.0-SHA-fc729f25-RC2, 0.427.1-SHA-4a569ba7-RC1
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: 限時調查：格鬥屬性
@@ -62332,10 +62402,10 @@ RESOURCE ID: monochrome_holiday_tr_name_2
 TEXT: 夢見綿羊寶可夢特級限時調查(2/2)
 
 RESOURCE ID: monodepth_ar_plus_required_toast
-TEXT: Turn on Niantic AR to use occlusion.
+TEXT: 使用實境融合前請開啟Scopely Explore AR
 
 RESOURCE ID: monodepth_ar_plus_toggle_warning
-TEXT: If you turn off Niantic AR, occlusion will be disabled too.
+TEXT: 關閉Scopely Explore AR後，實境融合功能也會被關閉。
 
 RESOURCE ID: monodepth_download_prompt_success_message
 TEXT: 和寶可夢們一起體驗更有趣的AR世界吧！
@@ -62390,6 +62460,9 @@ TEXT: 力霸群山
 
 RESOURCE ID: more_power_spots_active
 TEXT: 能量點增加
+
+RESOURCE ID: mossy_lure_duration_double
+TEXT: 藥草誘餌模組效果延長為1小時
 
 RESOURCE ID: motor_accessibility_settings_title
 TEXT: 操作方便性
@@ -67440,16 +67513,16 @@ RESOURCE ID: next_set_coming_on
 TEXT: Next coming on {0}!
 
 RESOURCE ID: niantic_anniversary_event
-TEXT: Niantic週年慶
+TEXT: Scopely Explore週年慶
 
 RESOURCE ID: niantic_game_preview_list_title
-TEXT: Other Niantic Games to Try
+TEXT: Other Scopely Explore Games to Try
 
 RESOURCE ID: niantic_profile_privacy_settings_title
 TEXT: Privacy Settings
 
 RESOURCE ID: niantic_social_overview_desc
-TEXT: New social features have arrived! With Niantic Social, you can now do the following:
+TEXT: Scopely Explore Social has arrived! With this new social feature, you can now do the following.
 
 RESOURCE ID: nickit_website_link
 TEXT: 詳情請至<a href="https://pokemongo.com/news/communityday-august-2026-nickit">網站</a>確認
@@ -70065,7 +70138,7 @@ RESOURCE ID: poi_contrib_failed_error
 TEXT: 無法提出申請，請重試一次。
 
 RESOURCE ID: poi_contrib_ghostinfo_label
-TEXT: 其他Niantic遊戲中使用的Wayspot
+TEXT: 其他Scopely Explore遊戲中使用的Wayspot
 
 RESOURCE ID: poi_contrib_identical_desc_error
 TEXT: 說明文重複，請重新編輯說明文
@@ -70290,7 +70363,7 @@ RESOURCE ID: poi_contrib_tutorial_dupe_title
 TEXT: 確認是否重覆
 
 RESOURCE ID: poi_contrib_tutorial_dupe_body
-TEXT: 提名新寶可補給站候補時，請避開這些Wayspot（藍＝Pokémon GO、橘＝其他Niantic遊戲）。
+TEXT: 提名新寶可補給站候補時，請避開這些Wayspot（藍＝Pokémon GO、橘＝其他Scopely Explore遊戲）。
 
 RESOURCE ID: poi_contrib_unavailable_disabled
 TEXT: 目前無法使用此功能
@@ -70672,7 +70745,7 @@ RESOURCE ID: poi_sub_tut_desc_1
 TEXT: 寶可補給站是遊戲中的地標，這些地標鼓勵訓練家出門探險並互相交流。寶可補給站有可能是特別的藝術作品，也有可能是只有當地居民才知道的隱密地點，但會被選作寶可補給站的地點通常都具有特別的教育或文化意義。
 
 RESOURCE ID: poi_sub_tut_desc_2
-TEXT: 提出申請時，請附上候補地點的名稱、詳細說明及該地點的照片。該候補地點將會由Niantic認定的玩家審查。
+TEXT: 提出申請時，請附上候補地點的名稱、詳細說明及該地點的照片。該候補地點將會由Scopely Explore認定的玩家審查。
 
 RESOURCE ID: poi_sub_tut_desc_3
 TEXT: 寶可補給站應具有教育或文化意義，並應位在安全且一般行人可前往的地點。請勿將私人住宅、僅限特定季節或非永久開放的設施、有可能影響急救車輛進出的地點提名為寶可補給站的候補地點。
@@ -83510,7 +83583,7 @@ RESOURCE ID: privacy_policy_short_button
 TEXT: 隱私權
 
 RESOURCE ID: privacy_policy_update_notice
-TEXT: 請查看Niantic最新的隱私權政策，確認新功能及我們處理個人資料的方式。
+TEXT: 請查看Scopely Explore最新的隱私權政策，確認新功能及我們處理個人資料的方式。
 
 RESOURCE ID: private_group_title
 TEXT: Private Group
@@ -83957,6 +84030,9 @@ TEXT: 讓 {0} 隻阿羅拉小拳石進化
 
 RESOURCE ID: quest_alodude_evolve_b
 TEXT: 讓 {0} 隻阿羅拉隆隆石進化
+
+RESOURCE ID: quest_applin_catch_singular
+TEXT: 捕捉啃果蟲
 
 RESOURCE ID: quest_appraise_pokemon_plural
 TEXT: 評價{0}隻寶可夢
@@ -110689,7 +110765,7 @@ RESOURCE ID: rally_apac_30_cross_regional_location
 TEXT: 亞洲
 
 RESOURCE ID: rally_apac_30_cross_regional_rewards_desc
-TEXT: 完成集章趣即可遇見帶著紀念背卡的各種髮色的「PokéXciting!皮卡丘」
+TEXT: 完成集章趣即可遇見帶著紀念背卡的各種顏色的「PokéXciting!皮卡丘」
 
 RESOURCE ID: rally_apac_30_regional_malaysia_desc
 TEXT: 慶祝PokéXciting! in 馬來西亞吧！
@@ -113536,7 +113612,7 @@ RESOURCE ID: route_nearby_help_duration
 TEXT: Estimate time from start point to end point.
 
 RESOURCE ID: route_nearby_help_official_route
-TEXT: The route created by NIANTIC partners has this label.
+TEXT: 由Scopely Explore夥伴規劃的路線會標有這個標籤
 
 RESOURCE ID: route_nearby_help_played_time
 TEXT: Number of played time of this route.
@@ -113974,7 +114050,7 @@ TEXT: What kind of issue happened?
 Could you describe it?
 
 RESOURCE ID: route_report_body
-TEXT: 收到回報後，我們將依Niantic的規定進行調查並採行適當措施。回報人的身份不會透露給路線規劃者知道。提交後即代表回報內容皆為屬實。
+TEXT: 收到回報後，我們將依Scopely Explore的規定進行調查並採行適當措施。回報人的身份不會透露給路線規劃者知道。提交後即代表回報內容皆為屬實。
 
 RESOURCE ID: route_report_permanent
 TEXT: Permanent issue
@@ -114318,10 +114394,10 @@ RESOURCE ID: route_submission_result_reject_description
 TEXT: 由於路線的標題／說明裡含有不當內容或連結而被否決。此路線無法再度編輯與提交。
 
 RESOURCE ID: route_submission_result_reject_message_bullying
-TEXT: Niantic反對任何的霸凌、騷擾、羞辱與威脅恐嚇。
+TEXT: Scopely Explore反對任何的霸凌、騷擾、羞辱與威脅恐嚇。
 
 RESOURCE ID: route_submission_result_reject_message_hate
-TEXT: Niantic反對助長及散播針對種族、民族、宗教信仰、性別與其他所有包含了身份認同的仇恨言論、舉止與思想。
+TEXT: Scopely Explore反對助長及散播針對種族、民族、宗教信仰、性別與其他所有包含了身份認同的仇恨言論、舉止與思想。
 
 RESOURCE ID: route_submission_result_reject_message_suicide
 TEXT: 若你本人或身邊周遭的人因煩惱而有自殺意念或自傷意念，請查看<a href="route_mental_health_resources_link">心理健康資源</a>頁面，確認諮詢服務。
@@ -116703,8 +116779,98 @@ TEXT: 絢爛奪目的記憶
 RESOURCE ID: season23_forever_forward
 TEXT: 嶄新的步伐
 
+RESOURCE ID: season24_harvest_applin_branch_appletun_title
+TEXT: 豐蜜龍
+
+RESOURCE ID: season24_harvest_applin_branch_appletun_description
+TEXT: 甜甜蘋果之路
+
+RESOURCE ID: season24_harvest_applin_branch_dipplin_title
+TEXT: 裹蜜蟲
+
+RESOURCE ID: season24_harvest_applin_branch_dipplin_description
+TEXT: 蜜汁蘋果之路
+
+RESOURCE ID: season24_harvest_applin_branch_flapple_title
+TEXT: 蘋裹龍
+
+RESOURCE ID: season24_harvest_applin_branch_flapple_description
+TEXT: 酸酸蘋果之路
+
+RESOURCE ID: season24_harvest_applin_tr_title
+TEXT: 豐收節：收集啃果蟲限時調查
+
+RESOURCE ID: season24_harvest_applin_tr_branch_prompt
+TEXT: 請選擇進化分歧。
+
 RESOURCE ID: season24_twilight_trails
 TEXT: 黃昏之旅
+
+RESOURCE ID: season24_twilight_trails_tr_0_0
+TEXT: %PLAYERNAME%！你來得正好！我剛好在看啃果蟲的資料，牠是一種又棒又不可思議的寶可夢。
+
+RESOURCE ID: season24_twilight_trails_tr_0_1
+TEXT: 雖然乍看之下像是蘋果，但是牠其實是住在蘋果裡的寶可夢。
+
+RESOURCE ID: season24_twilight_trails_tr_0_2
+TEXT: 對啃果蟲來說，蘋果不只可以保護牠，成為牠的糧食，甚至連味道都很重要。
+
+RESOURCE ID: season24_twilight_trails_tr_0_3
+TEXT: 畢竟味道可是會影響到啃果蟲的進化方向呢！
+
+RESOURCE ID: season24_twilight_trails_tr_0_4
+TEXT: 要不要選一個來調查看看？這一定會是個成果豐碩的調查！
+
+RESOURCE ID: season24_twilight_trails_tr_2_0
+TEXT: 感謝你的協助。「憑」藉著你的能力，「果」然能出色地完成調查呢……
+
+RESOURCE ID: season24_twilight_trails_tr_2_1
+TEXT: 多虧了你，我們對啃果蟲的進化更加了解了。
+
+RESOURCE ID: season24_twilight_trails_tr_2_2
+TEXT: 不管是酸的、甜的還是充滿蜜汁的蘋果，即使味道各有不同，卻都讓啃果蟲能有驚人的進化。
+
+RESOURCE ID: season24_twilight_trails_tr_2_3
+TEXT: 之後吃蘋果時得用心感受一下味道才行。不過呢，調查可不能就在這裡結束。
+
+RESOURCE ID: season24_twilight_trails_tr_2_4
+TEXT: 希望你能不斷繼續調查，拿出一番「成果」！
+
+RESOURCE ID: season24_twilight_trails_tr_appletun_1_0
+TEXT: 你要選豐蜜龍是嗎？
+
+RESOURCE ID: season24_twilight_trails_tr_appletun_1_1
+TEXT: 牠可以從體內發出甜甜的香味來引誘寶可夢。
+
+RESOURCE ID: season24_twilight_trails_tr_appletun_1_2
+TEXT: 這真是個好例子，讓我們知道寶可夢也有能夠直擊嗅覺的魅力。
+
+RESOURCE ID: season24_twilight_trails_tr_appletun_1_3
+TEXT: 我們就先從收集甜甜蘋果開始吧！
+
+RESOURCE ID: season24_twilight_trails_tr_dipplin_1_0
+TEXT: 你要選裹蜜蟲是嗎？
+
+RESOURCE ID: season24_twilight_trails_tr_dipplin_1_1
+TEXT: 據說這種寶可夢以2隻一體的形式住在蜜汁蘋果裡。
+
+RESOURCE ID: season24_twilight_trails_tr_dipplin_1_2
+TEXT: 對研究者來說，這種寶可夢絕對是當作研究主題的絕佳對象。
+
+RESOURCE ID: season24_twilight_trails_tr_dipplin_1_3
+TEXT: 我們就先從收集蜜汁蘋果開始吧！
+
+RESOURCE ID: season24_twilight_trails_tr_flapple_1_0
+TEXT: 你要選蘋裹龍是嗎？
+
+RESOURCE ID: season24_twilight_trails_tr_flapple_1_1
+TEXT: 蘋裹龍會把蘋果皮當成翅膀來飛翔，真是太新穎了！
+
+RESOURCE ID: season24_twilight_trails_tr_flapple_1_2
+TEXT: 就好像啃果蟲進化，追求著更高的境界……
+
+RESOURCE ID: season24_twilight_trails_tr_flapple_1_3
+TEXT: 我們就先從收集酸酸蘋果開始吧！
 
 RESOURCE ID: season_gbl_forecast_title_7
 TEXT: Season of GO
@@ -118000,7 +118166,7 @@ RESOURCE ID: settings_buddy_ar
 TEXT: 夥伴畫面的AR
 
 RESOURCE ID: settings_buddy_ar_tip
-TEXT: 在和夥伴寶可夢一起玩時使用Niantic AR
+TEXT: 在和夥伴寶可夢一起玩時使用Scopely Explore AR
 
 RESOURCE ID: settings_buddy_gained_candy
 TEXT: 夥伴寶可夢找到的糖果
@@ -118039,7 +118205,7 @@ RESOURCE ID: settings_encounter_ar
 TEXT: 捕捉畫面的AR
 
 RESOURCE ID: settings_encounter_ar_tip
-TEXT: 在捕捉寶可夢時使用Niantic AR
+TEXT: 在捕捉寶可夢時使用Scopely Explore AR
 
 RESOURCE ID: settings_enhanced_graphics_description
 TEXT: 增強後的視覺效果（電池消耗量可能會增加）
@@ -118129,13 +118295,13 @@ RESOURCE ID: settings_nearby_raids
 TEXT: 附近的團體戰
 
 RESOURCE ID: settings_niantic_ar
-TEXT: Niantic AR (AR+)
+TEXT: Scopely Explore AR (AR+)
 
 RESOURCE ID: settings_niantic_ar_tip
 TEXT: 你可以在捕捉寶可夢或拍攝GO Snapshot時使用AR
 
 RESOURCE ID: settings_niantic_ar_update
-TEXT: 更新Niantic AR (AR+)
+TEXT: 更新Scopely Explore AR (AR+)
 
 RESOURCE ID: settings_niantic_ar_update_done
 TEXT: AR為最新狀態
@@ -120212,11 +120378,11 @@ RESOURCE ID: social_online_toast
 TEXT: 和朋友分享上線狀態
 
 RESOURCE ID: social_online_consent_privacy
-TEXT: 請注意：開啟「顯示上線狀態」功能後，你在玩的所有Niantic遊戲都將會啟用此功能
+TEXT: 請注意：開啟「顯示上線狀態」功能後，你在玩的所有Scopely Explore遊戲都將會啟用此功能
 
 RESOURCE ID: social_online_consent_note_body
-TEXT: Your online status can be seen by your friends who have opted in to Niantic Online.
-You can change the status anytime by tapping the same button.
+TEXT: 有開啟Scopely Explore Online的朋友將能看見你的上線狀態。
+你隨時都可以關閉此分享上線狀態的功能。
 
 RESOURCE ID: social_online_consent_note_header
 TEXT: You are now online!
@@ -121208,7 +121374,7 @@ RESOURCE ID: sponsored_gift_tutorial_description_1
 TEXT: 拜訪道館和寶可補給時，你有機會收到附近贊助商提供的禮物和相關廣告訊息。
 
 RESOURCE ID: sponsored_gift_tutorial_description_2
-TEXT: 即使你選擇接收這份禮物，我們也不會將你的個人資訊分享給贊助商。更多關於贊助商禮物功能的詳細資訊，請至Niantic協助中心確認。
+TEXT: 即使你選擇接收這份禮物，我們也不會將你的個人資訊分享給贊助商。更多關於贊助商禮物功能的詳細資訊，請至Scopely Explore協助中心確認。
 
 RESOURCE ID: sponsored_gift_tutorial_description_3
 TEXT: You can manage Gifts from sponsors in your settings. This option allows you to receive Gifts from sponsors when available. This does not affect Gifts you send or receive that came from Sponsored PokéStop Locations.
@@ -125669,10 +125835,10 @@ RESOURCE ID: switch_sleep_warning
 TEXT: Please make sure that the mobile phone is up and running while connecting to SWITCH. Mobile phones going into sleep mode may disconnect from SWITCH.
 
 RESOURCE ID: switch_to_soft_sfida_description_default
-TEXT: If you're unable to use your device but want to remain paired, you can use Explorer Gadget Instead.
+TEXT: If you’re unable to use your device but want to remain paired, you can use your Explorer Gadget instead.
 
 RESOURCE ID: switch_to_soft_sfida_title_default
-TEXT: Pause your device and switch to Explorer Gadget?
+TEXT: Pause your device and switch to your Explorer Gadget?
 
 RESOURCE ID: swsh_masterball_sr_title
 TEXT: 長期調查：大師球
@@ -126259,6 +126425,11 @@ TEXT: <b>可獲得的獎勵：</b>
 ・透過能量點和探索可額外收集4000極巨粒子
 ・在極巨對戰獲勝時XP變成2倍
 ・完成後即可獲得極巨菇菇及25000XP的限時調查課題等
+
+RESOURCE ID: text_rewards_key_gmaxcinderace26
+TEXT: <b>可獲得的獎勵</b>
+・在極巨對戰獲勝時XP變成2倍
+・完成後即可獲得6400極巨粒子、25000XP及1個極巨菇菇的限時調查課題
 
 RESOURCE ID: text_rewards_key_gmaxgarbodor25
 TEXT: <b>可獲得的獎勵：</b>
@@ -128283,7 +128454,9 @@ RESOURCE ID: tips_friends_tutorial_add_title
 TEXT: 新增朋友
 
 RESOURCE ID: tips_friends_tutorial_add_body
-TEXT: 你可以輸入朋友的訓練家代碼，也可以掃描他們的二維條碼。或者是你也可以連動你的Facebook帳號，藉以新增朋友。
+TEXT: 你可以透過輸入訓練家代碼或掃描二維條碼來新增朋友。成為朋友後，雙方在所有有遊玩的Scopely Explore遊戲上都會成為朋友。
+
+或者你也可以連動你的Facebook帳號，藉以新增朋友。
 
 RESOURCE ID: tips_friends_tutorial_battle_title
 TEXT: 和朋友對戰
@@ -131803,6 +131976,9 @@ RESOURCE ID: tr_partner_familymart_april2026_header_7
 TEXT: 合作夥伴特別調查：
 全家便利商店(8/8)
 
+RESOURCE ID: tr_partner_familymart_sep2026_badge0233
+TEXT: 合作夥伴特別調查 – 黃昏之旅：全家便利商店
+
 RESOURCE ID: tr_partner_softbank_june2026
 TEXT: 合作夥伴特別調查：
 SoftBank
@@ -133817,7 +133993,7 @@ RESOURCE ID: unfriend_niantic_friend_title
 TEXT: 確定要刪除 {0} 這位朋友嗎？
 
 RESOURCE ID: unfriend_niantic_friend_tip
-TEXT: 從此Niantic遊戲中刪除此朋友後，在雙方的所有遊戲中的該朋友都將被刪除。
+TEXT: 從此Scopely Explore遊戲中刪除此朋友後，在雙方的所有遊戲中的該朋友都將被刪除。
 
 RESOURCE ID: unified_punishment_acknowledgement_button
 TEXT: OK
@@ -133878,9 +134054,9 @@ TEXT: <size=36><b>無法解除帳號綁定！</b></size>
 目前遊戲是以此帳號登入，故無法解除帳號綁定
 
 RESOURCE ID: unlink_account_failed_login_not_removable
-TEXT: <size=36><b>無法解除此帳號的綁定</b></size>
+TEXT: <size=36>無法解除此帳號的綁定</size>
 
-你可能已經將此帳號與其他Niantic服務綁定。請先新增其他登入帳號，再解除此帳號的綁定。
+你可能已經將此帳號與其他Scopely Explore服務綁定。請先新增其他登入帳號，再解除此帳號的綁定。
 
 RESOURCE ID: unlock_max_move_plural
 TEXT: 解鎖{0}個極巨招式
@@ -134423,7 +134599,7 @@ RESOURCE ID: verbose_logs_info_title
 TEXT: 請協助改善Pokémon GO！
 
 RESOURCE ID: verbose_logs_info_body
-TEXT: 遊戲紀錄內包含可協助Niantic改善Pokémon GO的寶貴資訊，若你允許系統儲存遊戲紀錄，系統將在遊戲各活動結束後將遊戲紀錄上傳與Niantic分享。
+TEXT: 遊戲紀錄內包含可協助Scopely Explore改善Pokémon GO的寶貴資訊，若你允許系統儲存遊戲紀錄，系統將在遊戲各活動結束後將遊戲紀錄上傳與Scopely Explore分享。
 
 每項活動的遊戲紀錄將被儲存24小時，或是儲存至你下次開始此類型的活動為止。你可以從設定選單中上傳已儲存的遊戲紀錄。
 
@@ -134557,7 +134733,7 @@ RESOURCE ID: vps_download_prompt_continue
 TEXT: 開始！
 
 RESOURCE ID: vps_download_prompt_legal_tos_description
-TEXT: 請開啟AR來使用此功能。Niantic將會在你使用AR功能時處理透過照相機取得的地理空間資訊。{0}
+TEXT: 請開啟AR來使用此功能。Scopely Explore將會在你使用AR功能時處理透過照相機取得的地理空間資訊。{0}
 
 RESOURCE ID: vps_guardian_oob_toast
 TEXT: 已離開寶可夢遊樂場的範圍。請回到邊界線內來放置寶可夢。
@@ -135008,10 +135184,10 @@ RESOURCE ID: wayfarer_bonus_title_02
 TEXT: Wayfarer獎勵限時調查(2/2)
 
 RESOURCE ID: wayfarer_eligible_title
-TEXT: 現在可以參加Niantic Wayfarer囉！
+TEXT: 現在可以參加Scopely Explore Wayfarer囉！
 
 RESOURCE ID: wayfarer_eligible_body
-TEXT: 恭喜你獲得了參加Niantic Wayfarer的資格！你可以透過Niantic Wayfarer提供世界各地名勝景點資訊，讓Niantic的遊戲更加有趣。趕快完成Wayfarer的訓練課程，解鎖申請新寶可補給站及編輯寶可補給站的功能吧！
+TEXT: 恭喜你獲得了參加Scopely Explore Wayfarer的資格！你可以透過Scopely Explore Wayfarer提供世界各地名勝景點資訊，讓Scopely Explore的遊戲更加有趣。趕快完成Wayfarer的訓練課程，解鎖申請新寶可補給站及編輯寶可補給站的功能吧！
 
 RESOURCE ID: wayfarer_eligible_goto
 TEXT: 前往WAYFARER

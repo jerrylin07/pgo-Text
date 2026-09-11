@@ -266,7 +266,7 @@ RESOURCE ID: abi_new_player_onboarding_list_header
 TEXT: अपनी कॉन्टैक्ट लिस्ट में मौजूद ट्रेनर्स को दोस्ती का अनुरोध भेजें! दोस्तों के साथ, आप यह कर सकते हैं…
 
 RESOURCE ID: abi_new_player_onboarding_opt_in_info
-TEXT: इसे Niantic सोशल अकाउंट सेटिंग मेन्यू में जाकर किसी भी समय बंद किया जा सकता है।
+TEXT: इसे Scopely Explore सोशल अकाउंट सेटिंग मेन्यू में जाकर कसिी भी समय बंद कयिा जा सकता है।
 
 RESOURCE ID: abi_new_player_onboarding_opt_in_check_box
 TEXT: अगर मैं लोगों की कॉन्टैक्ट लिस्ट में हूं, तो उन्हें मुझे दोस्ती का अनुरोध भेजने की परमिशन दें।
@@ -281,7 +281,7 @@ RESOURCE ID: about_screen_btn
 TEXT: जानकारी
 
 RESOURCE ID: about_screen_copyright1
-TEXT: ©2016–2017 Niantic, Inc.
+TEXT: ©2016–2017 Scopely Explore, Inc.
 
 RESOURCE ID: about_screen_copyright2
 TEXT: ©2016–2017 Pokémon.
@@ -419,13 +419,13 @@ RESOURCE ID: add_friend_confirmation_title
 TEXT: {0} को दोस्ती की रीक्वेस्ट भेजें?
 
 RESOURCE ID: add_friends_niantic_title
-TEXT: Friend in Niantic Games
+TEXT: Scopely Explore Games में दोस्त
 
 RESOURCE ID: add_friends_privacy_prompt
 TEXT: दोस्तों को आपकी ट्रेनर प्रोफ़ाइल, उपलब्धियां और आपके द्वारा पकड़े गए पोकेमॉन दिखाई देंगे। जब आप दोस्तों को गिफ़्ट भेजते हैं या उनके साथ पोकेमॉन ट्रेड करते हैं, तो वे आपकी लोकेशन भी देख सकेंगे।
 
 RESOURCE ID: add_niantic_friend_tip
-TEXT: इस गेम में इस दोस्त को शामिल करने पर, यह उन सभी Niantic में एक दोस्त की तरह जुड़ जाएगा जिन्हें आप दोनों खेलते हैं।
+TEXT: इस गेम में इस दोस्त को शामलि करने पर, यह उन सभी Scopely Explore में एक दोस्त की तरह जुड़ जाएगा जन्हिें आप दोनों खेलते हैं।
 
 RESOURCE ID: add_referrer_disabled
 TEXT: कनेक्शन नहीं हो सका।
@@ -1246,6 +1246,9 @@ TEXT: Apple Watch चालू हो गई!
 RESOURCE ID: applewatch_enable_modal_success_message
 TEXT: हो गया! सेशन शुरू करने के लिए Apple Watch ऐप खोलें।
 
+RESOURCE ID: applin_apple_drop_bonus
+TEXT: वाइल्ड ऐप्लनि के टार्ट ऐप्पल, स्वीट ऐप्पल, या रसीले ऐप्पल पकड़े होने की अधकि संभावना है
+
 RESOURCE ID: appraisal_filter_group_key
 TEXT: मूल्य जांच
 
@@ -2065,10 +2068,10 @@ RESOURCE ID: ardk_download_button
 TEXT: डाउनलोड करें
 
 RESOURCE ID: ardk_download_confirm_title
-TEXT: Niantic AR Platform (ट्रायल)
+TEXT: Scopely Explore AR Platform (ट्रायल)
 
 RESOURCE ID: ardk_download_confirm_body
-TEXT: AR पार्टनर लेवल का पूरा मज़ा लेने के लिए, कृपया Niantic AR Platform डाउनलोड करें। (आप जब चाहें इस ट्रायल को बंद कर सकते हैं।)
+TEXT: AR पार्टनर लेवल का पूरा मज़ा लेने के लिए, कृपया Scopely Explore AR Platform डाउनलोड करें। (आप जब चाहें इस ट्रायल को बंद कर सकते हैं।)
 
 RESOURCE ID: ardk_download_confirm_size
 TEXT: डाउनलोड साइज़: {0} MB
@@ -2077,7 +2080,7 @@ RESOURCE ID: ardk_download_progress_format
 TEXT: {0}/{1} MB
 
 RESOURCE ID: ardk_download_prompt_downloading
-TEXT: AR अनुभवों को चालू करने के लिए Niantic AR Platform डाउनलोड किया जा रहा है…
+TEXT: AR अनुभवों को चालू करने के लिए Scopely Explore AR Platform डाउनलोड कयिा जा रहा है…
 
 RESOURCE ID: ardk_download_prompt_dowload_progress
 TEXT: {0}/{1} MB
@@ -2090,7 +2093,7 @@ TEXT: हो गया!
 शेयर किए गए AR अनुभव में आपका स्वागत है!
 
 RESOURCE ID: ardk_download_prompt_multiplayer_legal_tos_description
-TEXT: Niantic आपके AR सेशन के दौरान आपके कैमरे का जियोस्पेशल डेटा प्रोसेस करेगा। {0}।
+TEXT: Scopely Explore आपके AR सेशन के दौरान आपके कैमरे का जयिोस्पेशल डेटा प्रोसेस करेगा। {0}।
 
 RESOURCE ID: ardk_download_prompt_multiplayer_legal_tos_link_text
 TEXT: और जानें
@@ -2102,7 +2105,7 @@ RESOURCE ID: ardk_download_prompt_retry_header
 TEXT: कोई गड़बड़ी हुई!
 
 RESOURCE ID: ardk_download_prompt_success_body
-TEXT: Niantic AR Platform डाउनलोड हो गया है
+TEXT: Scopely Explore AR Platform डाउनलोड हो गया है
 
 RESOURCE ID: ardk_download_prompt_success_header
 TEXT: हो गया!
@@ -2112,10 +2115,10 @@ RESOURCE ID: ardk_download_prompt_title_dbow
 TEXT: शेयर किए गए AR अनुभवों का मज़ा लेने के लिए, अतिरिक्त कॉन्टेंट डाउनलोड करना होगा
 
 RESOURCE ID: ardk_download_prompt_title_monodepth
-TEXT: AR का बेहतरीन अनुभव पाने के लिए, Niantic AR पैकेज डाउनलोड करना ज़रूरी है।
+TEXT: AR का बेहतरीन अनुभव पाने के लिए, Scopely Explore AR पैकेज डाउनलोड करना ज़रूरी है।
 
 RESOURCE ID: ardk_update_confirm_title
-TEXT: Niantic AR Platform अपडेट
+TEXT: Scopely Explore AR Platform अपडेट
 
 RESOURCE ID: ardk_update_confirm_body
 TEXT: कृपया सर्वश्रेष्ठ AR अनुभव डाउनलोड करें।
@@ -18028,7 +18031,7 @@ RESOURCE ID: bidoof_day_event
 TEXT: बीडूफ़ ब्रेकआउट
 
 RESOURCE ID: blacklisted_app_found_lockout
-TEXT: हमने एक ऐसे सॉफ़्टवेयर की पहचान की है जिसकी वजह से आपको अपने डिवाइस पर Pokémon GO इस्तेमाल करने में दिक्कत हो सकती है। इसमें आपकी लोकेशन को गलत बताने वाले ऐप्लिकेशन शामिल हैं। बिना अनुमति वाले ऐसे सॉफ़्टवेयर इस्तेमाल करना जो सीधे Pokémon GO पर असर पड़ता है, Niantic की सेवा की शर्तों का उल्लंघन है। ऐसा करने से, आपका खाता भी बंद हो सकता है। गेम खेलना जारी रखने के लिए, आपको ऐसे सभी ऐप्लिकेशन अनइंस्टॉल करने होंगे।
+TEXT: हमने एक ऐसे सॉफ़्टवेयर की पहचान की है जसिकी वजह से आपको अपने डविाइस पर Pokémon GO इस्तेमाल करने में दक्कित हो सकती है। इसमें आपकी लोकेशन को गलत बताने वाले ऐप्लकिेशन शामलि हैं। बनिा अनुमति वाले ऐसे सॉफ़्टवेयर इस्तेमाल करना जो सीधे Pokémon GO पर असर पड़ता है, Scopely Explore की सेवा की शर्तों का उल्लंघन है। ऐसा करने से, आपका खाता भी बंद हो सकता है। गेम खेलना जारी रखने के लिए, आपको ऐसे सभी ऐप्लकिेशन अनइंस्टॉल करने होंगे।
 
 RESOURCE ID: blanche_inspire#1
 TEXT: हार न मानें।
@@ -21619,16 +21622,16 @@ RESOURCE ID: buddy_monodepth_flag
 TEXT: ट्रायल
 
 RESOURCE ID: buddy_monodepth_modal_title
-TEXT: Niantic AR Platform (ट्रायल) को बंद करें?
+TEXT: Scopely Explore AR Platform (ट्रायल) को बंद करें?
 
 RESOURCE ID: buddy_monodepth_modal_message
-TEXT: क्या आपको Niantic AR Platform (ट्रायल) बंद करना है? आप जब चाहें, सेटिंग में जाकर ट्रायल चालू या बंद कर सकते हैं।
+TEXT: क्या आपको Scopely Explore AR Platform (ट्रायल) बंद करना है? आप जब चाहें, सेटिंग में जाकर ट्रायल चालू या बंद कर सकते हैं।
 
 RESOURCE ID: buddy_monodepth_modal_continue_button
 TEXT: इस्तेमाल करना जारी रखें
 
 RESOURCE ID: buddy_monodepth_modal_turn_off_button
-TEXT: Niantic AR Platform (ट्रायल) को बंद करें
+TEXT: Scopely Explore AR Platform (ट्रायल) को बंद करें
 
 RESOURCE ID: buddy_multilplayer_qr_display_header
 TEXT: पार्टनर ग्रुप QR कोड
@@ -23206,6 +23209,9 @@ TEXT: 繁體中文
 
 RESOURCE ID: choose_event_variant_failed
 TEXT: इवेंट का वर्ज़न चुना नहीं जा सका। बाद में फिर से कोशिश करें।
+
+RESOURCE ID: cinderace_gmax_tr_2026_title
+TEXT: जायगैंटामैक्स सिंडरएस प्रीमयिम सीमति समय वाली रसिर्च
 
 RESOURCE ID: city_accra
 TEXT: अक्रॉ
@@ -26911,7 +26917,7 @@ RESOURCE ID: combat_choose_next_pokemon
 TEXT: दूसरे पोकेमॉन पर स्विच करें?
 
 RESOURCE ID: combat_choose_pokemon_scaled
-TEXT: Some Pokémon’s CP has been adjusted for this league.
+TEXT: A Pokémon’s CP has been adjusted for this league.
 
 RESOURCE ID: combat_choosing_their_team
 TEXT: अपनी टीम चुन रहा है!
@@ -27328,15 +27334,15 @@ RESOURCE ID: combat_lets_not_battle
 TEXT: अभी नहीं
 
 RESOURCE ID: combat_log_upload_complete_modal_body
-TEXT: Thank you for sharing your game logs with Niantic. This data will help us improve Pokémon GO.
+TEXT:  Scopely Explore के साथ अपने गेम का लोगो शेयर करने के लिए शुक्रयिा। इस डेटा से हमें Pokémon GO को बेहतर बनाने में मदद मलिेगी।
 
-For further assistance, please contact support and mention your uploaded game logs.
+ज़्यादा सहायता के लिए, कृपया सहायता से संपर्क करें और अपने अपलोड किए गए गेम लॉग का उल्लेख करें
 
 RESOURCE ID: combat_log_upload_modal_title
 TEXT: Upload Game Logs
 
 RESOURCE ID: combat_log_upload_modal_body
-TEXT: If you experienced issues during your last Trainer Battle, consider uploading your game logs via the Game Logging feature to share them with Niantic.
+TEXT: अगर आपको पछिली ट्रेनर बैटल के दौरान समस्याएं हुई थीं, तो गेम लॉगिंग फ़ीचर के ज़रिए अपने गेम लॉग अपलोड करने पर वचिार करें, ताकि आप उन्हें Scopely Explore के साथ शेयर कर सकें
 
 RESOURCE ID: combat_log_upload_modal_complete_title
 TEXT: अपलोड हो गया!
@@ -27634,6 +27640,18 @@ TEXT: अल्ट्रा लीग
 
 RESOURCE ID: combat_use_this_party
 TEXT: इस पार्टी को इस्तेमाल करें
+
+RESOURCE ID: comic_con_malaga_2026_title
+TEXT: Pokémon GO - सैन डिएगो कॉमकि-कॉन मालागा
+
+RESOURCE ID: comic_con_malaga_2026_tr_title
+TEXT: सैन डिएगो कॉमकि-कॉन मालागा सीमति समय वाली रसिर्च
+
+RESOURCE ID: comic_con_malaga_2026_tr_01
+TEXT: सैन डिएगो कॉमकि-कॉन मालागा सीमति समय वाली रसिर्च (1/2)
+
+RESOURCE ID: comic_con_malaga_2026_tr_02
+TEXT: सैन डिएगो कॉमकि-कॉन मालागा सीमति समय वाली रसिर्च (2/2)
 
 RESOURCE ID: community_ambassador_tr_title
 TEXT: कम्युनिटी दूत बोनस सीमित समय वाली रिसर्च
@@ -29077,11 +29095,20 @@ TEXT: अधकि जानकारी की लिए <a href="https://pokem
 RESOURCE ID: details_link_key_flying_taxi_taken_over
 TEXT: अधकि जानकारी की लिए <a href="https://pokemongo.com/news/flying-taxi-taken-over-2026">वेबसाइट</a> पर जाएँ।
 
+RESOURCE ID: details_link_key_gmax_cinderace
+TEXT: अधकि जानकारी की लिए <a href="https://pokemongo.com/news/gigantamax-cinderace-max-battle-day-2026">वेबसाइट</a> पर जाएँ।
+
 RESOURCE ID: details_link_key_gmax_rillaboom
 TEXT: अधकि जानकारी की लिए <a href="https://pokemongo.com/news/gigantamax-rillaboom-max-battle-day-2026">वेबसाइट</a> पर जाएँ।
 
 RESOURCE ID: details_link_key_gmax_pikachu_max_battle
 TEXT: अधिक जानकारी की लिए <a href="https://pokemongo.com/news/gigantamax-pikachu-max-battle-day-2026">वेबसाइट</a> पर जाएँ।
+
+RESOURCE ID: details_link_key_harvest_festival
+TEXT: अधकि जानकारी की लिए <a href="https://pokemongo.com/news/harvest-festival-2026">वेबसाइट</a> पर जाएँ।
+
+RESOURCE ID: details_link_key_harvest_festival_taken_over
+TEXT: अधकि जानकारी की लिए <a href="https://pokemongo.com/news/harvest-festival-taken-over-2026">वेबसाइट</a> पर जाएँ।
 
 RESOURCE ID: details_link_key_lunar_new_year_feb2026
 TEXT: अधिक जानकारी की लिए <a href="https://pokemongo.com/news/lunar-new-year-event-2026">वेबसाइट</a> पर जाएं।
@@ -30125,6 +30152,21 @@ TEXT: क्लिफ़ के जैसे ट्रेनिंग करे�
 RESOURCE ID: em_hawlucha_2025_tr_path_b_desc
 TEXT: मचॉप, फ़्रॉगावारा, और हुइशा, से मुलाकात करने, और चार्ज्ड TM व फ़ास्ट TM जैसे अन्य रिवॉर्ड पाने के लिए इस पथ को चुनें।
 
+RESOURCE ID: em_hawlucha_2026_tr_dialog_00
+TEXT: हैलो, %PLAYERNAME%! पथ चुनने का समय आ गया है! क्या आप आर्लो के जैसी ध्यान लगाई सटीकता से ट्रेनिंग करेंगे, या फरि कैंडेला के जैसे धधकते उत्साह से?
+
+RESOURCE ID: em_hawlucha_2026_tr_path_a
+TEXT: कैंडेला के जैसे ट्रेनिंग करें
+
+RESOURCE ID: em_hawlucha_2026_tr_path_a_desc
+TEXT: रैपडिैश, टॉर्चकि और चमिचार से मुलाकात के लिए इस पथ को चुनें, साथ ही इंसेंस और स्टकिर जैसे रविॉर्ड भी पाएँ।
+
+RESOURCE ID: em_hawlucha_2026_tr_path_b
+TEXT: आर्लो के जैसे ट्रेनिंग करें
+
+RESOURCE ID: em_hawlucha_2026_tr_path_b_desc
+TEXT: मैंकी, सज़िॉर, और हसिुइ स्नीज़ल से मुलाकात के लिए इस पथ को चुनें, साथ ही इंसेंस और स्टकिर जैसे रविॉर्ड भी पाएँ।
+
 RESOURCE ID: em_holi_2025_event_title
 TEXT: फ़ेस्टिवल ऑफ़ कलर्स 2025
 
@@ -31052,6 +31094,9 @@ TEXT: 16 अगस्त, सुबह 10:00 बजे –
 
 RESOURCE ID: event_datetime_range_key_gmaxbutterfree25
 TEXT: 3 अगस्त, दुपहर 2:00 बजे – शाम 5:00 बजे तक
+
+RESOURCE ID: event_datetime_range_key_gmaxcinderace26
+TEXT: 3 अक्तूबर, दुपहर 2:00 बजे – शाम 5:00 बजे
 
 RESOURCE ID: event_datetime_range_key_gmaxgarbodor25
 TEXT: 1 नवंबर, दुपहर 2:00  –
@@ -33651,7 +33696,7 @@ RESOURCE ID: fb_invite_import_friends_title
 TEXT: Facebook से दोस्त इंपोर्ट करें?
 
 RESOURCE ID: fb_invite_import_friends_info
-TEXT: अगर आप Facebook के दोस्तों को इंपोर्ट करने का विकल्प चुनते हैं, तो Niantic आपके Facebook के उन दोस्तों की लिस्ट को एक्सेस करेगा जो पहले से ही Pokémon GO पर हैं और उन्होंने भी Facebook दोस्तों को इंपोर्ट करने का विकल्प चुना है। आपकी Facebook प्रोफ़ाइल पर दिखने वाला आपका नाम और फ़ोटो आपके ट्रेनर के नाम के साथ दिखाई देगी। आप जब चाहें अपना विचार बदल सकते हैं और अपनी Pokémon GO की दोस्ती की लिस्ट से खिलाडि़यों को हटा सकते हैं या Facebook में ऐप अनुमतियों को एडिट कर सकते हैं। ज़्यादा जानकारी के लिए, सहायता केंद्र पर जाएं।
+TEXT: अगर आप Facebook के दोस्तों को इंपोर्ट करने का वकिल्प चुनते हैं, तो Scopely Explore आपके Facebook के उन दोस्तों की लस्टि को एक्सेस करेगा जो पहले से ही Pokémon GO पर हैं और उन्होंने भी Facebook दोस्तों को इंपोर्ट करने का वकिल्प चुना है। आपकी Facebook प्रोफ़ाइल पर दखिने वाला आपका नाम और फ़ोटो आपके ट्रेनर के नाम के साथ दखिाई देगी। आप जब चाहें अपना वचिार बदल सकते हैं और अपनी Pokémon GO की दोस्ती की लस्टि से खलिाड़यिों को हटा सकते हैं या Facebook में ऐप अनुमतयिों को एडटि कर सकते हैं। ज़्यादा जानकारी के लिए, सहायता केंद्र पर जाएं।
 
 RESOURCE ID: fb_invite_no_friends
 TEXT: आपके Facebook के दोस्तों ने अभी तक इस फ़ीचर में ऑप्ट इन नहीं किया है। Facebook पर अपने दोस्तों से पूछें!
@@ -36096,7 +36141,7 @@ RESOURCE ID: friend_is_at_a_max_battle
 TEXT: <b>{0}</b> बैटल में शामिल हुए
 
 RESOURCE ID: friend_niantic_game_preview_list_title
-TEXT: शेयर करने के लिए अन्य Niantic गेम
+TEXT: शेयर करने के लिए अन्य Scopely Explore गेम
 
 RESOURCE ID: friend_opened_your_gift
 TEXT: {0} को आपके गिफ़्ट से {1} आइटम मिले!
@@ -36135,9 +36180,9 @@ RESOURCE ID: friend_sent_you_gift_notification
 TEXT: {0} ने आपको एक गिफ़्ट भेजा!
 
 RESOURCE ID: friend_sort_online_not_available_body
-TEXT: ऑनलाइन स्टेटस शेयर करने पर ही क्रमित करने का यह तरीका इस्तेमाल किया जा सकता है। 
+TEXT: ऑनलाइन स्टेटस शेयर करने पर ही क्रमति करने का यह तरीका इस्तेमाल कयिा जा सकता है। 
  
-नोट: आपका ऑनलाइन स्टेटस शेयर होने पर वह आपके द्वारा खेले जाने वाले सभी Niantic गेम्स के लिए शेयर हो जाएगा।
+नोट: आपका ऑनलाइन स्टेटस शेयर होने पर वह आपके द्वारा खेले जाने वाले सभी Scopely Explore गेम्स के लिए शेयर हो जाएगा।
 
 RESOURCE ID: friend_sort_online_not_available_header
 TEXT: क्या आपको अपना ऑनलाइन स्टेटस शेयर करना है?
@@ -36365,7 +36410,7 @@ RESOURCE ID: friendslist_sort_raid
 TEXT: ({0}) रेड में
 
 RESOURCE ID: friendslist_sort_online_unavailable
-TEXT: अगर आपने Niantic Online में शामिल नहीं हुए, तो आप दोस्तों को ऑनलाइन स्टेटस से क्रमित नहीं कर सकते हैं।
+TEXT: अगर आपने Scopely Explore Online में शामलि नहीं हुए, तो आप दोस्तों को ऑनलाइन स्टेटस से क्रमति नहीं कर सकते हैं।
 
 RESOURCE ID: frigibax_cd_website_link
 TEXT: अधकि जानकारी की लिए <a href="https://pokemongo.com/news/communityday-june-2026-frigibax">वेबसाइट</a> पर जाएँ।
@@ -37833,6 +37878,9 @@ TEXT: Pokémon GO Tour : जोहतो
 
 RESOURCE ID: general1.ticket.4_finalstrike0525_title
 TEXT: अंतिम स्ट्राइक - GO बैटल वीक प्रीमियम सीमित समय वाली रिसर्च टिकट
+
+RESOURCE ID: general1.ticket.4_gmaxcinderace26_title
+TEXT: जायगैंटामैक्स सिंडरएस मैक्स बैटल डे टकिट
 
 RESOURCE ID: general1.ticket.4_gmaxmeowth26_title
 TEXT: जायगैंटामैक्स म्याउथ मैक्स बैटल डे टिकट
@@ -39614,6 +39662,9 @@ TEXT: जायगैंटामैक्स बटरफ़्री मैक
 
 RESOURCE ID: gmax_butterfree_max_battles
 TEXT: जायगैंटामैक्स बटरफ़्री मैक्स बैटल में दिखीई दे रहे हैं
+
+RESOURCE ID: gmax_cinderace_max_battles
+TEXT: जायगैंटामैक्स सिंडरएस मैक्स बैटल में दखिाई दे रहे हैं
 
 RESOURCE ID: gmax_garbodor_lead_up_timed_research
 TEXT: जायगैंटामैक्स गारबोडर मैक्स बैटल डे प्री-इवेंट सीमित समय वाली रिसर्च
@@ -48871,6 +48922,12 @@ TEXT: पंपकिन पैच कलेक्शन चैलेंज
 RESOURCE ID: harvest_festival_oct2025_smoliv_cc
 TEXT: ऑलिव पैच कलेक्शन चैलेंज
 
+RESOURCE ID: harvest_festival_s24_event_name
+TEXT: फसल उत्सव - ऐप्लनि चुनना
+
+RESOURCE ID: harvest_festival_taken_over_event_name
+TEXT: फसल का त्यौहार - टेक ओवर
+
 RESOURCE ID: harvest_festival_tr_name
 TEXT: फसल का त्यौहार प्रीमियम सीमित समय वाली रिसर्च
 
@@ -52374,6 +52431,12 @@ TEXT:  An extra event ticket from a purchase error. You can send it to a friend 
 RESOURCE ID: item_event_ticket_pink_to_gift_name
 TEXT: Extra Ticket
 
+RESOURCE ID: item_event_ticket_s24_oct_3_maxbattle_desc_gmaxcinderace26
+TEXT: स्थानीय समयानुसार, 3 अक्तूबर, 2026 को दुपहर 2:00 बजे से शाम 5:00 बजे तक मलिने वाले स्पेशल बोनस को एक्सेस करने की टकिट।
+
+RESOURCE ID: item_event_ticket_s24_oct_3_maxbattle_details_gmaxcinderace26
+TEXT: यह टकिट अपने आप ऐक्टविेट होकर, आपको 3 अक्तूबर के स्पेशल बोनस का ऐक्सेस देगी।
+
 RESOURCE ID: item_event_ticket_to_gift_desc
 TEXT: An extra event ticket from a purchase error. You can send it to a friend or get it refunded.
 
@@ -54044,13 +54107,13 @@ RESOURCE ID: kr_hanbok_pikachu_picnic_2026_tr_name_3
 TEXT: पकिाचू चला कोरयिा 2026 सीमति समय वाली रसिर्च (3/3)
 
 RESOURCE ID: kr_hangul_day_2026_title
-TEXT: 2026 Hangul Day
+TEXT: Hangul Day 2026
 
 RESOURCE ID: kr_hangul_day_2026_bonus_desc
 TEXT: Celebrate Hangul Day with event-themed Pokémon appearing in the wild! Use Incense or Lure Modules to encounter special Pokémon.
 
 RESOURCE ID: kr_hangul_day_sep2026_cc_title
-TEXT: 2026 Hangul Day Collection Challenge
+TEXT: Hangul Day 2026 Collection Challenge
 
 RESOURCE ID: kr_lantern_festival_2025_massive_bonus_title
 TEXT: मैजिकार्प टाइम आ गया है!
@@ -54308,7 +54371,7 @@ RESOURCE ID: last_played_yesterday
 TEXT: पिछली बार खेलने का समय: बीता हुआ कल
 
 RESOURCE ID: last_played_date_setting_description
-TEXT: मैंने पिछली बार जब Niantic गेम खेला था, उसकी जानकारी दोस्तों को देखने की अनुमति दें।
+TEXT: मैंने पछिली बार जब Scopely Explore गेम खेला था, उसकी जानकारी दोस्तों को देखने की अनुमति दें।
 
 RESOURCE ID: last_played_two_plus_days_ago
 TEXT: पिछली बार खेलने का समय: 2+ दिन पहले
@@ -56919,7 +56982,7 @@ RESOURCE ID: log_verbose_raid_modal_desc_cache
 TEXT: रेड का डेटा 24 घंटों के लिए या आपके अगले रेड तक के लिए स्टोर कर लिया जाएगा और आप इस समय के भीतर सेटिंग मेन्यू में जाकर इसे कभी भी अपलोड कर सकते हैं।
 
 RESOURCE ID: log_verbose_raid_modal_desc_info
-TEXT: आपने जिन रेड में हिस्सा लिया है उनका डेटा आप रेड लॉग फ़ीचर की मदद से अपलोड कर सकते हैं। इससे Niantic को आगे होने वाली रेड को बेहतर बनाने में मदद मिलेगी।
+TEXT: आपने जनि रेड में हस्सिा लयिा है उनका डेटा आप रेड लॉग फ़ीचर की मदद से अपलोड कर सकते हैं। इससे Scopely Explore को आगे होने वाली रेड को बेहतर बनाने में मदद मलिेगी।
 
 RESOURCE ID: log_verbose_raid_modal_desc_url_link
 TEXT: वेबसाइट पर जाएं।
@@ -57825,7 +57888,7 @@ RESOURCE ID: marketing_email_opt_in_toggle
 TEXT: ईमेल प्राप्त करें
 
 RESOURCE ID: marketing_notification_opt_in_title
-TEXT: Niantic आपको इवेंट, ऑफ़र और अपडेट के बारे में सूचनाएं भेजना चाहेगा।
+TEXT: Scopely Explore आपको इवेंट, ऑफ़र और अपडेट के बारे में सूचनाएं भेजना चाहेगा।
 
 RESOURCE ID: marketing_notification_opt_in_message
 TEXT: सूचनाओं में अलर्ट, साउंड और आइकॉन बैज शामिल हो सकते हैं। इसे सेटिंग से कॉन्फि़गर किया जा सकता है।
@@ -58552,6 +58615,12 @@ TEXT: जायगैंटामैक्स स्नोरलैक्स स
 
 RESOURCE ID: max_battle_day_gigantamax_snorlax_special_event_name
 TEXT: जायगैंटामैक्स स्नोरलैक्स स्पेशल मैक्स बैटल इवेंट
+
+RESOURCE ID: max_battle_day_gmax_cinderace_ticketed
+TEXT: जायगैंटामैक्स सिंडरएस मैक्स बैटल डे टकिट बोनस
+
+RESOURCE ID: max_battle_day_gmax_cinderace_event_name
+TEXT: जायगैंटामैक्स सिंडरएस मैक्स बैटल डे
 
 RESOURCE ID: max_battle_day_gmax_meowth_ticketed
 TEXT: जायगैंटामैक्स म्याउथ मैक्स बैटल डे टिकट बोनस
@@ -59484,10 +59553,10 @@ at SHA 12701f1c07ae7f07a5d50583f697320977df7988
 Pipeline 1139111, job 13470914
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-09-09T21:50:37.113604+00:00 for hi-IN
-at SHA 83a400d168f
-Pipeline 3932304, job 57870598
-Patch from: 0.427.98-SHA-5e44928a-RC1, 0.429.0-SHA-d6c796f0-RC1, 0.427.1-SHA-4a569ba7-RC1
+TEXT: Built at 2026-09-11T20:57:11.794309+00:00 for hi-IN
+at SHA 9f591d8678c
+Pipeline 3938550, job 57981687
+Patch from: 0.429.0-SHA-de304d2a-RC2, 0.427.0-SHA-fc729f25-RC2, 0.427.1-SHA-4a569ba7-RC1
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: Timed Research: Choose Your Fighting Type
@@ -59739,10 +59808,10 @@ RESOURCE ID: monochrome_holiday_tr_name_2
 TEXT: शीप पोकेमॉन के सपने प्रीमियम सीमित समय वाली रिसर्च (2/2)
 
 RESOURCE ID: monodepth_ar_plus_required_toast
-TEXT: रिऐलिटी ब्लेंडिंग की सुविधा का इस्तेमाल करने के लिए, Niantic AR चालू करें।
+TEXT: रिऐलटिी ब्लेंडिंग की सुवधिा का इस्तेमाल करने के लिए, Scopely Explore AR चालू करें।
 
 RESOURCE ID: monodepth_ar_plus_toggle_warning
-TEXT: अगर आप Niantic AR बंद करते हैं, तो रिऐलिटी ब्लेंडिंग भी बंद हो जाएगा।
+TEXT: अगर आप Scopely Explore AR बंद करते हैं, तो रिऐलटिी ब्लेंडिंग भी बंद हो जाएगा।
 
 RESOURCE ID: monodepth_download_prompt_success_message
 TEXT: अब आप अपने पोकेमॉन के साथ, AR का बेहतरीन अनुभव पा सकते हैं!
@@ -59797,6 +59866,9 @@ TEXT: ताकत का पहाड़
 
 RESOURCE ID: more_power_spots_active
 TEXT: अतिरिक्त सिक्रय पावर स्पॉट
+
+RESOURCE ID: mossy_lure_duration_double
+TEXT: अट्रैक्ट मॉड्यूल की 1-घंटे की अवधि
 
 RESOURCE ID: motor_accessibility_settings_title
 TEXT: मोटर एक्सेसिबिलिटी
@@ -64794,16 +64866,16 @@ RESOURCE ID: next_set_coming_on
 TEXT: Next coming on {0}!
 
 RESOURCE ID: niantic_anniversary_event
-TEXT: Niantic बर्थडे इवेंट
+TEXT: Scopely Explore बर्थडे इवेंट
 
 RESOURCE ID: niantic_game_preview_list_title
-TEXT: खेलकर देखने के लिए अन्य Niantic गेम
+TEXT: खेलकर देखने के लिए अन्य Scopely Explore गेम
 
 RESOURCE ID: niantic_profile_privacy_settings_title
 TEXT: प्राइवेसी सेटिंग
 
 RESOURCE ID: niantic_social_overview_desc
-TEXT: पेश है Niantic Social! इस नए सोशल फ़ीचर की मदद से, आप ये काम कर सकते हैं।
+TEXT: पेश है Scopely Explore Social! इस नए सोशल फ़ीचर की मदद से, आप ये काम कर सकते हैं।
 
 RESOURCE ID: nickit_website_link
 TEXT: अधकि जानकारी की लिए <a href="https://pokemongo.com/news/communityday-august-2026-nickit">वेबसाइट</a> पर जाएँ।
@@ -65928,7 +66000,7 @@ RESOURCE ID: party_play_code_invalid
 TEXT: यह टीम नहीं मिली।
 
 RESOURCE ID: party_play_code_of_conduct_body
-TEXT: सुरक्षा संबंधी दिशानिर्देशों के लिए Niantic आचार संहिता को देखें।
+TEXT: सुरक्षा संबंधी दशिानर्दिेशों के लिए Scopely Explore आचार संहतिा को देखें।
 
 RESOURCE ID: party_play_code_of_conduct_button
 TEXT: आचार संहिता
@@ -67380,7 +67452,7 @@ RESOURCE ID: poi_contrib_failed_error
 TEXT: सब्मिशन फ़ेल हो गया। कृपया फिर से कोशिश करें।
 
 RESOURCE ID: poi_contrib_ghostinfo_label
-TEXT: Niantic गेम्स में इस्तेमाल हुए Wayspot
+TEXT: Scopely Explore गेम्स में इस्तेमाल हुए Wayspot
 
 RESOURCE ID: poi_contrib_identical_desc_error
 TEXT: डिस्क्रिप्शन बिलकुल एक जैसे हैं। कृपया अपडेट किया हुआ डिस्क्रिप्शन सबमिट करें।
@@ -67593,7 +67665,7 @@ RESOURCE ID: poi_contrib_tutorial_dupe_title
 TEXT: चेक करें कि कोई डुप्लीकेट तो नहीं है
 
 RESOURCE ID: poi_contrib_tutorial_dupe_body
-TEXT: नीला आइकॉन Pokémon GO में इस्तेमाल हुए वेस्पॉट को दिखाता है। नारंगी आइकॉन दूसरे Niantic गेम्स में इस्तेमाल हुए वेस्पॉट को दिखाता है। पोकेस्टॉप के लिए नया नॉमिनेशन सबमिट करते समय, कृपया किसी भी टाइप के वेस्पॉट का डुप्लीकेट सबमिट करने से बचें।
+TEXT: नीला आइकॉन Pokémon GO में इस्तेमाल हुए वेस्पॉट को दखिाता है। नारंगी आइकॉन दूसरे Scopely Explore गेम्स में इस्तेमाल हुए वेस्पॉट को दखिाता है। पोकेस्टॉप के लिए नया नॉमनिेशन सबमटि करते समय, कृपया कसिी भी टाइप के वेस्पॉट का डुप्लीकेट सबमटि करने से बचें।
 
 RESOURCE ID: poi_contrib_unavailable_disabled
 TEXT: यह सुविधा अभी उपलब्ध नहीं है।
@@ -67975,7 +68047,7 @@ RESOURCE ID: poi_sub_tut_desc_1
 TEXT: पोकेस्टॉप गेम के अंदर कुछ ऐसी लोकेशन्स होती हैं जो ट्रेनर्स को बाहर निकलने, नई जगहें देखने और समुदाय के लोगों से मिलने के लिए प्रेरित करती हैं। पोकेस्टॉप में आम तौर पर नागरिक, शैक्षिक या कलात्मक मूल्य शामिल होता है। चाहे वह कोई आर्ट हो या कोई ऐसा जेम हो जिसकी जानकारी सिर्फ़ स्थानीय लोगों को है।
 
 RESOURCE ID: poi_sub_tut_desc_2
-TEXT: आपने जो लोकेशन चुनी है उसका कोई नाम, विवरण, और फ़ोटो डालें। आपने जिन पोकेस्टॉप को नॉमिनेट किया है उनकी समीक्षा दूसरे Niantic प्लेयर करेंगे, तो कृपया सही और पूरी जानकारी दें!
+TEXT: आपने जो लोकेशन चुनी है उसका कोई नाम, वविरण, और फ़ोटो डालें। आपने जनि पोकेस्टॉप को नॉमनिेट कयिा है उनकी समीक्षा दूसरे Scopely Explore प्लेयर करेंगे, तो कृपया सही और पूरी जानकारी दें!
 
 RESOURCE ID: poi_sub_tut_desc_3
 TEXT: पोकेस्टॉप का शैक्षिक और सांस्कृतिक मूल्य होना चाहिए और उनकी जगह पैदल चलने वालों के लिए सुरक्षित होने के साथ-साथ और जाने लायक भी होनी चाहिए। निजी आवासों, सीज़नल या गैर-स्थायी लोकेशन या आपातकालीन सेवा देने वाले वाहनों के आने में रुकावट बनने वाली जगहों पर लोकेशन को नॉमिनेट करने से बचें।
@@ -80762,7 +80834,7 @@ RESOURCE ID: privacy_policy_short_button
 TEXT: गोपनीयता
 
 RESOURCE ID: privacy_policy_update_notice
-TEXT: नए प्रोडक्ट फ़ीचर और हमारे द्वारा व्यक्तिगत डेटा प्रोसेस करने के तरीके के बारे में अतिरिक्त जानकारी के लिए कृपया अपडेट की गई Niantic प्राइवेसी पॉलिसी देखें.
+TEXT: नए प्रोडक्ट फ़ीचर और हमारे द्वारा व्यक्तगित डेटा प्रोसेस करने के तरीके के बारे में अतरिक्ति जानकारी के लिए कृपया अपडेट की गई Scopely Explore प्राइवेसी पॉलसिी देखें.
 
 RESOURCE ID: private_group_title
 TEXT: Private Group
@@ -81209,6 +81281,9 @@ TEXT: Evolve {0} Alolan Geodude
 
 RESOURCE ID: quest_alodude_evolve_b
 TEXT: Evolve {0} Alolan Graveler
+
+RESOURCE ID: quest_applin_catch_singular
+TEXT: ऐप्लनि पकड़ें
 
 RESOURCE ID: quest_appraise_pokemon_plural
 TEXT: {0} पोकेमॉन का आकलन करें
@@ -107732,7 +107807,7 @@ RESOURCE ID: rally_apac_30_cross_regional_location
 TEXT: एशयिा-प्रशांत
 
 RESOURCE ID: rally_apac_30_cross_regional_rewards_desc
-TEXT: एशयिा-प्रशांत में एक्सप्लोर करते हुए, वशिेष सटिी लोकेशन बैकग्राउंड वाले PokéXciting! पकिाचू के अनेक रंगों से मुलाकात करें।
+TEXT: जैसे-जैसे आप स्टैम्प इकट्ठा करेंगे, आपको लोकेशन बैकग्राउंड के साथ अलग-अलग रंग के PokéXciting! पकिाचू मलिेंगे।
 
 RESOURCE ID: rally_apac_30_regional_malaysia_desc
 TEXT: मलेशयिा में PokéXciting! का अवसर मनाएँ!
@@ -110109,9 +110184,9 @@ RESOURCE ID: route_creation_onboarding_page_3
 TEXT: Routes must include five or more PokéStops or Gyms. An average Route should be 400–800 meters from start to finish and take 10–15 minutes to explore.
 
 RESOURCE ID: route_creation_onboarding_page_4
-TEXT: Once your Route is submitted, it will be reviewed. If your Route is rejected, you can make changes and resubmit it. You can also reset your Route at any time and start over.
+TEXT: बनाए गए रूट रव्यिू और स्वीकृति के लिए Scopely Explore को सबमटि किए गए हैं। अगर आपके रूट को खारजि कर दयिा जाता है तो आप को रूट फरि से एडटि कर सबमचि करने का मौका मलि सकता है। 
 
-Let’s create your first Route!
+अब वक्त है अपना रूट बनाने का!
 
 RESOURCE ID: route_creation_pause_button
 TEXT: Pause Route
@@ -110349,9 +110424,9 @@ RESOURCE ID: route_enforcement_long_ban_title
 TEXT: You’ve been banned from using Pokémon GO.
 
 RESOURCE ID: route_enforcement_long_ban_description
-TEXT: Your Niantic account has been banned from Pokémon GO for {0} years due to repeated or severe violations of our Player Guidelines for Routes.
+TEXT: खलिाड़यिों के लिए रूट संबंधी गाइडलाइन का बार-बार या गंभीर उल्लंघन करने की वजह से आपके Scopely Explore अकाउंट को Pokémon GO के लिए {0} वर्षों के लिए प्रतबिंधति कर दयिा गया है।
 
-Further violations may result in a permanent ban.
+इससे अधकि उल्लंघन होने पर हमेशा के लिए प्रतबिंधति कर दयिा जाएगा।
 
 RESOURCE ID: route_enforcement_long_ban_description_b
 TEXT: Your Pokémon GO account has been banned for {0} years due to repeated or severe violations against our Player Guidelines.
@@ -110370,7 +110445,7 @@ RESOURCE ID: route_enforcement_permanent_ban_title
 TEXT: You’ve been permanently banned from using Pokémon GO.
 
 RESOURCE ID: route_enforcement_permanent_ban_description
-TEXT: Your Niantic account has been banned from Pokémon GO due to repeated or severe violations of our Player Guidelines for Routes.
+TEXT: खलिाड़यिों के लिए रूट संबंधी गाइडलाइन का बार-बार या गंभीर उल्लंघन करने की वजह से आपके Scopely Explore अकाउंट को Pokémon GO के लिए प्रतबिंधति कर दयिा गया है।
 
 RESOURCE ID: route_enforcement_permanent_ban_description_b
 TEXT: Your Pokémon GO account has been banned due to repeated or severe violations against our Player Guidelines.
@@ -110576,7 +110651,7 @@ RESOURCE ID: route_nearby_help_duration
 TEXT: Estimate time from start point to end point.
 
 RESOURCE ID: route_nearby_help_official_route
-TEXT: The route created by NIANTIC partners has this label.
+TEXT: Scopely Explore पार्टनर्स द्वारा बनाए गए रूट पर यह लेबल है।
 
 RESOURCE ID: route_nearby_help_played_time
 TEXT: Number of played time of this route.
@@ -110734,7 +110809,7 @@ RESOURCE ID: route_play_low_rating_title
 TEXT: Did you experience any issues on this Route?
 
 RESOURCE ID: route_play_low_rating_description
-TEXT: If you experienced an issue, you can report the Route for Niantic to review.
+TEXT: If you experienced an issue, you can report the Route for Scopely Explore to review.
 
 RESOURCE ID: route_play_no_routes_campfire_message
 TEXT: There are no Routes nearby. Browse Campfire to find Routes that are further away.
@@ -111011,7 +111086,7 @@ TEXT: What kind of issue happened?
 Could you describe it?
 
 RESOURCE ID: route_report_body
-TEXT: जब आप Niantic से किसी रूट की रिपोर्ट करते हैं, तो हम उस रूट की समीक्षा कर अपनी नीतियों के अनुसार उचित कार्रवाई करते हैं। रूट के क्रिएटर के साथ आपकी पहचान कभी भी शेयर नहीं की जाएगी। आपके रिपोर्ट सबमिट करने पर इसे आपकी ओर से यह कन्फ़र्मेशन माना जाएगा कि वह रिपोर्ट सही है।
+TEXT: जब आप Scopely Explore से कसिी रूट की रपिोर्ट करते हैं, तो हम उस रूट की समीक्षा कर अपनी नीतयिों के अनुसार उचति कार्रवाई करते हैं। रूट के क्रिएटर के साथ आपकी पहचान कभी भी शेयर नहीं की जाएगी। आपके रपिोर्ट सबमटि करने पर इसे आपकी ओर से यह कन्फ़र्मेशन माना जाएगा कि वह रपिोर्ट सही है।
 
 RESOURCE ID: route_report_permanent
 TEXT: Permanent issue
@@ -111355,10 +111430,10 @@ RESOURCE ID: route_submission_result_reject_description
 TEXT: Your Route was rejected because the title and/or description included inappropriate phrases or links. You will not be able to edit and resubmit this Route.
 
 RESOURCE ID: route_submission_result_reject_message_bullying
-TEXT: Niantic does not allow bullying, harassment, humiliation, or threats against anyone.
+TEXT: Scopely Explore कसिी के खलिाफ़ उत्पीड़न, डराने, अपमान या धमकी की अनुमति नहीं देता है।
 
 RESOURCE ID: route_submission_result_reject_message_hate
-TEXT: Niantic does not allow hateful behavior, hate speech, or the promotion of hateful ideologies. This includes promoting hatred on the basis of race, ethnicity, religion, gender, or any other identity factor.
+TEXT: Scopely Explore द्वेषपूर्ण व्यवहार, घृणास्पद भाषण या घृणास्पद वचिारधाराओं को बढ़ावा देने की अनुमति नहीं देता है। इसमें नस्ल, जातीयता, धर्म, लिंग या कसिी अन्य पहचान के आधार पर नफ़रत को बढ़ावा देना शामलि है, लेकनि यह यहीं तक सीमति नहीं है।
 
 RESOURCE ID: route_submission_result_reject_message_suicide
 TEXT: If you or someone you know has thoughts of suicide or self harm, help is available. See <a href="route_mental_health_resources_link">Mental Health Resources</a> for more information.
@@ -113734,8 +113809,98 @@ TEXT: यादों की यात्रा
 RESOURCE ID: season23_forever_forward
 TEXT: सदा आगे
 
+RESOURCE ID: season24_harvest_applin_branch_appletun_title
+TEXT: ऐप्पलटन
+
+RESOURCE ID: season24_harvest_applin_branch_appletun_description
+TEXT: स्वीट ऐप्पल वाला पथ चुनें।
+
+RESOURCE ID: season24_harvest_applin_branch_dipplin_title
+TEXT: डप्लिनि
+
+RESOURCE ID: season24_harvest_applin_branch_dipplin_description
+TEXT: रसीले ऐप्पल वाला पथ चुनें।
+
+RESOURCE ID: season24_harvest_applin_branch_flapple_title
+TEXT: फ़्लैपल
+
+RESOURCE ID: season24_harvest_applin_branch_flapple_description
+TEXT: टार्ट ऐप्पल वाला पथ चुनें।
+
+RESOURCE ID: season24_harvest_applin_tr_title
+TEXT: फसल उत्सव - ऐप्लनि चुनना सीमति समय वाली रसिर्च
+
+RESOURCE ID: season24_harvest_applin_tr_branch_prompt
+TEXT: एवोलूशन का पथ चुनें।
+
 RESOURCE ID: season24_twilight_trails
 TEXT: संध्या की सैरें
+
+RESOURCE ID: season24_twilight_trails_tr_0_0
+TEXT: %PLAYERNAME%! आप बड़े सही समय पर आयें हैं। मैं ऐप्लनि के बारे में लखिे गए कुछ नोट की पढ़ाई कर रहा था। यह सच में, कतिना अनूठा पोकेमॉन है।
+
+RESOURCE ID: season24_twilight_trails_tr_0_1
+TEXT: दखिने में तो यह आपको एक साधारण सा ऐप्पल लगेगा, पर ऐप्लनि तो एक ऐसा पोकेमॉन है जो उस ऐप्पल के अंदर रहता है!
+
+RESOURCE ID: season24_twilight_trails_tr_0_2
+TEXT: वही ऐप्पल उसकी सुरक्षा करता है, उसका आहार बनता है, और यहाँ तक कि यह भी तय करता है कि बड़ा होकर ऐप्लनि कैसा रूप लेगा।
+
+RESOURCE ID: season24_twilight_trails_tr_0_3
+TEXT: और यह बात तो बड़ी ही रोचक है! ऐप्पल का स्वाद अलग होने से, ऐप्लनि की एवोलूशन भी अलग हो जाती है।
+
+RESOURCE ID: season24_twilight_trails_tr_0_4
+TEXT: तो क्यूँ ना हम कसिी एक को चुनकर, साथ में उसकी पढ़ाई करें? यह रसिर्च हमें पक्का फल देगी!
+
+RESOURCE ID: season24_twilight_trails_tr_2_0
+TEXT: बहुत बढ़यिा काम कयिा आपने! कहते हैं ना, महनत का फल मीठा होता है!
+
+RESOURCE ID: season24_twilight_trails_tr_2_1
+TEXT: आप ही के परश्रिम के कारण, हम ऐप्लनि के एवोलूशन कि क्षमताओं के फल की गुठली तक पहुँच पाएंगे।
+
+RESOURCE ID: season24_twilight_trails_tr_2_2
+TEXT: टार्ट, स्वीट या रसीला, हर एवोलूशन हमें यह दखिाती है कि पोकेमॉन अपनी स्थतियिों के अनुसार कैसे ढलते और बड़े होते हैं, और कैसे हमारी सोचे से भी आगे नकिल जाते हैं।
+
+RESOURCE ID: season24_twilight_trails_tr_2_3
+TEXT: पर कोई भी अच्छी रसिर्च बस एक ही नर्णिय तक ही सीमति नहीं रहती। कई बार, एक रसिर्च पूरा होने पर हमें एक नए प्रश्न कि ओर आगे बढ़ा देती है।
+
+RESOURCE ID: season24_twilight_trails_tr_2_4
+TEXT: ट्रेनर, आप अपनी जज्ञिासा की आवज़ को पूरे उत्साह से सुनिए। ऐप्लनि में अब भी नईं-नईं खोजों से जुड़े कई और बीज छपिे हुए हो सकते हैं।
+
+RESOURCE ID: season24_twilight_trails_tr_appletun_1_0
+TEXT: ऐप्पलटन? आपकी चॉइस बहुत ही ज़बरदस्त है, %PLAYERNAME%!
+
+RESOURCE ID: season24_twilight_trails_tr_appletun_1_1
+TEXT: मैंने सुन है कि ऐप्पलटन से आने वाली मीठी सुगंध से आस पास के पोकेमॉन आकर्षति हो जाते हैं।
+
+RESOURCE ID: season24_twilight_trails_tr_appletun_1_2
+TEXT: यह दखिाता है, कि पोकेमॉन का आकर्षण कतिने अलग रूपों में आता है, जैसे कि मीठी सुगंध के रूप में भी।
+
+RESOURCE ID: season24_twilight_trails_tr_appletun_1_3
+TEXT: तो चलिए कुछ स्वीट ऐप्पल एकट्ठाकर, इस पथ पर ज्ञान बटोरने का स्वाद उठाएँ।
+
+RESOURCE ID: season24_twilight_trails_tr_dipplin_1_0
+TEXT: डप्लिनि! यह बड़ी रोचक बात है। इस एवोलूशन में, दखिाई दिए जाने से कई अधकि बातें छपिी हो सकतीं हैं।
+
+RESOURCE ID: season24_twilight_trails_tr_dipplin_1_1
+TEXT: बात यह है, कि कहा जाता है कि डप्लिनि ऐसा पोकेमॉन है जसिमें एक ही रसीले ऐप्पल के अंदर दो जीव मलिकर रहते हैं।
+
+RESOURCE ID: season24_twilight_trails_tr_dipplin_1_2
+TEXT: यह ताल मेल तो कसिी भी रसिर्च करने वाले को व्यस्त रख पाएगी, पर मेरा यह मानना है, कि डप्लिनि में अभी और भी छपिी हुई क्षमता है जसिकी हम खोज कर सकते हैं।
+
+RESOURCE ID: season24_twilight_trails_tr_dipplin_1_3
+TEXT: तो पहले चलिए हम कुछ रसीले ऐप्पल जमा कर यह देखते हैं कि इस असाधारण एवोलूशन से हम क्या क्या सखि सकते हैं!
+
+RESOURCE ID: season24_twilight_trails_tr_flapple_1_0
+TEXT: फ़्लैपल? बढ़यिा चॉइस! इस एवोलूशन में, ऐप्पल का योगदान बहुत ही रोचक होता है!
+
+RESOURCE ID: season24_twilight_trails_tr_flapple_1_1
+TEXT: फ़्लैपल, ऐप्पल के टुकड़ों से पर बना कर, तेज़ी से हवा में उड़ पाने के लिए जाना जाता है। जुगाड़ करना तो कोई इससे सीखे!
+
+RESOURCE ID: season24_twilight_trails_tr_flapple_1_2
+TEXT: यह इस बात का बहुत अच्छा उदाहरण है, कि वकिसति होने से ऐप्लनि कैसे नयीं ऊँचाईयाँ छू पाता है।
+
+RESOURCE ID: season24_twilight_trails_tr_flapple_1_3
+TEXT: तो चलिए हम कुछ टार्ट ऐप्पल ढूंढकर इस रसिर्च को पंख दें!
 
 RESOURCE ID: season_gbl_forecast_title_7
 TEXT: Season of GO
@@ -115018,7 +115183,7 @@ RESOURCE ID: settings_buddy_ar
 TEXT: AR पार्टनर
 
 RESOURCE ID: settings_buddy_ar_tip
-TEXT: पार्टनर प्ले के लिए Niantic AR 
+TEXT: पार्टनर प्ले के लिए Scopely Explore AR
 
 RESOURCE ID: settings_buddy_gained_candy
 TEXT: Buddy Candies
@@ -115057,7 +115222,7 @@ RESOURCE ID: settings_encounter_ar
 TEXT: AR मुलाकात
 
 RESOURCE ID: settings_encounter_ar_tip
-TEXT: पोकेमॉन मुलाकात के लिए Niantic AR 
+TEXT: पोकेमॉन मुलाकात के लिए Scopely Explore AR
 
 RESOURCE ID: settings_enhanced_graphics_description
 TEXT: एनहांस्ड इफ़ैक्ट, शैडॉ और टैक्श्चर, बैटरी लाइफ़ को प्रभावित कर सकते हैं।
@@ -115147,13 +115312,13 @@ RESOURCE ID: settings_nearby_raids
 TEXT: Nearby Raids
 
 RESOURCE ID: settings_niantic_ar
-TEXT: Niantic AR (AR+)
+TEXT: Scopely Explore AR (AR+)
 
 RESOURCE ID: settings_niantic_ar_tip
 TEXT: You can catch Pokémon, take GO Snapshots, and play with your buddy in AR.
 
 RESOURCE ID: settings_niantic_ar_update
-TEXT: Niantic AR (AR+) अपडेट करें
+TEXT: Scopely Explore AR (AR+) अपडेट करें
 
 RESOURCE ID: settings_niantic_ar_update_done
 TEXT: AR is up-to-date.
@@ -117230,10 +117395,10 @@ RESOURCE ID: social_online_toast
 TEXT: अपना ऑनलाइन स्टेटस शेयर करना
 
 RESOURCE ID: social_online_consent_privacy
-TEXT: नोट: ऑनलाइन-स्टेटस शेयरिंग को चालू करने से यह आपके द्वारा खेले जाने वाले सभी Niantic गेम्स के लिए चालू हो जाएगा।
+TEXT: नोट: ऑनलाइन-स्टेटस शेयरिंग को चालू करने से यह आपके द्वारा खेले जाने वाले सभी Scopely Explore गेम्स के लिए चालू हो जाएगा।
 
 RESOURCE ID: social_online_consent_note_body
-TEXT: आपके जो दोस्त Niantic Online में शामिल हैं, उन्हें आपका ऑनलाइन स्टेटस दिखाई देगा।
+TEXT: आपके जो दोस्त Scopely Explore Online में शामलि हैं, उन्हें आपका ऑनलाइन स्टेटस दखिाई देगा।
 आप उसी बटन पर टैप करके जब चाहें अपना स्टेटस शेयर करना बंद कर सकते हैं।
 
 RESOURCE ID: social_online_consent_note_header
@@ -118225,7 +118390,7 @@ RESOURCE ID: sponsored_gift_tutorial_description_1
 TEXT: जब आप अपने आस-पास की दुनिया एक्सप्लोर करते हैं, तो आपको अपनी जगह के हिसाब से स्पॉन्सर मैसेज के साथ-साथ स्पॉन्सर गिफ़्ट भी मिल सकता है। स्पॉन्सर गिफ़्ट अब एक नए अंदाज़ में!
 
 RESOURCE ID: sponsored_gift_tutorial_description_2
-TEXT: हमेशा की तरह, हम आपकी निजी जानकारी को प्रायोजकों के साथ शेयर नहीं करते हैं। इस सुविधा के बारे में ज़्यादा जानने के लिए, Nianticसपोर्ट देखें।
+TEXT: हमेशा की तरह, हम आपकी नजिी जानकारी को प्रायोजकों के साथ शेयर नहीं करते हैं। इस सुवधिा के बारे में ज़्यादा जानने के लिए, Scopely Exploreसपोर्ट देखें।
 
 RESOURCE ID: sponsored_gift_tutorial_description_3
 TEXT: आप अपनी सेटिंग से स्पॉन्सर गिफ़्ट मैनेज कर सकते हैं। इससे उन गिफ़्ट पर असर नहीं पड़ता जिन्हें आपने अपने दोस्तों के साथ एक्सचेंज किया है, भले ही आपने स्पॉन्सर जगहों से गिफ़्ट मिले हों।
@@ -122675,10 +122840,10 @@ RESOURCE ID: switch_sleep_warning
 TEXT: Nintendo Switch से कनेक्ट करते समय, अपने स्मार्टफ़ोन को बंद न करें या इसे स्लीप मोड में न जाने दें
 
 RESOURCE ID: switch_to_soft_sfida_description_default
-TEXT: If you're unable to use your device but want to remain paired, you can use Explorer Gadget Instead.
+TEXT: If you’re unable to use your device but want to remain paired, you can use your Explorer Gadget instead.
 
 RESOURCE ID: switch_to_soft_sfida_title_default
-TEXT: Pause your device and switch to Explorer Gadget?
+TEXT: Pause your device and switch to your Explorer Gadget?
 
 RESOURCE ID: swsh_masterball_sr_title
 TEXT: मास्टरवर्क रिसर्च - मास्टर बॉल
@@ -123262,6 +123427,11 @@ TEXT: <b>शामिल रिवॉर्ड -</b>
 • पावर स्पॉट और एक्सप्लोर करने से अतिरिक्त 4,000 मैक्स पार्टिकल एकित्रत करें
 • मैक्स बैटल को सफलतापूर्वक पूरा करने पर 2× XP पाएं
 • एक मैक्स मशरूम और 25,000 XP प्रदान करने वाली सीमित समय वाली रिसर्च
+
+RESOURCE ID: text_rewards_key_gmaxcinderace26
+TEXT: <b>शामलि रविॉर्ड -</b>
+• मैक्स बैटल से 2× XP
+• सीमति समय वाली रसिर्च जो 6,400 मैक्स पार्टकिल, 25,000 XP, और एक मैक्स मशरूम देगी
 
 RESOURCE ID: text_rewards_key_gmaxgarbodor25
 TEXT: <b>शामिल रिवॉर्ड -</b>
@@ -125286,7 +125456,9 @@ RESOURCE ID: tips_friends_tutorial_add_title
 TEXT: दोस्त जोड़ें
 
 RESOURCE ID: tips_friends_tutorial_add_body
-TEXT: लोगों का ट्रेनर कोड लेकर या उनका QR कोड स्कैन करके उन्हें दोस्त के रूप में जोड़ें। आप 'दोस्त जोड़ें' स्क्रीन पर अपने अकाउंट को Facebook से कनेक्ट करके भी दोस्त जोड़ सकते हैं।
+TEXT: लोगों का ट्रेनर कोड लेकर या उनका QR कोड स्कैन करके उन्हें दोस्त के रूप में जोड़ें। Pokémon GO में दोस्त के रूप में जोड़ेंने से आप दोनो उन सारे Scopely Explore गेम में दोस्त बन जएंगे जो आप खेलते है।
+
+ आप 'दोस्त जोड़ें' स्क्रीन पर अपने अकाउंट को Facebook से कनेक्ट करके भी दोस्त जोड़ सकते हैं।
 
 RESOURCE ID: tips_friends_tutorial_battle_title
 TEXT: दोस्तों के साथ बैटल करें
@@ -128721,6 +128893,9 @@ TEXT: पार्टनर रिसर्च - FamilyMart (7/8)
 RESOURCE ID: tr_partner_familymart_april2026_header_7
 TEXT: पार्टनर रिसर्च - FamilyMart (8/8)
 
+RESOURCE ID: tr_partner_familymart_sep2026_badge0233
+TEXT: लमिटिेड पार्टनर रसिर्च – संध्या की सैरें - FamilyMart
+
 RESOURCE ID: tr_partner_softbank_june2026
 TEXT: पार्टनर रसिर्च - SoftBank
 
@@ -130705,7 +130880,7 @@ RESOURCE ID: unfriend_niantic_friend_title
 TEXT: क्या आपको वाकई {0} से दोस्ती खत्म करनी है?
 
 RESOURCE ID: unfriend_niantic_friend_tip
-TEXT: इस गेम से इस दोस्त को हटाने पर, यह उन सभी Niantic में से दोस्तों की लिस्ट से हट जाएगा जिन्हें आप दोनों खेलते हैं
+TEXT: इस गेम से इस दोस्त को हटाने पर, यह उन सभी Scopely Explore में से दोस्तों की लस्टि से हट जाएगा जन्हिें आप दोनों खेलते हैं
 
 RESOURCE ID: unified_punishment_acknowledgement_button
 TEXT: ठीक है
@@ -130766,9 +130941,9 @@ TEXT: <size=36><b>इस अकाउंट को अनलिंक नही�
 यह अकाउंट आपके ऐक्टिव गेम सेशन से लिंक किया गया है।
 
 RESOURCE ID: unlink_account_failed_login_not_removable
-TEXT: <size=36><b>यह अकाउंट अनलिंक नहीं किया जा सकता है!</b></size>
+TEXT: <size=36><b>यह अकाउंट अनलिंक नहीं कयिा जा सकता है!</b></size>
 
-आपने शायद इस Niantic प्रोडक्ट को किसी दूसरे लॉग इन से लिंक किया है। इसे अनलिंक करने के लिए, कृपया एक अतिरिक्त लॉग इन का तरीका लिंक करें।
+आपने शायद इस Scopely Explore प्रोडक्ट को कसिी दूसरे लॉग इन से लिंक कयिा है। इसे अनलिंक करने के लिए, कृपया एक अतरिक्ति लॉग इन का तरीका लिंक करें।
 
 RESOURCE ID: unlock_max_move_plural
 TEXT: {0} मैक्स मूव अनलॉक करें
@@ -131302,9 +131477,9 @@ RESOURCE ID: verbose_logs_info_title
 TEXT: पोकेमॉन को बेहतर बनाने में मदद करें!
 
 RESOURCE ID: verbose_logs_info_body
-TEXT: गेम लॉग में उपयोगी जानकारी होती है, जिससे Niantic को Pokémon GO के कुछ खास पहलुओं को बेहतर बनाने में मदद मिलती है। अगर आप अपने गेम लॉग को सेव करने की अनुमति देते हैं, तो आप उन्हें अपलोड करके Niantic के साथ शेयर कर सकते हैं।
+TEXT: गेम लॉग में उपयोगी जानकारी होती है, जसिसे Scopely Explore को Pokémon GO के कुछ खास पहलुओं को बेहतर बनाने में मदद मलिती है। अगर आप अपने गेम लॉग को सेव करने की अनुमति देते हैं, तो आप उन्हें अपलोड करके Scopely Explore के साथ शेयर कर सकते हैं।
 
-हर एक्टिविटी का लॉग 24 घंटों के लिए या उस एक्टिविटी में आपके फिर से हिस्सा लेने तक स्टोर करके रखा जाता है। आप सेटिंग मेनू में जाकर किसी भी समय लॉग अपलोड कर सकते हैं।
+हर गतविधिि का लॉग 24 घंटों के लिए या उस गतविधिि में आपके फरि से हस्सिा लेने तक स्टोर करके रखा जाता है। आप सेटिंग मेनू में जाकर कसिी भी समय लॉग अपलोड कर सकते हैं।
 
 RESOURCE ID: verbose_logs_info_learn_more
 TEXT: और जानें
@@ -131436,7 +131611,7 @@ RESOURCE ID: vps_download_prompt_continue
 TEXT: Let’s start!
 
 RESOURCE ID: vps_download_prompt_legal_tos_description
-TEXT: Enable AR to use this feature. Niantic will process geospatial data from your camera during the AR Photo Safari. {0}
+TEXT: इस फ़ीचर का इस्तेमाल करने के लिए AR को चालू करें। AR फ़ोटो सफ़ारी के दौरान Scopely Explore आपके कैमरे के जयिोस्पेशयिल डेटा को प्रोसेस करेगा। {0}
 
 RESOURCE ID: vps_guardian_oob_toast
 TEXT: आप पोकेमॉन प्लेग्राउंड एरिया के बाहर हैं। पोकेमॉन रखने के लिए सीमा के अंदर जाएँ।
@@ -131886,10 +132061,10 @@ RESOURCE ID: wayfarer_bonus_title_02
 TEXT: Wayfarer बोनस सीमति समय वाली रसिर्च (2/2)
 
 RESOURCE ID: wayfarer_eligible_title
-TEXT: आप Niantic Wayfarer के लिए योग्य हैं!
+TEXT: आप Scopely Explore Wayfarer के लिए योग्य हैं!
 
 RESOURCE ID: wayfarer_eligible_body
-TEXT: बधाई हो! आप Niantic Wayfarer के योग्य हो गए हैं, यह एक ऐसा प्रोग्राम है जिसके ज़रिए आप अपने आस-पास की दुनिया की अद्भुत और दिलचस्प जगहों के बारे में जानकारी देकर नायांटिक खेलों को और बेहतर बना सकेंगे। पोकेस्टॉप के नॉमिनेशन और एडिट करने के फ़ीचर्स को अनलॉक करने के लिए वेफ़ेयरर ट्यूटोरियल को पूरा करें।
+TEXT: बधाई हो! आप Scopely Explore Wayfarer के योग्य हो गए हैं, यह एक ऐसा प्रोग्राम है जसिके ज़रिए आप अपने आस-पास की दुनयिा की अद्भुत और दलिचस्प जगहों के बारे में जानकारी देकर नायांटकि खेलों को और बेहतर बना सकेंगे। पोकेस्टॉप के नॉमनिेशन और एडटि करने के फ़ीचर्स को अनलॉक करने के लिए वेफ़ेयरर ट्यूटोरयिल को पूरा करें।
 
 RESOURCE ID: wayfarer_eligible_goto
 TEXT: वेफ़ेयरर पर जाएं

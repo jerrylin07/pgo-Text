@@ -266,7 +266,7 @@ RESOURCE ID: abi_new_player_onboarding_list_header
 TEXT: Kirim Permintaan Teman ke Pelatih di daftar kontakmu! Dengan teman, kamu bisa...
 
 RESOURCE ID: abi_new_player_onboarding_opt_in_info
-TEXT: Dapat dinonaktifkan kapan saja di menu Pengaturan Akun Niantic Social.
+TEXT: Dapat dinonaktifkan kapan saja di menu Pengaturan Akun Scopely Explore Social.
 
 RESOURCE ID: abi_new_player_onboarding_opt_in_check_box
 TEXT: Izinkan Pelatih lain mengirimkan Permintaan Berteman jika terdaftar di kontak mereka.
@@ -281,7 +281,7 @@ RESOURCE ID: about_screen_btn
 TEXT: Tentang
 
 RESOURCE ID: about_screen_copyright1
-TEXT: ©2016-2017 Niantic, Inc.
+TEXT: ©2016-2017 Scopely Explore, Inc.
 
 RESOURCE ID: about_screen_copyright2
 TEXT: ©2016-2017 Pokémon.
@@ -419,13 +419,13 @@ RESOURCE ID: add_friend_confirmation_title
 TEXT: Kirim Permintaan Berteman ke {0}?
 
 RESOURCE ID: add_friends_niantic_title
-TEXT: Teman di Niantic Games
+TEXT: Teman di Scopely Explore Games
 
 RESOURCE ID: add_friends_privacy_prompt
 TEXT: Teman dapat melihat Profil pelatih, pencapaian, dan Pokémon yang kamu tangkap. Teman juga dapat mengetahui lokasimu saat kamu mengirimkan mereka Hadiah atau menukar Pokémon.
 
 RESOURCE ID: add_niantic_friend_tip
-TEXT: Jika menambahkan teman ini di game ini, kamu akan menambahkannya sebagai teman ke semua game Niantic yang kalian berdua mainkan.
+TEXT: Jika menambahkan teman ini di game ini, kamu akan menambahkannya sebagai teman ke semua game Scopely Explore yang kalian berdua mainkan.
 
 RESOURCE ID: add_referrer_disabled
 TEXT: Koneksi gagal.
@@ -1246,6 +1246,9 @@ TEXT: Apple Watch diaktifkan!
 RESOURCE ID: applewatch_enable_modal_success_message
 TEXT: Berhasil! Buka aplikasi Apple Watch untuk memulai sesi.
 
+RESOURCE ID: applin_apple_drop_bonus
+TEXT: Applin liar memiliki peningkatan peluang untuk membawa Apel Kecut, Apel Manis, atau Apel Nektar
+
 RESOURCE ID: appraisal_filter_group_key
 TEXT: Penilaian
 
@@ -2065,10 +2068,10 @@ RESOURCE ID: ardk_download_button
 TEXT: UNDUH
 
 RESOURCE ID: ardk_download_confirm_title
-TEXT: Niantic AR Platform (Percobaan)
+TEXT: Scopely Explore AR Platform (Percobaan)
 
 RESOURCE ID: ardk_download_confirm_body
-TEXT: Untuk menikmati fitur partner AR dengan maksimal, silakan unduh Niantic AR Platform. (percobaan ini dapat dinonaktifkan kapan pun.)
+TEXT: Untuk menikmati fitur partner AR dengan maksimal, silakan unduh Scopely Explore AR Platform. (percobaan ini dapat dinonaktifkan kapan pun.)
 
 RESOURCE ID: ardk_download_confirm_size
 TEXT: Ukuran Unduhan: {0} MB
@@ -2077,7 +2080,7 @@ RESOURCE ID: ardk_download_progress_format
 TEXT: {0}/{1} MB
 
 RESOURCE ID: ardk_download_prompt_downloading
-TEXT: Mengunduh Niantic AR Platform...
+TEXT: Mengunduh Scopely Explore AR Platform ....
 
 RESOURCE ID: ardk_download_prompt_dowload_progress
 TEXT: {0}/{1} MB
@@ -2090,7 +2093,7 @@ TEXT: Sukses!
 Selamat datang di pengalaman AR bersama!
 
 RESOURCE ID: ardk_download_prompt_multiplayer_legal_tos_description
-TEXT: Niantic akan memproses data geospasial dari kamera selama sesi AR. {0}.
+TEXT: Scopely Explore akan memproses data geospasial dari kamera selama sesi AR. {0}.
 
 RESOURCE ID: ardk_download_prompt_multiplayer_legal_tos_link_text
 TEXT: Pelajari lebih rinci
@@ -2102,7 +2105,7 @@ RESOURCE ID: ardk_download_prompt_retry_header
 TEXT: Terjadi kesalahan!
 
 RESOURCE ID: ardk_download_prompt_success_body
-TEXT: Pengunduhan Niantic AR Platform Selesai
+TEXT: Pengunduhan Scopely Explore AR Platform Selesai
 
 RESOURCE ID: ardk_download_prompt_success_header
 TEXT: Sukses!
@@ -2112,10 +2115,10 @@ RESOURCE ID: ardk_download_prompt_title_dbow
 TEXT: Untuk menikmati pengalaman AR yang dibagikan, konten tambahan harus diunduh
 
 RESOURCE ID: ardk_download_prompt_title_monodepth
-TEXT: Untuk menikmati pengalaman AR yang lebih mendalam, paket Niantic AR perlu diunduh.
+TEXT: Untuk menikmati pengalaman AR yang lebih mendalam, paket Scopely Explore AR perlu diunduh.
 
 RESOURCE ID: ardk_update_confirm_title
-TEXT: Pembaruan Niantic AR Platform
+TEXT: Pembaruan Scopely Explore AR Platform
 
 RESOURCE ID: ardk_update_confirm_body
 TEXT: Unduh konten untuk pengalaman AR terbaik.
@@ -18055,7 +18058,7 @@ RESOURCE ID: bidoof_day_event
 TEXT: Bidoof Day
 
 RESOURCE ID: blacklisted_app_found_lockout
-TEXT: Telah terdeteksi perangkat lunak yang dapat mengganggu pengoperasian Pokémon GO di perangkatmu, termasuk aplikasi yang memalsukan lokasi. Penggunaan perangkat lunak ilegal yang berdampak langsung pada Pokémon GO merupakan pelanggaran terhadap Ketentuan Layanan Niantic dan dapat menyebabkan penangguhan akun. Harap hapus aplikasi tersebut dan sejenisnya untuk melanjutkan permainan.
+TEXT: Telah terdeteksi perangkat lunak yang dapat mengganggu pengoperasian Pokémon GO di perangkatmu, termasuk aplikasi yang memalsukan lokasi. Penggunaan perangkat lunak ilegal yang berdampak langsung pada Pokémon GO merupakan pelanggaran terhadap Ketentuan Layanan Scopely Explore dan dapat menyebabkan penangguhan akun. Harap hapus aplikasi tersebut dan sejenisnya untuk melanjutkan permainan.
 
 RESOURCE ID: blanche_inspire#1
 TEXT: Jangan menyerah.
@@ -20912,13 +20915,13 @@ RESOURCE ID: bread_lobby_attack_multiplier_dialog_title
 TEXT: Bonus Serangan
 
 RESOURCE ID: bread_lobby_countdown_to_battle_start
-TEXT: Countdown to the Max Battle start
+TEXT: Pertarungan Max dimulai dalam
 
 RESOURCE ID: bread_lobby_error_battle_completed
 TEXT: Telah bertarung di Power Spot ini.
 
 RESOURCE ID: bread_lobby_error_failed_to_create_battle
-TEXT: Could not join the Max Battle. Please try again later.
+TEXT: Tidak dapat bergabung ke Pertarungan Max. Silakan coba lagi nanti.
 
 RESOURCE ID: bread_lobby_error_friend_details_unavailable
 TEXT: Terjadi masalah saat mengirim undangan ini. Silakan coba lagi.
@@ -21101,19 +21104,19 @@ RESOURCE ID: bread_post_battle_encounter_run_away_description
 TEXT: Jika kamu melarikan diri, kamu tidak dapat menangkap Pokémon ini.
 
 RESOURCE ID: bread_private_lobby_error_unavailable
-TEXT: Private groups are currently unavailable. Please try again later.
+TEXT: Grup privat saat ini tidak tersedia. Silakan coba lagi nanti.
 
 RESOURCE ID: bread_private_lobby_error_flip_unavailable
-TEXT: The group could not be changed to public.
+TEXT: Grup ini tidak dapat diubah menjadi publik.
 
 RESOURCE ID: bread_private_lobby_error_limit_reached
-TEXT: The maximum number of private groups for this Max Battle has been reached.
+TEXT: Jumlah maksimum grup privat untuk Pertarungan Max ini telah tercapai.
 
 RESOURCE ID: bread_private_lobby_error_not_creator
-TEXT: Only the Trainer who created this group can change it to public.
+TEXT: Hanya Pelatih yang membuat grup ini yang dapat mengubahnya menjadi publik.
 
 RESOURCE ID: bread_private_lobby_error_not_found
-TEXT: This group could not be found. The code may be incorrect, or the group may no longer be available.
+TEXT: Grup ini tidak dapat ditemukan. Kode mungkin salah, atau grup tersebut mungkin sudah tidak tersedia lagi.
 
 RESOURCE ID: bread_release_title
 TEXT: Kamu ingin {0} kembali?
@@ -21644,16 +21647,16 @@ RESOURCE ID: buddy_monodepth_flag
 TEXT: Percobaan
 
 RESOURCE ID: buddy_monodepth_modal_title
-TEXT: Nonaktifkan Niantic AR Platform (Percobaan)?
+TEXT: Nonaktifkan Scopely Explore AR Platform (Percobaan)?
 
 RESOURCE ID: buddy_monodepth_modal_message
-TEXT: Nonaktifkan Niantic AR Platform (Percobaan)? Kamu bisa mengaktifkan atau menonaktifkan ini kapan pun di Pengaturan.
+TEXT: Nonaktifkan Scopely Explore AR Platform (Percobaan)? Kamu bisa mengaktifkan atau menonaktifkan ini kapan pun di Pengaturan.
 
 RESOURCE ID: buddy_monodepth_modal_continue_button
 TEXT: TETAP GUNAKAN
 
 RESOURCE ID: buddy_monodepth_modal_turn_off_button
-TEXT: Nonaktifkan Niantic AR Platform (Percobaan)
+TEXT: Nonaktifkan Scopely Explore AR Platform (Percobaan)
 
 RESOURCE ID: buddy_multilplayer_qr_display_header
 TEXT: Kode QR Partner Grup
@@ -22377,7 +22380,7 @@ RESOURCE ID: button_confirm_pair
 TEXT: YA, TAUTKAN
 
 RESOURCE ID: button_confirm_unpair
-TEXT: YA, HAPUS
+TEXT: YA, LEPAS
 
 RESOURCE ID: button_throw_disabled
 TEXT: Jenis Bola Pokémon yang dipilih habis. Tombol Lempar dinonaktifkan.
@@ -23231,6 +23234,9 @@ TEXT: 繁體中文
 
 RESOURCE ID: choose_event_variant_failed
 TEXT: Gagal memilih versi event. Coba lagi nanti.
+
+RESOURCE ID: cinderace_gmax_tr_2026_title
+TEXT: Penelitian Berwaktu Premium Cinderace Gigantamax
 
 RESOURCE ID: city_accra
 TEXT: Accra
@@ -26936,7 +26942,7 @@ RESOURCE ID: combat_choose_next_pokemon
 TEXT: Ganti ke Pokémon baru?
 
 RESOURCE ID: combat_choose_pokemon_scaled
-TEXT: Some Pokémon’s CP has been adjusted for this league.
+TEXT: Terdapat Pokémon dengan CP yang telah disesuaikan untuk liga ini.
 
 RESOURCE ID: combat_choosing_their_team
 TEXT: sedang memilih tim!
@@ -27353,15 +27359,15 @@ RESOURCE ID: combat_lets_not_battle
 TEXT: TIDAK
 
 RESOURCE ID: combat_log_upload_complete_modal_body
-TEXT: Thank you for sharing your game logs with Niantic. This data will help us improve Pokémon GO.
+TEXT: Terima kasih telah membagikan catatan permainan kamu kepada Scopely Explore. Data ini akan membantu kami meningkatkan Pokémon GO.
 
-For further assistance, please contact support and mention your uploaded game logs.
+Untuk bantuan lebih lanjut, hubungi layanan bantuan dan sebutkan catatan permainan yang kamu unggah.
 
 RESOURCE ID: combat_log_upload_modal_title
 TEXT: Upload Game Logs
 
 RESOURCE ID: combat_log_upload_modal_body
-TEXT: If you experienced issues during your last Trainer Battle, consider uploading your game logs via the Game Logging feature to share them with Niantic.
+TEXT: Jika kamu mengalami masalah selama Pertarungan Pelatih terakhir, coba unggah catatan permainanmu melalui fitur Catatan Permainan untuk membagikannya kepada Scopely Explore.
 
 RESOURCE ID: combat_log_upload_modal_complete_title
 TEXT: Proses Mengunggah Selesai!
@@ -27661,6 +27667,18 @@ TEXT: Liga Ultra
 
 RESOURCE ID: combat_use_this_party
 TEXT: GUNAKAN SEKUTU INI
+
+RESOURCE ID: comic_con_malaga_2026_title
+TEXT: Pokémon GO: San Diego Comic-Con Málaga
+
+RESOURCE ID: comic_con_malaga_2026_tr_title
+TEXT: Penelitian Berwaktu San Diego Comic-Con Málaga
+
+RESOURCE ID: comic_con_malaga_2026_tr_01
+TEXT: Penelitian Berwaktu San Diego Comic-Con Málaga (1/2)
+
+RESOURCE ID: comic_con_malaga_2026_tr_02
+TEXT: Penelitian Berwaktu San Diego Comic-Con Málaga (2/2)
 
 RESOURCE ID: community_ambassador_tr_title
 TEXT: Bonus Penelitian Berwaktu Ambasador Komunitas
@@ -29104,11 +29122,20 @@ TEXT: Untuk detail lebih lanjut, kunjungi <a href="https://pokemongo.com/news/fl
 RESOURCE ID: details_link_key_flying_taxi_taken_over
 TEXT: Untuk detail lebih lanjut, kunjungi <a href="https://pokemongo.com/news/flying-taxi-taken-over-2026">situs web</a>.
 
+RESOURCE ID: details_link_key_gmax_cinderace
+TEXT: Untuk detail lebih lanjut, kunjungi <a href="https://pokemongo.com/news/gigantamax-cinderace-max-battle-day-2026">situs web</a>.
+
 RESOURCE ID: details_link_key_gmax_rillaboom
 TEXT: Untuk detail lebih lanjut, kunjungi <a href="https://pokemongo.com/news/gigantamax-rillaboom-max-battle-day-2026">situs web</a>.
 
 RESOURCE ID: details_link_key_gmax_pikachu_max_battle
 TEXT: Untuk detail lebih lanjut, kunjungi <a href="https://pokemongo.com/news/gigantamax-pikachu-max-battle-day-2026">situs web</a>.
+
+RESOURCE ID: details_link_key_harvest_festival
+TEXT: Untuk detail lebih lanjut, kunjungi <a href="https://pokemongo.com/news/harvest-festival-2026">situs web</a>.
+
+RESOURCE ID: details_link_key_harvest_festival_taken_over
+TEXT: Untuk detail lebih lanjut, kunjungi <a href="https://pokemongo.com/news/harvest-festival-taken-over-2026">situs web</a>.
 
 RESOURCE ID: details_link_key_lunar_new_year_feb2026
 TEXT: Untuk detail lebih lanjut, kunjungi <a href="https://pokemongo.com/news/lunar-new-year-event-2026">situs web</a>.
@@ -30152,6 +30179,21 @@ TEXT: Berlatih seperti Cliff
 RESOURCE ID: em_hawlucha_2025_tr_path_b_desc
 TEXT: Pilih jalur ini untuk pertemuan dengan Machop, Croagunk, dan Timburr, serta hadiah termasuk 1 MJ Super dan MJ Cepat.
 
+RESOURCE ID: em_hawlucha_2026_tr_dialog_00
+TEXT: Hei, %PLAYERNAME%! Saatnya memilih jalurmu. Apakah kamu akan berlatih dengan presisi yang terukur seperti Arlo, atau dengan semangat membara seperti Candela?
+
+RESOURCE ID: em_hawlucha_2026_tr_path_a
+TEXT: Berlatih seperti Candela
+
+RESOURCE ID: em_hawlucha_2026_tr_path_a_desc
+TEXT: Pilih jalur ini untuk bertemu dengan Rapidash, Torchic, dan Chimchar, serta mendapatkan hadiah seperti Pewangi dan stiker.
+
+RESOURCE ID: em_hawlucha_2026_tr_path_b
+TEXT: Berlatih seperti Arlo
+
+RESOURCE ID: em_hawlucha_2026_tr_path_b_desc
+TEXT: Pilih jalur ini untuk bertemu dengan Mankey, Scizor, dan Hisuian Sneasel, serta mendapatkan hadiah seperti Pewangi dan stiker.
+
 RESOURCE ID: em_holi_2025_event_title
 TEXT: Festival Warna 2025
 
@@ -31079,6 +31121,9 @@ TEXT: 16 Agustus, 10.00 –
 
 RESOURCE ID: event_datetime_range_key_gmaxbutterfree25
 TEXT: 3 Agustus, pukul 14.00 – 17.00
+
+RESOURCE ID: event_datetime_range_key_gmaxcinderace26
+TEXT: 3 Oktober, 14.00 – 17.00
 
 RESOURCE ID: event_datetime_range_key_gmaxgarbodor25
 TEXT: 1 November, 14.00 –
@@ -33677,7 +33722,7 @@ RESOURCE ID: fb_invite_import_friends_title
 TEXT: Sambungkan teman dari Facebook?
 
 RESOURCE ID: fb_invite_import_friends_info
-TEXT: Jika ingin menambahkan Teman Facebook, Niantic akan mengakses daftar Teman Facebook-mu yang telah menginstal Pokémon GO dan juga telah memilih untuk menambahkan Teman Facebook. Profil nama dan gambar di Facebook-mu akan terlihat bersamaan dengan nama Pelatih. Kamu bisa mengganti dan menghapus pemain dari Daftar Teman Pokémon GO-mu atau mengubah izin aplikasi di dalam Facebook. Untuk informasi lebih lanjut, kunjungi Pusat Bantuan.
+TEXT: Jika ingin menambahkan Teman Facebook, Scopely Explore akan mengakses daftar Teman Facebook-mu yang telah menginstal Pokémon GO dan juga telah memilih untuk menambahkan Teman Facebook. Profil nama dan gambar di Facebook-mu akan terlihat bersamaan dengan nama Pelatih. Kamu bisa mengganti dan menghapus pemain dari Daftar Teman Pokémon GO-mu atau mengubah izin aplikasi di dalam Facebook. Untuk informasi lebih lanjut, kunjungi Pusat Bantuan.
 
 RESOURCE ID: fb_invite_no_friends
 TEXT: Teman dari Facebook belum menggunakan fitur ini. Periksa fitur Teman di Facebook!
@@ -36133,7 +36178,7 @@ RESOURCE ID: friend_is_at_a_max_battle
 TEXT: Bergabung ke pertarungan <b>{0}</b>
 
 RESOURCE ID: friend_niantic_game_preview_list_title
-TEXT: Niantic Games Lainnya untuk Dibagikan
+TEXT: Scopely Explore Games Lainnya untuk Dibagikan
 
 RESOURCE ID: friend_opened_your_gift
 TEXT: {0} menerima {1} alat dari Hadiahmu!
@@ -36174,7 +36219,7 @@ TEXT: {0} mengirimkan Hadiah!
 RESOURCE ID: friend_sort_online_not_available_body
 TEXT: Sortir ini hanya dapat digunakan saat status daring ditampilkan. 
  
-Catatan: Dengan menampilkan status daring, semua Niantic game yang dimainkan juga akan menampilkan status tersebut.
+Catatan: Dengan menampilkan status daring, semua Scopely Explore game yang dimainkan juga akan menampilkan status tersebut.
 
 RESOURCE ID: friend_sort_online_not_available_header
 TEXT: Tampilkan status daring?
@@ -36402,7 +36447,7 @@ RESOURCE ID: friendslist_sort_raid
 TEXT: DI RAID ({0})
 
 RESOURCE ID: friendslist_sort_online_unavailable
-TEXT: Tidak bisa menyortir teman dengan status daring jika belum bergabung di Niantic Online.
+TEXT: Tidak bisa menyortir teman dengan status daring jika belum bergabung di Scopely Explore Online.
 
 RESOURCE ID: frigibax_cd_website_link
 TEXT: Untuk detail lebih lanjut, kunjungi <a href="https://pokemongo.com/news/communityday-june-2026-frigibax">situs web</a>.
@@ -37887,6 +37932,9 @@ TEXT: Tur Pokémon GO: Johto
 
 RESOURCE ID: general1.ticket.4_finalstrike0525_title
 TEXT: Tiket Penelitian Berwaktu Premium Serangan Terakhir: Pekan GO Battle
+
+RESOURCE ID: general1.ticket.4_gmaxcinderace26_title
+TEXT: Tiket Hari Pertarungan Max Cinderace Gigantamax
 
 RESOURCE ID: general1.ticket.4_gmaxmeowth26_title
 TEXT: Tiket Hari Pertarungan Max Meowth Gigantamax
@@ -39697,6 +39745,9 @@ TEXT: Penelitian Berwaktu Pendahuluan Hari Pertarungan Max Butterfree Gigantamax
 
 RESOURCE ID: gmax_butterfree_max_battles
 TEXT: Butterfree Gigantamax muncul di Pertarungan Max
+
+RESOURCE ID: gmax_cinderace_max_battles
+TEXT: Cinderace Gigantamax muncul di Pertarungan Max
 
 RESOURCE ID: gmax_garbodor_lead_up_timed_research
 TEXT: Penelitian Berwaktu Pendahuluan Hari Pertarungan Max Garbodor Gigantamax
@@ -48936,6 +48987,12 @@ TEXT: Tantangan Koleksi Kebun Labu
 RESOURCE ID: harvest_festival_oct2025_smoliv_cc
 TEXT: Tantangan Koleksi Perkebunan Zaitun
 
+RESOURCE ID: harvest_festival_s24_event_name
+TEXT: Festival Panen: Mengumpulkan Applin
+
+RESOURCE ID: harvest_festival_taken_over_event_name
+TEXT: Festival Panen: Pengambilalihan
+
 RESOURCE ID: harvest_festival_tr_name
 TEXT: Penelitian Berwaktu Premium Festival Panen
 
@@ -52443,6 +52500,12 @@ TEXT:  An extra event ticket from a purchase error. You can send it to a friend 
 RESOURCE ID: item_event_ticket_pink_to_gift_name
 TEXT: Extra Ticket
 
+RESOURCE ID: item_event_ticket_s24_oct_3_maxbattle_desc_gmaxcinderace26
+TEXT: Tiket untuk mengakses bonus spesial pada 3 Oktober 2026, mulai pukul 14.00 hingga 17.00 waktu setempat, di mana pun kamu berada.
+
+RESOURCE ID: item_event_ticket_s24_oct_3_maxbattle_details_gmaxcinderace26
+TEXT: Tiket ini akan aktif secara otomatis dan memberimu akses ke bonus spesial pada tanggal 3 Oktober, di mana pun kamu berada.
+
 RESOURCE ID: item_event_ticket_to_gift_desc
 TEXT: Tiket event tambahan dari kesalahan pembelian. Kamu bisa mengirimkannya ke teman atau meminta pengembalian dana.
 
@@ -54114,13 +54177,13 @@ RESOURCE ID: kr_hanbok_pikachu_picnic_2026_tr_name_3
 TEXT: Penelitian Berwaktu Pikachu Berekreasi di Korea 2026 (3/3)
 
 RESOURCE ID: kr_hangul_day_2026_title
-TEXT: 2026 Hangul Day
+TEXT: Hangul Day 2026
 
 RESOURCE ID: kr_hangul_day_2026_bonus_desc
 TEXT: Celebrate Hangul Day with event-themed Pokémon appearing in the wild! Use Incense or Lure Modules to encounter special Pokémon.
 
 RESOURCE ID: kr_hangul_day_sep2026_cc_title
-TEXT: 2026 Hangul Day Collection Challenge
+TEXT: Hangul Day 2026 Collection Challenge
 
 RESOURCE ID: kr_lantern_festival_2025_massive_bonus_title
 TEXT: Waktunya Magikarp!
@@ -54378,7 +54441,7 @@ RESOURCE ID: last_played_yesterday
 TEXT: Terakhir kali dimainkan: Kemarin
 
 RESOURCE ID: last_played_date_setting_description
-TEXT: Izinkan teman melihat informasi kapan terakhir kali aku memainkan Niantic game.
+TEXT: Izinkan teman melihat informasi kapan terakhir kali aku memainkan Scopely Explore game.
 
 RESOURCE ID: last_played_two_plus_days_ago
 TEXT: Terakhir kali dimainkan: 2+ hari lalu
@@ -56990,7 +57053,7 @@ RESOURCE ID: log_verbose_raid_modal_desc_cache
 TEXT: Data Raid akan disimpan selama 24 jam atau hingga Raid berikutnya. Kamu dapat mengunggahnya kapan saja dalam kurun waktu tersebut di menu Pengaturan.
 
 RESOURCE ID: log_verbose_raid_modal_desc_info
-TEXT: Dengan fitur Pencatatan Raid, kamu dapat mengunggah data Raid yang diikuti, dan ini akan membantu Niantic meningkatkan Raid ke depannya.
+TEXT: Dengan fitur Pencatatan Raid, kamu dapat mengunggah data Raid yang diikuti, dan ini akan membantu Scopely Explore meningkatkan Raid ke depannya.
 
 RESOURCE ID: log_verbose_raid_modal_desc_url_link
 TEXT: silakan kunjungi situs web ini.
@@ -57897,7 +57960,7 @@ RESOURCE ID: marketing_email_opt_in_toggle
 TEXT: Terima email
 
 RESOURCE ID: marketing_notification_opt_in_title
-TEXT: Niantic ingin mengirimkan pemberitahuan tentang event, penawaran, dan pembaruan
+TEXT: Scopely Explore ingin mengirimkan pemberitahuan tentang event, penawaran, dan pembaruan
 
 RESOURCE ID: marketing_notification_opt_in_message
 TEXT: Notifikasi dapat mencakup peringatan, bunyi, dan lencana ikon. Dapat disesuaikan di pengaturan Anda.
@@ -58625,6 +58688,12 @@ TEXT: Bonus Tiket Event Pertarungan Max Spesial Snorlax Gigantamax
 RESOURCE ID: max_battle_day_gigantamax_snorlax_special_event_name
 TEXT: Event Pertarungan Max Spesial Snorlax Gigantamax
 
+RESOURCE ID: max_battle_day_gmax_cinderace_ticketed
+TEXT: Bonus Tiket Hari Pertarungan Max Cinderace Gigantamax
+
+RESOURCE ID: max_battle_day_gmax_cinderace_event_name
+TEXT: Hari Pertarungan Max Cinderace Gigantamax
+
 RESOURCE ID: max_battle_day_gmax_meowth_ticketed
 TEXT: Bonus Tiket Hari Pertarungan Max Meowth Gigantamax
 
@@ -59149,7 +59218,7 @@ RESOURCE ID: mega_evolve_lobby_existing_toast
 TEXT: You can only use one Mega-Evolved Pokémon at a time.
 
 RESOURCE ID: mega_evolve_pokemon_to_use_in_this_party
-TEXT: Mega Evolve Gengar to use this party.
+TEXT: Lakukan Evolusi Mega pada Gengar untuk menggunakan tim ini.
 
 RESOURCE ID: mega_evolve_preview_first_time
 TEXT: After you Mega Evolve a Pokémon for the first time, you can Mega Evolve it again without Mega Energy after a rest period.
@@ -59555,10 +59624,10 @@ at SHA 12701f1c07ae7f07a5d50583f697320977df7988
 Pipeline 1139111, job 13470914
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-09-09T21:50:37.113604+00:00 for id-ID
-at SHA 83a400d168f
-Pipeline 3932304, job 57870598
-Patch from: 0.427.98-SHA-5e44928a-RC1, 0.429.0-SHA-d6c796f0-RC1, 0.427.1-SHA-4a569ba7-RC1
+TEXT: Built at 2026-09-11T20:57:11.794309+00:00 for id-ID
+at SHA 9f591d8678c
+Pipeline 3938550, job 57981687
+Patch from: 0.429.0-SHA-de304d2a-RC2, 0.427.0-SHA-fc729f25-RC2, 0.427.1-SHA-4a569ba7-RC1
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: Penelitian Berwaktu: Pilih Tipe Petarungmu
@@ -59810,10 +59879,10 @@ RESOURCE ID: monochrome_holiday_tr_name_2
 TEXT: Penelitian Berwaktu Premium Mimpi Si Pokémon Domba (2/2)
 
 RESOURCE ID: monodepth_ar_plus_required_toast
-TEXT: Aktifkan Niantic AR untuk menggunakan Pencampuran Realitas.
+TEXT: Aktifkan Scopely Explore AR untuk menggunakan Pencampuran Realitas.
 
 RESOURCE ID: monodepth_ar_plus_toggle_warning
-TEXT: Jika menonaktifkan Niantic AR, Pencampuran Realitas akan dinonaktifkan.
+TEXT: Jika menonaktifkan Scopely Explore AR, Pencampuran Realitas akan dinonaktifkan.
 
 RESOURCE ID: monodepth_download_prompt_success_message
 TEXT: Sekarang kamu bisa menikmati pengalaman AR yang lebih mendalam dengan Pokémonmu!
@@ -59868,6 +59937,9 @@ TEXT: Puncak Kekuatan
 
 RESOURCE ID: more_power_spots_active
 TEXT: Power Spot aktif tambahan
+
+RESOURCE ID: mossy_lure_duration_double
+TEXT: Umpan Lumut berdurasi 1 jam
 
 RESOURCE ID: motor_accessibility_settings_title
 TEXT: Aksesibilitas Kendali
@@ -64886,16 +64958,16 @@ RESOURCE ID: next_set_coming_on
 TEXT: Akan hadir pada {0}!
 
 RESOURCE ID: niantic_anniversary_event
-TEXT: Event Ulang Tahun Niantic
+TEXT: Event Ulang Tahun Scopely Explore
 
 RESOURCE ID: niantic_game_preview_list_title
-TEXT: Niantic Games Lainnya
+TEXT: Scopely Explore Games Lainnya
 
 RESOURCE ID: niantic_profile_privacy_settings_title
 TEXT: Pengaturan Privasi
 
 RESOURCE ID: niantic_social_overview_desc
-TEXT: Niantic Social telah hadir! Kamu sekarang bisa melakukan hal berikut dengan fitur sosial baru ini.
+TEXT: Scopely Explore Social telah hadir! Kamu sekarang bisa melakukan hal berikut dengan fitur sosial baru ini.
 
 RESOURCE ID: nickit_website_link
 TEXT: Untuk detail lebih lanjut, kunjungi <a href="https://pokemongo.com/news/communityday-august-2026-nickit">situs web</a>.
@@ -65299,7 +65371,7 @@ RESOURCE ID: onboard_welcome_screen|9
 TEXT: Pilih gaya dan mulai petualanganmu!
 
 RESOURCE ID: one_or_more_pokemon_exceed_this_leagues_cp_limit
-TEXT: One or more Pokémon exceed this league’s CP limit.
+TEXT: Satu atau lebih Pokémon melebihi batas CP liga ini.
 
 RESOURCE ID: one_route_nearby_label
 TEXT: 1 route
@@ -66020,7 +66092,7 @@ RESOURCE ID: party_play_code_invalid
 TEXT: Grup tersebut tidak dapat ditemukan.
 
 RESOURCE ID: party_play_code_of_conduct_body
-TEXT: Harap tinjau Kode Etik Niantic terkait cara bermain dengan aman dan saling menghormati.
+TEXT: Harap tinjau Kode Etik Scopely Explore terkait cara bermain dengan aman dan saling menghormati.
 
 RESOURCE ID: party_play_code_of_conduct_button
 TEXT: Kode Etik
@@ -67473,7 +67545,7 @@ RESOURCE ID: poi_contrib_failed_error
 TEXT: Pengiriman gagal. Coba lagi.
 
 RESOURCE ID: poi_contrib_ghostinfo_label
-TEXT: Wayspot yang digunakan di game Niantic lainnya
+TEXT: Wayspot yang digunakan di game Scopely Explore lainnya
 
 RESOURCE ID: poi_contrib_identical_desc_error
 TEXT: Deskripsi telah digunakan. Kirim deskripsi yang berbeda.
@@ -67686,7 +67758,7 @@ RESOURCE ID: poi_contrib_tutorial_dupe_title
 TEXT: Periksa Duplikat
 
 RESOURCE ID: poi_contrib_tutorial_dupe_body
-TEXT: Ikon biru adalah Wayspot yang diterima dan digunakan di Pokémon GO. Ikon oranye adalah Wayspot yang diterima dan digunakan di game Niantic lainnya. Ketika mengirimkan nominasi PokéStop baru, harap hindari mengiriman duplikat dari kedua tipe Wayspot tersebut.
+TEXT: Ikon biru adalah Wayspot yang diterima dan digunakan di Pokémon GO. Ikon oranye adalah Wayspot yang diterima dan digunakan di game Scopely Explore lainnya. Ketika mengirimkan nominasi PokéStop baru, harap hindari mengiriman duplikat dari kedua tipe Wayspot tersebut.
 
 RESOURCE ID: poi_contrib_unavailable_disabled
 TEXT: Fitur ini tidak tersedia saat ini.
@@ -68068,7 +68140,7 @@ RESOURCE ID: poi_sub_tut_desc_1
 TEXT: PokéStop adalah lokasi dalam game yang mendorong Pelatih untuk pergi keluar, menemukan tempat baru, dan berkomunikasi dengan komunitas masyarakat. PokéStop biasanya merupakan tempat yang mengandung semacam nilai kewarganegaraan, pendidikan, atau seni, baik itu karya seni yang keren atau permata tersembunyi yang hanya diketahui oleh penduduk lokal.
 
 RESOURCE ID: poi_sub_tut_desc_2
-TEXT: Kirim nama, deskripsi, dan foto lokasi yang dipilih. Lokasi harus tepat dan akurat karena PokéStop yang dinominasikan akan ditinjau oleh pemain Niantic lainnya.
+TEXT: Kirim nama, deskripsi, dan foto lokasi yang dipilih. Lokasi harus tepat dan akurat karena PokéStop yang dinominasikan akan ditinjau oleh pemain Scopely Explore lainnya.
 
 RESOURCE ID: poi_sub_tut_desc_3
 TEXT: PokéStops harus memiliki nilai pendidikan dan budaya, serta lokasinya harus aman dan bisa diakses oleh pejalan kaki. Hindari memilih lokasi di hunian pribadi, lokasi musiman atau tidak permanen, atau lokasi yang bisa mengganggu kendaraan pelayanan darurat.
@@ -80878,48 +80950,48 @@ RESOURCE ID: privacy_policy_short_button
 TEXT: Privasi
 
 RESOURCE ID: privacy_policy_update_notice
-TEXT: Harap tinjau Kebijakan Privasi Niantic yang diperbarui untuk informasi tambahan tentang fitur produk baru dan cara kami memproses data pribadi.
+TEXT: Harap tinjau Kebijakan Privasi Scopely Explore yang diperbarui untuk informasi tambahan tentang fitur produk baru dan cara kami memproses data pribadi.
 
 RESOURCE ID: private_group_title
-TEXT: Private Group
+TEXT: Grup Privat
 
 RESOURCE ID: private_group_pill
-TEXT: PRIVATE
+TEXT: PRIVAT
 
 RESOURCE ID: private_group_change_to_public_title
-TEXT: Change to Public
+TEXT: Ubah ke Publik
 
 RESOURCE ID: private_group_change_to_public_desc
-TEXT: If you change this group to public, anyone can join and battle with you. Once you change to public, your group cannot be made private again.
+TEXT: Jika grup ini diubah menjadi publik, siapa pun dapat bergabung dan bertarung bersamamu. Setelah diubah ke publik, grupmu tidak dapat diubah kembali menjadi privat.
 
-Are you sure you want to change to a public group?
+Yakin ingin mengubah grup ini menjadi publik?
 
 RESOURCE ID: private_group_change_to_public_button
-TEXT: CHANGE TO PUBLIC
+TEXT: UBAH KE PUBLIK
 
 RESOURCE ID: private_group_code_intro
-TEXT: Battle together with friends by entering their group code.
+TEXT: Bertarung bersama teman dengan memasukkan kode grup mereka.
 
 RESOURCE ID: private_group_code_label
-TEXT: GROUP CODE
+TEXT: KODE GRUP
 
 RESOURCE ID: private_group_create_button
-TEXT: Create Group
+TEXT: Buat Grup
 
 RESOURCE ID: private_group_created_title
-TEXT: Successfully created a group!
+TEXT: Berhasil membuat grup!
 
 RESOURCE ID: private_group_entry_button
-TEXT: PRIVATE GROUP
+TEXT: GRUP PRIVAT
 
 RESOURCE ID: private_group_invalid_code
-TEXT: This group code is invalid. Please enter a valid code.
+TEXT: Kode grup ini tidak valid. Harap masukan kode yang valid.
 
 RESOURCE ID: private_group_join_button
-TEXT: Join Group
+TEXT: Gabung ke Grup
 
 RESOURCE ID: private_group_share_code_message
-TEXT: Share this group code with your friends. They can join you by entering this group code.
+TEXT: Bagikan kode grup ini kepada teman-temanmu. Mereka bisa bergabung ke grupmu dengan memasukkan kode grup ini.
 
 RESOURCE ID: prof_willow_birthday_2026_title
 TEXT: Penelitian Ulang Tahun Willow
@@ -81325,6 +81397,9 @@ TEXT: Evolve {0} Alolan Geodude
 
 RESOURCE ID: quest_alodude_evolve_b
 TEXT: Evolve {0} Alolan Graveler
+
+RESOURCE ID: quest_applin_catch_singular
+TEXT: Tangkap Applin
 
 RESOURCE ID: quest_appraise_pokemon_plural
 TEXT: Nilai {0} Pokémon
@@ -109568,7 +109643,7 @@ RESOURCE ID: returning_sign_in_partial
 TEXT: Masuk dengan {0}
 
 RESOURCE ID: revert_pokemon_to_its_primal_form_to_use_this_party
-TEXT: Revert Kyogre to its Primal form to use this party.
+TEXT: Lakukan Reversi Primal pada Kyogre untuk menggunakan tim ini.
 
 RESOURCE ID: revive_all_button
 TEXT: Revive All
@@ -110223,9 +110298,9 @@ RESOURCE ID: route_creation_onboarding_page_3
 TEXT: Routes must include five or more PokéStops or Gyms. An average Route should be 400–800 meters from start to finish and take 10–15 minutes to explore.
 
 RESOURCE ID: route_creation_onboarding_page_4
-TEXT: Once your Route is submitted, it will be reviewed. If your Route is rejected, you can make changes and resubmit it. You can also reset your Route at any time and start over.
+TEXT: Rute yang dibuat akan diajukan untuk ditinjau Scopely Explore. Jika ditolak, kamu dapat mengedit dan mengajukan lagi Rutemu untuk ditinjau kembali.
 
-Let’s create your first Route!
+Yuk coba buat Rutemu!
 
 RESOURCE ID: route_creation_pause_button
 TEXT: Jeda Rute
@@ -110463,7 +110538,7 @@ RESOURCE ID: route_enforcement_long_ban_title
 TEXT: Akses Anda ke Pokémon GO telah dibekukan.
 
 RESOURCE ID: route_enforcement_long_ban_description
-TEXT: Akun Niantic Anda telah dibekukan dari Pokémon GO dan game serta produk Niantic lainnya dikarenakan pelanggaran berulang kali terhadap Panduan Pemain terkait Rute.
+TEXT: Akun Scopely Explore Anda telah dibekukan dari Pokémon GO dan game serta produk Scopely Explore lainnya dikarenakan pelanggaran berulang kali terhadap Panduan Pemain terkait Rute.
 
 Pelanggaran lebih lanjut menyebabkan pembekuan akun secara permanen. Harap tinjau Panduan Pemain guna mencegah pelanggaran lebih lanjut.
 
@@ -110484,7 +110559,7 @@ RESOURCE ID: route_enforcement_permanent_ban_title
 TEXT: Akses Anda ke Pokémon GO telah dibekukan secara permanen.
 
 RESOURCE ID: route_enforcement_permanent_ban_description
-TEXT: Akun Niantic Anda telah dibekukan secara permanen dari Pokémon GO dan game serta produk Niantic lainnya dikarenakan pelanggaran berulang kali terhadap Panduan Pemain terkait Rute.
+TEXT: Akun Scopely Explore Anda telah dibekukan secara permanen dari Pokémon GO dan game serta produk Scopely Explore lainnya dikarenakan pelanggaran berulang kali terhadap Panduan Pemain terkait Rute.
 
 RESOURCE ID: route_enforcement_permanent_ban_description_b
 TEXT: Your Pokémon GO account has been banned due to repeated or severe violations against our Player Guidelines.
@@ -110690,7 +110765,7 @@ RESOURCE ID: route_nearby_help_duration
 TEXT: Estimate time from start point to end point.
 
 RESOURCE ID: route_nearby_help_official_route
-TEXT: The route created by NIANTIC partners has this label.
+TEXT: Rute buatan Scopely Explore partner memiliki label ini.
 
 RESOURCE ID: route_nearby_help_played_time
 TEXT: Number of played time of this route.
@@ -110848,7 +110923,7 @@ RESOURCE ID: route_play_low_rating_title
 TEXT: Apakah kamu menemukan masalah dalam Rute ini?
 
 RESOURCE ID: route_play_low_rating_description
-TEXT: Jika kamu menemukan masalah, silakan melaporkan Rute ke Niantic untuk ditinjau.
+TEXT: Jika kamu menemukan masalah, silakan melaporkan Rute ke Scopely Explore untuk ditinjau.
 
 RESOURCE ID: route_play_no_routes_campfire_message
 TEXT: There are no Routes nearby. Browse Campfire to find Routes that are further away.
@@ -111125,7 +111200,7 @@ TEXT: What kind of issue happened?
 Could you describe it?
 
 RESOURCE ID: route_report_body
-TEXT: Saat kamu melaporkan Rute ke Niantic, kami akan meninjau Rute tersebut dan mengambil tindakan tepat sesuai dengan kebijakan kami. Kami tidak akan membagikan identitasmu ke pembuat Rute. Dengan mengajukan laporan, kamu mengonfirmasi bawa laporanmu terpercaya.
+TEXT: Saat kamu melaporkan Rute ke Scopely Explore, kami akan meninjau Rute tersebut dan mengambil tindakan tepat sesuai dengan kebijakan kami. Kami tidak akan membagikan identitasmu ke pembuat Rute. Dengan mengajukan laporan, kamu mengonfirmasi bawa laporanmu terpercaya.
 
 RESOURCE ID: route_report_permanent
 TEXT: Permanent issue
@@ -111469,10 +111544,10 @@ RESOURCE ID: route_submission_result_reject_description
 TEXT: Rutemu telah ditolak karena judul dan/atau deskripsinya mengandung ungkapan atau tautan yang tidak pantas. Rute ini tidak dapat di edit dan diajukan ulang.
 
 RESOURCE ID: route_submission_result_reject_message_bullying
-TEXT: Niantic does not allow bullying, harassment, humiliation, or threats against anyone.
+TEXT: Scopely Explore menentang penindasan, pelecehan, penghinaan, atau ancaman terhadap siapa pun.
 
 RESOURCE ID: route_submission_result_reject_message_hate
-TEXT: Niantic does not allow hateful behavior, hate speech, or the promotion of hateful ideologies. This includes promoting hatred on the basis of race, ethnicity, religion, gender, or any other identity factor.
+TEXT: Scopely Explore menentang sikap kebencian, ujaran kebencian, atau penyebaran ideologi kebencian. Termasuk dan tidak hanya terbatas pada penyebaran kebencian terhadap suku, agama, ras, gender, atau segala identitas lainnya.
 
 RESOURCE ID: route_submission_result_reject_message_suicide
 TEXT: If you or someone you know has thoughts of suicide or self harm, help is available. See <a href="route_mental_health_resources_link">Mental Health Resources</a> for more information.
@@ -113850,8 +113925,98 @@ TEXT: Kenangan dalam Gerakan
 RESOURCE ID: season23_forever_forward
 TEXT: Terus Melangkah Maju
 
+RESOURCE ID: season24_harvest_applin_branch_appletun_title
+TEXT: Appletun
+
+RESOURCE ID: season24_harvest_applin_branch_appletun_description
+TEXT: Pilih jalur Apel Manis.
+
+RESOURCE ID: season24_harvest_applin_branch_dipplin_title
+TEXT: Dipplin
+
+RESOURCE ID: season24_harvest_applin_branch_dipplin_description
+TEXT: Pilih jalur Apel Nektar.
+
+RESOURCE ID: season24_harvest_applin_branch_flapple_title
+TEXT: Flapple
+
+RESOURCE ID: season24_harvest_applin_branch_flapple_description
+TEXT: Pilih jalur Apel Kecut.
+
+RESOURCE ID: season24_harvest_applin_tr_title
+TEXT: Penelitian Berwaktu Festival Panen: Mengumpulkan Applin
+
+RESOURCE ID: season24_harvest_applin_tr_branch_prompt
+TEXT: Pilih jalur Evolusi.
+
 RESOURCE ID: season24_twilight_trails
 TEXT: Jejak Senja
+
+RESOURCE ID: season24_twilight_trails_tr_0_0
+TEXT: %PLAYERNAME%! Pas sekali. Aku sedang meninjau beberapa catatan tentang Pokémon yang sangat unik dan menarik: Applin.
+
+RESOURCE ID: season24_twilight_trails_tr_0_1
+TEXT: Sekilas, kamu mungkin mengira sedang melihat apel, tapi Applin sebenarnya adalah Pokémon yang tinggal di dalam apel!
+
+RESOURCE ID: season24_twilight_trails_tr_0_2
+TEXT: Apel itu melindunginya, memberinya makan, dan bahkan berperan dalam pertumbuhan Applin.
+
+RESOURCE ID: season24_twilight_trails_tr_0_3
+TEXT: Dan di sinilah hal menariknya: Apel dengan rasa yang berbeda dapat membawa Applin pada Evolusi yang berbeda!
+
+RESOURCE ID: season24_twilight_trails_tr_0_4
+TEXT: Bagaimana kalau kita pilih satu untuk dipelajari bersama? Aku yakin penelitian ini akan membuahkan hasil!
+
+RESOURCE ID: season24_twilight_trails_tr_2_0
+TEXT: Pelatih, usahamu sungguh membuahkan hasil yang luar biasa! Bisa kukatakan buah hasilnya sepadan dengan usaha yang kita peras.
+
+RESOURCE ID: season24_twilight_trails_tr_2_1
+TEXT: Berkat usahamu, kita semakin dekat dengan inti dari berbagai kemungkinan evolusi Applin.
+
+RESOURCE ID: season24_twilight_trails_tr_2_2
+TEXT: Kecut, Manis, atau Nektar, setiap potensi Evolusi memperlihatkan kepada kita sesuatu yang baru tentang bagaimana Pokémon beradaptasi, tumbuh, dan mengejutkan kita.
+
+RESOURCE ID: season24_twilight_trails_tr_2_3
+TEXT: Tapi penelitian yang baik jarang sekali berakhir dengan satu jawaban. Penelitian tersebut lebih sering mengarahkan kita pada pertanyaan berikutnya.
+
+RESOURCE ID: season24_twilight_trails_tr_2_4
+TEXT: Teruslah ikuti rasa ingin tahumu, Pelatih. Applin mungkin masih menyimpan beberapa benih penemuan untuk kita temukan!
+
+RESOURCE ID: season24_twilight_trails_tr_appletun_1_0
+TEXT: Appletun? Sungguh pilihan yang manis, %PLAYERNAME%!
+
+RESOURCE ID: season24_twilight_trails_tr_appletun_1_1
+TEXT: Aku dengar aroma manis yang dikeluarkan Appletun menarik perhatian Pokémon lain.
+
+RESOURCE ID: season24_twilight_trails_tr_appletun_1_2
+TEXT: Hal ini mengingatkan kita bahwa pesona Pokémon bisa hadir dalam berbagai bentuk—bahkan berupa aroma yang harum dan manis!
+
+RESOURCE ID: season24_twilight_trails_tr_appletun_1_3
+TEXT: Ayo kumpulkan beberapa Apel Manis dan menikmati apa yang kita pelajari sepanjang perjalanan.
+
+RESOURCE ID: season24_twilight_trails_tr_dipplin_1_0
+TEXT: Dipplin! Menarik sekali. Mungkin ada lebih banyak hal di balik Evolusi ini daripada yang kita lihat.
+
+RESOURCE ID: season24_twilight_trails_tr_dipplin_1_1
+TEXT: Faktanya, Dipplin kabarnya terdiri dari duo yang hidup bersama di dalam sebuah Apel Nektar.
+
+RESOURCE ID: season24_twilight_trails_tr_dipplin_1_2
+TEXT: Dinamika itu saja sudah cukup untuk membuat peneliti mana pun sibuk, tapi aku menduga Dipplin masih memiliki lebih banyak potensi yang bisa kita gali.
+
+RESOURCE ID: season24_twilight_trails_tr_dipplin_1_3
+TEXT: Untuk sekarang, mari kita kumpulkan Apel Nektar dan lihat apa yang bisa kita pelajari dari Evolusi yang tidak biasa ini!
+
+RESOURCE ID: season24_twilight_trails_tr_flapple_1_0
+TEXT: Flapple, ya? Pilihan bagus! Dalam evolusi ini, apel memainkan peran yang sangat menarik.
+
+RESOURCE ID: season24_twilight_trails_tr_flapple_1_1
+TEXT: Flapple dikenal karena menggunakan potongan tubuh apelnya sebagai sayap untuk melesat di udara. Sungguh cerdik!
+
+RESOURCE ID: season24_twilight_trails_tr_flapple_1_2
+TEXT: Ini adalah contoh luar biasa tentang bagaimana Evolusi dapat membantu Applin beradaptasi dan mencapai tingkat yang lebih tinggi.
+
+RESOURCE ID: season24_twilight_trails_tr_flapple_1_3
+TEXT: Ayo kita kumpulkan beberapa Apel Kecut untuk memulai penelitian ini!
 
 RESOURCE ID: season_gbl_forecast_title_7
 TEXT: Musim GO
@@ -115146,7 +115311,7 @@ RESOURCE ID: settings_buddy_ar
 TEXT: Partner AR
 
 RESOURCE ID: settings_buddy_ar_tip
-TEXT: Bermain Bersama Partner dengan Niantic AR
+TEXT: Bermain Bersama Partner dengan Scopely Explore AR
 
 RESOURCE ID: settings_buddy_gained_candy
 TEXT: Buddy Candies
@@ -115185,7 +115350,7 @@ RESOURCE ID: settings_encounter_ar
 TEXT: Pertemuan AR
 
 RESOURCE ID: settings_encounter_ar_tip
-TEXT: Pertemuan Pokémon dengan Niantic AR
+TEXT: Pertemuan Pokémon dengan Scopely Explore AR
 
 RESOURCE ID: settings_enhanced_graphics_description
 TEXT: Peningkatan efek, bayangan, dan tekstur yang mungkin memengaruhi daya baterai.
@@ -115275,13 +115440,13 @@ RESOURCE ID: settings_nearby_raids
 TEXT: Nearby Raids
 
 RESOURCE ID: settings_niantic_ar
-TEXT: Niantic AR (AR+)
+TEXT: Scopely Explore AR (AR+)
 
 RESOURCE ID: settings_niantic_ar_tip
 TEXT: You can catch Pokémon, take GO Snapshots, and play with your buddy in AR.
 
 RESOURCE ID: settings_niantic_ar_update
-TEXT: Perbarui Niantic AR (AR+)
+TEXT: Perbarui Scopely Explore AR (AR+)
 
 RESOURCE ID: settings_niantic_ar_update_done
 TEXT: AR is up-to-date.
@@ -115739,7 +115904,7 @@ RESOURCE ID: settings_wearables_store_url
 TEXT: <url with language query param in it>
 
 RESOURCE ID: settings_wearables_unpaired_toast
-TEXT: Tautan {0} dihapus.
+TEXT: Tautan {0} dilepas.
 
 RESOURCE ID: settings_wearables_voice_effects
 TEXT: Aktifkan Efek Suara Pikachu
@@ -117358,10 +117523,10 @@ RESOURCE ID: social_online_toast
 TEXT: Tampilkan status daring
 
 RESOURCE ID: social_online_consent_privacy
-TEXT: Catatan: Mengaktifkan tampilan status daring berarti menampilkannya juga untuk semua Niantic game yang dimainkan.
+TEXT: Catatan: Mengaktifkan tampilan status daring berarti menampilkannya juga untuk semua Scopely Explore game yang dimainkan.
 
 RESOURCE ID: social_online_consent_note_body
-TEXT: Status daringmu bisa dilihat oleh teman yang mengaktifkan Niantic Online.
+TEXT: Status daringmu bisa dilihat oleh teman yang mengaktifkan Scopely Explore Online.
 Status daring dapat disembunyikan kapan saja dengan mengetuk tombol yang sama.
 
 RESOURCE ID: social_online_consent_note_header
@@ -117506,10 +117671,10 @@ RESOURCE ID: soft_sfida_desc_default_short
 TEXT: Melempar Bola Pokémon secara otomatis dan memutar PokéStop saat menjelajah dengan Pokémon GO yang tertutup.
 
 RESOURCE ID: soft_sfida_desc_foreground
-TEXT: Automatically throw Poké Balls and spin PokéStops in the background while moving. You can activate it once daily.
+TEXT: Melempar Bola Pokémon dan memutar PokéStop secara otomatis di latar belakang saat kamu bergerak. Kamu dapat mengaktifkannya satu kali sehari.
 
 RESOURCE ID: soft_sfida_desc_foreground_short
-TEXT: Encounter Pokémon and spin PokéStops in the background while moving.
+TEXT: Temukan Pokémon dan putar PokéStop di latar belakang saat kamu bergerak.
 
 RESOURCE ID: soft_sfida_desc_items_full
 TEXT: Kelola Tas Item-mu atau tingkatkan kapasitas penyimpanan item-mu.
@@ -117554,10 +117719,10 @@ RESOURCE ID: soft_sfida_btn_manage_item_bag
 TEXT: Kelola Tas Item
 
 RESOURCE ID: soft_sfida_btn_switch_caps
-TEXT: SWITCH
+TEXT: GANTI
 
 RESOURCE ID: soft_sfida_btn_unpair_device_caps
-TEXT: UNPAIR DEVICE
+TEXT: LEPAS TAUTAN PERANGKAT
 
 RESOURCE ID: soft_sfida_btn_view_summary
 TEXT: Lihat Ringkasan
@@ -118353,7 +118518,7 @@ RESOURCE ID: sponsored_gift_tutorial_description_1
 TEXT: Saat menjelajahi dunia di sekitarmu, kamu mungkin menerima Hadiah Sponsor disertai pesan dari sponsor yang relevan dengan lokasimu. Hadiah Sponsor yang berlaku saat ini memiliki tampilan baru!
 
 RESOURCE ID: sponsored_gift_tutorial_description_2
-TEXT: Kami tidak membagikan informasi pribadimu dengan pihak sponsor. Untuk informasi lebih lanjut tentang fitur ini, silakan lihat Dukungan Niantic.
+TEXT: Kami tidak membagikan informasi pribadimu dengan pihak sponsor. Untuk informasi lebih lanjut tentang fitur ini, silakan lihat Dukungan Scopely Explore.
 
 RESOURCE ID: sponsored_gift_tutorial_description_3
 TEXT: Kamu dapat mengelola Hadiah Sponsor di pengaturan. Hal ini tidak akan memengaruhi Hadiah yang  ditukarkan dengan teman meskipun kamu Hadiah tersebut diperoleh dari Lokasi yang Disponsori.
@@ -122799,10 +122964,10 @@ RESOURCE ID: switch_sleep_warning
 TEXT: Jangan matikan atau gunakan mode tidur smartphone saat menghubungkan ke Nintendo Switch,.
 
 RESOURCE ID: switch_to_soft_sfida_description_default
-TEXT: If you're unable to use your device but want to remain paired, you can use Explorer Gadget Instead.
+TEXT: Jika kamu tidak dapat menggunakan perangkatmu tetapi ingin tetap memasangkannya, kamu dapat menggunakan Gadget Penjelajah sebagai gantinya.
 
 RESOURCE ID: switch_to_soft_sfida_title_default
-TEXT: Pause your device and switch to Explorer Gadget?
+TEXT: Jeda perangkatmu dan berganti ke Gadget Penjelajah?
 
 RESOURCE ID: swsh_masterball_sr_title
 TEXT: Penelitian Mahakarya: Bola Master
@@ -123387,6 +123552,11 @@ TEXT: <b>Termasuk:</b>
 • Kumpulkan hingga ekstra 4.000 Partikel Max dari Power Spot dan penjelajahan
 • XP ×2 dengan menyelesaikan Pertarungan Max
 • Penelitian Berwaktu yang berhadiah Jamur Max dan 25.000 XP
+
+RESOURCE ID: text_rewards_key_gmaxcinderace26
+TEXT: <b>Termasuk:</b>
+• XP ×2 dari Pertarungan Max
+• Penelitian Berwaktu yang berhadiah 6.400 Partikel Max, 25.000 XP, dan 1 Jamur Max.
 
 RESOURCE ID: text_rewards_key_gmaxgarbodor25
 TEXT: <b>Termasuk:</b>
@@ -125404,7 +125574,7 @@ RESOURCE ID: tips_friends_tutorial_add_title
 TEXT: Tambahkan Teman
 
 RESOURCE ID: tips_friends_tutorial_add_body
-TEXT: Tambahkan teman dengan kode Pelatih atau memindai Kode QR. Kamu juga bisa menambahkan teman dengan menautkan akunmu ke Facebook di layar Tambahkan Teman.
+TEXT: Tambahkan teman dengan kode Pelatih atau memindai Kode QR. Menambahkan teman di Pokémon GO juga akan menambahkan mereka semua ke game Scopely Explore lain yang juga kalian mainkan. Kamu juga bisa menambahkan teman dengan menautkan akunmu ke Facebook di layar Tambahkan Teman.
 
 RESOURCE ID: tips_friends_tutorial_battle_title
 TEXT: Bertarung dengan Teman
@@ -128831,6 +129001,9 @@ TEXT: Penelitian Partner: FamilyMart (7/8)
 RESOURCE ID: tr_partner_familymart_april2026_header_7
 TEXT: Penelitian Partner: FamilyMart (8/8)
 
+RESOURCE ID: tr_partner_familymart_sep2026_badge0233
+TEXT: Penelitian Partner – Jejak Senja: FamilyMart
+
 RESOURCE ID: tr_partner_softbank_june2026
 TEXT: Penelitian Partner: SoftBank
 
@@ -130816,7 +130989,7 @@ RESOURCE ID: unfriend_niantic_friend_title
 TEXT: Yaking ingin menghapus pertemanan dengan {0}?
 
 RESOURCE ID: unfriend_niantic_friend_tip
-TEXT: Jika menghapus teman ini di game ini, kamu akan menghapusnya sebagai teman di semua game Niantic yang kalian berdua mainkan.
+TEXT: Jika menghapus teman ini di game ini, kamu akan menghapusnya sebagai teman di semua game Scopely Explore yang kalian berdua mainkan.
 
 RESOURCE ID: unified_punishment_acknowledgement_button
 TEXT: OKE
@@ -130879,7 +131052,7 @@ Akun ini sedang digunakan pada sesi game aktif.
 RESOURCE ID: unlink_account_failed_login_not_removable
 TEXT: <size=36><b>Tidak dapat menghapus tautan akun ini!</b></size>
 
-Kemungkinan akun ini juga telah ditautkan dengan produk Niantic lainnya. Mohon tambahkan metode login lainnya untuk melepas tautan ini.
+Kemungkinan akun ini juga telah ditautkan dengan produk Scopely Explore lainnya. Mohon tambahkan metode login lainnya untuk melepas tautan ini.
 
 RESOURCE ID: unlock_max_move_plural
 TEXT: Buka {0} Jurus Max
@@ -131413,7 +131586,7 @@ RESOURCE ID: verbose_logs_info_title
 TEXT: Bantu Perbaiki Pokémon GO!
 
 RESOURCE ID: verbose_logs_info_body
-TEXT: Catatan permainan berisi informasi berharga yang dapat membantu Niantic meningkatkan aspek tertentu dari Pokémon GO. Jika mengizinkan catatan permainan disimpan, kamu dapat mengunggahnya dan membagikannya dengan Niantic.
+TEXT: Catatan permainan berisi informasi berharga yang dapat membantu Scopely Explore meningkatkan aspek tertentu dari Pokémon GO. Jika mengizinkan catatan permainan disimpan, kamu dapat mengunggahnya dan membagikannya dengan Scopely Explore.
 
 Catatan setiap aktivitas permainan disimpan selama 24 jam atau sampai kamu berpartisipasi lagi dalam aktivitas tersebut. Kamu dapat mengunggah catatan permainan kapan saja di menu Pengaturan.
 
@@ -131547,7 +131720,7 @@ RESOURCE ID: vps_download_prompt_continue
 TEXT: Ayo Mulai!
 
 RESOURCE ID: vps_download_prompt_legal_tos_description
-TEXT: Harap aktifkan Niantic AR untuk menikmati fitur ini. Niantic akan memproses data geospasial dari kamera selama sesi AR. {0}
+TEXT: Harap aktifkan Scopely Explore AR untuk menikmati fitur ini. Scopely Explore akan memproses data geospasial dari kamera selama sesi AR. {0}
 
 RESOURCE ID: vps_guardian_oob_toast
 TEXT: Kamu berada di luar Arena Bermain Pokémon. Masuklah ke dalam lingkup arena untuk menempatkan Pokémon.
@@ -131814,13 +131987,13 @@ RESOURCE ID: waina_24_tr_title_1
 TEXT: Penelitian Berwaktu: Pokémon Sleep (2/2)
 
 RESOURCE ID: waina_confirm_unpair
-TEXT: Hapus tautan dengan Pokemon GO Plus+?
+TEXT: Lepas tautan dengan Pokemon GO Plus +?
 
 RESOURCE ID: waina_confirm_unpair_description
 TEXT: Semua Data Tidur yang tersimpan di Pokémon GO Plus+ akan dihapuskan pada penautan berikutnya.
 
 RESOURCE ID: waina_failed_unpair
-TEXT: Penghapusan tautan perangkat gagal.
+TEXT: Pelepasan tautan gagal.
 
 RESOURCE ID: waina_reward_time_change_warning
 TEXT: Yakin ingin mengganti jam perolehan hadiah?
@@ -131997,10 +132170,10 @@ RESOURCE ID: wayfarer_bonus_title_02
 TEXT: Bonus Penelitian Berwaktu Wayfarer (2/2)
 
 RESOURCE ID: wayfarer_eligible_title
-TEXT: Dapat mengikuti Niantic Wayfarer!
+TEXT: Dapat mengikuti Scopely Explore Wayfarer!
 
 RESOURCE ID: wayfarer_eligible_body
-TEXT: Selamat! Kamu memenuhi syarat untuk mengikuti Niantic Wayfarer, sebuah program di mana kamu dapat menyumbangkan informasi tentang tempat unik di sekitarmu untuk meningkatkan permainan Niantic. Selesaikan tutorial Wayfarer untuk membuka fitur nominasi dan edit PokéStop.
+TEXT: Selamat! Kamu memenuhi syarat untuk mengikuti Scopely Explore Wayfarer, sebuah program di mana kamu dapat menyumbangkan informasi tentang tempat unik di sekitarmu untuk meningkatkan permainan Scopely Explore. Selesaikan tutorial Wayfarer untuk membuka fitur nominasi dan edit PokéStop.
 
 RESOURCE ID: wayfarer_eligible_goto
 TEXT: KUNJUNGI WAYFARER

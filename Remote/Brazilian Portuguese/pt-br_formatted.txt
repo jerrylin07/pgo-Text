@@ -269,7 +269,7 @@ RESOURCE ID: abi_new_player_onboarding_list_header
 TEXT: Envie pedidos de amizade para Treinadores na sua lista de contatos! Com amigos, você pode...
 
 RESOURCE ID: abi_new_player_onboarding_opt_in_info
-TEXT: Isto pode ser desativado a qualquer momento no menu de configurações de conta social da Niantic.
+TEXT: Isto pode ser desativado a qualquer momento no menu de configurações de conta social da Scopely Explore.
 
 RESOURCE ID: abi_new_player_onboarding_opt_in_check_box
 TEXT: Permitir que outras pessoas me enviem pedidos de amizade se eu estiver em sua lista de contatos.
@@ -284,7 +284,7 @@ RESOURCE ID: about_screen_btn
 TEXT: Sobre
 
 RESOURCE ID: about_screen_copyright1
-TEXT: ©2016-2017 Niantic, Inc.
+TEXT: ©2016-2017 Scopely Explore, Inc.
 
 RESOURCE ID: about_screen_copyright2
 TEXT: ©2016-2017 Pokémon.
@@ -422,13 +422,13 @@ RESOURCE ID: add_friend_confirmation_title
 TEXT: Enviar um pedido de amizade para {0}?
 
 RESOURCE ID: add_friends_niantic_title
-TEXT: Friend in Niantic Games
+TEXT: Amigos em jogos da Scopely Explore
 
 RESOURCE ID: add_friends_privacy_prompt
 TEXT: Os amigos poderão ver o seu perfil de Treinador, conquistas e seus últimos Pokémon pegos. Eles também poderão obter informações sobre a sua localidade ao receber presentes ou trocar Pokémon com você.
 
 RESOURCE ID: add_niantic_friend_tip
-TEXT: Ao adicionar amigos neste jogo, eles se tornarão amigos em todos os jogos da Niantic que vocês jogarem.
+TEXT: Ao adicionar amigos neste jogo, eles se tornarão amigos em todos os jogos da Scopely Explore que vocês jogarem.
 
 RESOURCE ID: add_referrer_disabled
 TEXT: Não foi possível estabelecer uma conexão.
@@ -1248,6 +1248,9 @@ TEXT: Apple Watch enabled!
 
 RESOURCE ID: applewatch_enable_modal_success_message
 TEXT: Success! Open the Apple Watch app to start a session.
+
+RESOURCE ID: applin_apple_drop_bonus
+TEXT: Applin selvagens terão uma chance maior de estarem carregando Maçãs Azedas, Maçãs Doces ou Maçãs Xaropentas
 
 RESOURCE ID: appraisal_filter_group_key
 TEXT: Avaliação
@@ -2070,7 +2073,7 @@ RESOURCE ID: ardk_download_confirm_title
 TEXT: Aventura de Companheiros (teste)
 
 RESOURCE ID: ardk_download_confirm_body
-TEXT: Para desfrutar de todos os recursos da função de RA de companheiros, baixe a Niantic AR Platform (você pode desativar esta versão de teste a qualquer momento).
+TEXT: Para desfrutar de todos os recursos da função de RA de companheiros, baixe a Scopely Explore AR Platform (você pode desativar esta versão de teste a qualquer momento).
 
 RESOURCE ID: ardk_download_confirm_size
 TEXT: Tamanho do download: {0} MB
@@ -2079,7 +2082,7 @@ RESOURCE ID: ardk_download_progress_format
 TEXT: {0}/{1} MB
 
 RESOURCE ID: ardk_download_prompt_downloading
-TEXT: Baixando a Niantic AR Platform para habilitar as experiências de RA...
+TEXT: Baixando a Scopely Explore AR Platform para habilitar as experiências de RA...
 
 RESOURCE ID: ardk_download_prompt_dowload_progress
 TEXT: {0}/{1} MB
@@ -2092,7 +2095,7 @@ TEXT: Sucesso!
 Boas vindas à experiência de RA em grupo!
 
 RESOURCE ID: ardk_download_prompt_multiplayer_legal_tos_description
-TEXT: Niantic will process geospatial data from your camera during your AR session. {0}.
+TEXT: A Scopely Explore processará dados geográficos capturados pela sua câmera durante sua sessão de RA. {0}.
 
 RESOURCE ID: ardk_download_prompt_multiplayer_legal_tos_link_text
 TEXT: Saiba mais
@@ -2104,7 +2107,7 @@ RESOURCE ID: ardk_download_prompt_retry_header
 TEXT: Houve um erro!
 
 RESOURCE ID: ardk_download_prompt_success_body
-TEXT: Download da Niantic AR Platform completo
+TEXT: Download da Scopely Explore AR Platform completo
 
 RESOURCE ID: ardk_download_prompt_success_header
 TEXT: Sucesso!
@@ -2114,10 +2117,10 @@ RESOURCE ID: ardk_download_prompt_title_dbow
 TEXT: Para desfrutar da experiência de RA com outras pessoas, é necessário baixar um conteúdo adicional.
 
 RESOURCE ID: ardk_download_prompt_title_monodepth
-TEXT: Para usufruir de uma experiência de RA mais imersiva, será preciso baixar o pacote da Niantic AR.
+TEXT: Para usufruir de uma experiência de RA mais imersiva, será preciso baixar o pacote da Scopely Explore AR.
 
 RESOURCE ID: ardk_update_confirm_title
-TEXT: Atualização da Niantic AR Platform
+TEXT: Atualização da Scopely Explore AR Platform
 
 RESOURCE ID: ardk_update_confirm_body
 TEXT: Baixe para obter a melhor experiência de RA.
@@ -18374,7 +18377,7 @@ RESOURCE ID: bidoof_day_event
 TEXT: Dia de Bidoof
 
 RESOURCE ID: blacklisted_app_found_lockout
-TEXT: Detectamos um software que pode interferir com a operação do Pokémon GO no seu dispositivo. Isso inclui aplicativos que falsificam sua localização. O uso de software não autorizado que afeta diretamente o Pokémon GO é uma violação dos Termos de Serviço da Niantic e pode resultar na perda de sua conta. Você precisará desinstalar esses aplicativos para continuar jogando.
+TEXT: Detectamos um software que pode interferir com a operação do Pokémon GO no seu dispositivo. Isso inclui aplicativos que falsificam sua localização. O uso de software não autorizado que afeta diretamente o Pokémon GO é uma violação dos Termos de Serviço da Scopely Explore e pode resultar na perda de sua conta. Você precisará desinstalar esses aplicativos para continuar jogando.
 
 RESOURCE ID: blanche_inspire#1
 TEXT: Não desista.
@@ -21966,16 +21969,16 @@ RESOURCE ID: buddy_monodepth_flag
 TEXT: Versão de teste
 
 RESOURCE ID: buddy_monodepth_modal_title
-TEXT: Desativar a Niantic AR Platform (versão de teste)?
+TEXT: Desativar a Scopely Explore AR Platform (versão de teste)?
 
 RESOURCE ID: buddy_monodepth_modal_message
-TEXT: Quer desativar a Niantic AR Platform (versão de teste)? Você pode ativar ou desativar a versão de teste a qualquer momento nas Configurações.
+TEXT: Quer desativar a Scopely Explore AR Platform (versão de teste)? Você pode ativar ou desativar a versão de teste a qualquer momento nas Configurações.
 
 RESOURCE ID: buddy_monodepth_modal_continue_button
 TEXT: CONTINUAR USANDO
 
 RESOURCE ID: buddy_monodepth_modal_turn_off_button
-TEXT: Desativar a Niantic AR Platform (versão de teste)
+TEXT: Desativar a Scopely Explore AR Platform (versão de teste)
 
 RESOURCE ID: buddy_multilplayer_qr_display_header
 TEXT: Código QR de grupo de companheiros
@@ -25735,6 +25738,9 @@ TEXT: 繁體中文
 RESOURCE ID: choose_event_variant_failed
 TEXT: Ocorreu um erro ao escolher a versão do evento. Tente novamente mais tarde.
 
+RESOURCE ID: cinderace_gmax_tr_2026_title
+TEXT: Pesquisa Temporária Premium de Cinderace Gigamax
+
 RESOURCE ID: city_accra
 TEXT: Acra
 
@@ -29442,7 +29448,7 @@ RESOURCE ID: combat_choose_next_pokemon
 TEXT: Swap in a new Pokémon?
 
 RESOURCE ID: combat_choose_pokemon_scaled
-TEXT: Some Pokémon’s CP has been adjusted for this league.
+TEXT: A Pokémon’s CP has been adjusted for this league.
 
 RESOURCE ID: combat_choosing_their_team
 TEXT: is choosing their team!
@@ -29859,7 +29865,7 @@ RESOURCE ID: combat_lets_not_battle
 TEXT: NOT YET
 
 RESOURCE ID: combat_log_upload_complete_modal_body
-TEXT: Agradecemos por compartilhar seus registros de jogo com a Niantic. Esses dados nos ajudarão a melhorar o Pokémon GO.
+TEXT: Agradecemos por compartilhar seus registros de jogo com a Scopely Explore. Esses dados nos ajudarão a melhorar o Pokémon GO.
 
 Para assistência adicional, entre em contato com o suporte e mencione seus registros de jogo que fez upload.
 
@@ -29867,7 +29873,7 @@ RESOURCE ID: combat_log_upload_modal_title
 TEXT: Fazer upload de registros de jogo
 
 RESOURCE ID: combat_log_upload_modal_body
-TEXT: Se você teve problemas durante sua última Batalha de Treinador, considere fazer upload de seus registros de jogo por meio do recurso Registros de jogo para compartilhá-los com a Niantic.
+TEXT: Se você teve problemas durante sua última Batalha de Treinador, considere fazer upload de seus registros de jogo por meio do recurso Registros de jogo para compartilhá-los com a Scopely Explore.
 
 RESOURCE ID: combat_log_upload_modal_complete_title
 TEXT: Upload concluído!
@@ -30167,6 +30173,18 @@ TEXT: ULTRA
 
 RESOURCE ID: combat_use_this_party
 TEXT: USE ESTA EQUIPE
+
+RESOURCE ID: comic_con_malaga_2026_title
+TEXT: Pokémon GO: San Diego Comic-Con Málaga
+
+RESOURCE ID: comic_con_malaga_2026_tr_title
+TEXT: Pesquisa Temporária da San Diego Comic-Con Málaga
+
+RESOURCE ID: comic_con_malaga_2026_tr_01
+TEXT: Pesquisa Temporária da San Diego Comic-Con Málaga (1/2)
+
+RESOURCE ID: comic_con_malaga_2026_tr_02
+TEXT: Pesquisa Temporária da San Diego Comic-Con Málaga (2/2)
 
 RESOURCE ID: community_ambassador_tr_title
 TEXT: Pesquisa temporária bônus de Embaixadores da Comunidade
@@ -31610,11 +31628,20 @@ TEXT: Para mais informações, visite o <a href="https://pokemongo.com/news/flyi
 RESOURCE ID: details_link_key_flying_taxi_taken_over
 TEXT: Para mais informações, visite o <a href="https://pokemongo.com/news/flying-taxi-taken-over-2026">site</a>.
 
+RESOURCE ID: details_link_key_gmax_cinderace
+TEXT: Para mais informações, visite o <a href="https://pokemongo.com/news/gigantamax-cinderace-max-battle-day-2026">site</a>.
+
 RESOURCE ID: details_link_key_gmax_rillaboom
 TEXT: Para mais informações, visite o <a href="https://pokemongo.com/news/gigantamax-rillaboom-max-battle-day-2026">site</a>.
 
 RESOURCE ID: details_link_key_gmax_pikachu_max_battle
 TEXT: Para mais informações, visite o <<a href="https://pokemongo.com/news/gigantamax-pikachu-max-battle-day-2026">site</a>.
+
+RESOURCE ID: details_link_key_harvest_festival
+TEXT: Para mais informações, visite o <a href="https://pokemongo.com/news/harvest-festival-2026">site</a>.
+
+RESOURCE ID: details_link_key_harvest_festival_taken_over
+TEXT: Para mais informações, visite o <a href="https://pokemongo.com/news/harvest-festival-taken-over-2026">site</a>.
 
 RESOURCE ID: details_link_key_lunar_new_year_feb2026
 TEXT: Para mais informações, visite o <a href="https://pokemongo.com/news/lunar-new-year-event-2026">site</a>.
@@ -32658,6 +32685,21 @@ TEXT: Treinar como Cliff
 RESOURCE ID: em_hawlucha_2025_tr_path_b_desc
 TEXT: Escolha este caminho para encontros com Machop, Croagunk e Timburr, além de receber recompensas como 1 MT de Ataque Carregado e 1 MT de Ataque Ágil.
 
+RESOURCE ID: em_hawlucha_2026_tr_dialog_00
+TEXT: Olá, %PLAYERNAME%! É hora de escolher um caminho. Você vai treinar com a precisão calculada de Arlo ou com a energia incendiária de Candela?
+
+RESOURCE ID: em_hawlucha_2026_tr_path_a
+TEXT: Treine como Candela
+
+RESOURCE ID: em_hawlucha_2026_tr_path_a_desc
+TEXT: Escolha este caminho para encontros com Rapidash, Torchic e Chimchar, além de recompensas, como Incenso e adesivos.
+
+RESOURCE ID: em_hawlucha_2026_tr_path_b
+TEXT: Treine como Arlo
+
+RESOURCE ID: em_hawlucha_2026_tr_path_b_desc
+TEXT: Escolha este caminho para encontros com Mankey, Scizor e Sneasel de Hisui, além de recompensas, como Incenso e adesivos.
+
 RESOURCE ID: em_holi_2025_event_title
 TEXT: Camiseta do Festival das Cores 2025
 
@@ -33588,6 +33630,9 @@ Até 20 de agosto, às 20h
 
 RESOURCE ID: event_datetime_range_key_gmaxbutterfree25
 TEXT: 3 de agosto, das 14h às 17h
+
+RESOURCE ID: event_datetime_range_key_gmaxcinderace26
+TEXT: 3 de outubro, das 14h às 17h
 
 RESOURCE ID: event_datetime_range_key_gmaxgarbodor25
 TEXT: 1º de novembro, das 14h às 17h
@@ -36244,7 +36289,7 @@ RESOURCE ID: fb_invite_import_friends_title
 TEXT: Import friends from Facebook?
 
 RESOURCE ID: fb_invite_import_friends_info
-TEXT: If you choose to import Facebook Friends into Pokémon GO, Niantic will only show you friends who are already on Pokémon GO and have also chosen to import Facebook Friends. Niantic will have limited access to your Facebook profile name, friends list, and photo. You can always change your mind and unfriend someone within the Friends menu or edit your app permissions withinFacebook.For more information visit the <a href="help_center_link">Help Center</a>.
+TEXT: Se optar por importar amigos do Facebook ao Pokémon GO, a Scopely Explore só mostrará os amigos que já estejam no Pokémon GO e que também já tenham decidido importar amigos do Facebook. A Scopely Explore terá acesso limitado ao teu nome, lista de amigos e fotos do seu perfil no Facebook. Você sempre poderá mudar de opinião e remover alguém da sua lista de amigos no menu de amigos ou edite suas permissões do aplicativo dentro do Facebook.  Para obter maiores informações, visite a <a href="help_center_link">Central de ajuda</a>.
 
 RESOURCE ID: fb_invite_initial_adoption_message_logged_in_with_fb
 TEXT: Some of your Facebook Friends may be playing Pokémon GO! Add them to send Gifts, trade Pokémon, and more!
@@ -38764,7 +38809,7 @@ TEXT: Entrou em uma
 batalha <b>{0}</b>
 
 RESOURCE ID: friend_niantic_game_preview_list_title
-TEXT: Outros jogos da Niantic para compartilhar
+TEXT: Outros jogos da Scopely Explore para compartilhar
 
 RESOURCE ID: friend_opened_your_gift
 TEXT: {0} recebeu {1} itens do seu presente!
@@ -38804,7 +38849,7 @@ TEXT: {0} enviou um presente para você!
 
 RESOURCE ID: friend_sort_online_not_available_body
 TEXT: <b>Esta ordenação só pode ser usada quando você estiver online. Você pode ativar seu status online agora ou mais tarde usando o botão de alternância Online/Offline.</b>
-<size=24>Ativar o status online o ativará para todos os jogos da Niantic que você jogar.</size>
+<size=24>Ativar o status online o ativará para todos os jogos da Scopely Explore que você jogar.</size>
 
 RESOURCE ID: friend_sort_online_not_available_header
 TEXT: Alternância rápida do status de conexão
@@ -39032,7 +39077,7 @@ RESOURCE ID: friendslist_sort_raid
 TEXT: EM UM REIDE ({0})
 
 RESOURCE ID: friendslist_sort_online_unavailable
-TEXT: Não é possível filtrar amigos pelo status online se não estiver usando o Niantic Online.
+TEXT: Não é possível filtrar amigos pelo status online se não estiver usando o Scopely Explore Online.
 
 RESOURCE ID: frigibax_cd_website_link
 TEXT: Para mais informações, visite o <a href="https://pokemongo.com/news/communityday-june-2026-frigibax">site</a>.
@@ -40503,6 +40548,9 @@ TEXT: Pokémon GO Tour: Johto
 
 RESOURCE ID: general1.ticket.4_finalstrike0525_title
 TEXT: Ingresso para a Pesquisa Temporária Premium de Ataque Decisivo: Semana de Batalhas GO
+
+RESOURCE ID: general1.ticket.4_gmaxcinderace26_title
+TEXT: Ingresso para o Dia de Batalhas Max: Cinderace Gigamax
 
 RESOURCE ID: general1.ticket.4_gmaxmeowth26_title
 TEXT: Ingresso para o Dia de Batalhas Max: Meowth Gigamax
@@ -42307,6 +42355,9 @@ TEXT: Pesquisa Temporária de Aquecimento para o Dia de Batalhas Max: Butterfree
 
 RESOURCE ID: gmax_butterfree_max_battles
 TEXT: Butterfree Gigamax está aparecendo em Batalhas Max
+
+RESOURCE ID: gmax_cinderace_max_battles
+TEXT: Cinderace Gigamax está aparecendo em Batalhas Max
 
 RESOURCE ID: gmax_garbodor_lead_up_timed_research
 TEXT: Pesquisa Temporária de Aquecimento para o Dia de Batalhas Max: Garbodor Gigamax
@@ -51550,6 +51601,12 @@ TEXT: Desafio de Coleção de Campo das Abóboras
 RESOURCE ID: harvest_festival_oct2025_smoliv_cc
 TEXT: Desafio de Coleção de Plantação de Oliveiras
 
+RESOURCE ID: harvest_festival_s24_event_name
+TEXT: Festival da Colheita: Pomar de Applin
+
+RESOURCE ID: harvest_festival_taken_over_event_name
+TEXT: Festival da Colheita: A Invasão
+
 RESOURCE ID: harvest_festival_tr_name
 TEXT: Pesquisa Temporária Premium do Festival da Colheita
 
@@ -55061,6 +55118,12 @@ TEXT: An extra event ticket from a purchase error. You can send it to a friend o
 RESOURCE ID: item_event_ticket_pink_to_gift_name
 TEXT: Ingresso extra
 
+RESOURCE ID: item_event_ticket_s24_oct_3_maxbattle_desc_gmaxcinderace26
+TEXT: Um ingresso para acessar bônus especiais em 3 de outubro de 2026, das 14h às 17h do seu horário local, de onde você estiver.
+
+RESOURCE ID: item_event_ticket_s24_oct_3_maxbattle_details_gmaxcinderace26
+TEXT: Este ingresso será ativado automaticamente para lhe garantir acesso a bônus especiais em 3 de outubro, de onde você estiver.
+
 RESOURCE ID: item_event_ticket_to_gift_desc
 TEXT: Um ingresso de evento extra recebido após um erro ocorrido ao efetuar a compra. Você pode enviá-lo a um amigo ou pedir o reembolso.
 
@@ -56734,13 +56797,13 @@ RESOURCE ID: kr_hanbok_pikachu_picnic_2026_tr_name_3
 TEXT: Pesquisa Temporária de Pikachu Curtir o Dia na Coreia 2026 (3/3)
 
 RESOURCE ID: kr_hangul_day_2026_title
-TEXT: 2026 Hangul Day
+TEXT: Hangul Day 2026
 
 RESOURCE ID: kr_hangul_day_2026_bonus_desc
 TEXT: Celebrate Hangul Day with event-themed Pokémon appearing in the wild! Use Incense or Lure Modules to encounter special Pokémon.
 
 RESOURCE ID: kr_hangul_day_sep2026_cc_title
-TEXT: 2026 Hangul Day Collection Challenge
+TEXT: Hangul Day 2026 Collection Challenge
 
 RESOURCE ID: kr_lantern_festival_2025_massive_bonus_title
 TEXT: É Hora de Magikarp!
@@ -56998,7 +57061,7 @@ RESOURCE ID: last_played_yesterday
 TEXT: Última vez que jogou: ontem
 
 RESOURCE ID: last_played_date_setting_description
-TEXT: Permitir que amigos vejam informações sobre a última vez que joguei jogos da Niantic.
+TEXT: Permitir que amigos vejam informações sobre a última vez que joguei um jogo da Scopely Explore.
 
 RESOURCE ID: last_played_two_plus_days_ago
 TEXT: Última vez que jogou: 2+ dias atrás
@@ -59610,7 +59673,7 @@ RESOURCE ID: log_verbose_raid_modal_desc_cache
 TEXT: Os dados de um Reide serão armazenados por 24 horas ou até seu próximo Reide, e você poderá fazer o upload dos dados a qualquer momento antes disso no menu de configurações.
 
 RESOURCE ID: log_verbose_raid_modal_desc_info
-TEXT: Com o recurso Registro de Reide, você pode fazer upload de dados de Reides das quais participou, o que ajudará a Niantic a melhorar os próximos Reides.
+TEXT: Com o recurso Registro de Reide, você pode fazer upload de dados de Reides das quais participou, o que ajudará a Scopely Explore a melhorar os próximos Reides.
 
 RESOURCE ID: log_verbose_raid_modal_desc_url_link
 TEXT: visite este site.
@@ -60560,7 +60623,7 @@ RESOURCE ID: marketing_email_opt_in_toggle
 TEXT: Quero receber e-mails
 
 RESOURCE ID: marketing_notification_opt_in_title
-TEXT: A Niantic gostaria de lhe enviar notificações sobre eventos, ofertas e atualizações.
+TEXT: A Scopely Explore gostaria de lhe enviar notificações sobre eventos, ofertas e atualizações.
 
 RESOURCE ID: marketing_notification_opt_in_message
 TEXT: As notificações podem incluir alertas, sons e selos no ícone. Isso pode ser alterado nas suas configurações.
@@ -61287,6 +61350,12 @@ TEXT: Bônus do Ingresso do Evento Especial de Batalhas Max de Snorlax Gigamax
 
 RESOURCE ID: max_battle_day_gigantamax_snorlax_special_event_name
 TEXT: Evento Especial de Batalhas Max de Snorlax Gigamax
+
+RESOURCE ID: max_battle_day_gmax_cinderace_ticketed
+TEXT: Bônus do Ingresso do Dia de Batalhas Max: Cinderace Gigamax
+
+RESOURCE ID: max_battle_day_gmax_cinderace_event_name
+TEXT: Dia de Batalhas Max: Cinderace Gigamax
 
 RESOURCE ID: max_battle_day_gmax_meowth_ticketed
 TEXT: Bônus do Ingresso do Dia de Batalhas Max: Meowth Gigamax
@@ -62218,10 +62287,10 @@ at SHA 4d4f3e80cc7fb911006bd14d198c9831ef66d005
 Pipeline 339838, job 2672172
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-09-09T21:50:37.113604+00:00 for pt-BR
-at SHA 83a400d168f
-Pipeline 3932304, job 57870598
-Patch from: 0.427.98-SHA-5e44928a-RC1, 0.429.0-SHA-d6c796f0-RC1, 0.427.1-SHA-4a569ba7-RC1
+TEXT: Built at 2026-09-11T20:57:11.794309+00:00 for pt-BR
+at SHA 9f591d8678c
+Pipeline 3938550, job 57981687
+Patch from: 0.429.0-SHA-de304d2a-RC2, 0.427.0-SHA-fc729f25-RC2, 0.427.1-SHA-4a569ba7-RC1
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: Pesquisa temporária: Escolha o seu tipo de lutador
@@ -62473,10 +62542,10 @@ RESOURCE ID: monochrome_holiday_tr_name_2
 TEXT: Pesquisa Temporária Premium de Contando Ovelhinhas (2/2)
 
 RESOURCE ID: monodepth_ar_plus_required_toast
-TEXT: Ative a função de RA da Niantic para usar a função de oclusão.
+TEXT: Ative a função de RA da Scopely Explore para usar a realidade combinada.
 
 RESOURCE ID: monodepth_ar_plus_toggle_warning
-TEXT: Se você desativar a função de RA da Niantic, a função de oclusão também será desativada.
+TEXT: Se você desativar a função de RA da Scopely Explore, a realidade combinada também será desativada.
 
 RESOURCE ID: monodepth_download_prompt_success_message
 TEXT: Agora você poderá usufruir de uma experiência de RA mais imersiva com seus Pokémon!
@@ -62531,6 +62600,9 @@ TEXT: Montanhas do poder
 
 RESOURCE ID: more_power_spots_active
 TEXT: Pontos de Energia adicionais ativos
+
+RESOURCE ID: mossy_lure_duration_double
+TEXT: 1 hora de duração do Módulo Atrair Musgoso
 
 RESOURCE ID: motor_accessibility_settings_title
 TEXT: Acessibilidade motora
@@ -67493,16 +67565,16 @@ RESOURCE ID: next_set_coming_on
 TEXT: Next coming on {0}!
 
 RESOURCE ID: niantic_anniversary_event
-TEXT: Evento de aniversário da Niantic
+TEXT: Evento de aniversário da Scopely Explore
 
 RESOURCE ID: niantic_game_preview_list_title
-TEXT: Outros jogos da Niantic para experimentar
+TEXT: Outros jogos da Scopely Explore para experimentar
 
 RESOURCE ID: niantic_profile_privacy_settings_title
 TEXT: Configurações de privacidade
 
 RESOURCE ID: niantic_social_overview_desc
-TEXT: New social features have arrived! With Niantic Social, you can now do the following:
+TEXT: O Scopely Explore Social chegou! Com esse novo recurso social, agora você pode fazer o seguinte.
 
 RESOURCE ID: nickit_website_link
 TEXT: Para mais informações, visite o <a href="https://pokemongo.com/news/communityday-august-2026-nickit">site</a>.
@@ -68636,7 +68708,7 @@ RESOURCE ID: party_play_code_invalid
 TEXT: Não foi possível encontrar o grupo.
 
 RESOURCE ID: party_play_code_of_conduct_body
-TEXT: Confira o Código de Conduta da Niantic para orientações de como jogar com segurança e respeitosamente.
+TEXT: Confira o Código de Conduta da Scopely Explore para orientações de como jogar com segurança e respeitosamente.
 
 RESOURCE ID: party_play_code_of_conduct_button
 TEXT: Código de Conduta
@@ -70106,7 +70178,7 @@ RESOURCE ID: poi_contrib_failed_error
 TEXT: Falha no envio. Por favor, tente novamente.
 
 RESOURCE ID: poi_contrib_ghostinfo_label
-TEXT: Wayspot usado em outros jogos da Niantic
+TEXT: Wayspot usado em outros jogos da Scopely Explore
 
 RESOURCE ID: poi_contrib_identical_desc_error
 TEXT: Descrição idêntica. Sugira uma descrição diferente.
@@ -70331,7 +70403,7 @@ RESOURCE ID: poi_contrib_tutorial_dupe_title
 TEXT: Buscar por duplicados
 
 RESOURCE ID: poi_contrib_tutorial_dupe_body
-TEXT: Um ícone azul indica um Wayspot válido que é usado no Pokémon GO. Um ícone laranja indica um Wayspot válido que é usado em outros jogos da Niantic. Ao submeter uma nova proposta de Poképarada, evite enviar de novo qualquer tipo de Wayspot já existente.
+TEXT: Um ícone azul indica um Wayspot válido que é usado no Pokémon GO. Um ícone laranja indica um Wayspot válido que é usado em outros jogos da Scopely Explore. Ao submeter uma nova proposta de Poképarada, evite enviar de novo qualquer tipo de Wayspot já existente.
 
 RESOURCE ID: poi_contrib_unavailable_disabled
 TEXT: Este recurso está indisponível no momento.
@@ -70711,7 +70783,7 @@ RESOURCE ID: poi_sub_tut_desc_1
 TEXT: A Poképarada é um local no jogo que encoraja Treinadores a saírem de casa para descobrirem novos lugares e se conectarem com pessoas da sua comunidade. As Poképaradas geralmente têm precedente histórico, valor educacional, podem ser uma obra de arte ou uma joia escondida que só os moradores do local conhecem.
 
 RESOURCE ID: poi_sub_tut_desc_2
-TEXT: Envie um nome, descrição e foto do local que escolheu. Sua Poképarada será revisada por outros jogadores da Niantic, então seja minucioso e preciso!
+TEXT: Envie um nome, descrição e foto do local que escolheu. Sua Poképarada será revisada por outros jogadores da Scopely Explore, então seja minucioso e preciso!
 
 RESOURCE ID: poi_sub_tut_desc_3
 TEXT: As Poképaradas devem ter valor educacional e cultural e devem estar localizadas em lugares seguros e acessíveis a pedestres. Evite inscrever lugares que sejam residências particulares, lugares sazonais ou não permanentes, ou locais que possam interferir com veículos de serviços de emergência.
@@ -83549,7 +83621,7 @@ RESOURCE ID: privacy_policy_short_button
 TEXT: Privacidade
 
 RESOURCE ID: privacy_policy_update_notice
-TEXT: A Política de privacidade da Niantic foi atualizada. Revise a nossa política para obter informações adicionais sobre os novos recursos do produto e saber como processamos informações pessoais.
+TEXT: A Política de privacidade da Scopely Explore foi atualizada. Revise a nossa política para obter informações adicionais sobre os novos recursos do produto e saber como processamos informações pessoais.
 
 RESOURCE ID: private_group_title
 TEXT: Private Group
@@ -83996,6 +84068,9 @@ TEXT: Evoluir {0} Geodude de Alola.
 
 RESOURCE ID: quest_alodude_evolve_b
 TEXT: Evoluir {0} Graveler de Alola.
+
+RESOURCE ID: quest_applin_catch_singular
+TEXT: Pegar 1 Applin.
 
 RESOURCE ID: quest_appraise_pokemon_plural
 TEXT: Avaliar {0} Pokémon.
@@ -113038,9 +113113,9 @@ Marcadores devem ser posicionados:
 2. A pelo menos {1} metros de distância de outros marcadores.
 
 RESOURCE ID: route_creation_onboarding_page_4
-TEXT: Once your Route is submitted, it will be reviewed. If your Route is rejected, you can make changes and resubmit it. You can also reset your Route at any time and start over.
+TEXT: Rotas criadas são submetidas para a Scopely Explore para serem revisadas e aceitas. Se sua Rota for rejeitada, você pode tentar editar e resubmeter sua Rota para revisão.
 
-Let’s create your first Route!
+Agora é hora de criar sua Rota!
 
 RESOURCE ID: route_creation_pause_button
 TEXT: Pausar Rota
@@ -113278,9 +113353,9 @@ RESOURCE ID: route_enforcement_long_ban_title
 TEXT: You’ve been banned from using Pokémon GO.
 
 RESOURCE ID: route_enforcement_long_ban_description
-TEXT: Your Niantic account has been banned from Pokémon GO for {0} years due to repeated or severe violations of our Player Guidelines for Routes.
+TEXT: A sua conta da Scopely Explore foi banida do Pokémon GO por {0} anos devido a repetidas ou graves violações de nossas diretrizes para jogadores de Rotas.
 
-Further violations may result in a permanent ban.
+Mais violações podem resultar em banimento permanente.
 
 RESOURCE ID: route_enforcement_long_ban_description_b
 TEXT: Your Pokémon GO account has been banned for {0} years due to repeated or severe violations against our Player Guidelines.
@@ -113299,7 +113374,7 @@ RESOURCE ID: route_enforcement_permanent_ban_title
 TEXT: You’ve been permanently banned from using Pokémon GO.
 
 RESOURCE ID: route_enforcement_permanent_ban_description
-TEXT: Your Niantic account has been banned from Pokémon GO due to repeated or severe violations of our Player Guidelines for Routes.
+TEXT: A sua conta da Scopely Explore foi banida do Pokémon GO devido a repetidas ou graves violações de nossas diretrizes para jogadores de Rotas.
 
 RESOURCE ID: route_enforcement_permanent_ban_description_b
 TEXT: Your Pokémon GO account has been banned due to repeated or severe violations against our Player Guidelines.
@@ -113505,7 +113580,7 @@ RESOURCE ID: route_nearby_help_duration
 TEXT: Estimate time from start point to end point.
 
 RESOURCE ID: route_nearby_help_official_route
-TEXT: The route created by NIANTIC partners has this label.
+TEXT: As Rotas criadas por parceiros da Scopely Explore têm este selo.
 
 RESOURCE ID: route_nearby_help_played_time
 TEXT: Number of played time of this route.
@@ -113663,7 +113738,7 @@ RESOURCE ID: route_play_low_rating_title
 TEXT: Você teve algum problema nesta Rota?
 
 RESOURCE ID: route_play_low_rating_description
-TEXT: Se você teve um problema, você pode reportar esta Rota para que seja analisada pela Niantic.
+TEXT: Se você teve um problema, você pode reportar esta Rota para que seja analisada pela Scopely Explore.
 
 RESOURCE ID: route_play_no_routes_campfire_message
 TEXT: There are no Routes nearby. Browse Campfire to find Routes that are further away.
@@ -113940,7 +114015,7 @@ TEXT: What kind of issue happened?
 Could you describe it?
 
 RESOURCE ID: route_report_body
-TEXT: Quando você reporta uma Rota para a Niantic, nós analisamos esta Rota e tomamos as medidas apropriadas de acordo com nossas políticas. Sua identidade nunca será compartilhada com o criador da Rota. Ao enviar um relatório, você confirma que o mesmo é verdadeiro.
+TEXT: Quando você reporta uma Rota para a Scopely Explore, nós analisamos esta Rota e tomamos as medidas apropriadas de acordo com nossas políticas. Sua identidade nunca será compartilhada com o criador da Rota. Ao enviar um relatório, você confirma que o mesmo é verdadeiro.
 
 RESOURCE ID: route_report_permanent
 TEXT: Permanent issue
@@ -114284,10 +114359,10 @@ RESOURCE ID: route_submission_result_reject_description
 TEXT: Your Route was rejected because the title and/or description included inappropriate phrases or links. You will not be able to edit and resubmit this Route.
 
 RESOURCE ID: route_submission_result_reject_message_bullying
-TEXT: Niantic does not allow bullying, harassment, humiliation, or threats against anyone.
+TEXT: A Scopely Explore não tolera bullying, assédio, humilhação ou ameaça contra qualquer pessoa.
 
 RESOURCE ID: route_submission_result_reject_message_hate
-TEXT: Niantic does not allow hateful behavior, hate speech, or the promotion of hateful ideologies. This includes promoting hatred on the basis of race, ethnicity, religion, gender, or any other identity factor.
+TEXT: A Scopely Explore não tolera comportamento de ódio, discurso de ódio ou a disseminação de ideologias de ódio. Isso inclui, mas não se limita à disseminação de ódio baseado em raça, etnia, religião, gênero ou quaisquer outras identidades.
 
 RESOURCE ID: route_submission_result_reject_message_suicide
 TEXT: If you or someone you know has thoughts of suicide or self harm, help is available. See <a href="route_mental_health_resources_link">Mental Health Resources</a> for more information.
@@ -116666,8 +116741,98 @@ TEXT: Memórias em Movimento
 RESOURCE ID: season23_forever_forward
 TEXT: Sempre em Frente
 
+RESOURCE ID: season24_harvest_applin_branch_appletun_title
+TEXT: Appletun
+
+RESOURCE ID: season24_harvest_applin_branch_appletun_description
+TEXT: Escolher o caminho da Maçã Doce.
+
+RESOURCE ID: season24_harvest_applin_branch_dipplin_title
+TEXT: Dipplin
+
+RESOURCE ID: season24_harvest_applin_branch_dipplin_description
+TEXT: Escolher o caminho da Maçã Xaropenta.
+
+RESOURCE ID: season24_harvest_applin_branch_flapple_title
+TEXT: Flapple
+
+RESOURCE ID: season24_harvest_applin_branch_flapple_description
+TEXT: Escolher o caminho da Maçã Azeda.
+
+RESOURCE ID: season24_harvest_applin_tr_title
+TEXT: Pesquisa Temporária do Festival da Colheita: Pomar de Applin
+
+RESOURCE ID: season24_harvest_applin_tr_branch_prompt
+TEXT: Escolha um caminho de Evolução.
+
 RESOURCE ID: season24_twilight_trails
 TEXT: Trilhas do Entardecer
+
+RESOURCE ID: season24_twilight_trails_tr_0_0
+TEXT: %PLAYERNAME%! Você chegou na hora certa. Estava revisando umas anotações sobre um Pokémon extremamente curioso: Applin.
+
+RESOURCE ID: season24_twilight_trails_tr_0_1
+TEXT: À primeira vista, pode parecer que você está olhando para uma maçã, mas na verdade, Applin é um Pokémon que vive dentro de maçã!
+
+RESOURCE ID: season24_twilight_trails_tr_0_2
+TEXT: A maçã dá proteção, alimenta e até tem um papel no desenvolvimento de Applin.
+
+RESOURCE ID: season24_twilight_trails_tr_0_3
+TEXT: E é aqui que as coisas ficam mais interessantes: maçãs de sabores diferentes podem levar a diferentes Evoluções de Applin!
+
+RESOURCE ID: season24_twilight_trails_tr_0_4
+TEXT: Que tal escolhermos uma para estudarmos juntos? Acho que esta pesquisa vai render bons frutos!
+
+RESOURCE ID: season24_twilight_trails_tr_2_0
+TEXT: Trabalho maçã-vilhoso, Treinador! Eu diria que valeu cada gota do esforço.
+
+RESOURCE ID: season24_twilight_trails_tr_2_1
+TEXT: Graças ao seu empenho, chegamos mais perto das principais possibilidades evolutivas de Applin.
+
+RESOURCE ID: season24_twilight_trails_tr_2_2
+TEXT: Azeda, doce ou xaropenta, cada possível Evolução mostra algo novo sobre como os Pokémon se adaptam, crescem e nos surpreendem.
+
+RESOURCE ID: season24_twilight_trails_tr_2_3
+TEXT: Mas uma boa pesquisa raramente termina com uma única resposta. Na maioria das vezes, ela nos leva à próxima pergunta.
+
+RESOURCE ID: season24_twilight_trails_tr_2_4
+TEXT: Continue explorando com curiosidade, Treinador. Applin ainda pode ter algumas sementes de novas descobertas esperando por nós!
+
+RESOURCE ID: season24_twilight_trails_tr_appletun_1_0
+TEXT: Appletun? Que escolha de dar água na boca, %PLAYERNAME%!
+
+RESOURCE ID: season24_twilight_trails_tr_appletun_1_1
+TEXT: Ouvi dizer que o aroma doce exalado por Appletun atrai outros Pokémon.
+
+RESOURCE ID: season24_twilight_trails_tr_appletun_1_2
+TEXT: É um bom lembrete de que o encanto de um Pokémon pode assumir muitas formas, até a de um aroma doce como néctar!
+
+RESOURCE ID: season24_twilight_trails_tr_appletun_1_3
+TEXT: Vamos coletar algumas Maçãs Doces e saborear tudo o que aprendermos pelo caminho.
+
+RESOURCE ID: season24_twilight_trails_tr_dipplin_1_0
+TEXT: Dipplin! Que interessante. Tem mais por trás dessa Evolução do que parece.
+
+RESOURCE ID: season24_twilight_trails_tr_dipplin_1_1
+TEXT: Na verdade, dizem que Dipplin é composto por duas criaturas que vivem juntas dentro de uma Maçã Xaropenta.
+
+RESOURCE ID: season24_twilight_trails_tr_dipplin_1_2
+TEXT: Só essa característica já seria o suficiente para manter qualquer pesquisador ocupado, mas suspeito que Dipplin tem ainda mais potencial para explorarmos.
+
+RESOURCE ID: season24_twilight_trails_tr_dipplin_1_3
+TEXT: Por enquanto, vamos reunir Maçãs Xaropentas e descobrir o que essa Evolução incomum pode ensinar para gente!
+
+RESOURCE ID: season24_twilight_trails_tr_flapple_1_0
+TEXT: Flapple, hein? Escolha excelente! Nesta Evolução, a maçã desempenha um papel muito intrigante.
+
+RESOURCE ID: season24_twilight_trails_tr_flapple_1_1
+TEXT: Flapple é conhecido por usar pedaços da sua maçã como asas para voar rapidamente pelos ares. Que espertinho!
+
+RESOURCE ID: season24_twilight_trails_tr_flapple_1_2
+TEXT: É um exemplo maravilhoso de como a Evolução pode ajudar Applin a se adaptar e alcançar novos patamares.
+
+RESOURCE ID: season24_twilight_trails_tr_flapple_1_3
+TEXT: Vamos reunir algumas Maçãs Azedas para ajudar essa pesquisa a decolar!
 
 RESOURCE ID: season_gbl_forecast_title_7
 TEXT: Season of GO
@@ -117963,7 +118128,7 @@ RESOURCE ID: settings_buddy_ar
 TEXT: Companheiro de RA
 
 RESOURCE ID: settings_buddy_ar_tip
-TEXT: Brincadeiras com Companheiro com a Niantic RA
+TEXT: Brincadeiras com Companheiro com a Scopely Explore RA
 
 RESOURCE ID: settings_buddy_gained_candy
 TEXT: Doces por companheiro
@@ -118002,7 +118167,7 @@ RESOURCE ID: settings_encounter_ar
 TEXT: Encontros em RA
 
 RESOURCE ID: settings_encounter_ar_tip
-TEXT: Niantic RA para Encontros com Pokémon
+TEXT: Scopely Explore RA para Encontros com Pokémon
 
 RESOURCE ID: settings_enhanced_graphics_description
 TEXT: Efeitos, sombreamentos e texturas otimizados, o que pode afetar a vida útil da bateria.
@@ -118092,13 +118257,13 @@ RESOURCE ID: settings_nearby_raids
 TEXT: Reides por perto
 
 RESOURCE ID: settings_niantic_ar
-TEXT: Niantic RA
+TEXT: Scopely Explore RA
 
 RESOURCE ID: settings_niantic_ar_tip
 TEXT: Você pode pegar Pokémon, tirar fotos no Retrato GO e brincar com seu companheiro em RA.
 
 RESOURCE ID: settings_niantic_ar_update
-TEXT: Atualizar Niantic RA (RA+)
+TEXT: Atualizar Scopely Explore RA (RA+)
 
 RESOURCE ID: settings_niantic_ar_update_done
 TEXT: RA foi atualizada.
@@ -120177,11 +120342,11 @@ RESOURCE ID: social_online_toast
 TEXT: Compartilhando seu status online
 
 RESOURCE ID: social_online_consent_privacy
-TEXT: Ativar o compartilhamento de status online o ativará para todos os jogos da Niantic que você jogar.
+TEXT: Ativar o compartilhamento de status online o ativará para todos os jogos da Scopely Explore que você jogar.
 
 RESOURCE ID: social_online_consent_note_body
-TEXT: Seu status online pode ser visto pelos seus amigos que optaram por usar o Niantic Online.
-Você pode mudar o status a qualquer momento ao tocar no mesmo botão.
+TEXT: Seu status online pode ser visto pelos seus amigos que optaram por usar o Scopely Explore Online.
+Você pode parar de compartilhar seu status a qualquer momento ao tocar no mesmo botão.
 
 RESOURCE ID: social_online_consent_note_header
 TEXT: Você agora está online!
@@ -121172,7 +121337,7 @@ RESOURCE ID: sponsored_gift_tutorial_description_1
 TEXT: Ao explorar o mundo ao seu redor, você pode receber presentes de patrocinadores junto com uma mensagem patrocinada relevante a sua localização. Os presentes de patrocinadores agora têm um visual novo e repaginado!
 
 RESOURCE ID: sponsored_gift_tutorial_description_2
-TEXT: Como sempre, não compartilhamos suas informações pessoais com patrocinadores. Para mais informações sobre esta função, entre em contato com Niantic Support.
+TEXT: Como sempre, não compartilhamos suas informações pessoais com patrocinadores. Para mais informações sobre esta função, entre em contato com Scopely Explore Support.
 
 RESOURCE ID: sponsored_gift_tutorial_description_3
 TEXT: Você pode gerenciar Presentes de patrocinadores nas configurações. Esta opção permite que você receba Presentes de patrocinadores quando disponíveis. Isto não afeta Presentes enviados ou recebidos que foram obtidos em Poképaradas patrocinadas.
@@ -125624,10 +125789,10 @@ RESOURCE ID: switch_sleep_warning
 TEXT: Please make sure that the mobile phone is up and running while connecting to SWITCH. Mobile phones going into sleep mode may disconnect from SWITCH.
 
 RESOURCE ID: switch_to_soft_sfida_description_default
-TEXT: If you're unable to use your device but want to remain paired, you can use Explorer Gadget Instead.
+TEXT: If you’re unable to use your device but want to remain paired, you can use your Explorer Gadget instead.
 
 RESOURCE ID: switch_to_soft_sfida_title_default
-TEXT: Pause your device and switch to Explorer Gadget?
+TEXT: Pause your device and switch to your Explorer Gadget?
 
 RESOURCE ID: swsh_masterball_sr_title
 TEXT: Pesquisa Magistral: Bola Mestra
@@ -126220,6 +126385,11 @@ TEXT: <b>Inclui:</b>
 • Coleta de até 4.000 Partículas Max adicionais em Pontos de Energia e por explorar
 • 2× PE ao completar Batalhas Max com sucesso
 • Pesquisa Temporária que concede 1 Cogumelo Max e 25.000 PE
+
+RESOURCE ID: text_rewards_key_gmaxcinderace26
+TEXT: <b>Inclui:</b>
+• 2× PE de Batalhas Max
+• Pesquisa Temporária que concede 6.400 Partículas Max, 25.000 PE e 1 Cogumelo Max
 
 RESOURCE ID: text_rewards_key_gmaxgarbodor25
 TEXT: <b>Inclui:</b>
@@ -128252,7 +128422,9 @@ RESOURCE ID: tips_friends_tutorial_add_title
 TEXT: Adicionar amigos
 
 RESOURCE ID: tips_friends_tutorial_add_body
-TEXT: Adicione amigos obtendo o código de Treinador ou escaneando o código QR deles. Você também pode adicionar amigos conectando sua conta ao Facebook na tela de adicionar amigo.
+TEXT: Adicione amigos inserindo o código de Treinador ou escaneando o código QR deles. Quando adicionar um amigo no Pokémon GO, você também se conectará a essa pessoa em todos os jogos da Scopely Explore que vocês jogam.
+
+Você também pode adicionar amigos conectando sua conta ao Facebook, na tela de adicionar amigo.
 
 RESOURCE ID: tips_friends_tutorial_battle_title
 TEXT: Batalhe com amigos
@@ -131693,6 +131865,9 @@ TEXT: Pesquisa de Parceiros: FamilyMart (7/8)
 RESOURCE ID: tr_partner_familymart_april2026_header_7
 TEXT: Pesquisa de Parceiros: FamilyMart (8/8)
 
+RESOURCE ID: tr_partner_familymart_sep2026_badge0233
+TEXT: Pesquisa de Parceiros — Trilhas do Entardecer: FamilyMart
+
 RESOURCE ID: tr_partner_softbank_june2026
 TEXT: Pesquisa de Parceiros: SoftBank
 
@@ -133679,7 +133854,7 @@ RESOURCE ID: unfriend_niantic_friend_title
 TEXT: Tem certeza de que quer terminar a amizade com {0}?
 
 RESOURCE ID: unfriend_niantic_friend_tip
-TEXT: Remover essa amizade deste jogo da Niantic a removerá de todos os jogos que vocês dois jogarem.
+TEXT: Remover essa amizade deste jogo da Scopely Explore a removerá de todos os jogos que vocês dois jogarem.
 
 RESOURCE ID: unified_punishment_acknowledgement_button
 TEXT: OK
@@ -133742,7 +133917,7 @@ Esta conta está vinculada à sua sessão de jogo ativa.
 RESOURCE ID: unlink_account_failed_login_not_removable
 TEXT: <size=36><b>Não é possível desvincular esta conta!</b></size>
 
-Você pode ter vinculado esta conta com outros produtos da Niantic. Por favor, vincule outra conta para desvincular esta.
+Você pode ter vinculado esta conta com outros produtos da Scopely Explore. Por favor, vincule outra conta para desvincular esta.
 
 RESOURCE ID: unlock_max_move_plural
 TEXT: Desbloqueie {0} Movimentos Max
@@ -134285,7 +134460,7 @@ RESOURCE ID: verbose_logs_info_title
 TEXT: Ajude a melhorar o Pokémon GO!
 
 RESOURCE ID: verbose_logs_info_body
-TEXT: Os registros de jogo contêm informações valiosas que podem ajudar a Niantic a melhorar aspectos do Pokémon GO. Se você permitir que seus registros de jogo sejam salvos, poderá enviá-los e compartilhá-los com a Niantic.
+TEXT: Os registros de jogo contêm informações valiosas que podem ajudar a Scopely Explore a melhorar aspectos do Pokémon GO. Se você permitir que seus registros de jogo sejam salvos, poderá enviá-los e compartilhá-los com a Scopely Explore.
 
 Os registros de jogo de cada atividade são armazenados por 24 horas ou até que você participe desse tipo de atividade novamente. Você pode fazer upload de registros de jogo a qualquer momento no menu de Configurações.
 
@@ -134419,7 +134594,7 @@ RESOURCE ID: vps_download_prompt_continue
 TEXT: Vamos começar!
 
 RESOURCE ID: vps_download_prompt_legal_tos_description
-TEXT: Ative a RA para usar esse recurso. A Niantic processará dados geográficos capturados pela sua câmera durante o Safári fotográfico em RA. {0}.
+TEXT: Ative a RA para usar esse recurso. A Scopely Explore processará dados geográficos capturados pela sua câmera durante o Safári fotográfico em RA. {0}.
 
 RESOURCE ID: vps_guardian_oob_toast
 TEXT: Você está fora da área do Playground Pokémon. Fique dentro do perímetro para colocar um Pokémon.
@@ -134869,10 +135044,10 @@ RESOURCE ID: wayfarer_bonus_title_02
 TEXT: Pesquisa Temporária Bônus de Wayfarer (2/2)
 
 RESOURCE ID: wayfarer_eligible_title
-TEXT: Você está elegível para o Niantic Wayfarer!
+TEXT: Você está elegível para o Scopely Explore Wayfarer!
 
 RESOURCE ID: wayfarer_eligible_body
-TEXT: Parabéns! Você se tornou elegível para o Niantic Wayfarer, um programa que permite que você ajude a melhorar os jogos da Niantic contribuindo com informações sobre lugares interessantes e únicos ao redor do mundo. Complete o tutorial do Wayfarer para desbloquear funcionalidades de proposta e edição de Poképaradas.
+TEXT: Parabéns! Você se tornou elegível para o Scopely Explore Wayfarer, um programa que permite que você ajude a melhorar os jogos da Scopely Explore contribuindo com informações sobre lugares interessantes e únicos ao redor do mundo. Complete o tutorial do Wayfarer para desbloquear funcionalidades de proposta e edição de Poképaradas.
 
 RESOURCE ID: wayfarer_eligible_goto
 TEXT: VISITE O WAYFARER

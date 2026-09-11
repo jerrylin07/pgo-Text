@@ -269,7 +269,7 @@ RESOURCE ID: abi_new_player_onboarding_list_header
 TEXT: Kişi listenizdeki Eğitmenlere Arkadaşlık İsteği gönderin! Arkadaşlarınla...
 
 RESOURCE ID: abi_new_player_onboarding_opt_in_info
-TEXT: Bu, Niantic Sosyal Hesap Ayarları menüsünde her zaman devre dışı bırakılabilir.
+TEXT: Bu, Scopely Explore Sosyal Hesap Ayarları menüsünde her zaman devre dışı bırakılabilir.
 
 RESOURCE ID: abi_new_player_onboarding_opt_in_check_box
 TEXT: Kişi listelerindeysem başkalarının bana Arkadaşlık İsteği göndermesine izin ver.
@@ -284,7 +284,7 @@ RESOURCE ID: about_screen_btn
 TEXT: Hakkında
 
 RESOURCE ID: about_screen_copyright1
-TEXT: ©2016–2017 Niantic, Inc.
+TEXT: ©2016–2017 Scopely Explore, Inc.
 
 RESOURCE ID: about_screen_copyright2
 TEXT: ©2016–2017 Pokémon.
@@ -422,13 +422,13 @@ RESOURCE ID: add_friend_confirmation_title
 TEXT: {0} adlı oyuncuya Arkadaşlık İsteği gönderilsin mi?
 
 RESOURCE ID: add_friends_niantic_title
-TEXT: Niantic Oyunlarında Arkadaş
+TEXT: Scopely Explore Oyunlarında Arkadaş
 
 RESOURCE ID: add_friends_privacy_prompt
 TEXT: Arkadaşlarınız, Eğitmen profilinizi, başarılarınızı ve yakaladığınız Pokémon’ları görebilir. Ayrıca onlara bir Hediye gönderdiğinizde veya Pokémon takas ettiğinizde de konumunuzu öğrenebilirler.
 
 RESOURCE ID: add_niantic_friend_tip
-TEXT: Bu kişiyi bu oyunda arkadaş olarak eklerseniz ikinizin oynadığı tüm Niantic oyunlarında onu arkadaş olarak eklemiş olursunuz.
+TEXT: Bu kişiyi bu oyunda arkadaş olarak eklerseniz ikinizin oynadığı tüm Scopely Explore oyunlarında onu arkadaş olarak eklemiş olursunuz.
 
 RESOURCE ID: add_referrer_disabled
 TEXT: Bağlantı kurulamadı.
@@ -1249,6 +1249,9 @@ TEXT: Apple Watch etkinleştirildi!
 RESOURCE ID: applewatch_enable_modal_success_message
 TEXT: Başarılı! Oturum başlatmak için Apple Watch uygulamasını açın.
 
+RESOURCE ID: applin_apple_drop_bonus
+TEXT: Vahşi Applin’lerin Ekşi Elma, Tatlı Elma veya Ballı Elma bulundurma şansı daha fazla olacak
+
 RESOURCE ID: appraisal_filter_group_key
 TEXT: Değer
 
@@ -2068,10 +2071,10 @@ RESOURCE ID: ardk_download_button
 TEXT: İNDİR
 
 RESOURCE ID: ardk_download_confirm_title
-TEXT: Niantic AR Platformu (Deneme)
+TEXT: Scopely Explore AR Platformu (Deneme)
 
 RESOURCE ID: ardk_download_confirm_body
-TEXT: AR Dost özelliğinden tam olarak faydalanabilmek için lütfen Niantic AR Platformu'nu indirin. (Denemeyi istediğiniz zaman kapatabilirsiniz.)
+TEXT: AR dost özelliğinden tam olarak faydalanabilmek için lütfen Scopely Explore AR Platformu'nu indirin. (Denemeyi istediğiniz zaman kapatabilirsiniz.)
 
 RESOURCE ID: ardk_download_confirm_size
 TEXT: İndirme Boyutu: {0} MB
@@ -2080,7 +2083,7 @@ RESOURCE ID: ardk_download_progress_format
 TEXT: {0}/{1} MB
 
 RESOURCE ID: ardk_download_prompt_downloading
-TEXT: AR deneyimini etkinleştirmek için Niantic AR Platformu indiriliyor...
+TEXT: AR deneyimini etkinleştirmek için Scopely Explore AR Platformu indiriliyor...
 
 RESOURCE ID: ardk_download_prompt_dowload_progress
 TEXT: {0}/{1} MB
@@ -2093,7 +2096,7 @@ TEXT: İşlem başarılı!
 Ortak AR deneyimine hoş geldiniz!
 
 RESOURCE ID: ardk_download_prompt_multiplayer_legal_tos_description
-TEXT: Niantic, AR kullanımı sırasında kameranızdan gelen coğrafi verileri işleyecektir. {0}.
+TEXT: Scopely Explore, AR kullanımı sırasında kameranızdan gelen coğrafi verileri işleyecektir. {0}.
 
 RESOURCE ID: ardk_download_prompt_multiplayer_legal_tos_link_text
 TEXT: Ayrıntılı Bilgi
@@ -2105,7 +2108,7 @@ RESOURCE ID: ardk_download_prompt_retry_header
 TEXT: Bir şeyler ters gitti!
 
 RESOURCE ID: ardk_download_prompt_success_body
-TEXT: Niantic AR Platformu İndirildi
+TEXT: Scopely Explore AR Platformu İndirildi
 
 RESOURCE ID: ardk_download_prompt_success_header
 TEXT: İşlem başarılı!
@@ -2115,10 +2118,10 @@ RESOURCE ID: ardk_download_prompt_title_dbow
 TEXT: Ortak AR deneyiminin keyfini çıkarmak için ek içerik indirilmelidir
 
 RESOURCE ID: ardk_download_prompt_title_monodepth
-TEXT: Daha sürükleyici bir AR deneyiminin keyfini çıkarmak için Niantic AR paketinin indirilmesi gerekecek.
+TEXT: Daha sürükleyici bir AR deneyiminin keyfini çıkarmak için Scopely Explore AR paketinin indirilmesi gerekecek.
 
 RESOURCE ID: ardk_update_confirm_title
-TEXT: Niantic AR Platformu güncellemesi
+TEXT: Scopely Explore AR Platformu güncellemesi
 
 RESOURCE ID: ardk_update_confirm_body
 TEXT: En iyi AR deneyimi için lütfen indirin.
@@ -18175,7 +18178,7 @@ RESOURCE ID: bidoof_day_event
 TEXT: Bidoof Günü
 
 RESOURCE ID: blacklisted_app_found_lockout
-TEXT: Pokémon GO'nun cihazınızda çalışmasına müdahale edebilecek bir yazılım tespit ettik. Bu, konumunuz üzerinde oynama yapabilecek uygulamaları da içerir. Pokémon GO'yu doğrudan etkileyen yetkisiz yazılımların kullanılması, Niantic'in Hizmet Şartlarının ihlâl eder ve hesabınızın kapanmasına neden olabilir. Oyuna devam etmek için bu tür uygulamaları kaldırmanız gerekir.
+TEXT: Pokémon GO'nun cihazınızda çalışmasına müdahale edebilecek bir yazılım tespit ettik. Bu, konumunuz üzerinde oynama yapabilecek uygulamaları da içerir. Pokémon GO'yu doğrudan etkileyen yetkisiz yazılımların kullanılması, Scopely Explore'in Hizmet Şartlarının ihlâl eder ve hesabınızın kapanmasına neden olabilir. Oyuna devam etmek için bu tür uygulamaları kaldırmanız gerekir.
 
 RESOURCE ID: blanche_inspire#1
 TEXT: Pes etme.
@@ -21766,16 +21769,16 @@ RESOURCE ID: buddy_monodepth_flag
 TEXT: Deneme
 
 RESOURCE ID: buddy_monodepth_modal_title
-TEXT: Niantic AR Platformu (Deneme) kapatılsın mı?
+TEXT: Scopely Explore AR Platformu (Deneme) kapatılsın mı?
 
 RESOURCE ID: buddy_monodepth_modal_message
-TEXT: Niantic AR Platformu'nu (Deneme) kapatmak istiyor musunuz? Denemeyi istediğiniz zaman Ayarlardan açıp kapatabilirsiniz.
+TEXT: Scopely Explore AR Platformu'nu (Deneme) kapatmak istiyor musunuz? Denemeyi istediğiniz zaman Ayarlardan açıp kapatabilirsiniz.
 
 RESOURCE ID: buddy_monodepth_modal_continue_button
 TEXT: KULLANMAYA DEVAM ET
 
 RESOURCE ID: buddy_monodepth_modal_turn_off_button
-TEXT: Niantic AR Platformu'nu (Deneme) kapat
+TEXT: Scopely Explore AR Platformu'nu (Deneme) kapat
 
 RESOURCE ID: buddy_multilplayer_qr_display_header
 TEXT: Dost Grubu QR Kodu
@@ -23356,6 +23359,9 @@ TEXT: 繁體中文
 
 RESOURCE ID: choose_event_variant_failed
 TEXT: Etkinlik türü seçilemedi. Daha sonra tekrar deneyin.
+
+RESOURCE ID: cinderace_gmax_tr_2026_title
+TEXT: Gigantamaks Cinderace Premium Süreli Araştırması
 
 RESOURCE ID: city_accra
 TEXT: Akra
@@ -27061,7 +27067,7 @@ RESOURCE ID: combat_choose_next_pokemon
 TEXT: Yeni Pokémon'a geçilsin mi?
 
 RESOURCE ID: combat_choose_pokemon_scaled
-TEXT: Some Pokémon’s CP has been adjusted for this league.
+TEXT: Bir Pokémon’un DG’si bu lige göre ayarlandı.
 
 RESOURCE ID: combat_choosing_their_team
 TEXT: takımını seçiyor!
@@ -27478,7 +27484,7 @@ RESOURCE ID: combat_lets_not_battle
 TEXT: ŞİMDİ DEĞİL
 
 RESOURCE ID: combat_log_upload_complete_modal_body
-TEXT: Oyun kayıtlarınızı Niantic’le paylaştığınız için teşekkürler. Bu veriler Pokémon GO’yu iyileştirmemize yardımcı olacak.
+TEXT: Oyun kayıtlarınızı Scopely Explore’le paylaştığınız için teşekkürler. Bu veriler Pokémon GO’yu iyileştirmemize yardımcı olacak.
 
 Daha fazla yardım için lütfen destek ekibiyle iletişime geçin ve oyun kayıtlarınızı yüklediğinizi belirtin.
 
@@ -27486,7 +27492,7 @@ RESOURCE ID: combat_log_upload_modal_title
 TEXT: Oyun Kayıtlarını Yükle
 
 RESOURCE ID: combat_log_upload_modal_body
-TEXT: Son Eğitmen Maçınızda sorun yaşadıysanız, Oyun Kaydı özelliği sayesinde oyun kayıtlarınızı Niantic’le paylaşılmak üzere yükleyebilirsiniz.
+TEXT: Son Eğitmen maçınızda sorun yaşadıysanız, Oyun Kaydı özelliği sayesinde oyun kayıtlarınızı Scopely Explore’le paylaşılmak üzere yükleyebilirsiniz.
 
 RESOURCE ID: combat_log_upload_modal_complete_title
 TEXT: Yükleme Tamamlandı!
@@ -27786,6 +27792,18 @@ TEXT: Ultra Lig
 
 RESOURCE ID: combat_use_this_party
 TEXT: BU EKİBİ KULLAN
+
+RESOURCE ID: comic_con_malaga_2026_title
+TEXT: Pokémon GO: San Diego Comic-Con Málaga
+
+RESOURCE ID: comic_con_malaga_2026_tr_title
+TEXT: San Diego Comic-Con Málaga Süreli Araştırması
+
+RESOURCE ID: comic_con_malaga_2026_tr_01
+TEXT: San Diego Comic-Con Málaga Süreli Araştırması (1/2)
+
+RESOURCE ID: comic_con_malaga_2026_tr_02
+TEXT: San Diego Comic-Con Málaga Süreli Araştırması (2/2)
 
 RESOURCE ID: community_ambassador_tr_title
 TEXT: Topluluk Elçisi Bonus Süreli Araştırması
@@ -29229,11 +29247,20 @@ TEXT: Ayrıntıları <a href="https://pokemongo.com/news/flying-taxi-2026">inter
 RESOURCE ID: details_link_key_flying_taxi_taken_over
 TEXT: Ayrıntıları <a href="https://pokemongo.com/news/flying-taxi-taken-over-2026">internet sitemizden</a> öğrenebilirsiniz.
 
+RESOURCE ID: details_link_key_gmax_cinderace
+TEXT: Ayrıntıları <a href="https://pokemongo.com/news/gigantamax-cinderace-max-battle-day-2026">internet sitemizden</a> öğrenebilirsiniz.
+
 RESOURCE ID: details_link_key_gmax_rillaboom
 TEXT: Ayrıntıları <a href="https://pokemongo.com/news/gigantamax-rillaboom-max-battle-day-2026">internet sitemizden</a> öğrenebilirsiniz.
 
 RESOURCE ID: details_link_key_gmax_pikachu_max_battle
 TEXT: Ayrıntıları <a href="https://pokemongo.com/news/gigantamax-pikachu-max-battle-day-2026">internet sitemizden</a> öğrenebilirsiniz.
+
+RESOURCE ID: details_link_key_harvest_festival
+TEXT: Ayrıntıları <a href="https://pokemongo.com/news/harvest-festival-2026">internet sitemizden</a> öğrenebilirsiniz.
+
+RESOURCE ID: details_link_key_harvest_festival_taken_over
+TEXT: Ayrıntıları <a href="https://pokemongo.com/news/harvest-festival-taken-over-2026">internet sitemizden</a> öğrenebilirsiniz.
 
 RESOURCE ID: details_link_key_lunar_new_year_feb2026
 TEXT: Ayrıntıları <a href="https://pokemongo.com/news/lunar-new-year-event-2026">internet sitemizden</a> öğrenebilirsiniz.
@@ -30277,6 +30304,21 @@ TEXT: Cliff gibi eğitim yap
 RESOURCE ID: em_hawlucha_2025_tr_path_b_desc
 TEXT: Machop, Croagunk ve Timburr ile karşılaşmalar, ayrıca bir Güçlü TM ve bir Hızlı TM’in de dahil olduğu ödüller için bu yolu seçin.
 
+RESOURCE ID: em_hawlucha_2026_tr_dialog_00
+TEXT: Selam %PLAYERNAME%! Kendine bir yol seçme vakti geldi: Arlo gibi iyi planlanmış bir hassasiyetle mi eğitim yapacaksın, yoksa Candela gibi yakıcı bir tutkuyla mı?
+
+RESOURCE ID: em_hawlucha_2026_tr_path_a
+TEXT: Candela gibi eğitim yap
+
+RESOURCE ID: em_hawlucha_2026_tr_path_a_desc
+TEXT: Rapidash, Torchic ve Chimchar ile karşılaşmaların yanı sıra Tütsü ve çıkartma gibi ödüller için bu seçeneği seçin.
+
+RESOURCE ID: em_hawlucha_2026_tr_path_b
+TEXT: Arlo gibi eğitim yap
+
+RESOURCE ID: em_hawlucha_2026_tr_path_b_desc
+TEXT: Mankey, Scizor ve Hisuili Sneasel ile karşılaşmaların yanı sıra Tütsü ve çıkartma gibi ödüller için bu seçeneği seçin.
+
 RESOURCE ID: em_holi_2025_event_title
 TEXT: Renk Festivali 2025
 
@@ -31204,6 +31246,9 @@ TEXT: 16 Ağustos, 10.00 –
 
 RESOURCE ID: event_datetime_range_key_gmaxbutterfree25
 TEXT: 3 Ağustos, 14.00-17.00
+
+RESOURCE ID: event_datetime_range_key_gmaxcinderace26
+TEXT: 3 Ekim, 14.00-17.00
 
 RESOURCE ID: event_datetime_range_key_gmaxgarbodor25
 TEXT: 1 Kasım, 14.00-17.00
@@ -33825,7 +33870,7 @@ RESOURCE ID: fb_invite_import_friends_title
 TEXT: Facebook arkadaşlarınız aktarılsın mı?
 
 RESOURCE ID: fb_invite_import_friends_info
-TEXT: Facebook Arkadaşlarınızı aktarmayı seçerseniz Niantic, hâlihazırda Pokémon GO'da olan ve aynı zamanda Facebook Arkadaşlarını aktarmayı seçmiş Facebook Arkadaşlarınızın listesine erişecektir. Facebook profil adınız ve fotoğrafınız, Eğitmen adınızla birlikte görünecektir. Her zaman fikrinizi değiştirebilir, oyuncuları Pokémon GO Arkadaş Listenizden kaldırabilir veya Facebook'ta uygulama izinlerinizi düzenleyebilirsiniz. Ayrıntılı bilgi için Yardım Merkezi'ni ziyaret edin.
+TEXT: Facebook Arkadaşlarınızı aktarmayı seçerseniz Scopely Explore, halihazırda Pokémon GO'da olan ve aynı zamanda Facebook Arkadaşlarını aktarmayı seçmiş Facebook Arkadaşlarınızın listesine erişecektir. Facebook profil adınız ve fotoğrafınız, Eğitmen adınızla birlikte görünecektir. Her zaman fikrinizi değiştirebilir, oyuncuları Pokémon GO Arkadaş Listenizden kaldırabilir veya Facebook'ta uygulama izinlerinizi düzenleyebilirsiniz. Ayrıntılı bilgi için Yardım Merkezi'ni ziyaret edin.
 
 RESOURCE ID: fb_invite_no_friends
 TEXT: Facebook Arkadaşlarınız henüz bu özelliği etkinleştirmedi. Facebook Arkadaşlarınızla iletişime geçin!
@@ -36270,7 +36315,7 @@ RESOURCE ID: friend_is_at_a_max_battle
 TEXT: Bir <b>{0}</b> maçına katıldı
 
 RESOURCE ID: friend_niantic_game_preview_list_title
-TEXT: Paylaşabileceğiniz Diğer Niantic Oyunları
+TEXT: Paylaşabileceğiniz Diğer Scopely Explore Oyunları
 
 RESOURCE ID: friend_opened_your_gift
 TEXT: {0} Hediyenizden {1} eşya aldı!
@@ -36310,7 +36355,7 @@ TEXT: {0} size Hediye gönderdi!
 
 RESOURCE ID: friend_sort_online_not_available_body
 TEXT: <b>Bu sıralama yalnızca çevrimiçi durum paylaşımı etkinleştirildiğinde kullanılabilir. Hızlı çevrimiçi durumu değiştirmeyi kullanarak etkinleştirebilirsiniz.</b>
-<size=24>Not: Çevrimiçi durumunuzu paylaştığınızda bu özellik, oynadığınız tüm Niantic oyunları için etkinleştirilir.</size>
+<size=24>Not: Çevrimiçi durumunuzu paylaştığınızda bu özellik oynadığınız tüm Scopely Explore oyunları için etkinleştirilir.</size>
 
 RESOURCE ID: friend_sort_online_not_available_header
 TEXT: Hızlı Çevrimiçi Durumu Değiştirme
@@ -36538,7 +36583,7 @@ RESOURCE ID: friendslist_sort_raid
 TEXT: AKINDA ({0})
 
 RESOURCE ID: friendslist_sort_online_unavailable
-TEXT: Niantic Online'a kaydolmadıysanız arkadaşlarınızı çevrimiçi duruma göre sıralayamazsınız.
+TEXT: Scopely Explore Online'a kaydolmadıysanız arkadaşlarınızı çevrimiçi duruma göre sıralayamazsınız.
 
 RESOURCE ID: frigibax_cd_website_link
 TEXT: Ayrıntıları <a href="https://pokemongo.com/news/communityday-june-2026-frigibax">internet sitemizden</a> öğrenebilirsiniz.
@@ -38023,6 +38068,9 @@ TEXT: Pokémon GO Turu: Johto
 
 RESOURCE ID: general1.ticket.4_finalstrike0525_title
 TEXT: Son Vuruş: GO Maç Haftası Premium Süreli Araştırması Bileti
+
+RESOURCE ID: general1.ticket.4_gmaxcinderace26_title
+TEXT: Gigantamaks Cinderace Maksi Maç Günü Bileti
 
 RESOURCE ID: general1.ticket.4_gmaxmeowth26_title
 TEXT: Gigantamaks Meowth Maksi Maç Günü Bileti
@@ -39826,6 +39874,9 @@ TEXT: Önümüz Gigantamaks Butterfree Maksi Maç Günü Süreli Araştırması
 
 RESOURCE ID: gmax_butterfree_max_battles
 TEXT: Gigantamaks Butterfree Maksi Maçlarda ortaya çıkıyor
+
+RESOURCE ID: gmax_cinderace_max_battles
+TEXT: Gigantamaks Cinderace Maksi Maçlarda ortaya çıkıyor
 
 RESOURCE ID: gmax_garbodor_lead_up_timed_research
 TEXT: Önümüz Gigantamaks Garbodor Maksi Maç Günü Süreli Araştırması
@@ -49068,6 +49119,12 @@ TEXT: Balkabağı Tarlası Toplama Görevi
 RESOURCE ID: harvest_festival_oct2025_smoliv_cc
 TEXT: Zeytinlik Toplama Görevi
 
+RESOURCE ID: harvest_festival_s24_event_name
+TEXT: Hasat Festivali: Applin Toplama
+
+RESOURCE ID: harvest_festival_taken_over_event_name
+TEXT: Hasat Festivali: İstila
+
 RESOURCE ID: harvest_festival_tr_name
 TEXT: Hasat Festivali Premium Süreli Araştırması
 
@@ -52576,6 +52633,12 @@ TEXT: An extra event ticket from a purchase error. You can send it to a friend o
 RESOURCE ID: item_event_ticket_pink_to_gift_name
 TEXT: Ekstra Bilet
 
+RESOURCE ID: item_event_ticket_s24_oct_3_maxbattle_desc_gmaxcinderace26
+TEXT: 3 Ekim 2026’da, yerel saatle 14.00-17.00 arasında geçerli olacak özel bonuslara dilediğiniz yerden hak kazanmanıza olanak tanıyan bir bilet.
+
+RESOURCE ID: item_event_ticket_s24_oct_3_maxbattle_details_gmaxcinderace26
+TEXT: Bu bilet 3 Ekim’de geçerli olacak özel bonuslara dilediğiniz yerden hak kazanabilmeniz için otomatik olarak etkinleştirilecek.
+
 RESOURCE ID: item_event_ticket_to_gift_desc
 TEXT: Satın alım hatasından kaynaklanan ekstra bir etkinlik bileti. Bu bileti bir arkadaşınıza gönderebilir ya da ücret iadesi alabilirsiniz.
 
@@ -54246,13 +54309,13 @@ RESOURCE ID: kr_hanbok_pikachu_picnic_2026_tr_name_3
 TEXT: Pikachu’nun Kore’deki Günübirlik Gezisi 2026 Süreli Araştırması (3/3)
 
 RESOURCE ID: kr_hangul_day_2026_title
-TEXT: 2026 Hangul Day
+TEXT: Hangul Day 2026
 
 RESOURCE ID: kr_hangul_day_2026_bonus_desc
 TEXT: Celebrate Hangul Day with event-themed Pokémon appearing in the wild! Use Incense or Lure Modules to encounter special Pokémon.
 
 RESOURCE ID: kr_hangul_day_sep2026_cc_title
-TEXT: 2026 Hangul Day Collection Challenge
+TEXT: Hangul Day 2026 Collection Challenge
 
 RESOURCE ID: kr_lantern_festival_2025_massive_bonus_title
 TEXT: Magikarp Zamanı geldi!
@@ -54510,7 +54573,7 @@ RESOURCE ID: last_played_yesterday
 TEXT: Son Oynama: Dün
 
 RESOURCE ID: last_played_date_setting_description
-TEXT: Arkadaşlarımın en son ne zaman bir Niantic oyunu oynadığımla ilgili bilgileri görmesine izin ver.
+TEXT: Arkadaşlarımın en son ne zaman bir Scopely Explore oyunu oynadığımla ilgili bilgileri görmesine izin ver.
 
 RESOURCE ID: last_played_two_plus_days_ago
 TEXT: Son Oynama: 2+ gün önce
@@ -57122,7 +57185,7 @@ RESOURCE ID: log_verbose_raid_modal_desc_cache
 TEXT: Akın verileri 24 saat boyunca veya bir sonraki akına kadar saklanır, o tarihten önce istediğin zaman Ayarlar menüsünden yükleyebilirsiniz.
 
 RESOURCE ID: log_verbose_raid_modal_desc_info
-TEXT: Akın Günlüğü özelliği sayesinde, katıldığınız akınların verilerini yükleyerek gelecek akınları geliştirmesi için Niantic'e yardım edebilirsiniz.
+TEXT: Akın Günlüğü özelliği sayesinde, katıldığınız akınların verilerini yükleyerek gelecek akınları geliştirmesi için Scopely Explore'e yardım edebilirsiniz.
 
 RESOURCE ID: log_verbose_raid_modal_desc_url_link
 TEXT: bu web sitesini ziyaret edin.
@@ -58048,7 +58111,7 @@ RESOURCE ID: marketing_email_opt_in_toggle
 TEXT: E-postaları almak istiyorum
 
 RESOURCE ID: marketing_notification_opt_in_title
-TEXT: Niantic, etkinlikler, teklifler ve güncellemeler hakkında size bildirim göndermek istiyor
+TEXT: Scopely Explore, etkinlikler, teklifler ve güncellemeler hakkında size bildirim göndermek istiyor
 
 RESOURCE ID: marketing_notification_opt_in_message
 TEXT: Bildirimler, uyarıları, sesleri ve simge rozetlerini içerebilir. Bunu ayarlardan değiştirebilirsiniz.
@@ -58776,6 +58839,12 @@ TEXT: Gigantamaks Snorlax Özel Maksi Maç Etkinliği Bileti Bonusları
 RESOURCE ID: max_battle_day_gigantamax_snorlax_special_event_name
 TEXT: Gigantamaks Snorlax Özel Maksi Maç Etkinliği
 
+RESOURCE ID: max_battle_day_gmax_cinderace_ticketed
+TEXT: Gigantamaks Cinderace Maksi Maç Günü Bileti Bonusları
+
+RESOURCE ID: max_battle_day_gmax_cinderace_event_name
+TEXT: Gigantamaks Cinderace Maksi Maç Günü
+
 RESOURCE ID: max_battle_day_gmax_meowth_ticketed
 TEXT: Gigantamaks Meowth Maksi Maç Günü Bileti Bonusları
 
@@ -59300,7 +59369,7 @@ RESOURCE ID: mega_evolve_lobby_existing_toast
 TEXT: Aynı anda yalnızca bir Mega Evrimleşmiş Pokémon kullanabilirsiniz
 
 RESOURCE ID: mega_evolve_pokemon_to_use_in_this_party
-TEXT: Mega Evolve Gengar to use this party.
+TEXT: Bu ekibi kullanmak için Gengar’ı mega evrimleştirin.
 
 RESOURCE ID: mega_evolve_preview_first_time
 TEXT: Bir Pokémon'u ilk kez Mega Evrimleştirdikten sonra dinlenme süresinin dolmasını bekleyerek Mega Enerji kullanmadan tekrar Mega Evrimleştirebilirsiniz.
@@ -59706,10 +59775,10 @@ at SHA 413df5befdbe0d00a543f8a142221526d63b719a
 Pipeline 834428, job 8736424
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-09-09T21:50:37.113604+00:00 for tr-TR
-at SHA 83a400d168f
-Pipeline 3932304, job 57870598
-Patch from: 0.427.98-SHA-5e44928a-RC1, 0.429.0-SHA-d6c796f0-RC1, 0.427.1-SHA-4a569ba7-RC1
+TEXT: Built at 2026-09-11T20:57:11.794309+00:00 for tr-TR
+at SHA 9f591d8678c
+Pipeline 3938550, job 57981687
+Patch from: 0.429.0-SHA-de304d2a-RC2, 0.427.0-SHA-fc729f25-RC2, 0.427.1-SHA-4a569ba7-RC1
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: Süreli Araştırma: Dövüşçünüzü Seçin
@@ -59961,10 +60030,10 @@ RESOURCE ID: monochrome_holiday_tr_name_2
 TEXT: Koyun Koyuna Premium Süreli Araştırması (2/2)
 
 RESOURCE ID: monodepth_ar_plus_required_toast
-TEXT: Gerçeklik Karıştırıcıyı kullanmak için Niantic AR'ı açın.
+TEXT: Gerçeklik Karıştırıcıyı kullanmak için Scopely Explore AR'ı açın.
 
 RESOURCE ID: monodepth_ar_plus_toggle_warning
-TEXT: Niantic AR'ı kapatırsanız Gerçeklik Karıştırıcı da devre dışı kalır.
+TEXT: Scopely Explore AR'ı kapatırsanız Gerçeklik Karıştırıcı da devre dışı kalır.
 
 RESOURCE ID: monodepth_download_prompt_success_message
 TEXT: Artık Pokémon’larınızla daha sürükleyici bir AR deneyimi yaşayabilirsiniz!
@@ -60019,6 +60088,9 @@ TEXT: Güç Dağları
 
 RESOURCE ID: more_power_spots_active
 TEXT: İlave aktif Güç Noktaları
+
+RESOURCE ID: mossy_lure_duration_double
+TEXT: 1 saatlik Yosunlu Yem Modülü süresi
 
 RESOURCE ID: motor_accessibility_settings_title
 TEXT: Hareket Erişilebilirliği
@@ -64973,16 +65045,16 @@ RESOURCE ID: next_set_coming_on
 TEXT: Next coming on {0}!
 
 RESOURCE ID: niantic_anniversary_event
-TEXT: Niantic Doğum Günü Etkinliği
+TEXT: Scopely Explore Doğum Günü Etkinliği
 
 RESOURCE ID: niantic_game_preview_list_title
-TEXT: Deneyebileceğiniz Diğer Niantic Oyunları
+TEXT: Deneyebileceğiniz Diğer Scopely Explore Oyunları
 
 RESOURCE ID: niantic_profile_privacy_settings_title
 TEXT: Gizlilik Ayarları
 
 RESOURCE ID: niantic_social_overview_desc
-TEXT: Niantic Sosyal özelliği geldi! Bu yeni özellikle şunları yapabilirsiniz:
+TEXT: Scopely Explore Sosyal özelliği geldi! Bu yeni özellikle şunları yapabilirsiniz:
 
 RESOURCE ID: nickit_website_link
 TEXT: Ayrıntıları <a href="https://pokemongo.com/news/communityday-august-2026-nickit">internet sitemizden</a> öğrenebilirsiniz.
@@ -65392,7 +65464,7 @@ RESOURCE ID: onboard_welcome_screen|9
 TEXT: Macerana başlamak için görünümünü seç!
 
 RESOURCE ID: one_or_more_pokemon_exceed_this_leagues_cp_limit
-TEXT: One or more Pokémon exceed this league’s CP limit.
+TEXT: Bir veya daha fazla Pokémon bu ligin DG sınırını aşıyor.
 
 RESOURCE ID: one_route_nearby_label
 TEXT: 1 route
@@ -66113,7 +66185,7 @@ RESOURCE ID: party_play_code_invalid
 TEXT: Ekip bulunamadı.
 
 RESOURCE ID: party_play_code_of_conduct_body
-TEXT: Oyunu güvenlik ve saygı çerçevesinde oynama konusunda rehber olması için lütfen Niantic’in Davranış Kurallarını gözden geçirin.
+TEXT: Oyunu güvenlik ve saygı çerçevesinde oynama konusunda rehber olması için lütfen Scopely Explore’in Davranış Kurallarını gözden geçirin.
 
 RESOURCE ID: party_play_code_of_conduct_button
 TEXT: Davranış Kuralları
@@ -67566,7 +67638,7 @@ RESOURCE ID: poi_contrib_failed_error
 TEXT: Gönderim başarısız oldu. Lütfen tekrar deneyin.
 
 RESOURCE ID: poi_contrib_ghostinfo_label
-TEXT: Diğer Niantic oyunlarında kullanılan Konum Noktası
+TEXT: Diğer Scopely Explore oyunlarında kullanılan Konum Noktası
 
 RESOURCE ID: poi_contrib_identical_desc_error
 TEXT: Aynı açıklama. Lütfen güncellenmiş bir açıklama girin.
@@ -67779,7 +67851,7 @@ RESOURCE ID: poi_contrib_tutorial_dupe_title
 TEXT: Kopyaları Kontrol Edin
 
 RESOURCE ID: poi_contrib_tutorial_dupe_body
-TEXT: Mavi simge, Pokémon GO'da kullanılan onaylanmış bir Konum Noktasını gösterir. Turuncu simge, diğer Niantic oyunlarında kullanılan onaylanmış bir Konum Noktasını gösterir. Yeni bir PokéDurak adayı sunarken lütfen bu iki Konum Noktası türünden birinin kopyasını göndermemeye dikkat edin.
+TEXT: Mavi simge, Pokémon GO'da kullanılan onaylanmış bir Konum Noktasını gösterir. Turuncu simge, diğer Scopely Explore oyunlarında kullanılan onaylanmış bir Konum Noktasını gösterir. Yeni bir PokéDurak adayı sunarken lütfen bu iki Konum Noktası türünden birinin kopyasını göndermemeye dikkat edin.
 
 RESOURCE ID: poi_contrib_unavailable_disabled
 TEXT: Bu özellik şu anda kullanılamıyor.
@@ -68161,7 +68233,7 @@ RESOURCE ID: poi_sub_tut_desc_1
 TEXT: PokéDurak, Eğitmenleri dışarı çıkmaya, yeni yerler keşfetmeye ve topluluktaki insanlarla bağlantı kurmaya teşvik eden oyun içi bir konumdur. PokéDuraklar, ister harika bir sanat eseri olsun, ister yalnızca yerel halkın bildiği gizli bir mücevher olsun, genellikle şehirle ilgilidir, eğiticidir veya sanatsal değeri vardır.
 
 RESOURCE ID: poi_sub_tut_desc_2
-TEXT: Seçtiğiniz konumun adını, açıklamasını ve fotoğrafını gönderin. Aday gösterdiğiniz PokéDurak, diğer Niantic oyuncuları tarafından incelenecek, bu yüzden lütfen eksiksiz ve doğru bilgi vermeye dikkat edin!
+TEXT: Seçtiğiniz konumun adını, açıklamasını ve fotoğrafını gönderin. Aday gösterdiğiniz PokéDurak, diğer Scopely Explore oyuncuları tarafından incelenecek, bu yüzden lütfen eksiksiz ve doğru bilgi vermeye dikkat edin!
 
 RESOURCE ID: poi_sub_tut_desc_3
 TEXT: PokéDuraklar hem eğitici ve kültürel değere sahip olmalı hem de güvenli bir konumda ve yayalar için erişilebilir olmalıdır. Özel konutları, mevsimlik veya kalıcı olmayan yerleri ya da acil servis araçlarını engelleyebilecek yerleri aday göstermekten kaçının. 
@@ -80963,7 +81035,7 @@ RESOURCE ID: privacy_policy_short_button
 TEXT: Gizlilik
 
 RESOURCE ID: privacy_policy_update_notice
-TEXT: Yeni ürün özellikleri ve kişisel verileri nasıl işlediğimiz hakkında detaylı bilgi edinmek için lütfen güncellenmiş Niantic Gizlilik Politikası'nı inceleyiniz.
+TEXT: Yeni ürün özellikleri ve kişisel verileri nasıl işlediğimiz hakkında detaylı bilgi edinmek için lütfen güncellenmiş Scopely Explore Gizlilik Politikası'nı inceleyiniz.
 
 RESOURCE ID: private_group_title
 TEXT: Private Group
@@ -81411,6 +81483,9 @@ TEXT: {0} Alolalı Geodude evrimleştirin
 RESOURCE ID: quest_alodude_evolve_b
 TEXT: {0} Alolalı Graveler evrimleştirin
 
+RESOURCE ID: quest_applin_catch_singular
+TEXT: Bir Applin yakalayın
+
 RESOURCE ID: quest_appraise_pokemon_plural
 TEXT: {0} Pokémon değerlendirin
 
@@ -81844,13 +81919,13 @@ RESOURCE ID: quest_branch_choose_la_reine_desc
 TEXT: Furfrou’nuzun her zamanki bölgesel süs veya süslerini etkinliğin geri kalanı boyunca La Reine Süslüye çevirmek için bu seçeneği seçin. Furfrou’nuzun süsünü değiştirmenin bedeli 25 Furfrou şekeri ve 10.000 yıldız tozudur.
 
 RESOURCE ID: quest_branch_choose_mega_chesnaught
-TEXT: Mega Chesnaught
+TEXT: Mega Chesnaught’ı seçin
 
 RESOURCE ID: quest_branch_choose_mega_delphox
-TEXT: Mega Delphox
+TEXT: Mega Delphox’ı seçin
 
 RESOURCE ID: quest_branch_choose_mega_greninja
-TEXT: Mega Greninja
+TEXT: Mega Greninja’yı seçin
 
 RESOURCE ID: quest_branch_choose_mega_chesnaught_out
 TEXT: Chespin’i seçin
@@ -109661,7 +109736,7 @@ RESOURCE ID: returning_sign_in_partial
 TEXT: {0} ile oturum aç
 
 RESOURCE ID: revert_pokemon_to_its_primal_form_to_use_this_party
-TEXT: Revert Kyogre to its Primal form to use this party.
+TEXT: Bu ekibi kullanmak için Kyogre’ı kadim formuna geri döndürün.
 
 RESOURCE ID: revive_all_button
 TEXT: Hepsini Canlandır
@@ -110317,9 +110392,9 @@ RESOURCE ID: route_creation_onboarding_page_3
 TEXT: Her yolda en az 5 PokéDurak yer almalıdır. Ortalama bir Yol 400 - 800 metre uzunluğunda ve keşfetme süresi 10 - 15 dakika arasındadır.
 
 RESOURCE ID: route_creation_onboarding_page_4
-TEXT: Once your Route is submitted, it will be reviewed and either Approved or Rejected. If your Route is rejected, you can make changes and resubmit your Route. You can also reset your Route at any time to start over.
+TEXT: Oluşturulan rotalar değerlendirme ve onay için Scopely Explore’e gönderilir. Rotanız reddedilirse size rotanızı düzenleyip yeniden göndermeniz için bir şans verilebilir.
 
-Let's try creating your first Route!
+Şimdi sıra rotanızı oluşturmakta!
 
 RESOURCE ID: route_creation_pause_button
 TEXT: Rotayı Duraklat
@@ -110558,7 +110633,7 @@ RESOURCE ID: route_enforcement_long_ban_title
 TEXT: Pokémon GO oynamaktan men edildiniz.
 
 RESOURCE ID: route_enforcement_long_ban_description
-TEXT: Niantic hesabınız, rota özelliğinde Oyuncu Talimatlarımızı ciddi veya tekrarlı şekilde ihlal eden hareketler nedeniyle Pokémon GO ve diğer tüm Niantic oyun ve ürünlerinden {0} seneliğine men edildi.
+TEXT: Scopely Explore hesabınız, rota özelliğinde Oyuncu Talimatlarımızı ciddi veya tekrarlı şekilde ihlal eden hareketler nedeniyle Pokémon GO ve diğer tüm Scopely Explore oyun ve ürünlerinden {0} seneliğine men edildi.
 
 Daha fazla ihlal kalıcı olarak men edilmenize yol açabilir.
 
@@ -110579,7 +110654,7 @@ RESOURCE ID: route_enforcement_permanent_ban_title
 TEXT: Pokémon GO oynamaktan kalıcı olarak men edildiniz.
 
 RESOURCE ID: route_enforcement_permanent_ban_description
-TEXT: Niantic hesabınız, rota özelliğinde Oyuncu Talimatlarımızı ciddi veya tekrarlı şekilde ihlal eden hareketler nedeniyle Pokémon GO’dan men edildi.
+TEXT: Scopely Explore hesabınız, rota özelliğinde Oyuncu Talimatlarımızı ciddi veya tekrarlı şekilde ihlal eden hareketler nedeniyle Pokémon GO’dan men edildi.
 
 RESOURCE ID: route_enforcement_permanent_ban_description_b
 TEXT: Your Pokémon GO account has been banned due to repeated or severe violations against our Player Guidelines.
@@ -110785,7 +110860,7 @@ RESOURCE ID: route_nearby_help_duration
 TEXT: Estimate time from start point to end point.
 
 RESOURCE ID: route_nearby_help_official_route
-TEXT: The route created by NIANTIC partners has this label.
+TEXT: Bu etiket Scopely Explore’in partnerleri tarafından oluşturulmuş rotalara aittir.
 
 RESOURCE ID: route_nearby_help_played_time
 TEXT: Number of played time of this route.
@@ -110943,7 +111018,7 @@ RESOURCE ID: route_play_low_rating_title
 TEXT: Did you experience any issues on this Route?
 
 RESOURCE ID: route_play_low_rating_description
-TEXT: If you experienced an issue, you can report the Route for Niantic to review.
+TEXT: Bir sorun yaşadıysanız rotayı Scopely Explore’e bildirebilirsiniz.
 
 RESOURCE ID: route_play_no_routes_campfire_message
 TEXT: There are no Routes nearby. Browse Campfire to find Routes that are further away.
@@ -111220,7 +111295,7 @@ TEXT: What kind of issue happened?
 Could you describe it?
 
 RESOURCE ID: route_report_body
-TEXT: Bir rotayla ilgili bir sorunu Niantic’e bildirdiğinizde, rotayı gözden geçirir ve politikalarımızın gerektirdiği şekilde gereken önlemleri alırız. Kimliğiniz hiçbir koşulda rotayı oluşturanlarla paylaşılmaz. Bir rapor gönderdiğinizde raporun doğruluğunu da teyit etmiş olursunuz.
+TEXT: Bir rotayla ilgili bir sorunu Scopely Explore’e bildirdiğinizde, rotayı gözden geçirir ve politikalarımızın gerektirdiği şekilde gereken önlemleri alırız. Kimliğiniz hiçbir koşulda rotayı oluşturanlarla paylaşılmaz. Bir rapor gönderdiğinizde raporun doğruluğunu da teyit etmiş olursunuz.
 
 RESOURCE ID: route_report_permanent
 TEXT: Permanent issue
@@ -111564,10 +111639,10 @@ RESOURCE ID: route_submission_result_reject_description
 TEXT: Adında ve/veya açıklamasında uygunsuz ifadeler veya bağlantılar yer aldığı için rotanız reddedildi. Bu rotayı düzenleyip yeniden gönderemezsiniz.
 
 RESOURCE ID: route_submission_result_reject_message_bullying
-TEXT: Niantic does not allow bullying, harassment, humiliation, or threats against anyone.
+TEXT: Scopely Explore herhangi bir kimseye karşı zorbalık, taciz, aşağılama veya tehdit gibi eylemlere izin vermez.
 
 RESOURCE ID: route_submission_result_reject_message_hate
-TEXT: Niantic does not allow hateful behavior, hate speech, or the promotion of hateful ideologies. This includes promoting hatred on the basis of race, ethnicity, religion, gender, or any other identity factor.
+TEXT: Scopely Explore nefret içeren davranışlara, nefret söylemine veya nefret içeren ideolojilerin teşvikine izin vermez. Buna ırk, etnik köken, din, toplumsal cinsiyet veya herhangi başka bir kimliğe dayalı nefret söylemleri de dahildir.
 
 RESOURCE ID: route_submission_result_reject_message_suicide
 TEXT: If you or someone you know has thoughts of suicide or self harm, help is available. See <a href="route_mental_health_resources_link">Mental Health Resources</a> for more information.
@@ -113946,8 +114021,98 @@ TEXT: Hatıralar Canlanıyor
 RESOURCE ID: season23_forever_forward
 TEXT: Daima İleri
 
+RESOURCE ID: season24_harvest_applin_branch_appletun_title
+TEXT: Appletun
+
+RESOURCE ID: season24_harvest_applin_branch_appletun_description
+TEXT: Tatlı Elma yolunu seçin.
+
+RESOURCE ID: season24_harvest_applin_branch_dipplin_title
+TEXT: Dipplin
+
+RESOURCE ID: season24_harvest_applin_branch_dipplin_description
+TEXT: Ballı Elma yolunu seçin.
+
+RESOURCE ID: season24_harvest_applin_branch_flapple_title
+TEXT: Flapple
+
+RESOURCE ID: season24_harvest_applin_branch_flapple_description
+TEXT: Ekşi Elma yolunu seçin.
+
+RESOURCE ID: season24_harvest_applin_tr_title
+TEXT: Hasat Festivali: Applin Toplama Süreli Araştırması
+
+RESOURCE ID: season24_harvest_applin_tr_branch_prompt
+TEXT: Bir evrim yolu seçin.
+
 RESOURCE ID: season24_twilight_trails
 TEXT: Akşamüstü Keyfi
+
+RESOURCE ID: season24_twilight_trails_tr_0_0
+TEXT: %PLAYERNAME%! Zamanlaman harika. Ben de tam inanılmaz ilginç bir Pokémon olan Applin ile ilgili notlarıma bakıyordum.
+
+RESOURCE ID: season24_twilight_trails_tr_0_1
+TEXT: İlk bakışta onun bir elma olduğunu düşünebilirsin ama Applin aslında bir elmanın içinde yaşayan bir Pokémon’dur!
+
+RESOURCE ID: season24_twilight_trails_tr_0_2
+TEXT: Elma onu koruyup besleyerek Applin’in büyüyüp yetişmesinde önemli bir rol oynar.
+
+RESOURCE ID: season24_twilight_trails_tr_0_3
+TEXT: İşin ilginç yanı, farklı tatlara sahip olan elmaların içinde yaşayan Applin’ler farklı şekillerde evrimleşir!
+
+RESOURCE ID: season24_twilight_trails_tr_0_4
+TEXT: Hadi bir tanesini seçip araştıralım, ne dersin? Bu araştırmanın iyi meyve vereceğinden eminim!
+
+RESOURCE ID: season24_twilight_trails_tr_2_0
+TEXT: Elma dersem çık Eğitmen! Yine gerçekten çok iyi iş çıkardın.
+
+RESOURCE ID: season24_twilight_trails_tr_2_1
+TEXT: Sayende Applin’i evrimleştirince neler olacağını çok daha iyi öğrenmiş olduk.
+
+RESOURCE ID: season24_twilight_trails_tr_2_2
+TEXT: Ekşi, tatlı veya ballı, nasıl olursa olsun her bir Pokémon evrimi nasıl gelişip güçlenerek etrafına uyum sağladığını göstermeye ve bizleri şaşırtmaya devam ediyor.
+
+RESOURCE ID: season24_twilight_trails_tr_2_3
+TEXT: İyi araştırmaların genellikle tek bir cevabı da olmaz. Bunun yerine bize yepyeni sorular sordurturlar.
+
+RESOURCE ID: season24_twilight_trails_tr_2_4
+TEXT: Merak duygunun ektiği tohumların peşinden gitmeye devam et Eğitmen. Applin hakkında keşfedeceğimiz birkaç şey daha olabilir!
+
+RESOURCE ID: season24_twilight_trails_tr_appletun_1_0
+TEXT: Appletun mı? Gerçekten tatlı bir seçim yapmışsın %PLAYERNAME%!
+
+RESOURCE ID: season24_twilight_trails_tr_appletun_1_1
+TEXT: Duyduğuma göre Appletun’ın yaydığı tatlı koku diğer Pokémon’ları kendine çekermiş.
+
+RESOURCE ID: season24_twilight_trails_tr_appletun_1_2
+TEXT: Her Pokémon’un albenisinin farklı oluşunun harika bir örneği bu! Bu kez söz konusu tatlı mı tatlı bir koku!
+
+RESOURCE ID: season24_twilight_trails_tr_appletun_1_3
+TEXT: Hadi biraz Tatlı Elma toplayıp öğrendiklerimizin tadını çıkaralım.
+
+RESOURCE ID: season24_twilight_trails_tr_dipplin_1_0
+TEXT: Dipplin mi? Ne kadar ilginç. Bu evrim ilk bakışta anlaşılamayacak kadar özeldir.
+
+RESOURCE ID: season24_twilight_trails_tr_dipplin_1_1
+TEXT: Dipplin’in bir Ballı Elma içinde yaşayan iki farklı yaratıktan oluştuğu söylenir.
+
+RESOURCE ID: season24_twilight_trails_tr_dipplin_1_2
+TEXT: Sadece bu özelliği bile araştırmacılara yeteri kadar malzeme veriyor doğrusu, ama bana sorarsan Dipplin hakkında gözlemleyecek birçok başka şey daha var.
+
+RESOURCE ID: season24_twilight_trails_tr_dipplin_1_3
+TEXT: Hadi şimdi Ballı Elmaları toplayıp bu olağandışı evrimden neler öğrenebileceğimize bakalım!
+
+RESOURCE ID: season24_twilight_trails_tr_flapple_1_0
+TEXT: Flapple’ı seçtin, öyle mi? Harika bir seçim! Bu evrimde elmanın rolü oldukça ilginçtir.
+
+RESOURCE ID: season24_twilight_trails_tr_flapple_1_1
+TEXT: Flapple elmasının parçalarını kanat olarak kullanıp havada uçmasıyla bilinir. Ne beceriklilik ama!
+
+RESOURCE ID: season24_twilight_trails_tr_flapple_1_2
+TEXT: Evrimleşmenin Applin’i ne kadar yükseğe taşıyabileceğinin gerçekten de iyi bir örneği bu.
+
+RESOURCE ID: season24_twilight_trails_tr_flapple_1_3
+TEXT: Hadi biraz Ekşi Elma toplayıp bu araştırmanın kanatlanıp yükselmesine yardım edelim!
 
 RESOURCE ID: season_gbl_forecast_title_7
 TEXT: Season of GO
@@ -115230,7 +115395,7 @@ RESOURCE ID: settings_buddy_ar
 TEXT: Dost İçin AR
 
 RESOURCE ID: settings_buddy_ar_tip
-TEXT: Dost ile Oyun İçin Niantic AR
+TEXT: Dost ile Oyun İçin Scopely Explore AR
 
 RESOURCE ID: settings_buddy_gained_candy
 TEXT: Dost Şekerleri
@@ -115269,7 +115434,7 @@ RESOURCE ID: settings_encounter_ar
 TEXT: AR Karşılaşmaları
 
 RESOURCE ID: settings_encounter_ar_tip
-TEXT: Pokémon Karşılaşmaları için Niantic AR
+TEXT: Pokémon Karşılaşmaları için Scopely Explore AR
 
 RESOURCE ID: settings_enhanced_graphics_description
 TEXT: Gelişmiş efekt, gölge ve dokular. Pil ömrünü etkileyebilir.
@@ -115359,13 +115524,13 @@ RESOURCE ID: settings_nearby_raids
 TEXT: Yakındaki Akınlar
 
 RESOURCE ID: settings_niantic_ar
-TEXT: Niantic AR (AR+)
+TEXT: Scopely Explore AR (AR+)
 
 RESOURCE ID: settings_niantic_ar_tip
 TEXT: AR’da Pokémon yakalayabilir, GO Fotoğraf çekebilir ve dostunuzla oynayabilirsiniz.
 
 RESOURCE ID: settings_niantic_ar_update
-TEXT: Niantic AR'ı (AR+) güncelle
+TEXT: Scopely Explore AR'ı (AR+) güncelle
 
 RESOURCE ID: settings_niantic_ar_update_done
 TEXT: AR güncel.
@@ -117441,10 +117606,10 @@ RESOURCE ID: social_online_toast
 TEXT: Çevrimiçi durumunuz paylaşılıyor
 
 RESOURCE ID: social_online_consent_privacy
-TEXT: Not: Çevrimiçi durum paylaşımını etkinleştirdiğinizde bu özellik, oynadığınız tüm Niantic oyunları için etkinleştirilir.
+TEXT: Not: Çevrimiçi durum paylaşımını etkinleştirdiğinizde bu özellik, oynadığınız tüm Scopely Explore oyunları için etkinleştirilir.
 
 RESOURCE ID: social_online_consent_note_body
-TEXT: Çevrimiçi durumunuz, Niantic Online'a kaydolmuş arkadaşlarınız tarafından görülebilir.
+TEXT: Çevrimiçi durumunuz, Scopely Explore Online'a kaydolmuş arkadaşlarınız tarafından görülebilir.
 Durumunuzu paylaşmayı, aynı düğmeye dokunarak istediğiniz zaman devre dışı bırakabilirsiniz.
 
 RESOURCE ID: social_online_consent_note_header
@@ -117589,10 +117754,10 @@ RESOURCE ID: soft_sfida_desc_default_short
 TEXT: Pokémon GO kapalıyken dolaştığınızda otomatik olarak Poké Topu atıp PokéDurak döndürün.
 
 RESOURCE ID: soft_sfida_desc_foreground
-TEXT: Automatically throw Poké Balls and spin PokéStops in the background while moving. You can activate it once daily.
+TEXT: Hareket halindeyken arka planda otomatik olarak Poké Topu atıp PokéDurak döndürün. Günde bir kere etkinleştirilebilir.
 
 RESOURCE ID: soft_sfida_desc_foreground_short
-TEXT: Encounter Pokémon and spin PokéStops in the background while moving.
+TEXT: Hareket halindeyken arka planda Pokémon’larla karşılaşıp PokéDurak döndürün.
 
 RESOURCE ID: soft_sfida_desc_items_full
 TEXT: Eşya Çantanızı yönetin veya eşya depolama kapasitenizi artırın.
@@ -117637,10 +117802,10 @@ RESOURCE ID: soft_sfida_btn_manage_item_bag
 TEXT: Eşya Çantasını Yönet
 
 RESOURCE ID: soft_sfida_btn_switch_caps
-TEXT: SWITCH
+TEXT: DEĞİŞTİR
 
 RESOURCE ID: soft_sfida_btn_unpair_device_caps
-TEXT: UNPAIR DEVICE
+TEXT: EŞLEŞTİRMEYİ KALDIR
 
 RESOURCE ID: soft_sfida_btn_view_summary
 TEXT: Özeti görüntüle
@@ -118436,7 +118601,7 @@ RESOURCE ID: sponsored_gift_tutorial_description_1
 TEXT: Çevrenizdeki dünyayı keşfederken reklam verenlerden konumunuzla alakalı mesajlarla birlikte Sponsorlu Hediyeler alabilirsiniz. Sponsorlu Hediyeler artık yeni bir görünüme sahip!
 
 RESOURCE ID: sponsored_gift_tutorial_description_2
-TEXT: Her zamanki gibi, kişisel bilgilerinizi sponsorlarla paylaşmıyoruz. Bu özellik hakkında daha fazla bilgi için lütfen Niantic Destek sayfasına göz atın.
+TEXT: Her zamanki gibi, kişisel bilgilerinizi sponsorlarla paylaşmıyoruz. Bu özellik hakkında daha fazla bilgi için lütfen Scopely Explore Destek sayfasına göz atın.
 
 RESOURCE ID: sponsored_gift_tutorial_description_3
 TEXT: Sponsorlu Hediyeleri ayarlardan yönetebilirsiniz. Bu durum, Hediyeleri Sponsorlu Konumlardan alsanız bile arkadaşlarınızla takas ettiğiniz Hediyeleri etkilemez.
@@ -122889,10 +123054,10 @@ RESOURCE ID: switch_sleep_warning
 TEXT: Nintendo Switch'e bağlanırken akıllı telefonunuzu kapatmayın ya da uyku moduna almayın. 
 
 RESOURCE ID: switch_to_soft_sfida_description_default
-TEXT: If you're unable to use your device but want to remain paired, you can use Explorer Gadget Instead.
+TEXT: Cihazınızı kullanamıyor ama eşleşmiş halde kalmak istiyorsanız Kâşif Aygıtınızı kullanabilirsiniz.
 
 RESOURCE ID: switch_to_soft_sfida_title_default
-TEXT: Pause your device and switch to Explorer Gadget?
+TEXT: Cihazınız duraklatılıp Kâşif Aygıtınıza geçilsin mi?
 
 RESOURCE ID: swsh_masterball_sr_title
 TEXT: Ustalık Araştırması: Usta Top
@@ -123477,6 +123642,11 @@ TEXT: <b>Şu bonusları içerir:</b>
 • Güç Noktalarından ve keşiften 4000 adede kadar ilave Maksi Parçacık toplayın
 • Başarıyla tamamlanan Maksi Maçlardan 2× TP
 • Maksi Mantar ve 25.000 TP kazandıran süreli araştırma
+
+RESOURCE ID: text_rewards_key_gmaxcinderace26
+TEXT: <b>Şu bonusları içerir:</b>
+• Maksi Maçlardan 2× TP
+• 6400 Maksi Parçacık, 25.000 TP ve bir Maksi Mantar kazandıran süreli araştırma.
 
 RESOURCE ID: text_rewards_key_gmaxgarbodor25
 TEXT: <b>Şu bonusları içerir:</b>
@@ -125505,7 +125675,9 @@ RESOURCE ID: tips_friends_tutorial_add_title
 TEXT: Arkadaş Eklemek
 
 RESOURCE ID: tips_friends_tutorial_add_body
-TEXT: Arkadaş eklemek için bir kullanıcının Eğitmen Kodunu alın veya QR kodunu tarayın. Ayrıca Arkadaş Ekle ekranından Facebook hesabınızı bağlayarak da arkadaş ekleyebilirsiniz.
+TEXT: Arkadaş eklemek için bir kullanıcının Eğitmen Kodunu girebilir veya QR kodunu tarayabilirsiniz. Pokémon GO’da eklediğiniz bir arkadaş ile her ikinizin de oynadığı tüm Scopely Explore oyunlarında da arkadaş olursunuz.
+
+Ayrıca Arkadaş Ekle ekranından hesabınızı Facebook ile bağlayarak da arkadaş ekleyebilirsiniz.
 
 RESOURCE ID: tips_friends_tutorial_battle_title
 TEXT: Arkadaşlarla Maç Yapmak
@@ -128932,6 +129104,9 @@ TEXT: Partner Araştırması: FamilyMart (7/8)
 RESOURCE ID: tr_partner_familymart_april2026_header_7
 TEXT: Partner Araştırması: FamilyMart (8/8)
 
+RESOURCE ID: tr_partner_familymart_sep2026_badge0233
+TEXT: Partner Araştırması – Akşamüstü Keyfi: FamilyMart
+
 RESOURCE ID: tr_partner_softbank_june2026
 TEXT: Partner Araştırması: SoftBank
 
@@ -130916,7 +131091,7 @@ RESOURCE ID: unfriend_niantic_friend_title
 TEXT: {0} adlı oyuncuyu arkadaşlıktan çıkarmak istediğinizden emin misiniz?
 
 RESOURCE ID: unfriend_niantic_friend_tip
-TEXT: Arkadaşınızı bu oyunda arkadaşlıktan çıkarırsanız ikinizin oynadığı tüm Niantic oyunlarında arkadaşlıktan çıkarmış olursunuz.
+TEXT: Arkadaşınızı bu oyunda arkadaşlıktan çıkarırsanız ikinizin oynadığı tüm Scopely Explore oyunlarında arkadaşlıktan çıkarmış olursunuz.
 
 RESOURCE ID: unified_punishment_acknowledgement_button
 TEXT: Tamam
@@ -130979,7 +131154,7 @@ Bu hesap, aktif oyun oturumunuza bağlı.
 RESOURCE ID: unlink_account_failed_login_not_removable
 TEXT: <size=36><b>Hesabın bağlantısı kesilemiyor!</b></size>
 
-Bu oturumu diğer Niantic ürünleriyle bağlamış olabilirsiniz. Bağlantıyı kaldırmak için lütfen ek bir oturum yöntemi bağlayın.
+Bu oturumu diğer Scopely Explore ürünleriyle bağlamış olabilirsiniz. Bağlantıyı kaldırmak için lütfen ek bir oturum yöntemi bağlayın.
 
 RESOURCE ID: unlock_max_move_plural
 TEXT: {0} Maksi Hareketin kilidini açın
@@ -131513,7 +131688,7 @@ RESOURCE ID: verbose_logs_info_title
 TEXT: Pokémon GO’nun Gelişmesine Yardım Edin!
 
 RESOURCE ID: verbose_logs_info_body
-TEXT: Oyun kayıtları, Niantic’in Pokémon GO’yu geliştirmesine yardım eden değerli bilgiler içerir. Oyun kayıtlarınızın saklanmasına izin verirseniz bu kayıtları yükleyerek Niantic ile paylaşabilirsiniz.
+TEXT: Oyun kayıtları, Scopely Explore’in Pokémon GO’yu geliştirmesine yardım eden değerli bilgiler içerir. Oyun kayıtlarınızın saklanmasına izin verirseniz bu kayıtları yükleyerek Scopely Explore ile paylaşabilirsiniz.
 
 Farklı eylem türlerine ait her oyun kaydı 24 saat boyunca veya siz aynı türden başka bir eyleme katılana kadar saklanır. Kayıtları dilediğiniz zaman Ayarlar menüsünden yükleyebilirsiniz.
 
@@ -131647,7 +131822,7 @@ RESOURCE ID: vps_download_prompt_continue
 TEXT: Hadi başlayalım!
 
 RESOURCE ID: vps_download_prompt_legal_tos_description
-TEXT: Bu özelliği kullanabilmek için AR’ı etkinleştirin. Niantic AR Foto Safarisi sırasında kameranızdan gelen coğrafi verileri işleyecektir. {0}
+TEXT: Bu özelliği kullanabilmek için AR’ı etkinleştirin. Scopely Explore AR Foto Safarisi sırasında kameranızdan gelen coğrafi verileri işleyecektir. {0}
 
 RESOURCE ID: vps_guardian_oob_toast
 TEXT: Pokémon Oyun Alanının dışındasınız. Pokémon yerleştirmek alan sınırları içine gidin.
@@ -132100,7 +132275,7 @@ RESOURCE ID: wayfarer_eligible_title
 TEXT: Wayfarer Kullanabilirsiniz!
 
 RESOURCE ID: wayfarer_eligible_body
-TEXT: Tebrikler! Çevrenizde bulunan eşsiz ve ilginç konumların bilgilerini sağlayarak Niantic oyunlarının sunduğu tecrübeyi geliştirmenize olanak tanıyan Niantic Wayfarer programını artık siz de kullanabilirsiniz. PokéDurak aday gösterme ve düzenleme özelliklerini açmak için Wayfarer eğitimini tamamlayın.
+TEXT: Tebrikler! Çevrenizde bulunan eşsiz ve ilginç konumların bilgilerini sağlayarak Scopely Explore oyunlarının sunduğu tecrübeyi geliştirmenize olanak tanıyan Scopely Explore Wayfarer programını artık siz de kullanabilirsiniz. PokéDurak aday gösterme ve düzenleme özelliklerini açmak için Wayfarer eğitimini tamamlayın.
 
 RESOURCE ID: wayfarer_eligible_goto
 TEXT: WAYFARER'A GİDİN
