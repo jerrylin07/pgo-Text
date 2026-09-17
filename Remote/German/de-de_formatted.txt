@@ -284,7 +284,7 @@ RESOURCE ID: about_screen_btn
 TEXT: Über <i>Pokémon GO</i>
 
 RESOURCE ID: about_screen_copyright1
-TEXT: ©2016-2017 Scopely Explore, Inc.
+TEXT: ©2016-2026 Scopely Explore, Inc.
 
 RESOURCE ID: about_screen_copyright2
 TEXT: ©2016-2017 Pokémon.
@@ -738,6 +738,12 @@ TEXT: Konto löschen
 RESOURCE ID: advanced_settings_delete_account_button_description
 TEXT: Sobald dein Pokémon GO-Konto gelöscht wurde, ist es weder für dich noch für andere Personen zugänglich. Diese Aktion kann nicht rückgängig gemacht werden.
 
+RESOURCE ID: advanced_settings_streamer_mode_toggle
+TEXT: Fangort vorrübergehend verbergen
+
+RESOURCE ID: advanced_settings_streamer_mode_toggle_description
+TEXT: Schalte diese Einstellung ein, um den Fangort von Pokémon für 8 Stunden zu verbergen.
+
 RESOURCE ID: adventure_effect_incense_table_header
 TEXT: Von Rauch angelockte Pokémon
 
@@ -1144,6 +1150,9 @@ TEXT: Befristete Forschung: AO 2026 (3/3)
 RESOURCE ID: ao_2026_unown_bonus
 TEXT: Icognito A und O werden von Lockmodulen und Rauch angelockt, um AO 2026 zu feiern.
 
+RESOURCE ID: apac_2026_mid_autumn
+TEXT: Mondscheintanz 2026
+
 RESOURCE ID: apac2024_lucario_movie_promo_title
 TEXT: Weg der Aura
 
@@ -1158,6 +1167,12 @@ TEXT: Während des Events erscheinen Piepi jeden Tag zwischen 13:00 und 19:00 Uh
 
 RESOURCE ID: apac2025_fullmoon_clefairy_o_clock_desc_2
 TEXT: Piepi erscheinen jetzt vermehrt!
+
+RESOURCE ID: apac2026_fullmoon_o_clock_title
+TEXT: Es ist Mondschein-Zeit!
+
+RESOURCE ID: apac2026_fullmoon_o_clock_desc
+TEXT: Während des Events erscheinen Event-Pokémon jeden Tag um 12:00 Uhr, 13:00 Uhr und 20:00 Uhr!
 
 RESOURCE ID: apac_childrens_day_2026_title
 TEXT: Entfalten
@@ -5335,6 +5350,9 @@ TEXT: GO-Armband
 RESOURCE ID: avatar_gloves_wristbandyellow
 TEXT: Team Intuition GO-Armband
 
+RESOURCE ID: avatar_hat_adidas2026
+TEXT: adidas Pokémon Cap
+
 RESOURCE ID: avatar_hat_applinheadband
 TEXT: Knapfel-Haarreif
 
@@ -8252,6 +8270,9 @@ TEXT: Steven-Pose
 RESOURCE ID: avatar_pose_team_leader
 TEXT: Teamleiter-Pose
 
+RESOURCE ID: avatar_shirt_adidas2026
+TEXT: adidas Pokémon Jacket
+
 RESOURCE ID: avatar_shirt_applinapron
 TEXT: Knapfel-Schürze
 
@@ -8470,6 +8491,9 @@ TEXT: Schillerndes Mew-Shirt
 
 RESOURCE ID: avatar_shirt_soccerjersey_10
 TEXT: Trikot Nr. 10
+
+RESOURCE ID: avatar_shoes_adidas2026
+TEXT: adidas Pokémon Megaride Shoes
 
 RESOURCE ID: avatar_shoes_blacephelon
 TEXT: Kopplosio-Stiefel
@@ -19139,6 +19163,9 @@ TEXT: Entwickle Vulpix, um ein Vulnona zu erhalten, das die Lade-Attacke Energie
 
 RESOURCE ID: bonus_cd_move_zigzagoon
 TEXT: Entwickle Galar-Geradaks, um ein Barrikadax zu erhalten, das die Lade-Attacke Abblocker beherrscht!
+
+RESOURCE ID: bonus_cd_move_zorua
+TEXT: Entwickle Zorua, um ein Zoroark zu erhalten, das die Sofort-Attacke Tiefschlag beherrscht!
 
 RESOURCE ID: bonus_cd_move_alolan_vulpix
 TEXT: Entwickle Alola-Vulpix, um ein Alola-Vulnona zu erhalten, das die Lade-Attacke Kalte Dusche beherrscht!
@@ -30832,6 +30859,9 @@ TEXT: Hyperbonus: Community Day – Galar-Zigzachs
 RESOURCE ID: community_day_zigzagoon_timed_research
 TEXT: Galar-Zigzachs: Fang-Herausforderung!
 
+RESOURCE ID: community_day_zorua_event_name
+TEXT: Community Day: Zorua
+
 RESOURCE ID: companion_device_enable_modal_title
 TEXT: Enable Companion Device
 
@@ -34395,6 +34425,9 @@ TEXT: 27. April, 14:00 bis 17:00 Uhr
 RESOURCE ID: event_datetime_range_key_cd_vulpix26
 TEXT: 1. Februar, 14:00 bis 17:00 Uhr
 
+RESOURCE ID: event_datetime_range_key_cd_zorua26
+TEXT: 10. Oktober, 14:00 bis 17:00 Uhr
+
 RESOURCE ID: event_datetime_range_key_cd_jangmo_o25
 TEXT: 21. Juni von 14:00 bis 17:00 Uhr Ortszeit
 
@@ -35807,6 +35840,9 @@ TEXT: Events
 RESOURCE ID: evergreen_tr_event_name
 TEXT: Wähle deinen Pfad
 
+RESOURCE ID: evergreen_week_event_name_twilight_trails
+TEXT: Wähle deinen Pfad: Abendgoldpfade
+
 RESOURCE ID: evergreen_week_tr_title
 TEXT: Befristete Forschung: Wähle deinen Pfad
 
@@ -35879,6 +35915,12 @@ TEXT: Wähle diesen Pfad, um 1,5× EP für das Fangen von Pokémon mit guten Wü
 
 RESOURCE ID: evergreen_week_tr_catch_description_key_2
 TEXT: Wähle diesen Pfad, um zusätzliche Bonbons für das Fangen von Pokémon mit guten oder besseren Würfen zu erhalten.
+
+RESOURCE ID: evergreen_week_tr_catch_stardust_key
+TEXT: Fangen (Sternenstaub)
+
+RESOURCE ID: evergreen_week_tr_catch_stardust_button_text_key
+TEXT: Fangen (Sternenstaub)
 
 RESOURCE ID: evergreen_week_tr_catch_xp_key
 TEXT: Fangen (EP)
@@ -41581,6 +41623,9 @@ TEXT: Ticket: Community Day mit Gelatini
 
 RESOURCE ID: general1.ticket_cd_vulpix26_title
 TEXT: Ticket: Community Day mit Vulpix und Alola-Vulpix
+
+RESOURCE ID: general1.ticket_cd_zorua26_title
+TEXT: Ticket: Community Day mit Zorua
 
 RESOURCE ID: general1.ticket_cdc_deino26_title
 TEXT: Ticket: Community Day Classic mit Kapuno
@@ -52710,8 +52755,77 @@ RESOURCE ID: id2026_car_free_day_tv_id_desc
 TEXT: Feiere den autofreien Tag Indonesiens in Jakarta jeden Sonntag von 6:00 Uhr bis 9:45 Uhr.
 Schließe Feldforschungen oder Befristete Forschungen ab, um Pikachu mit rotem Partyhut und Ortshintergrund zu begegnen.
 
+RESOURCE ID: id_potw_2026_title
+TEXT: Muster der Wildnis
+
+RESOURCE ID: id_potw_2026_tr_title
+TEXT: Befristete Forschung: Muster der Wildnis
+
+RESOURCE ID: id_potw_2026_tv_title
+TEXT: Erkunde Muster der Wildnis!
+
+RESOURCE ID: id_potw_2026_tr_desc_title_00
+TEXT: Befristete Forschung: Muster der Wildnis (1/3)
+
+RESOURCE ID: id_potw_2026_tr_desc_title_01
+TEXT: Befristete Forschung: Muster der Wildnis (2/3)
+
+RESOURCE ID: id_potw_2026_tr_desc_title_02
+TEXT: Befristete Forschung: Muster der Wildnis (3/3)
+
+RESOURCE ID: id_potw_2026_bonus_0
+TEXT: Rauch lockt mehr Pikachu mit Batik-Shirt und Event-Pokémon an
+
+RESOURCE ID: id_potw_2026_bonus_1
+TEXT: Bis zu drei überraschende Begegnungen in GO-Schnappschuss mit Pikachu mit Batik-Shirt
+
+RESOURCE ID: id_potw_2026_collection_challenge
+TEXT: Muster der Wildnis: Sammler-Herausforderung
+
+RESOURCE ID: id_potw_2026_title_country
+TEXT: Muster der Wildnis: Indonesien
+
+RESOURCE ID: id_potw_2026_tr_desc
+TEXT: Schließe die Befristete Forschung ab, um zur Feier von Muster der Wildnis einem Pikachu mit Batik-Shirt und Spezialhintergrund zu begegnen!
+
+RESOURCE ID: id_potw_2026_tv_description
+TEXT: Von der Natur inspirierte Pokémon erscheinen! Erkunde und fange Pokémon mit wunderschönen Mustern von 10:00 Uhr bis 20:00 Uhr Ortszeit. Weitere Details gibt es auf dem Blog.
+
 RESOURCE ID: in_app_label
 TEXT: In-App
+
+RESOURCE ID: in_collegefest_2026_collection_challenge_title
+TEXT: Pokémon GO College Fest 2026: Sammler-Herausforderung
+
+RESOURCE ID: in_collegefest_2026_title
+TEXT: Pokémon GO College Fest 2026
+
+RESOURCE ID: in_collegefest_2026_tv_title
+TEXT: Pokémon GO College Fest beginnt!
+
+RESOURCE ID: in_collegefest_2026_bonus
+TEXT: Pokémon GO College Fest 2026: Event-Bonus
+
+RESOURCE ID: in_collegefest_2026_evolve_bonus
+TEXT: Pokémon GO College Fest 2026: Entwicklungs-Bonus
+
+RESOURCE ID: in_collegefest_2026_tag
+TEXT: Pokémon GO College Fest 2026
+
+RESOURCE ID: in_collegefest_2026_tr_name
+TEXT: Befristete Forschung: Pokémon GO College Fest
+
+RESOURCE ID: in_collegefest_2026_tr_name_1
+TEXT: Befristete Forschung: Pokémon GO College Fest (1/3)
+
+RESOURCE ID: in_collegefest_2026_tr_name_2
+TEXT: Befristete Forschung: Pokémon GO College Fest (2/3)
+
+RESOURCE ID: in_collegefest_2026_tr_name_3
+TEXT: Befristete Forschung: Pokémon GO College Fest (3/3)
+
+RESOURCE ID: in_collegefest_2026_tv_desc
+TEXT: Erkunde deinen Campus, um beliebten Pokémon zu begegnen, Befristete Forschung abzuschließen und dich mit Freunden für Raids und vieles mehr zusammenzuschließen!
 
 RESOURCE ID: in_person_tickets
 TEXT: Tickets für Events vor Ort
@@ -54927,6 +55041,9 @@ TEXT: Ein Ticket zur Teilnahme an der Spezialforschung zum Community Day mit Gel
 RESOURCE ID: item_event_ticket_pink_desc_cd_vulpix26
 TEXT: Ein Ticket zur Teilnahme an der Spezialforschung zum Community Day mit Vulpix und Alola-Vulpix am 1. Februar um 14:00 Uhr Ortszeit (wo immer du dich befindest).
 
+RESOURCE ID: item_event_ticket_pink_desc_cd_zorua26
+TEXT: Ein Ticket zur Teilnahme an der Spezialforschung „Trickser-Weg“ zum Community Day mit Zorua am 10. Oktober um 14:00 Uhr Ortszeit (wo immer du dich befindest).
+
 RESOURCE ID: item_event_ticket_pink_desc_cdc_deino26
 TEXT: Ein Ticket zur Teilnahme an der Spezialforschung zum Community Day Classic mit Kapuno am 16. Mai um 14:00 Uhr Ortszeit (wo immer du dich befindest).
 
@@ -55313,6 +55430,9 @@ TEXT: Dieses Ticket aktiviert sich automatisch und gewährt dir Zugang zum Spezi
 
 RESOURCE ID: item_event_ticket_pink_details_cd_vulpix26
 TEXT: Dieses Ticket aktiviert sich am 1. Februar automatisch und gewährt dir Zugang zur Spezialforschung Feurige Kälte (wo immer du dich befindest).
+
+RESOURCE ID: item_event_ticket_pink_details_cd_zorua26
+TEXT: Dieses Ticket aktiviert sich am 10. Oktober automatisch und gewährt dir Zugang zur Spezialforschung „Trickser-Weg“ (wo immer du dich befindest).
 
 RESOURCE ID: item_event_ticket_pink_details_cd_jangmo_o25
 TEXT: Dieses Ticket aktiviert sich automatisch und gewährt dir Zugang zur Spezialforschung „Dies, das, Miniras!“ zum Community Day am 21. Juni (wo immer du dich befindest).
@@ -62588,10 +62708,10 @@ at SHA 4d4f3e80cc7fb911006bd14d198c9831ef66d005
 Pipeline 339838, job 2672172
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-09-11T20:57:11.794309+00:00 for de-DE
-at SHA 9f591d8678c
-Pipeline 3938550, job 57981687
-Patch from: 0.429.0-SHA-de304d2a-RC2, 0.427.0-SHA-fc729f25-RC2, 0.427.1-SHA-4a569ba7-RC1
+TEXT: Built at 2026-09-17T05:05:53.880793+00:00 for de-DE
+at SHA 37a1529ab2c
+Pipeline 3950659, job 58169809
+Patch from: 0.431.0-SHA-8123c737-RC1, 0.427.0-SHA-fc729f25-RC2, 0.429.0-SHA-d6c796f0-RC1, 0.427.1-SHA-4a569ba7-RC1
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: Befristete Forschung: Ansage vom Typ Kampf
@@ -68144,6 +68264,9 @@ TEXT: Mit dieser Funktion können sich Pokémon im AR-Modus nahtloser in ihre Um
 RESOURCE ID: occlusions_tutorial_body_forced_on
 TEXT: Mit dieser Funktion können sich Pokémon im AR-Modus nahtloser in ihre Umgebung einfügen und sich hinter Objekte bewegen.
 
+RESOURCE ID: oclock_generic_desc
+TEXT: Wilde Event-Pokémon erscheinen mit vermehrter Häufigkeit!
+
 RESOURCE ID: oct22_evo_collection_challenge_1
 TEXT: Stars der Entwicklung: Evoli-Herausforderung
 
@@ -69008,7 +69131,7 @@ RESOURCE ID: party_play_code_invalid
 TEXT: Das Team konnte nicht gefunden werden.
 
 RESOURCE ID: party_play_code_of_conduct_body
-TEXT: Bitte lies dir die Scopely Explore-Verhaltensrichtlinie durch, um zu erfahren, wie du sicher und respektvoll spielen kannst.
+TEXT: Bitte lies dir die Scopely Explore-Verhaltensrichtlinien durch, um zu erfahren, wie du sicher und respektvoll spielen kannst.
 
 RESOURCE ID: party_play_code_of_conduct_button
 TEXT: Verhaltensrichtlinie
@@ -70035,6 +70158,9 @@ TEXT: 5 überraschende Begegnungen mit Felino in GO-Schnappschuss
 
 RESOURCE ID: photobomb_five_zigzagoon
 TEXT: 5 überraschende Begegnungen mit Galar-Zigzachs in GO-Schnappschuss
+
+RESOURCE ID: photobomb_five_zorua
+TEXT: 5 überraschende Begegnungen mit Zorua in GO-Schnappschuss
 
 RESOURCE ID: photobomb_five_croagunk_fashion
 TEXT: 5 überraschende Begegnungen mit einem Glibunkel mit stylischem Look in GO-Schnappschuss
@@ -89882,6 +90008,9 @@ TEXT: Entwickle ein Zwottronin.
 RESOURCE ID: quest_partner_spin_rally_aeonmall
 TEXT: Drehe {0} AEON Mall-PokéStops oder -Arenen.
 
+RESOURCE ID: quest_partner_spin_rally_familymart
+TEXT: Drehe {0} FamilyMart-PokéStops oder -Arenen.
+
 RESOURCE ID: quest_partner_spin_rally_mcdonalds
 TEXT: Drehe {0} McDonald’s PokéStops oder Arenen.
 
@@ -90892,6 +91021,15 @@ TEXT: Mache {0} Schnappschüsse von Normal-Pokémon im Freien.
 
 RESOURCE ID: quest_snapshot_wild_normal_unique_plural
 TEXT: Take snapshots of {0} different wild Normal-type Pokémon
+
+RESOURCE ID: quest_snapshot_wild_plural_bug
+TEXT: Mache Schnappschüsse von {0} verschiedenen wilden Käfer-Pokémon.
+
+RESOURCE ID: quest_snapshot_wild_plural_grass
+TEXT: Mache Schnappschüsse von {0} verschiedenen wilden Pflanzen-Pokémon.
+
+RESOURCE ID: quest_snapshot_wild_plural_grass_or_bug
+TEXT: Mache Schnappschüsse von {0} verschiedenen wilden Pflanzen- oder Käfer-Pokémon.
 
 RESOURCE ID: quest_snapshot_wild_poison_plural
 TEXT: Mache {0} Schnappschüsse von Gift-Pokémon im Freien.
@@ -101664,6 +101802,9 @@ TEXT: Pokémon GO-Safari-Zone in YOKOSUKA
 RESOURCE ID: quest_title_zigzagoon
 TEXT: Feldnotizen: Galar-Zigzachs
 
+RESOURCE ID: quest_title_zorua
+TEXT: Trickser-Weg
+
 RESOURCE ID: quest_title_zygarde
 TEXT: Von A bis Zygarde
 
@@ -105111,6 +105252,15 @@ TEXT: Feldnotizen: Galar-Zigzachs (3/4)
 RESOURCE ID: quest_title_zigzagoon_3
 TEXT: Feldnotizen: Galar-Zigzachs (4/4)
 
+RESOURCE ID: quest_title_zorua_0
+TEXT: Trickser-Weg (1/3)
+
+RESOURCE ID: quest_title_zorua_1
+TEXT: Trickser-Weg (2/3)
+
+RESOURCE ID: quest_title_zorua_2
+TEXT: Trickser-Weg (3/3)
+
 RESOURCE ID: quest_title_zygarde_0
 TEXT: Von A bis Zygarde (1/6)
 
@@ -105914,6 +106064,9 @@ TEXT: Entwickle {0} Galar-Zigzachs.
 
 RESOURCE ID: quest_zigzagoon_snapshot_b
 TEXT: Mache {0} Schnappschüsse von Galar-Zigzachs.
+
+RESOURCE ID: quest_zorua_catch_b
+TEXT: Fange {0} Zorua
 
 RESOURCE ID: quests_quest
 TEXT: Aufgaben
@@ -115377,6 +115530,12 @@ TEXT: Fossil-Begegnungen: Amonitas
 RESOURCE ID: s19_tgr_takeover_collection_challenge
 TEXT: Sammler-Herausforderung
 
+RESOURCE ID: s24_evergreen_branch_catch_candy_description
+TEXT: Wähle diesen Pfad, um 2× Bonbons für das Fangen von Pokémon zu erhalten.
+
+RESOURCE ID: s24_evergreen_branch_throw_stardust_description
+TEXT: Wähle diesen Pfad, um 2× Sternenstaub für das Fangen von Pokémon zu erhalten.
+
 RESOURCE ID: s_pinap_g_razz_pokestop_drop_bonus
 TEXT: Chance auf Erhalt von Silbernen Sananabeeren oder Goldenen Himmihbeeren durch das Drehen von PokéStops oder Arenen
 
@@ -117359,6 +117518,9 @@ TEXT: GO-Pass: Flugtaxi
 RESOURCE ID: season_pass_base_track_title_halloween_2025
 TEXT: GO-Pass: Halloween 2025
 
+RESOURCE ID: season_pass_base_track_title_harvest_festival_2026
+TEXT: GO Pass: Harvest Festival
+
 RESOURCE ID: season_pass_base_track_title_horizons_fall_2026
 TEXT: GO-Pass: Event zur Feier der Kollaboration
 
@@ -117524,6 +117686,9 @@ TEXT: Weitere Infos findest du auf der <a href="https://pokemongo.com/news/flyin
 RESOURCE ID: season_pass_details_link_halloween_2025
 TEXT: Weitere Infos findest du auf der <a href="https://pokemongo.com/de/news/go-pass-halloween-2025">Website</a>.
 
+RESOURCE ID: season_pass_details_link_harvest_festival_2026
+TEXT: For more details, visit the <a href="https://pokemongo.com/news/harvest-festival-2026">website</a>.
+
 RESOURCE ID: season_pass_details_link_horizons_fall_2026
 TEXT: Weitere Infos findest du auf der <a href="https://pokemongo.com/news/pokemon-horizons-celebration-event-2026">Website</a>.
 
@@ -117587,6 +117752,19 @@ TEXT: Schnapp dir den GO-Pass-Deluxe: Halloween 2025, um die folgenden Belohnung
 • Begegnungen mit Event-Pokémon
 • Sonderbonbons XL
 • Und viel mehr!
+
+RESOURCE ID: season_pass_harvest_festival_2026_event_duration
+TEXT: September 29 – October 5
+
+RESOURCE ID: season_pass_harvest_festival_2026_track_upgrade_header_description
+TEXT: Earn additional rewards and unlock a <b>Super Rocket Radar</b> at Rank 1!
+
+RESOURCE ID: season_pass_harvest_festival_2026_upgrade_description
+TEXT: Purchase GO Pass Deluxe: Harvest Festival to unlock the following rewards!
+
+• Encounters with Cottonee, Skiddo, Applin, and more!
+• 3 Mossy Lure Modules
+• And much more!
 
 RESOURCE ID: season_pass_horizons_fall_2026_event_duration
 TEXT: 16. bis 22. September
@@ -117793,6 +117971,9 @@ TEXT: GO-Pass-Deluxe: Candelas Sieges-Mission + 6 Stufen
 RESOURCE ID: season_pass_premium_track_plus_six_ranks_title_flying_taxi_2026
 TEXT: GO-Pass-Deluxe: Flugtaxi + 6 Stufen
 
+RESOURCE ID: season_pass_premium_track_plus_six_ranks_title_harvest_festival_2026
+TEXT: GO Pass Deluxe: Harvest Festival + 6 Ranks
+
 RESOURCE ID: season_pass_premium_track_plus_six_ranks_title_horizons_fall_2026
 TEXT: GO-Pass-Deluxe: Event zur Feier der Kollaboration + 6 Stufen
 
@@ -117930,6 +118111,9 @@ TEXT: GO-Pass-Deluxe: Flugtaxi
 
 RESOURCE ID: season_pass_premium_track_title_halloween_2025
 TEXT: GO-Pass-Deluxe: Halloween 2025
+
+RESOURCE ID: season_pass_premium_track_title_harvest_festival_2026
+TEXT: GO Pass Deluxe: Harvest Festival
 
 RESOURCE ID: season_pass_premium_track_title_horizons_fall_2026
 TEXT: GO-Pass-Deluxe: Event zur Feier der Kollaboration
@@ -118382,6 +118566,9 @@ TEXT: Items
 
 RESOURCE ID: settings_advanced_pokemon_title
 TEXT: Pokémon
+
+RESOURCE ID: settings_advanced_privacy_title
+TEXT: Datenschutz
 
 RESOURCE ID: settings_advanced_quality_title
 TEXT: Qualität
@@ -119190,6 +119377,21 @@ TEXT: Community Day mit Schnuthelm und Laukaps: Befristete Forschung – Fortset
 
 RESOURCE ID: shield_break_adventure_effect_battle_log
 TEXT: DEINE ATTACKEN ERHALTEN DURCH DEN ABENTEUER-EFFEKT VON WUCHTSCHLAG+ EINEN BOOST!
+
+RESOURCE ID: shima_collab_2026_tr_title
+TEXT: Befristete Forschung: adidas
+
+RESOURCE ID: shima_collab_2026_tv_title
+TEXT: Pokémon GO: adidas
+
+RESOURCE ID: shima_collab_2026_tr_1
+TEXT: Befristete Forschung: adidas (1/3)
+
+RESOURCE ID: shima_collab_2026_tr_2
+TEXT: Befristete Forschung: adidas (2/3)
+
+RESOURCE ID: shima_collab_2026_tr_3
+TEXT: Befristete Forschung: adidas (3/3)
 
 RESOURCE ID: shinjuku_cross_title
 TEXT: クロス新宿ビジョン
@@ -121400,6 +121602,9 @@ TEXT: Wilde Felino erscheinen mit vermehrter Häufigkeit.
 
 RESOURCE ID: spawn_zigzagoon
 TEXT: Wilde Galar-Zigzachs erscheinen mit vermehrter Häufigkeit!
+
+RESOURCE ID: spawn_zorua
+TEXT: Wilde Zorua erscheinen mit vermehrter Häufigkeit.
 
 RESOURCE ID: spawn_dratini_cdc
 TEXT: More Dratini are appearing in the wild!
@@ -125827,6 +126032,12 @@ TEXT: Tägliche Serien
 RESOURCE ID: streaks_widget_description
 TEXT: Benutze das Widget „Tägliche Serien“, um den Überblick über deine Pokémon-Fangserie und PokéStop-Dreh-Serie zu behalten. Am siebten Tag erhältst du besonders große Boni!
 
+RESOURCE ID: streamer_mode_expire_modal_title
+TEXT: Fangort jetzt sichtbar
+
+RESOURCE ID: streamer_mode_expire_modal_desc
+TEXT: Um den Fundort von Pokémon weiterhin zu verbergen, geh zu den Erweiterten Einstellungen.
+
 RESOURCE ID: strength_numbers_gc_display_text
 TEXT: Nach Abschluss der Herausforderung schalten alle Trainer die Möglichkeit frei, kostenlose Tickets zur Spezialforschung für den Community Day Classic mit Machollo im Mai 2025 zu verschenken. Die verschenkbaren Tickets sind vom 23. Mai um 10:00 Uhr (oder früher!) bis zum 24. Mai um 17:00 Uhr Ortszeit im Pokémon GO-In-Game-Shop erhältlich.
 
@@ -127728,6 +127939,12 @@ TEXT: <b>Enthaltene Belohnungen:</b>
 • Begegnungen mit Vulpix und Alola-Vulpix mit Spezialhintergrund
 • Und mehr!
 
+RESOURCE ID: text_rewards_key_cd_zorua26
+TEXT: <b>Enthaltene Belohnungen:</b>
+• Hochwertige In-Game-Items wie 1 Premium-Kampf-Pass, 1 Lade-TM und Sonderbonbons
+• Begegnungen mit Zorua mit Spezialhintergrund
+• Und mehr!
+
 RESOURCE ID: text_rewards_key_cd_jangmo_o25
 TEXT: <b>Enthaltene Belohnungen:</b>
 • Hochwertige In-Game-Items wie einen Premium-Kampf-Pass, eine Lade-TM und Sonderbonbons
@@ -128425,6 +128642,9 @@ TEXT: Ticket für die Spezialforschung zum Community Day mit Gelatini im Shop er
 
 RESOURCE ID: ticket_vulpix_cd
 TEXT: Ticket für die Spezialforschung zum Community Day mit Vulpix und Alola-Vulpix im Shop erhältlich.
+
+RESOURCE ID: ticket_zorua_cd
+TEXT: Ticket für die Spezialforschung zum Community Day mit Zorua im Shop erhältlich
 
 RESOURCE ID: time_left_day_hour
 TEXT: Endet in {0} Tag(en) und {1} Stunde(n)
@@ -130020,6 +130240,12 @@ TEXT: Befristete Forschung: Kanto-Abenteuer in Korea
 
 RESOURCE ID: tr_apac_151busstop_scavenger_desc
 TEXT: Befristete Forschung: GO-GO-GO-Tour
+
+RESOURCE ID: tr_apac_2026_mid_autumn_1
+TEXT: Befristete Forschung: Mondscheintanz 2026 – Monderhellter Pfad
+
+RESOURCE ID: tr_apac_2026_mid_autumn_2
+TEXT: Befristete Bonus-Forschung: Mondscheintanz 2026 – Aufsteigender Vollmond
 
 RESOURCE ID: tr_apac2024_lucario_movie_promo_title_00
 TEXT: Befristete Forschung: Weg der Aura (1/2)
@@ -136460,6 +136686,9 @@ TEXT: Zamazenta schwingt {0} lang einen großen, mächtigen Schild. Stärkt die 
 
 RESOURCE ID: zorua_o_clock_active
 TEXT: Zorua erscheinen jetzt vermehrt!
+
+RESOURCE ID: zorua_website_link
+TEXT: Weitere Infos findest du auf der <a href="https://pokemongo.com/news/communityday-october-2026-zorua">Website</a>.
 
 RESOURCE ID: zygarde_tappable_push_notification
 TEXT: Etwas Geheimnisvolles ist erschienen ...
