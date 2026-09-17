@@ -744,6 +744,12 @@ TEXT: アカウント削除
 RESOURCE ID: advanced_settings_delete_account_button_description
 TEXT: アカウントが削除されると、あなたもしくは他のどの人からもアクセスできなくなります。この操作を元に戻すことはできません。
 
+RESOURCE ID: advanced_settings_streamer_mode_toggle
+TEXT: ポケモンを捕まえた場所を暫時隠す
+
+RESOURCE ID: advanced_settings_streamer_mode_toggle_description
+TEXT: 8時間表示させない設定
+
 RESOURCE ID: adventure_effect_incense_table_header
 TEXT: 引き寄せられるポケモン
 
@@ -1152,6 +1158,9 @@ TEXT: 全豪オープン2026タイムチャレンジ(3/3)
 RESOURCE ID: ao_2026_unown_bonus
 TEXT: 全豪オープン2026に関連してアンノーン(A)(O)がルアー・おこうに反応
 
+RESOURCE ID: apac_2026_mid_autumn
+TEXT: おつきみダンス2026
+
 RESOURCE ID: apac2024_lucario_movie_promo_title
 TEXT: 波動の使い方
 
@@ -1166,6 +1175,12 @@ TEXT: イベント期間中毎日1PM・7PMにピッピが出現
 
 RESOURCE ID: apac2025_fullmoon_clefairy_o_clock_desc_2
 TEXT: ピッピ大量発生中！
+
+RESOURCE ID: apac2026_fullmoon_o_clock_title
+TEXT: 月見タイム！
+
+RESOURCE ID: apac2026_fullmoon_o_clock_desc
+TEXT: イベント期間中毎日12:00PM、1:00PM、7:00PM、8:00PMにイベントテーマポケモンが出現
 
 RESOURCE ID: apac_childrens_day_2026_title
 TEXT: 成長する時間
@@ -5097,6 +5112,9 @@ TEXT: GOバンド
 RESOURCE ID: avatar_gloves_wristbandyellow
 TEXT: GOバンド　チームインスティンクト
 
+RESOURCE ID: avatar_hat_adidas2026
+TEXT: adidas Pokémon Cap
+
 RESOURCE ID: avatar_hat_applinheadband
 TEXT: カジッチュ　カチューシャ
 
@@ -7781,6 +7799,9 @@ TEXT: ダイゴ
 RESOURCE ID: avatar_pose_team_leader
 TEXT: チームリーダー風　ポーズ
 
+RESOURCE ID: avatar_shirt_adidas2026
+TEXT: adidas Pokémon Jacket
+
 RESOURCE ID: avatar_shirt_applinapron
 TEXT: カジッチュ　エプロン
 
@@ -7998,6 +8019,9 @@ TEXT: ミュウ(色違い)Tシャツ
 
 RESOURCE ID: avatar_shirt_soccerjersey_10
 TEXT: 10番　ジャージ
+
+RESOURCE ID: avatar_shoes_adidas2026
+TEXT: adidas Pokémon Megaride Shoes
 
 RESOURCE ID: avatar_shoes_blacephelon
 TEXT: ズガドーン　ブーツ
@@ -18844,6 +18868,9 @@ TEXT: ロコンをキュウコンに進化させるとエナジーボールを�
 
 RESOURCE ID: bonus_cd_move_zigzagoon
 TEXT: ガラルのマッスグマをタチフサグマに進化させるとブロッキングを覚えている
+
+RESOURCE ID: bonus_cd_move_zorua
+TEXT: ゾロアをゾロアークに進化させるとふいうちを覚えている
 
 RESOURCE ID: bonus_cd_move_alolan_vulpix
 TEXT: アローラのロコンをアローラのキュウコンに進化させるとひやみずを覚えている
@@ -30555,6 +30582,9 @@ RESOURCE ID: community_day_zigzagoon_timed_research
 TEXT: ガラルのジグザグマ
 キャッチチャレンジ
 
+RESOURCE ID: community_day_zorua_event_name
+TEXT: コミュニティ・デイ：ゾロア
+
 RESOURCE ID: companion_device_enable_modal_title
 TEXT: 外部デバイスの使用
 
@@ -34170,6 +34200,9 @@ TEXT: 4月27日2:00PM～5:00PM
 RESOURCE ID: event_datetime_range_key_cd_vulpix26
 TEXT: 2月1日2:00PM～5:00PM
 
+RESOURCE ID: event_datetime_range_key_cd_zorua26
+TEXT: 10月10日2:00PM～5:00PM
+
 RESOURCE ID: event_datetime_range_key_cd_jangmo_o25
 TEXT: 6月21日2:00PM～5:00PM
 
@@ -35581,6 +35614,9 @@ TEXT: イベント
 RESOURCE ID: evergreen_tr_event_name
 TEXT: 選べる冒険
 
+RESOURCE ID: evergreen_week_event_name_twilight_trails
+TEXT: 選べる冒険：黄昏の旅路
+
 RESOURCE ID: evergreen_week_tr_title
 TEXT: 選べるタイムチャレンジ
 
@@ -35653,6 +35689,12 @@ TEXT: この道を選ぶと、ナイススロー以上でポケモンを捕ま�
 
 RESOURCE ID: evergreen_week_tr_catch_description_key_2
 TEXT: この道を選ぶと、ナイススロー以上でポケモンを捕まえてもらえるアメが増えます。
+
+RESOURCE ID: evergreen_week_tr_catch_stardust_key
+TEXT: 捕まえる(ほしのすな)
+
+RESOURCE ID: evergreen_week_tr_catch_stardust_button_text_key
+TEXT: 捕まえる(ほしのすな)
 
 RESOURCE ID: evergreen_week_tr_catch_xp_key
 TEXT: 捕まえる(XP)
@@ -41179,6 +41221,9 @@ TEXT: バニプッチコミュニティ・デイチケット
 
 RESOURCE ID: general1.ticket_cd_vulpix26_title
 TEXT: ロコンとアローラのすがたのロコンコミュニティ・デイチケット
+
+RESOURCE ID: general1.ticket_cd_zorua26_title
+TEXT: ゾロアコミュニティ・デイチケット
 
 RESOURCE ID: general1.ticket_cdc_deino26_title
 TEXT: モノズコミュニティ・デイ復刻チケット
@@ -52343,8 +52388,77 @@ RESOURCE ID: id2026_car_free_day_tv_id_desc
 TEXT: 毎週日曜日ジャカルタで6:00AM～9:45AMにカーフリーデー開催
 フィールドリサーチ・タイムチャレンジ完了でロケーション背景つき赤いパーティーハットをかぶったピカチュウに出会えます
 
+RESOURCE ID: id_potw_2026_title
+TEXT: ワイルドパターン
+
+RESOURCE ID: id_potw_2026_tr_title
+TEXT: ワイルドパターンタイムチャレンジ
+
+RESOURCE ID: id_potw_2026_tv_title
+TEXT: 「ワイルドパターン」イベント開催中！
+
+RESOURCE ID: id_potw_2026_tr_desc_title_00
+TEXT: ワイルドパターンタイムチャレンジ(1/3)
+
+RESOURCE ID: id_potw_2026_tr_desc_title_01
+TEXT: ワイルドパターンタイムチャレンジ(2/3)
+
+RESOURCE ID: id_potw_2026_tr_desc_title_02
+TEXT: ワイルドパターンタイムチャレンジ(3/3)
+
+RESOURCE ID: id_potw_2026_bonus_0
+TEXT: バティックを身にまとったピカチュウなどイベントテーマのポケモンがおこうに反応しやすい
+
+RESOURCE ID: id_potw_2026_bonus_1
+TEXT: GOスナップショットでバティックを身にまとったピカチュウのサプライズ最大3回
+
+RESOURCE ID: id_potw_2026_collection_challenge
+TEXT: ワイルドパターンコレクションチャレンジ
+
+RESOURCE ID: id_potw_2026_title_country
+TEXT: ワイルドパターン：インドネシア
+
+RESOURCE ID: id_potw_2026_tr_desc
+TEXT: タイムチャレンジ完了でスペシャル背景つきバティックを身にまとったピカチュウと出会える
+
+RESOURCE ID: id_potw_2026_tv_description
+TEXT: 草原にいそうな美しい色や模様のポケモンが10:00AM～8:00PMに出現。詳細はブログでご確認ください。
+
 RESOURCE ID: in_app_label
 TEXT: アプリ内購入
+
+RESOURCE ID: in_collegefest_2026_collection_challenge_title
+TEXT: Pokémon GO College Fest 2026コレクションチャレンジ
+
+RESOURCE ID: in_collegefest_2026_title
+TEXT: Pokémon GO College Fest 2026
+
+RESOURCE ID: in_collegefest_2026_tv_title
+TEXT: Pokémon GO College Fest 2026開催！
+
+RESOURCE ID: in_collegefest_2026_bonus
+TEXT: Pokémon GO College Fest 2026 イベントボーナス
+
+RESOURCE ID: in_collegefest_2026_evolve_bonus
+TEXT: Pokémon GO College Fest 2026 進化ボーナス
+
+RESOURCE ID: in_collegefest_2026_tag
+TEXT: Pokémon GO College Fest 2026
+
+RESOURCE ID: in_collegefest_2026_tr_name
+TEXT: Pokémon GO College Fest タイムチャレンジ
+
+RESOURCE ID: in_collegefest_2026_tr_name_1
+TEXT: Pokémon GO College Fest タイムチャレンジ(1/3)
+
+RESOURCE ID: in_collegefest_2026_tr_name_2
+TEXT: Pokémon GO College Fest タイムチャレンジ(2/3)
+
+RESOURCE ID: in_collegefest_2026_tr_name_3
+TEXT: Pokémon GO College Fest タイムチャレンジ(3/3)
+
+RESOURCE ID: in_collegefest_2026_tv_desc
+TEXT: キャンパスを探索して、ポケモンを捕まえたり、フレンドと一緒にレイドに参加したりしましょう！
 
 RESOURCE ID: in_person_tickets
 TEXT: チケット(現地参加)
@@ -54561,6 +54675,9 @@ TEXT: 現地時間2025年4月27日2:00PMからバニプッチコミュニティ�
 RESOURCE ID: item_event_ticket_pink_desc_cd_vulpix26
 TEXT: 現地時間2026年2月1日2:00PMからロコンとアローラのすがたのロコンコミュニティ・デイのスペシャルリサーチを行うためのチケット。
 
+RESOURCE ID: item_event_ticket_pink_desc_cd_zorua26
+TEXT: 現地時間2026年10月10日2:00PMからゾロアコミュニティ・デイのスペシャルリサーチを行うためのチケット。
+
 RESOURCE ID: item_event_ticket_pink_desc_cdc_deino26
 TEXT: 現地時間2026年5月16日2:00PMからモノズコミュニティ・デイ復刻のスペシャルリサーチを行うためのチケット。
 
@@ -54947,6 +55064,9 @@ TEXT: このチケットは自動的に発動し4月27日に「しんせつポ�
 
 RESOURCE ID: item_event_ticket_pink_details_cd_vulpix26
 TEXT: このチケットは自動的に発動し2月1日に「氷と炎」スペシャルリサーチが行えるようになります。
+
+RESOURCE ID: item_event_ticket_pink_details_cd_zorua26
+TEXT: このチケットは自動的に発動し10月10日に「わるぎつねポケモンを解明せよ！」スペシャルリサーチが行えるようになります。
 
 RESOURCE ID: item_event_ticket_pink_details_cd_jangmo_o25
 TEXT: このチケットは自動的に発動し6月21日にコミュニティ・デイの「うろこポケモンを解明せよ！」スペシャルリサーチが行えるようになります。
@@ -62227,10 +62347,10 @@ at SHA 4d4f3e80cc7fb911006bd14d198c9831ef66d005
 Pipeline 339838, job 2672172
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-09-11T20:57:11.794309+00:00 for ja-JP
-at SHA 9f591d8678c
-Pipeline 3938550, job 57981687
-Patch from: 0.429.0-SHA-de304d2a-RC2, 0.427.0-SHA-fc729f25-RC2, 0.427.1-SHA-4a569ba7-RC1
+TEXT: Built at 2026-09-17T05:05:53.880793+00:00 for ja-JP
+at SHA 37a1529ab2c
+Pipeline 3950659, job 58169809
+Patch from: 0.431.0-SHA-8123c737-RC1, 0.427.0-SHA-fc729f25-RC2, 0.429.0-SHA-d6c796f0-RC1, 0.427.1-SHA-4a569ba7-RC1
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: タイムチャレンジ：かくとうタイプ
@@ -67899,6 +68019,9 @@ TEXT: ARモードでポケモンが物体に隠れるなど背景にブレンド
 RESOURCE ID: occlusions_tutorial_body_forced_on
 TEXT: ARモードでポケモンが物体に隠れるなど背景にブレンドされます。
 
+RESOURCE ID: oclock_generic_desc
+TEXT: イベントテーマポケモンがより頻繁に野生で出現
+
 RESOURCE ID: oct22_evo_collection_challenge_1
 TEXT: 進化フォーカス：
 イーブイチャレンジ
@@ -69822,6 +69945,9 @@ TEXT: GOスナップショットでウパーのサプライズ5回
 
 RESOURCE ID: photobomb_five_zigzagoon
 TEXT: GOスナップショットでガラルのジグザグマのサプライズ5回
+
+RESOURCE ID: photobomb_five_zorua
+TEXT: GOスナップショットでゾロアのサプライズ5回
 
 RESOURCE ID: photobomb_five_croagunk_fashion
 TEXT: GOスナップショットで後ろ向き帽子をかぶったグレッグルのサプライズ5回
@@ -89677,6 +89803,9 @@ TEXT: フタチマルを進化させる
 RESOURCE ID: quest_partner_spin_rally_aeonmall
 TEXT: イオンモールのポケストップ・ジム{0}個を回す
 
+RESOURCE ID: quest_partner_spin_rally_familymart
+TEXT: ファミリーマートのポケストップ／ジムを{0}個回す
+
 RESOURCE ID: quest_partner_spin_rally_mcdonalds
 TEXT: マクドナルドのポケストップ・ジム{0}個を回す
 
@@ -90687,6 +90816,15 @@ TEXT: ノーマルタイプの野生ポケモンのGOスナップショット写
 
 RESOURCE ID: quest_snapshot_wild_normal_unique_plural
 TEXT: 野生のノーマルタイプポケモン{0}種類のGOスナップショット写真を撮る
+
+RESOURCE ID: quest_snapshot_wild_plural_bug
+TEXT: 野生のむしタイプポケモン{0}種類のGOスナップショット写真を撮る
+
+RESOURCE ID: quest_snapshot_wild_plural_grass
+TEXT: 野生のくさタイプポケモン{0}種類のGOスナップショット写真を撮る
+
+RESOURCE ID: quest_snapshot_wild_plural_grass_or_bug
+TEXT: 野生のくさタイプかむしタイプポケモン{0}種類のGOスナップショット写真を撮る
 
 RESOURCE ID: quest_snapshot_wild_poison_plural
 TEXT: どくタイプの野生ポケモンのGOスナップショット写真を{0}枚撮る
@@ -101371,6 +101509,9 @@ TEXT: Safari Zone in YOKOSUKA 2018
 RESOURCE ID: quest_title_zigzagoon
 TEXT: 研究：ガラルのジグザグマ
 
+RESOURCE ID: quest_title_zorua
+TEXT: わるぎつねポケモンを解明せよ！
+
 RESOURCE ID: quest_title_zygarde
 TEXT: 新たなる道の探索
 
@@ -104830,6 +104971,15 @@ TEXT: 研究：ガラルのジグザグマ (3/4)
 RESOURCE ID: quest_title_zigzagoon_3
 TEXT: 研究：ガラルのジグザグマ (4/4)
 
+RESOURCE ID: quest_title_zorua_0
+TEXT: わるぎつねポケモンを解明せよ！(1/3)
+
+RESOURCE ID: quest_title_zorua_1
+TEXT: わるぎつねポケモンを解明せよ！(2/3)
+
+RESOURCE ID: quest_title_zorua_2
+TEXT: わるぎつねポケモンを解明せよ！(3/3)
+
 RESOURCE ID: quest_title_zygarde_0
 TEXT: 新たなる道の探索 (1/6)
 
@@ -105638,6 +105788,9 @@ TEXT: ガラルのジグザグマを{0}匹進化させる
 
 RESOURCE ID: quest_zigzagoon_snapshot_b
 TEXT: ガラルのジグザグマのGOスナップショット写真を{0}枚撮る
+
+RESOURCE ID: quest_zorua_catch_b
+TEXT: ゾロアを{0}匹捕まえる
 
 RESOURCE ID: quests_quest
 TEXT: タスク
@@ -115113,6 +115266,12 @@ TEXT: カセキの出会い：オムナイト
 RESOURCE ID: s19_tgr_takeover_collection_challenge
 TEXT: コレクションチャレンジ
 
+RESOURCE ID: s24_evergreen_branch_catch_candy_description
+TEXT: この道を選ぶと、ポケモンを捕まえてもらえるアメの数が2倍になります。
+
+RESOURCE ID: s24_evergreen_branch_throw_stardust_description
+TEXT: この道を選ぶと、ポケモンを捕まえてもらえるほしのすなが2倍になります。
+
 RESOURCE ID: s_pinap_g_razz_pokestop_drop_bonus
 TEXT: ポケストップ・ジムを回すとぎんのパイルのみ・きんのズリのみが出ることがある
 
@@ -117103,6 +117262,9 @@ TEXT: GOパス：空を飛ぶ影
 RESOURCE ID: season_pass_base_track_title_halloween_2025
 TEXT: GOパス：ハロウィン2025
 
+RESOURCE ID: season_pass_base_track_title_harvest_festival_2026
+TEXT: GOパス：収穫祭
+
 RESOURCE ID: season_pass_base_track_title_horizons_fall_2026
 TEXT: GOパス：コラボセレブレーションイベント
 
@@ -117268,6 +117430,9 @@ TEXT: 詳細は<a href="https://pokemongo.com/news/flying-taxi-2026">ウェブ�
 RESOURCE ID: season_pass_details_link_halloween_2025
 TEXT: （詳細は<a href="https://pokemongo.com/news/go-pass-halloween-2025">ウェブサイト</a>でご確認ください）
 
+RESOURCE ID: season_pass_details_link_harvest_festival_2026
+TEXT: 詳細は<a href="https://pokemongo.com/news/harvest-festival-2026">ウェブサイト</a>でご確認ください
+
 RESOURCE ID: season_pass_details_link_horizons_fall_2026
 TEXT: 詳細は<a href="https://pokemongo.com/news/pokemon-horizons-celebration-event-2026">ウェブサイト</a>でご確認ください
 
@@ -117330,6 +117495,19 @@ TEXT: GOパスデラックス：ハロウィン2025を購入すると以下の�
 ・ティータイムポーズ
 ・イベントテーマのポケモンとの出会い
 ・ふしぎなアメXL
+・その他
+
+RESOURCE ID: season_pass_harvest_festival_2026_event_duration
+TEXT: 9月29日～10月5日
+
+RESOURCE ID: season_pass_harvest_festival_2026_track_upgrade_header_description
+TEXT: 追加リワードを入手でき、ランク1で<b>スーパーロケットレーダー</b>をアンロック！
+
+RESOURCE ID: season_pass_harvest_festival_2026_upgrade_description
+TEXT: GOパスデラックス：収穫祭を購入すると以下のリワードがアンロックできます！
+
+・モンメン、メェークル、カジッチュとの出会い
+・ハーブルアー3個
 ・その他
 
 RESOURCE ID: season_pass_horizons_fall_2026_event_duration
@@ -117538,6 +117716,9 @@ TEXT: GOパスデラックス：キャンデラの戦法探求＋6ランク
 RESOURCE ID: season_pass_premium_track_plus_six_ranks_title_flying_taxi_2026
 TEXT: GOパスデラックス：空を飛ぶ影＋6ランク
 
+RESOURCE ID: season_pass_premium_track_plus_six_ranks_title_harvest_festival_2026
+TEXT: GOパスデラックス：収穫祭＋6ランク
+
 RESOURCE ID: season_pass_premium_track_plus_six_ranks_title_horizons_fall_2026
 TEXT: GOパスデラックス：コラボセレブレーションイベント＋6ランク
 
@@ -117676,6 +117857,9 @@ TEXT: GOパスデラックス：空を飛ぶ影
 
 RESOURCE ID: season_pass_premium_track_title_halloween_2025
 TEXT: GOパスデラックス：ハロウィン2025
+
+RESOURCE ID: season_pass_premium_track_title_harvest_festival_2026
+TEXT: GOパスデラックス：収穫祭
 
 RESOURCE ID: season_pass_premium_track_title_horizons_fall_2026
 TEXT: GOパスデラックス：コラボセレブレーションイベント
@@ -118131,6 +118315,9 @@ TEXT: 道具
 
 RESOURCE ID: settings_advanced_pokemon_title
 TEXT: ポケモン
+
+RESOURCE ID: settings_advanced_privacy_title
+TEXT: プライバシー
 
 RESOURCE ID: settings_advanced_quality_title
 TEXT: パフォーマンス
@@ -118941,6 +119128,21 @@ TEXT: チョボマキとカブルモコミュニティ・デイコンティニ�
 
 RESOURCE ID: shield_break_adventure_effect_battle_log
 TEXT: ばくれつパンチ+のフィールド効果でこうげきアップ！
+
+RESOURCE ID: shima_collab_2026_tr_title
+TEXT: adidas タイムチャレンジ
+
+RESOURCE ID: shima_collab_2026_tv_title
+TEXT: Pokémon GO: adidas
+
+RESOURCE ID: shima_collab_2026_tr_1
+TEXT: adidas タイムチャレンジ (1/3)
+
+RESOURCE ID: shima_collab_2026_tr_2
+TEXT: adidas タイムチャレンジ (2/3)
+
+RESOURCE ID: shima_collab_2026_tr_3
+TEXT: adidas タイムチャレンジ (3/3)
 
 RESOURCE ID: shinjuku_cross_title
 TEXT: クロス新宿ビジョン
@@ -121153,6 +121355,9 @@ TEXT: ウパーがより多く野生で出現
 
 RESOURCE ID: spawn_zigzagoon
 TEXT: ガラルのジグザグマがより多く野生で出現
+
+RESOURCE ID: spawn_zorua
+TEXT: ゾロアがより多く野生で出現
 
 RESOURCE ID: spawn_dratini_cdc
 TEXT: ミニリュウがより多く野生で出現
@@ -125605,6 +125810,12 @@ TEXT: デイリー連続
 RESOURCE ID: streaks_widget_description
 TEXT: デイリー連続ウィジェットを使ってポケモンゲットとポケストップスピンを把握。7日目ボーナスを確実に手に入れよう！
 
+RESOURCE ID: streamer_mode_expire_modal_title
+TEXT: 捕まえた場所を表示
+
+RESOURCE ID: streamer_mode_expire_modal_desc
+TEXT: 捕まえた場所の非表示を継続したい場合は、高度な設定画面で再度設定してください。
+
 RESOURCE ID: strength_numbers_gc_display_text
 TEXT: チャレンジ完了後に2025年5月のコミュニティ・デイ復刻：ワンリキースペシャルリサーチのチケットをフレンドにプレゼントすることができるようになります。チケットは現地時間5月23日10:00AM（早まる可能性あり）から5月24日5:00PMまでショップで入手できます。
 
@@ -127494,6 +127705,12 @@ TEXT: <b>もらえるもの：</b>
 ・プレミアムバトルパス、わざマシンスペシャル、ふしぎなアメ
 ・その他
 
+RESOURCE ID: text_rewards_key_cd_zorua26
+TEXT: <b>もらえるもの：</b>
+・ゾロア（スペシャル背景つき）との出会い
+・プレミアムバトルパス、わざマシンスペシャル、ふしぎなアメ
+・その他
+
 RESOURCE ID: text_rewards_key_cd_jangmo_o25
 TEXT: <b>もらえるもの：</b>
 ・ジャラコ（スペシャル背景つき）との出会い
@@ -128191,6 +128408,9 @@ TEXT: バニプッチコミュニティ・デイスペシャルリサーチの�
 
 RESOURCE ID: ticket_vulpix_cd
 TEXT: ロコンとアローラのすがたのロコンコミュニティ・デイスペシャルリサーチのチケットがショップに登場
+
+RESOURCE ID: ticket_zorua_cd
+TEXT: ゾロアコミュニティ・デイスペシャルリサーチのチケットがショップに登場
 
 RESOURCE ID: time_left_day_hour
 TEXT: 終了まで{0}日と{1}時間
@@ -129794,6 +130014,12 @@ TEXT: 韓国でカントー地方のポケモンを探せ！タイムチャレ�
 
 RESOURCE ID: tr_apac_151busstop_scavenger_desc
 TEXT: 街めぐりへGO！タイムチャレンジ
+
+RESOURCE ID: tr_apac_2026_mid_autumn_1
+TEXT: おつきみダンス2026タイムチャレンジ：月夜の小径
+
+RESOURCE ID: tr_apac_2026_mid_autumn_2
+TEXT: おつきみダンス2026タイムチャレンジ：昇る満月
 
 RESOURCE ID: tr_apac2024_lucario_movie_promo_title_00
 TEXT: 波動の使い方タイムチャレンジ(1/2)
@@ -136390,6 +136616,9 @@ TEXT: ザマゼンタが{0}のあいだ強力な盾を振りかざすため、�
 
 RESOURCE ID: zorua_o_clock_active
 TEXT: ゾロアが大量発生中！
+
+RESOURCE ID: zorua_website_link
+TEXT: 詳細は<a href="https://pokemongo.com/news/communityday-october-2026-zorua">ウェブサイト</a>でご確認ください
 
 RESOURCE ID: zygarde_tappable_push_notification
 TEXT: 何かが現れた！

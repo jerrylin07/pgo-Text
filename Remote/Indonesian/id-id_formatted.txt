@@ -735,6 +735,12 @@ TEXT: Hapus Akun
 RESOURCE ID: advanced_settings_delete_account_button_description
 TEXT: Setelah akun Pokémon GO dihapus, akun tersebut tidak dapat diakses lagi. Tindakan ini tidak dapat dibatalkan.
 
+RESOURCE ID: advanced_settings_streamer_mode_toggle
+TEXT: Sembunyikan Sementara Lokasi Tangkapan
+
+RESOURCE ID: advanced_settings_streamer_mode_toggle_description
+TEXT: Aktifkan pengaturan ini untuk menyembunyikan lokasi penangkapan Pokémon selama 8 jam.
+
 RESOURCE ID: adventure_effect_incense_table_header
 TEXT: Pokémon yang Tertarik
 
@@ -1141,6 +1147,9 @@ TEXT: Penelitian Berwaktu AO 2026 (3/3)
 RESOURCE ID: ao_2026_unown_bonus
 TEXT: Unown A dan O akan terpikat oleh Modul Umpan atau Pewangi untuk merayakan AO 2026
 
+RESOURCE ID: apac_2026_mid_autumn
+TEXT: Menari di Bawah Sinar Bulan 2026
+
 RESOURCE ID: apac2024_lucario_movie_promo_title
 TEXT: Jalan Auraku
 
@@ -1155,6 +1164,12 @@ TEXT: Selama event berlangsung, Clefairy akan muncul setiap hari pada pukul 13.0
 
 RESOURCE ID: apac2025_fullmoon_clefairy_o_clock_desc_2
 TEXT: Terjadi kemunculan massal Clefairy!
+
+RESOURCE ID: apac2026_fullmoon_o_clock_title
+TEXT: Saatnya Sinar Bulan
+
+RESOURCE ID: apac2026_fullmoon_o_clock_desc
+TEXT: Selama periode event, Pokémon bertema event akan muncul setiap hari pada pukul 12.00, 13.00, 17.00, dan 20.00!
 
 RESOURCE ID: apac_childrens_day_2026_title
 TEXT: Tumbuh Melampaui
@@ -5032,6 +5047,9 @@ TEXT: Gelang GO
 RESOURCE ID: avatar_gloves_wristbandyellow
 TEXT: Gelang GO Tim Instinct
 
+RESOURCE ID: avatar_hat_adidas2026
+TEXT: adidas Pokémon Cap
+
 RESOURCE ID: avatar_hat_applinheadband
 TEXT: Bando Applin
 
@@ -7663,6 +7681,9 @@ TEXT: Pose Steven
 RESOURCE ID: avatar_pose_team_leader
 TEXT: Pose Pemimpin Tim
 
+RESOURCE ID: avatar_shirt_adidas2026
+TEXT: adidas Pokémon Jacket
+
 RESOURCE ID: avatar_shirt_applinapron
 TEXT: Apron Applin
 
@@ -7880,6 +7901,9 @@ TEXT: Kaus Mew Bersinar
 
 RESOURCE ID: avatar_shirt_soccerjersey_10
 TEXT: Jersei No. 10
+
+RESOURCE ID: avatar_shoes_adidas2026
+TEXT: adidas Pokémon Megaride Shoes
 
 RESOURCE ID: avatar_shoes_blacephelon
 TEXT: Sepatu Blacephalon
@@ -18535,6 +18559,9 @@ TEXT: Evolusikan Vulpix untuk mendapatkan Ninetales yang mempelajari Energy Ball
 RESOURCE ID: bonus_cd_move_zigzagoon
 TEXT: Evolve Galarian Linoone to get an Obstagoon that knows the Charged Attack Obstruct!
 
+RESOURCE ID: bonus_cd_move_zorua
+TEXT: Evolusikan Zorua untuk mendapatkan Zoroark yang mempelajari Pukulan Mendadak!
+
 RESOURCE ID: bonus_cd_move_alolan_vulpix
 TEXT: Evolusikan Alolan Vulpix untuk mendapatkan Alolan Ninetales yang mempelajari Air Dingin!
 
@@ -28040,6 +28067,9 @@ TEXT: Ultra Unlock: Community Day ー Galarian Zigzagoon
 RESOURCE ID: community_day_zigzagoon_timed_research
 TEXT: Galarian Zigzagoon: Catch Challenge
 
+RESOURCE ID: community_day_zorua_event_name
+TEXT: Hari Komunitas: Zorua
+
 RESOURCE ID: companion_device_enable_modal_title
 TEXT: Pengaktifan Perangkat Pendamping
 
@@ -31599,6 +31629,9 @@ TEXT: 27 April, pukul 14.00 hingga 17.00
 RESOURCE ID: event_datetime_range_key_cd_vulpix26
 TEXT: 1 Februari, 14.00 – 17.00
 
+RESOURCE ID: event_datetime_range_key_cd_zorua26
+TEXT: 10 Oktober, 14.00 – 17.00
+
 RESOURCE ID: event_datetime_range_key_cd_jangmo_o25
 TEXT: 21 Juni, pukul 14.00 – 17.00
 
@@ -33007,6 +33040,9 @@ TEXT: Event
 RESOURCE ID: evergreen_tr_event_name
 TEXT: Pilih Jalurmu
 
+RESOURCE ID: evergreen_week_event_name_twilight_trails
+TEXT: Pilih Jalurmu: Jejak Senja
+
 RESOURCE ID: evergreen_week_tr_title
 TEXT: Penelitian Berwaktu Pilih Jalurmu
 
@@ -33078,6 +33114,12 @@ TEXT: Pilih jalur ini untuk mendapatkan XP ×1,5 dari menangkap Pokémon dengan 
 
 RESOURCE ID: evergreen_week_tr_catch_description_key_2
 TEXT: Pilih jalur ini untuk mendapatkan tambahan Permen dari menangkap Pokémon dengan Nice Throw atau yang lebih baik.
+
+RESOURCE ID: evergreen_week_tr_catch_stardust_key
+TEXT: Menangkap (Debu Bintang)
+
+RESOURCE ID: evergreen_week_tr_catch_stardust_button_text_key
+TEXT: Menangkap (Debu Bintang)
 
 RESOURCE ID: evergreen_week_tr_catch_xp_key
 TEXT: Menangkap (XP)
@@ -38671,6 +38713,9 @@ TEXT: Tiket Hari Komunitas Vanillite
 
 RESOURCE ID: general1.ticket_cd_vulpix26_title
 TEXT: Tiket Hari Komunitas Vulpix dan Alolan Vulpix
+
+RESOURCE ID: general1.ticket_cd_zorua26_title
+TEXT: Tiket Hari Komunitas Zorua
 
 RESOURCE ID: general1.ticket_cdc_deino26_title
 TEXT: Tiket Hari Komunitas Klasik Deino
@@ -49792,8 +49837,77 @@ RESOURCE ID: id2026_car_free_day_tv_id_desc
 TEXT: Mari rayakan Car Free Day Indonesia di Jakarta setiap hari Minggu mulai pukul 06.00 hingga 09.45.
 Selesaikan Penelitian Lapangan atau Penelitian Berwaktu untuk bertemu Pikachu bertopi pesta merah dengan Latar Belakang Lokasi.
 
+RESOURCE ID: id_potw_2026_title
+TEXT: Pola-Pola Alam Bebas
+
+RESOURCE ID: id_potw_2026_tr_title
+TEXT: Penelitian Berwaktu Pola-Pola Alam Bebas
+
+RESOURCE ID: id_potw_2026_tv_title
+TEXT: Jelajahi Pola-Pola Alam Bebas!
+
+RESOURCE ID: id_potw_2026_tr_desc_title_00
+TEXT: Penelitian Berwaktu Pola-Pola Alam Bebas (1/3)
+
+RESOURCE ID: id_potw_2026_tr_desc_title_01
+TEXT: Penelitian Berwaktu Pola-Pola Alam Bebas (2/3)
+
+RESOURCE ID: id_potw_2026_tr_desc_title_02
+TEXT: Penelitian Berwaktu Pola-Pola Alam Bebas (3/3)
+
+RESOURCE ID: id_potw_2026_bonus_0
+TEXT: Pewangi cenderung memikat Pikachu berkemeja Batik dan Pokémon bertema event
+
+RESOURCE ID: id_potw_2026_bonus_1
+TEXT: Pertemuan kejutan dengan Pikachu berkemeja Batik di Foto GO hingga 3 kali
+
+RESOURCE ID: id_potw_2026_collection_challenge
+TEXT: Tantangan Koleksi Pola-Pola Alam Bebas
+
+RESOURCE ID: id_potw_2026_title_country
+TEXT: Pola-Pola Alam Bebas: Indonesia
+
+RESOURCE ID: id_potw_2026_tr_desc
+TEXT: Selesaikan Penelitian Berwaktu untuk bertemu dengan Pikachu berkemeja Batik yang memiliki Latar Belakang Spesial untuk merayakan Pola-Pola Alam Bebas!
+
+RESOURCE ID: id_potw_2026_tv_description
+TEXT: Pokémon yang terinspirasi oleh alam bermunculan! Berjelajahlah untuk menangkap Pokémon dengan berbagai pola yang indah mulai pukul 10.00 hingga 20.00 waktu setempat. Kunjungi blog untuk informasi lebih lanjut.
+
 RESOURCE ID: in_app_label
 TEXT: Di App
+
+RESOURCE ID: in_collegefest_2026_collection_challenge_title
+TEXT: Tantangan Koleksi Pokémon GO College Fest 2026
+
+RESOURCE ID: in_collegefest_2026_title
+TEXT: Pokémon GO College Fest 2026
+
+RESOURCE ID: in_collegefest_2026_tv_title
+TEXT: Pokémon GO College Fest telah tiba!
+
+RESOURCE ID: in_collegefest_2026_bonus
+TEXT: Bonus Event Pokémon GO College Fest 2026
+
+RESOURCE ID: in_collegefest_2026_evolve_bonus
+TEXT: Bonus Evolusi Pokémon GO College Fest 2026
+
+RESOURCE ID: in_collegefest_2026_tag
+TEXT: Pokémon GO College Fest 2026
+
+RESOURCE ID: in_collegefest_2026_tr_name
+TEXT: Penelitian Berwaktu Pokémon GO College Fest
+
+RESOURCE ID: in_collegefest_2026_tr_name_1
+TEXT: Penelitian Berwaktu Pokémon GO College Fest (1/3)
+
+RESOURCE ID: in_collegefest_2026_tr_name_2
+TEXT: Penelitian Berwaktu Pokémon GO College Fest (2/3)
+
+RESOURCE ID: in_collegefest_2026_tr_name_3
+TEXT: Penelitian Berwaktu Pokémon GO College Fest (3/3)
+
+RESOURCE ID: in_collegefest_2026_tv_desc
+TEXT: Jelajahi kampusmu untuk bertemu dengan Pokémon ikonik, menyelesaikan Penelitian Berwaktu, dan bekerja sama dengan teman dalam Raid serta masih banyak lagi!
 
 RESOURCE ID: in_person_tickets
 TEXT: Tiket Event Partisipasi Langsung
@@ -52005,6 +52119,9 @@ TEXT: Tiket untuk mengakses Penelitian Spesial Hari Komunitas Vanillite mulai 27
 RESOURCE ID: item_event_ticket_pink_desc_cd_vulpix26
 TEXT: Tiket untuk mengakses Penelitian Spesial Hari Komunitas Vulpix dan Alolan Vulpix mulai 1 Februari, pukul 14.00 waktu setempat, di mana pun kamu berada.
 
+RESOURCE ID: item_event_ticket_pink_desc_cd_zorua26
+TEXT: Tiket untuk mengakses Penelitian Spesial Hari Komunitas Zorua, Jejak Pengelabu, mulai 10 Oktober, pukul 14.00 waktu setempat, di mana pun kamu berada.
+
 RESOURCE ID: item_event_ticket_pink_desc_cdc_deino26
 TEXT: Tiket untuk mengakses Penelitian Spesial Hari Komunitas Klasik Deino mulai 16 Mei, pukul 14.00 waktu setempat, di mana pun kamu berada.
 
@@ -52391,6 +52508,9 @@ TEXT: Tiket ini akan aktif secara otomatis dan memberimu akses ke Penelitian Spe
 
 RESOURCE ID: item_event_ticket_pink_details_cd_vulpix26
 TEXT: Tiket ini akan aktif secara otomatis pada 1 Februari dan memberimu akses ke Penelitian Spesial Es dan Api, di mana pun kamu berada.
+
+RESOURCE ID: item_event_ticket_pink_details_cd_zorua26
+TEXT: Tiket ini akan aktif secara otomatis pada 10 Oktober dan memberimu akses ke Penelitian Spesial Jejak Pengelabu, di mana pun kamu berada.
 
 RESOURCE ID: item_event_ticket_pink_details_cd_jangmo_o25
 TEXT: Tiket ini akan aktif secara otomatis dan memberimu akses ke Penelitian Spesial Hari Komunitas Oh! Jangmo-o! pada 21 Juni, di mana pun kamu berada.
@@ -59624,10 +59744,10 @@ at SHA 12701f1c07ae7f07a5d50583f697320977df7988
 Pipeline 1139111, job 13470914
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-09-11T20:57:11.794309+00:00 for id-ID
-at SHA 9f591d8678c
-Pipeline 3938550, job 57981687
-Patch from: 0.429.0-SHA-de304d2a-RC2, 0.427.0-SHA-fc729f25-RC2, 0.427.1-SHA-4a569ba7-RC1
+TEXT: Built at 2026-09-17T05:05:53.880793+00:00 for id-ID
+at SHA 37a1529ab2c
+Pipeline 3950659, job 58169809
+Patch from: 0.431.0-SHA-8123c737-RC1, 0.427.0-SHA-fc729f25-RC2, 0.429.0-SHA-d6c796f0-RC1, 0.427.1-SHA-4a569ba7-RC1
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: Penelitian Berwaktu: Pilih Tipe Petarungmu
@@ -65228,6 +65348,9 @@ TEXT: Fitur ini memungkinkan Pokémon dalam mode AR menyatu dengan lingkungan da
 RESOURCE ID: occlusions_tutorial_body_forced_on
 TEXT: Fitur ini memungkinkan Pokémon dalam mode AR menyatu dengan lingkungan dan bergerak di belakang objek lebih lancar.
 
+RESOURCE ID: oclock_generic_desc
+TEXT: Pokémon bertema event akan muncul lebih sering di alam liar!
+
 RESOURCE ID: oct22_evo_collection_challenge_1
 TEXT: Evolving Stars: Eevee Challenge
 
@@ -67119,6 +67242,9 @@ TEXT: 5 pertemuan kejutan dengan Wooper di Foto GO
 
 RESOURCE ID: photobomb_five_zigzagoon
 TEXT: 5 surprise encounters with Galarian Zigzagoon in GO Snapshot
+
+RESOURCE ID: photobomb_five_zorua
+TEXT: 5 pertemuan kejutan dengan Zorua di Foto GO
 
 RESOURCE ID: photobomb_five_croagunk_fashion
 TEXT: 5 pertemuan kejutan dengan Croagunk berkostum modis dalam Foto GO
@@ -86903,6 +87029,9 @@ TEXT: Evolusikan Dewott
 RESOURCE ID: quest_partner_spin_rally_aeonmall
 TEXT: Putar {0} PokéStop atau Gym AEON Mall
 
+RESOURCE ID: quest_partner_spin_rally_familymart
+TEXT: Putar {0} PokéStop atau Gym FamilyMart
+
 RESOURCE ID: quest_partner_spin_rally_mcdonalds
 TEXT: Putar {0} PokéStop atau Gym McDonald’s
 
@@ -87856,6 +87985,15 @@ TEXT: Ambil {0} foto Pokémon Liar Tipe Normal
 
 RESOURCE ID: quest_snapshot_wild_normal_unique_plural
 TEXT: Ambil foto {0} Pokémon liar tipe Normal yang berbeda
+
+RESOURCE ID: quest_snapshot_wild_plural_bug
+TEXT: Ambil foto {0} Pokémon liar tipe Serangga yang berbeda
+
+RESOURCE ID: quest_snapshot_wild_plural_grass
+TEXT: Ambil foto {0} Pokémon liar tipe Daun yang berbeda
+
+RESOURCE ID: quest_snapshot_wild_plural_grass_or_bug
+TEXT: Ambil foto {0} Pokémon liar tipe Daun atau Serangga yang berbeda
 
 RESOURCE ID: quest_snapshot_wild_poison_plural
 TEXT: Ambil {0} foto Pokémon Liar Tipe Racun
@@ -98604,6 +98742,9 @@ TEXT: Pokémon GO Zona Safari di YOKOSUKA
 RESOURCE ID: quest_title_zigzagoon
 TEXT: Field Notes: Galarian Zigzagoon
 
+RESOURCE ID: quest_title_zorua
+TEXT: Jejak Pengelabu
+
 RESOURCE ID: quest_title_zygarde
 TEXT: Dari A Hingga Zygarde
 
@@ -102051,6 +102192,15 @@ TEXT: Field Notes: Galarian Zigzagoon (3/4)
 RESOURCE ID: quest_title_zigzagoon_3
 TEXT: Field Notes: Galarian Zigzagoon (4/4)
 
+RESOURCE ID: quest_title_zorua_0
+TEXT: Jejak Pengelabu (1/3)
+
+RESOURCE ID: quest_title_zorua_1
+TEXT: Jejak Pengelabu (2/3)
+
+RESOURCE ID: quest_title_zorua_2
+TEXT: Jejak Pengelabu (3/3)
+
 RESOURCE ID: quest_title_zygarde_0
 TEXT: Dari A Hingga Zygarde (1/6)
 
@@ -102800,6 +102950,9 @@ TEXT: Evolve {0} Galarian Zigzagoon
 
 RESOURCE ID: quest_zigzagoon_snapshot_b
 TEXT: Take {0} snapshots of Galarian Zigzagoon
+
+RESOURCE ID: quest_zorua_catch_b
+TEXT: Tangkap {0} Zorua
 
 RESOURCE ID: quests_quest
 TEXT: Tugas
@@ -112254,6 +112407,12 @@ TEXT: Pertemuan Fosil: Omanyte
 RESOURCE ID: s19_tgr_takeover_collection_challenge
 TEXT: Tantangan Koleksi
 
+RESOURCE ID: s24_evergreen_branch_catch_candy_description
+TEXT: Pilih jalur ini untuk mendapatkan Permen ×2 dari menangkap Pokémon.
+
+RESOURCE ID: s24_evergreen_branch_throw_stardust_description
+TEXT: Pilih jalur ini untuk mendapatkan Debu Bintang ×2 dari menangkap Pokémon.
+
 RESOURCE ID: s_pinap_g_razz_pokestop_drop_bonus
 TEXT: Kesempatan mendapatkan Beri Pinap Perak atau Beri Razz Emas dengan memutar PokéStop atau Gym
 
@@ -114236,6 +114395,9 @@ TEXT: Tiket GO: Taksi Terbang
 RESOURCE ID: season_pass_base_track_title_halloween_2025
 TEXT: Tiket GO: Halloween 2025
 
+RESOURCE ID: season_pass_base_track_title_harvest_festival_2026
+TEXT: Tiket GO: Festival Panen
+
 RESOURCE ID: season_pass_base_track_title_horizons_fall_2026
 TEXT: Tiket GO: Event Selebrasi Kolaborasi
 
@@ -114400,6 +114562,9 @@ TEXT: Untuk detail lebih lanjut, kunjungi <a href="https://pokemongo.com/news/fl
 RESOURCE ID: season_pass_details_link_halloween_2025
 TEXT: Untuk detail lebih lanjut, kunjungi <a href="https://pokemongo.com/news/go-pass-halloween-2025">situs web</a>.
 
+RESOURCE ID: season_pass_details_link_harvest_festival_2026
+TEXT: Untuk detail lebih lanjut, kunjungi <a href="https://pokemongo.com/news/harvest-festival-2026">situs web</a>.
+
 RESOURCE ID: season_pass_details_link_horizons_fall_2026
 TEXT: Untuk detail lebih lanjut, kunjungi <a href="https://pokemongo.com/news/pokemon-horizons-celebration-event-2026">situs web</a>.
 
@@ -114462,6 +114627,19 @@ TEXT: Beli Tiket GO Luks: Halloween 2025 untuk membuka hadiah berikut!
 • Pose Minum Teh
 • Pertemuan dengan Pokémon bertema event
 • Permen Langka XL
+• Dan masih banyak lagi!
+
+RESOURCE ID: season_pass_harvest_festival_2026_event_duration
+TEXT: 29 September – 5 Oktober
+
+RESOURCE ID: season_pass_harvest_festival_2026_track_upgrade_header_description
+TEXT: Dapatkan hadiah tambahan dan buka <b>Radar Roket Super</b> di Rank 1!
+
+RESOURCE ID: season_pass_harvest_festival_2026_upgrade_description
+TEXT: Beli Tiket GO Luks: Festival Panen untuk membuka hadiah berikut!
+
+• Pertemuan dengan Cottonee, Skiddo, Applin, dan banyak lagi!
+• 3 Modul Umpan Lumut
 • Dan masih banyak lagi!
 
 RESOURCE ID: season_pass_horizons_fall_2026_event_duration
@@ -114669,6 +114847,9 @@ TEXT: Tiket GO Luks: Pencarian Candela untuk Kemenangan + 6 Rank
 RESOURCE ID: season_pass_premium_track_plus_six_ranks_title_flying_taxi_2026
 TEXT: Tiket GO Luks: Taksi Terbang + 6 Rank
 
+RESOURCE ID: season_pass_premium_track_plus_six_ranks_title_harvest_festival_2026
+TEXT: Tiket GO Luks: Festival Panen + 6 Rank
+
 RESOURCE ID: season_pass_premium_track_plus_six_ranks_title_horizons_fall_2026
 TEXT: Tiket GO Luks: Event Selebrasi Kolaborasi + 6 Rank
 
@@ -114806,6 +114987,9 @@ TEXT: Tiket GO Luks: Taksi Terbang
 
 RESOURCE ID: season_pass_premium_track_title_halloween_2025
 TEXT: Tiket GO Luks: Halloween 2025
+
+RESOURCE ID: season_pass_premium_track_title_harvest_festival_2026
+TEXT: Tiket GO Luks: Festival Panen
 
 RESOURCE ID: season_pass_premium_track_title_horizons_fall_2026
 TEXT: Tiket GO Luks: Event Selebrasi Kolaborasi
@@ -115258,6 +115442,9 @@ TEXT: Items
 
 RESOURCE ID: settings_advanced_pokemon_title
 TEXT: Pokémon
+
+RESOURCE ID: settings_advanced_privacy_title
+TEXT: Privasi
 
 RESOURCE ID: settings_advanced_quality_title
 TEXT: Quality
@@ -116064,6 +116251,21 @@ TEXT: Penelitian Berwaktu Kelanjutan Hari Komunitas Shelmet dan Karrablast
 
 RESOURCE ID: shield_break_adventure_effect_battle_log
 TEXT: SERANGANMU DIPERKUAT OLEH EFEK PETUALANGAN PUKULAN PELEDAK+!
+
+RESOURCE ID: shima_collab_2026_tr_title
+TEXT: Penelitian Berwaktu adidas
+
+RESOURCE ID: shima_collab_2026_tv_title
+TEXT: Pokémon GO: adidas
+
+RESOURCE ID: shima_collab_2026_tr_1
+TEXT: Penelitian Berwaktu adidas (1/3)
+
+RESOURCE ID: shima_collab_2026_tr_2
+TEXT: Penelitian Berwaktu adidas (2/3)
+
+RESOURCE ID: shima_collab_2026_tr_3
+TEXT: Penelitian Berwaktu adidas (3/3)
 
 RESOURCE ID: shinjuku_cross_title
 TEXT: クロス新宿ビジョン
@@ -118273,6 +118475,9 @@ TEXT: Lebih banyak Wooper yang muncul di alam liar
 
 RESOURCE ID: spawn_zigzagoon
 TEXT: More Galarian Zigzagoon are appearing in the wild!
+
+RESOURCE ID: spawn_zorua
+TEXT: Lebih banyak Zorua yang muncul di alam liar!
 
 RESOURCE ID: spawn_dratini_cdc
 TEXT: More Dratini are appearing in the wild!
@@ -122696,6 +122901,12 @@ TEXT: Runtunan Harian
 RESOURCE ID: streaks_widget_description
 TEXT: Gunakan widget Runtunan Harian untuk tetap melacak runtunan penangkapan Pokémon dan pemutaran PokéStop. Dapatkan bonus ekstra besar pada hari ketujuh.
 
+RESOURCE ID: streamer_mode_expire_modal_title
+TEXT: Lokasi Tangkapan Kini Ditampilkan
+
+RESOURCE ID: streamer_mode_expire_modal_desc
+TEXT: Untuk terus menyembunyikan lokasi penangkapan Pokémon, buka Pengaturan Lanjutan.
+
 RESOURCE ID: strength_numbers_gc_display_text
 TEXT: Setelah tantangan selesai, semua Pelatih akan membuka fitur untuk menghadiahkan tiket gratis Penelitian Spesial untuk Hari Komunitas Klasik Mei 2025: Machop. Tiket yang dapat dihadiahkan akan tersedia di toko dalam game Pokémon GO mulai 23 Mei pukul 10.00 (atau lebih awal!) hingga 24 Mei pukul 17.00 waktu setempat.
 
@@ -124591,6 +124802,12 @@ TEXT: <b>Termasuk Hadiah:</b>
 • Pertemuan dengan Vulpix dan Alolan Vulpix dengan Latar Belakang Spesial
 • Dan banyak lagi!
 
+RESOURCE ID: text_rewards_key_cd_zorua26
+TEXT: <b>Termasuk Hadiah:</b>
+• Item Premium dalam game seperti Tiket Pertarungan Premium, MJ Super, dan Permen Langka
+• Pertemuan dengan Zorua dengan Latar Belakang Spesial
+• Dan banyak lagi!
+
 RESOURCE ID: text_rewards_key_cd_jangmo_o25
 TEXT: <b>Termasuk Hadiah:</b>
 • Item Premium dalam game seperti Tiket Pertarungan Premium, MJ Super, dan Permen Langka
@@ -125287,6 +125504,9 @@ TEXT: Tiket untuk Penelitian Spesial Hari Komunitas Vanillite tersedia di toko
 
 RESOURCE ID: ticket_vulpix_cd
 TEXT: Tiket untuk Penelitian Spesial Hari Komunitas Vulpix dan Alolan Vulpix tersedia di toko
+
+RESOURCE ID: ticket_zorua_cd
+TEXT: Tiket untuk Penelitian Spesial Hari Komunitas Zorua tersedia di toko
 
 RESOURCE ID: time_left_less_than_one_minute
 TEXT: Grup akan berakhir kurang dari 1 menit.
@@ -126852,6 +127072,12 @@ TEXT: Penelitian Berwaktu Petualangan Kanto di Korea
 
 RESOURCE ID: tr_apac_151busstop_scavenger_desc
 TEXT: Penelitian Berwaktu GO GO GO Keliling Kota
+
+RESOURCE ID: tr_apac_2026_mid_autumn_1
+TEXT: Penelitian Berwaktu Menari di Bawah Sinar Bulan 2026: Jalur Terang Bulan
+
+RESOURCE ID: tr_apac_2026_mid_autumn_2
+TEXT: Bonus Penelitian Berwaktu Menari di Bawah Sinar Bulan 2026: Terbitnya Bulan Purnama
 
 RESOURCE ID: tr_apac2024_lucario_movie_promo_title_00
 TEXT: Penelitian Berwaktu Jalan Auraku (1/2)
@@ -133274,6 +133500,9 @@ TEXT: Zamazenta mengayunkan perisai yang kuat selama {0} menit, meningkatkan per
 
 RESOURCE ID: zorua_o_clock_active
 TEXT: Terjadi kemunculan massal Zorua
+
+RESOURCE ID: zorua_website_link
+TEXT: Untuk detail lebih lanjut, kunjungi <a href="https://pokemongo.com/news/communityday-october-2026-zorua">situs web</a>.
 
 RESOURCE ID: zygarde_tappable_push_notification
 TEXT: Sesuatu muncul!

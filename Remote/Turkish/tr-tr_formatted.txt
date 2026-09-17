@@ -738,6 +738,12 @@ TEXT: Hesabı Sil
 RESOURCE ID: advanced_settings_delete_account_button_description
 TEXT: Pokémon GO hesabınız silindiğinde, siz veya başka bir kişi bu hesaba bir daha erişemeyecek. Bu eylem geri alınamaz.
 
+RESOURCE ID: advanced_settings_streamer_mode_toggle
+TEXT: Yakalama Konumunu Geçici Olarak Gizle
+
+RESOURCE ID: advanced_settings_streamer_mode_toggle_description
+TEXT: Pokémon yakalama konumunu 8 saatliğine gizlemek için bu ayarı açın.
+
 RESOURCE ID: adventure_effect_incense_table_header
 TEXT: Gelen Pokémon’lar
 
@@ -1144,6 +1150,9 @@ TEXT: AO 2026 Süreli Araştırması (3/3)
 RESOURCE ID: ao_2026_unown_bonus
 TEXT: AO 2026 şerefine Unown A ve O Yem Modülü veya Tütsüye gelecek
 
+RESOURCE ID: apac_2026_mid_autumn
+TEXT: Ay Işığında Dans 2026
+
 RESOURCE ID: apac2024_lucario_movie_promo_title
 TEXT: Aura Okuma
 
@@ -1158,6 +1167,12 @@ TEXT: Etkinlik sırasında her gün 13.00-19.00 arasında Clefairy’ler ortaya 
 
 RESOURCE ID: apac2025_fullmoon_clefairy_o_clock_desc_2
 TEXT: Şu anda çok sayıda Clefairy ortaya çıkıyor!
+
+RESOURCE ID: apac2026_fullmoon_o_clock_title
+TEXT: Ay Işığı Vakti geldi!
+
+RESOURCE ID: apac2026_fullmoon_o_clock_desc
+TEXT: Etkinlik süresince etkinlik temalı Pokémon’lar her gün saat 12.00, 13.00, 19.00 ve 20.00’de ortaya çıkacak!
 
 RESOURCE ID: apac_childrens_day_2026_title
 TEXT: Oynasın da Büyüsün
@@ -5094,6 +5109,9 @@ TEXT: GO Bilekliği
 RESOURCE ID: avatar_gloves_wristbandyellow
 TEXT: İçgüdü Takımı GO Bilekliği
 
+RESOURCE ID: avatar_hat_adidas2026
+TEXT: adidas Pokémon Cap
+
 RESOURCE ID: avatar_hat_applinheadband
 TEXT: Applin Tacı
 
@@ -7784,6 +7802,9 @@ TEXT: Steven Pozu
 RESOURCE ID: avatar_pose_team_leader
 TEXT: Takım Lideri Pozu
 
+RESOURCE ID: avatar_shirt_adidas2026
+TEXT: adidas Pokémon Jacket
+
 RESOURCE ID: avatar_shirt_applinapron
 TEXT: Applin Önlüğü
 
@@ -8001,6 +8022,9 @@ TEXT: Parlak Mew Tişörtü
 
 RESOURCE ID: avatar_shirt_soccerjersey_10
 TEXT: 10 Numaralı Forma
+
+RESOURCE ID: avatar_shoes_adidas2026
+TEXT: adidas Pokémon Megaride Shoes
 
 RESOURCE ID: avatar_shoes_blacephelon
 TEXT: Blacephalon Çizmesi
@@ -18656,6 +18680,9 @@ TEXT: Vulpix’i evrimleştirerek Enerji Topu güçlü saldırısını bilen Nin
 RESOURCE ID: bonus_cd_move_zigzagoon
 TEXT: Galarlı Linoone’u evrimleştirerek Engelleme güçlü saldırısını bilen Obstagoon elde edin.
 
+RESOURCE ID: bonus_cd_move_zorua
+TEXT: Zorua’yı evrimleştirerek Ani Yumruk hızlı saldırısını bilen Zoroark elde edin!
+
 RESOURCE ID: bonus_cd_move_alolan_vulpix
 TEXT: Alolalı Vulpix’i evrimleştirerek Üşüten Su güçlü saldırısını bilen Alolalı Ninetales elde edin!
 
@@ -21036,13 +21063,13 @@ RESOURCE ID: bread_lobby_attack_multiplier_dialog_title
 TEXT: Saldırı Bonusu
 
 RESOURCE ID: bread_lobby_countdown_to_battle_start
-TEXT: Countdown to the Max Battle start
+TEXT: Maksi Maç başlangıcı için geri sayım
 
 RESOURCE ID: bread_lobby_error_battle_completed
 TEXT: Bu Güç Noktasında daha önce maç yaptınız.
 
 RESOURCE ID: bread_lobby_error_failed_to_create_battle
-TEXT: Could not join the Max Battle. Please try again later.
+TEXT: Maksi Maça katılınamadı. Lütfen daha sonra tekrar deneyin.
 
 RESOURCE ID: bread_lobby_error_friend_details_unavailable
 TEXT: Bu davet gönderilirken bir hata meydana geldi. Lütfen tekrar deneyin.
@@ -21226,19 +21253,19 @@ RESOURCE ID: bread_post_battle_encounter_run_away_description
 TEXT: Kaçarsanız bu Pokémon’u yakalayamazsınız.
 
 RESOURCE ID: bread_private_lobby_error_unavailable
-TEXT: Private groups are currently unavailable. Please try again later.
+TEXT: Özel gruplar şu anda kullanılamıyor. Lütfen daha sonra tekrar deneyin.
 
 RESOURCE ID: bread_private_lobby_error_flip_unavailable
-TEXT: The group could not be changed to public.
+TEXT: Grup herkese açık hale getirilemedi.
 
 RESOURCE ID: bread_private_lobby_error_limit_reached
-TEXT: The maximum number of private groups for this Max Battle has been reached.
+TEXT: Bu Maksi Maç için maksimum özel grup sayısına ulaşıldı.
 
 RESOURCE ID: bread_private_lobby_error_not_creator
-TEXT: Only the Trainer who created this group can change it to public.
+TEXT: Yalnızca bu grubu oluşturan Eğitmen grubu herkese açık hale getirebilir.
 
 RESOURCE ID: bread_private_lobby_error_not_found
-TEXT: This group could not be found. The code may be incorrect, or the group may no longer be available.
+TEXT: Bu grup bulunamadı. Kod yanlış olabilir veya grup artık mevcut olmayabilir.
 
 RESOURCE ID: bread_release_title
 TEXT: {0} geri dönsün mü?
@@ -28165,6 +28192,9 @@ TEXT: Ultra Kilit Açma: Galarlı Zigzagoon Topluluk Günü
 RESOURCE ID: community_day_zigzagoon_timed_research
 TEXT: Galarlı Zigzagoon: Yakalama Görevi
 
+RESOURCE ID: community_day_zorua_event_name
+TEXT: Topluluk Günü: Zorua
+
 RESOURCE ID: companion_device_enable_modal_title
 TEXT: Enable Companion Device
 
@@ -31722,6 +31752,9 @@ TEXT: 27 Nisan, 14.00-17.00
 RESOURCE ID: event_datetime_range_key_cd_vulpix26
 TEXT: 1 Şubat, 14.00-17.00
 
+RESOURCE ID: event_datetime_range_key_cd_zorua26
+TEXT: 10 Ekim, 14.00-17.00
+
 RESOURCE ID: event_datetime_range_key_cd_jangmo_o25
 TEXT: 21 Haziran, 14.00-17.00
 
@@ -33135,6 +33168,9 @@ TEXT: Etkinlik
 RESOURCE ID: evergreen_tr_event_name
 TEXT: Yolunu Seç
 
+RESOURCE ID: evergreen_week_event_name_twilight_trails
+TEXT: Yolunu Seç: Akşamüstü Keyfi
+
 RESOURCE ID: evergreen_week_tr_title
 TEXT: Yolunu Seç Süreli Araştırması
 
@@ -33206,6 +33242,12 @@ TEXT: İyi, süper veya mükemmel atışla Pokémon yakalayarak 1,5× TP kazanma
 
 RESOURCE ID: evergreen_week_tr_catch_description_key_2
 TEXT: İyi, süper veya mükemmel atışla başarıyla Pokémon yakalayarak fazladan şeker kazanmak için bu yolu seçin.
+
+RESOURCE ID: evergreen_week_tr_catch_stardust_key
+TEXT: Yakalama (Yıldız Tozu)
+
+RESOURCE ID: evergreen_week_tr_catch_stardust_button_text_key
+TEXT: Yakalama (Yıldız Tozu)
 
 RESOURCE ID: evergreen_week_tr_catch_xp_key
 TEXT: Yakalama (TP)
@@ -38797,6 +38839,9 @@ TEXT: Vanillite Topluluk Günü Bileti
 
 RESOURCE ID: general1.ticket_cd_vulpix26_title
 TEXT: Vulpix ve Alolalı Vulpix Topluluk Günü Bileti
+
+RESOURCE ID: general1.ticket_cd_zorua26_title
+TEXT: Zorua Topluluk Günü Bileti
 
 RESOURCE ID: general1.ticket_cdc_deino26_title
 TEXT: Deino Topluluk Günü Klasik Bileti
@@ -49924,8 +49969,77 @@ RESOURCE ID: id2026_car_free_day_tv_id_desc
 TEXT: Her pazar 06.00-09.45 saatleri arasında Endonezya’nın Cakarta kentinde gerçekleşecek olan Otomobilsiz Kent Gününü gelin hep birlikte kutlayalım!
 Alan araştırmasını veya süreli araştırmayı tamamlayarak konum arka planına sahip kırmızı parti şapkalı Pikachu ile karşılaşabilirsiniz.
 
+RESOURCE ID: id_potw_2026_title
+TEXT: Doğanın Desenleri
+
+RESOURCE ID: id_potw_2026_tr_title
+TEXT: Doğanın Desenleri Süreli Araştırması
+
+RESOURCE ID: id_potw_2026_tv_title
+TEXT: Doğanın Desenlerini keşfedin!
+
+RESOURCE ID: id_potw_2026_tr_desc_title_00
+TEXT: Doğanın Desenleri Süreli Araştırması (1/3)
+
+RESOURCE ID: id_potw_2026_tr_desc_title_01
+TEXT: Doğanın Desenleri Süreli Araştırması (2/3)
+
+RESOURCE ID: id_potw_2026_tr_desc_title_02
+TEXT: Doğanın Desenleri Süreli Araştırması (3/3)
+
+RESOURCE ID: id_potw_2026_bonus_0
+TEXT: Tütsünün batik gömlekli Pikachu ve etkinlik temalı Pokémon’ları çekme ihtimali artacak
+
+RESOURCE ID: id_potw_2026_bonus_1
+TEXT: GO Fotoğrafta batik gömlekli Pikachu ile 3 adede kadar sürpriz karşılaşma
+
+RESOURCE ID: id_potw_2026_collection_challenge
+TEXT: Doğanın Desenleri Toplama Görevi
+
+RESOURCE ID: id_potw_2026_title_country
+TEXT: Doğanın Desenleri: Endonezya
+
+RESOURCE ID: id_potw_2026_tr_desc
+TEXT: Özel arka plana sahip batik gömlekli Pikachu ile karşılaşıp Doğanın Desenlerinin tadına varmak için süreli araştırmayı tamamlayın!
+
+RESOURCE ID: id_potw_2026_tv_description
+TEXT: Doğadan esinlenen Pokémon’lar ortaya çıkıyor! Yerel saatle 10.00-20.00 arasında doğanın en muhteşem desenlerine sahip Pokémon’ları yakalayın. Ayrıntıları blog gönderimizde bulabilirsiniz.
+
 RESOURCE ID: in_app_label
 TEXT: Oyun İçi
+
+RESOURCE ID: in_collegefest_2026_collection_challenge_title
+TEXT: Pokémon GO Üniversite Festivali 2026 Toplama Görevi
+
+RESOURCE ID: in_collegefest_2026_title
+TEXT: Pokémon GO Üniversite Festivali 2026
+
+RESOURCE ID: in_collegefest_2026_tv_title
+TEXT: Pokémon GO Üniversite Festivali başlıyor!
+
+RESOURCE ID: in_collegefest_2026_bonus
+TEXT: Pokémon GO Üniversite Festivali 2026 Etkinlik Bonusu
+
+RESOURCE ID: in_collegefest_2026_evolve_bonus
+TEXT: Pokémon GO Üniversite Festivali 2026 Evrim Bonusu
+
+RESOURCE ID: in_collegefest_2026_tag
+TEXT: Pokémon GO Üniversite Festivali 2026
+
+RESOURCE ID: in_collegefest_2026_tr_name
+TEXT: Pokémon GO Üniversite Festivali Süreli Araştırması
+
+RESOURCE ID: in_collegefest_2026_tr_name_1
+TEXT: Pokémon GO Üniversite Festivali Süreli Araştırması (1/3)
+
+RESOURCE ID: in_collegefest_2026_tr_name_2
+TEXT: Pokémon GO Üniversite Festivali Süreli Araştırması (2/3)
+
+RESOURCE ID: in_collegefest_2026_tr_name_3
+TEXT: Pokémon GO Üniversite Festivali Süreli Araştırması (3/3)
+
+RESOURCE ID: in_collegefest_2026_tv_desc
+TEXT: Şahane Pokémon’larla karşılaşmak için kampüsü keşfe çıkın, süreli araştırmayı tamamlayın, arkadaşlarınızla buluşup akınlara katılın ve bu festivalde eğlenceye doyun!
 
 RESOURCE ID: in_person_tickets
 TEXT: Canlı Etkinlik Biletleri
@@ -52138,6 +52252,9 @@ TEXT: 27 Nisan’da, yerel saatle 14.00’te başlayacak Vanillite Topluluk Gün
 RESOURCE ID: item_event_ticket_pink_desc_cd_vulpix26
 TEXT: 1 Şubat’ta, yerel saatle 14.00’te başlayacak Vulpix ve Alolalı Vulpix Topluluk Günü özel araştırmasına dilediğiniz yerden katılmanıza olanak tanıyan bir bilet.
 
+RESOURCE ID: item_event_ticket_pink_desc_cd_zorua26
+TEXT: 10 Ekim’de, yerel saatle 14.00’te başlayacak Zorua Topluluk Günü özel araştırması Numaracının Patikası’na dilediğiniz yerden katılmanıza olanak tanıyan bir bilet.
+
 RESOURCE ID: item_event_ticket_pink_desc_cdc_deino26
 TEXT: 16 Mayıs’ta, yerel saatle 14.00’te başlayacak Deino Topluluk Günü Klasik özel araştırması Minik Ama Hiddetli’ye dilediğiniz yerden katılmanıza olanak tanıyan bir bilet.
 
@@ -52524,6 +52641,9 @@ TEXT: Bu bilet 27 Nisan’da gerçekleşecek Dil Üstünde Kaydırmaca: Vanillit
 
 RESOURCE ID: item_event_ticket_pink_details_cd_vulpix26
 TEXT: Bu bilet Ateşli Buzlu özel araştırmasına dilediğiniz yerden erişebilmeniz için 1 Şubat’ta otomatik olarak etkinleştirilecek.
+
+RESOURCE ID: item_event_ticket_pink_details_cd_zorua26
+TEXT: Bu bilet Numaracının Patikası özel araştırmasına dilediğiniz yerden erişebilmeniz için 10 Ekim’de otomatik olarak etkinleştirilecek.
 
 RESOURCE ID: item_event_ticket_pink_details_cd_jangmo_o25
 TEXT: Bu bilet Ooo Jangmo-o! topluluk günü özel araştırmasına dilediğiniz yerden erişebilmeniz için 21 Haziran'da otomatik olarak etkinleştirilecek.
@@ -59775,10 +59895,10 @@ at SHA 413df5befdbe0d00a543f8a142221526d63b719a
 Pipeline 834428, job 8736424
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-09-11T20:57:11.794309+00:00 for tr-TR
-at SHA 9f591d8678c
-Pipeline 3938550, job 57981687
-Patch from: 0.429.0-SHA-de304d2a-RC2, 0.427.0-SHA-fc729f25-RC2, 0.427.1-SHA-4a569ba7-RC1
+TEXT: Built at 2026-09-17T05:05:53.880793+00:00 for tr-TR
+at SHA 37a1529ab2c
+Pipeline 3950659, job 58169809
+Patch from: 0.431.0-SHA-8123c737-RC1, 0.427.0-SHA-fc729f25-RC2, 0.429.0-SHA-d6c796f0-RC1, 0.427.1-SHA-4a569ba7-RC1
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: Süreli Araştırma: Dövüşçünüzü Seçin
@@ -65321,6 +65441,9 @@ TEXT: Bu özellik, AR modundaki Pokémon'un çevrenize daha sorunsuz bir şekild
 RESOURCE ID: occlusions_tutorial_body_forced_on
 TEXT: Bu özellik, AR modundaki Pokémon'un çevrenize daha sorunsuz bir şekilde uymasını ve nesnelerin arkasında hareket etmesini sağlar.
 
+RESOURCE ID: oclock_generic_desc
+TEXT: Etkinlik temalı Pokémon’lar doğada daha sık ortaya çıkıyor!
+
 RESOURCE ID: oct22_evo_collection_challenge_1
 TEXT: Evrilen Yıldızlar: Eevee Görevi
 
@@ -67212,6 +67335,9 @@ TEXT: GO Fotoğrafta Wooper ile 5 sürpriz karşılaşma
 
 RESOURCE ID: photobomb_five_zigzagoon
 TEXT: GO Fotoğrafta Galarlı Zigzagoon ile 5 sürpriz karşılaşma
+
+RESOURCE ID: photobomb_five_zorua
+TEXT: GO Fotoğrafta Zorua ile 5 sürpriz karşılaşma
 
 RESOURCE ID: photobomb_five_croagunk_fashion
 TEXT: GO Fotoğrafta son moda kostümlü Croagunk ile 5 sürpriz karşılaşma
@@ -81038,45 +81164,45 @@ RESOURCE ID: privacy_policy_update_notice
 TEXT: Yeni ürün özellikleri ve kişisel verileri nasıl işlediğimiz hakkında detaylı bilgi edinmek için lütfen güncellenmiş Scopely Explore Gizlilik Politikası'nı inceleyiniz.
 
 RESOURCE ID: private_group_title
-TEXT: Private Group
+TEXT: Özel Grup
 
 RESOURCE ID: private_group_pill
-TEXT: PRIVATE
+TEXT: ÖZEL
 
 RESOURCE ID: private_group_change_to_public_title
-TEXT: Change to Public
+TEXT: Herkese Açık Yap
 
 RESOURCE ID: private_group_change_to_public_desc
-TEXT: If you change this group to public, anyone can join and battle with you. Once you change to public, your group cannot be made private again.
+TEXT: Grubu herkese açık hale getirirseniz herkes gruba katılıp sizinle maç yapabilir. Grubu herkese açık hale getirirseniz bir daha özel hale getiremezsiniz.
 
-Are you sure you want to change to a public group?
+Grubun herkese açık olmasını istiyor musunuz?
 
 RESOURCE ID: private_group_change_to_public_button
-TEXT: CHANGE TO PUBLIC
+TEXT: HERKESE AÇIK YAP
 
 RESOURCE ID: private_group_code_intro
-TEXT: Battle together with friends by entering their group code.
+TEXT: Grup kodlarını girerek arkadaşlarınızla birlikte maç yapın.
 
 RESOURCE ID: private_group_code_label
-TEXT: GROUP CODE
+TEXT: GRUP KODU
 
 RESOURCE ID: private_group_create_button
-TEXT: Create Group
+TEXT: Grup Oluştur
 
 RESOURCE ID: private_group_created_title
-TEXT: Successfully created a group!
+TEXT: Grup başarıyla oluşturuldu!
 
 RESOURCE ID: private_group_entry_button
-TEXT: PRIVATE GROUP
+TEXT: ÖZEL GRUP
 
 RESOURCE ID: private_group_invalid_code
-TEXT: This group code is invalid. Please enter a valid code.
+TEXT: Bu grup kodu geçersiz. Lütfen geçerli bir kod girin.
 
 RESOURCE ID: private_group_join_button
-TEXT: Join Group
+TEXT: Gruba Katıl
 
 RESOURCE ID: private_group_share_code_message
-TEXT: Share this group code with your friends. They can join you by entering this group code.
+TEXT: Bu grup kodunu arkadaşlarınızla paylaşın. Bu kodu girerek size katılabilirler.
 
 RESOURCE ID: prof_willow_birthday_2026_title
 TEXT: Willow’un Doğum Günü Araştırması
@@ -86990,6 +87116,9 @@ TEXT: Bir Dewott evrimleştirin
 RESOURCE ID: quest_partner_spin_rally_aeonmall
 TEXT: {0} AEON Mall PokéDurağı ya da spor salonu döndürün
 
+RESOURCE ID: quest_partner_spin_rally_familymart
+TEXT: Spin {0} Familymart PokéStops or Gyms
+
 RESOURCE ID: quest_partner_spin_rally_mcdonalds
 TEXT: {0} McDonald’s PokéDurağı veya spor salonu döndürün
 
@@ -87943,6 +88072,15 @@ TEXT: Vahşi Normal tür Pokémon’ların {0} fotoğrafını çekin
 
 RESOURCE ID: quest_snapshot_wild_normal_unique_plural
 TEXT: Take snapshots of {0} different wild Normal-type Pokémon
+
+RESOURCE ID: quest_snapshot_wild_plural_bug
+TEXT: {0} farklı vahşi Böcek türü Pokémon’un fotoğrafını çekin
+
+RESOURCE ID: quest_snapshot_wild_plural_grass
+TEXT: {0} farklı vahşi Bitki türü Pokémon’un fotoğrafını çekin
+
+RESOURCE ID: quest_snapshot_wild_plural_grass_or_bug
+TEXT: {0} farklı vahşi Bitki veya Böcek türü Pokémon’un fotoğrafını çekin
 
 RESOURCE ID: quest_snapshot_wild_poison_plural
 TEXT: Vahşi Zehir türü Pokémon’ların {0} fotoğrafını çekin
@@ -98694,6 +98832,9 @@ TEXT: YOKOSUKA'da Pokémon GO Safari Bölgesi
 RESOURCE ID: quest_title_zigzagoon
 TEXT: Alan Notları: Galarlı Zigzagoon
 
+RESOURCE ID: quest_title_zorua
+TEXT: Numaracının Patikası
+
 RESOURCE ID: quest_title_zygarde
 TEXT: A’dan Zygarde’a
 
@@ -102141,6 +102282,15 @@ TEXT: Alan Notları: Galarlı Zigzagoon (3/4)
 RESOURCE ID: quest_title_zigzagoon_3
 TEXT: Alan Notları: Galarlı Zigzagoon (4/4)
 
+RESOURCE ID: quest_title_zorua_0
+TEXT: Numaracının Patikası (1/3)
+
+RESOURCE ID: quest_title_zorua_1
+TEXT: Numaracının Patikası (2/3)
+
+RESOURCE ID: quest_title_zorua_2
+TEXT: Numaracının Patikası (3/3)
+
 RESOURCE ID: quest_title_zygarde_0
 TEXT: A’dan Zygarde’a (1/6)
 
@@ -102890,6 +103040,9 @@ TEXT: {0} Galarlı Zigzagoon evrimleştirin
 
 RESOURCE ID: quest_zigzagoon_snapshot_b
 TEXT: Galarlı Zigzagoon’un {0} fotoğrafını çekin
+
+RESOURCE ID: quest_zorua_catch_b
+TEXT: {0} Zorua yakalayın
 
 RESOURCE ID: quests_quest
 TEXT: Görevler
@@ -112349,6 +112502,12 @@ TEXT: Fosil Karşılaşmaları: Omanyte
 RESOURCE ID: s19_tgr_takeover_collection_challenge
 TEXT: Toplama Görevi
 
+RESOURCE ID: s24_evergreen_branch_catch_candy_description
+TEXT: Pokémon yakalayarak 2× şeker kazanmak için bu yolu seçin.
+
+RESOURCE ID: s24_evergreen_branch_throw_stardust_description
+TEXT: Pokémon yakalayarak 2× yıldız tozu kazanmak için bu yolu seçin.
+
 RESOURCE ID: s_pinap_g_razz_pokestop_drop_bonus
 TEXT: PokéDurak ve spor salonu döndürerek Gümüş Pinap Meyvesi veya Altın Razz Meyvesi elde etme şansı
 
@@ -114328,6 +114487,9 @@ TEXT: GO Bileti: Uçan Taksi
 RESOURCE ID: season_pass_base_track_title_halloween_2025
 TEXT: GO Bileti: Cadılar Bayramı 2025
 
+RESOURCE ID: season_pass_base_track_title_harvest_festival_2026
+TEXT: GO Pass: Harvest Festival
+
 RESOURCE ID: season_pass_base_track_title_horizons_fall_2026
 TEXT: GO Bileti: İşbirliği Kutlama Etkinliği
 
@@ -114492,6 +114654,9 @@ TEXT: Ayrıntıları <a href="https://pokemongo.com/news/flying-taxi-2026">inter
 RESOURCE ID: season_pass_details_link_halloween_2025
 TEXT: Ayrıntıları <a href="https://pokemongo.com/news/go-pass-halloween-2025">internet sitemizden</a> öğrenebilirsiniz.
 
+RESOURCE ID: season_pass_details_link_harvest_festival_2026
+TEXT: For more details, visit the <a href="https://pokemongo.com/news/harvest-festival-2026">website</a>.
+
 RESOURCE ID: season_pass_details_link_horizons_fall_2026
 TEXT: Ayrıntıları <a href="https://pokemongo.com/news/pokemon-horizons-celebration-event-2026">internet sitemizden</a> öğrenebilirsiniz.
 
@@ -114555,6 +114720,19 @@ TEXT: Lüks GO Bileti: Cadılar Bayramı 2025’i satın alarak şu ödüllerin 
 • Etkinlik temalı Pokémon’larla karşılaşmalar
 • Nadir Büyük Şeker
 • Ve dahası!
+
+RESOURCE ID: season_pass_harvest_festival_2026_event_duration
+TEXT: September 29 – October 5
+
+RESOURCE ID: season_pass_harvest_festival_2026_track_upgrade_header_description
+TEXT: Earn additional rewards and unlock a <b>Super Rocket Radar</b> at Rank 1!
+
+RESOURCE ID: season_pass_harvest_festival_2026_upgrade_description
+TEXT: Purchase GO Pass Deluxe: Harvest Festival to unlock the following rewards!
+
+• Encounters with Cottonee, Skiddo, Applin, and more!
+• 3 Mossy Lure Modules
+• And much more!
 
 RESOURCE ID: season_pass_horizons_fall_2026_event_duration
 TEXT: 16-22 Eylül
@@ -114754,6 +114932,9 @@ TEXT: Lüks GO Bileti: Candela’nın Zafer Arayışı + 6 Rütbe
 RESOURCE ID: season_pass_premium_track_plus_six_ranks_title_flying_taxi_2026
 TEXT: Lüks GO Bileti: Uçan Taksi + 6 Rütbe
 
+RESOURCE ID: season_pass_premium_track_plus_six_ranks_title_harvest_festival_2026
+TEXT: GO Pass Deluxe: Harvest Festival + 6 Ranks
+
 RESOURCE ID: season_pass_premium_track_plus_six_ranks_title_horizons_fall_2026
 TEXT: Lüks GO Bileti: İşbirliği Kutlama Etkinliği + 6 Rütbe
 
@@ -114891,6 +115072,9 @@ TEXT: Lüks GO Bileti: Uçan Taksi
 
 RESOURCE ID: season_pass_premium_track_title_halloween_2025
 TEXT: Lüks GO Bileti: Cadılar Bayramı 2025
+
+RESOURCE ID: season_pass_premium_track_title_harvest_festival_2026
+TEXT: GO Pass Deluxe: Harvest Festival
 
 RESOURCE ID: season_pass_premium_track_title_horizons_fall_2026
 TEXT: Lüks GO Bileti: İşbirliği Kutlama Etkinliği
@@ -115342,6 +115526,9 @@ TEXT: Eşyalar
 
 RESOURCE ID: settings_advanced_pokemon_title
 TEXT: Pokémon
+
+RESOURCE ID: settings_advanced_privacy_title
+TEXT: Gizlilik
 
 RESOURCE ID: settings_advanced_quality_title
 TEXT: Kalite
@@ -116147,6 +116334,21 @@ TEXT: Shelmet ve Karrablast Topluluk Gününün Devamı Süreli Araştırması
 
 RESOURCE ID: shield_break_adventure_effect_battle_log
 TEXT: SALDIRILARINIZ DİNAMİK YUMRUK+ MACERA ETKİSİ TARAFINDAN GÜÇLENDİRİLDİ!
+
+RESOURCE ID: shima_collab_2026_tr_title
+TEXT: adidas Süreli Araştırması
+
+RESOURCE ID: shima_collab_2026_tv_title
+TEXT: Pokémon GO: adidas
+
+RESOURCE ID: shima_collab_2026_tr_1
+TEXT: adidas Süreli Araştırması (1/3)
+
+RESOURCE ID: shima_collab_2026_tr_2
+TEXT: adidas Süreli Araştırması (2/3)
+
+RESOURCE ID: shima_collab_2026_tr_3
+TEXT: adidas Süreli Araştırması (3/3)
 
 RESOURCE ID: shinjuku_cross_title
 TEXT: クロス新宿ビジョン
@@ -118356,6 +118558,9 @@ TEXT: Yabanda daha fazla Wooper ortaya çıkıyor
 
 RESOURCE ID: spawn_zigzagoon
 TEXT: Doğada daha fazla Galarlı Zigzagoon ortaya çıkıyor!
+
+RESOURCE ID: spawn_zorua
+TEXT: Doğada daha fazla Zorua ortaya çıkıyor!
 
 RESOURCE ID: spawn_dratini_cdc
 TEXT: More Dratini are appearing in the wild!
@@ -122786,6 +122991,12 @@ TEXT: Günlük Seriler
 RESOURCE ID: streaks_widget_description
 TEXT: Pokémon yakalama ve PokéDurak döndürme serilerinizi takip etmek için Günlük Seriler widget’ını kullanın. Yedinci günde ekstra büyük bonuslar kazanın!
 
+RESOURCE ID: streamer_mode_expire_modal_title
+TEXT: Yakalama Konumu Artık Gösteriliyor
+
+RESOURCE ID: streamer_mode_expire_modal_desc
+TEXT: Pokémon yakalama konumunu gizlemek için Gelişmiş Ayarlar’a gidin.
+
 RESOURCE ID: strength_numbers_gc_display_text
 TEXT: Görev tamamlandıktan sonra tüm Eğitmenler Mayıs 2025 Topluluk Günü Klasik: Machop için ücretsiz özel araştırma bileti hediye etme fırsatının kilidini açacak. Bu hediyelik biletler 23 Mayıs, yerel saatle 10.00 (veya daha önce!) ile 24 Mayıs, yerel saatle 17.00 arasında Pokémon GO oyun içi mağazasından alınabilecek.
 
@@ -124680,6 +124891,12 @@ TEXT: <b>Şu ödülleri içerir:</b>
 • Özel arka planlı Vulpix ve Alolalı Vulpix ile karşılaşmalar
 • Ve daha fazlası!
 
+RESOURCE ID: text_rewards_key_cd_zorua26
+TEXT: <b>Şu ödülleri içerir:</b>
+• Premium Maç Bileti, Güçlü TM ve Nadir Şeker gibi premium oyun içi eşyalar
+• Özel arka planlı Zorua ile karşılaşmalar
+• Ve daha fazlası!
+
 RESOURCE ID: text_rewards_key_cd_jangmo_o25
 TEXT: <b>Şu ödülleri içerir:</b>
 • Premium Maç Bileti, Güçlü TM ve Nadir Şeker gibi premium oyun içi eşyalar
@@ -125376,6 +125593,9 @@ TEXT: Vanillite Topluluk Günü özel araştırması biletini mağazadan alabili
 
 RESOURCE ID: ticket_vulpix_cd
 TEXT: Vulpix ve Alolalı Vulpix Topluluk Günü özel araştırması biletini mağazadan alabilirsiniz
+
+RESOURCE ID: ticket_zorua_cd
+TEXT: Zorua Topluluk Günü özel araştırması biletini mağazadan alabilirsiniz
 
 RESOURCE ID: time_left_less_than_one_minute
 TEXT: Ekip oyunu 1 dakika içinde sona erecek.
@@ -126955,6 +127175,12 @@ TEXT: Kore’de Kanto Macerası Süreli Araştırması
 
 RESOURCE ID: tr_apac_151busstop_scavenger_desc
 TEXT: Hadi Şehri Dolaşalım Süreli Araştırması
+
+RESOURCE ID: tr_apac_2026_mid_autumn_1
+TEXT: Ay Işığında Dans 2026 Süreli Araştırması: Mehtaplı Yol
+
+RESOURCE ID: tr_apac_2026_mid_autumn_2
+TEXT: Ay Işığında Dans 2026 Bonus Süreli Araştırması: Dolunay Yükseliyor
 
 RESOURCE ID: tr_apac2024_lucario_movie_promo_title_00
 TEXT: Aura Okuma Süreli Araştırması (1/2)
@@ -133382,6 +133608,9 @@ TEXT: Zamazenta {0} boyunca büyük ve güçlü bir kalkan kullanır. Akınlarda
 
 RESOURCE ID: zorua_o_clock_active
 TEXT: Şu anda çok sayıda Zorua ortaya çıkıyor!
+
+RESOURCE ID: zorua_website_link
+TEXT: Ayrıntıları <a href="https://pokemongo.com/news/communityday-october-2026-zorua">internet sitemizden</a> öğrenebilirsiniz.
 
 RESOURCE ID: zygarde_tappable_push_notification
 TEXT: Gizemli bir şey belirdi!

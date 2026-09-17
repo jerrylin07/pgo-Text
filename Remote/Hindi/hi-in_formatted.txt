@@ -735,6 +735,12 @@ TEXT: अकाउंट डिलीट करें
 RESOURCE ID: advanced_settings_delete_account_button_description
 TEXT: जब आपका Pokémon GO अकाउंट डिलीट हो जाएगा, तो आप या कोई और उसे एक्सेस नहीं कर सकेगा। डिलीट किए जाने के बाद इसे वापस नहीं पाया जा सकता।
 
+RESOURCE ID: advanced_settings_streamer_mode_toggle
+TEXT: पकड़ने के स्थान को अस्थायी रूप से छपिाएँ
+
+RESOURCE ID: advanced_settings_streamer_mode_toggle_description
+TEXT: इस सेटिंग को चालू कर, पोकेमॉन को पकड़ने के स्थान को अस्थायी रूप से छपिाएँ
+
 RESOURCE ID: adventure_effect_incense_table_header
 TEXT: इंसेंस से आकर्षित हुए पोकेमॉन
 
@@ -1141,6 +1147,9 @@ TEXT: AO 2026 सीमित समय वाली रिसर्च (3/3)
 RESOURCE ID: ao_2026_unown_bonus
 TEXT: अनोन A और O, AO 2026 मनाने के लिए लगाए गए अट्रैक्ट मॉड्यूल और इंसेंस की ओर आकर्षित होंगे
 
+RESOURCE ID: apac_2026_mid_autumn
+TEXT: मूनलाइट डांस 2026
+
 RESOURCE ID: apac2024_lucario_movie_promo_title
 TEXT: एक रहस्यमय ऑरा
 
@@ -1155,6 +1164,12 @@ TEXT: इवेंट के दौरान, क्लफ़ेरी हर �
 
 RESOURCE ID: apac2025_fullmoon_clefairy_o_clock_desc_2
 TEXT: क्लफ़ेरी अब बड़ी संख्या में दिखाई दे रहे हैं!
+
+RESOURCE ID: apac2026_fullmoon_o_clock_title
+TEXT: चंद्रकाल या गया है!
+
+RESOURCE ID: apac2026_fullmoon_o_clock_desc
+TEXT: इस ईवेंट के चलते समय, इवेंट की थीम वाले पोकेमॉन हर दनि दुपहर 12:00 बजे, 1:00 बजे और शाम को 7:00 बजे और 8:00 बजे दखिाई देंगे!
 
 RESOURCE ID: apac_childrens_day_2026_title
 TEXT: विकास का समय
@@ -5020,6 +5035,9 @@ TEXT: GO रिस्टबैंड
 RESOURCE ID: avatar_gloves_wristbandyellow
 TEXT: टीम इंस्टिंक्ट GO रिस्टबैंड
 
+RESOURCE ID: avatar_hat_adidas2026
+TEXT: adidas Pokémon Cap
+
 RESOURCE ID: avatar_hat_applinheadband
 TEXT: ऐप्लिन हेयरबैंड
 
@@ -7640,6 +7658,9 @@ TEXT: स्टीवन पोज़
 RESOURCE ID: avatar_pose_team_leader
 TEXT: टीम लीडर पोज़
 
+RESOURCE ID: avatar_shirt_adidas2026
+TEXT: adidas Pokémon Jacket
+
 RESOURCE ID: avatar_shirt_applinapron
 TEXT: ऐप्लिन एपरन
 
@@ -7857,6 +7878,9 @@ TEXT: GO टूर हैट
 
 RESOURCE ID: avatar_shirt_soccerjersey_10
 TEXT: 10 नम्बर जर्सी
+
+RESOURCE ID: avatar_shoes_adidas2026
+TEXT: adidas Pokémon Megaride Shoes
 
 RESOURCE ID: avatar_shoes_blacephelon
 TEXT: ब्लसेफ़लॉन बूट
@@ -18509,6 +18533,9 @@ TEXT: चार्ज्ड अटैक एनर्जि बॉल जान�
 RESOURCE ID: bonus_cd_move_zigzagoon
 TEXT: एक ऐसा ऑब्स्टागून पाने के लिए गलार लाइनून को एवॉल्व करें जिसे चार्ज्ड अटैक ऑब्स्ट्रक्ट आता हो!
 
+RESOURCE ID: bonus_cd_move_zorua
+TEXT: फ़ास्ट अटैक सर्प्राइज़ पंच जानने वाला ज़ोरोआर्क पाने के लिए, ज़ोरुआ को वकिसति करें!
+
 RESOURCE ID: bonus_cd_move_alolan_vulpix
 TEXT: चार्ज्ड अटैक चिलिंग वॉटर जानने वाले अलोला नाइनटेल्स को पाने के लिए अलोला वलपिक्स को विकसित करें!
 
@@ -20889,13 +20916,13 @@ RESOURCE ID: bread_lobby_attack_multiplier_dialog_title
 TEXT: अटैक बोनस
 
 RESOURCE ID: bread_lobby_countdown_to_battle_start
-TEXT: Countdown to the Max Battle start
+TEXT: मैक्स बैटल का काउंटडाउन शुरू हो गया है
 
 RESOURCE ID: bread_lobby_error_battle_completed
 TEXT: आप पहले ही इस पावर स्पॉट पर बैटल कर चुके हैं।
 
 RESOURCE ID: bread_lobby_error_failed_to_create_battle
-TEXT: Could not join the Max Battle. Please try again later.
+TEXT: इस मैक्स बैटल में भाग नहीं लयिा जा सका। कृपया कुछ समय बाद फरि से प्रयास करें।
 
 RESOURCE ID: bread_lobby_error_friend_details_unavailable
 TEXT: निमंत्रण भेजते समय कोई गड़बड़ी हुई। कृपया फिर से प्रयास करें।
@@ -21079,19 +21106,19 @@ RESOURCE ID: bread_post_battle_encounter_run_away_description
 TEXT: यदि आप बच कर भागे, तो आप इस पोकेमॉन को पकड़ नहीं पाएँगे।
 
 RESOURCE ID: bread_private_lobby_error_unavailable
-TEXT: Private groups are currently unavailable. Please try again later.
+TEXT: प्राइवेट ग्रुप इस समय उपलब्ध नहीं हैं। कृपया कुछ समय बाद फरि से प्रयास करें।
 
 RESOURCE ID: bread_private_lobby_error_flip_unavailable
-TEXT: The group could not be changed to public.
+TEXT: इस ग्रुप को पब्लकि में नहीं बदला जा सका।
 
 RESOURCE ID: bread_private_lobby_error_limit_reached
-TEXT: The maximum number of private groups for this Max Battle has been reached.
+TEXT: इस मैक्स बैटल के लिए प्राइवेट ग्रुप की अधकितम संख्या पूरी हो चुकी है।
 
 RESOURCE ID: bread_private_lobby_error_not_creator
-TEXT: Only the Trainer who created this group can change it to public.
+TEXT: जसि ट्रेनर ने यह ग्रुप बनाया है, केवल वही इसे पब्लकि में बदल सकते हैं।
 
 RESOURCE ID: bread_private_lobby_error_not_found
-TEXT: This group could not be found. The code may be incorrect, or the group may no longer be available.
+TEXT: ग्रुप नहीं मलिा। हो सकता है ग्रुप कोड सही न हो, या यह ग्रुप अब उपलब्ध न हो।
 
 RESOURCE ID: bread_release_title
 TEXT: क्या आप चाहते हैं कि {0} लौटे?
@@ -26917,7 +26944,7 @@ RESOURCE ID: combat_choose_next_pokemon
 TEXT: दूसरे पोकेमॉन पर स्विच करें?
 
 RESOURCE ID: combat_choose_pokemon_scaled
-TEXT: A Pokémon’s CP has been adjusted for this league.
+TEXT: इस लीग के लिए, कसिी पोकेमॉन का CP समायोजति कयिा गया है।
 
 RESOURCE ID: combat_choosing_their_team
 TEXT: अपनी टीम चुन रहा है!
@@ -28012,6 +28039,9 @@ TEXT: अल्ट्रा अनलॉक: कम्युनिटी डे 
 
 RESOURCE ID: community_day_zigzagoon_timed_research
 TEXT: गलार ज़िगज़ागून: कैच चैलेंज
+
+RESOURCE ID: community_day_zorua_event_name
+TEXT: कम्युनटिी डे - ज़ोरुआ
 
 RESOURCE ID: companion_device_enable_modal_title
 TEXT: Enable Companion Device
@@ -31571,6 +31601,9 @@ TEXT: 27 मार्च, दोपहर 2:00 बजे - शाम 5:00।
 RESOURCE ID: event_datetime_range_key_cd_vulpix26
 TEXT: 1 फ़रवरी, दुपहर 2:00 बजे – शाम 5:00 बजे
 
+RESOURCE ID: event_datetime_range_key_cd_zorua26
+TEXT: 10 अक्तूबर, दुपहर 2:00 बजे – शाम 5:00 बजे
+
 RESOURCE ID: event_datetime_range_key_cd_jangmo_o25
 TEXT: 21 जून, दुपहर 2:00 बजे – शाम 5:00 बजे
 
@@ -32982,6 +33015,9 @@ TEXT: इवेंट
 RESOURCE ID: evergreen_tr_event_name
 TEXT: अपना पथ चुनें
 
+RESOURCE ID: evergreen_week_event_name_twilight_trails
+TEXT: अपना पथ चुनें - संध्या की सैरें
+
 RESOURCE ID: evergreen_week_tr_title
 TEXT: अपना पथ चुनें सीमति समय वाली रसिर्च
 
@@ -33053,6 +33089,12 @@ TEXT: बढ़यिा या उससे बहतर थ्रो से �
 
 RESOURCE ID: evergreen_week_tr_catch_description_key_2
 TEXT: बढ़यिा या उससे बहतर थ्रो से पोकेमॉन को पकड़ने पर अतरिक्ति कैंडी पाने के लिए इस पथ को चुनें।
+
+RESOURCE ID: evergreen_week_tr_catch_stardust_key
+TEXT: कैच (स्टार-डस्ट)
+
+RESOURCE ID: evergreen_week_tr_catch_stardust_button_text_key
+TEXT: कैच (स्टार-डस्ट)
 
 RESOURCE ID: evergreen_week_tr_catch_xp_key
 TEXT: कैच (XP)
@@ -38588,6 +38630,9 @@ TEXT: वनिलाइट कम्युनिटी डे टिकट
 
 RESOURCE ID: general1.ticket_cd_vulpix26_title
 TEXT: वलपिक्स और अलोला वलपिक्स कम्युनिटी डे टिकट
+
+RESOURCE ID: general1.ticket_cd_zorua26_title
+TEXT: ज़ोरुआ कम्युनटिी डे टकिट
 
 RESOURCE ID: general1.ticket_cdc_deino26_title
 TEXT: डाइनो कम्युनटिी डे क्लासकि टकिट
@@ -49726,8 +49771,77 @@ TEXT: कार फ़्री डे जॉइन करें!
 RESOURCE ID: id2026_car_free_day_tv_id_desc
 TEXT: आयें और हमारे साथ हर रविवार सुबह 6:00 बजे से 9:45 तक, जकार्ता में इंडोनेशिया कार फ़्री डे मनाएँ! और फ़ील्ड रिसर्च या सीमित समय वाली रिसर्च पूरा कर, लोकेशन बैकग्राउंड वाले, लाल पार्टी हैट पहने पिकाचू से मुलाकात भी पाएँ!
 
+RESOURCE ID: id_potw_2026_title
+TEXT: पैटर्न ऑफ़ द वाइल्ड
+
+RESOURCE ID: id_potw_2026_tr_title
+TEXT: पैटर्न ऑफ़ द वाइल्ड सीमति समय वाली रसिर्च
+
+RESOURCE ID: id_potw_2026_tv_title
+TEXT: पैटर्न ऑफ़ द वाइल्ड को एक्सप्लोर करें!
+
+RESOURCE ID: id_potw_2026_tr_desc_title_00
+TEXT: पैटर्न ऑफ़ द वाइल्ड सीमति समय वाली रसिर्च (1/3)
+
+RESOURCE ID: id_potw_2026_tr_desc_title_01
+TEXT: पैटर्न ऑफ़ द वाइल्ड सीमति समय वाली रसिर्च (2/3)
+
+RESOURCE ID: id_potw_2026_tr_desc_title_02
+TEXT: पैटर्न ऑफ़ द वाइल्ड सीमति समय वाली रसिर्च (3/3)
+
+RESOURCE ID: id_potw_2026_bonus_0
+TEXT: बाटकि प्रिंट शर्ट वाले पकिाचू और ईवेंट के थीम वाले पोकेमॉन को इंसेंस अधकि आकर्षति करेगा
+
+RESOURCE ID: id_potw_2026_bonus_1
+TEXT: GO स्नैपशॉट में बाटकि प्रिंट शर्ट वाले पकिाचू के साथ अधकितम तीन बार तक सरप्राइज़ मुलाकातें
+
+RESOURCE ID: id_potw_2026_collection_challenge
+TEXT: पैटर्न ऑफ़ द वाइल्ड कलेक्शन चैलेंज
+
+RESOURCE ID: id_potw_2026_title_country
+TEXT: पैटर्न ऑफ़ द वाइल्ड - इंडोनेशयिा
+
+RESOURCE ID: id_potw_2026_tr_desc
+TEXT: पैटर्न ऑफ़ द वाइल्ड के उत्सव को मनाते हुए, स्पैशल बैकग्राउंड के साथ बाटकि प्रिंट शर्ट वाले पकिाचू से मुलाकात करने के लिए, सीमति समय वाली रसिर्च को पूरा करें!
+
+RESOURCE ID: id_potw_2026_tv_description
+TEXT: प्रकृति से प्रेरति पोकेमॉन दखिाई दे रहे हैं! कई सुंदर पैटर्न वाले पोकेमॉन पकड़ने के लिए, स्थानीय समयानुसार सुबह 10:00 बजे से शाम 8:00 बजे के बीच एक्सप्लोर करें। और जानकारी के लिए ब्लॉग देखें।
+
 RESOURCE ID: in_app_label
 TEXT: इन-ऐप
+
+RESOURCE ID: in_collegefest_2026_collection_challenge_title
+TEXT: Pokémon GO कॉलेज फ़ेस्ट 2026 कलेक्शन चैलेंज
+
+RESOURCE ID: in_collegefest_2026_title
+TEXT: Pokémon GO कॉलेज फ़ेस्ट 2026
+
+RESOURCE ID: in_collegefest_2026_tv_title
+TEXT: Pokémon GO कॉलेज फ़ेस्ट आ गया है!
+
+RESOURCE ID: in_collegefest_2026_bonus
+TEXT: Pokémon GO कॉलेज फ़ेस्ट 2026 इवेंट बोनस
+
+RESOURCE ID: in_collegefest_2026_evolve_bonus
+TEXT: Pokémon GO कॉलेज फ़ेस्ट 2026 एवोलूशन बोनस
+
+RESOURCE ID: in_collegefest_2026_tag
+TEXT: Pokémon GO कॉलेज फ़ेस्ट 2026
+
+RESOURCE ID: in_collegefest_2026_tr_name
+TEXT: Pokémon GO कॉलेज फ़ेस्ट सीमति समय वाली रसिर्च
+
+RESOURCE ID: in_collegefest_2026_tr_name_1
+TEXT: Pokémon GO कॉलेज फ़ेस्ट सीमति समय वाली रसिर्च (1/3)
+
+RESOURCE ID: in_collegefest_2026_tr_name_2
+TEXT: Pokémon GO कॉलेज फ़ेस्ट सीमति समय वाली रसिर्च (2/3)
+
+RESOURCE ID: in_collegefest_2026_tr_name_3
+TEXT: Pokémon GO कॉलेज फ़ेस्ट सीमति समय वाली रसिर्च (3/3)
+
+RESOURCE ID: in_collegefest_2026_tv_desc
+TEXT: अपने कॅम्पस को एक्सप्लोर कर आइकॉनकि पोकेमॉन से मुलाकात करें, सीमति समय वाली रसिर्च पूरी करें, और अपने दोस्तों संग टीम बनाकर रेड जैसे अवसरों का मलिकर सामना करें!
 
 RESOURCE ID: in_person_tickets
 TEXT: प्रत्यक्ष इवेंट टिकट
@@ -51936,6 +52050,9 @@ TEXT: स्थानीय समयानुसार 27 अप्रैल, �
 RESOURCE ID: item_event_ticket_pink_desc_cd_vulpix26
 TEXT: स्थानीय समयानुसार 1 फ़रवरी, दुपहर 2:00 बजे से शुरू होने वाली वलपिक्स और अलोला वलपिक्स कम्युनिटी डे स्पेशल रिसर्च को एक्सेस करने की टिकट।
 
+RESOURCE ID: item_event_ticket_pink_desc_cd_zorua26
+TEXT: स्थानीय समयानुसार 10 अक्तूबर, दुपहर 2:00 बजे से शुरू होने वाली ज़ोरुआ कम्युनटिी डे स्पेशल रसिर्च "धोखे का रास्ता" को एक्सेस करने की टकिट।
+
 RESOURCE ID: item_event_ticket_pink_desc_cdc_deino26
 TEXT: स्थानीय समयानुसार 16 मई को दुपहर 2:00 बजे से शुरू होने वाली डाइनो कम्युनटिी डे क्लासकि स्पेशल रसिर्च, डाइनो माइट, को ऐक्सेस करने की टकिट।
 
@@ -52322,6 +52439,9 @@ TEXT: यह टिकट 27 अप्रैल को अपने आप ऐ�
 
 RESOURCE ID: item_event_ticket_pink_details_cd_vulpix26
 TEXT: यह टिकट 1 फ़रवरी को अपने आप ऐक्टिवेट होकर, आपको स्पेशल रिसर्च फ़ायर एंड आइस का ऐक्सेस देगी।
+
+RESOURCE ID: item_event_ticket_pink_details_cd_zorua26
+TEXT: यह टकिट 10 अक्तूबर को अपने आप ऐक्टविेट होकर, आपको स्पेशल रसिर्च धोखे का रास्ता का ऐक्सेस देगी।
 
 RESOURCE ID: item_event_ticket_pink_details_cd_jangmo_o25
 TEXT: यह टिकट अपने आप ऐक्टिवेट होकर 21 मई को होने वाली कम्युनिटी डे स्पेशल रिसर्च "आ गया, जैंग्मो-ओ!" का एक्सेस आपको देगी।
@@ -59146,7 +59266,7 @@ RESOURCE ID: mega_evolve_lobby_existing_toast
 TEXT: You can only use one Mega-Evolved Pokémon at a time.
 
 RESOURCE ID: mega_evolve_pokemon_to_use_in_this_party
-TEXT: Mega Evolve Gengar to use this party.
+TEXT: इस पार्टी को उपयोग करने के लिए, गेंगार को मेगा एवॉल्व करें।
 
 RESOURCE ID: mega_evolve_preview_first_time
 TEXT: After you Mega Evolve a Pokémon for the first time, you can Mega Evolve it again without Mega Energy after a rest period.
@@ -59553,10 +59673,10 @@ at SHA 12701f1c07ae7f07a5d50583f697320977df7988
 Pipeline 1139111, job 13470914
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-09-11T20:57:11.794309+00:00 for hi-IN
-at SHA 9f591d8678c
-Pipeline 3938550, job 57981687
-Patch from: 0.429.0-SHA-de304d2a-RC2, 0.427.0-SHA-fc729f25-RC2, 0.427.1-SHA-4a569ba7-RC1
+TEXT: Built at 2026-09-17T05:05:53.880793+00:00 for hi-IN
+at SHA 37a1529ab2c
+Pipeline 3950659, job 58169809
+Patch from: 0.431.0-SHA-8123c737-RC1, 0.427.0-SHA-fc729f25-RC2, 0.429.0-SHA-d6c796f0-RC1, 0.427.1-SHA-4a569ba7-RC1
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: Timed Research: Choose Your Fighting Type
@@ -65136,6 +65256,9 @@ TEXT: इस फ़ीचर की मदद से, AR मोड में प
 RESOURCE ID: occlusions_tutorial_body_forced_on
 TEXT: इस फ़ीचर की मदद से, AR मोड में पोकेमॉन आपकी आस-पास की जगहों में अच्छी तरह से फि़ट होने के साथ ही चीज़ों के पीछे जा सकता है।
 
+RESOURCE ID: oclock_generic_desc
+TEXT: जंगल में ईवेंट की थीम वाले पोकेमॉन और अधकि बार दखिाई दे रहें हैं
+
 RESOURCE ID: oct22_evo_collection_challenge_1
 TEXT: Evolving Stars: Eevee Challenge
 
@@ -65279,7 +65402,7 @@ RESOURCE ID: onboard_welcome_screen|9
 TEXT: एडवेंचर पर जाने के लिए, अपना स्टाइल चुनें!
 
 RESOURCE ID: one_or_more_pokemon_exceed_this_leagues_cp_limit
-TEXT: One or more Pokémon exceed this league’s CP limit.
+TEXT: एक या अधकि पोकेमॉन इस लीग की CP सीमा से ऊपर हैं।
 
 RESOURCE ID: one_route_nearby_label
 TEXT: 1 route
@@ -67027,6 +67150,9 @@ TEXT: GO स्नैपशॉट में वूपर के साथ 5 स�
 
 RESOURCE ID: photobomb_five_zigzagoon
 TEXT: GO स्नैपशॉट में गलार ज़िगज़ागून के साथ 5 सरप्राइज़ मुलाकत
+
+RESOURCE ID: photobomb_five_zorua
+TEXT: GO स्नैपशॉट में ज़ोरुआ के साथ 5 सरप्राइज़ मुलाकात
 
 RESOURCE ID: photobomb_five_croagunk_fashion
 TEXT: GO स्नैपशॉट में स्टाइलिश क्रोगंक के साथ 5 सरप्राइज़ मुलाकतें
@@ -80837,45 +80963,45 @@ RESOURCE ID: privacy_policy_update_notice
 TEXT: नए प्रोडक्ट फ़ीचर और हमारे द्वारा व्यक्तगित डेटा प्रोसेस करने के तरीके के बारे में अतरिक्ति जानकारी के लिए कृपया अपडेट की गई Scopely Explore प्राइवेसी पॉलसिी देखें.
 
 RESOURCE ID: private_group_title
-TEXT: Private Group
+TEXT: प्राइवेट ग्रुप
 
 RESOURCE ID: private_group_pill
-TEXT: PRIVATE
+TEXT: प्राइवेट
 
 RESOURCE ID: private_group_change_to_public_title
-TEXT: Change to Public
+TEXT: पब्लकि ग्रुप में बदलें
 
 RESOURCE ID: private_group_change_to_public_desc
-TEXT: If you change this group to public, anyone can join and battle with you. Once you change to public, your group cannot be made private again.
+TEXT: इस ग्रुप को पब्लकि ग्रुप में बदलने पर, इसमें कोई भी भाग लेकर आपसे बैटल कर सकते हैं। आपके ग्रुप को पब्लकि में बदल देने के बाद, इसे फरि से प्राइवेट नहीं कयिा जा सकता।
 
-Are you sure you want to change to a public group?
+क्या आप सच में इसे बदलकर पब्लकि ग्रुप बनाना चाहते हैं?
 
 RESOURCE ID: private_group_change_to_public_button
-TEXT: CHANGE TO PUBLIC
+TEXT: पब्लकि ग्रुप में बदलें
 
 RESOURCE ID: private_group_code_intro
-TEXT: Battle together with friends by entering their group code.
+TEXT: अपने दोस्तों का ग्रुप कोड डालकर साथ में बैटल करें।
 
 RESOURCE ID: private_group_code_label
-TEXT: GROUP CODE
+TEXT: ग्रुप कोड
 
 RESOURCE ID: private_group_create_button
-TEXT: Create Group
+TEXT: ग्रुप बनाएं
 
 RESOURCE ID: private_group_created_title
-TEXT: Successfully created a group!
+TEXT: ग्रुप बनाने में सफल हुए!
 
 RESOURCE ID: private_group_entry_button
-TEXT: PRIVATE GROUP
+TEXT: प्राइवेट ग्रुप
 
 RESOURCE ID: private_group_invalid_code
-TEXT: This group code is invalid. Please enter a valid code.
+TEXT: यह ग्रुप कोड अमान्य है। कृपया कोई मान्य कोड डालें।
 
 RESOURCE ID: private_group_join_button
-TEXT: Join Group
+TEXT: ग्रुप में भाग लें
 
 RESOURCE ID: private_group_share_code_message
-TEXT: Share this group code with your friends. They can join you by entering this group code.
+TEXT: अपने दोस्तों से यह ग्रुप कोड साझा करें। इस ग्रुप कोड को डालकर वे भी आपके ग्रुप में आ सकते हैं।
 
 RESOURCE ID: prof_willow_birthday_2026_title
 TEXT: वलिो की जन्मदनि रसिर्च
@@ -86789,6 +86915,9 @@ TEXT: डूवॉट को विकसित करें
 RESOURCE ID: quest_partner_spin_rally_aeonmall
 TEXT: AEON Mall के {0} पोकेस्टॉप या जमि को स्पनि करें
 
+RESOURCE ID: quest_partner_spin_rally_familymart
+TEXT: {0} Familymart पोकेस्टॉप या जमि को स्पनि करें
+
 RESOURCE ID: quest_partner_spin_rally_mcdonalds
 TEXT: McDonald’s के {0} पोकेस्टॉप या जमि को स्पनि करें
 
@@ -87742,6 +87871,15 @@ TEXT: जंगली आइस टाइप पोकेमॉन के {0} �
 
 RESOURCE ID: quest_snapshot_wild_normal_unique_plural
 TEXT: Take snapshots of {0} different wild Normal-type Pokémon
+
+RESOURCE ID: quest_snapshot_wild_plural_bug
+TEXT: बग टाइप के {0} अलग अलग वाइल्ड पोकेमॉन के स्नैपशॉट लें
+
+RESOURCE ID: quest_snapshot_wild_plural_grass
+TEXT: ग्रास टाइप के {0} अलग अलग वाइल्ड पोकेमॉन के स्नैपशॉट लें
+
+RESOURCE ID: quest_snapshot_wild_plural_grass_or_bug
+TEXT: ग्रास या बग टाइप के {0} अलग अलग वाइल्ड पोकेमॉन के स्नैपशॉट लें
 
 RESOURCE ID: quest_snapshot_wild_poison_plural
 TEXT: जंगली नॉर्मल टाइप पोकेमॉन के {0} स्नैपशॉट लें
@@ -98488,6 +98626,9 @@ TEXT: योकोसुका में Pokémon GO सफ़ारी ज़�
 RESOURCE ID: quest_title_zigzagoon
 TEXT: फ़ील्ड नोट : गलार ज़िगज़ागून
 
+RESOURCE ID: quest_title_zorua
+TEXT: धोखे का रास्ता
+
 RESOURCE ID: quest_title_zygarde
 TEXT: From A to Zygarde
 
@@ -101935,6 +102076,15 @@ TEXT: फ़ील्ड नोट : गलार ज़िगज़ागून
 RESOURCE ID: quest_title_zigzagoon_3
 TEXT: फ़ील्ड नोट : गलार ज़िगज़ागून (4/4)
 
+RESOURCE ID: quest_title_zorua_0
+TEXT: धोखे का रास्ता (1/3)
+
+RESOURCE ID: quest_title_zorua_1
+TEXT: धोखे का रास्ता (2/3)
+
+RESOURCE ID: quest_title_zorua_2
+TEXT: धोखे का रास्ता (3/3)
+
 RESOURCE ID: quest_title_zygarde_0
 TEXT: From A to Zygarde (1/6)
 
@@ -102684,6 +102834,9 @@ TEXT: {0} गलार ज़िगज़ागून विकसित कर�
 
 RESOURCE ID: quest_zigzagoon_snapshot_b
 TEXT: गलार ज़िगज़ागून के {0} स्नैपशॉट लें
+
+RESOURCE ID: quest_zorua_catch_b
+TEXT: {0} ज़ोरुआ पकड़ें
 
 RESOURCE ID: quests_quest
 TEXT: टास्क
@@ -109528,7 +109681,7 @@ RESOURCE ID: returning_sign_in_partial
 TEXT: {0} के ज़रिए साइन इन करें
 
 RESOURCE ID: revert_pokemon_to_its_primal_form_to_use_this_party
-TEXT: Revert Kyogre to its Primal form to use this party.
+TEXT: इस पार्टी को उपयोग करने के लिए, कायोगर को उसके प्राइमल फ़ॉर्म में वापस लाएं।
 
 RESOURCE ID: revive_all_button
 TEXT: Revive All
@@ -112140,6 +112293,12 @@ TEXT: फ़ॉसिल मुलाकातें - ऑमानाइट
 RESOURCE ID: s19_tgr_takeover_collection_challenge
 TEXT: कलेक्शन चैलेंज
 
+RESOURCE ID: s24_evergreen_branch_catch_candy_description
+TEXT: पोकेमॉन पकड़ने पर 2× कैंडी पाने के लिए यह पथ चुनें
+
+RESOURCE ID: s24_evergreen_branch_throw_stardust_description
+TEXT: पोकेमॉन पकड़ने पर 2× स्टार-डस्ट पाने के लिए यह पथ चुनें
+
 RESOURCE ID: s_pinap_g_razz_pokestop_drop_bonus
 TEXT: पोकेस्टॉप और जिम को स्पिन करने से, सिल्वर पाइनऐप बेरी और गोल्डन रैज़ बेरी मिलने का चांस
 
@@ -114117,6 +114276,9 @@ TEXT: GO पास - उड़ती टैक्सी
 RESOURCE ID: season_pass_base_track_title_halloween_2025
 TEXT: GO पास - हैलोवीन 2025
 
+RESOURCE ID: season_pass_base_track_title_harvest_festival_2026
+TEXT: GO Pass: Harvest Festival
+
 RESOURCE ID: season_pass_base_track_title_horizons_fall_2026
 TEXT: GO Pass - कोलैबोरेशन सेलब्रिेशन इवेंट
 
@@ -114281,6 +114443,9 @@ TEXT: अधकि जानकारी की लिए <a href="https://pokem
 RESOURCE ID: season_pass_details_link_halloween_2025
 TEXT: अधिक जानकारी की लिए <a href="https://pokemongo.com/news/go-pass-halloween-2025">वेबसाइट</a> पर जाएं।
 
+RESOURCE ID: season_pass_details_link_harvest_festival_2026
+TEXT: For more details, visit the <a href="https://pokemongo.com/news/harvest-festival-2026">website</a>.
+
 RESOURCE ID: season_pass_details_link_horizons_fall_2026
 TEXT: अधकि जानकारी की लिए <a href="https://pokemongo.com/news/pokemon-horizons-celebration-event-2026">वेबसाइट</a> पर जाएँ।
 
@@ -114344,6 +114509,19 @@ TEXT: नीचे दिये गए रिवॉर्ड को अनलॉ
 • इवेंट की थीम वाले पोकेमॉन से मुलाकातें
 • रेयर कैंडी XL
 • और-भी बहुत कुछ! 
+
+RESOURCE ID: season_pass_harvest_festival_2026_event_duration
+TEXT: September 29 – October 5
+
+RESOURCE ID: season_pass_harvest_festival_2026_track_upgrade_header_description
+TEXT: Earn additional rewards and unlock a <b>Super Rocket Radar</b> at Rank 1!
+
+RESOURCE ID: season_pass_harvest_festival_2026_upgrade_description
+TEXT: Purchase GO Pass Deluxe: Harvest Festival to unlock the following rewards!
+
+• Encounters with Cottonee, Skiddo, Applin, and more!
+• 3 Mossy Lure Modules
+• And much more!
 
 RESOURCE ID: season_pass_horizons_fall_2026_event_duration
 TEXT: 16 सतिम्बर – 22 सतिम्बर 
@@ -114543,6 +114721,9 @@ TEXT: GO पास डीलक्स - कैंडेला की जीत �
 RESOURCE ID: season_pass_premium_track_plus_six_ranks_title_flying_taxi_2026
 TEXT: GO पास डीलक्स - उड़ती टैक्सी + 6 रैंक
 
+RESOURCE ID: season_pass_premium_track_plus_six_ranks_title_harvest_festival_2026
+TEXT: GO Pass Deluxe: Harvest Festival + 6 Ranks
+
 RESOURCE ID: season_pass_premium_track_plus_six_ranks_title_horizons_fall_2026
 TEXT: GO पास डीलक्स - कोलैबोरेशन सेलब्रिेशन इवेंट + 6 रैंक
 
@@ -114680,6 +114861,9 @@ TEXT: GO पास डीलक्स - उड़ती टैक्सी
 
 RESOURCE ID: season_pass_premium_track_title_halloween_2025
 TEXT: GO पास डीलक्स - हैलोवीन 2025
+
+RESOURCE ID: season_pass_premium_track_title_harvest_festival_2026
+TEXT: GO Pass Deluxe: Harvest Festival
 
 RESOURCE ID: season_pass_premium_track_title_horizons_fall_2026
 TEXT: GO पास डीलक्स - कोलैबोरेशन सेलब्रिेशन इवेंट
@@ -115130,6 +115314,9 @@ TEXT: Items
 
 RESOURCE ID: settings_advanced_pokemon_title
 TEXT: Pokémon
+
+RESOURCE ID: settings_advanced_privacy_title
+TEXT: गोपनीयता
 
 RESOURCE ID: settings_advanced_quality_title
 TEXT: Quality
@@ -115936,6 +116123,21 @@ TEXT: शेलमेट और कैराब्लास्ट कम्य�
 
 RESOURCE ID: shield_break_adventure_effect_battle_log
 TEXT: आपके अटैक डाइनैमकि पंच के फ़ील्ड इफ़ेक्ट से बूस्ट हो चुके हैं!
+
+RESOURCE ID: shima_collab_2026_tr_title
+TEXT: adidas सीमति समय वाली रसिर्च
+
+RESOURCE ID: shima_collab_2026_tv_title
+TEXT: Pokémon GO - adidas
+
+RESOURCE ID: shima_collab_2026_tr_1
+TEXT: adidas सीमति समय वाली रसिर्च (1/3)
+
+RESOURCE ID: shima_collab_2026_tr_2
+TEXT: adidas सीमति समय वाली रसिर्च (2/3)
+
+RESOURCE ID: shima_collab_2026_tr_3
+TEXT: adidas सीमति समय वाली रसिर्च (3/3)
 
 RESOURCE ID: shinjuku_cross_title
 TEXT: クロス新宿ビジョン
@@ -117543,10 +117745,10 @@ RESOURCE ID: soft_sfida_desc_default_short
 TEXT: Pokémon GO के बंद होने पर, एक्सप्लोर करते समय अपने-आप पोके बॉल फेंकें और पोकेस्टॉप स्पनि करें।
 
 RESOURCE ID: soft_sfida_desc_foreground
-TEXT: Automatically throw Poké Balls and spin PokéStops in the background while moving. You can activate it once daily.
+TEXT: चलते समय, बैकग्राउंड में अपने-आप से पोके बॉल फैंकते चलें और पोकेस्टॉप स्पनि करते चलें। आप इसे हर दनि एक बार चालू कर सकते हैं।
 
 RESOURCE ID: soft_sfida_desc_foreground_short
-TEXT: Encounter Pokémon and spin PokéStops in the background while moving.
+TEXT: चलते समय, बैकग्राउंड में अपने-आप से पोकेमॉन से मुलाकात करते चलें और पोकेस्टॉप स्पनि करते चलें।
 
 RESOURCE ID: soft_sfida_desc_items_full
 TEXT: अपना आइटम बैग मैनेज करें, या आइटम स्टोरेज की क्षमता बढ़ाएं।
@@ -117591,10 +117793,10 @@ RESOURCE ID: soft_sfida_btn_manage_item_bag
 TEXT: आइटम बैग मैनेज करें
 
 RESOURCE ID: soft_sfida_btn_switch_caps
-TEXT: SWITCH
+TEXT: स्वचि
 
 RESOURCE ID: soft_sfida_btn_unpair_device_caps
-TEXT: UNPAIR DEVICE
+TEXT: अन-पेयर
 
 RESOURCE ID: soft_sfida_btn_view_summary
 TEXT: सारांश देखें
@@ -118145,6 +118347,9 @@ TEXT: वूपर वॉच
 
 RESOURCE ID: spawn_zigzagoon
 TEXT: जंगल में और ज़्यादा गलार ज़िगज़ागून दिखाई दे रहे हैं!
+
+RESOURCE ID: spawn_zorua
+TEXT: जंगल में और ज़्यादा ज़ोरुआ दखिाई दे रहे हैं!
 
 RESOURCE ID: spawn_dratini_cdc
 TEXT: जंगल में और ज़्यादा ड्रटिनी दिखाई दे रहे हैं!
@@ -122572,6 +122777,12 @@ TEXT: दैनिक स्ट्रीक
 RESOURCE ID: streaks_widget_description
 TEXT: पोकेमॉन पकड़ने और पोकेस्टॉप स्पिन करने की अपने स्ट्रीक्स पर नज़र रखने के लिए दैनिक स्ट्रीक्स विजेट का उपयोग करें। सातवें दिन अतिरिक्त बड़ा बोनस पाएँ!
 
+RESOURCE ID: streamer_mode_expire_modal_title
+TEXT: पकड़ने का स्थान अब दखिाई दे रहा है
+
+RESOURCE ID: streamer_mode_expire_modal_desc
+TEXT: पोकेमॉन को पकड़ने के स्थान को छपिे रहने देने के लिए, वस्तिृत सेटिंग पर जाएँ।
+
 RESOURCE ID: strength_numbers_gc_display_text
 TEXT: इस चैलेंज के पूरा हो जाने पर, सभी ट्रेनर्स को मई 2025 के कम्युनिटी डे क्लासिक - मचॉप के स्पेशल रिसर्च टिकट अपने दोस्तों को निःशुल्क गिफ़्ट करने की एबिलिटी मिलेगा। ये गिफ़्ट टिकट Pokémon GO की इन-गेम शॉप में स्थानीय समयानुसार 23 मई सुबह 10 बजे (या उससे पहले!) से 24 मई शाम 5 बजे तक उपलब्ध होंगी।
 
@@ -122840,10 +123051,10 @@ RESOURCE ID: switch_sleep_warning
 TEXT: Nintendo Switch से कनेक्ट करते समय, अपने स्मार्टफ़ोन को बंद न करें या इसे स्लीप मोड में न जाने दें
 
 RESOURCE ID: switch_to_soft_sfida_description_default
-TEXT: If you’re unable to use your device but want to remain paired, you can use your Explorer Gadget instead.
+TEXT: यदि आप अपने डविाइस का उपयोग नहीं कर पा रहे हैं पर उसे पेयर कयिा रखना चाहते हैं, तो आप उसके बदले अपने एक्सप्लोरर गैजेट का उपयोग कर सकते हैं।
 
 RESOURCE ID: switch_to_soft_sfida_title_default
-TEXT: Pause your device and switch to your Explorer Gadget?
+TEXT: अपने डविाइस को पॉज़ कर, एक्सप्लोरर गैजेट से स्वचि करें?
 
 RESOURCE ID: swsh_masterball_sr_title
 TEXT: मास्टरवर्क रिसर्च - मास्टर बॉल
@@ -124471,6 +124682,12 @@ TEXT: <b>शामिल रिवॉर्ड -</b>
 • स्पैशल बैकग्राउंड वाले अलोला वलपिक्स और वलपिक्स के साथ मुलाकातें
 • और भी बहुत कुछ!
 
+RESOURCE ID: text_rewards_key_cd_zorua26
+TEXT: <b>शामलि रविॉर्ड -</b>
+• प्रीमयिम इन-गेम आइटम, जैसे कि प्रीमयिम बैटल पास, चार्ज्ड TM और रेयर कैंडी
+• स्पैशल बैकग्राउंड वाले ज़ोरुआ के साथ मुलाकातें
+• और और-भी!
+
 RESOURCE ID: text_rewards_key_cd_jangmo_o25
 TEXT: <b>शामिल रिवॉर्ड -</b>
 • प्रीमियम इन-गेम आइटम, जैसे कि प्रीमियम बैटल पास, चार्ज्ड TM और रेयर कैंडी
@@ -125169,6 +125386,9 @@ TEXT: शॉप में वनिलाइट कम्युनिटी ड�
 
 RESOURCE ID: ticket_vulpix_cd
 TEXT: शॉप में वलपिक्स और अलोला वलपिक्स कम्युनिटी डे स्पेशल रिसर्च की टिकट उपलब्ध है
+
+RESOURCE ID: ticket_zorua_cd
+TEXT: शॉप में ज़ोरुआ कम्युनटिी डे स्पेशल रसिर्च की टकिट उपलब्ध है
 
 RESOURCE ID: time_left_less_than_one_minute
 TEXT: टीम 1 मिनट में भंग हो जाएगी।
@@ -126736,6 +126956,12 @@ TEXT: कोरिया में कांतो का रोमांच स
 
 RESOURCE ID: tr_apac_151busstop_scavenger_desc
 TEXT: GO GO GO अराउंड टाउन सीमित समय वाली रिसर्च
+
+RESOURCE ID: tr_apac_2026_mid_autumn_1
+TEXT: मूनलाइट डांस 2026 सीमति समय वाली रसिर्च - चाँदनी पथ
+
+RESOURCE ID: tr_apac_2026_mid_autumn_2
+TEXT: मूनलाइट डांस 2026 सीमति समय वाली रसिर्च - चढ़ता पूरा चाँद
 
 RESOURCE ID: tr_apac2024_lucario_movie_promo_title_00
 TEXT: एक रहस्यमय ऑरा सीमित समय वाली रिसर्च (1/2)
@@ -133165,6 +133391,9 @@ TEXT: ज़ामाज़ैंटा {0} मिनट के लिए एक
 
 RESOURCE ID: zorua_o_clock_active
 TEXT: ज़ोरुआ अब बड़ी संख्या में दिखाई दे रहे हैं!
+
+RESOURCE ID: zorua_website_link
+TEXT: अधकि जानकारी की लिए <a href="https://pokemongo.com/news/communityday-october-2026-zorua">वेबसाइट</a> पर जाएँ।
 
 RESOURCE ID: zygarde_tappable_push_notification
 TEXT: Something appeared!

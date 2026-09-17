@@ -738,6 +738,12 @@ TEXT: 계정 삭제
 RESOURCE ID: advanced_settings_delete_account_button_description
 TEXT: 계정 삭제를 하면 당신 또는 다른 누구도 접속할 수 없게 됩니다. 이 조작을 진행 후 되돌릴 수 없습니다.
 
+RESOURCE ID: advanced_settings_streamer_mode_toggle
+TEXT: 포켓몬 잡은 장소를 일시적으로 숨기기
+
+RESOURCE ID: advanced_settings_streamer_mode_toggle_description
+TEXT: 포켓몬 잡은 장소를 표시하지 않는다
+
 RESOURCE ID: adventure_effect_incense_table_header
 TEXT: 이끌려 오는 포켓몬
 
@@ -1144,6 +1150,9 @@ TEXT: 2026 호주 오픈 시간제한 리서치(3/3)
 RESOURCE ID: ao_2026_unown_bonus
 TEXT: 2026 호주 오픈 기념으로 안농(A),(O)가 루어모듈 또는 향로에 반응
 
+RESOURCE ID: apac_2026_mid_autumn
+TEXT: 달맞이댄스2026
+
 RESOURCE ID: apac2024_lucario_movie_promo_title
 TEXT: 파동의 사용법
 
@@ -1158,6 +1167,12 @@ TEXT: 이벤트 기간 중 매일 13시, 19시에 삐삐가 출현!
 
 RESOURCE ID: apac2025_fullmoon_clefairy_o_clock_desc_2
 TEXT: 삐삐가 대량발생 중!
+
+RESOURCE ID: apac2026_fullmoon_o_clock_title
+TEXT: 달맞이 타임!
+
+RESOURCE ID: apac2026_fullmoon_o_clock_desc
+TEXT: 이벤트 기간 중 매일 12시, 13시, 19시, 20시에 이벤트 관련 포켓몬이 출현!
 
 RESOURCE ID: apac_childrens_day_2026_title
 TEXT: 성장하는 시간
@@ -4998,6 +5013,9 @@ TEXT: GO밴드
 RESOURCE ID: avatar_gloves_wristbandyellow
 TEXT: GO밴드 팀 인스팅트
 
+RESOURCE ID: avatar_hat_adidas2026
+TEXT: adidas Pokémon Cap
+
 RESOURCE ID: avatar_hat_applinheadband
 TEXT: 과사삭벌레 머리띠
 
@@ -7594,6 +7612,9 @@ TEXT: 성호 포즈
 RESOURCE ID: avatar_pose_team_leader
 TEXT: 팀 리더 포즈
 
+RESOURCE ID: avatar_shirt_adidas2026
+TEXT: adidas Pokémon Jacket
+
 RESOURCE ID: avatar_shirt_applinapron
 TEXT: 과사삭벌 앞치마
 
@@ -7811,6 +7832,9 @@ TEXT: 색이 다른 뮤 티셔츠
 
 RESOURCE ID: avatar_shirt_soccerjersey_10
 TEXT: 10번 유니폼
+
+RESOURCE ID: avatar_shoes_adidas2026
+TEXT: adidas Pokémon Megaride Shoes
 
 RESOURCE ID: avatar_shoes_blacephelon
 TEXT: 두파팡 부츠
@@ -13336,7 +13360,7 @@ RESOURCE ID: badge_safari_2026_lisbon_add_on_raid_test_title
 TEXT: Pokémon GO City Safari—Raid Lover
 
 RESOURCE ID: badge_safari_2026_lisbon_add_on_raid_title
-TEXT: Pokémon GO City Safari—Raid Lover
+TEXT: Pokémon GO City Safari - 레이드 옵션
 
 RESOURCE ID: badge_safari_2026_lisbon_day_00_title
 TEXT: Pokémon GO City Safari
@@ -13954,7 +13978,7 @@ RESOURCE ID: badge_safari_2026_lisbon_add_on_hatch_test
 TEXT: 리스본2026
 
 RESOURCE ID: badge_safari_2026_lisbon_add_on_raid
-TEXT: Lisbon 2026
+TEXT: 리스본2026
 
 RESOURCE ID: badge_safari_2026_lisbon_add_on_raid_test
 TEXT: Lisbon 2026
@@ -18454,6 +18478,9 @@ TEXT: 식스테일를 나인테일로 진화시키면 에너지볼을 배운다
 RESOURCE ID: bonus_cd_move_zigzagoon
 TEXT: 가라르의 직구리를 가로막구리로 진화하면 스페셜 어택 블로킹을 배운다
 
+RESOURCE ID: bonus_cd_move_zorua
+TEXT: 조로아를 조로아크로 진화시키면 기습을 배우고 있다
+
 RESOURCE ID: bonus_cd_move_alolan_vulpix
 TEXT: 식스테일(알로라의 모습)을 나인테일(알로라의 모습)로 진화시키면 찬물끼얹기를 배운다
 
@@ -20834,13 +20861,13 @@ RESOURCE ID: bread_lobby_attack_multiplier_dialog_title
 TEXT: 어택 보너스
 
 RESOURCE ID: bread_lobby_countdown_to_battle_start
-TEXT: Countdown to the Max Battle start
+TEXT: 시작까지
 
 RESOURCE ID: bread_lobby_error_battle_completed
 TEXT: 이 파워스폿 배틀에는 이미 참가했습니다
 
 RESOURCE ID: bread_lobby_error_failed_to_create_battle
-TEXT: Could not join the Max Battle. Please try again later.
+TEXT: 맥스배틀에 참가할 수 없습니다. 잠시 후 다시 시도해 주십시오
 
 RESOURCE ID: bread_lobby_error_friend_details_unavailable
 TEXT: 초대를 보낸 중 문제가 발생했습니다. 다신 한번 시도해 주세요.
@@ -21023,19 +21050,19 @@ RESOURCE ID: bread_post_battle_encounter_run_away_description
 TEXT: 도망가면 이 포켓몬은 잡을 수 없습니다.
 
 RESOURCE ID: bread_private_lobby_error_unavailable
-TEXT: Private groups are currently unavailable. Please try again later.
+TEXT: 프라이빗 그룹을이용할 수 없습니다. 잠시 후 다시 시도해 주십시오
 
 RESOURCE ID: bread_private_lobby_error_flip_unavailable
-TEXT: The group could not be changed to public.
+TEXT: 이 그룹은 공개로 변경할 수 없습니다
 
 RESOURCE ID: bread_private_lobby_error_limit_reached
-TEXT: The maximum number of private groups for this Max Battle has been reached.
+TEXT: 이 맥스배틀에 참가할 수 있는 프라이빗 그룹 최대 수에 도달했습니다
 
 RESOURCE ID: bread_private_lobby_error_not_creator
-TEXT: Only the Trainer who created this group can change it to public.
+TEXT: 이 그룹을 작성한 트레이너만 공개로 변경할 수 있습니다
 
 RESOURCE ID: bread_private_lobby_error_not_found
-TEXT: This group could not be found. The code may be incorrect, or the group may no longer be available.
+TEXT: 그룹 코드를 발견할 수 없습니다. 올바르지 않은 코드 또는 존재하지 않는 그룹일 수 있습니다.
 
 RESOURCE ID: bread_release_title
 TEXT: {0}(을)를 돌아오게 하겠습니까?
@@ -30142,6 +30169,9 @@ TEXT: 울르라 언록: 커뮤니티 데이 가라르 지그제구리
 RESOURCE ID: community_day_zigzagoon_timed_research
 TEXT: 가라르의 지그제구리: 캐치 챌린지
 
+RESOURCE ID: community_day_zorua_event_name
+TEXT: 커뮤니티 데이: 조로아
+
 RESOURCE ID: companion_device_enable_modal_title
 TEXT: Enable Companion Device
 
@@ -33701,6 +33731,9 @@ TEXT: 4월 27일 14:00 ~ 17:00
 RESOURCE ID: event_datetime_range_key_cd_vulpix26
 TEXT: 2월 1일 14시~17시
 
+RESOURCE ID: event_datetime_range_key_cd_zorua26
+TEXT: 10월 10일 14시~ 17시
+
 RESOURCE ID: event_datetime_range_key_cd_jangmo_o25
 TEXT: 6월 21일 14시~17시
 
@@ -35111,6 +35144,9 @@ TEXT: 이벤트
 RESOURCE ID: evergreen_tr_event_name
 TEXT: 선택하는 모험
 
+RESOURCE ID: evergreen_week_event_name_twilight_trails
+TEXT: 선택하는 모험: 황혼의 여정
+
 RESOURCE ID: evergreen_week_tr_title
 TEXT: 선택 시간제한 리서치
 
@@ -35182,6 +35218,12 @@ TEXT: 이것을 선택하면 Nice 이상으로 포켓몬을 잡았을 때 받을
 
 RESOURCE ID: evergreen_week_tr_catch_description_key_2
 TEXT: 이것을 선택하면 Nice 이상으로 포켓몬을 잡을 때 받을 수 있는 사탕이 늘어납니다
+
+RESOURCE ID: evergreen_week_tr_catch_stardust_key
+TEXT: 포획(별의모래)
+
+RESOURCE ID: evergreen_week_tr_catch_stardust_button_text_key
+TEXT: 포획(별의모래)
 
 RESOURCE ID: evergreen_week_tr_catch_xp_key
 TEXT: 포획(XP)
@@ -40715,6 +40757,9 @@ TEXT: 바닐프티 커뮤니티 데이 티켓
 
 RESOURCE ID: general1.ticket_cd_vulpix26_title
 TEXT: 식스테일과 식스테일(알로라의 모습) 커뮤니티 데이 티켓
+
+RESOURCE ID: general1.ticket_cd_zorua26_title
+TEXT: 조로아 커뮤니티 데이 티켓
 
 RESOURCE ID: general1.ticket_cdc_deino26_title
 TEXT: 모노두 커뮤니티 데이(복각) 티켓
@@ -51826,8 +51871,77 @@ RESOURCE ID: id2026_car_free_day_tv_id_desc
 TEXT: 매주 일요일 6시부터 9시 45분까지 자카르타에서 카 프리데이를 개최.
 필드리서치 또는 시간제한 리서치를 완료하면 로케이션 배경이 있는 파티 모자를 쓴 피카츄와 만날 수 있습니다.
 
+RESOURCE ID: id_potw_2026_title
+TEXT: 와일드 패턴
+
+RESOURCE ID: id_potw_2026_tr_title
+TEXT: 와일드 패턴 시간제한 리서치
+
+RESOURCE ID: id_potw_2026_tv_title
+TEXT: 와일드 패턴 이벤트 개최 중!
+
+RESOURCE ID: id_potw_2026_tr_desc_title_00
+TEXT: 와일드 패턴 시간제한 리서치(1/3)
+
+RESOURCE ID: id_potw_2026_tr_desc_title_01
+TEXT: 와일드 패턴 시간제한 리서치(2/3)
+
+RESOURCE ID: id_potw_2026_tr_desc_title_02
+TEXT: 와일드 패턴 시간제한 리서치(3/3)
+
+RESOURCE ID: id_potw_2026_bonus_0
+TEXT: 바틱을 입은 피카츄 등 이벤트 관련 포켓몬이 향로에 반응하기 쉽다
+
+RESOURCE ID: id_potw_2026_bonus_1
+TEXT: GO스냅샷에서 바틱을 입은 피카츄의 서프라이즈 최대 3회
+
+RESOURCE ID: id_potw_2026_collection_challenge
+TEXT: 와일드 패턴 콜렉션 챌린지
+
+RESOURCE ID: id_potw_2026_title_country
+TEXT: 와일드 패턴: 인도네시아
+
+RESOURCE ID: id_potw_2026_tr_desc
+TEXT: 시간제한 리서치 완료하고 스페셜 배경이 있는 바틱을 입은 피카츄와 만날 수 있다
+
+RESOURCE ID: id_potw_2026_tv_description
+TEXT: 초원에 있을 것 같은 아름다운 색과 모양의 포켓몬이 10시~20시 사이에 출현. 자세한 내용은 블로그에서 확인하세요.
+
 RESOURCE ID: in_app_label
 TEXT: 인앱 구매
+
+RESOURCE ID: in_collegefest_2026_collection_challenge_title
+TEXT: Pokémon GO College Fest 2026 컬렉션 챌린지
+
+RESOURCE ID: in_collegefest_2026_title
+TEXT: Pokémon GO College Fest 2026
+
+RESOURCE ID: in_collegefest_2026_tv_title
+TEXT: Pokémon GO College Fest 2026 개최!
+
+RESOURCE ID: in_collegefest_2026_bonus
+TEXT: Pokémon GO College Fest 2026 이벤트 보너스
+
+RESOURCE ID: in_collegefest_2026_evolve_bonus
+TEXT: Pokémon GO College Fest 2026 진화 보너스
+
+RESOURCE ID: in_collegefest_2026_tag
+TEXT: Pokémon GO College Fest 2026
+
+RESOURCE ID: in_collegefest_2026_tr_name
+TEXT: Pokémon GO College Fest 시간제한 리서치
+
+RESOURCE ID: in_collegefest_2026_tr_name_1
+TEXT: Pokémon GO College Fest 시간제한 리서치(1/3)
+
+RESOURCE ID: in_collegefest_2026_tr_name_2
+TEXT: Pokémon GO College Fest 시간제한 리서치(2/3)
+
+RESOURCE ID: in_collegefest_2026_tr_name_3
+TEXT: Pokémon GO College Fest 시간제한 리서치(3/3)
+
+RESOURCE ID: in_collegefest_2026_tv_desc
+TEXT: 캠퍼스를 탐색하고 포켓몬을 잡고 프렌드와 함께 레이드에 참가하세요!
 
 RESOURCE ID: in_person_tickets
 TEXT: 티켓(현지 참가)
@@ -54043,6 +54157,9 @@ TEXT: 현지시간 2025년 4월 27일 14시부터 바닐프티 커뮤니티 데�
 RESOURCE ID: item_event_ticket_pink_desc_cd_vulpix26
 TEXT: 현지시간 2026년 2월 1일 14시부터 식스테일과 식스테일(알로라의 모습) 커뮤니티 데이 스페셜리서치를 진행하기 위한 티켓.
 
+RESOURCE ID: item_event_ticket_pink_desc_cd_zorua26
+TEXT: 현지시간 2026년 10월 10일 14시부터 조로아 커뮤니티 데이 스페셜리서치를 진행하기 위한 티켓.
+
 RESOURCE ID: item_event_ticket_pink_desc_cdc_deino26
 TEXT: 현지시간 2026년 5월 16일 14시부터 모노두 커뮤니티 데이(복각) 스페셜리서치를 진행하기 위한 티켓.
 
@@ -54429,6 +54546,9 @@ TEXT: 이 티켓은 자동으로 활성화되어 현지시간 4월 27일에 '신
 
 RESOURCE ID: item_event_ticket_pink_details_cd_vulpix26
 TEXT: 이 티켓은 자동으로 활성화되어 현지시간 2026년 2월 1일에 '얼음과 불꽃' 스페셜리서치를 손에 넣을 수 있습니다.
+
+RESOURCE ID: item_event_ticket_pink_details_cd_zorua26
+TEXT: 이 티켓은 자동으로 활성화되어 현지시간 2026년 10월 10일에 '나쁜여우포켓몬의 수수께끼를 풀어라!' 스페셜리서치를 손에 넣을 수 있습니다.
 
 RESOURCE ID: item_event_ticket_pink_details_cd_jangmo_o25
 TEXT: 이 티켓은 자동으로 활성화되어 현지시간 6월 21일 '비늘포켓몬의 수수께끼를 풀어라!' 스페셜리서치가 진행됩니다.
@@ -61676,10 +61796,10 @@ at SHA 4d4f3e80cc7fb911006bd14d198c9831ef66d005
 Pipeline 339838, job 2672172
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-09-11T20:57:11.794309+00:00 for ko-KR
-at SHA 9f591d8678c
-Pipeline 3938550, job 57981687
-Patch from: 0.429.0-SHA-de304d2a-RC2, 0.427.0-SHA-fc729f25-RC2, 0.427.1-SHA-4a569ba7-RC1
+TEXT: Built at 2026-09-17T05:05:53.880793+00:00 for ko-KR
+at SHA 37a1529ab2c
+Pipeline 3950659, job 58169809
+Patch from: 0.431.0-SHA-8123c737-RC1, 0.427.0-SHA-fc729f25-RC2, 0.429.0-SHA-d6c796f0-RC1, 0.427.1-SHA-4a569ba7-RC1
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: 시간제한 리서치: 격투타입
@@ -67254,6 +67374,9 @@ TEXT: AR모드에서 포켓몬이 물체에 숨는 등 배경에 블렌딩 됩�
 RESOURCE ID: occlusions_tutorial_body_forced_on
 TEXT: AR모드에서 포켓몬이 물체에 숨는 등 배경에 블렌딩 됩니다.
 
+RESOURCE ID: oclock_generic_desc
+TEXT: 이벤트 관련 포켓몬이 더 빈번하게 야생에서 출현
+
 RESOURCE ID: oct22_evo_collection_challenge_1
 TEXT: 진화 포커스: 이브이 챌린지
 
@@ -69143,6 +69266,9 @@ TEXT: GO스냅샷으로 우파의 서프라이즈 5회
 
 RESOURCE ID: photobomb_five_zigzagoon
 TEXT: GO스냅샷으로 가라르의 지그제구리 서프라이즈 5번
+
+RESOURCE ID: photobomb_five_zorua
+TEXT: GO스냅샷으로 조로아의 서프라이즈 5회
 
 RESOURCE ID: photobomb_five_croagunk_fashion
 TEXT: GO스냅샷으로 모자를 뒤집어쓴 삐딱구리 서프라이즈 5회
@@ -83038,45 +83164,45 @@ RESOURCE ID: privacy_policy_update_notice
 TEXT: 새로운 기능 및 개인정보 취급에 대해 Scopely Explore 개인정보 취급 방침이 갱신되었으니 확인해 주십시오.
 
 RESOURCE ID: private_group_title
-TEXT: Private Group
+TEXT: 프라이빗 그룹
 
 RESOURCE ID: private_group_pill
-TEXT: PRIVATE
+TEXT: 프라이빗
 
 RESOURCE ID: private_group_change_to_public_title
-TEXT: Change to Public
+TEXT: 공개로 변경
 
 RESOURCE ID: private_group_change_to_public_desc
-TEXT: If you change this group to public, anyone can join and battle with you. Once you change to public, your group cannot be made private again.
+TEXT: 그룹을 공개로 변경하면 아무나 배틀에 참가할 수 있습니다. 변경 후 프라이빗으로 되돌릴 수 없습니다.
 
-Are you sure you want to change to a public group?
+정말로 공개하겠습니까?
 
 RESOURCE ID: private_group_change_to_public_button
-TEXT: CHANGE TO PUBLIC
+TEXT: 공개로 변경
 
 RESOURCE ID: private_group_code_intro
-TEXT: Battle together with friends by entering their group code.
+TEXT: 그룹 코드 입력으로 프렌드와 함께 배틀
 
 RESOURCE ID: private_group_code_label
-TEXT: GROUP CODE
+TEXT: 그룹 코드
 
 RESOURCE ID: private_group_create_button
-TEXT: Create Group
+TEXT: 그룹 만들기
 
 RESOURCE ID: private_group_created_title
-TEXT: Successfully created a group!
+TEXT: 그룹 작성에 성공했습니다!
 
 RESOURCE ID: private_group_entry_button
-TEXT: PRIVATE GROUP
+TEXT: 프라이빗 그룹
 
 RESOURCE ID: private_group_invalid_code
-TEXT: This group code is invalid. Please enter a valid code.
+TEXT: 그룹 코드가 무효합니다. 올바른 코드를 입력해 주세요.
 
 RESOURCE ID: private_group_join_button
-TEXT: Join Group
+TEXT: 그룹에 참가
 
 RESOURCE ID: private_group_share_code_message
-TEXT: Share this group code with your friends. They can join you by entering this group code.
+TEXT: 이 그룹 코드를 프렌드가 입력하면 같이 배틀에 참가할 수 있습니다.
 
 RESOURCE ID: prof_willow_birthday_2026_title
 TEXT: 박사 생일 리서치
@@ -88990,6 +89116,9 @@ TEXT: 쌍검자비를 1마리 진화시킨다
 RESOURCE ID: quest_partner_spin_rally_aeonmall
 TEXT: AEON Mall 포켓스톱 또는 체육관을 {0}개 돌린다
 
+RESOURCE ID: quest_partner_spin_rally_familymart
+TEXT: Spin {0} Familymart PokéStops or Gyms
+
 RESOURCE ID: quest_partner_spin_rally_mcdonalds
 TEXT: 맥도날드 포켓스톱 또는 체육관을 {0}개 돌린다
 
@@ -90000,6 +90129,15 @@ TEXT: 노말타입 야생 포켓몬의 GO스냅샷을 {0}장 찍는다
 
 RESOURCE ID: quest_snapshot_wild_normal_unique_plural
 TEXT: Take snapshots of {0} different wild Normal-type Pokémon
+
+RESOURCE ID: quest_snapshot_wild_plural_bug
+TEXT: 야생의 벌레타입 포켓몬 {0}종류의 GO스냅샷을 찍는다
+
+RESOURCE ID: quest_snapshot_wild_plural_grass
+TEXT: 야생 풀타입 포켓몬 {0}종류의 GO스냅샷을 찍는다
+
+RESOURCE ID: quest_snapshot_wild_plural_grass_or_bug
+TEXT: 야생 풀타입 또는 벌레타입 포켓몬 {0}종류의 GO스냅샷을 찍는다
 
 RESOURCE ID: quest_snapshot_wild_poison_plural
 TEXT: 독타입 야생 포켓몬의 GO스냅샷을 {0}장 찍는다
@@ -100685,6 +100823,9 @@ TEXT: Pokémon GO Safari Zone in YOKOSUKA
 RESOURCE ID: quest_title_zigzagoon
 TEXT: 포켓몬 연구: 가라르의 지그제구리
 
+RESOURCE ID: quest_title_zorua
+TEXT: 나쁜여우포켓몬의 수수께끼를 풀어라!
+
 RESOURCE ID: quest_title_zygarde
 TEXT: 새로운 길의 탐색
 
@@ -104132,6 +104273,15 @@ TEXT: 포켓몬 연구: 가라르의 지그제구리(3/4)
 RESOURCE ID: quest_title_zigzagoon_3
 TEXT: 포켓몬 연구: 가라르의 지그제구리(4/4)
 
+RESOURCE ID: quest_title_zorua_0
+TEXT: 나쁜여우포켓몬의 수수께끼를 풀어라!(1/3)
+
+RESOURCE ID: quest_title_zorua_1
+TEXT: 나쁜여우포켓몬의 수수께끼를 풀어라!(2/3)
+
+RESOURCE ID: quest_title_zorua_2
+TEXT: 나쁜여우포켓몬의 수수께끼를 풀어라!(3/3)
+
 RESOURCE ID: quest_title_zygarde_0
 TEXT: 새로운 길의 탐색(1/6)
 
@@ -104935,6 +105085,9 @@ TEXT: 가라르의 지그제구리를 {0}마리 진화시킨다
 
 RESOURCE ID: quest_zigzagoon_snapshot_b
 TEXT: 가라르의 지그제구리 GO스냅샷을 {0}장 찍는다
+
+RESOURCE ID: quest_zorua_catch_b
+TEXT: 조로아를 {0}마리 잡는다
 
 RESOURCE ID: quests_quest
 TEXT: 과제
@@ -107493,7 +107646,7 @@ RESOURCE ID: raid_defeat_try_again
 TEXT: 포켓몬을 선택하고(또는 회복하고) 배틀에 복귀!
 
 RESOURCE ID: raid_enter_group_code
-TEXT: 그룹코드 입력
+TEXT: 그룹 코드 입력
 
 RESOURCE ID: raid_error_never_joined_battle
 TEXT: 참가하려던 레이드배틀은 종료했습니다. 다른 배틀을 시도해 주십시오.
@@ -107540,7 +107693,7 @@ RESOURCE ID: raid_group_code
 TEXT: 그룹 코드
 
 RESOURCE ID: raid_group_code_intro
-TEXT: 그룹코드를 입력하면 친구와 같이 배틀에 참가할 수 있습니다
+TEXT: 그룹 코드를 입력하면 친구와 같이 배틀에 참가할 수 있습니다
 
 RESOURCE ID: raid_gym_ownership
 TEXT: 체육관의 소속
@@ -107603,7 +107756,7 @@ RESOURCE ID: raid_join_private_group_button
 TEXT: 참가한다
 
 RESOURCE ID: raid_join_private_lobby_invalid_code
-TEXT: 그룹코드가 무효합니다. 올바른 코드를 입력해 주세요.
+TEXT: 그룹 코드가 무효합니다. 올바른 코드를 입력해 주세요.
 
 RESOURCE ID: raid_leave_lobby_prompt
 TEXT: 그룹에서 탈퇴하겠습니까?
@@ -107709,7 +107862,7 @@ RESOURCE ID: raid_s_pass_daily_limit_temp
 TEXT: 리모트 맥스배틀, 리모트 레이드배틀 최대 수에 도달했습니다.
 
 RESOURCE ID: raid_share_private_code_message
-TEXT: 이 그룹코드를 입력하면 친구와 같이 레이드배틀에 참가할 수 있습니다.「그룹코드 입력」버튼을 누르고 코드를 입력합니다.
+TEXT: 이 그룹 코드를 입력하면 친구와 같이 레이드배틀에 참가할 수 있습니다.「그룹 코드 입력」버튼을 누르고 코드를 입력합니다.
 
 RESOURCE ID: raid_sort_distance
 TEXT: 거리
@@ -114393,6 +114546,12 @@ TEXT: 화석의 만남: 암나이트
 RESOURCE ID: s19_tgr_takeover_collection_challenge
 TEXT: 컬렉션 챌린지
 
+RESOURCE ID: s24_evergreen_branch_catch_candy_description
+TEXT: 이 길을 선택하면 포켓몬을 잡았을 때 받을 수 있는 사탕이 2배가 됩니다.
+
+RESOURCE ID: s24_evergreen_branch_throw_stardust_description
+TEXT: 이 길을 선택하면 포켓몬을 잡았을 때 받을 수 있는 별의모래가 2배가 됩니다.
+
 RESOURCE ID: s_pinap_g_razz_pokestop_drop_bonus
 TEXT: 포켓스톱, 체육관을 스핀하면 은 파인열매, 황금 라즈열매가 나올 때가 있다
 
@@ -116375,6 +116534,9 @@ TEXT: GO패스: 하늘 나는 그림자
 RESOURCE ID: season_pass_base_track_title_halloween_2025
 TEXT: GO패스: 핼러윈 2025
 
+RESOURCE ID: season_pass_base_track_title_harvest_festival_2026
+TEXT: GO Pass: Harvest Festival
+
 RESOURCE ID: season_pass_base_track_title_horizons_fall_2026
 TEXT: GO패스: 콜라보 이벤트
 
@@ -116540,6 +116702,9 @@ TEXT: 자세한 내용은 <a href="https://pokemongo.com/news/flying-taxi-2026">
 RESOURCE ID: season_pass_details_link_halloween_2025
 TEXT: 자세한 내용은 <a href="https://pokemongo.com/news/go-pass-halloween-2025">웹사이트</a>에서 확인해 주세요.
 
+RESOURCE ID: season_pass_details_link_harvest_festival_2026
+TEXT: For more details, visit the <a href="https://pokemongo.com/news/harvest-festival-2026">website</a>.
+
 RESOURCE ID: season_pass_details_link_horizons_fall_2026
 TEXT: 자세한 내용은 <a href="https://pokemongo.com/news/pokemon-horizons-celebration-event-2026">웹사이트</a>에서 확인해 주세요.
 
@@ -116602,6 +116767,19 @@ TEXT: GO패스 디럭스: 핼러윈 2025을 구매하면 다음 리워드를 받
 - 이벤트와 어울리는 포켓몬과의 만남
 - 이상한사탕
 - 기타
+
+RESOURCE ID: season_pass_harvest_festival_2026_event_duration
+TEXT: September 29 – October 5
+
+RESOURCE ID: season_pass_harvest_festival_2026_track_upgrade_header_description
+TEXT: Earn additional rewards and unlock a <b>Super Rocket Radar</b> at Rank 1!
+
+RESOURCE ID: season_pass_harvest_festival_2026_upgrade_description
+TEXT: Purchase GO Pass Deluxe: Harvest Festival to unlock the following rewards!
+
+• Encounters with Cottonee, Skiddo, Applin, and more!
+• 3 Mossy Lure Modules
+• And much more!
 
 RESOURCE ID: season_pass_horizons_fall_2026_event_duration
 TEXT: 9월 16일~22일
@@ -116805,6 +116983,9 @@ TEXT: GO패스 디럭스: 칸델라의 배틀 방법 탐구+6랭크
 RESOURCE ID: season_pass_premium_track_plus_six_ranks_title_flying_taxi_2026
 TEXT: GO패스 디럭스: 하늘 나는 그림자 + 6랭크
 
+RESOURCE ID: season_pass_premium_track_plus_six_ranks_title_harvest_festival_2026
+TEXT: GO Pass Deluxe: Harvest Festival + 6 Ranks
+
 RESOURCE ID: season_pass_premium_track_plus_six_ranks_title_horizons_fall_2026
 TEXT: GO패스 디럭스: 콜라보 이벤트 + 6랭크
 
@@ -116942,6 +117123,9 @@ TEXT: GO패스 디럭스: 하늘 나는 그림자
 
 RESOURCE ID: season_pass_premium_track_title_halloween_2025
 TEXT: GO패스 디럭스: 핼러윈 2025
+
+RESOURCE ID: season_pass_premium_track_title_harvest_festival_2026
+TEXT: GO Pass Deluxe: Harvest Festival
 
 RESOURCE ID: season_pass_premium_track_title_horizons_fall_2026
 TEXT: GO패스 디럭스: 콜라보 이벤트
@@ -117398,6 +117582,9 @@ TEXT: 도구
 
 RESOURCE ID: settings_advanced_pokemon_title
 TEXT: 포켓몬
+
+RESOURCE ID: settings_advanced_privacy_title
+TEXT: 프라이버시
 
 RESOURCE ID: settings_advanced_quality_title
 TEXT: 품질
@@ -118206,6 +118393,21 @@ TEXT: 쪼마리와 딱정곤 커뮤니티 데이 컨티뉴 시간제한 리서�
 
 RESOURCE ID: shield_break_adventure_effect_battle_log
 TEXT: 폭발펀치+ 필드 효과로 공격 상승!
+
+RESOURCE ID: shima_collab_2026_tr_title
+TEXT: adidas 시간제한 리서치
+
+RESOURCE ID: shima_collab_2026_tv_title
+TEXT: Pokémon GO: adidas
+
+RESOURCE ID: shima_collab_2026_tr_1
+TEXT: adidas 시간제한 리서치(1/3)
+
+RESOURCE ID: shima_collab_2026_tr_2
+TEXT: adidas 시간제한 리서치(2/3)
+
+RESOURCE ID: shima_collab_2026_tr_3
+TEXT: adidas 시간제한 리서치(3/3)
 
 RESOURCE ID: shinjuku_cross_title
 TEXT: クロス新宿ビジョン
@@ -119810,10 +120012,10 @@ RESOURCE ID: soft_sfida_desc_default_short
 TEXT: 앱을 열고 있지 않을 때도 몬스터볼을 던지고 포켓스톱을 돌립니다.
 
 RESOURCE ID: soft_sfida_desc_foreground
-TEXT: Automatically throw Poké Balls and spin PokéStops in the background while moving. You can activate it once daily.
+TEXT: 움직이는 동안 자동으로 몬스터볼을 던지고 포켓스톱을 돌립니다.(1일 1회 사용 가능)
 
 RESOURCE ID: soft_sfida_desc_foreground_short
-TEXT: Encounter Pokémon and spin PokéStops in the background while moving.
+TEXT: 움직이는 동안 백그라운드에서 포켓몬과 포켓스톱에 반응
 
 RESOURCE ID: soft_sfida_desc_items_full
 TEXT: 도구 가방을 정리하거나 업그레이드 해주세요.
@@ -120412,6 +120614,9 @@ TEXT: 우파가 야생에서 더 많이 출현
 
 RESOURCE ID: spawn_zigzagoon
 TEXT: 지그제구리가 야생에서 많이 출현!
+
+RESOURCE ID: spawn_zorua
+TEXT: 조로아가 야생에서 많이 출현!
 
 RESOURCE ID: spawn_dratini_cdc
 TEXT: More Dratini are appearing in the wild!
@@ -124843,6 +125048,12 @@ TEXT: 데일리 연속
 RESOURCE ID: streaks_widget_description
 TEXT: 데일리 연속 위젯을 사용해서 포켓몬 잡기와 포켓스톱 스핀을 파악한다. 7일째 보너스를 확실하게 챙기자!
 
+RESOURCE ID: streamer_mode_expire_modal_title
+TEXT: 잡은 장소 표시
+
+RESOURCE ID: streamer_mode_expire_modal_desc
+TEXT: 계속해서 잡은 장소를 표시하지 않을 경우 고급 설정 화면에서 다시 설정해 주십시오.
+
 RESOURCE ID: strength_numbers_gc_display_text
 TEXT: 챌린지 완료 후 2025년 5월 커뮤니티 데이(복각): 알통몬 스페셜리서치 티켓을 프렌드에게 선물할 수 있게 됩니다. 티켓은 현지시간 5월 23일 10시(더 빨라질 수 있습니다)부터 5월 24일 17시까지 숍에서 손에 넣을 수 있습니다.
 
@@ -126719,6 +126930,12 @@ TEXT: <b>받을 수 있는 리워드:</b>
 - 프리미엄 배틀패스, 기술머신스페셜, 이상한사탕 
 - 기타
 
+RESOURCE ID: text_rewards_key_cd_zorua26
+TEXT: <b>받을 수 있는 리워드:</b>
+- 조로아(스페셜 배경 있음)와의 만남
+- 프리미엄 배틀패스, 기술머신스페셜, 이상한사탕 
+- 기타
+
 RESOURCE ID: text_rewards_key_cd_jangmo_o25
 TEXT: <b>받을 수 있는 리워드:</b>
 - 짜랑꼬(스페셜 배경 있음)와의 만남
@@ -127415,6 +127632,9 @@ TEXT: 바닐프티 커뮤니티 데이 스페셜리서치 티켓이 숍에 등�
 
 RESOURCE ID: ticket_vulpix_cd
 TEXT: 식스테일과 식스테일(알로라의 모습) 커뮤니티 데이 스페셜리서치 티켓이 숍에 등장
+
+RESOURCE ID: ticket_zorua_cd
+TEXT: 조로아 커뮤니티 데이 스페셜리서치 티켓이 숍에 등장
 
 RESOURCE ID: time_left_day_hour
 TEXT: 종료까지 {0}일 {1}시간
@@ -129010,6 +129230,12 @@ TEXT: 한국에서 관동지방 포켓몬을 찾아라! 시간제한 리서치
 
 RESOURCE ID: tr_apac_151busstop_scavenger_desc
 TEXT: 동네방네 GO GO GO 시간제한 리서치
+
+RESOURCE ID: tr_apac_2026_mid_autumn_1
+TEXT: 달맞이댄스2026 시간제한 리서치: 달빛 길
+
+RESOURCE ID: tr_apac_2026_mid_autumn_2
+TEXT: 달맞이댄스2026 시간제한 리서치: 떠오르는 보름달
 
 RESOURCE ID: tr_apac2024_lucario_movie_promo_title_00
 TEXT: 파동의 사용법(1/2)
@@ -135445,6 +135671,9 @@ TEXT: 자마젠타가 {0} 동안 강력한 방패를 내세우기 때문에 레�
 
 RESOURCE ID: zorua_o_clock_active
 TEXT: 조로아가 대량발생 중!
+
+RESOURCE ID: zorua_website_link
+TEXT: 자세한 내용은 <a href="https://pokemongo.com/news/communityday-october-2026-zorua">웹사이트</a>에서 확인해 주세요.
 
 RESOURCE ID: zygarde_tappable_push_notification
 TEXT: 뭔가 신기한 것이 나타났다!

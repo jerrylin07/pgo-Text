@@ -738,6 +738,12 @@ TEXT: Удалить аккаунт
 RESOURCE ID: advanced_settings_delete_account_button_description
 TEXT: Если твой аккаунт Pokémon GO будет удалён, ни ты, ни кто-либо другой больше не будут иметь к нему доступа. Это действие не может быть отменено.
 
+RESOURCE ID: advanced_settings_streamer_mode_toggle
+TEXT: Временно Скрыть Место Поимки
+
+RESOURCE ID: advanced_settings_streamer_mode_toggle_description
+TEXT: Включи эту настройку, чтобы скрыть место поимки Покемона на 8 часов.
+
 RESOURCE ID: adventure_effect_incense_table_header
 TEXT: Привлечённые Покемоны
 
@@ -1144,6 +1150,9 @@ TEXT: Квест на Время Australian Open 2026 (3/3)
 RESOURCE ID: ao_2026_unown_bonus
 TEXT: В честь Australian Open 2026 Приманки и Ладан будут привлекать Аноунов A и O
 
+RESOURCE ID: apac_2026_mid_autumn
+TEXT: Танцы в Лунном Свете 2026
+
 RESOURCE ID: apac2024_lucario_movie_promo_title
 TEXT: Путь ауры
 
@@ -1158,6 +1167,12 @@ TEXT: Во время события Клефэйри будут появлят�
 
 RESOURCE ID: apac2025_fullmoon_clefairy_o_clock_desc_2
 TEXT: Клефэйри появляются в больших количествах!
+
+RESOURCE ID: apac2026_fullmoon_o_clock_title
+TEXT: Час Лунного Света!
+
+RESOURCE ID: apac2026_fullmoon_o_clock_desc
+TEXT: Во время этого события тематические Ивент-Покемоны будут появляться ежедневно в 12:00, 13:00, 19:00 и 20:00!
 
 RESOURCE ID: apac_childrens_day_2026_title
 TEXT: Время Расти
@@ -5090,6 +5105,9 @@ TEXT: Браслет GO
 RESOURCE ID: avatar_gloves_wristbandyellow
 TEXT: Браслет GO Команда Инстинкт
 
+RESOURCE ID: avatar_hat_adidas2026
+TEXT: adidas Pokémon Cap
+
 RESOURCE ID: avatar_hat_applinheadband
 TEXT: Ободок Апплин
 
@@ -7778,6 +7796,9 @@ TEXT: Поза Стивена
 RESOURCE ID: avatar_pose_team_leader
 TEXT: Поза Лидера Команды
 
+RESOURCE ID: avatar_shirt_adidas2026
+TEXT: adidas Pokémon Jacket
+
 RESOURCE ID: avatar_shirt_applinapron
 TEXT: Фартук Апплин
 
@@ -7995,6 +8016,9 @@ TEXT: Футболка с Сияющим Мью
 
 RESOURCE ID: avatar_shirt_soccerjersey_10
 TEXT: Футболка № 10
+
+RESOURCE ID: avatar_shoes_adidas2026
+TEXT: adidas Pokémon Megaride Shoes
 
 RESOURCE ID: avatar_shoes_blacephelon
 TEXT: Сапоги Бласефалон
@@ -18663,6 +18687,9 @@ TEXT: Эволюционируй Валпикса, чтобы получить �
 RESOURCE ID: bonus_cd_move_zigzagoon
 TEXT: Эволюционируй Галарского Лайнуна, чтобы получить Обстагуна, который знает Заряженную атаку Препятствие!
 
+RESOURCE ID: bonus_cd_move_zorua
+TEXT: Эволюционируй Зоруа, чтобы получить Зороарка, который знает Быструю Атаку Подлый Удар!
+
 RESOURCE ID: bonus_cd_move_alolan_vulpix
 TEXT: Эволюционируй Алольского Валпикса, чтобы получить Алольского Найнтэйлса, который знает Заряженную Атаку Холодный Душ!
 
@@ -21043,13 +21070,13 @@ RESOURCE ID: bread_lobby_attack_multiplier_dialog_title
 TEXT: Бонус атаки
 
 RESOURCE ID: bread_lobby_countdown_to_battle_start
-TEXT: Countdown to the Max Battle start
+TEXT: До начала Битвы Макс осталось
 
 RESOURCE ID: bread_lobby_error_battle_completed
 TEXT: Тебе уже удалось сразиться в этой Зоне силы.
 
 RESOURCE ID: bread_lobby_error_failed_to_create_battle
-TEXT: Could not join the Max Battle. Please try again later.
+TEXT: Не удалось присоединиться к Битве Макс. Повтори попытку позже.
 
 RESOURCE ID: bread_lobby_error_friend_details_unavailable
 TEXT: Произошла ошибка при отправке приглашения. Попробуй ещё раз.
@@ -21232,19 +21259,19 @@ RESOURCE ID: bread_post_battle_encounter_run_away_description
 TEXT: Если ты выйдешь, то больше не сможешь поймать этого Покемона.
 
 RESOURCE ID: bread_private_lobby_error_unavailable
-TEXT: Private groups are currently unavailable. Please try again later.
+TEXT: Частные группы сейчас недоступны. Повтори попытку позже.
 
 RESOURCE ID: bread_private_lobby_error_flip_unavailable
-TEXT: The group could not be changed to public.
+TEXT: Группу не удалось изменить на общедоступную.
 
 RESOURCE ID: bread_private_lobby_error_limit_reached
-TEXT: The maximum number of private groups for this Max Battle has been reached.
+TEXT: Достигнуто максимальное количество частных групп для этой Битвы Макс.
 
 RESOURCE ID: bread_private_lobby_error_not_creator
-TEXT: Only the Trainer who created this group can change it to public.
+TEXT: Только Тренер, создавший эту группу, может изменить её на общедоступную.
 
 RESOURCE ID: bread_private_lobby_error_not_found
-TEXT: This group could not be found. The code may be incorrect, or the group may no longer be available.
+TEXT: Группа не найдена. Возможно, введён неверный код или группа больше недоступна.
 
 RESOURCE ID: bread_release_title
 TEXT: Ты хочешь, чтобы этот Покемон вернулся: {0}?
@@ -29254,7 +29281,7 @@ RESOURCE ID: combat_choose_next_pokemon
 TEXT: Switch in a new Pokémon?
 
 RESOURCE ID: combat_choose_pokemon_scaled
-TEXT: A Pokémon’s CP has been adjusted for this league.
+TEXT: БС Покемона была скорректирована для этой лиги.
 
 RESOURCE ID: combat_choosing_their_team
 TEXT: is choosing their team!
@@ -30351,6 +30378,9 @@ TEXT: Ультрабонус: День сообщества – Галарски
 
 RESOURCE ID: community_day_zigzagoon_timed_research
 TEXT: Галарский Зигзагун: Испытание по поимке
+
+RESOURCE ID: community_day_zorua_event_name
+TEXT: День Сообщества: Зоруа
 
 RESOURCE ID: companion_device_enable_modal_title
 TEXT: Enable Companion Device
@@ -33914,6 +33944,9 @@ TEXT: 27 апреля, 14:00 – 17:00
 RESOURCE ID: event_datetime_range_key_cd_vulpix26
 TEXT: 1 февраля, 14:00 – 17:00
 
+RESOURCE ID: event_datetime_range_key_cd_zorua26
+TEXT: 10 октября, 14:00 – 17:00
+
 RESOURCE ID: event_datetime_range_key_cd_jangmo_o25
 TEXT: 21 июня, 14:00 – 17:00
 
@@ -35326,6 +35359,9 @@ TEXT: События
 RESOURCE ID: evergreen_tr_event_name
 TEXT: Выбери Свой Путь
 
+RESOURCE ID: evergreen_week_event_name_twilight_trails
+TEXT: Выбери Свой Путь: Сумеречные Тропы
+
 RESOURCE ID: evergreen_week_tr_title
 TEXT: Квест на Время Выбери Свой Путь
 
@@ -35397,6 +35433,12 @@ TEXT: Выбери этот путь, чтобы получить 1,5× XP за
 
 RESOURCE ID: evergreen_week_tr_catch_description_key_2
 TEXT: Выбери этот путь, чтобы получить дополнительные Конфеты за поимку Покемонов при помощи Хороших Бросков или лучше.
+
+RESOURCE ID: evergreen_week_tr_catch_stardust_key
+TEXT: Ловить (Звёздную Пыль)
+
+RESOURCE ID: evergreen_week_tr_catch_stardust_button_text_key
+TEXT: Ловить (Звёздную Пыль)
 
 RESOURCE ID: evergreen_week_tr_catch_xp_key
 TEXT: Ловить (XP)
@@ -41084,6 +41126,9 @@ TEXT: Билет: День Сообщества Ваниллайт
 
 RESOURCE ID: general1.ticket_cd_vulpix26_title
 TEXT: Билет: День Сообщества Валпикс и Алольский Валпикс
+
+RESOURCE ID: general1.ticket_cd_zorua26_title
+TEXT: Билет: День Сообщества Зоруа
 
 RESOURCE ID: general1.ticket_cdc_deino26_title
 TEXT: Билет: Классический День Сообщества Дейно
@@ -49893,7 +49938,7 @@ RESOURCE ID: great_league_championship_series_2026
 TEXT: Кубок Серии Игр Чемпионата GO 2026
 
 RESOURCE ID: great_league_mega_title
-TEXT: Великая Лига: Мега
+TEXT: Великая Лига: Вариация Мега
 
 RESOURCE ID: great_league_remix_title
 TEXT: Великая Лига: Ремикс
@@ -52214,8 +52259,77 @@ RESOURCE ID: id2026_car_free_day_tv_id_desc
 TEXT: Присоединяйся, чтобы отпраздновать День без Машин – Индонезия в Джакарте каждое воскресенье с 6:00 до 9:45.
 Выполни Полевой Квест или Квест на Время, чтобы встретить Пикачу в красном праздничном колпаке с Фоном Места.
 
+RESOURCE ID: id_potw_2026_title
+TEXT: Узоры Природы
+
+RESOURCE ID: id_potw_2026_tr_title
+TEXT: Квест на Время Узоры Природы
+
+RESOURCE ID: id_potw_2026_tv_title
+TEXT: Исследуй Узоры Природы!
+
+RESOURCE ID: id_potw_2026_tr_desc_title_00
+TEXT: Квест на Время Узоры Природы (1/3)
+
+RESOURCE ID: id_potw_2026_tr_desc_title_01
+TEXT: Квест на Время Узоры Природы (2/3)
+
+RESOURCE ID: id_potw_2026_tr_desc_title_02
+TEXT: Квест на Время Узоры Природы (3/3)
+
+RESOURCE ID: id_potw_2026_bonus_0
+TEXT: Ладан с большей вероятностью привлекает Пикачу в рубашке из батика и тематических Ивент-Покемонов
+
+RESOURCE ID: id_potw_2026_bonus_1
+TEXT: До 3 неожиданных встреч с Пикачу в рубашке из батика в Стоп-Кадре GO
+
+RESOURCE ID: id_potw_2026_collection_challenge
+TEXT: Коллекционное Испытание Узоры Природы
+
+RESOURCE ID: id_potw_2026_title_country
+TEXT: Узоры Природы: Индонезия
+
+RESOURCE ID: id_potw_2026_tr_desc
+TEXT: Заверши Квест на Время, чтобы встретить Пикачу в рубашке из батика с Особым Фоном, чтобы отпраздновать Узоры Природы!
+
+RESOURCE ID: id_potw_2026_tv_description
+TEXT: Появляются Покемоны, вдохновлённые природой! Исследуй, чтобы поймать Покемонов с прекрасными узорами с 10:00 до 20:00 по местному времени. Чтобы узнать больше, посети блог.
+
 RESOURCE ID: in_app_label
 TEXT: В приложении
+
+RESOURCE ID: in_collegefest_2026_collection_challenge_title
+TEXT: Коллекционное Испытание Студенческий Фестиваль Pokémon GO 2026
+
+RESOURCE ID: in_collegefest_2026_title
+TEXT: Студенческий Фестиваль Pokémon GO 2026
+
+RESOURCE ID: in_collegefest_2026_tv_title
+TEXT: Студенческий Фестиваль Pokémon GO уже здесь!
+
+RESOURCE ID: in_collegefest_2026_bonus
+TEXT: Бонус События Студенческий Фестиваль Pokémon GO 2026
+
+RESOURCE ID: in_collegefest_2026_evolve_bonus
+TEXT: Бонус Эволюции Студенческий Фестиваль Pokémon GO 2026
+
+RESOURCE ID: in_collegefest_2026_tag
+TEXT: Студенческий Фестиваль Pokémon GO 2026
+
+RESOURCE ID: in_collegefest_2026_tr_name
+TEXT: Квест на Время Студенческий Фестиваль Pokémon GO
+
+RESOURCE ID: in_collegefest_2026_tr_name_1
+TEXT: Квест на Время Студенческий Фестиваль Pokémon GO (1/3)
+
+RESOURCE ID: in_collegefest_2026_tr_name_2
+TEXT: Квест на Время Студенческий Фестиваль Pokémon GO (2/3)
+
+RESOURCE ID: in_collegefest_2026_tr_name_3
+TEXT: Квест на Время Студенческий Фестиваль Pokémon GO (3/3)
+
+RESOURCE ID: in_collegefest_2026_tv_desc
+TEXT: Исследуй свой кампус, чтобы встретить культовых Покемонов, завершить Квест на Время, участвовать в рейдах вместе с друзьями и не только!
 
 RESOURCE ID: in_person_tickets
 TEXT: Билеты на Офлайн События
@@ -54429,6 +54543,9 @@ TEXT: Билет на Специальный Квест День Сообщес
 RESOURCE ID: item_event_ticket_pink_desc_cd_vulpix26
 TEXT: Билет, дающий доступ к Специальному Квесту День Сообщества Валпикс и Алольский Валпикс с 14:00 1 февраля по местному времени, вне зависимости от твоего местонахождения.
 
+RESOURCE ID: item_event_ticket_pink_desc_cd_zorua26
+TEXT: Билет, дающий доступ к Специальному Квесту День Сообщества Зоруа Тропа Ловкача с 14:00 10 октября по местному времени, вне зависимости от твоего местонахождения.
+
 RESOURCE ID: item_event_ticket_pink_desc_cdc_deino26
 TEXT: Билет, дающий доступ к Специальному Квесту Классический День Сообщества Дейно Дейно-мит с 14:00 16 мая по местному времени, вне зависимости от твоего местонахождения.
 
@@ -54815,6 +54932,9 @@ TEXT: Этот билет активируется автоматически, �
 
 RESOURCE ID: item_event_ticket_pink_details_cd_vulpix26
 TEXT: Этот билет активируется автоматически 1 февраля, чтобы дать тебе доступ к Специальному Квесту Лёд и Пламя, вне зависимости от твоего местонахождения.
+
+RESOURCE ID: item_event_ticket_pink_details_cd_zorua26
+TEXT: Этот билет активируется автоматически 10 октября, чтобы дать тебе доступ к Специальному Квесту Тропа Ловкача, вне зависимости от твоего местонахождения.
 
 RESOURCE ID: item_event_ticket_pink_details_cd_jangmo_o25
 TEXT: Этот билет активируется автоматически, чтобы дать тебе доступ к Специальному Квесту День Сообщества Джангмо-о 21 июня, вне зависимости от твоего местонахождения.
@@ -61679,7 +61799,7 @@ RESOURCE ID: mega_evolve_lobby_existing_toast
 TEXT: За один раз ты можешь использовать только одного Покемона, прошедшего мегаэволюцию
 
 RESOURCE ID: mega_evolve_pokemon_to_use_in_this_party
-TEXT: Mega Evolve Gengar to use this party.
+TEXT: Мегаэволюционируй Генгара, чтобы использовать эту команду.
 
 RESOURCE ID: mega_evolve_preview_first_time
 TEXT: После того как ты впервые мегаэволюционируешь Покемона, ты можешь мегаэволюционировать его снова по истечении времени отдыха – уже без мегаэнергии.
@@ -62085,10 +62205,10 @@ at SHA bacc02371739993984570a6f5b31a993cf3b031b
 Pipeline 498004, job 4265729
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-09-11T20:57:11.794309+00:00 for ru-RU
-at SHA 9f591d8678c
-Pipeline 3938550, job 57981687
-Patch from: 0.429.0-SHA-de304d2a-RC2, 0.427.0-SHA-fc729f25-RC2, 0.427.1-SHA-4a569ba7-RC1
+TEXT: Built at 2026-09-17T05:05:53.880793+00:00 for ru-RU
+at SHA 37a1529ab2c
+Pipeline 3950659, job 58169809
+Patch from: 0.431.0-SHA-8123c737-RC1, 0.427.0-SHA-fc729f25-RC2, 0.429.0-SHA-d6c796f0-RC1, 0.427.1-SHA-4a569ba7-RC1
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: ‎Квест на время: Боевой тип
@@ -67641,6 +67761,9 @@ TEXT: Эта функция позволяет Покемонам в режим�
 RESOURCE ID: occlusions_tutorial_body_forced_on
 TEXT: Эта функция позволяет Покемонам в режиме AR более реалистично вписываться в окружающую обстановку, а также двигаться позади объектов. 
 
+RESOURCE ID: oclock_generic_desc
+TEXT: В окрестностях чаще появляются дикие тематические Ивент-Покемоны!
+
 RESOURCE ID: oct22_evo_collection_challenge_1
 TEXT: Звёзды эволюции: Испытание Иви
 
@@ -67784,7 +67907,7 @@ RESOURCE ID: onboard_welcome_screen|9
 TEXT: Выбери свой стиль и отправляйся навстречу приключениям!
 
 RESOURCE ID: one_or_more_pokemon_exceed_this_leagues_cp_limit
-TEXT: One or more Pokémon exceed this league’s CP limit.
+TEXT: Один или более Покемонов превышают максимальную БС этой лиги.
 
 RESOURCE ID: one_route_nearby_label
 TEXT: 1 route
@@ -69534,6 +69657,9 @@ TEXT: 5 неожиданных встреч с Вупером в Стоп-кад
 
 RESOURCE ID: photobomb_five_zigzagoon
 TEXT: 5 неожиданных встреч с Галарским Зигзагуном в Стоп-кадре GO
+
+RESOURCE ID: photobomb_five_zorua
+TEXT: 5 неожиданных встреч с Зоруа в Стоп-Кадре GO
 
 RESOURCE ID: photobomb_five_croagunk_fashion
 TEXT: 5 неожиданных встреч со стильным Кроганком в Стоп-кадре GO
@@ -83412,45 +83538,45 @@ RESOURCE ID: privacy_policy_update_notice
 TEXT: Пожалуйста, просмотри обновлённую Политику конфиденциальности Scopely Explore для получения дополнительной информации о новых функциях продукта и о том, как мы обрабатываем личные данные.
 
 RESOURCE ID: private_group_title
-TEXT: Private Group
+TEXT: Частная Группа
 
 RESOURCE ID: private_group_pill
-TEXT: PRIVATE
+TEXT: ЧАСТНАЯ
 
 RESOURCE ID: private_group_change_to_public_title
-TEXT: Change to Public
+TEXT: Изменить на Общедоступную
 
 RESOURCE ID: private_group_change_to_public_desc
-TEXT: If you change this group to public, anyone can join and battle with you. Once you change to public, your group cannot be made private again.
+TEXT: Если ты изменишь эту группу на общедоступную, любой сможет присоединиться к тебе и сразиться вместе с тобой. После того, как ты изменишь эту группу на общедоступную, твоя группа не сможет снова стать частной.
 
-Are you sure you want to change to a public group?
+Ты точно хочешь изменить эту группу на общедоступную?
 
 RESOURCE ID: private_group_change_to_public_button
-TEXT: CHANGE TO PUBLIC
+TEXT: ИЗМЕНИТЬ НА ОБЩЕДОСТУПНУЮ
 
 RESOURCE ID: private_group_code_intro
-TEXT: Battle together with friends by entering their group code.
+TEXT: Сражайся вместе с друзьями, введя их код группы.
 
 RESOURCE ID: private_group_code_label
-TEXT: GROUP CODE
+TEXT: КОД ГРУППЫ
 
 RESOURCE ID: private_group_create_button
-TEXT: Create Group
+TEXT: Создать Группу
 
 RESOURCE ID: private_group_created_title
-TEXT: Successfully created a group!
+TEXT: Удалось создать группу!
 
 RESOURCE ID: private_group_entry_button
-TEXT: PRIVATE GROUP
+TEXT: ЧАСТНАЯ ГРУППА
 
 RESOURCE ID: private_group_invalid_code
-TEXT: This group code is invalid. Please enter a valid code.
+TEXT: Этот код группы недействителен. Введи действительный код.
 
 RESOURCE ID: private_group_join_button
-TEXT: Join Group
+TEXT: Присоединиться к Группе
 
 RESOURCE ID: private_group_share_code_message
-TEXT: Share this group code with your friends. They can join you by entering this group code.
+TEXT: Поделись этим кодом группы со своими друзьями. Они могут присоединиться к тебе, введя этот код группы.
 
 RESOURCE ID: prof_willow_birthday_2026_title
 TEXT: Квест День Рождения Уиллоу
@@ -84293,13 +84419,13 @@ RESOURCE ID: quest_branch_choose_la_reine_desc
 TEXT: Выбери этот вариант, чтобы изменить обычную региональную причёску или причёски твоего Фурфру на форму Причёска-Королева до окончания события. Изменение причёски твоего Фурфру с одной на любую другую будет стоить 25 Фурфру-Конфет и 10 000 Звёздной Пыли.
 
 RESOURCE ID: quest_branch_choose_mega_chesnaught
-TEXT: Выбери Мега-Чеснот
+TEXT: Выбери Мега-Чеснота
 
 RESOURCE ID: quest_branch_choose_mega_delphox
-TEXT: Выбери Мега-Делфокс
+TEXT: Выбери Мега-Делфокса
 
 RESOURCE ID: quest_branch_choose_mega_greninja
-TEXT: Выбери Мега-Грениндзя
+TEXT: Выбери Мега-Грениндзю
 
 RESOURCE ID: quest_branch_choose_mega_chesnaught_out
 TEXT: Выбери Чеспина
@@ -89365,6 +89491,9 @@ TEXT: Эволюционируй Девотта
 RESOURCE ID: quest_partner_spin_rally_aeonmall
 TEXT: Покрути Покестопы или Гимы AEON Mall ×{0}
 
+RESOURCE ID: quest_partner_spin_rally_familymart
+TEXT: Покрути Покестопы или Гимы Familymart ×{0}
+
 RESOURCE ID: quest_partner_spin_rally_mcdonalds
 TEXT: Покрути Покестопы или Гимы Макдоналдс ×{0}
 
@@ -90375,6 +90504,15 @@ TEXT: Сделай фото диких Покемонов типа Обычны�
 
 RESOURCE ID: quest_snapshot_wild_normal_unique_plural
 TEXT: Take snapshots of {0} different wild Normal-type Pokémon
+
+RESOURCE ID: quest_snapshot_wild_plural_bug
+TEXT: Сделай фото разных диких Покемонов типа Насекомое ×{0}
+
+RESOURCE ID: quest_snapshot_wild_plural_grass
+TEXT: Сделай фото разных диких Покемонов типа Трава ×{0}
+
+RESOURCE ID: quest_snapshot_wild_plural_grass_or_bug
+TEXT: Сделай фото разных диких Покемонов типов Трава или Насекомое ×{0}
 
 RESOURCE ID: quest_snapshot_wild_poison_plural
 TEXT: Сделай фото диких Покемонов типа Яд ×{0}
@@ -101128,6 +101266,9 @@ TEXT: Зона Сафари Pokémon GO в ЙОКОСУКА
 RESOURCE ID: quest_title_zigzagoon
 TEXT: Полевые заметки: Галарский Зигзагун
 
+RESOURCE ID: quest_title_zorua
+TEXT: Тропа Ловкача
+
 RESOURCE ID: quest_title_zygarde
 TEXT: Загадки Зайгарда
 
@@ -104575,6 +104716,15 @@ TEXT: Полевые заметки: Галарский Зигзагун (3/4)
 RESOURCE ID: quest_title_zigzagoon_3
 TEXT: Полевые заметки: Галарский Зигзагун (4/4)
 
+RESOURCE ID: quest_title_zorua_0
+TEXT: Тропа Ловкача (1/3)
+
+RESOURCE ID: quest_title_zorua_1
+TEXT: Тропа Ловкача (2/3)
+
+RESOURCE ID: quest_title_zorua_2
+TEXT: Тропа Ловкача (3/3)
+
 RESOURCE ID: quest_title_zygarde_0
 TEXT: Загадки Зайгарда (1/6)
 
@@ -105378,6 +105528,9 @@ TEXT: Эволюционируй {0} Галарских Зигзагунов
 
 RESOURCE ID: quest_zigzagoon_snapshot_b
 TEXT: Сделай {0} фото Галарского Зигзагуна
+
+RESOURCE ID: quest_zorua_catch_b
+TEXT: Поймай Зоруа ×{0}
 
 RESOURCE ID: quests_quest
 TEXT: Задания
@@ -112228,7 +112381,7 @@ RESOURCE ID: returning_sign_in_partial
 TEXT: Вход с {0}
 
 RESOURCE ID: revert_pokemon_to_its_primal_form_to_use_this_party
-TEXT: Revert Kyogre to its Primal form to use this party.
+TEXT: Активируй переход Кайогра в его протоформу, чтобы использовать эту команду.
 
 RESOURCE ID: revive_all_button
 TEXT: Оживить всех
@@ -114843,6 +114996,12 @@ TEXT: Встречи с Ископаемым: Оманайт
 RESOURCE ID: s19_tgr_takeover_collection_challenge
 TEXT: Коллекционное испытание
 
+RESOURCE ID: s24_evergreen_branch_catch_candy_description
+TEXT: Выбери этот путь, чтобы получить 2× Конфет за поимку Покемонов.
+
+RESOURCE ID: s24_evergreen_branch_throw_stardust_description
+TEXT: Выбери этот путь, чтобы получить 2× Звёздной Пыли за поимку Покемонов.
+
 RESOURCE ID: s_pinap_g_razz_pokestop_drop_bonus
 TEXT: Шанс получить Серебряные Пайнеп-Ягоды или Золотые Разз-Ягоды за прокрутку Покестопов или Гимов
 
@@ -116826,6 +116985,9 @@ TEXT: Пропуск GO: Летающее Такси
 RESOURCE ID: season_pass_base_track_title_halloween_2025
 TEXT: Пропуск GO: Хэллоуин 2025
 
+RESOURCE ID: season_pass_base_track_title_harvest_festival_2026
+TEXT: GO Pass: Harvest Festival
+
 RESOURCE ID: season_pass_base_track_title_horizons_fall_2026
 TEXT: Праздничное Событие Пропуск GO: Коллаборация
 
@@ -116992,6 +117154,9 @@ TEXT: Чтобы узнать больше, посети <a href="https://pokemo
 RESOURCE ID: season_pass_details_link_halloween_2025
 TEXT: Чтобы узнать больше, посети <a href="https://pokemongo.com/news/go-pass-halloween-2025">этот сайт</a>.
 
+RESOURCE ID: season_pass_details_link_harvest_festival_2026
+TEXT: For more details, visit the <a href="https://pokemongo.com/news/harvest-festival-2026">website</a>.
+
 RESOURCE ID: season_pass_details_link_horizons_fall_2026
 TEXT: Чтобы узнать больше, посети <a href="https://pokemongo.com/news/pokemon-horizons-celebration-event-2026">этот сайт</a>.
 
@@ -117055,6 +117220,19 @@ TEXT: Приобрети Делюкс-Пропуск GO: Хэллоуин 2025, 
 • Встречи с тематическими Ивент-Покемонами
 • Редкие Конфеты XL
 • И многим другим!
+
+RESOURCE ID: season_pass_harvest_festival_2026_event_duration
+TEXT: September 29 – October 5
+
+RESOURCE ID: season_pass_harvest_festival_2026_track_upgrade_header_description
+TEXT: Earn additional rewards and unlock a <b>Super Rocket Radar</b> at Rank 1!
+
+RESOURCE ID: season_pass_harvest_festival_2026_upgrade_description
+TEXT: Purchase GO Pass Deluxe: Harvest Festival to unlock the following rewards!
+
+• Encounters with Cottonee, Skiddo, Applin, and more!
+• 3 Mossy Lure Modules
+• And much more!
 
 RESOURCE ID: season_pass_horizons_fall_2026_event_duration
 TEXT: 16 сентября – 22 сентября
@@ -117261,6 +117439,9 @@ TEXT: Делюкс-Пропуск GO: Кандела: Стремление к �
 RESOURCE ID: season_pass_premium_track_plus_six_ranks_title_flying_taxi_2026
 TEXT: Делюкс-Пропуск GO: Летающее Такси + 6 Рангов
 
+RESOURCE ID: season_pass_premium_track_plus_six_ranks_title_harvest_festival_2026
+TEXT: GO Pass Deluxe: Harvest Festival + 6 Ranks
+
 RESOURCE ID: season_pass_premium_track_plus_six_ranks_title_horizons_fall_2026
 TEXT: Праздничное Событие Делюкс-Пропуск GO: Коллаборация + 6 Рангов
 
@@ -117398,6 +117579,9 @@ TEXT: Делюкс-Пропуск GO: Летающее Такси
 
 RESOURCE ID: season_pass_premium_track_title_halloween_2025
 TEXT: Делюкс-Пропуск GO: Хэллоуин 2025
+
+RESOURCE ID: season_pass_premium_track_title_harvest_festival_2026
+TEXT: GO Pass Deluxe: Harvest Festival
 
 RESOURCE ID: season_pass_premium_track_title_horizons_fall_2026
 TEXT: Праздничное Событие Делюкс-Пропуск GO: Коллаборация
@@ -117850,6 +118034,9 @@ TEXT: Предметы
 
 RESOURCE ID: settings_advanced_pokemon_title
 TEXT: Покемоны
+
+RESOURCE ID: settings_advanced_privacy_title
+TEXT: Конфиденциальность
 
 RESOURCE ID: settings_advanced_quality_title
 TEXT: Качество
@@ -118655,6 +118842,21 @@ TEXT: Квест на время День сообщества Шелмет и �
 
 RESOURCE ID: shield_break_adventure_effect_battle_log
 TEXT: ТВОИ АТАКИ УСИЛЕНЫ ЭФФЕКТОМ ПРИКЛЮЧЕНИЙ АТАКИ ДИНАМИЧЕСКИЙ УДАР+!
+
+RESOURCE ID: shima_collab_2026_tr_title
+TEXT: Квест на Время adidas
+
+RESOURCE ID: shima_collab_2026_tv_title
+TEXT: Pokémon GO: adidas
+
+RESOURCE ID: shima_collab_2026_tr_1
+TEXT: Квест на Время adidas (1/3)
+
+RESOURCE ID: shima_collab_2026_tr_2
+TEXT: Квест на Время adidas (2/3)
+
+RESOURCE ID: shima_collab_2026_tr_3
+TEXT: Квест на Время adidas (3/3)
 
 RESOURCE ID: shinjuku_cross_title
 TEXT: クロス新宿ビジョン
@@ -120310,10 +120512,10 @@ RESOURCE ID: soft_sfida_btn_manage_item_bag
 TEXT: Организовать
 
 RESOURCE ID: soft_sfida_btn_switch_caps
-TEXT: SWITCH
+TEXT: ПЕРЕКЛЮЧИТЬСЯ
 
 RESOURCE ID: soft_sfida_btn_unpair_device_caps
-TEXT: UNPAIR DEVICE
+TEXT: УДАЛИТЬ УСТРОЙСТВО
 
 RESOURCE ID: soft_sfida_btn_view_summary
 TEXT: Посмотреть отчёт
@@ -120864,6 +121066,9 @@ TEXT: Появляется больше диких Вуперов
 
 RESOURCE ID: spawn_zigzagoon
 TEXT: Появляется больше диких Галарскиx Зигзагунов!
+
+RESOURCE ID: spawn_zorua
+TEXT: Появляется больше диких Зоруа!
 
 RESOURCE ID: spawn_dratini_cdc
 TEXT: More Dratini are appearing in the wild!
@@ -125295,6 +125500,12 @@ TEXT: Непрерывная игра
 RESOURCE ID: streaks_widget_description
 TEXT: Используй виджет Непрерывной игры, чтобы отслеживать прогресс непрерывной поимки Покемонов и прокрутки Покестопов. Зарабатывай особенно большие бонусы за 7 дней непрерывной игры!
 
+RESOURCE ID: streamer_mode_expire_modal_title
+TEXT: Место Поимки Теперь Отображается
+
+RESOURCE ID: streamer_mode_expire_modal_desc
+TEXT: Чтобы продолжить скрывать место поимки Покемона, перейди в Расширенные Настройки.
+
 RESOURCE ID: strength_numbers_gc_display_text
 TEXT: После завершения этого испытания все Тренеры получат доступ к отправке бесплатных билетов на Специальный Квест Классический День Сообщества: Мачоп (май 2025) в качестве подарков. Билеты будут доступны во внутриигровом магазине Pokémon GO с 10:00 (или ранее!) 23 мая до 17:00 24 мая по местному времени.
 
@@ -125565,10 +125776,10 @@ RESOURCE ID: switch_sleep_warning
 TEXT: While connecting to the Nintendo Switch, don’t turn off your smartphone or enter sleep mode. 
 
 RESOURCE ID: switch_to_soft_sfida_description_default
-TEXT: If you’re unable to use your device but want to remain paired, you can use your Explorer Gadget instead.
+TEXT: Если ты не можешь использовать своё устройство, но хочешь оставить его добавленным, ты можешь использовать свой Гаджет Исследователя.
 
 RESOURCE ID: switch_to_soft_sfida_title_default
-TEXT: Pause your device and switch to your Explorer Gadget?
+TEXT: Приостановить своё устройство и переключиться на свой Гаджет Исследователя?
 
 RESOURCE ID: swsh_masterball_sr_title
 TEXT: Непревзойдённый квест: Мастер-Болл
@@ -127190,6 +127401,12 @@ TEXT: <b>Включает следующие награды:</b>
 • Встречи с Валпиксом или Алольским Валпиксом с Особым Фоном
 • И другие!
 
+RESOURCE ID: text_rewards_key_cd_zorua26
+TEXT: <b>Включает следующие награды:</b>
+• Внутриигровые премиум-предметы, такие как Боевой Премиум-Пропуск, Заряженная TM и Редкая Конфета
+• Встречи с Зоруа с Особым Фоном
+• И другие!
+
 RESOURCE ID: text_rewards_key_cd_jangmo_o25
 TEXT: <b>Включает следующие награды:</b>
 • Внутриигровые премиум-предметы, такие как Боевой Премиум-Пропуск, Заряженная TM и Редкие Конфеты
@@ -127886,6 +128103,9 @@ TEXT: Билет, дающий доступ к Специальному Кве�
 
 RESOURCE ID: ticket_vulpix_cd
 TEXT: Билет на Специальный Квест День Сообщества Валпикс и Алольский Валпикс доступен в магазине
+
+RESOURCE ID: ticket_zorua_cd
+TEXT: Билет на Специальный Квест День Сообщества Зоруа доступен в магазине
 
 RESOURCE ID: time_left_less_than_one_minute
 TEXT: Команда будет расформирована меньше чем через 1 мин.
@@ -129468,6 +129688,12 @@ TEXT: Квест на время Приключения в стиле Кант�
 
 RESOURCE ID: tr_apac_151busstop_scavenger_desc
 TEXT: Квест на время GO GO GO через весь город
+
+RESOURCE ID: tr_apac_2026_mid_autumn_1
+TEXT: Квест на Время Танцы в Лунном Свете 2026: Лунный Путь
+
+RESOURCE ID: tr_apac_2026_mid_autumn_2
+TEXT: Дополнительный Квест на Время Танцы в Лунном Свете 2026: Восход Полной Луны
 
 RESOURCE ID: tr_apac2024_lucario_movie_promo_title_00
 TEXT: Квест на время Путь ауры (1/2)
@@ -133532,7 +133758,7 @@ RESOURCE ID: ultra_beast_not_allowed_in_gyms
 TEXT: Ультрачудовища не могут быть оставлены в Гимах.
 
 RESOURCE ID: ultra_league_mega_title
-TEXT: Ультралига: Мега
+TEXT: Ультра Лига: Вариация Мега
 
 RESOURCE ID: ultra_league_remix_title
 TEXT: Ультралига: Ремикс
@@ -135907,6 +136133,9 @@ TEXT: Земазента будет обладать огромным, мощн�
 
 RESOURCE ID: zorua_o_clock_active
 TEXT: Зоруа появляются в больших количествах!
+
+RESOURCE ID: zorua_website_link
+TEXT: Чтобы узнать больше, посети <a href="https://pokemongo.com/news/communityday-october-2026-zorua">этот сайт</a>.
 
 RESOURCE ID: zygarde_tappable_push_notification
 TEXT: Появилось что-то загадочное!

@@ -775,6 +775,12 @@ TEXT: เมื่อบัญชี Pokémon GO ของคุณถูกล�
 ได้อีกต่อไป
 การดำเนินการนี้ไม่สามารถยกเลิกได้
 
+RESOURCE ID: advanced_settings_streamer_mode_toggle
+TEXT: ซ่อนข้อมูลสถานที่จับโปเกมอนชั่วคราว
+
+RESOURCE ID: advanced_settings_streamer_mode_toggle_description
+TEXT: ตั้งค่าให้ไม่แสดงเป็นเวลา 8 ชั่วโมง
+
 RESOURCE ID: adventure_effect_incense_table_header
 TEXT: โปเกมอนที่ถูกดึงดูด
 
@@ -1181,6 +1187,9 @@ TEXT: งานวิจัยแบบจำกัดเวลา AO 2026 (3/3)
 RESOURCE ID: ao_2026_unown_bonus
 TEXT: อันโนน (A)(O) จะถูกดึงดูดด้วยอุปกรณ์ปล่อยลัวร์หรือเครื่องหอมเพื่อเฉลิมฉลอง AO 2026
 
+RESOURCE ID: apac_2026_mid_autumn
+TEXT: เต้นรำชมจันทร์ 2026
+
 RESOURCE ID: apac2024_lucario_movie_promo_title
 TEXT: วิถีแห่งคลื่นพลัง
 
@@ -1195,6 +1204,12 @@ TEXT: ระหว่างช่วงอีเวนต์ ปิปปีจ�
 
 RESOURCE ID: apac2025_fullmoon_clefairy_o_clock_desc_2
 TEXT: ปิปปีกำลังปรากฏตัวจำนวนมาก!
+
+RESOURCE ID: apac2026_fullmoon_o_clock_title
+TEXT: ชมจันทร์ต้นชั่วโมง!
+
+RESOURCE ID: apac2026_fullmoon_o_clock_desc
+TEXT: ในช่วงอีเวนต์ โปเกมอนธีมอีเวนต์จะปรากฏตัวตอน 12:00 น. 13:00 น. 19:00 น. และ 20:00 น. ทุกวัน
 
 RESOURCE ID: apac_childrens_day_2026_title
 TEXT: เวลาแห่งการเติบโต
@@ -5184,6 +5199,9 @@ TEXT: ริสต์แบนด์ GO
 RESOURCE ID: avatar_gloves_wristbandyellow
 TEXT: ริสต์แบนด์ GO ทีมอินสติงต์
 
+RESOURCE ID: avatar_hat_adidas2026
+TEXT: adidas Pokémon Cap
+
 RESOURCE ID: avatar_hat_applinheadband
 TEXT: ที่คาดผมคาจิชชู
 
@@ -7895,6 +7913,9 @@ TEXT: ท่าโพสไดโกะ
 RESOURCE ID: avatar_pose_team_leader
 TEXT: ท่าโพสหัวหน้าทีม
 
+RESOURCE ID: avatar_shirt_adidas2026
+TEXT: adidas Pokémon Jacket
+
 RESOURCE ID: avatar_shirt_applinapron
 TEXT: ผ้ากันเปื้อนคาจิชชู
 
@@ -8112,6 +8133,9 @@ TEXT: เสื้อลายมิว (สีแตกต่าง)
 
 RESOURCE ID: avatar_shirt_soccerjersey_10
 TEXT: เสื้อกีฬาหมายเลข 10
+
+RESOURCE ID: avatar_shoes_adidas2026
+TEXT: adidas Pokémon Megaride Shoes
 
 RESOURCE ID: avatar_shoes_blacephelon
 TEXT: รองเท้าบู๊ตซุกะโด้ง
@@ -18860,6 +18884,9 @@ TEXT: วิวัฒนาการโรคอนเป็นคิวคอ�
 RESOURCE ID: bonus_cd_move_zigzagoon
 TEXT: วิวัฒนาการมัสสึกุมะร่างกาลาร์เป็นทาจิฟุซะกุมะที่รู้ท่าโจมตีชาร์จ "บล็อกกิง"
 
+RESOURCE ID: bonus_cd_move_zorua
+TEXT: วิวัฒนาการโซรัวเป็นโซโรอาร์คที่รู้ท่าโจมตีเร็ว "โจมตีแบบไม่คาดคิด"
+
 RESOURCE ID: bonus_cd_move_alolan_vulpix
 TEXT: วิวัฒนาการโรคอน (ร่างอโลลา) เป็นคิวคอน (ร่างอโลลา) ที่รู้ท่าโจมตีชาร์จ "น้ำเย็น"
 
@@ -21364,13 +21391,13 @@ RESOURCE ID: bread_lobby_attack_multiplier_dialog_title
 TEXT: โบนัสการโจมตี
 
 RESOURCE ID: bread_lobby_countdown_to_battle_start
-TEXT: Countdown to the Max Battle start
+TEXT: จะเริ่มใน
 
 RESOURCE ID: bread_lobby_error_battle_completed
 TEXT: คุณเคยแบตเทิลที่พาวเวอร์สป็อตนี้แล้ว
 
 RESOURCE ID: bread_lobby_error_failed_to_create_battle
-TEXT: Could not join the Max Battle. Please try again later.
+TEXT: ไม่สามารถเข้าร่วมแบตเทิลแมกซ์ได้ กรุณาลองใหม่อีกครั้ง
 
 RESOURCE ID: bread_lobby_error_friend_details_unavailable
 TEXT: เกิดข้อผิดพลาดขณะส่งคำเชิญนี้ โปรดลองใหม่อีกครั้ง
@@ -21560,19 +21587,19 @@ RESOURCE ID: bread_post_battle_encounter_run_away_description
 TEXT: หากคุณหนี คุณจะไม่สามารถจับโปเกมอนตัวนี้ได้
 
 RESOURCE ID: bread_private_lobby_error_unavailable
-TEXT: Private groups are currently unavailable. Please try again later.
+TEXT: ไม่สามารถใช้งานกลุ่มส่วนตัวได้ในขณะนี้ โปรดลองใหม่ภายหลัง
 
 RESOURCE ID: bread_private_lobby_error_flip_unavailable
-TEXT: The group could not be changed to public.
+TEXT: ไม่สามารถเปลี่ยนกลุ่มนี้เป็นสาธารณะ
 
 RESOURCE ID: bread_private_lobby_error_limit_reached
-TEXT: The maximum number of private groups for this Max Battle has been reached.
+TEXT: กลุ่มส่วนตัวที่สามารถเข้าร่วมแบตเทิลแมกซ์นี้ได้นั้นถึงขีดจำกัดสูงสุดแล้ว
 
 RESOURCE ID: bread_private_lobby_error_not_creator
-TEXT: Only the Trainer who created this group can change it to public.
+TEXT: เฉพาะเทรนเนอร์ที่เป็นผู้สร้างกลุ่มนี้เท่านั้นที่สามารถเปิดเป็นสาธารณะได้
 
 RESOURCE ID: bread_private_lobby_error_not_found
-TEXT: This group could not be found. The code may be incorrect, or the group may no longer be available.
+TEXT: ไม่พบรหัสกลุ่ม รหัสอาจไม่ถูกต้อง หรือกลุ่มอาจจะไม่มีอยู่แล้ว
 
 RESOURCE ID: bread_release_title
 TEXT: ต้องการให้{0}กลับมาหรือไม่?
@@ -30782,6 +30809,9 @@ TEXT: ปลดล็อกอัลตร้า: คอมมิวนิตี
 RESOURCE ID: community_day_zigzagoon_timed_research
 TEXT: จิกุซากุมะร่างกาลาร์: คำท้าการจับ
 
+RESOURCE ID: community_day_zorua_event_name
+TEXT: คอมมิวนิตี้เดย์: โซรัว
+
 RESOURCE ID: companion_device_enable_modal_title
 TEXT: Enable Companion Device
 
@@ -34478,6 +34508,9 @@ TEXT: 27 เมษายน 14:00-17:00 น.
 RESOURCE ID: event_datetime_range_key_cd_vulpix26
 TEXT: 1 กุมภาพันธ์ 14:00-17:00 น.
 
+RESOURCE ID: event_datetime_range_key_cd_zorua26
+TEXT: 10 ตุลาคม 14:00-17:00 น.
+
 RESOURCE ID: event_datetime_range_key_cd_jangmo_o25
 TEXT: 21 มิถุนายน 14:00-17:00 น.
 
@@ -35933,6 +35966,9 @@ TEXT: อีเวนต์
 RESOURCE ID: evergreen_tr_event_name
 TEXT: การผจญภัยเลือกได้
 
+RESOURCE ID: evergreen_week_event_name_twilight_trails
+TEXT: การผจญภัยเลือกได้: เส้นทางสนธยา
+
 RESOURCE ID: evergreen_week_tr_title
 TEXT: งานวิจัยแบบจำกัดเวลาเลือกได้
 
@@ -36007,6 +36043,12 @@ TEXT: เลือกเส้นทางนี้เพื่อรับ 1.5�
 RESOURCE ID: evergreen_week_tr_catch_description_key_2
 TEXT: เลือกเส้นทางนี้เพื่อรับลูกอมจากการจับ
 โปเกมอนเพิ่มเมื่อขว้างได้ดีขึ้นไป
+
+RESOURCE ID: evergreen_week_tr_catch_stardust_key
+TEXT: จับ (สตาร์ดัสต์)
+
+RESOURCE ID: evergreen_week_tr_catch_stardust_button_text_key
+TEXT: จับ (สตาร์ดัสต์)
 
 RESOURCE ID: evergreen_week_tr_catch_xp_key
 TEXT: จับ (XP)
@@ -42090,6 +42132,9 @@ TEXT: ตั๋ววานิเพ็ตติคอมมิวนิตี�
 
 RESOURCE ID: general1.ticket_cd_vulpix26_title
 TEXT: ตั๋ว "โรคอนและโรคอน (ร่างอโลลา) คอมมิวนิตี้เดย์"
+
+RESOURCE ID: general1.ticket_cd_zorua26_title
+TEXT: ตั๋วโซรัวคอมมิวนิตี้เดย์
 
 RESOURCE ID: general1.ticket_cdc_deino26_title
 TEXT: ตั๋ว "โมโนซึคอมมิวนิตี้เดย์ (รีเทิร์น)"
@@ -55122,8 +55167,77 @@ RESOURCE ID: id2026_car_free_day_tv_id_desc
 TEXT: พบกับวันปลอดรถในจาการ์ตาทุกวันอาทิตย์ เวลา 6:00 น. ถึง 9:45 น.
 ทำภารกิจงานวิจัยภาคสนามหรืองานวิจัยแบบจำกัดเวลาให้เสร็จสิ้น เพื่อเผชิญหน้ากับพิคาชูสวมหมวกปาร์ตี้สีแดงที่มีพื้นหลังสถานที่
 
+RESOURCE ID: id_potw_2026_title
+TEXT: ลวดลายสไตล์ไวลด์
+
+RESOURCE ID: id_potw_2026_tr_title
+TEXT: งานวิจัยแบบจำกัดเวลาลวดลายสไตล์ไวลด์
+
+RESOURCE ID: id_potw_2026_tv_title
+TEXT: กำลังจัดอีเวนต์ลวดลายสไตล์ไวลด์!
+
+RESOURCE ID: id_potw_2026_tr_desc_title_00
+TEXT: งานวิจัยแบบจำกัดเวลาลวดลายสไตล์ไวลด์ (1/3)
+
+RESOURCE ID: id_potw_2026_tr_desc_title_01
+TEXT: งานวิจัยแบบจำกัดเวลาลวดลายสไตล์ไวลด์ (2/3)
+
+RESOURCE ID: id_potw_2026_tr_desc_title_02
+TEXT: งานวิจัยแบบจำกัดเวลาลวดลายสไตล์ไวลด์ (3/3)
+
+RESOURCE ID: id_potw_2026_bonus_0
+TEXT: โปเกมอนธีมอีเวนต์ เช่น พิคาชูสวมเสื้อบาติก มีโอกาสที่จะถูกดึงดูดด้วยเครื่องหอมสูงขึ้น
+
+RESOURCE ID: id_potw_2026_bonus_1
+TEXT: พิคาชูสวมเสื้อบาติกแย่งซีนถ่ายรูปในโกสแนปช็อตสูงสุด 3 ครั้ง
+
+RESOURCE ID: id_potw_2026_collection_challenge
+TEXT: คำท้านักสะสมลวดลายสไตล์ไวลด์
+
+RESOURCE ID: id_potw_2026_title_country
+TEXT: ลวดลายสไตล์ไวลด์: อินโดนีเซีย
+
+RESOURCE ID: id_potw_2026_tr_desc
+TEXT: เสร็จสิ้นงานวิจัยแบบจำกัดเวลาเพื่อเผชิญหน้ากับพิคาชูสวมเสื้อบาติกที่มีพื้นหลังพิเศษ
+
+RESOURCE ID: id_potw_2026_tv_description
+TEXT: โปเกมอนสีสันและลวดลายสวยงามที่ดูน่าจะอยู่ตามทุ่งหญ้าธรรมชาติจะปรากฏตัวในช่วง 10.00 - 20.00 น. อ่านรายละเอียดเพิ่มเติมได้ที่บล็อก
+
 RESOURCE ID: in_app_label
 TEXT: ในแอป
+
+RESOURCE ID: in_collegefest_2026_collection_challenge_title
+TEXT: คำท้านักสะสม Pokémon GO College Fest 2026
+
+RESOURCE ID: in_collegefest_2026_title
+TEXT: Pokémon GO College Fest 2026
+
+RESOURCE ID: in_collegefest_2026_tv_title
+TEXT: กำลังจัด Pokémon GO College Fest!
+
+RESOURCE ID: in_collegefest_2026_bonus
+TEXT: โบนัสอีเวนต์ Pokémon GO College Fest 2026
+
+RESOURCE ID: in_collegefest_2026_evolve_bonus
+TEXT: โบนัสวิวัฒนาการ Pokémon GO College Fest 2026
+
+RESOURCE ID: in_collegefest_2026_tag
+TEXT: Pokémon GO College Fest 2026
+
+RESOURCE ID: in_collegefest_2026_tr_name
+TEXT: งานวิจัยแบบจำกัดเวลา Pokémon GO College Fest
+
+RESOURCE ID: in_collegefest_2026_tr_name_1
+TEXT: งานวิจัยแบบจำกัดเวลา Pokémon GO College Fest (1/3)
+
+RESOURCE ID: in_collegefest_2026_tr_name_2
+TEXT: งานวิจัยแบบจำกัดเวลา Pokémon GO College Fest (2/3)
+
+RESOURCE ID: in_collegefest_2026_tr_name_3
+TEXT: งานวิจัยแบบจำกัดเวลา Pokémon GO College Fest (3/3)
+
+RESOURCE ID: in_collegefest_2026_tv_desc
+TEXT: ไปสำรวจแคมปัส จับโปเกมอน แล้วเข้าร่วมตีบอสกับเพื่อนกันเถอะ!
 
 RESOURCE ID: in_person_tickets
 TEXT: ตั๋ว (เข้าร่วมในพื้นที่)
@@ -58115,6 +58229,13 @@ RESOURCE ID: item_event_ticket_pink_desc_cd_vulpix26
 TEXT: ตั๋วสำหรับเข้าร่วมงานวิจัยพิเศษ
 โรคอนและโรคอน (ร่างอโลลา) คอมมิวนิตี้เดย์ ในวันที่ 1 กุมภาพันธ์ 2026 14:00 น. ตามเวลาท้องถิ่นทั่วโลก
 
+RESOURCE ID: item_event_ticket_pink_desc_cd_zorua26
+TEXT: ตั๋วสำหรับเข้าร่วมงานวิจัยพิเศษ
+"เส้นทางแห่งเล่ห์กล"
+โซรัวคอมมิวนิตี้เดย์
+ในวันที่ 10 ตุลาคม เวลา 14:00 น.
+ตามเวลาท้องถิ่นทั่วโลก
+
 RESOURCE ID: item_event_ticket_pink_desc_cdc_deino26
 TEXT: ตั๋วสำหรับเข้าร่วมงานวิจัยพิเศษ
 โมโนซึคอมมิวนิตี้เดย์ (รีเทิร์น)
@@ -58814,6 +58935,12 @@ TEXT: ตั๋วสำหรับเข้าร่วมงานวิจ�
 คุณจะสามารถเข้าร่วมได้
 โดยอัตโนมัติตามเวลาท้องถิ่น
 ทั่วโลก
+
+RESOURCE ID: item_event_ticket_pink_details_cd_zorua26
+TEXT: ตั๋วสำหรับเข้าร่วมงานวิจัยพิเศษ "เส้นทางแห่งเล่ห์กล"
+ในวันที่ 10 ตุลาคม
+คุณจะสามารถเข้าร่วมได้โดยอัตโนมัติ
+ตามเวลาท้องถิ่นทั่วโลก
 
 RESOURCE ID: item_event_ticket_pink_details_cd_jangmo_o25
 TEXT: ตั๋วสำหรับเข้าร่วมงานวิจัยพิเศษ
@@ -66754,10 +66881,10 @@ at SHA da71d231c41a4d4f7aef0d6fd71061652ff15a0a
 Pipeline 441624, job 3600523
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-09-11T20:57:11.794309+00:00 for th-TH
-at SHA 9f591d8678c
-Pipeline 3938550, job 57981687
-Patch from: 0.429.0-SHA-de304d2a-RC2, 0.427.0-SHA-fc729f25-RC2, 0.427.1-SHA-4a569ba7-RC1
+TEXT: Built at 2026-09-17T05:05:53.880793+00:00 for th-TH
+at SHA 37a1529ab2c
+Pipeline 3950659, job 58169809
+Patch from: 0.431.0-SHA-8123c737-RC1, 0.427.0-SHA-fc729f25-RC2, 0.429.0-SHA-d6c796f0-RC1, 0.427.1-SHA-4a569ba7-RC1
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: งานวิจัยแบบจำกัดเวลา: ประเภทต่อสู้ของคุณ
@@ -72470,6 +72597,9 @@ AR ให้เข้ากับสภาพแวดล้อมของค�
 ได้อย่างแนบเนียนยิ่งขึ้น
 และสามารถเคลื่อนที่ไปด้านหลังวัตถุได้
 
+RESOURCE ID: oclock_generic_desc
+TEXT: โปเกมอนธีมอีเวนต์จะปรากฏตัวบ่อยขึ้นในธรรมชาติ
+
 RESOURCE ID: oct22_evo_collection_challenge_1
 TEXT: รวมดาววิวัฒนาการ: คำท้าอีวุย
 
@@ -74381,6 +74511,9 @@ TEXT: อูปาแย่งซีนถ่ายรูปในโกสแ�
 
 RESOURCE ID: photobomb_five_zigzagoon
 TEXT: จิกุซากุมะร่างกาลาร์แย่งซีนถ่ายรูป 5 ครั้ง
+
+RESOURCE ID: photobomb_five_zorua
+TEXT: โซรัวแย่งซีนถ่ายรูปในโกสแนปช็อต 5 ครั้ง
 
 RESOURCE ID: photobomb_five_croagunk_fashion
 TEXT: กูเรกกรูสวมชุดแฟชั่นแย่งซีนถ่ายรูป 5 ครั้ง
@@ -90657,45 +90790,46 @@ RESOURCE ID: privacy_policy_update_notice
 TEXT: โปรดศึกษานโยบายความเป็นส่วนตัวฉบับปรับปรุงของไนแอนติกสำหรับข้อมูลเพิ่มเติมเกี่ยวกับคุณสมบัติของผลิตภัณฑ์ใหม่และวิธีที่เราประมวลผลข้อมูลส่วนบุคคล
 
 RESOURCE ID: private_group_title
-TEXT: Private Group
+TEXT: กลุ่มส่วนตัว
 
 RESOURCE ID: private_group_pill
-TEXT: PRIVATE
+TEXT: ส่วนตัว
 
 RESOURCE ID: private_group_change_to_public_title
-TEXT: Change to Public
+TEXT: เปลี่ยนเป็นกลุ่มสาธารณะ
 
 RESOURCE ID: private_group_change_to_public_desc
-TEXT: If you change this group to public, anyone can join and battle with you. Once you change to public, your group cannot be made private again.
+TEXT: หากคุณเปลี่ยนกลุ่มนี้เป็นกลุ่มสาธารณะ ทุกคนจะสามารถเข้าร่วมการแบตเทิลกับคุณได้
+เมื่อคุณเปลี่ยนกลุ่มเป็นสาธารณะแล้ว กลุ่มของคุณจะไม่สามารถเปลี่ยนกลับเป็นกลุ่มส่วนตัวได้อีก
 
-Are you sure you want to change to a public group?
+คุณต้องการเปลี่ยนเป็นกลุ่มสาธารณะหรือไม่?
 
 RESOURCE ID: private_group_change_to_public_button
-TEXT: CHANGE TO PUBLIC
+TEXT: เปลี่ยนเป็นกลุ่มสาธารณะ
 
 RESOURCE ID: private_group_code_intro
-TEXT: Battle together with friends by entering their group code.
+TEXT: แบตเทิลกับเพื่อนโดยการกรอกรหัสกลุ่ม
 
 RESOURCE ID: private_group_code_label
-TEXT: GROUP CODE
+TEXT: รหัสกลุ่ม
 
 RESOURCE ID: private_group_create_button
-TEXT: Create Group
+TEXT: สร้างกลุ่ม
 
 RESOURCE ID: private_group_created_title
-TEXT: Successfully created a group!
+TEXT: สร้างกลุ่มสำเร็จแล้ว!
 
 RESOURCE ID: private_group_entry_button
-TEXT: PRIVATE GROUP
+TEXT: กลุ่มส่วนตัว
 
 RESOURCE ID: private_group_invalid_code
-TEXT: This group code is invalid. Please enter a valid code.
+TEXT: รหัสกลุ่มไม่ถูกต้อง กรุณากรอกรหัสกลุ่มให้ถูกต้อง
 
 RESOURCE ID: private_group_join_button
-TEXT: Join Group
+TEXT: เข้าร่วมกลุ่ม
 
 RESOURCE ID: private_group_share_code_message
-TEXT: Share this group code with your friends. They can join you by entering this group code.
+TEXT: แชร์รหัสกลุ่มนี้กับเพื่อนของคุณ พวกเขาจะสามารถเข้าร่วมกับคุณได้ด้วยการกรอกรหัสกลุ่ม
 
 RESOURCE ID: prof_willow_birthday_2026_title
 TEXT: งานวิจัยวันเกิดศาสตราจารย์
@@ -96800,6 +96934,9 @@ TEXT: วิวัฒนาการฟุตาจิมารุ
 RESOURCE ID: quest_partner_spin_rally_aeonmall
 TEXT: หมุนเสาโปเกสต็อปหรือยิม AEON Mall {0} ครั้ง
 
+RESOURCE ID: quest_partner_spin_rally_familymart
+TEXT: Spin {0} Familymart PokéStops or Gyms
+
 RESOURCE ID: quest_partner_spin_rally_mcdonalds
 TEXT: หมุนเสาโปเกสต็อปหรือยิมแมคโดนัลด์ {0} ครั้ง
 
@@ -97840,6 +97977,18 @@ TEXT: ถ่ายภาพโปเกมอนป่าประเภทป�
 RESOURCE ID: quest_snapshot_wild_normal_unique_plural
 TEXT: ถ่ายภาพโปเกมอนป่าประเภทปกติ
 ที่แตกต่างกัน {0} สายพันธุ์
+
+RESOURCE ID: quest_snapshot_wild_plural_bug
+TEXT: ถ่ายภาพโปเกมอนป่าประเภทแมลง
+ที่แตกต่างกัน {0} สายพันธุ์
+
+RESOURCE ID: quest_snapshot_wild_plural_grass
+TEXT: ถ่ายภาพโปเกมอนป่าประเภทหญ้า
+ที่แตกต่างกัน {0} สายพันธุ์
+
+RESOURCE ID: quest_snapshot_wild_plural_grass_or_bug
+TEXT: ถ่ายภาพโปเกมอนป่าประเภทหญ้า
+หรือแมลงที่แตกต่างกัน {0} สายพันธุ์
 
 RESOURCE ID: quest_snapshot_wild_poison_plural
 TEXT: ถ่ายภาพโปเกมอนป่าประเภทพิษ {0} ภาพ
@@ -111498,6 +111647,9 @@ TEXT: Pokémon GO ซาฟารีโซน ที่ YOKOSUKA
 RESOURCE ID: quest_title_zigzagoon
 TEXT: งานวิจัย: จิกุซากุมะร่างกาลาร์
 
+RESOURCE ID: quest_title_zorua
+TEXT: เส้นทางแห่งเล่ห์กล
+
 RESOURCE ID: quest_title_zygarde
 TEXT: จากเซลล์ไปซีการ์ด
 
@@ -115260,6 +115412,15 @@ TEXT: งานวิจัย: จิกุซากุมะร่างกา
 RESOURCE ID: quest_title_zigzagoon_3
 TEXT: งานวิจัย: จิกุซากุมะร่างกาลาร์ (4/4)
 
+RESOURCE ID: quest_title_zorua_0
+TEXT: เส้นทางแห่งเล่ห์กล (1/3)
+
+RESOURCE ID: quest_title_zorua_1
+TEXT: เส้นทางแห่งเล่ห์กล (2/3)
+
+RESOURCE ID: quest_title_zorua_2
+TEXT: เส้นทางแห่งเล่ห์กล (3/3)
+
 RESOURCE ID: quest_title_zygarde_0
 TEXT: จากเซลล์ไปซีการ์ด (1/6)
 
@@ -116081,6 +116242,9 @@ TEXT: วิวัฒนาการกาลาร์จิกุซากุ�
 
 RESOURCE ID: quest_zigzagoon_snapshot_b
 TEXT: ถ่ายภาพจิกุซากุมะร่างกาลาร์ {0} ภาพ
+
+RESOURCE ID: quest_zorua_catch_b
+TEXT: จับโซรัว {0} ตัว
 
 RESOURCE ID: quests_quest
 TEXT: ภารกิจ
@@ -125680,6 +125844,12 @@ TEXT: การเผชิญหน้าฟอสซิล: ออมไนต
 RESOURCE ID: s19_tgr_takeover_collection_challenge
 TEXT: คำท้านักสะสม
 
+RESOURCE ID: s24_evergreen_branch_catch_candy_description
+TEXT: เลือกเส้นทางนี้เพื่อรับ 2× ลูกอมจากการจับโปเกมอน
+
+RESOURCE ID: s24_evergreen_branch_throw_stardust_description
+TEXT: เลือกเส้นทางนี้เพื่อรับ 2× สตาร์ดัสต์จากการจับโปเกมอน
+
 RESOURCE ID: s_pinap_g_razz_pokestop_drop_bonus
 TEXT: อาจได้รับผลไพน์สีเงินหรือผลราสสีทองจากการหมุนเสาโปเกสต็อปหรือยิม
 
@@ -127899,6 +128069,9 @@ TEXT: บัตรผ่าน GO: เงาเหินฟ้า
 RESOURCE ID: season_pass_base_track_title_halloween_2025
 TEXT: บัตรผ่าน GO: ฮาโลวีน 2025
 
+RESOURCE ID: season_pass_base_track_title_harvest_festival_2026
+TEXT: GO Pass: Harvest Festival
+
 RESOURCE ID: season_pass_base_track_title_horizons_fall_2026
 TEXT: บัตรผ่าน GO: อีเวนต์ฉลองคอลแลป
 
@@ -128064,6 +128237,9 @@ TEXT: ตรวจสอบรายละเอียดได้ที่<a hr
 RESOURCE ID: season_pass_details_link_halloween_2025
 TEXT: ตรวจสอบรายละเอียดได้ที่<a href="https://pokemongo.com/news/go-pass-halloween-2025">เว็บไซต์</a>นี้
 
+RESOURCE ID: season_pass_details_link_harvest_festival_2026
+TEXT: For more details, visit the <a href="https://pokemongo.com/news/harvest-festival-2026">website</a>.
+
 RESOURCE ID: season_pass_details_link_horizons_fall_2026
 TEXT: ตรวจสอบรายละเอียดได้ที่<a href="https://pokemongo.com/news/pokemon-horizons-celebration-event-2026">เว็บไซต์</a>นี้
 
@@ -128127,6 +128303,19 @@ TEXT: ซื้อบัตรผ่าน GO Deluxe: ฮาโลวีน 2025
 - การเผชิญหน้ากับโปเกมอนธีมอีเวนต์
 - ลูกอมประหลาด XL
 - และอื่น ๆ
+
+RESOURCE ID: season_pass_harvest_festival_2026_event_duration
+TEXT: September 29 – October 5
+
+RESOURCE ID: season_pass_harvest_festival_2026_track_upgrade_header_description
+TEXT: Earn additional rewards and unlock a <b>Super Rocket Radar</b> at Rank 1!
+
+RESOURCE ID: season_pass_harvest_festival_2026_upgrade_description
+TEXT: Purchase GO Pass Deluxe: Harvest Festival to unlock the following rewards!
+
+• Encounters with Cottonee, Skiddo, Applin, and more!
+• 3 Mossy Lure Modules
+• And much more!
 
 RESOURCE ID: season_pass_horizons_fall_2026_event_duration
 TEXT: 16-22 กันยายน
@@ -128343,6 +128532,9 @@ TEXT: บัตรผ่าน GO Deluxe: เส้นทางแสวงห�
 RESOURCE ID: season_pass_premium_track_plus_six_ranks_title_flying_taxi_2026
 TEXT: บัตรผ่าน GO Deluxe: เงาเหินฟ้า + 6 ระดับ
 
+RESOURCE ID: season_pass_premium_track_plus_six_ranks_title_harvest_festival_2026
+TEXT: GO Pass Deluxe: Harvest Festival + 6 Ranks
+
 RESOURCE ID: season_pass_premium_track_plus_six_ranks_title_horizons_fall_2026
 TEXT: บัตรผ่าน GO Deluxe: อีเวนต์ฉลองคอลแลป + 6 ระดับ
 
@@ -128480,6 +128672,9 @@ TEXT: บัตรผ่าน GO Deluxe: เงาเหินฟ้า
 
 RESOURCE ID: season_pass_premium_track_title_halloween_2025
 TEXT: บัตรผ่าน GO Deluxe: ฮาโลวีน 2025
+
+RESOURCE ID: season_pass_premium_track_title_harvest_festival_2026
+TEXT: GO Pass Deluxe: Harvest Festival
 
 RESOURCE ID: season_pass_premium_track_title_horizons_fall_2026
 TEXT: บัตรผ่าน GO Deluxe: อีเวนต์ฉลองคอลแลป
@@ -128941,6 +129136,9 @@ TEXT: ไอเท็ม
 
 RESOURCE ID: settings_advanced_pokemon_title
 TEXT: โปเกมอน
+
+RESOURCE ID: settings_advanced_privacy_title
+TEXT: ความเป็นส่วนตัว
 
 RESOURCE ID: settings_advanced_quality_title
 TEXT: คุณภาพ
@@ -129766,6 +129964,21 @@ TEXT: งานวิจัยแบบจำกัดเวลาภาคต�
 
 RESOURCE ID: shield_break_adventure_effect_battle_log
 TEXT: พลังโจมตีของคุณได้รับการบูสต์จากเอฟเฟกต์ผจญภัย "หมัดดินระเบิด+"
+
+RESOURCE ID: shima_collab_2026_tr_title
+TEXT: งานวิจัยแบบจำกัดเวลา adidas
+
+RESOURCE ID: shima_collab_2026_tv_title
+TEXT: Pokémon GO: adidas
+
+RESOURCE ID: shima_collab_2026_tr_1
+TEXT: งานวิจัยแบบจำกัดเวลา adidas (1/3)
+
+RESOURCE ID: shima_collab_2026_tr_2
+TEXT: งานวิจัยแบบจำกัดเวลา adidas (2/3)
+
+RESOURCE ID: shima_collab_2026_tr_3
+TEXT: งานวิจัยแบบจำกัดเวลา adidas (3/3)
 
 RESOURCE ID: shinjuku_cross_title
 TEXT: クロス新宿ビジョン
@@ -131462,10 +131675,13 @@ TEXT: ขว้างมอนสเตอร์บอลและหมุน�
 โดยอัตโนมัติขณะสำรวจตอนที่ปิดแอปฯ อยู่
 
 RESOURCE ID: soft_sfida_desc_foreground
-TEXT: Automatically throw Poké Balls and spin PokéStops in the background while moving. You can activate it once daily.
+TEXT: ขว้างมอนสเตอร์บอลและหมุนเสาโปเกสต็อป
+โดยอัตโนมัติในขณะที่เคลื่อนไหวอยู่
+(ใช้ได้แค่ 1 ครั้งต่อวัน)
 
 RESOURCE ID: soft_sfida_desc_foreground_short
-TEXT: Encounter Pokémon and spin PokéStops in the background while moving.
+TEXT: ตอบสนองต่อโปเกมอนและเสาโปเกสต็อป
+ในขณะที่เคลื่อนไหวอยู่แม้ปิดแอปฯ
 
 RESOURCE ID: soft_sfida_desc_items_full
 TEXT: กรุณาจัดระเบียบกระเป๋าเก็บไอเท็ม หรืออัปเกรดพื้นที่จัดเก็บ
@@ -132074,6 +132290,9 @@ TEXT: อูปาปรากฏตัวมากขึ้นในธรร�
 
 RESOURCE ID: spawn_zigzagoon
 TEXT: จิกุซากุมะร่างกาลาร์ปรากฏตัวมากขึ้นในธรรมชาติ
+
+RESOURCE ID: spawn_zorua
+TEXT: โซรัวปรากฏตัวออกมามากขึ้น!
 
 RESOURCE ID: spawn_dratini_cdc
 TEXT: More Dratini are appearing in the wild!
@@ -137450,6 +137669,14 @@ TEXT: เล่นต่อเนื่องรายวัน
 RESOURCE ID: streaks_widget_description
 TEXT: ใช้วิดเจ็ตเล่นต่อเนื่องรายวันเพื่อติดตามความต่อเนื่องของการจับโปเกมอนและการหมุนเสาโปเกสต็อป แล้วรับโบนัสในวันที่เจ็ดกันเลย!
 
+RESOURCE ID: streamer_mode_expire_modal_title
+TEXT: แสดงข้อมูลสถานที่จับโปเกมอน
+
+RESOURCE ID: streamer_mode_expire_modal_desc
+TEXT: หากต้องการซ่อนข้อมูลสถานที่จับต่อ
+สามารถตั้งค่าอีกครั้งได้ที่หน้าจอ
+การตั้งค่าขั้นสูง
+
 RESOURCE ID: strength_numbers_gc_display_text
 TEXT: เมื่อคำท้าเสร็จสิ้น เทรนเนอร์ทั้งหมดจะปลดล็อกความสามารถในการส่งตั๋วงานวิจัยพิเศษสำหรับ "คอมมิวนิตี้เดย์ (รีเทิร์น): วันริกี" ในเดือนพฤษภาคม 2025 เป็นของขวัญ ตั๋วที่สามารถส่งเป็นของขวัญได้จะเริ่มจำหน่ายที่ร้านค้าในเกม Pokémon GO ตั้งแต่ 23 พฤษภาคม เวลา 10:00 น. (หรือเร็วกว่านั้น) ถึง 24 พฤษภาคม เวลา 17:00 น. ตามเวลาท้องถิ่น
 
@@ -139489,6 +139716,13 @@ TM ท่าชาร์จ และลูกอมประหลาด
 - การเผชิญหน้ากับโรคอนและโรคอน (ร่างอโลลา) ที่มีพื้นหลังพิเศษ
 และอื่น ๆ
 
+RESOURCE ID: text_rewards_key_cd_zorua26
+TEXT: <b>รางวัลที่จะได้รับ:</b>
+- ไอเท็มภายในเกม เช่น บัตรแบตเทิลพรีเมียม
+TM ท่าชาร์จ และลูกอมประหลาด
+- การเผชิญหน้ากับโซรัวที่มีพื้นหลังพิเศษ
+และอื่น ๆ
+
 RESOURCE ID: text_rewards_key_cd_jangmo_o25
 TEXT: <b>รางวัลที่จะได้รับ:</b>
 - ไอเท็มภายในเกม เช่น บัตรแบตเทิลพรีเมียม
@@ -140201,6 +140435,9 @@ TEXT: สามารถซื้อตั๋วสำหรับงานว�
 
 RESOURCE ID: ticket_vulpix_cd
 TEXT: สามารถซื้อตั๋วสำหรับงานวิจัยพิเศษ "โรคอนและโรคอน (ร่างอโลลา) คอมมิวนิตี้เดย์" ได้ที่ร้านค้า
+
+RESOURCE ID: ticket_zorua_cd
+TEXT: สามารถซื้อตั๋วสำหรับงานวิจัยพิเศษ "โซรัวคอมมิวนิตี้เดย์" ได้ที่ร้านค้า
 
 RESOURCE ID: time_left_less_than_one_minute
 TEXT: ปาร์ตี้จะสิ้นสุดลงในอีกไม่ถึง 1 นาที
@@ -141965,6 +142202,12 @@ TEXT: งานวิจัยแบบจำกัดเวลาผจญภ�
 
 RESOURCE ID: tr_apac_151busstop_scavenger_desc
 TEXT: งานวิจัยแบบจำกัดเวลา GO GO GO ไปให้ทั่วเมือง
+
+RESOURCE ID: tr_apac_2026_mid_autumn_1
+TEXT: งานวิจัยแบบจำกัดเวลาเต้นรำชมจันทร์ 2026: ทางเดินอาบแสงจันทร์
+
+RESOURCE ID: tr_apac_2026_mid_autumn_2
+TEXT: งานวิจัยแบบจำกัดเวลาโบนัสเต้นรำชมจันทร์ 2026: คืนพระจันทร์เต็มดวง
 
 RESOURCE ID: tr_apac2024_lucario_movie_promo_title_00
 TEXT: งานวิจัยแบบจำกัดเวลาวิถีแห่งคลื่นพลัง (1/2)
@@ -148936,6 +149179,9 @@ TEXT: ซามาเซนตากวัดแกว่งโล่ขนา�
 
 RESOURCE ID: zorua_o_clock_active
 TEXT: โซรัวกำลังปรากฏตัวจำนวนมาก!
+
+RESOURCE ID: zorua_website_link
+TEXT: ตรวจสอบรายละเอียดได้ที่<a href="https://pokemongo.com/news/communityday-october-2026-zorua">เว็บไซต์</a>นี้
 
 RESOURCE ID: zygarde_tappable_push_notification
 TEXT: สิ่งลึกลับปรากฏออกมาแล้ว!

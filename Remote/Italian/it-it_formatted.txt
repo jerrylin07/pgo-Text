@@ -738,6 +738,12 @@ TEXT: Elimina Account
 RESOURCE ID: advanced_settings_delete_account_button_description
 TEXT: Una volta eliminato, il tuo account di Pokémon GO non sarà più accessibile da te o da altri. Questa azione non può essere annullata.
 
+RESOURCE ID: advanced_settings_streamer_mode_toggle
+TEXT: Nascondi temporaneamente il luogo di cattura
+
+RESOURCE ID: advanced_settings_streamer_mode_toggle_description
+TEXT: Attiva questa impostazione per nascondere il luogo di cattura dei Pokémon per otto ore.
+
 RESOURCE ID: adventure_effect_incense_table_header
 TEXT: Pokémon attratti dall’aroma
 
@@ -1144,6 +1150,9 @@ TEXT: Ricerca a tempo degli AO 2026 (3/3)
 RESOURCE ID: ao_2026_unown_bonus
 TEXT: Unown A e Unown O saranno attratti dai moduli esca o dall’aroma per celebrare gli AO 2026
 
+RESOURCE ID: apac_2026_mid_autumn
+TEXT: Danza al chiaro di luna 2026
+
 RESOURCE ID: apac2024_lucario_movie_promo_title
 TEXT: La via dell’aura
 
@@ -1158,6 +1167,12 @@ TEXT: Per tutta la durata dell’evento, Clefairy apparirà alle 13:00 e alle 19
 
 RESOURCE ID: apac2025_fullmoon_clefairy_o_clock_desc_2
 TEXT: Clefairy sta apparendo in gran numero!
+
+RESOURCE ID: apac2026_fullmoon_o_clock_title
+TEXT: È l’ora della luna!
+
+RESOURCE ID: apac2026_fullmoon_o_clock_desc
+TEXT: Durante l’evento, Pokémon a tema appariranno ogni giorno alle ore 12:00, 13:00, 19:00 e 20:00!
 
 RESOURCE ID: apac_childrens_day_2026_title
 TEXT: Oltre la crescita
@@ -5179,6 +5194,9 @@ TEXT: Polsino GO
 RESOURCE ID: avatar_gloves_wristbandyellow
 TEXT: Polsino Squadra Istinto
 
+RESOURCE ID: avatar_hat_adidas2026
+TEXT: adidas Pokémon Cap
+
 RESOURCE ID: avatar_hat_applinheadband
 TEXT: Cerchietto Applin
 
@@ -7952,6 +7970,9 @@ TEXT: Rocco
 RESOURCE ID: avatar_pose_team_leader
 TEXT: Capo della squadra
 
+RESOURCE ID: avatar_shirt_adidas2026
+TEXT: adidas Pokémon Jacket
+
 RESOURCE ID: avatar_shirt_applinapron
 TEXT: Grembiule Applin
 
@@ -8169,6 +8190,9 @@ TEXT: T-shirt Mew cromatico
 
 RESOURCE ID: avatar_shirt_soccerjersey_10
 TEXT: Maglia sportiva N. 10
+
+RESOURCE ID: avatar_shoes_adidas2026
+TEXT: adidas Pokémon Megaride Shoes
 
 RESOURCE ID: avatar_shoes_blacephelon
 TEXT: stivali Blacephalon
@@ -18821,6 +18845,9 @@ TEXT: Fai evolvere Vulpix per ottenere un Ninetales che conosce l’attacco cari
 RESOURCE ID: bonus_cd_move_zigzagoon
 TEXT: Fai evolvere Linoone di Galar per ottenere un Obstagoon che conosce l’attacco caricato Sbarramento!
 
+RESOURCE ID: bonus_cd_move_zorua
+TEXT: Fai evolvere Zorua per ottenere un Zoroark che conosce l’attacco veloce Sbigoattacco!
+
 RESOURCE ID: bonus_cd_move_alolan_vulpix
 TEXT: Fai evolvere Vulpix di Alola per ottenere un Ninetales di Alola che conosce l’attacco caricato Doccia Fredda!
 
@@ -21201,13 +21228,13 @@ RESOURCE ID: bread_lobby_attack_multiplier_dialog_title
 TEXT: Bonus attacco
 
 RESOURCE ID: bread_lobby_countdown_to_battle_start
-TEXT: Countdown to the Max Battle start
+TEXT: Il conto alla rovescia della Lotta Dynamax è iniziato.
 
 RESOURCE ID: bread_lobby_error_battle_completed
 TEXT: Hai già lottato presso questo punto energetico.
 
 RESOURCE ID: bread_lobby_error_failed_to_create_battle
-TEXT: Could not join the Max Battle. Please try again later.
+TEXT: Impossibile unirsi alla Lotta Dynamax. Riprova più tardi.
 
 RESOURCE ID: bread_lobby_error_friend_details_unavailable
 TEXT: Si è verificato un errore durante l’invio di questo invito. Riprova.
@@ -21391,19 +21418,19 @@ RESOURCE ID: bread_post_battle_encounter_run_away_description
 TEXT: Se fuggi, non potrai catturare questo Pokémon.
 
 RESOURCE ID: bread_private_lobby_error_unavailable
-TEXT: Private groups are currently unavailable. Please try again later.
+TEXT: I gruppi privati non sono al momento disponibili. Riprova più tardi.
 
 RESOURCE ID: bread_private_lobby_error_flip_unavailable
-TEXT: The group could not be changed to public.
+TEXT: Il gruppo non può essere reso pubblico.
 
 RESOURCE ID: bread_private_lobby_error_limit_reached
-TEXT: The maximum number of private groups for this Max Battle has been reached.
+TEXT: Questa Lotta Dynamax ha raggiunto il numero massimo di gruppi privati.
 
 RESOURCE ID: bread_private_lobby_error_not_creator
-TEXT: Only the Trainer who created this group can change it to public.
+TEXT: Solo l’Allenatore che ha creato questo gruppo può renderlo pubblico.
 
 RESOURCE ID: bread_private_lobby_error_not_found
-TEXT: This group could not be found. The code may be incorrect, or the group may no longer be available.
+TEXT: Gruppo non trovato. Il codice potrebbe essere incorretto o il gruppo potrebbe non essere disponibile.
 
 RESOURCE ID: bread_release_title
 TEXT: Vuoi far rientrare {0}?
@@ -29413,7 +29440,7 @@ RESOURCE ID: combat_choose_next_pokemon
 TEXT: Swap in a new Pokémon?
 
 RESOURCE ID: combat_choose_pokemon_scaled
-TEXT: A Pokémon’s CP has been adjusted for this league.
+TEXT: I PL di un Pokémon hanno subito una modifica per questa Lega.
 
 RESOURCE ID: combat_choosing_their_team
 TEXT: is choosing their team!
@@ -30510,6 +30537,9 @@ TEXT: Sblocco dell’ultrabonus: Community Day dedicato a Zigzagoon di Galar
 
 RESOURCE ID: community_day_zigzagoon_timed_research
 TEXT: Zigzagoon di Galar: sfida di cattura
+
+RESOURCE ID: community_day_zorua_event_name
+TEXT: Community Day dedicato a Zorua
 
 RESOURCE ID: companion_device_enable_modal_title
 TEXT: Enable Companion Device
@@ -34076,6 +34106,9 @@ TEXT: 27 aprile dalle 14:00 alle 17:00
 RESOURCE ID: event_datetime_range_key_cd_vulpix26
 TEXT: 1 febbraio dalle 14:00 alle 17:00
 
+RESOURCE ID: event_datetime_range_key_cd_zorua26
+TEXT: 10 ottobre dalle 14:00 alle 17:00
+
 RESOURCE ID: event_datetime_range_key_cd_jangmo_o25
 TEXT: 21 giugno dalle 14:00 alle 17:00
 
@@ -35486,6 +35519,9 @@ TEXT: Eventi
 RESOURCE ID: evergreen_tr_event_name
 TEXT: Scegli la tua strada
 
+RESOURCE ID: evergreen_week_event_name_twilight_trails
+TEXT: Scegli la tua strada: Sentieri crepuscolari
+
 RESOURCE ID: evergreen_week_tr_title
 TEXT: Ricerca a tempo “Scegli la tua strada”
 
@@ -35557,6 +35593,12 @@ TEXT: Scegli questa opzione per ottenere il 50% in più dei PE da cattura con be
 
 RESOURCE ID: evergreen_week_tr_catch_description_key_2
 TEXT: Scegli questa opzione per ottenere caramelle aggiuntive catturando Pokémon con bei tiri, ottimi tiri o tiri eccellenti.
+
+RESOURCE ID: evergreen_week_tr_catch_stardust_key
+TEXT: Cattura (polvere di stelle)
+
+RESOURCE ID: evergreen_week_tr_catch_stardust_button_text_key
+TEXT: Cattura (polvere di stelle)
 
 RESOURCE ID: evergreen_week_tr_catch_xp_key
 TEXT: Cattura (PE)
@@ -41246,6 +41288,9 @@ TEXT: Biglietto per il Community Day dedicato a Vanillite
 
 RESOURCE ID: general1.ticket_cd_vulpix26_title
 TEXT: Biglietto per il Community Day dedicato a Vulpix e Vulpix di Alola
+
+RESOURCE ID: general1.ticket_cd_zorua26_title
+TEXT: Biglietto per il Community Day dedicato a Zorua
 
 RESOURCE ID: general1.ticket_cdc_deino26_title
 TEXT: Biglietto per il Community Day Classico dedicato a Deino
@@ -52374,8 +52419,77 @@ RESOURCE ID: id2026_car_free_day_tv_id_desc
 TEXT: Vieni a festeggiare la giornata senza auto in Indonesia a Giacarta ogni domenica dalle 6:00 alle 9:45.
 Completa una ricerca sul campo o una ricerca a tempo per incontrare Pikachu con cappello festivo rosso e uno Sfondo di posizione.
 
+RESOURCE ID: id_potw_2026_title
+TEXT: Motivi floreali
+
+RESOURCE ID: id_potw_2026_tr_title
+TEXT: Ricerca a tempo dell’evento “Motivi floreali”
+
+RESOURCE ID: id_potw_2026_tv_title
+TEXT: Scopri le meraviglie dell’evento “Motivi floreali”!
+
+RESOURCE ID: id_potw_2026_tr_desc_title_00
+TEXT: Ricerca a tempo dell’evento “Motivi floreali” (1/3)
+
+RESOURCE ID: id_potw_2026_tr_desc_title_01
+TEXT: Ricerca a tempo dell’evento “Motivi floreali” (2/3)
+
+RESOURCE ID: id_potw_2026_tr_desc_title_02
+TEXT: Ricerca a tempo dell’evento “Motivi floreali” (3/3)
+
+RESOURCE ID: id_potw_2026_bonus_0
+TEXT: L’aroma attirerà più spesso Pikachu con camicia batik e Pokémon a tema dell’evento
+
+RESOURCE ID: id_potw_2026_bonus_1
+TEXT: Fino a tre incontri a sorpresa con Pikachu con camicia batik in modalità foto GO
+
+RESOURCE ID: id_potw_2026_collection_challenge
+TEXT: Sfida di collezione dell’evento “Motivi floreali”
+
+RESOURCE ID: id_potw_2026_title_country
+TEXT: Motivi floreali: Indonesia
+
+RESOURCE ID: id_potw_2026_tr_desc
+TEXT: Completa la ricerca a tempo per incontrare Pikachu con camicia batik con uno Sfondo speciale per festeggiare l’evento “Motivi floreali”!
+
+RESOURCE ID: id_potw_2026_tv_description
+TEXT: Stanno apparendo Pokémon ispirati alla natura! Parti all’esplorazione per catturare Pokémon dai motivi incantevoli dalle 10:00 alle 20:00 ora locale. Leggi il nostro blog per ulteriori dettagli.
+
 RESOURCE ID: in_app_label
 TEXT: App
+
+RESOURCE ID: in_collegefest_2026_collection_challenge_title
+TEXT: Sfida di collezione della Festa dei college in Pokémon GO 2026
+
+RESOURCE ID: in_collegefest_2026_title
+TEXT: Festa dei college in Pokémon GO 2026
+
+RESOURCE ID: in_collegefest_2026_tv_title
+TEXT: È l’ora della Festa dei college in Pokémon GO!
+
+RESOURCE ID: in_collegefest_2026_bonus
+TEXT: Bonus della Festa dei college in Pokémon GO 2026
+
+RESOURCE ID: in_collegefest_2026_evolve_bonus
+TEXT: Bonus evoluzione della Festa dei college in Pokémon GO 2026
+
+RESOURCE ID: in_collegefest_2026_tag
+TEXT: Festa dei college in Pokémon GO 2026
+
+RESOURCE ID: in_collegefest_2026_tr_name
+TEXT: Ricerca a tempo della Festa dei college in Pokémon GO
+
+RESOURCE ID: in_collegefest_2026_tr_name_1
+TEXT: Ricerca a tempo della Festa dei college in Pokémon GO (1/3)
+
+RESOURCE ID: in_collegefest_2026_tr_name_2
+TEXT: Ricerca a tempo della Festa dei college in Pokémon GO (2/3)
+
+RESOURCE ID: in_collegefest_2026_tr_name_3
+TEXT: Ricerca a tempo della Festa dei college in Pokémon GO (3/3)
+
+RESOURCE ID: in_collegefest_2026_tv_desc
+TEXT: Esplora il tuo campus per incontrare Pokémon celebri, completare ricerche a tempo nonché fare squadra con i tuoi amici per lanciarti nei raid e in altro ancora!
 
 RESOURCE ID: in_person_tickets
 TEXT: Biglietti eventi dal vivo
@@ -54591,6 +54705,9 @@ TEXT: Un biglietto per accedere alla ricerca speciale del Community Day dedicato
 RESOURCE ID: item_event_ticket_pink_desc_cd_vulpix26
 TEXT: Un biglietto per accedere alla ricerca speciale del Community Day dedicato a Vulpix e Vulpix di Alola a partire dal 1° febbraio alle 14:00 ora locale, ovunque ti trovi.
 
+RESOURCE ID: item_event_ticket_pink_desc_cd_zorua26
+TEXT: Un biglietto per accedere alla ricerca speciale “Sulle tracce del briccone” del Community Day dedicato a Zorua dal 10 ottobre alle 14:00 ora locale, ovunque ti trovi.
+
 RESOURCE ID: item_event_ticket_pink_desc_cdc_deino26
 TEXT: Un biglietto per accedere alla ricerca speciale “Furia cieca” del Community Day Classico dedicato a Deino il 16 maggio alle 14:00 ora locale, ovunque ti trovi.
 
@@ -54977,6 +55094,9 @@ TEXT: Questo biglietto si attiverà automaticamente garantendoti l’accesso all
 
 RESOURCE ID: item_event_ticket_pink_details_cd_vulpix26
 TEXT: Questo biglietto si attiverà automaticamente il 1° febbraio garantendoti l’accesso alla ricerca speciale “Fuoco e ghiaccio”, ovunque ti trovi.
+
+RESOURCE ID: item_event_ticket_pink_details_cd_zorua26
+TEXT: Questo biglietto si attiverà automaticamente il 10 ottobre garantendoti l’accesso alla ricerca speciale “Sulle tracce del briccone”, ovunque ti trovi.
 
 RESOURCE ID: item_event_ticket_pink_details_cd_jangmo_o25
 TEXT: Questo biglietto si attiverà automaticamente garantendoti l’accesso a “Jangmo-oh yes!”, la ricerca speciale del Community Day, il 21 giugno, ovunque ti trovi.
@@ -61841,7 +61961,7 @@ RESOURCE ID: mega_evolve_lobby_existing_toast
 TEXT: Puoi usare solo un Pokémon megaevoluto alla volta.
 
 RESOURCE ID: mega_evolve_pokemon_to_use_in_this_party
-TEXT: Mega Evolve Gengar to use this party.
+TEXT: Fai megaevolvere Gengar per usare questa squadra.
 
 RESOURCE ID: mega_evolve_preview_first_time
 TEXT: Quando hai fatto megaevolvere un Pokémon per la prima volta, lo puoi rifare megaevolvere senza Megaenergia dopo un periodo di riposo.
@@ -62247,10 +62367,10 @@ at SHA 4d4f3e80cc7fb911006bd14d198c9831ef66d005
 Pipeline 339838, job 2672172
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-09-11T20:57:11.794309+00:00 for it-IT
-at SHA 9f591d8678c
-Pipeline 3938550, job 57981687
-Patch from: 0.429.0-SHA-de304d2a-RC2, 0.427.0-SHA-fc729f25-RC2, 0.427.1-SHA-4a569ba7-RC1
+TEXT: Built at 2026-09-17T05:05:53.880793+00:00 for it-IT
+at SHA 37a1529ab2c
+Pipeline 3950659, job 58169809
+Patch from: 0.431.0-SHA-8123c737-RC1, 0.427.0-SHA-fc729f25-RC2, 0.429.0-SHA-d6c796f0-RC1, 0.427.1-SHA-4a569ba7-RC1
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: Ricerca a tempo: Scegli il tuo tipo Lotta
@@ -67798,6 +67918,9 @@ TEXT: Questa funzione consente ai Pokémon in modalità AR di adattarsi più fac
 RESOURCE ID: occlusions_tutorial_body_forced_on
 TEXT: Questa funzione consente ai Pokémon in modalità AR di adattarsi più facilmente all’ambiente circostante e muoversi dietro gli oggetti.
 
+RESOURCE ID: oclock_generic_desc
+TEXT: Pokémon a tema stanno apparendo più frequentemente allo stato selvatico!
+
 RESOURCE ID: oct22_evo_collection_challenge_1
 TEXT: Stelle dell’evoluzione: sfida di Eevee
 
@@ -67941,7 +68064,7 @@ RESOURCE ID: onboard_welcome_screen|9
 TEXT: Ora, scegli un look per la tua avventura.
 
 RESOURCE ID: one_or_more_pokemon_exceed_this_leagues_cp_limit
-TEXT: One or more Pokémon exceed this league’s CP limit.
+TEXT: I PL di uno o più Pokémon superano il limite per per questa Lega.
 
 RESOURCE ID: one_route_nearby_label
 TEXT: 1 route
@@ -69689,6 +69812,9 @@ TEXT: Cinque incontri a sorpresa con Wooper in modalità foto GO
 
 RESOURCE ID: photobomb_five_zigzagoon
 TEXT: Cinque incontri a sorpresa con Zigzagoon di Galar in modalità foto GO
+
+RESOURCE ID: photobomb_five_zorua
+TEXT: Cinque incontri a sorpresa con Zorua in modalità foto GO
 
 RESOURCE ID: photobomb_five_croagunk_fashion
 TEXT: Cinque incontri a sorpresa con Croagunk alla moda in modalità foto GO
@@ -83579,45 +83705,45 @@ RESOURCE ID: privacy_policy_update_notice
 TEXT: Leggi la normativa sulla privacy di Scopely Explore aggiornata di recente per ottenere ulteriori informazioni sulle nuove funzionalità del prodotto e su come trattiamo i tuoi dati personali.
 
 RESOURCE ID: private_group_title
-TEXT: Private Group
+TEXT: Gruppo privato
 
 RESOURCE ID: private_group_pill
-TEXT: PRIVATE
+TEXT: PRIVATO
 
 RESOURCE ID: private_group_change_to_public_title
-TEXT: Change to Public
+TEXT: Rendi pubblico
 
 RESOURCE ID: private_group_change_to_public_desc
-TEXT: If you change this group to public, anyone can join and battle with you. Once you change to public, your group cannot be made private again.
+TEXT: Se rendi pubblico questo gruppo, qualsiasi giocatore potrà parteciparvi e unirsi alla lotta. Una volta reso pubblico un gruppo, non è più possibile farlo diventare nuovamente privato.
 
-Are you sure you want to change to a public group?
+Vuoi davvero rendere questo gruppo pubblico?
 
 RESOURCE ID: private_group_change_to_public_button
-TEXT: CHANGE TO PUBLIC
+TEXT: RENDI PUBBLICO
 
 RESOURCE ID: private_group_code_intro
-TEXT: Battle together with friends by entering their group code.
+TEXT: Lotta insieme ai tuoi amici inserendo il loro codice gruppo.
 
 RESOURCE ID: private_group_code_label
-TEXT: GROUP CODE
+TEXT: CODICE GRUPPO
 
 RESOURCE ID: private_group_create_button
-TEXT: Create Group
+TEXT: Crea gruppo
 
 RESOURCE ID: private_group_created_title
-TEXT: Successfully created a group!
+TEXT: Hai creato un gruppo!
 
 RESOURCE ID: private_group_entry_button
-TEXT: PRIVATE GROUP
+TEXT: GRUPPO PRIVATO
 
 RESOURCE ID: private_group_invalid_code
-TEXT: This group code is invalid. Please enter a valid code.
+TEXT: Questo codice di gruppo non è valido. Inserisci un altro codice.
 
 RESOURCE ID: private_group_join_button
-TEXT: Join Group
+TEXT: Unisciti al gruppo
 
 RESOURCE ID: private_group_share_code_message
-TEXT: Share this group code with your friends. They can join you by entering this group code.
+TEXT: Condividi questo codice gruppo con i tuoi amici. In questo modo potranno unirsi a te nella lotta.
 
 RESOURCE ID: prof_willow_birthday_2026_title
 TEXT: Compleanno del Professor Willow
@@ -89529,6 +89655,9 @@ TEXT: Fai evolvere un Dewott
 RESOURCE ID: quest_partner_spin_rally_aeonmall
 TEXT: Fai girare {0} dischi di Pokéstop o Palestra AEON Mall
 
+RESOURCE ID: quest_partner_spin_rally_familymart
+TEXT: Fai girare {0} dischi foto di Pokéstop o Palestre FamilyMart
+
 RESOURCE ID: quest_partner_spin_rally_mcdonalds
 TEXT: Fai girare {0} dischi di Pokéstop o Palestre McDonald’s
 
@@ -90539,6 +90668,15 @@ TEXT: Fai {0} foto a Pokémon selvatici di tipo Normale
 
 RESOURCE ID: quest_snapshot_wild_normal_unique_plural
 TEXT: Take snapshots of {0} different wild Normal-type Pokémon
+
+RESOURCE ID: quest_snapshot_wild_plural_bug
+TEXT: Fai una foto a {0} Pokémon selvatici diversi di tipo Coleottero
+
+RESOURCE ID: quest_snapshot_wild_plural_grass
+TEXT: Fai una foto a {0} Pokémon selvatici diversi di tipo Erba
+
+RESOURCE ID: quest_snapshot_wild_plural_grass_or_bug
+TEXT: Fai una foto a {0} Pokémon selvatici diversi di tipo Erba o Coleottero
 
 RESOURCE ID: quest_snapshot_wild_poison_plural
 TEXT: Fai {0} foto a Pokémon selvatici di tipo Veleno
@@ -101313,6 +101451,9 @@ TEXT: Zona Safari di Pokémon GO - Yokosuka
 RESOURCE ID: quest_title_zigzagoon
 TEXT: Appunti di campo: Zigzagoon di Galar
 
+RESOURCE ID: quest_title_zorua
+TEXT: Sulle tracce del briccone
+
 RESOURCE ID: quest_title_zygarde
 TEXT: Dalla A a Zygarde
 
@@ -104760,6 +104901,15 @@ TEXT: Appunti di campo: Zigzagoon di Galar (3/4)
 RESOURCE ID: quest_title_zigzagoon_3
 TEXT: Appunti di campo: Zigzagoon di Galar (4/4)
 
+RESOURCE ID: quest_title_zorua_0
+TEXT: Sulle tracce del briccone (1/3)
+
+RESOURCE ID: quest_title_zorua_1
+TEXT: Sulle tracce del briccone (2/3)
+
+RESOURCE ID: quest_title_zorua_2
+TEXT: Sulle tracce del briccone (3/3)
+
 RESOURCE ID: quest_title_zygarde_0
 TEXT: Dalla A a Zygarde (1/6)
 
@@ -105563,6 +105713,9 @@ TEXT: Fai evolvere {0} Zigzagoon di Galar
 
 RESOURCE ID: quest_zigzagoon_snapshot_b
 TEXT: Fai {0} foto a Zigzagoon di Galar
+
+RESOURCE ID: quest_zorua_catch_b
+TEXT: Cattura {0} Zorua
 
 RESOURCE ID: quests_quest
 TEXT: Missioni
@@ -112411,7 +112564,7 @@ RESOURCE ID: returning_sign_in_partial
 TEXT: Accedi con {0}
 
 RESOURCE ID: revert_pokemon_to_its_primal_form_to_use_this_party
-TEXT: Revert Kyogre to its Primal form to use this party.
+TEXT: Fai tornare Kyogre alla sua forma originaria per usare questa squadra.
 
 RESOURCE ID: revive_all_button
 TEXT: Rianima tutti
@@ -115030,6 +115183,12 @@ TEXT: Incontri con i Pokémon Fossile: Omanyte
 RESOURCE ID: s19_tgr_takeover_collection_challenge
 TEXT: Sfida di collezione
 
+RESOURCE ID: s24_evergreen_branch_catch_candy_description
+TEXT: Fai questa scelta per ottenere il doppio delle caramelle da cattura.
+
+RESOURCE ID: s24_evergreen_branch_throw_stardust_description
+TEXT: Fai questa scelta per ottenere il doppio della polvere di stelle da cattura.
+
 RESOURCE ID: s_pinap_g_razz_pokestop_drop_bonus
 TEXT: Possibilità di ottenere Baccananas argentate o Baccalampon dorate facendo girare i dischi dei Pokéstop o delle Palestre
 
@@ -117013,6 +117172,9 @@ TEXT: Biglietto GO dell’evento “Volotaxi”
 RESOURCE ID: season_pass_base_track_title_halloween_2025
 TEXT: Biglietto GO di Halloween 2025
 
+RESOURCE ID: season_pass_base_track_title_harvest_festival_2026
+TEXT: GO Pass: Harvest Festival
+
 RESOURCE ID: season_pass_base_track_title_horizons_fall_2026
 TEXT: Biglietto GO dell’evento “Viva la collaborazione”
 
@@ -117178,6 +117340,9 @@ TEXT: Per ulteriori informazioni, visita il <a href="https://pokemongo.com/news/
 RESOURCE ID: season_pass_details_link_halloween_2025
 TEXT: Per ulteriori informazioni, visita il <a href="https://pokemongo.com/news/go-pass-halloween-2025">sito</a>.
 
+RESOURCE ID: season_pass_details_link_harvest_festival_2026
+TEXT: For more details, visit the <a href="https://pokemongo.com/news/harvest-festival-2026">website</a>.
+
 RESOURCE ID: season_pass_details_link_horizons_fall_2026
 TEXT: Per ulteriori informazioni, visita il <a href="https://pokemongo.com/news/pokemon-horizons-celebration-event-2026">sito</a>.
 
@@ -117241,6 +117406,19 @@ TEXT: Acquista il biglietto GO deluxe di Halloween 2025 e sblocca le ricompense 
 • Incontri con i Pokémon a tema dell’evento
 • Caramelle Rare L
 • E tanto altro!
+
+RESOURCE ID: season_pass_harvest_festival_2026_event_duration
+TEXT: September 29 – October 5
+
+RESOURCE ID: season_pass_harvest_festival_2026_track_upgrade_header_description
+TEXT: Earn additional rewards and unlock a <b>Super Rocket Radar</b> at Rank 1!
+
+RESOURCE ID: season_pass_harvest_festival_2026_upgrade_description
+TEXT: Purchase GO Pass Deluxe: Harvest Festival to unlock the following rewards!
+
+• Encounters with Cottonee, Skiddo, Applin, and more!
+• 3 Mossy Lure Modules
+• And much more!
 
 RESOURCE ID: season_pass_horizons_fall_2026_event_duration
 TEXT: Dal 16 al 22 settembre
@@ -117446,6 +117624,9 @@ TEXT: Biglietto GO deluxe dell’evento “Candela alla ricerca della vittoria�
 RESOURCE ID: season_pass_premium_track_plus_six_ranks_title_flying_taxi_2026
 TEXT: Biglietto GO deluxe dell’evento “Volotaxi”+ 6 livelli
 
+RESOURCE ID: season_pass_premium_track_plus_six_ranks_title_harvest_festival_2026
+TEXT: GO Pass Deluxe: Harvest Festival + 6 Ranks
+
 RESOURCE ID: season_pass_premium_track_plus_six_ranks_title_horizons_fall_2026
 TEXT: Biglietto GO deluxe dell’evento “Viva la collaborazione” + 6 livelli
 
@@ -117583,6 +117764,9 @@ TEXT: Biglietto GO deluxe dell’evento “Volotaxi”
 
 RESOURCE ID: season_pass_premium_track_title_halloween_2025
 TEXT: Biglietto GO deluxe di Halloween 2025
+
+RESOURCE ID: season_pass_premium_track_title_harvest_festival_2026
+TEXT: GO Pass Deluxe: Harvest Festival
 
 RESOURCE ID: season_pass_premium_track_title_horizons_fall_2026
 TEXT: Biglietto GO deluxe dell’evento “Viva la collaborazione”
@@ -118035,6 +118219,9 @@ TEXT: Strumenti
 
 RESOURCE ID: settings_advanced_pokemon_title
 TEXT: Pokémon
+
+RESOURCE ID: settings_advanced_privacy_title
+TEXT: Privacy
 
 RESOURCE ID: settings_advanced_quality_title
 TEXT: Qualità
@@ -118843,6 +119030,21 @@ TEXT: Ricerca a tempo “Oltre il Community Day” dedicata a Shelmet e Karrabla
 
 RESOURCE ID: shield_break_adventure_effect_battle_log
 TEXT: I TUOI ATTACCHI SONO POTENZIATI DALL’EFFETTO AVVENTURA DI DINAMIPUGNO+!
+
+RESOURCE ID: shima_collab_2026_tr_title
+TEXT: Ricerca a tempo di adidas
+
+RESOURCE ID: shima_collab_2026_tv_title
+TEXT: adidas per Pokémon GO
+
+RESOURCE ID: shima_collab_2026_tr_1
+TEXT: Ricerca a tempo di adidas (1/3)
+
+RESOURCE ID: shima_collab_2026_tr_2
+TEXT: Ricerca a tempo di adidas (2/3)
+
+RESOURCE ID: shima_collab_2026_tr_3
+TEXT: Ricerca a tempo di adidas (3/3)
 
 RESOURCE ID: shinjuku_cross_title
 TEXT: クロス新宿ビジョン
@@ -120498,10 +120700,10 @@ RESOURCE ID: soft_sfida_btn_manage_item_bag
 TEXT: Organizza spazio Borsa
 
 RESOURCE ID: soft_sfida_btn_switch_caps
-TEXT: SWITCH
+TEXT: CAMBIA
 
 RESOURCE ID: soft_sfida_btn_unpair_device_caps
-TEXT: UNPAIR DEVICE
+TEXT: ANNULLA ABBINAMENTO DISPOSITIVO
 
 RESOURCE ID: soft_sfida_btn_view_summary
 TEXT: Vedi riepilogo
@@ -121052,6 +121254,9 @@ TEXT: Più Wooper stanno apparendo allo stato selvatico
 
 RESOURCE ID: spawn_zigzagoon
 TEXT: Più Zigzagoon di Galar stanno apparendo allo stato selvatico!
+
+RESOURCE ID: spawn_zorua
+TEXT: Più Zorua stanno apparendo allo stato selvatico!
 
 RESOURCE ID: spawn_dratini_cdc
 TEXT: More Dratini are appearing in the wild!
@@ -125485,6 +125690,12 @@ TEXT: Serie giornaliere
 RESOURCE ID: streaks_widget_description
 TEXT: Utilizza il widget delle serie giornaliere per tenere traccia delle serie di catture effettuate e di dischi dei Pokéstop girati. Ottieni dei grandi bonus aggiuntivi al settimo giorno!
 
+RESOURCE ID: streamer_mode_expire_modal_title
+TEXT: Luogo di cattura ora visibile
+
+RESOURCE ID: streamer_mode_expire_modal_desc
+TEXT: Per continuare a nascondere il luogo di cattura dei Pokémon, vai alle impostazioni avanzate.
+
 RESOURCE ID: strength_numbers_gc_display_text
 TEXT: Una volta completata la sfida, tutti gli Allenatori sbloccheranno l’abilità di regalare biglietti gratuiti per la ricerca speciale del Community Day Classico di maggio 2025 dedicato a Machop. I biglietti regalo saranno disponibili nel negozio all’interno del gioco dal 23 maggio alle 10:00 (o prima!) fino al 24 maggio alle 17:00 ora locale.
 
@@ -125753,10 +125964,10 @@ RESOURCE ID: switch_sleep_warning
 TEXT: Please make sure that the mobile phone is up and running while connecting to SWITCH. Mobile phones going into sleep mode may disconnect from SWITCH.
 
 RESOURCE ID: switch_to_soft_sfida_description_default
-TEXT: If you’re unable to use your device but want to remain paired, you can use your Explorer Gadget instead.
+TEXT: Se non puoi utilizzare il tuo dispositivo ma vuoi mantenere l’abbinamento, puoi usare il gadget di esplorazione al suo posto.
 
 RESOURCE ID: switch_to_soft_sfida_title_default
-TEXT: Pause your device and switch to your Explorer Gadget?
+TEXT: Vuoi mettere in pausa il tuo dispositivo e passare al gadget di esplorazione?
 
 RESOURCE ID: swsh_masterball_sr_title
 TEXT: Ricerca magistrale: Master Ball
@@ -127383,6 +127594,12 @@ TEXT: <b>Le ricompense includono:</b>
 • Incontri con Vulpix e Vulpix di Alola con uno Sfondo speciale
 • E altro ancora!
 
+RESOURCE ID: text_rewards_key_cd_zorua26
+TEXT: <b>Le ricompense includono:</b>
+• Strumenti premium nel gioco come un biglietto lotta premium, una MT attacco caricato e Caramelle Rare
+• Incontri con Zorua con uno Sfondo speciale
+• E altro ancora!
+
 RESOURCE ID: text_rewards_key_cd_jangmo_o25
 TEXT: <b>Le ricompense includono:</b>
 • Strumenti premium nel gioco come un biglietto lotta premium, una MT attacco caricato e Caramelle Rare
@@ -128080,6 +128297,9 @@ TEXT: I biglietti per la ricerca speciale del Community Day di dicembre sono dis
 
 RESOURCE ID: ticket_vulpix_cd
 TEXT: I biglietti per la ricerca speciale del Community Day dedicato a Vulpix e Vulpix di Alola sono disponibili nel negozio
+
+RESOURCE ID: ticket_zorua_cd
+TEXT: I biglietti per la ricerca speciale del Community Day dedicato a Zorua sono disponibili nel negozio
 
 RESOURCE ID: time_left_day_hour
 TEXT: Termina fra {0} giorni e {1} ore
@@ -129674,6 +129894,12 @@ TEXT: Ricerca a tempo Avventure di Kanto in Corea
 
 RESOURCE ID: tr_apac_151busstop_scavenger_desc
 TEXT: Ricerca a tempo dell’evento “A spasso per la città”
+
+RESOURCE ID: tr_apac_2026_mid_autumn_1
+TEXT: Ricerca a tempo “Sentiero illuminato dalla luna” dell’evento “Danza al chiaro di luna 2026”
+
+RESOURCE ID: tr_apac_2026_mid_autumn_2
+TEXT: Ricerca a tempo aggiuntiva “Luna piena” dell’evento “Danza al chiaro di luna 2026”
 
 RESOURCE ID: tr_apac2024_lucario_movie_promo_title_00
 TEXT: Ricerca a tempo dell’evento “La via dell’aura” (1/2)
@@ -136116,6 +136342,9 @@ TEXT: Zamazenta trasforma il suo corpo in un robusto scudo per {0} potenziando l
 
 RESOURCE ID: zorua_o_clock_active
 TEXT: Zorua sta apparendo in gran numero!
+
+RESOURCE ID: zorua_website_link
+TEXT: Per ulteriori informazioni, visita il <a href="https://pokemongo.com/news/communityday-october-2026-zorua">sito</a>.
 
 RESOURCE ID: zygarde_tappable_push_notification
 TEXT: È apparso qualcosa di misterioso!
