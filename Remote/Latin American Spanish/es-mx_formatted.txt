@@ -58583,6 +58583,21 @@ TEXT: Encuentro: Zekrom (2025)
 RESOURCE ID: __male_speaker
 TEXT: ¡Asegúrate de usar ataques que aprovechen la debilidad de los Pokémon rivales!
 
+RESOURCE ID: mall_event_apac_30th_anniversary_title
+TEXT: Exploración de centros comerciales para la Celebración del 30.º aniversario de Pokémon
+
+RESOURCE ID: mall_event_apac_30th_anniversary_tr_title
+TEXT: Investigación Temporal de Exploración de centros comerciales
+
+RESOURCE ID: mall_event_apac_30th_anniversary_tr_desc_title_01
+TEXT: Investigación Temporal de Exploración de centros comerciales (1/2)
+
+RESOURCE ID: mall_event_apac_30th_anniversary_tr_desc_title_02
+TEXT: Investigación Temporal de Exploración de centros comerciales (2/2)
+
+RESOURCE ID: mall_event_apac_30th_anniversary_tr_desc
+TEXT: ¡Completa la Investigación Temporal para recibir encuentros con Pikachu con gorro de fiesta y muchos primeros compañeros Pokémon!
+
 RESOURCE ID: manage_gifts_header
 TEXT: Manage Gifts
 
@@ -60305,10 +60320,10 @@ at SHA 0b3915937aff7
 Pipeline 2177475, job 26434025
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-09-24T01:18:40.315486+00:00 for es-MX
+TEXT: Built at 2026-09-24T05:21:12.957005+00:00 for es-MX
 at SHA 6210d7033b5
-Pipeline 3966222, job 58390716
-Patch from: 0.429.1-SHA-5521c4dc-RC1, 0.431.0-SHA-76e2198b-RC4
+Pipeline 3966222, job 58396566
+Patch from: 0.429.2-SHA-ea3abc5d-RC1, 0.431.0-SHA-8123c737-RC1
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: Investigación Temporal: Elige tu tipo de lucha

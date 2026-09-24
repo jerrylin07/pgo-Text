@@ -53289,7 +53289,7 @@ RESOURCE ID: item_hyper_potion_desc_short
 TEXT: एक पोकेमॉन की HP को 200 पॉइंट रिस्टोर करें।
 
 RESOURCE ID: item_hyper_potion_name
-TEXT: सुपर दवा
+TEXT: हाइपर दवा
 
 RESOURCE ID: item_incense_beluga_box_desc
 TEXT: एक पुराना रहस्यमय बॉक्स। इसे खोलने पर, एक खास पोकेमॉन थोड़ी देर के लिए बाहर आता है।
@@ -53794,7 +53794,7 @@ RESOURCE ID: item_super_potion_desc_short
 TEXT: एक पोकेमॉन की HP को 50 पॉइंट रिस्टोर करें।
 
 RESOURCE ID: item_super_potion_name
-TEXT: हाइपर दवा
+TEXT: सुपर दवा
 
 RESOURCE ID: item_team_change_desc
 TEXT: एक खास कॉइन जिसके द्वारा ट्रेनर टीम बदल सकते हैं। यह 365 दिनों में सिर्फ़ एक बार खरीदा जा सकता है।
@@ -58348,6 +58348,21 @@ TEXT: मुलाकात - ज़ेक्रोम, 2025
 RESOURCE ID: __male_speaker
 TEXT: {0} किमी चलें
 
+RESOURCE ID: mall_event_apac_30th_anniversary_title
+TEXT: पोकेमॉन 30वीं ऐनविर्सरी मॉल एक्सप्लोरेशन
+
+RESOURCE ID: mall_event_apac_30th_anniversary_tr_title
+TEXT: मॉल एक्सप्लोरेशन सीमति समय वाली रसिर्च
+
+RESOURCE ID: mall_event_apac_30th_anniversary_tr_desc_title_01
+TEXT: मॉल एक्सप्लोरेशन सीमति समय वाली रसिर्च (1/2)
+
+RESOURCE ID: mall_event_apac_30th_anniversary_tr_desc_title_02
+TEXT: मॉल एक्सप्लोरेशन सीमति समय वाली रसिर्च (2/2)
+
+RESOURCE ID: mall_event_apac_30th_anniversary_tr_desc
+TEXT: पार्टी हैट पहने पकिाचू और ढेर सारे फ़र्स्ट पार्टनर पोकेमॉन से मुलाकातें पाने के लिए, सीमति समय वाली रसिर्च को पूरा करें।
+
 RESOURCE ID: manage_gifts_header
 TEXT: Manage Gifts
 
@@ -60071,10 +60086,10 @@ at SHA 12701f1c07ae7f07a5d50583f697320977df7988
 Pipeline 1139111, job 13470914
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-09-24T01:18:40.315486+00:00 for hi-IN
+TEXT: Built at 2026-09-24T05:21:12.957005+00:00 for hi-IN
 at SHA 6210d7033b5
-Pipeline 3966222, job 58390716
-Patch from: 0.429.1-SHA-5521c4dc-RC1, 0.431.0-SHA-76e2198b-RC4
+Pipeline 3966222, job 58396566
+Patch from: 0.429.2-SHA-ea3abc5d-RC1, 0.431.0-SHA-8123c737-RC1
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: Timed Research: Choose Your Fighting Type

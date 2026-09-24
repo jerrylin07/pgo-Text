@@ -60881,6 +60881,21 @@ TEXT: Встреча: Зекром, 2025
 RESOURCE ID: __male_speaker
 TEXT: Используй атаки, к которым слабы Покемоны твоего соперника!
 
+RESOURCE ID: mall_event_apac_30th_anniversary_title
+TEXT: Исследование Торговых Центров в 30-летний Юбилей Покемон
+
+RESOURCE ID: mall_event_apac_30th_anniversary_tr_title
+TEXT: Квест на Время Исследование Торговых Центров
+
+RESOURCE ID: mall_event_apac_30th_anniversary_tr_desc_title_01
+TEXT: Квест на Время Исследование Торговых Центров (1/2)
+
+RESOURCE ID: mall_event_apac_30th_anniversary_tr_desc_title_02
+TEXT: Квест на Время Исследование Торговых Центров (2/2)
+
+RESOURCE ID: mall_event_apac_30th_anniversary_tr_desc
+TEXT: Заверши Квест на Время, чтобы встретить Пикачу в праздничном колпаке и многих первых Покемонов-напарников!
+
 RESOURCE ID: manage_gifts_header
 TEXT: Manage Gifts
 
@@ -62603,10 +62618,10 @@ at SHA bacc02371739993984570a6f5b31a993cf3b031b
 Pipeline 498004, job 4265729
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-09-24T01:18:40.315486+00:00 for ru-RU
+TEXT: Built at 2026-09-24T05:21:12.957005+00:00 for ru-RU
 at SHA 6210d7033b5
-Pipeline 3966222, job 58390716
-Patch from: 0.429.1-SHA-5521c4dc-RC1, 0.431.0-SHA-76e2198b-RC4
+Pipeline 3966222, job 58396566
+Patch from: 0.429.2-SHA-ea3abc5d-RC1, 0.431.0-SHA-8123c737-RC1
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: ‎Квест на время: Боевой тип

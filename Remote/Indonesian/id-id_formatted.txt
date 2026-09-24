@@ -58420,6 +58420,21 @@ TEXT: Pertemuan: Zekrom 2025
 RESOURCE ID: __male_speaker
 TEXT: Gunakan serangan yang menjadi kelemahan Pokémon lawanmu!
 
+RESOURCE ID: mall_event_apac_30th_anniversary_title
+TEXT: Penjelajahan Mall Perayaan 30 Tahun Pokémon
+
+RESOURCE ID: mall_event_apac_30th_anniversary_tr_title
+TEXT: Penelitian Berwaktu Penjelajahan Mall
+
+RESOURCE ID: mall_event_apac_30th_anniversary_tr_desc_title_01
+TEXT: Penelitian Berwaktu Penjelajahan Mall (1/2)
+
+RESOURCE ID: mall_event_apac_30th_anniversary_tr_desc_title_02
+TEXT: Penelitian Berwaktu Penjelajahan Mall (2/2)
+
+RESOURCE ID: mall_event_apac_30th_anniversary_tr_desc
+TEXT: Selesaikan Penelitian Berwaktu untuk menerima pertemuan dengan Pikachu bertopi pesta dan para Pokémon partner pertama!
+
 RESOURCE ID: manage_gifts_header
 TEXT: Manage Gifts
 
@@ -60142,10 +60157,10 @@ at SHA 12701f1c07ae7f07a5d50583f697320977df7988
 Pipeline 1139111, job 13470914
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-09-24T01:18:40.315486+00:00 for id-ID
+TEXT: Built at 2026-09-24T05:21:12.957005+00:00 for id-ID
 at SHA 6210d7033b5
-Pipeline 3966222, job 58390716
-Patch from: 0.429.1-SHA-5521c4dc-RC1, 0.431.0-SHA-76e2198b-RC4
+Pipeline 3966222, job 58396566
+Patch from: 0.429.2-SHA-ea3abc5d-RC1, 0.431.0-SHA-8123c737-RC1
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: Penelitian Berwaktu: Pilih Tipe Petarungmu

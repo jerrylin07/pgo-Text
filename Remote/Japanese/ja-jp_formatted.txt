@@ -41906,7 +41906,7 @@ RESOURCE ID: gift_multi_delete_complete
 TEXT: Your selection has been cleared.
 
 RESOURCE ID: gift_multi_delete_plural
-TEXT: Discard these {0} Gifts?
+TEXT: {0}個のギフトを捨てますか？
 
 RESOURCE ID: gift_multi_delete_button_text
 TEXT: DISCARD ({0})
@@ -57155,28 +57155,28 @@ RESOURCE ID: kr_ditto_event_2025_tr_name_3
 TEXT: へんしんタイムチャレンジ(3/3)
 
 RESOURCE ID: kr_fcseoul_collab_2026_title
-TEXT: FC Seoul Event 2026
+TEXT: FCソウルイベント2026
 
 RESOURCE ID: kr_fcseoul_collab_2026_bonus_raid_lc_desc
-TEXT: During event hours on October 24, Charmander caught from raids around the Seoul World Cup Stadium event area may have an exclusive Location Background
+TEXT: 10月24日のイベント開催時間にソウルワールドカップ競技場イベントエリア付近のレイドで捕まえるヒトカゲに限定ロケーション背景がついていることがある
 
 RESOURCE ID: kr_fcseoul_collab_2026_bonus_tr_lc_desc
-TEXT: Charizard encountered from event Timed Research will have an exclusive Location Background
+TEXT: イベントのタイムチャレンジで捕まえるリザードンに限定ロケーション背景がついている
 
 RESOURCE ID: kr_fcseoul_collab_2026_bonus_wild_pokemon
-TEXT: Catch Fire-type Pokémon around the Seoul World Cup Stadium event area—let’s fire it up for FC Seoul!
+TEXT: ソウルワールドカップ競技場イベントエリア付近でほのおタイプのポケモンを捕まえてFCソウルを応援！
 
 RESOURCE ID: kr_fcseoul_collab_2026_tr_name
-TEXT: FC Seoul Event 2026 Timed Research
+TEXT: FCソウルイベント2026タイムチャレンジ
 
 RESOURCE ID: kr_fcseoul_collab_2026_tr_name_1
-TEXT: FC Seoul Event 2026 Timed Research (1/3)
+TEXT: FCソウルイベント2026タイムチャレンジ(1/3)
 
 RESOURCE ID: kr_fcseoul_collab_2026_tr_name_2
-TEXT: FC Seoul Event 2026 Timed Research (2/3)
+TEXT: FCソウルイベント2026タイムチャレンジ(2/3)
 
 RESOURCE ID: kr_fcseoul_collab_2026_tr_name_3
-TEXT: FC Seoul Event 2026 Timed Research (3/3)
+TEXT: FCソウルイベント2026タイムチャレンジ(3/3)
 
 RESOURCE ID: kr_festival_fr_location_background
 TEXT: フィールドタスクで捕まえるシキジカと着飾ったピカチュウにロケーション背景がついている可能性
@@ -61020,8 +61020,23 @@ TEXT: 出会い：ゼクロム2025
 RESOURCE ID: __male_speaker
 TEXT: 相手ポケモンが弱いタイプのわざを使おう！
 
+RESOURCE ID: mall_event_apac_30th_anniversary_title
+TEXT: ポケモン30周年モール探検
+
+RESOURCE ID: mall_event_apac_30th_anniversary_tr_title
+TEXT: モール探検タイムチャレンジ
+
+RESOURCE ID: mall_event_apac_30th_anniversary_tr_desc_title_01
+TEXT: モール探検タイムチャレンジ(1/2)
+
+RESOURCE ID: mall_event_apac_30th_anniversary_tr_desc_title_02
+TEXT: モール探検タイムチャレンジ(2/2)
+
+RESOURCE ID: mall_event_apac_30th_anniversary_tr_desc
+TEXT: タイムチャレンジ完了でパーティーハットをかぶったピカチュウ、最初のパートナーポケモンたちと出会える
+
 RESOURCE ID: manage_gifts_header
-TEXT: Manage Gifts
+TEXT: ギフトを整理
 
 RESOURCE ID: manage_items_button
 TEXT: 道具整理
@@ -62745,10 +62760,10 @@ at SHA 4d4f3e80cc7fb911006bd14d198c9831ef66d005
 Pipeline 339838, job 2672172
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-09-24T01:18:40.315486+00:00 for ja-JP
+TEXT: Built at 2026-09-24T05:21:12.957005+00:00 for ja-JP
 at SHA 6210d7033b5
-Pipeline 3966222, job 58390716
-Patch from: 0.429.1-SHA-5521c4dc-RC1, 0.431.0-SHA-76e2198b-RC4
+Pipeline 3966222, job 58396566
+Patch from: 0.429.2-SHA-ea3abc5d-RC1, 0.431.0-SHA-8123c737-RC1
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: タイムチャレンジ：かくとうタイプ
@@ -79475,13 +79490,13 @@ RESOURCE ID: pokemon_info_multi_transfer_ultra_beast_pokemon_error
 TEXT: ウルトラビーストは選択できません！
 
 RESOURCE ID: pokemon_info_no_evolve_pokemon
-TEXT: No Pokémon can use this item to evolve.
+TEXT: この道具を使って進化させるポケモンがいません
 
 RESOURCE ID: pokemon_info_no_fainted_pokemon
-TEXT: No Pokémon need to be revived.
+TEXT: 回復が必要なポケモンはいません
 
 RESOURCE ID: pokemon_info_no_hurt_pokemon
-TEXT: All Pokémon are fully healed.
+TEXT: すべてのポケモンは元気です
 
 RESOURCE ID: pokemon_info_no_stats_available
 TEXT: 鍛えられる項目がありません
@@ -90324,7 +90339,7 @@ RESOURCE ID: quest_partner_spin_rally_aeonmall
 TEXT: イオンモールのポケストップ・ジム{0}個を回す
 
 RESOURCE ID: quest_partner_spin_rally_familymart
-TEXT: ファミリーマートのポケストップ／ジムを{0}個回す
+TEXT: ファミリーマートのポケストップ・ジムを{0}個回す
 
 RESOURCE ID: quest_partner_spin_rally_mcdonalds
 TEXT: マクドナルドのポケストップ・ジム{0}個を回す

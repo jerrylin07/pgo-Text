@@ -58571,6 +58571,21 @@ TEXT: Karşılaşma: Zekrom, 2025
 RESOURCE ID: __male_speaker
 TEXT: Rakibinizin Pokémon'larının zayıf olduğu saldırıları kullanın!
 
+RESOURCE ID: mall_event_apac_30th_anniversary_title
+TEXT: Pokémon 30. Yıl Dönümü Alışveriş Merkezinde Keşif
+
+RESOURCE ID: mall_event_apac_30th_anniversary_tr_title
+TEXT: Alışveriş Merkezinde Keşif Süreli Araştırması
+
+RESOURCE ID: mall_event_apac_30th_anniversary_tr_desc_title_01
+TEXT: Alışveriş Merkezinde Keşif Süreli Araştırması (1/2)
+
+RESOURCE ID: mall_event_apac_30th_anniversary_tr_desc_title_02
+TEXT: Alışveriş Merkezinde Keşif Süreli Araştırması (2/2)
+
+RESOURCE ID: mall_event_apac_30th_anniversary_tr_desc
+TEXT: Parti şapkalı Pikachu ve pek çok ilk partner Pokémon ile karşılaşmalar kazanmak için süreli araştırmayı tamamlayın!
+
 RESOURCE ID: manage_gifts_header
 TEXT: Manage Gifts
 
@@ -60293,10 +60308,10 @@ at SHA 413df5befdbe0d00a543f8a142221526d63b719a
 Pipeline 834428, job 8736424
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-09-24T01:18:40.315486+00:00 for tr-TR
+TEXT: Built at 2026-09-24T05:21:12.957005+00:00 for tr-TR
 at SHA 6210d7033b5
-Pipeline 3966222, job 58390716
-Patch from: 0.429.1-SHA-5521c4dc-RC1, 0.431.0-SHA-76e2198b-RC4
+Pipeline 3966222, job 58396566
+Patch from: 0.429.2-SHA-ea3abc5d-RC1, 0.431.0-SHA-8123c737-RC1
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: Süreli Araştırma: Dövüşçünüzü Seçin

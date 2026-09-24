@@ -65305,6 +65305,21 @@ TEXT: เผชิญหน้า: เซครอม, 2025
 RESOURCE ID: __male_speaker
 TEXT: ใช้ท่าโจมตีที่โปเกมอนของคู่แข่งแพ้ทางนะ!
 
+RESOURCE ID: mall_event_apac_30th_anniversary_title
+TEXT: สำรวจมอลล์ครบรอบ 30 ปีโปเกมอน
+
+RESOURCE ID: mall_event_apac_30th_anniversary_tr_title
+TEXT: งานวิจัยแบบจำกัดเวลาสำรวจมอลล์
+
+RESOURCE ID: mall_event_apac_30th_anniversary_tr_desc_title_01
+TEXT: งานวิจัยแบบจำกัดเวลาสำรวจมอลล์ (1/2)
+
+RESOURCE ID: mall_event_apac_30th_anniversary_tr_desc_title_02
+TEXT: งานวิจัยแบบจำกัดเวลาสำรวจมอลล์ (2/2)
+
+RESOURCE ID: mall_event_apac_30th_anniversary_tr_desc
+TEXT: ทำงานวิจัยแบบจำกัดเวลาให้เสร็จสิ้นเพื่อเผชิญหน้ากับพิคาชูสวมหมวกปาร์ตี้และเหล่าโปเกมอนคู่หูตัวแรก
+
 RESOURCE ID: manage_gifts_header
 TEXT: Manage Gifts
 
@@ -67279,10 +67294,10 @@ at SHA da71d231c41a4d4f7aef0d6fd71061652ff15a0a
 Pipeline 441624, job 3600523
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-09-24T01:18:40.315486+00:00 for th-TH
+TEXT: Built at 2026-09-24T05:21:12.957005+00:00 for th-TH
 at SHA 6210d7033b5
-Pipeline 3966222, job 58390716
-Patch from: 0.429.1-SHA-5521c4dc-RC1, 0.431.0-SHA-76e2198b-RC4
+Pipeline 3966222, job 58396566
+Patch from: 0.429.2-SHA-ea3abc5d-RC1, 0.431.0-SHA-8123c737-RC1
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: งานวิจัยแบบจำกัดเวลา: ประเภทต่อสู้ของคุณ
