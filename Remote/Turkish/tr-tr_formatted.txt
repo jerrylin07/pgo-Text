@@ -61,6 +61,9 @@ TEXT: Her saat başı çok sayıda Zorua ortaya çıkacak!
 RESOURCE ID: 5_special_trades_total
 TEXT: Her gün toplam 5 özel takas fırsatı
 
+RESOURCE ID: 5x_mega_energy_electrike_manectric_buddy
+TEXT: Manectric’i en az bir kez mega evrimleştirdikten sonra Electrike veya Manectric dostunuzken keşif yaparak 5× mega enerji
+
 RESOURCE ID: 9th_anniversary_event_name
 TEXT: 9. Yıl Dönümü Partisi
 
@@ -990,6 +993,15 @@ TEXT: Pikachu’nun Endonezya Macerası: Yogyakarta (4/5)
 
 RESOURCE ID: air_adventures_yogyakarta_sr_title_04
 TEXT: Pikachu’nun Endonezya Macerası: Yogyakarta (5/5)
+
+RESOURCE ID: allow_gift_list_prompt_title
+TEXT: Allow Gifting?
+
+RESOURCE ID: allow_gift_list_prompt_desc
+TEXT: After unpausing the following friend will be able to send you paid gifts again.
+
+RESOURCE ID: allow_gift_list_prompt_button_label
+TEXT: YES, ALLOW
 
 RESOURCE ID: allow_notifications_prompt_message
 TEXT: Oyun deneyiminizi geliştirmek için Pokémon GO’ya bildirim erişimi verin.
@@ -12574,6 +12586,90 @@ TEXT: Karanlık Dedektifi
 RESOURCE ID: badge_gowa_2025_special_research_b_title
 TEXT: Peri Fanatiği
 
+RESOURCE ID: badge_gowa_2026_cdmx_addon_battle_title
+TEXT: GO Wild Area 2026 – Mexico City: Battle Ready
+
+RESOURCE ID: badge_gowa_2026_cdmx_addon_friday_title
+TEXT: GO Wild Area 2026 – Mexico City: Extra Day (Friday)
+
+RESOURCE ID: badge_gowa_2026_cdmx_addon_hatch_title
+TEXT: GO Wild Area 2026 – Mexico City: Egg–thusiast
+
+RESOURCE ID: badge_gowa_2026_cdmx_addon_saturday_title
+TEXT: GO Wild Area 2026 – Mexico City: Extra Day (Saturday)
+
+RESOURCE ID: badge_gowa_2026_cdmx_addon_sunday_title
+TEXT: GO Wild Area 2026 – Mexico City: Extra Day (Sunday)
+
+RESOURCE ID: badge_gowa_2026_cdmx_friday_title
+TEXT: GO Wild Area 2026 – Mexico City: Friday
+
+RESOURCE ID: badge_gowa_2026_cdmx_saturday_title
+TEXT: GO Wild Area 2026 – Mexico City: Saturday
+
+RESOURCE ID: badge_gowa_2026_cdmx_sunday_title
+TEXT: GO Wild Area 2026 – Mexico City: Sunday
+
+RESOURCE ID: badge_gowa_2026_cdmx_test_addon_battle_title
+TEXT: GO Wild Area 2026 – Mexico City: Battle Ready (Test)
+
+RESOURCE ID: badge_gowa_2026_cdmx_test_addon_extra_day_title
+TEXT: GO Wild Area 2026 – Mexico City: Extra Day (Test)
+
+RESOURCE ID: badge_gowa_2026_cdmx_test_addon_hatch_title
+TEXT: GO Wild Area 2026 – Mexico City: Egg-thusiast (Test)
+
+RESOURCE ID: badge_gowa_2026_cdmx_test_title
+TEXT: GO Wild Area 2026 – Mexico City (Test)
+
+RESOURCE ID: badge_gowa_2026_global_test_title
+TEXT: GO Wild Area 2026 (Test)
+
+RESOURCE ID: badge_gowa_2026_global_title
+TEXT: GO Wild Area 2026
+
+RESOURCE ID: badge_gowa_2026_sendai_addon_battle_title
+TEXT: GO Wild Area 2026 – Sendai・Tohoku: Battle Ready
+
+RESOURCE ID: badge_gowa_2026_sendai_addon_friday_title
+TEXT: GO Wild Area 2026 – Sendai・Tohoku: Extra Day (Friday)
+
+RESOURCE ID: badge_gowa_2026_sendai_addon_hatch_title
+TEXT: GO Wild Area 2026 – Sendai・Tohoku: Egg–thusiast
+
+RESOURCE ID: badge_gowa_2026_sendai_addon_saturday_title
+TEXT: GO Wild Area 2026 – Sendai・Tohoku: Extra Day (Saturday)
+
+RESOURCE ID: badge_gowa_2026_sendai_addon_sunday_title
+TEXT: GO Wild Area 2026 – Sendai・Tohoku: Extra Day (Sunday)
+
+RESOURCE ID: badge_gowa_2026_sendai_friday_title
+TEXT: GO Wild Area 2026 – Sendai・Tohoku: Friday
+
+RESOURCE ID: badge_gowa_2026_sendai_saturday_title
+TEXT: GO Wild Area 2026 – Sendai・Tohoku: Saturday
+
+RESOURCE ID: badge_gowa_2026_sendai_sunday_title
+TEXT: GO Wild Area 2026 – Sendai・Tohoku: Sunday
+
+RESOURCE ID: badge_gowa_2026_sendai_test_addon_battle_title
+TEXT: GO Wild Area 2026 – Sendai・Tohoku: Battle Ready (Test)
+
+RESOURCE ID: badge_gowa_2026_sendai_test_addon_extra_day_title
+TEXT: GO Wild Area 2026 – Sendai・Tohoku: Extra Day (Test)
+
+RESOURCE ID: badge_gowa_2026_sendai_test_addon_hatch_title
+TEXT: GO Wild Area 2026 – Sendai・Tohoku: Egg-thusiast (Test)
+
+RESOURCE ID: badge_gowa_2026_sendai_test_title
+TEXT: GO Wild Area 2026 – Sendai・Tohoku (Test)
+
+RESOURCE ID: badge_gowa_2026_special_research_a_title
+TEXT: Steel Scholar
+
+RESOURCE ID: badge_gowa_2026_special_research_b_title
+TEXT: Dragon Defender
+
 RESOURCE ID: badge_gowa_electric
 TEXT: Pokémon GO Vahşi Bölgesi 2024
 
@@ -12681,6 +12777,90 @@ TEXT: Pokémon GO Vahşi Bölgesi 2025
 
 RESOURCE ID: badge_gowa_2025_special_research_b
 TEXT: Pokémon GO Vahşi Bölgesi 2025
+
+RESOURCE ID: badge_gowa_2026_cdmx_addon_battle
+TEXT: Mexico City, November 6–8, 2026
+
+RESOURCE ID: badge_gowa_2026_cdmx_addon_friday
+TEXT: Mexico City, Friday, November 6, 2026, 10:00 a.m. – 6:00 p.m.
+
+RESOURCE ID: badge_gowa_2026_cdmx_addon_hatch
+TEXT: Mexico City, November 6–8, 2026
+
+RESOURCE ID: badge_gowa_2026_cdmx_addon_saturday
+TEXT: Mexico City, Saturday, November 7, 2026, 10:00 a.m. – 6:00 p.m.
+
+RESOURCE ID: badge_gowa_2026_cdmx_addon_sunday
+TEXT: Mexico City, Sunday, November 8, 2026, 10:00 a.m. – 6:00 p.m.
+
+RESOURCE ID: badge_gowa_2026_cdmx_friday
+TEXT: Mexico City, Friday, November 6, 2026, 10:00 a.m. – 6:00 p.m.
+
+RESOURCE ID: badge_gowa_2026_cdmx_saturday
+TEXT: Mexico City, Saturday, November 7, 2026, 10:00 a.m. – 6:00 p.m.
+
+RESOURCE ID: badge_gowa_2026_cdmx_sunday
+TEXT: Mexico City, Sunday, November 8, 2026, 10:00 a.m. – 6:00 p.m.
+
+RESOURCE ID: badge_gowa_2026_cdmx_test
+TEXT: Mexico City, November 6–8, 2026
+
+RESOURCE ID: badge_gowa_2026_cdmx_test_addon_battle
+TEXT: Mexico City, November 6–8, 2026
+
+RESOURCE ID: badge_gowa_2026_cdmx_test_addon_extra_day
+TEXT: Mexico City, November 6–8, 2026
+
+RESOURCE ID: badge_gowa_2026_cdmx_test_addon_hatch
+TEXT: Mexico City, November 6–8, 2026
+
+RESOURCE ID: badge_gowa_2026_global
+TEXT: November 14–15, 2026
+
+RESOURCE ID: badge_gowa_2026_global_test
+TEXT: November 14–15, 2026
+
+RESOURCE ID: badge_gowa_2026_sendai_addon_battle
+TEXT: Sendai・Tohoku, November 6–8, 2026
+
+RESOURCE ID: badge_gowa_2026_sendai_addon_friday
+TEXT: Sendai・Tohoku, Friday, November 6, 2026, 10:00 a.m. – 6:00 p.m.
+
+RESOURCE ID: badge_gowa_2026_sendai_addon_hatch
+TEXT: Sendai・Tohoku, November 6–8, 2026
+
+RESOURCE ID: badge_gowa_2026_sendai_addon_saturday
+TEXT: Sendai・Tohoku, Saturday, November 7, 2026, 10:00 a.m. – 6:00 p.m.
+
+RESOURCE ID: badge_gowa_2026_sendai_addon_sunday
+TEXT: Sendai・Tohoku, Sunday, November 8, 2026, 10:00 a.m. – 6:00 p.m.
+
+RESOURCE ID: badge_gowa_2026_sendai_friday
+TEXT: Sendai・Tohoku, Friday, November 6, 2026, 10:00 a.m. – 6:00 p.m.
+
+RESOURCE ID: badge_gowa_2026_sendai_saturday
+TEXT: Sendai・Tohoku, Saturday, November 7, 2026, 10:00 a.m. – 6:00 p.m.
+
+RESOURCE ID: badge_gowa_2026_sendai_sunday
+TEXT: Sendai・Tohoku, Sunday, November 8, 2026, 10:00 a.m. – 6:00 p.m.
+
+RESOURCE ID: badge_gowa_2026_sendai_test
+TEXT: Sendai・Tohoku, November 6–8, 2026
+
+RESOURCE ID: badge_gowa_2026_sendai_test_addon_battle
+TEXT: Sendai・Tohoku, November 6–8, 2026
+
+RESOURCE ID: badge_gowa_2026_sendai_test_addon_extra_day
+TEXT: Sendai・Tohoku, November 6–8, 2026
+
+RESOURCE ID: badge_gowa_2026_sendai_test_addon_hatch
+TEXT: Sendai・Tohoku, November 6–8, 2026
+
+RESOURCE ID: badge_gowa_2026_special_research_a
+TEXT: Pokémon GO Wild Area 2026
+
+RESOURCE ID: badge_gowa_2026_special_research_b
+TEXT: Pokémon GO Wild Area 2026
 
 RESOURCE ID: badge_gowa_electric_title
 TEXT: Elektrik Uzmanı
@@ -18386,6 +18566,9 @@ TEXT: 8× yakalama TP’si
 RESOURCE ID: bonus_10_daily_raid_passes
 TEXT: Spor salonlarındaki fotoğraf disklerini döndürerek ücretsiz olarak 10 adede kadar Akın Bileti alın
 
+RESOURCE ID: bonus_10k_egg_rate
+TEXT: Increased chance of receiving event-themed 10 km Eggs from spinning PokéStops or Gyms
+
 RESOURCE ID: bonus_10k_eggs_increased
 TEXT: PokéDurak veya Spor Salonu döndürüldüğünde 10 km’lik yumurta bulmak için çok daha fazla şans
 
@@ -18897,6 +19080,9 @@ TEXT: GO Fotoğrafta her gün mavi gömlekli Pikachu (Limon) ve Farfetch’d ile
 RESOURCE ID: bonus_farfetchd_kanto_spawn
 TEXT: Bölgede çok sayıda Farfetch’d ortaya çıkıyor!
 
+RESOURCE ID: bonus_fast_charged_tm_pois
+TEXT: PokéDurak veya spor salonu döndürerek Hızlı TM veya Güçlü TM edinme şansı
+
 RESOURCE ID: bonus_feature_behemoth_blade_and_behemoth_bash_boost_max
 TEXT: Maksi Maçlarda Devasa Bıçak ve Devasa Ezme’nin gücünde artış
 
@@ -19332,8 +19518,14 @@ TEXT: Mega Aerodactyl bazı bölgelerde özel akınlarda ortaya çıkıyor
 RESOURCE ID: bonus_mega_cp_boost
 TEXT: Tüm mega evrimleşmiş Pokémon’lar için artırılmış DG
 
+RESOURCE ID: bonus_mega_duration_72hr
+TEXT: 72 saatlik mega evrim süresi
+
 RESOURCE ID: bonus_mega_energy_gible
 TEXT: Gible toplama görevini tamamlayarak 300 Garchomp mega enerjisi kazanın
+
+RESOURCE ID: bonus_mega_energy_catch_chance
+TEXT: Yem Modüllerine gelen mega evrimleşebilen Pokémon’ları yakalayarak mega enerji kazanma şansı
 
 RESOURCE ID: bonus_mega_energy_spin_chance
 TEXT: PokéDurak veya spor salonu döndürerek mega enerji edinme şansı
@@ -19451,6 +19643,9 @@ TEXT: Profesör Willow’un asistanı Pikachu’lar akınlarda ve süreli araşt
 
 RESOURCE ID: bonus_pikachu_30thapac
 TEXT: Doğada PokéXciting! Pikachu’lar ortaya çıkıyor, etkinlik temalı süreli araştırma ve GO Fotoğrafta sürpriz karşılaşmalar
+
+RESOURCE ID: bonus_pikachu_astro_costume
+TEXT: Astronot Pikachu’lar akınlarda ortaya çıkıyor
 
 RESOURCE ID: bonus_pikachu_npb_costume
 TEXT: Beyzbol formalı Pikachu’lar akınlarda ve süreli araştırmada ortaya çıkıyor
@@ -19968,6 +20163,9 @@ TEXT: Süperşarjlı Bonus Süreli Araştırma
 RESOURCE ID: bonus_tr_gbl_championships_2026_a_title
 TEXT: Antik Güç Bonus Süreli Araştırması
 
+RESOURCE ID: bonus_tr_gbl_championships_2027_a_title
+TEXT: Mega Momentum
+
 RESOURCE ID: bonus_tr_gbl_championships_2024_a_desc
 TEXT: Bir Yerden Başlamak Gerek: Bonus Süreli Araştırma
 
@@ -19979,6 +20177,9 @@ TEXT: Süperşarjlı Bonus Süreli Araştırma
 
 RESOURCE ID: bonus_tr_gbl_championships_2026_a_desc
 TEXT: Antik Güç Bonus Süreli Araştırması
+
+RESOURCE ID: bonus_tr_gbl_championships_2027_a_desc
+TEXT: Mega Momentum Bonus Süreli Araştırması
 
 RESOURCE ID: bonus_tr_gbl_euic_2024_a_title
 TEXT: 2024 Pokémon LAIC Şampiyonu
@@ -28291,6 +28492,9 @@ TEXT: Deniz Kenarı Premium Süreli Araştırması
 RESOURCE ID: concierge_promo_tr_name
 TEXT: Pokémon Konsiyerj Bonus Süreli Araştırması
 
+RESOURCE ID: confirm_gift_purchase_v2_reward_points_prefix
+TEXT: You will receive
+
 RESOURCE ID: confirm_send_button
 TEXT: GÖNDER
 
@@ -29175,6 +29379,9 @@ TEXT: {0} maç ekibini silmek istiyor musunuz?
 RESOURCE ID: delete_gift_confirmation
 TEXT: Bu Hediyeyi atmak istediğinizden emin misiniz?
 
+RESOURCE ID: delete_gift_message
+TEXT: Gifts do not count toward Item Bag storage.
+
 RESOURCE ID: delete_pokemon_tag_confirmation
 TEXT: Bu etiket, atandığı Pokémon’dan kaldırılacak. Pokémon gönderilmeyecek.
 
@@ -29647,6 +29854,12 @@ TEXT: Varlıklar İndirilemiyor
 
 RESOURCE ID: downloading_avatar_assets_warning_body
 TEXT: Varlıklar indirilirken bir sorun oluştu. Lütfen istikrarlı bir ağ erişiminiz olduğundan emin olun ve oyunu tekrar başlatın.
+
+RESOURCE ID: dragon_poi_spin_plural
+TEXT: Spin {0} Dragon type-themed PokéStops
+
+RESOURCE ID: dragon_poi_spin_singular
+TEXT: Spin a Dragon type-themed PokéStop
 
 RESOURCE ID: dragon_type_event
 TEXT: Tür Artışı: Ejderha
@@ -31124,6 +31337,18 @@ TEXT: Bu takma ad artık kullanılamaz.
 
 RESOURCE ID: error_weak_network
 TEXT: Ağ bağlantınız şu anda dengeli değil. Lütfen daha sonra tekrar deneyin.
+
+RESOURCE ID: esa_2026_title
+TEXT: Avrupa Uzay Ajansı Etkinliği 2026
+
+RESOURCE ID: esa_2026_tr_title
+TEXT: Avrupa Uzay Ajansı Etkinliği 2026 Süreli Araştırması
+
+RESOURCE ID: esa_2026_tr_01
+TEXT: Avrupa Uzay Ajansı Etkinliği 2026 Süreli Araştırması (1/2)
+
+RESOURCE ID: esa_2026_tr_02
+TEXT: Avrupa Uzay Ajansı Etkinliği 2026 Süreli Araştırması (2/2)
 
 RESOURCE ID: europe_international_championships_bonus_2024
 TEXT: 2024 Pokémon Avrupa Uluslararası Şampiyonası – Bonus
@@ -33826,6 +34051,15 @@ TEXT: Peri türü temalı bir PokéDurak döndürün
 
 RESOURCE ID: fairy_type_event
 TEXT: Tür Artışı: Peri
+
+RESOURCE ID: fall_marathon_event_name_2026
+TEXT: Sonbahar Maratonu: Dostlarla Yürüyüş
+
+RESOURCE ID: fall_marathon_incense_bramblin
+TEXT: Tütsü Bramblin’i çekebilir
+
+RESOURCE ID: fall_marathon_tr_title
+TEXT: Sonbahar Maratonu Süreli Araştırması
 
 RESOURCE ID: fantasy_cup_great_title
 TEXT: Hayal Kupası: Süper Lig
@@ -39089,6 +39323,9 @@ TEXT: Seç
 RESOURCE ID: general_days_remaining
 TEXT: {0} G
 
+RESOURCE ID: general_device_troubleshooting_id_scopely_helpshift
+TEXT: 1337
+
 RESOURCE ID: general_do_not_allow
 TEXT: İzin Verme
 
@@ -39206,6 +39443,12 @@ TEXT: Bitti
 RESOURCE ID: generic_contact_support
 TEXT: Oyun Kayıtları Nasıl Paylaşılır
 
+RESOURCE ID: generic_event_pass_premium_unlock
+TEXT: GO Pass Deluxe
+
+RESOURCE ID: generic_event_pass_premium_unlock_plus_points
+TEXT: GO Pass Deluxe + Ranks
+
 RESOURCE ID: generic_player_lockout
 TEXT: Hizmet Şartlarını ihlal ettiğiniz için hesabınız askıya alındı.
 
@@ -39213,6 +39456,9 @@ Daha fazla bilgi için <a href="three_strike_policy_url">Yardım Merkezi'ni ziya
 
 RESOURCE ID: generic_track_upgrade_header_description
 TEXT: Ek ödüller kazanın ve 30. rütbede <b>Dottler ile bir karşılaşmanın</b> kilidini açın!
+
+RESOURCE ID: gengar_bonus_raid
+TEXT: Mega Gengar akınlarda ortaya çıkıyor
 
 RESOURCE ID: gengeneral1.ticket.2_dratini_cdc_description
 TEXT: A ticket to access the Dratini Community Day Classic Special Research on November 5, 2022, from 2:00 p.m. to 5:00 p.m. local time, wherever you are. Details can be found in the in-game News.
@@ -39276,6 +39522,15 @@ TEXT: Merhabalar
 RESOURCE ID: gift_from_sponsor
 TEXT: Sponsor Hediyesi açın!
 
+RESOURCE ID: gift_multi_delete_complete
+TEXT: Your selection has been cleared.
+
+RESOURCE ID: gift_multi_delete_plural
+TEXT: Discard these {0} Gifts?
+
+RESOURCE ID: gift_multi_delete_button_text
+TEXT: DISCARD ({0})
+
 RESOURCE ID: gift_open_double
 TEXT: 2× Hediye açın
 
@@ -39337,6 +39592,11 @@ RESOURCE ID: gifting_error_description
 TEXT: Üzgünüz.
 Hedeflenen alıcı satın alma işleminiz tamamlanmadan önce aynı etkinlik biletini edindiği için hediyeniz gönderilemedi. Bu hediyeyi şimdi başka bir arkadaşınıza gönderebilirsiniz.
 Ücret iadesi almayı tercih ederseniz lütfen uygulama mağazanızla iletişime geçin.
+
+RESOURCE ID: gifting_error_description_temp
+TEXT: Unfortunately, this Friend is now ineligible for receiving this paid gift. This can happen for a variety of reasons.
+
+You can choose a new friend to send this to now.
 
 RESOURCE ID: gifting_error_refund_button
 TEXT: İADE TALEP ET
@@ -47612,6 +47872,99 @@ TEXT: Pokémon GO Vahşi Bölgesi 2025: Pazar Etkinlik Saatleri
 RESOURCE ID: gowa_2025_sun_ticketed
 TEXT: Pokémon GO Vahşi Bölgesi 2025: Pazar Etkinlik Saatleri (Bilet)
 
+RESOURCE ID: gowa_2026
+TEXT: Pokémon GO Wild Area 2026
+
+RESOURCE ID: gowa_2026_all_sat
+TEXT: Pokémon GO Wild Area 2026: All-Day Saturday
+
+RESOURCE ID: gowa_2026_all_sun
+TEXT: Pokémon GO Wild Area 2026: All-Day Sunday
+
+RESOURCE ID: gowa_2026_all_weekend
+TEXT: Pokémon GO Wild Area 2026: All Weekend
+
+RESOURCE ID: gowa_2026_all_weekend_ticketed
+TEXT: Pokémon GO Wild Area 2026: All Weekend (Ticket)
+
+RESOURCE ID: gowa_2026_cdmx
+TEXT: Pokémon GO Wild Area 2026: Mexico City
+
+RESOURCE ID: gowa_2026_cdmx_extended_bonus
+TEXT: Pokémon GO Wild Area 2026: Mexico City – Extended Bonuses
+
+RESOURCE ID: gowa_2026_content_hashtag
+TEXT: Post photos with #GOWildArea2026, and we’ll share our favorites!
+
+RESOURCE ID: gowa_2026_dragon_badge_candy_xl_bonus
+TEXT: One additional Candy XL from catching Dragon-type mighty Pokémon
+
+RESOURCE ID: gowa_2026_dragon_badge_stardust_bonus
+TEXT: 1,000 additional Stardust from catching Dragon-type mighty Pokémon
+
+RESOURCE ID: gowa_2026_fri_ticketed
+TEXT: Pokémon GO Wild Area 2026: All-Day Friday (Ticket)
+
+RESOURCE ID: gowa_2026_global_extended_bonus
+TEXT: Pokémon GO Wild Area 2026 – Extended Bonuses
+
+RESOURCE ID: gowa_2026_habitat_cc_description
+TEXT: Catch event Pokémon!
+
+RESOURCE ID: gowa_2026_habitat_global_cc_saturday
+TEXT: Wild Area Collection Challenge: Saturday
+
+RESOURCE ID: gowa_2026_habitat_global_cc_sunday
+TEXT: Wild Area Collection Challenge: Sunday
+
+RESOURCE ID: gowa_2026_habitat_now_dragon
+TEXT: Happening now: Solid as Steel Hour
+
+RESOURCE ID: gowa_2026_habitat_now_steel
+TEXT: Happening now: Daring as Dragons Hour
+
+RESOURCE ID: gowa_2026_irl_cc_cdmx_friday
+TEXT: GO Wild Area: Mexico City Collection Challenge
+
+RESOURCE ID: gowa_2026_irl_cc_cdmx_saturday
+TEXT: GO Wild Area: Mexico City Collection Challenge
+
+RESOURCE ID: gowa_2026_irl_cc_cdmx_sunday
+TEXT: GO Wild Area: Mexico City Collection Challenge
+
+RESOURCE ID: gowa_2026_irl_cc_sendai_friday
+TEXT: GO Wild Area: Sendai・Tohoku Collection Challenge
+
+RESOURCE ID: gowa_2026_irl_cc_sendai_saturday
+TEXT: GO Wild Area: Sendai・Tohoku Collection Challenge
+
+RESOURCE ID: gowa_2026_irl_cc_sendai_sunday
+TEXT: GO Wild Area: Sendai・Tohoku Collection Challenge
+
+RESOURCE ID: gowa_2026_sat
+TEXT: Pokémon GO Wild Area 2026: Saturday Event Hours
+
+RESOURCE ID: gowa_2026_sat_ticketed
+TEXT: Pokémon GO Wild Area 2026: Saturday Event Hours (Ticket)
+
+RESOURCE ID: gowa_2026_sendai
+TEXT: Pokémon GO Wild Area 2026: Sendai・Tohoku
+
+RESOURCE ID: gowa_2026_sendai_extended_bonus
+TEXT: Pokémon GO Wild Area 2026: Sendai・Tohoku – Extended Bonuses
+
+RESOURCE ID: gowa_2026_steel_badge_candy_xl_bonus
+TEXT: One additional Candy XL from catching Steel-type mighty Pokémon
+
+RESOURCE ID: gowa_2026_steel_badge_stardust_bonus
+TEXT: 1,000 additional Stardust from catching Steel-type mighty Pokémon
+
+RESOURCE ID: gowa_2026_sun
+TEXT: Pokémon GO Wild Area 2026: Sunday Event Hours
+
+RESOURCE ID: gowa_2026_sun_ticketed
+TEXT: Pokémon GO Wild Area 2026: Sunday Event Hours (Ticket)
+
 RESOURCE ID: gowa2024
 TEXT: Pokémon GO Vahşi Bölgesi 2024
 
@@ -49923,6 +50276,9 @@ TEXT: Ödül Yolu
 RESOURCE ID: iap_category_team_change
 TEXT: Takım Değişikliği
 
+RESOURCE ID: iap_friend_picker_last_sent
+TEXT: Last Sent
+
 RESOURCE ID: iap_item_unavailable
 TEXT: Bu eşya artık satın alınamaz.
 
@@ -50888,6 +51244,9 @@ TEXT: Moltres Karşılaşması
 RESOURCE ID: item_amer2026_milestone_name
 TEXT: Spark aksesuarlı Elekid
 
+RESOURCE ID: item_bag_bonus
+TEXT: bonus
+
 RESOURCE ID: item_bag_deployed
 TEXT: This item can’t be used on a Pokémon placed at a Power Spot or defending a Gym.
 
@@ -50902,6 +51261,9 @@ TEXT: Boosts
 
 RESOURCE ID: item_bag_category_evolution
 TEXT: Evolutions
+
+RESOURCE ID: item_bag_category_featured
+TEXT: Featured
 
 RESOURCE ID: item_bag_category_gifts
 TEXT: Hediyeler
@@ -52903,6 +53265,9 @@ TEXT: 1 saat kaldı
 RESOURCE ID: item_expire_timer_minutes_seconds_left
 TEXT: {0} kaldı
 
+RESOURCE ID: item_fall_marathon_2026_milestone_name
+TEXT: Bramblin Karşılaşması
+
 RESOURCE ID: item_flying_taxi_milestone_name
 TEXT: Süper Roket Radarı
 
@@ -53190,6 +53555,12 @@ TEXT: Siz keşif yaparken çatlamaya hazır olana kadar yumurtayı kuluçkaya ya
 
 RESOURCE ID: item_incubator_timed_name
 TEXT: Süreli Kuluçka Makinesi
+
+RESOURCE ID: item_inventory_paid_gift_banner_title
+TEXT: You have paid gifts
+
+RESOURCE ID: item_inventory_paid_gift_banner_subtitle
+TEXT: Send to your Friends?
 
 RESOURCE ID: item_item_pack_desc
 TEXT: Eşya Çantasının boyutunu artırır.
@@ -54353,6 +54724,30 @@ TEXT: Mor Metafor Süreli Araştırması (2/3)
 RESOURCE ID: kr_ditto_event_2025_tr_name_3
 TEXT: Mor Metafor Süreli Araştırması (3/3)
 
+RESOURCE ID: kr_fcseoul_collab_2026_title
+TEXT: FC Seoul Event 2026
+
+RESOURCE ID: kr_fcseoul_collab_2026_bonus_raid_lc_desc
+TEXT: During event hours on October 24, Charmander caught from raids around the Seoul World Cup Stadium event area may have an exclusive Location Background
+
+RESOURCE ID: kr_fcseoul_collab_2026_bonus_tr_lc_desc
+TEXT: Charizard encountered from event Timed Research will have an exclusive Location Background
+
+RESOURCE ID: kr_fcseoul_collab_2026_bonus_wild_pokemon
+TEXT: Catch Fire-type Pokémon around the Seoul World Cup Stadium event area—let’s fire it up for FC Seoul!
+
+RESOURCE ID: kr_fcseoul_collab_2026_tr_name
+TEXT: FC Seoul Event 2026 Timed Research
+
+RESOURCE ID: kr_fcseoul_collab_2026_tr_name_1
+TEXT: FC Seoul Event 2026 Timed Research (1/3)
+
+RESOURCE ID: kr_fcseoul_collab_2026_tr_name_2
+TEXT: FC Seoul Event 2026 Timed Research (2/3)
+
+RESOURCE ID: kr_fcseoul_collab_2026_tr_name_3
+TEXT: FC Seoul Event 2026 Timed Research (3/3)
+
 RESOURCE ID: kr_festival_fr_location_background
 TEXT: Alan araştırması görevlerinden yakalanan Deerling’ler ve kostümlü Pikachu’lar ayrıcalıklı bir konum arka planına sahip olabilir
 
@@ -54429,13 +54824,13 @@ RESOURCE ID: kr_hanbok_pikachu_picnic_2026_tr_name_3
 TEXT: Pikachu’nun Kore’deki Günübirlik Gezisi 2026 Süreli Araştırması (3/3)
 
 RESOURCE ID: kr_hangul_day_2026_title
-TEXT: Hangul Day 2026
+TEXT: Hangul Günü 2026
 
 RESOURCE ID: kr_hangul_day_2026_bonus_desc
-TEXT: Celebrate Hangul Day with event-themed Pokémon appearing in the wild! Use Incense or Lure Modules to encounter special Pokémon.
+TEXT: Hangul Gününü doğada ortaya çıkan etkinlik temalı Pokémon’larla kutlayın! Özel Pokémon’larla karşılaşmak için Tütsü veya Yem Modülü kullanın.
 
 RESOURCE ID: kr_hangul_day_sep2026_cc_title
-TEXT: Hangul Day 2026 Collection Challenge
+TEXT: Hangul Günü 2026 Toplama Görevi
 
 RESOURCE ID: kr_lantern_festival_2025_massive_bonus_title
 TEXT: Magikarp Zamanı geldi!
@@ -58176,6 +58571,9 @@ TEXT: Karşılaşma: Zekrom, 2025
 RESOURCE ID: __male_speaker
 TEXT: Rakibinizin Pokémon'larının zayıf olduğu saldırıları kullanın!
 
+RESOURCE ID: manage_gifts_header
+TEXT: Manage Gifts
+
 RESOURCE ID: manage_items_button
 TEXT: Eşyaları Yönet
 
@@ -59895,10 +60293,10 @@ at SHA 413df5befdbe0d00a543f8a142221526d63b719a
 Pipeline 834428, job 8736424
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-09-17T05:05:53.880793+00:00 for tr-TR
-at SHA 37a1529ab2c
-Pipeline 3950659, job 58169809
-Patch from: 0.431.0-SHA-8123c737-RC1, 0.427.0-SHA-fc729f25-RC2, 0.429.0-SHA-d6c796f0-RC1, 0.427.1-SHA-4a569ba7-RC1
+TEXT: Built at 2026-09-24T01:18:40.315486+00:00 for tr-TR
+at SHA 6210d7033b5
+Pipeline 3966222, job 58390716
+Patch from: 0.429.1-SHA-5521c4dc-RC1, 0.431.0-SHA-76e2198b-RC4
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: Süreli Araştırma: Dövüşçünüzü Seçin
@@ -65727,6 +66125,21 @@ TEXT: Ozona Yükseliş
 RESOURCE ID: ozone_ascent_free_timed_research
 TEXT: Ozona Yükseliş Süreli Araştırması
 
+RESOURCE ID: paid_gift_already_purchased_modal_title
+TEXT: You have already purchased this paid gift.
+
+RESOURCE ID: paid_gift_already_purchased_modal_button
+TEXT: GO TO INVENTORY
+
+RESOURCE ID: paid_gift_already_purchased_modal_message
+TEXT: Please check your inventory to send your paid gift.
+
+RESOURCE ID: paid_gift_regift_no_longer_available_modal_title
+TEXT: Gifting Error
+
+RESOURCE ID: paid_gift_regift_no_longer_available_modal_message
+TEXT: This item is no longer available and cannot be gifted.
+
 RESOURCE ID: paid_pikachu_gmax_tr_mar26
 TEXT: Gigantamaks Pikachu Premium Süreli Araştırması
 
@@ -65838,6 +66251,21 @@ TEXT: Limited Partner Research : Amazon Prime Gaming (1/2)
 
 RESOURCE ID: partner_research_ltd_amazon_gaming_01
 TEXT: Limited Partner Research : Amazon Prime Gaming (2/2)
+
+RESOURCE ID: partnership_gengar_2026_event_title
+TEXT: Pokémon Kart Oyunu 30. Yıl Kutlama Etkinliği
+
+RESOURCE ID: partnership_gengar_2026_tr_title
+TEXT: Pokémon Kart Oyunu 30. Yıl Kutlama Etkinliği Bonus Süreli Araştırması
+
+RESOURCE ID: partnership_gengar_2026_tr_desc_00
+TEXT: Pokémon Kart Oyunu 30. Yıl Kutlama Etkinliği Bonus Süreli Araştırması (1/3)
+
+RESOURCE ID: partnership_gengar_2026_tr_desc_01
+TEXT: Pokémon Kart Oyunu 30. Yıl Kutlama Etkinliği Bonus Süreli Araştırması (2/3)
+
+RESOURCE ID: partnership_gengar_2026_tr_desc_02
+TEXT: Pokémon Kart Oyunu 30. Yıl Kutlama Etkinliği Bonus Süreli Araştırması (3/3)
 
 RESOURCE ID: partnership_latam_soccer_collab_event_title
 TEXT: Pokémon GOooool
@@ -66676,6 +67104,18 @@ TEXT: Toplama etkinliğini duraklattığınızda dahi arkadaşlarınızdan damga
 
 RESOURCE ID: pause_dialog_subtitle
 TEXT: Duraklatırsanız bu toplama etkinliğinde için damga toplamayı durduracaksınız. Damga toplamaya dilediğiniz zaman toplama sayfasından devam edebilirsiniz.
+
+RESOURCE ID: pause_gift_list_title
+TEXT: Pause Gifts List
+
+RESOURCE ID: pause_gift_list_prompt_title
+TEXT: Pause Gifting?
+
+RESOURCE ID: pause_gift_list_prompt_desc
+TEXT: The following Friend will be unable to send you paid gifts. You can enable them to send again at any point.
+
+RESOURCE ID: pause_gift_list_prompt_button_label
+TEXT: YES, PAUSE
 
 RESOURCE ID: pause_route_travel_error_toast
 TEXT: Error pausing Route
@@ -76357,6 +76797,15 @@ TEXT: Parlak Pokémon’ları seçemezsiniz.
 RESOURCE ID: pokemon_info_multi_transfer_ultra_beast_pokemon_error
 TEXT: Ultra Yaratıkları seçemezsiniz.
 
+RESOURCE ID: pokemon_info_no_evolve_pokemon
+TEXT: No Pokémon can use this item to evolve.
+
+RESOURCE ID: pokemon_info_no_fainted_pokemon
+TEXT: No Pokémon need to be revived.
+
+RESOURCE ID: pokemon_info_no_hurt_pokemon
+TEXT: All Pokémon are fully healed.
+
 RESOURCE ID: pokemon_info_no_stats_available
 TEXT: Bu Pokémon’un diğer istatistikleri eğitilemez.
 
@@ -80856,6 +81305,65 @@ TEXT: Lüks
 RESOURCE ID: premium_rewards
 TEXT: PREMİUM ÖDÜLLER
 
+RESOURCE ID: premium_gift_sent
+TEXT: You sent a paid gift to {0}
+
+RESOURCE ID: premium_gift_ftue_title
+TEXT: Introducing More Gifting Options in the Shop
+
+RESOURCE ID: premium_gift_ftue_desc
+TEXT: You can now send and receive more types of gifts through the Shop!
+
+Do you want to opt in? You can change this at any point in Settings.
+
+RESOURCE ID: premium_gift_notification_event_pass_title
+TEXT: GO Pass
+
+RESOURCE ID: premium_gift_notification_event_pass_desc
+TEXT: Greetings, <b>{0}</b>! Here’s an GO Pass for you. Let’s see who can complete it and get all the rewards!
+
+Sincerely,
+—<b>{1}</b>
+
+RESOURCE ID: premium_gift_notification_items_title
+TEXT: Gift For You
+
+RESOURCE ID: premium_gift_notification_multiple_trainers_desc
+TEXT: Greetings, <b>{0}</b>!
+
+Your Friends sent some gifts for you!
+
+
+RESOURCE ID: premium_gift_notification_one_trainer_multiple_items_desc
+TEXT: Greetings, <b>{0}</b>!
+
+Here are gifts for you!
+{2}
+
+Sincerely,
+—<b>{1}</b>
+
+RESOURCE ID: premium_gift_notification_one_trainer_one_item_desc
+TEXT: Greetings, <b>{0}</b>!
+
+Here’s a gift for you!
+{2}
+
+Sincerely,
+—<b>{1}</b>
+
+RESOURCE ID: premium_gift_received_event_pass
+TEXT: {0} gifted you an GO Pass!
+
+RESOURCE ID: premium_gift_received_event_ticket
+TEXT: {0} gifted you a ticket for an event!
+
+RESOURCE ID: premium_gift_received_item_multi
+TEXT: {0} gifted you a {1} and more!
+
+RESOURCE ID: premium_gift_received_item_single
+TEXT: {0} gifted you a {1}!
+
 RESOURCE ID: primal_revert
 TEXT: Kadim Dönüşüm
 
@@ -82172,6 +82680,9 @@ TEXT: Bir Karanlık tür dostla {0} kalp kazanın
 RESOURCE ID: quest_buddy_affection_days_in_a_row
 TEXT: {0} gün arka arkaya dostunuzla bir kalp kazanın
 
+RESOURCE ID: quest_buddy_affection_dragon_plural
+TEXT: Earn {0} hearts with a Dragon-type buddy
+
 RESOURCE ID: quest_buddy_affection_electric_plural
 TEXT: Bir Elektrik türü dostla {0} kalp kazanın
 
@@ -82186,6 +82697,9 @@ TEXT: Bir Zehir türü dostla {0} kalp kazanın
 
 RESOURCE ID: quest_buddy_affection_poison_singular
 TEXT: Bir Zehir türü dostla bir kalp kazanın
+
+RESOURCE ID: quest_buddy_affection_steel_plural
+TEXT: Earn {0} hearts with a Steel-type buddy
 
 RESOURCE ID: quest_buddy_affection_zeraora_plural
 TEXT: Zeraora dostunuzken {0} kalp kazanın
@@ -85580,6 +86094,9 @@ TEXT: Carbink dostunuzken keşfe çıkarak bir şeker kazanın
 RESOURCE ID: quest_explore_buddy_dark
 TEXT: Bir Karanlık tür dostunuzken keşfe çıkarak bir şeker kazanın
 
+RESOURCE ID: quest_explore_buddy_dragon
+TEXT: Earn a Candy exploring with a Dragon-type as your buddy
+
 RESOURCE ID: quest_explore_buddy_electric
 TEXT: Bir Elektrik türü dostunuzken keşfe çıkarak bir şeker kazanın
 
@@ -85591,6 +86108,9 @@ TEXT: Dostunuzla mesafe katederek {0} Şeker kazanın
 
 RESOURCE ID: quest_explore_buddy_poison
 TEXT: Bir Elektrik türü dostunuzken keşfe çıkarak bir şeker kazanın
+
+RESOURCE ID: quest_explore_buddy_steel
+TEXT: Earn a Candy exploring with a Steel-type as your buddy
 
 RESOURCE ID: quest_explore_buddy_routes_plural
 TEXT: Dostunuzla rota keşfederken {0} şeker kazanın
@@ -108819,6 +109339,9 @@ TEXT: {0}
 RESOURCE ID: recycle_dialog_suffix
 TEXT: atılsın mı?
 
+RESOURCE ID: recycle_discard_all
+TEXT: YES, DISCARD ALL
+
 RESOURCE ID: reduced_buddy_candy_distance_routes
 TEXT: Dostunuzla rota keşfederken dost şekeri kazanmak için daha kısa mesafe
 
@@ -114481,6 +115004,9 @@ TEXT: GO Bileti: Spark’ın Yetiştiricilik Arayışı
 RESOURCE ID: season_pass_base_track_title_emea_2026
 TEXT: GO Bileti: Candela’nın Zafer Arayışı
 
+RESOURCE ID: season_pass_base_track_title_fall_marathon_2026
+TEXT: GO Bileti: Sonbahar Maratonu
+
 RESOURCE ID: season_pass_base_track_title_flying_taxi_2026
 TEXT: GO Bileti: Uçan Taksi
 
@@ -114488,7 +115014,7 @@ RESOURCE ID: season_pass_base_track_title_halloween_2025
 TEXT: GO Bileti: Cadılar Bayramı 2025
 
 RESOURCE ID: season_pass_base_track_title_harvest_festival_2026
-TEXT: GO Pass: Harvest Festival
+TEXT: GO Bileti: Hasat Festivali
 
 RESOURCE ID: season_pass_base_track_title_horizons_fall_2026
 TEXT: GO Bileti: İşbirliği Kutlama Etkinliği
@@ -114648,6 +115174,9 @@ TEXT: Ayrıntıları <a href="https://pokemongo.com/news/ultraunlock-10th-annive
 RESOURCE ID: season_pass_details_link_amer_2026
 TEXT: Ayrıntıları <a href="https://pokemongo.com/news/global-events-gofest2026-overlays">internet sitemizden</a> öğrenebilirsiniz.
 
+RESOURCE ID: season_pass_details_link_fall_marathon_2026
+TEXT: Ayrıntıları <a href="https://pokemongo.com/news/fall-marathon-buddy-trek-2026">internet sitemizden</a> öğrenebilirsiniz.
+
 RESOURCE ID: season_pass_details_link_flying_taxi_2026
 TEXT: Ayrıntıları <a href="https://pokemongo.com/news/flying-taxi-2026">internet sitemizden</a> öğrenebilirsiniz.
 
@@ -114655,7 +115184,7 @@ RESOURCE ID: season_pass_details_link_halloween_2025
 TEXT: Ayrıntıları <a href="https://pokemongo.com/news/go-pass-halloween-2025">internet sitemizden</a> öğrenebilirsiniz.
 
 RESOURCE ID: season_pass_details_link_harvest_festival_2026
-TEXT: For more details, visit the <a href="https://pokemongo.com/news/harvest-festival-2026">website</a>.
+TEXT: Ayrıntıları <a href="https://pokemongo.com/news/harvest-festival-2026">internet sitemizden</a> öğrenebilirsiniz.
 
 RESOURCE ID: season_pass_details_link_horizons_fall_2026
 TEXT: Ayrıntıları <a href="https://pokemongo.com/news/pokemon-horizons-celebration-event-2026">internet sitemizden</a> öğrenebilirsiniz.
@@ -114680,6 +115209,17 @@ TEXT: Ayrıntıları <a href="https://pokemongo.com/news/world-championships-eve
 
 RESOURCE ID: season_pass_details_link_winter_holidays_2025
 TEXT: Ayrıntıları <a href="https://pokemongo.com/news/go-pass-winter_holidays-2025">internet sitemizden</a> öğrenebilirsiniz.
+
+RESOURCE ID: season_pass_fall_marathon_2026_track_upgrade_header_description
+TEXT: Ek ödüller kazanın ve 30. rütbede <b>Bramblin ile bir karşılaşmanın</b> kilidini açın!
+
+RESOURCE ID: season_pass_fall_marathon_2026_upgrade_description
+TEXT: Lüks GO Bileti: Sonbahar Maratonu’nu satın alarak şu ödüllerin kilidini açabilirsiniz!
+
+• Manectric mega enerjisi
+• Etkinlik temalı Pokémon’larla karşılaşmalar
+• Nadir Büyük Şeker
+• Ve dahası!
 
 RESOURCE ID: season_pass_february2026_event_duration
 TEXT: 3 Şubat - 3 Mart
@@ -114722,17 +115262,17 @@ TEXT: Lüks GO Bileti: Cadılar Bayramı 2025’i satın alarak şu ödüllerin 
 • Ve dahası!
 
 RESOURCE ID: season_pass_harvest_festival_2026_event_duration
-TEXT: September 29 – October 5
+TEXT: 29 Eylül-5 Ekim
 
 RESOURCE ID: season_pass_harvest_festival_2026_track_upgrade_header_description
-TEXT: Earn additional rewards and unlock a <b>Super Rocket Radar</b> at Rank 1!
+TEXT: 1. rütbede ilave ödüller kazanıp <b>Süper Roket Radarının</b> kilidini açabilirsiniz!
 
 RESOURCE ID: season_pass_harvest_festival_2026_upgrade_description
-TEXT: Purchase GO Pass Deluxe: Harvest Festival to unlock the following rewards!
+TEXT: Lüks GO Bileti: Hasat Festivali’ni satın alarak şu ödüllerin kilidini açabilirsiniz!
 
-• Encounters with Cottonee, Skiddo, Applin, and more!
-• 3 Mossy Lure Modules
-• And much more!
+• Cottonee, Skiddo, Applin ve dahasıyla karşılaşmalar!
+• 3 Yosunlu Yem Modülü
+• Ve dahası!
 
 RESOURCE ID: season_pass_horizons_fall_2026_event_duration
 TEXT: 16-22 Eylül
@@ -114929,11 +115469,14 @@ TEXT: Lüks GO Bileti: Spark’ın Yetiştiricilik Arayışı + 6 Rütbe
 RESOURCE ID: season_pass_premium_track_plus_six_ranks_title_emea_2026
 TEXT: Lüks GO Bileti: Candela’nın Zafer Arayışı + 6 Rütbe
 
+RESOURCE ID: season_pass_premium_track_plus_six_ranks_title_fall_marathon_2026
+TEXT: Lüks GO Bileti: Sonbahar Maratonu + 6 Rütbe
+
 RESOURCE ID: season_pass_premium_track_plus_six_ranks_title_flying_taxi_2026
 TEXT: Lüks GO Bileti: Uçan Taksi + 6 Rütbe
 
 RESOURCE ID: season_pass_premium_track_plus_six_ranks_title_harvest_festival_2026
-TEXT: GO Pass Deluxe: Harvest Festival + 6 Ranks
+TEXT: Lüks GO Bileti: Hasat Festivali + 6 Rütbe
 
 RESOURCE ID: season_pass_premium_track_plus_six_ranks_title_horizons_fall_2026
 TEXT: Lüks GO Bileti: İşbirliği Kutlama Etkinliği + 6 Rütbe
@@ -115067,6 +115610,9 @@ TEXT: Lüks GO Bileti: Spark’ın Yetiştiricilik Arayışı
 RESOURCE ID: season_pass_premium_track_title_emea_2026
 TEXT: Lüks GO Bileti: Candela’nın Zafer Arayışı
 
+RESOURCE ID: season_pass_premium_track_title_fall_marathon_2026
+TEXT: Lüks GO Bileti: Sonbahar Maratonu
+
 RESOURCE ID: season_pass_premium_track_title_flying_taxi_2026
 TEXT: Lüks GO Bileti: Uçan Taksi
 
@@ -115074,7 +115620,7 @@ RESOURCE ID: season_pass_premium_track_title_halloween_2025
 TEXT: Lüks GO Bileti: Cadılar Bayramı 2025
 
 RESOURCE ID: season_pass_premium_track_title_harvest_festival_2026
-TEXT: GO Pass Deluxe: Harvest Festival
+TEXT: Lüks GO Bileti: Hasat Festivali
 
 RESOURCE ID: season_pass_premium_track_title_horizons_fall_2026
 TEXT: Lüks GO Bileti: İşbirliği Kutlama Etkinliği
@@ -115542,6 +116088,18 @@ TEXT: Arkadaşlarınızın Şanslı Süs Eşyası Göndermesine İzin Verin
 RESOURCE ID: settings_allow_paid_gifts
 TEXT: Arkadaşlarınızın size ücretli hediye gönderebilmesine izin verin
 
+RESOURCE ID: settings_allow_paid_gifts_desc_off
+TEXT: Turning off this feature will pause Friends to send you paid gifts. This does not include free gifts.
+
+RESOURCE ID: settings_allow_paid_gifts_desc_on
+TEXT: Turning on this feature will allow Friends to send you paid gifts. You can pause specific Friends from sending you paid gifts in the Paused Friends List once turned on.
+
+RESOURCE ID: settings_allow_paid_gifts_title_off
+TEXT: Turn Off Paid Gifts from Friends?
+
+RESOURCE ID: settings_allow_paid_gifts_title_on
+TEXT: Turn On Paid Gifts from Friends?
+
 RESOURCE ID: settings_allow_raid_and_max_battle_friend_requests
 TEXT: Akın ve Maksi Maç Üyeleri
 
@@ -115769,6 +116327,12 @@ TEXT: Haritada diğer Eğitmenleri görebilmek için konumunuzu paylaşın.
 
 RESOURCE ID: settings_party_play_map_avatars
 TEXT: Haritada Diğer Eğitmenleri Görün
+
+RESOURCE ID: settings_pause_gifts_list
+TEXT: Pause Gifts List
+
+RESOURCE ID: settings_pause_gifts_list_tip
+TEXT: Selected Friends will not be able to send you paid gifts. This does not include free gifts.
 
 RESOURCE ID: settings_pbp_check_other_menu
 TEXT: Halihazırda eşleştirilmiş cihazınıza erişmek için lütfen Ayarlar menüsünden Pokémon GO Plus ekranına gidin.
@@ -116093,7 +116657,7 @@ RESOURCE ID: settings_wearables_device_status_unpaired
 TEXT: Not Paired
 
 RESOURCE ID: settings_wearables_device_troubleshooting_url
-TEXT: https://scopelyexplore.helpshift.com/hc/faq/1337-pairing-and-connecting-pokemon-go-to-official-devices/
+TEXT: https://scopelyexplore.helpshift.com/hc/tr/5-pokemon-go/faq/1337-pairing-and-connecting-pokemon-go-to-official-devices/
 
 RESOURCE ID: settings_wearables_empty_device_list
 TEXT: No Devices Found
@@ -116479,6 +117043,9 @@ TEXT: ÇIKARTMALAR
 RESOURCE ID: shop_already_own_this_ticket
 TEXT: Bu etkinlik için halihazırda biletiniz var.
 
+RESOURCE ID: shop_already_unlocked_premium_event_pass
+TEXT: You’ve already unlocked this GO Pass Deluxe
+
 RESOURCE ID: shop_battle_tickets_title
 TEXT: Premium Maç Biletiniz kalmadı!
 
@@ -116606,6 +117173,9 @@ TEXT: {0} tamamen geliştirildi! Seviye atlayarak depo kapasitenizi daha da geli
 
 <a href="https://scopelyexplore.helpshift.com/hc/faq/1235-available-items-your-bag/">Seviye atlama hakkındaki ayrıntıları buradan öğrenebilirsiniz.</a>
 
+RESOURCE ID: shop_gift_confirm_purchase_warning_description
+TEXT: You can send <b>{0}</b> total paid gifts today. This gift cannot be used by another player or refunded.
+
 RESOURCE ID: shop_gift_friend_ineligible_title
 TEXT: Hediye Gönderilemiyor
 
@@ -116614,6 +117184,16 @@ TEXT: Bazı arkadaşlarınız şu sebeplerden dolayı ücretli hediye kabul edem
 • Hediye ettiğiniz bilete halihazırda sahipler.
 • Başka biri onlara bilet göndermiş.
 • Bu arkadaşa hediye göndermek için gereken minimum arkadaşlık seviyesinin altındasınız.
+
+RESOURCE ID: shop_gift_friend_ineligible_description_temp
+TEXT: You may not be able to send paid gifts—including items, tickets, and event passes—to some friends. This can happen for the following reasons:
+
+ • They already own the ticket or event pass, or have already received it from someone else
+ • For tickets, they may have active or completed research that prevents them from receiving it
+ • Your friendship level is too low
+ • They have disabled paid gifts
+ • Their account is not eligible due to restrictions
+ • Cross-currency gifting is not supported
 
 RESOURCE ID: shop_gift_invitation_title
 TEXT: DAVETİYE
@@ -116670,6 +117250,9 @@ RESOURCE ID: shop_gift_purchase_invitation_sent_description
 TEXT: Hediyeniz şu oyuncuya gönderildi: {0}
 
 Etkinlik sona ermeden hediyeyi açabilmesi için ona haber verin.
+
+RESOURCE ID: shop_gift_purchase_invitation_sent_generic_description
+TEXT: Your gift has been sent to {0}.
 
 RESOURCE ID: shop_gift_purchase_select_friend
 TEXT: Bir Arkadaş Seç
@@ -121336,6 +121919,12 @@ TEXT: Yakalanma Durumu
 
 RESOURCE ID: steel_and_scales_event_name
 TEXT: Ultra Kilit Açma: Çelik ve Pul
+
+RESOURCE ID: steel_poi_spin_plural
+TEXT: Spin {0} Steel type-themed PokéStops
+
+RESOURCE ID: steel_poi_spin_singular
+TEXT: Spin a Steel type-themed PokéStop
 
 RESOURCE ID: steel_scales_uu_july2025_cc_bagon
 TEXT: Çelik ve Pul Toplama Görevi: Bagon
@@ -133503,6 +134092,12 @@ TEXT: Mucize Bileti 3. Kısım (3/3)
 
 RESOURCE ID: world_tourism_day
 TEXT: Dünya Turizm Günü
+
+RESOURCE ID: wsw_2026_tr_title
+TEXT: Dünya Uzay Haftası 2026 Süreli Araştırması
+
+RESOURCE ID: wsw2026_event_name
+TEXT: Dünya Uzay Haftası 2026
 
 RESOURCE ID: wte_2019_friend_medium
 TEXT: Dünya Turizm Günü: Yeni bir arkadaş ediniin

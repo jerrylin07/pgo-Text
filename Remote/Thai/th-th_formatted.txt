@@ -61,6 +61,9 @@ TEXT: โซรัวจะปรากฏตัวจำนวนมากใ�
 RESOURCE ID: 5_special_trades_total
 TEXT: แลกเปลี่ยนแบบพิเศษได้ 5 ครั้งต่อวัน
 
+RESOURCE ID: 5x_mega_energy_electrike_manectric_buddy
+TEXT: 5× พลังงานเมก้าเมื่อสำรวจโดยมีราคุไรหรือไลโวลต์เป็นคู่หู หลังจากวิวัฒนาการเมก้าไลโวลต์อย่างน้อย 1 ครั้ง
+
 RESOURCE ID: 9th_anniversary_event_name
 TEXT: ปาร์ตี้ครบรอบ 9 ปี
 
@@ -1027,6 +1030,15 @@ TEXT: Pikachu’s Indonesia Journey: ยอกยาการ์ตา (4/5)
 
 RESOURCE ID: air_adventures_yogyakarta_sr_title_04
 TEXT: Pikachu’s Indonesia Journey: ยอกยาการ์ตา (5/5)
+
+RESOURCE ID: allow_gift_list_prompt_title
+TEXT: Allow Gifting?
+
+RESOURCE ID: allow_gift_list_prompt_desc
+TEXT: After unpausing the following friend will be able to send you paid gifts again.
+
+RESOURCE ID: allow_gift_list_prompt_button_label
+TEXT: YES, ALLOW
 
 RESOURCE ID: allow_notifications_prompt_message
 TEXT: อนุญาตให้ Pokémon GO เข้าถึงการแจ้งเตือนเพื่อพัฒนาประสบการณ์เล่นเกมของคุณ
@@ -12695,6 +12707,90 @@ TEXT: ผู้ชำนาญด้านความมืด
 RESOURCE ID: badge_gowa_2025_special_research_b_title
 TEXT: ผู้คลั่งไคล้ด้านแฟรี่
 
+RESOURCE ID: badge_gowa_2026_cdmx_addon_battle_title
+TEXT: GO Wild Area 2026 – Mexico City: Battle Ready
+
+RESOURCE ID: badge_gowa_2026_cdmx_addon_friday_title
+TEXT: GO Wild Area 2026 – Mexico City: Extra Day (Friday)
+
+RESOURCE ID: badge_gowa_2026_cdmx_addon_hatch_title
+TEXT: GO Wild Area 2026 – Mexico City: Egg–thusiast
+
+RESOURCE ID: badge_gowa_2026_cdmx_addon_saturday_title
+TEXT: GO Wild Area 2026 – Mexico City: Extra Day (Saturday)
+
+RESOURCE ID: badge_gowa_2026_cdmx_addon_sunday_title
+TEXT: GO Wild Area 2026 – Mexico City: Extra Day (Sunday)
+
+RESOURCE ID: badge_gowa_2026_cdmx_friday_title
+TEXT: GO Wild Area 2026 – Mexico City: Friday
+
+RESOURCE ID: badge_gowa_2026_cdmx_saturday_title
+TEXT: GO Wild Area 2026 – Mexico City: Saturday
+
+RESOURCE ID: badge_gowa_2026_cdmx_sunday_title
+TEXT: GO Wild Area 2026 – Mexico City: Sunday
+
+RESOURCE ID: badge_gowa_2026_cdmx_test_addon_battle_title
+TEXT: GO Wild Area 2026 – Mexico City: Battle Ready (Test)
+
+RESOURCE ID: badge_gowa_2026_cdmx_test_addon_extra_day_title
+TEXT: GO Wild Area 2026 – Mexico City: Extra Day (Test)
+
+RESOURCE ID: badge_gowa_2026_cdmx_test_addon_hatch_title
+TEXT: GO Wild Area 2026 – Mexico City: Egg-thusiast (Test)
+
+RESOURCE ID: badge_gowa_2026_cdmx_test_title
+TEXT: GO Wild Area 2026 – Mexico City (Test)
+
+RESOURCE ID: badge_gowa_2026_global_test_title
+TEXT: GO Wild Area 2026 (Test)
+
+RESOURCE ID: badge_gowa_2026_global_title
+TEXT: GO Wild Area 2026
+
+RESOURCE ID: badge_gowa_2026_sendai_addon_battle_title
+TEXT: GO Wild Area 2026 – Sendai・Tohoku: Battle Ready
+
+RESOURCE ID: badge_gowa_2026_sendai_addon_friday_title
+TEXT: GO Wild Area 2026 – Sendai・Tohoku: Extra Day (Friday)
+
+RESOURCE ID: badge_gowa_2026_sendai_addon_hatch_title
+TEXT: GO Wild Area 2026 – Sendai・Tohoku: Egg–thusiast
+
+RESOURCE ID: badge_gowa_2026_sendai_addon_saturday_title
+TEXT: GO Wild Area 2026 – Sendai・Tohoku: Extra Day (Saturday)
+
+RESOURCE ID: badge_gowa_2026_sendai_addon_sunday_title
+TEXT: GO Wild Area 2026 – Sendai・Tohoku: Extra Day (Sunday)
+
+RESOURCE ID: badge_gowa_2026_sendai_friday_title
+TEXT: GO Wild Area 2026 – Sendai・Tohoku: Friday
+
+RESOURCE ID: badge_gowa_2026_sendai_saturday_title
+TEXT: GO Wild Area 2026 – Sendai・Tohoku: Saturday
+
+RESOURCE ID: badge_gowa_2026_sendai_sunday_title
+TEXT: GO Wild Area 2026 – Sendai・Tohoku: Sunday
+
+RESOURCE ID: badge_gowa_2026_sendai_test_addon_battle_title
+TEXT: GO Wild Area 2026 – Sendai・Tohoku: Battle Ready (Test)
+
+RESOURCE ID: badge_gowa_2026_sendai_test_addon_extra_day_title
+TEXT: GO Wild Area 2026 – Sendai・Tohoku: Extra Day (Test)
+
+RESOURCE ID: badge_gowa_2026_sendai_test_addon_hatch_title
+TEXT: GO Wild Area 2026 – Sendai・Tohoku: Egg-thusiast (Test)
+
+RESOURCE ID: badge_gowa_2026_sendai_test_title
+TEXT: GO Wild Area 2026 – Sendai・Tohoku (Test)
+
+RESOURCE ID: badge_gowa_2026_special_research_a_title
+TEXT: Steel Scholar
+
+RESOURCE ID: badge_gowa_2026_special_research_b_title
+TEXT: Dragon Defender
+
 RESOURCE ID: badge_gowa_electric
 TEXT: Pokémon GO ไวลด์แอเรีย 2024
 
@@ -12802,6 +12898,90 @@ TEXT: Pokémon GO ไวลด์แอเรีย 2025
 
 RESOURCE ID: badge_gowa_2025_special_research_b
 TEXT: Pokémon GO ไวลด์แอเรีย 2025
+
+RESOURCE ID: badge_gowa_2026_cdmx_addon_battle
+TEXT: Mexico City, November 6–8, 2026
+
+RESOURCE ID: badge_gowa_2026_cdmx_addon_friday
+TEXT: Mexico City, Friday, November 6, 2026, 10:00 a.m. – 6:00 p.m.
+
+RESOURCE ID: badge_gowa_2026_cdmx_addon_hatch
+TEXT: Mexico City, November 6–8, 2026
+
+RESOURCE ID: badge_gowa_2026_cdmx_addon_saturday
+TEXT: Mexico City, Saturday, November 7, 2026, 10:00 a.m. – 6:00 p.m.
+
+RESOURCE ID: badge_gowa_2026_cdmx_addon_sunday
+TEXT: Mexico City, Sunday, November 8, 2026, 10:00 a.m. – 6:00 p.m.
+
+RESOURCE ID: badge_gowa_2026_cdmx_friday
+TEXT: Mexico City, Friday, November 6, 2026, 10:00 a.m. – 6:00 p.m.
+
+RESOURCE ID: badge_gowa_2026_cdmx_saturday
+TEXT: Mexico City, Saturday, November 7, 2026, 10:00 a.m. – 6:00 p.m.
+
+RESOURCE ID: badge_gowa_2026_cdmx_sunday
+TEXT: Mexico City, Sunday, November 8, 2026, 10:00 a.m. – 6:00 p.m.
+
+RESOURCE ID: badge_gowa_2026_cdmx_test
+TEXT: Mexico City, November 6–8, 2026
+
+RESOURCE ID: badge_gowa_2026_cdmx_test_addon_battle
+TEXT: Mexico City, November 6–8, 2026
+
+RESOURCE ID: badge_gowa_2026_cdmx_test_addon_extra_day
+TEXT: Mexico City, November 6–8, 2026
+
+RESOURCE ID: badge_gowa_2026_cdmx_test_addon_hatch
+TEXT: Mexico City, November 6–8, 2026
+
+RESOURCE ID: badge_gowa_2026_global
+TEXT: November 14–15, 2026
+
+RESOURCE ID: badge_gowa_2026_global_test
+TEXT: November 14–15, 2026
+
+RESOURCE ID: badge_gowa_2026_sendai_addon_battle
+TEXT: Sendai・Tohoku, November 6–8, 2026
+
+RESOURCE ID: badge_gowa_2026_sendai_addon_friday
+TEXT: Sendai・Tohoku, Friday, November 6, 2026, 10:00 a.m. – 6:00 p.m.
+
+RESOURCE ID: badge_gowa_2026_sendai_addon_hatch
+TEXT: Sendai・Tohoku, November 6–8, 2026
+
+RESOURCE ID: badge_gowa_2026_sendai_addon_saturday
+TEXT: Sendai・Tohoku, Saturday, November 7, 2026, 10:00 a.m. – 6:00 p.m.
+
+RESOURCE ID: badge_gowa_2026_sendai_addon_sunday
+TEXT: Sendai・Tohoku, Sunday, November 8, 2026, 10:00 a.m. – 6:00 p.m.
+
+RESOURCE ID: badge_gowa_2026_sendai_friday
+TEXT: Sendai・Tohoku, Friday, November 6, 2026, 10:00 a.m. – 6:00 p.m.
+
+RESOURCE ID: badge_gowa_2026_sendai_saturday
+TEXT: Sendai・Tohoku, Saturday, November 7, 2026, 10:00 a.m. – 6:00 p.m.
+
+RESOURCE ID: badge_gowa_2026_sendai_sunday
+TEXT: Sendai・Tohoku, Sunday, November 8, 2026, 10:00 a.m. – 6:00 p.m.
+
+RESOURCE ID: badge_gowa_2026_sendai_test
+TEXT: Sendai・Tohoku, November 6–8, 2026
+
+RESOURCE ID: badge_gowa_2026_sendai_test_addon_battle
+TEXT: Sendai・Tohoku, November 6–8, 2026
+
+RESOURCE ID: badge_gowa_2026_sendai_test_addon_extra_day
+TEXT: Sendai・Tohoku, November 6–8, 2026
+
+RESOURCE ID: badge_gowa_2026_sendai_test_addon_hatch
+TEXT: Sendai・Tohoku, November 6–8, 2026
+
+RESOURCE ID: badge_gowa_2026_special_research_a
+TEXT: Pokémon GO Wild Area 2026
+
+RESOURCE ID: badge_gowa_2026_special_research_b
+TEXT: Pokémon GO Wild Area 2026
 
 RESOURCE ID: badge_gowa_electric_title
 TEXT: ผู้เชี่ยวชาญด้านไฟฟ้า
@@ -18589,6 +18769,9 @@ TEXT: 8× XP จากการจับ
 RESOURCE ID: bonus_10_daily_raid_passes
 TEXT: รับบัตรตีบอสฟรีสูงสุด 10 ใบด้วยการหมุนแผ่นภาพที่ยิม
 
+RESOURCE ID: bonus_10k_egg_rate
+TEXT: Increased chance of receiving event-themed 10 km Eggs from spinning PokéStops or Gyms
+
 RESOURCE ID: bonus_10k_eggs_increased
 TEXT: เพิ่มโอกาสได้รับไข่ 10 กม. จากการหมุนเสาโปเกสต็อปหรือยิมเป็นอย่างมาก
 
@@ -19104,6 +19287,9 @@ TEXT: พิคาชูสวมเสื้อยืดสีฟ้าลา�
 RESOURCE ID: bonus_farfetchd_kanto_spawn
 TEXT: คาโมเนกิกำลังปรากฏตัวจำนวนมากในพื้นที่!
 
+RESOURCE ID: bonus_fast_charged_tm_pois
+TEXT: อาจได้รับ TM ท่าเร็วหรือTM ท่าชาร์จจากการหมุนเสาโปเกสต็อปหรือยิม
+
 RESOURCE ID: bonus_feature_behemoth_blade_and_behemoth_bash_boost_max
 TEXT: เพิ่มความแรงของ "ดาบพิฆาตยักษ์" และ "โล่ทะลวงยักษ์" ระหว่างแบตเทิลแมกซ์
 
@@ -19539,8 +19725,14 @@ TEXT: เมก้าพเทอราปรากฏตัวในตีบ�
 RESOURCE ID: bonus_mega_cp_boost
 TEXT: เพิ่ม CP สำหรับโปเกมอนที่วิวัฒนาการเมก้าทั้งหมด
 
+RESOURCE ID: bonus_mega_duration_72hr
+TEXT: ระยะเวลาวิวัฒนาการเมก้า 72 ชั่วโมง
+
 RESOURCE ID: bonus_mega_energy_gible
 TEXT: รับ 300 พลังงานเมก้าของกาเบรียสได้โดยการทำคำท้านักสะสมฟุคามารุให้เสร็จสิ้น
+
+RESOURCE ID: bonus_mega_energy_catch_chance
+TEXT: อาจได้รับพลังงานเมก้าเมื่อจับโปเกมอนที่สามารถวิวัฒนาการเมก้าได้ที่ถูกดึงดูดด้วยอุปกรณ์ปล่อยลัวร์
 
 RESOURCE ID: bonus_mega_energy_spin_chance
 TEXT: โอกาสได้รับพลังงานเมก้าจากการหมุนเสาโปเกสต็อปหรือยิม
@@ -19658,6 +19850,9 @@ TEXT: พิคาชูผู้ช่วยศาสตราจารย์�
 
 RESOURCE ID: bonus_pikachu_30thapac
 TEXT: พิคาชู PokéXciting! ปรากฏตัวในธรรมชาติ, งานวิจัยแบบจำกัดเวลา และโกสแนปช็อต
+
+RESOURCE ID: bonus_pikachu_astro_costume
+TEXT: พิคาชูนักบินอวกาศปรากฏตัวในตีบอส
 
 RESOURCE ID: bonus_pikachu_npb_costume
 TEXT: พิคาชูสวมเสื้อเบสบอลปรากฏตัวในตีบอสและงานวิจัยแบบจำกัดเวลา
@@ -20179,6 +20374,9 @@ TEXT: งานวิจัยแบบจำกัดเวลาโบนั�
 RESOURCE ID: bonus_tr_gbl_championships_2026_a_title
 TEXT: งานวิจัยแบบจำกัดเวลาโบนัสพลังดึกดำบรรพ์
 
+RESOURCE ID: bonus_tr_gbl_championships_2027_a_title
+TEXT: แรงส่งวิวัฒนาการเมก้า
+
 RESOURCE ID: bonus_tr_gbl_championships_2024_a_desc
 TEXT: การเริ่มต้นของแต่ละคน: งานวิจัยแบบจำกัดเวลาโบนัส
 
@@ -20190,6 +20388,9 @@ TEXT: งานวิจัยแบบจำกัดเวลาโบนั�
 
 RESOURCE ID: bonus_tr_gbl_championships_2026_a_desc
 TEXT: งานวิจัยแบบจำกัดเวลาโบนัสพลังดึกดำบรรพ์
+
+RESOURCE ID: bonus_tr_gbl_championships_2027_a_desc
+TEXT: งานวิจัยแบบจำกัดเวลาโบนัสแรงส่งวิวัฒนาการเมก้า
 
 RESOURCE ID: bonus_tr_gbl_euic_2024_a_title
 TEXT: 2024 Pokémon LAIC’s Champion
@@ -21391,7 +21592,7 @@ RESOURCE ID: bread_lobby_attack_multiplier_dialog_title
 TEXT: โบนัสการโจมตี
 
 RESOURCE ID: bread_lobby_countdown_to_battle_start
-TEXT: จะเริ่มใน
+TEXT: นับถอยหลังสู่การเริ่มแบตเทิลแมกซ์
 
 RESOURCE ID: bread_lobby_error_battle_completed
 TEXT: คุณเคยแบตเทิลที่พาวเวอร์สป็อตนี้แล้ว
@@ -21590,7 +21791,7 @@ RESOURCE ID: bread_private_lobby_error_unavailable
 TEXT: ไม่สามารถใช้งานกลุ่มส่วนตัวได้ในขณะนี้ โปรดลองใหม่ภายหลัง
 
 RESOURCE ID: bread_private_lobby_error_flip_unavailable
-TEXT: ไม่สามารถเปลี่ยนกลุ่มนี้เป็นสาธารณะ
+TEXT: ไม่สามารถเปลี่ยนกลุ่มนี้เป็นกลุ่มสาธารณะ
 
 RESOURCE ID: bread_private_lobby_error_limit_reached
 TEXT: กลุ่มส่วนตัวที่สามารถเข้าร่วมแบตเทิลแมกซ์นี้ได้นั้นถึงขีดจำกัดสูงสุดแล้ว
@@ -29706,7 +29907,7 @@ RESOURCE ID: combat_choose_next_pokemon
 TEXT: เปลี่ยนโปเกมอนตัวใหม่?
 
 RESOURCE ID: combat_choose_pokemon_scaled
-TEXT: A Pokémon’s CP has been adjusted for this league.
+TEXT: รวมโปเกมอนที่มีการปรับ CP ให้เข้ากับลีกนี้ด้วย
 
 RESOURCE ID: combat_choosing_their_team
 TEXT: กำลังเลือกทีม!
@@ -30908,6 +31109,9 @@ TEXT: งานวิจัยแบบจำกัดเวลาพรีเ�
 RESOURCE ID: concierge_promo_tr_name
 TEXT: งานวิจัยแบบจำกัดเวลาโบนัสโปเกมอน คอนเซียร์จ
 
+RESOURCE ID: confirm_gift_purchase_v2_reward_points_prefix
+TEXT: You will receive
+
 RESOURCE ID: confirm_send_button
 TEXT: ส่ง
 
@@ -31827,6 +32031,9 @@ RESOURCE ID: delete_gift_confirmation
 TEXT: คุณแน่ใจหรือไม่ว่าต้องการทิ้ง
 ของขวัญชิ้นนี้?
 
+RESOURCE ID: delete_gift_message
+TEXT: Gifts do not count toward Item Bag storage.
+
 RESOURCE ID: delete_pokemon_tag_confirmation
 TEXT: แท็กนี้จะถูกนำออกจากโปเกมอนที่
 เกี่ยวข้องทั้งหมด โปเกมอนจะไม่ถูกถ่ายโอน
@@ -32317,6 +32524,12 @@ TEXT: ไม่สามารถดาวน์โหลดทรัพยา�
 
 RESOURCE ID: downloading_avatar_assets_warning_body
 TEXT: พบปัญหาในการดาวน์โหลดทรัพยากร โปรดตรวจสอบให้แน่ใจว่าคุณมีการเชื่อมต่อเครือข่ายที่เสถียรแล้วรีสตาร์ทเกม
+
+RESOURCE ID: dragon_poi_spin_plural
+TEXT: Spin {0} Dragon type-themed PokéStops
+
+RESOURCE ID: dragon_poi_spin_singular
+TEXT: Spin a Dragon type-themed PokéStop
 
 RESOURCE ID: dragon_type_event
 TEXT: ระลอกฉับพลัน: มังกร
@@ -33871,6 +34084,18 @@ TEXT: ไม่สามารถใช้ชื่อเล่นนี้ไ�
 
 RESOURCE ID: error_weak_network
 TEXT: ขณะนี้การเชื่อมต่อเครือข่ายของคุณไม่เสถียร โปรดลองใหม่ภายหลัง
+
+RESOURCE ID: esa_2026_title
+TEXT: อีเวนต์องค์การอวกาศยุโรป 2026
+
+RESOURCE ID: esa_2026_tr_title
+TEXT: งานวิจัยแบบจำกัดเวลาอีเวนต์องค์การอวกาศยุโรป 2026
+
+RESOURCE ID: esa_2026_tr_01
+TEXT: งานวิจัยแบบจำกัดเวลาอีเวนต์องค์การอวกาศยุโรป 2026 (1/2)
+
+RESOURCE ID: esa_2026_tr_02
+TEXT: งานวิจัยแบบจำกัดเวลาอีเวนต์องค์การอวกาศยุโรป 2026 (2/2)
 
 RESOURCE ID: europe_international_championships_bonus_2024
 TEXT: Pokémon Europe International Championships 2024 -โบนัส
@@ -36639,6 +36864,15 @@ TEXT: หมุนเสาโปเกสต็อปธีมประเภ�
 
 RESOURCE ID: fairy_type_event
 TEXT: ระลอกฉับพลัน: แฟรี่
+
+RESOURCE ID: fall_marathon_event_name_2026
+TEXT: การเดินทางไกลช่วงฤดูใบไม้ร่วง: ไปกับคู่หู
+
+RESOURCE ID: fall_marathon_incense_bramblin
+TEXT: เครื่องหอมอาจดึงดูดอาโนะคุสะ
+
+RESOURCE ID: fall_marathon_tr_title
+TEXT: งานวิจัยแบบจำกัดเวลาการเดินทางไกลช่วงฤดูใบไม้ร่วง
 
 RESOURCE ID: fantasy_cup_great_title
 TEXT: การแข่งขันแฟนตาซี (ver. เกรตลีก)
@@ -42390,6 +42624,9 @@ TEXT: เลือก
 RESOURCE ID: general_days_remaining
 TEXT: {0} ว.
 
+RESOURCE ID: general_device_troubleshooting_id_scopely_helpshift
+TEXT: 1337
+
 RESOURCE ID: general_do_not_allow
 TEXT: ไม่ยอมรับ
 
@@ -42507,11 +42744,20 @@ TEXT: เสร็จสิ้น
 RESOURCE ID: generic_contact_support
 TEXT: วิธีแชร์บันทึกเกม
 
+RESOURCE ID: generic_event_pass_premium_unlock
+TEXT: GO Pass Deluxe
+
+RESOURCE ID: generic_event_pass_premium_unlock_plus_points
+TEXT: GO Pass Deluxe + Ranks
+
 RESOURCE ID: generic_player_lockout
 TEXT: บัญชีของคุณถูกระงับชั่วคราวเนื่องจากมีการละเมิดเงื่อนไขการให้บริการnn<a href=
 
 RESOURCE ID: generic_track_upgrade_header_description
 TEXT: รับรางวัลเพิ่มเติมและปลดล็อก<b>การเผชิญหน้ากับเลโดมุชิ</b>ที่ระดับ 30!
+
+RESOURCE ID: gengar_bonus_raid
+TEXT: เมก้าเก็งกาปรากฏตัวในตีบอส
 
 RESOURCE ID: gengeneral1.ticket.2_dratini_cdc_description
 TEXT: A ticket to access the Dratini Community Day Classic Special Research on November 5, 2022, from 2:00 p.m. to 5:00 p.m. local time, wherever you are. Details can be found in the in-game News.
@@ -42575,6 +42821,15 @@ TEXT: คำอวยพรจาก
 RESOURCE ID: gift_from_sponsor
 TEXT: เปิดของขวัญที่ได้รับการสนับสนุน!
 
+RESOURCE ID: gift_multi_delete_complete
+TEXT: Your selection has been cleared.
+
+RESOURCE ID: gift_multi_delete_plural
+TEXT: Discard these {0} Gifts?
+
+RESOURCE ID: gift_multi_delete_button_text
+TEXT: DISCARD ({0})
+
 RESOURCE ID: gift_open_double
 TEXT: เปิดของขวัญได้มากขึ้น 2 เท่า
 
@@ -42636,6 +42891,11 @@ RESOURCE ID: gifting_error_description
 TEXT: ไม่สามารถส่งของขวัญได้เนื่องจากผู้รับมีตั๋วของอีเวนต์เดียวกันในครอบครองก่อนที่การดำเนินการซื้อของคุณจะเสร็จสิ้น
 คุณสามารถเลือกเพื่อนคนอื่นเพื่อส่งตั๋วใบนี้ให้แทนได้
 หากคุณต้องการทำเรื่องขอเงินคืน กรุณาติดต่อร้านค้าแอปของคุณ
+
+RESOURCE ID: gifting_error_description_temp
+TEXT: Unfortunately, this Friend is now ineligible for receiving this paid gift. This can happen for a variety of reasons.
+
+You can choose a new friend to send this to now.
 
 RESOURCE ID: gifting_error_refund_button
 TEXT: ยื่นเรื่องขอเงินคืน
@@ -52708,6 +52968,99 @@ TEXT: Pokémon GO ไวลด์แอเรีย 2025: ชั่วโมง�
 RESOURCE ID: gowa_2025_sun_ticketed
 TEXT: Pokémon GO ไวลด์แอเรีย 2025: ชั่วโมงอีเวนต์วันอาทิตย์ (ตั๋ว)
 
+RESOURCE ID: gowa_2026
+TEXT: Pokémon GO Wild Area 2026
+
+RESOURCE ID: gowa_2026_all_sat
+TEXT: Pokémon GO Wild Area 2026: All-Day Saturday
+
+RESOURCE ID: gowa_2026_all_sun
+TEXT: Pokémon GO Wild Area 2026: All-Day Sunday
+
+RESOURCE ID: gowa_2026_all_weekend
+TEXT: Pokémon GO Wild Area 2026: All Weekend
+
+RESOURCE ID: gowa_2026_all_weekend_ticketed
+TEXT: Pokémon GO Wild Area 2026: All Weekend (Ticket)
+
+RESOURCE ID: gowa_2026_cdmx
+TEXT: Pokémon GO Wild Area 2026: Mexico City
+
+RESOURCE ID: gowa_2026_cdmx_extended_bonus
+TEXT: Pokémon GO Wild Area 2026: Mexico City – Extended Bonuses
+
+RESOURCE ID: gowa_2026_content_hashtag
+TEXT: Post photos with #GOWildArea2026, and we’ll share our favorites!
+
+RESOURCE ID: gowa_2026_dragon_badge_candy_xl_bonus
+TEXT: One additional Candy XL from catching Dragon-type mighty Pokémon
+
+RESOURCE ID: gowa_2026_dragon_badge_stardust_bonus
+TEXT: 1,000 additional Stardust from catching Dragon-type mighty Pokémon
+
+RESOURCE ID: gowa_2026_fri_ticketed
+TEXT: Pokémon GO Wild Area 2026: All-Day Friday (Ticket)
+
+RESOURCE ID: gowa_2026_global_extended_bonus
+TEXT: Pokémon GO Wild Area 2026 – Extended Bonuses
+
+RESOURCE ID: gowa_2026_habitat_cc_description
+TEXT: Catch event Pokémon!
+
+RESOURCE ID: gowa_2026_habitat_global_cc_saturday
+TEXT: Wild Area Collection Challenge: Saturday
+
+RESOURCE ID: gowa_2026_habitat_global_cc_sunday
+TEXT: Wild Area Collection Challenge: Sunday
+
+RESOURCE ID: gowa_2026_habitat_now_dragon
+TEXT: Happening now: Solid as Steel Hour
+
+RESOURCE ID: gowa_2026_habitat_now_steel
+TEXT: Happening now: Daring as Dragons Hour
+
+RESOURCE ID: gowa_2026_irl_cc_cdmx_friday
+TEXT: GO Wild Area: Mexico City Collection Challenge
+
+RESOURCE ID: gowa_2026_irl_cc_cdmx_saturday
+TEXT: GO Wild Area: Mexico City Collection Challenge
+
+RESOURCE ID: gowa_2026_irl_cc_cdmx_sunday
+TEXT: GO Wild Area: Mexico City Collection Challenge
+
+RESOURCE ID: gowa_2026_irl_cc_sendai_friday
+TEXT: GO Wild Area: Sendai・Tohoku Collection Challenge
+
+RESOURCE ID: gowa_2026_irl_cc_sendai_saturday
+TEXT: GO Wild Area: Sendai・Tohoku Collection Challenge
+
+RESOURCE ID: gowa_2026_irl_cc_sendai_sunday
+TEXT: GO Wild Area: Sendai・Tohoku Collection Challenge
+
+RESOURCE ID: gowa_2026_sat
+TEXT: Pokémon GO Wild Area 2026: Saturday Event Hours
+
+RESOURCE ID: gowa_2026_sat_ticketed
+TEXT: Pokémon GO Wild Area 2026: Saturday Event Hours (Ticket)
+
+RESOURCE ID: gowa_2026_sendai
+TEXT: Pokémon GO Wild Area 2026: Sendai・Tohoku
+
+RESOURCE ID: gowa_2026_sendai_extended_bonus
+TEXT: Pokémon GO Wild Area 2026: Sendai・Tohoku – Extended Bonuses
+
+RESOURCE ID: gowa_2026_steel_badge_candy_xl_bonus
+TEXT: One additional Candy XL from catching Steel-type mighty Pokémon
+
+RESOURCE ID: gowa_2026_steel_badge_stardust_bonus
+TEXT: 1,000 additional Stardust from catching Steel-type mighty Pokémon
+
+RESOURCE ID: gowa_2026_sun
+TEXT: Pokémon GO Wild Area 2026: Sunday Event Hours
+
+RESOURCE ID: gowa_2026_sun_ticketed
+TEXT: Pokémon GO Wild Area 2026: Sunday Event Hours (Ticket)
+
 RESOURCE ID: gowa2024
 TEXT: Pokémon GO ไวลด์แอเรีย 2024
 
@@ -55121,6 +55474,9 @@ TEXT: เส้นทางรางวัล
 RESOURCE ID: iap_category_team_change
 TEXT: เปลี่ยนทีม
 
+RESOURCE ID: iap_friend_picker_last_sent
+TEXT: Last Sent
+
 RESOURCE ID: iap_item_unavailable
 TEXT: ไม่สามารถซื้อไอเท็มนี้ได้อีกต่อไป
 
@@ -56116,6 +56472,9 @@ TEXT: เผชิญหน้ากับไฟเยอร์
 RESOURCE ID: item_amer2026_milestone_name
 TEXT: เอเลคิดติดเครื่องประดับสไตล์สปาร์ก
 
+RESOURCE ID: item_bag_bonus
+TEXT: bonus
+
 RESOURCE ID: item_bag_deployed
 TEXT: This item can’t be used on a Pokémon placed at a Power Spot or defending a Gym.
 
@@ -56130,6 +56489,9 @@ TEXT: Boosts
 
 RESOURCE ID: item_bag_category_evolution
 TEXT: Evolutions
+
+RESOURCE ID: item_bag_category_featured
+TEXT: Featured
 
 RESOURCE ID: item_bag_category_gifts
 TEXT: ของขวัญ
@@ -59336,6 +59698,9 @@ TEXT: เหลือเวลา 1 ชั่วโมง
 RESOURCE ID: item_expire_timer_minutes_seconds_left
 TEXT: เหลือเวลา {0}
 
+RESOURCE ID: item_fall_marathon_2026_milestone_name
+TEXT: เผชิญหน้ากับอาโนะคุสะ
+
 RESOURCE ID: item_flying_taxi_milestone_name
 TEXT: ซูเปอร์ร็อกเกตเรดาร์
 
@@ -59745,6 +60110,12 @@ TEXT: อุปกรณ์สำหรับฟักไข่ด้วยก�
 
 RESOURCE ID: item_incubator_timed_name
 TEXT: เครื่องฟักไข่จำกัดเวลา
+
+RESOURCE ID: item_inventory_paid_gift_banner_title
+TEXT: You have paid gifts
+
+RESOURCE ID: item_inventory_paid_gift_banner_subtitle
+TEXT: Send to your Friends?
 
 RESOURCE ID: item_item_pack_desc
 TEXT: เพิ่มขนาดของกระเป๋าเก็บไอเท็ม
@@ -61038,6 +61409,30 @@ TEXT: งานวิจัยแบบจำกัดเวลาบทเร�
 
 RESOURCE ID: kr_ditto_event_2025_tr_name_3
 TEXT: งานวิจัยแบบจำกัดเวลาบทเรียนสีม่วง (3/3)
+
+RESOURCE ID: kr_fcseoul_collab_2026_title
+TEXT: FC Seoul Event 2026
+
+RESOURCE ID: kr_fcseoul_collab_2026_bonus_raid_lc_desc
+TEXT: During event hours on October 24, Charmander caught from raids around the Seoul World Cup Stadium event area may have an exclusive Location Background
+
+RESOURCE ID: kr_fcseoul_collab_2026_bonus_tr_lc_desc
+TEXT: Charizard encountered from event Timed Research will have an exclusive Location Background
+
+RESOURCE ID: kr_fcseoul_collab_2026_bonus_wild_pokemon
+TEXT: Catch Fire-type Pokémon around the Seoul World Cup Stadium event area—let’s fire it up for FC Seoul!
+
+RESOURCE ID: kr_fcseoul_collab_2026_tr_name
+TEXT: FC Seoul Event 2026 Timed Research
+
+RESOURCE ID: kr_fcseoul_collab_2026_tr_name_1
+TEXT: FC Seoul Event 2026 Timed Research (1/3)
+
+RESOURCE ID: kr_fcseoul_collab_2026_tr_name_2
+TEXT: FC Seoul Event 2026 Timed Research (2/3)
+
+RESOURCE ID: kr_fcseoul_collab_2026_tr_name_3
+TEXT: FC Seoul Event 2026 Timed Research (3/3)
 
 RESOURCE ID: kr_festival_fr_location_background
 TEXT: ชิคิจิกะและพิคาชูในชุดคอสตูมที่จับจากภารกิจงานวิจัยภาคสนามอาจมีพื้นหลังสถานที่สุดพิเศษ
@@ -64910,6 +65305,9 @@ TEXT: เผชิญหน้า: เซครอม, 2025
 RESOURCE ID: __male_speaker
 TEXT: ใช้ท่าโจมตีที่โปเกมอนของคู่แข่งแพ้ทางนะ!
 
+RESOURCE ID: manage_gifts_header
+TEXT: Manage Gifts
+
 RESOURCE ID: manage_items_button
 TEXT: จัดระเบียบไอเท็ม
 
@@ -66397,7 +66795,7 @@ RESOURCE ID: mega_evolve_lobby_existing_toast
 TEXT: คุณสามารถวิวัฒนาการเมก้าได้ทีละตัวเท่านั้น
 
 RESOURCE ID: mega_evolve_pokemon_to_use_in_this_party
-TEXT: Mega Evolve Gengar to use this party.
+TEXT: กรุณาวิวัฒนาการเมก้าเก็งกา
 
 RESOURCE ID: mega_evolve_preview_first_time
 TEXT: หลังจากที่วิวัฒนาการเมก้าโปเกมอนเป็น
@@ -66881,10 +67279,10 @@ at SHA da71d231c41a4d4f7aef0d6fd71061652ff15a0a
 Pipeline 441624, job 3600523
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-09-17T05:05:53.880793+00:00 for th-TH
-at SHA 37a1529ab2c
-Pipeline 3950659, job 58169809
-Patch from: 0.431.0-SHA-8123c737-RC1, 0.427.0-SHA-fc729f25-RC2, 0.429.0-SHA-d6c796f0-RC1, 0.427.1-SHA-4a569ba7-RC1
+TEXT: Built at 2026-09-24T01:18:40.315486+00:00 for th-TH
+at SHA 6210d7033b5
+Pipeline 3966222, job 58390716
+Patch from: 0.429.1-SHA-5521c4dc-RC1, 0.431.0-SHA-76e2198b-RC4
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: งานวิจัยแบบจำกัดเวลา: ประเภทต่อสู้ของคุณ
@@ -72743,7 +73141,7 @@ RESOURCE ID: onboard_welcome_screen|9
 TEXT: เลือกสไตล์ของคุณเพื่อเริ่มผจญภัยกันเลย!
 
 RESOURCE ID: one_or_more_pokemon_exceed_this_leagues_cp_limit
-TEXT: One or more Pokémon exceed this league’s CP limit.
+TEXT: รวมโปเกมอนที่มี CP เกินกำหนดของลีกนี้ด้วย
 
 RESOURCE ID: one_route_nearby_label
 TEXT: 1 route
@@ -72883,6 +73281,21 @@ TEXT: ความรู้สึกต่อท้องฟ้า
 RESOURCE ID: ozone_ascent_free_timed_research
 TEXT: งานวิจัยแบบจำกัดเวลาความรู้สึกต่อท้องฟ้า
 
+RESOURCE ID: paid_gift_already_purchased_modal_title
+TEXT: You have already purchased this paid gift.
+
+RESOURCE ID: paid_gift_already_purchased_modal_button
+TEXT: GO TO INVENTORY
+
+RESOURCE ID: paid_gift_already_purchased_modal_message
+TEXT: Please check your inventory to send your paid gift.
+
+RESOURCE ID: paid_gift_regift_no_longer_available_modal_title
+TEXT: Gifting Error
+
+RESOURCE ID: paid_gift_regift_no_longer_available_modal_message
+TEXT: This item is no longer available and cannot be gifted.
+
 RESOURCE ID: paid_pikachu_gmax_tr_mar26
 TEXT: งานวิจัยแบบจำกัดเวลาพรีเมียม: พิคาชูกิกะแมกซ์
 
@@ -72998,6 +73411,21 @@ TEXT: Limited Partner Research : Amazon Prime Gaming (1/2)
 
 RESOURCE ID: partner_research_ltd_amazon_gaming_01
 TEXT: Limited Partner Research : Amazon Prime Gaming (2/2)
+
+RESOURCE ID: partnership_gengar_2026_event_title
+TEXT: เฉลิมฉลองครบรอบ 30 ปีโปเกมอนเทรดดิ้งการ์ดเกม
+
+RESOURCE ID: partnership_gengar_2026_tr_title
+TEXT: งานวิจัยแบบจำกัดเวลาโบนัส: เฉลิมฉลองครบรอบ 30 ปีโปเกมอนเทรดดิ้งการ์ดเกม
+
+RESOURCE ID: partnership_gengar_2026_tr_desc_00
+TEXT: งานวิจัยแบบจำกัดเวลาโบนัส: เฉลิมฉลองครบรอบ 30 ปีโปเกมอนเทรดดิ้งการ์ดเกม (1/3)
+
+RESOURCE ID: partnership_gengar_2026_tr_desc_01
+TEXT: งานวิจัยแบบจำกัดเวลาโบนัส: เฉลิมฉลองครบรอบ 30 ปีโปเกมอนเทรดดิ้งการ์ดเกม (2/3)
+
+RESOURCE ID: partnership_gengar_2026_tr_desc_02
+TEXT: งานวิจัยแบบจำกัดเวลาโบนัส: เฉลิมฉลองครบรอบ 30 ปีโปเกมอนเทรดดิ้งการ์ดเกม (3/3)
 
 RESOURCE ID: partnership_latam_soccer_collab_event_title
 TEXT: GOal ออฟเดอะแมตช์
@@ -73852,6 +74280,18 @@ TEXT: คุณยังสามารถรับแสตมป์จาก�
 
 RESOURCE ID: pause_dialog_subtitle
 TEXT: หากเลือกหยุดเล่นชั่วคราว คุณจะหยุดสะสมแสตมป์สำหรับแสตมป์แรลลีนี้ คุณสามารถกลับมาเล่นต่อได้ทุกเมื่อจากหน้าสะสม
+
+RESOURCE ID: pause_gift_list_title
+TEXT: Pause Gifts List
+
+RESOURCE ID: pause_gift_list_prompt_title
+TEXT: Pause Gifting?
+
+RESOURCE ID: pause_gift_list_prompt_desc
+TEXT: The following Friend will be unable to send you paid gifts. You can enable them to send again at any point.
+
+RESOURCE ID: pause_gift_list_prompt_button_label
+TEXT: YES, PAUSE
 
 RESOURCE ID: pause_route_travel_error_toast
 TEXT: เกิดข้อผิดพลาดในการหยุดเส้นทางชั่วคราว
@@ -85885,6 +86325,15 @@ TEXT: ไม่สามารถเลือกโปเกมอนสีแ�
 RESOURCE ID: pokemon_info_multi_transfer_ultra_beast_pokemon_error
 TEXT: ไม่สามารถเลือกอัลตร้าบีสต์ได้
 
+RESOURCE ID: pokemon_info_no_evolve_pokemon
+TEXT: No Pokémon can use this item to evolve.
+
+RESOURCE ID: pokemon_info_no_fainted_pokemon
+TEXT: No Pokémon need to be revived.
+
+RESOURCE ID: pokemon_info_no_hurt_pokemon
+TEXT: All Pokémon are fully healed.
+
 RESOURCE ID: pokemon_info_no_stats_available
 TEXT: ไม่มีหัวข้ออื่นที่สามารถฝึกได้
 
@@ -90426,6 +90875,65 @@ TEXT: Deluxe
 RESOURCE ID: premium_rewards
 TEXT: รางวัลพรีเมียม
 
+RESOURCE ID: premium_gift_sent
+TEXT: You sent a paid gift to {0}
+
+RESOURCE ID: premium_gift_ftue_title
+TEXT: Introducing More Gifting Options in the Shop
+
+RESOURCE ID: premium_gift_ftue_desc
+TEXT: You can now send and receive more types of gifts through the Shop!
+
+Do you want to opt in? You can change this at any point in Settings.
+
+RESOURCE ID: premium_gift_notification_event_pass_title
+TEXT: GO Pass
+
+RESOURCE ID: premium_gift_notification_event_pass_desc
+TEXT: Greetings, <b>{0}</b>! Here’s an GO Pass for you. Let’s see who can complete it and get all the rewards!
+
+Sincerely,
+—<b>{1}</b>
+
+RESOURCE ID: premium_gift_notification_items_title
+TEXT: Gift For You
+
+RESOURCE ID: premium_gift_notification_multiple_trainers_desc
+TEXT: Greetings, <b>{0}</b>!
+
+Your Friends sent some gifts for you!
+
+
+RESOURCE ID: premium_gift_notification_one_trainer_multiple_items_desc
+TEXT: Greetings, <b>{0}</b>!
+
+Here are gifts for you!
+{2}
+
+Sincerely,
+—<b>{1}</b>
+
+RESOURCE ID: premium_gift_notification_one_trainer_one_item_desc
+TEXT: Greetings, <b>{0}</b>!
+
+Here’s a gift for you!
+{2}
+
+Sincerely,
+—<b>{1}</b>
+
+RESOURCE ID: premium_gift_received_event_pass
+TEXT: {0} gifted you an GO Pass!
+
+RESOURCE ID: premium_gift_received_event_ticket
+TEXT: {0} gifted you a ticket for an event!
+
+RESOURCE ID: premium_gift_received_item_multi
+TEXT: {0} gifted you a {1} and more!
+
+RESOURCE ID: premium_gift_received_item_single
+TEXT: {0} gifted you a {1}!
+
 RESOURCE ID: primal_revert
 TEXT: คืนสู่ต้นกำเนิด
 
@@ -91686,13 +92194,13 @@ RESOURCE ID: quest_branch_choose_la_reine_desc
 TEXT: เมื่อเลือกเส้นทางนี้ ในระหว่างอีเวนต์ จะสามารถเปลี่ยนทริมเมียนเป็นทรงราชินีได้ (ในการเปลี่ยนร่างทริมเมียน จำเป็นต้องใช้ลูกอมทริมเมียน 25 เม็ดและ 10,000 สตาร์ดัสต์)
 
 RESOURCE ID: quest_branch_choose_mega_chesnaught
-TEXT: เลือกเมก้าบริการอน
+TEXT: เมก้าบริการอน
 
 RESOURCE ID: quest_branch_choose_mega_delphox
-TEXT: เลือกเมก้ามาฟ็อกซี
+TEXT: เมก้ามาฟ็อกซี
 
 RESOURCE ID: quest_branch_choose_mega_greninja
-TEXT: เลือกเมก้าเก็คโคกะ
+TEXT: เมก้าเก็คโคกะ
 
 RESOURCE ID: quest_branch_choose_mega_chesnaught_out
 TEXT: เลือกฮาริมารอน
@@ -91827,6 +92335,9 @@ TEXT: ได้รับหัวใจร่วมกันกับคู่�
 RESOURCE ID: quest_buddy_affection_days_in_a_row
 TEXT: ได้รับหัวใจร่วมกันกับคู่หูของคุณ {0} วันติดต่อกัน
 
+RESOURCE ID: quest_buddy_affection_dragon_plural
+TEXT: Earn {0} hearts with a Dragon-type buddy
+
 RESOURCE ID: quest_buddy_affection_electric_plural
 TEXT: ได้รับหัวใจร่วมกันกับคู่หูประเภทไฟฟ้า
 ของคุณ {0} ดวง
@@ -91846,6 +92357,9 @@ TEXT: ได้รับหัวใจร่วมกันกับคู่�
 RESOURCE ID: quest_buddy_affection_poison_singular
 TEXT: ได้รับหัวใจร่วมกันกับคู่หูประเภทพิษ
 ของคุณ
+
+RESOURCE ID: quest_buddy_affection_steel_plural
+TEXT: Earn {0} hearts with a Steel-type buddy
 
 RESOURCE ID: quest_buddy_affection_zeraora_plural
 TEXT: ได้รับหัวใจร่วมกันกับเซราโอราที่เป็นคู่หูของคุณ {0} ดวง 
@@ -95334,6 +95848,9 @@ RESOURCE ID: quest_explore_buddy_dark
 TEXT: ได้รับลูกอมจากการเดินสำรวจกับ
 โปเกมอนประเภทความมืดที่เป็นคู่หู
 
+RESOURCE ID: quest_explore_buddy_dragon
+TEXT: Earn a Candy exploring with a Dragon-type as your buddy
+
 RESOURCE ID: quest_explore_buddy_electric
 TEXT: ได้รับลูกอมจากการเดินสำรวจกับ
 โปเกมอนประเภทไฟฟ้าที่เป็นคู่หู
@@ -95348,6 +95865,9 @@ TEXT: ได้รับลูกอม {0} เม็ดจากการเด
 RESOURCE ID: quest_explore_buddy_poison
 TEXT: ได้รับลูกอมจากการเดินสำรวจกับ
 โปเกมอนประเภทพิษที่เป็นคู่หู
+
+RESOURCE ID: quest_explore_buddy_steel
+TEXT: Earn a Candy exploring with a Steel-type as your buddy
 
 RESOURCE ID: quest_explore_buddy_routes_plural
 TEXT: ได้รับลูกอม {0} เม็ด ระหว่างสำรวจ "เส้นทาง" กับคู่หูของคุณ
@@ -122053,6 +122573,9 @@ TEXT: ทิ้ง
 RESOURCE ID: recycle_dialog_suffix
 TEXT: {0}?
 
+RESOURCE ID: recycle_discard_all
+TEXT: YES, DISCARD ALL
+
 RESOURCE ID: reduced_buddy_candy_distance_routes
 TEXT: ลดระยะทางที่ต้องใช้ในการได้รับลูกอมจากคู่หูบนเส้นทาง
 
@@ -123158,7 +123681,7 @@ RESOURCE ID: returning_sign_in_partial
 TEXT: ลงชื่อเข้าใช้ด้วย {0}
 
 RESOURCE ID: revert_pokemon_to_its_primal_form_to_use_this_party
-TEXT: Revert Kyogre to its Primal form to use this party.
+TEXT: กรุณาทำให้ไคออกาคืนสู่ต้นกำเนิด
 
 RESOURCE ID: revive_all_button
 TEXT: Revive All
@@ -128063,6 +128586,9 @@ TEXT: บัตรผ่าน GO: เส้นทางแสวงหาวิ
 RESOURCE ID: season_pass_base_track_title_emea_2026
 TEXT: บัตรผ่าน GO: เส้นทางแสวงหาชัยชนะของแคนเดลา
 
+RESOURCE ID: season_pass_base_track_title_fall_marathon_2026
+TEXT: บัตรผ่าน GO: การเดินทางไกลช่วงฤดูใบไม้ร่วง
+
 RESOURCE ID: season_pass_base_track_title_flying_taxi_2026
 TEXT: บัตรผ่าน GO: เงาเหินฟ้า
 
@@ -128070,7 +128596,7 @@ RESOURCE ID: season_pass_base_track_title_halloween_2025
 TEXT: บัตรผ่าน GO: ฮาโลวีน 2025
 
 RESOURCE ID: season_pass_base_track_title_harvest_festival_2026
-TEXT: GO Pass: Harvest Festival
+TEXT: บัตรผ่าน GO: เทศกาลเก็บเกี่ยว
 
 RESOURCE ID: season_pass_base_track_title_horizons_fall_2026
 TEXT: บัตรผ่าน GO: อีเวนต์ฉลองคอลแลป
@@ -128231,6 +128757,9 @@ TEXT: ตรวจสอบรายละเอียดได้ที่<a hr
 RESOURCE ID: season_pass_details_link_amer_2026
 TEXT: ตรวจสอบรายละเอียดได้ที่<a href="https://pokemongo.com/news/global-events-gofest2026-overlays">เว็บไซต์</a>นี้
 
+RESOURCE ID: season_pass_details_link_fall_marathon_2026
+TEXT: ตรวจสอบรายละเอียดได้ที่<a href="https://pokemongo.com/news/fall-marathon-buddy-trek-2026">เว็บไซต์</a>นี้
+
 RESOURCE ID: season_pass_details_link_flying_taxi_2026
 TEXT: ตรวจสอบรายละเอียดได้ที่<a href="https://pokemongo.com/news/flying-taxi-2026">เว็บไซต์</a>นี้
 
@@ -128238,7 +128767,7 @@ RESOURCE ID: season_pass_details_link_halloween_2025
 TEXT: ตรวจสอบรายละเอียดได้ที่<a href="https://pokemongo.com/news/go-pass-halloween-2025">เว็บไซต์</a>นี้
 
 RESOURCE ID: season_pass_details_link_harvest_festival_2026
-TEXT: For more details, visit the <a href="https://pokemongo.com/news/harvest-festival-2026">website</a>.
+TEXT: ตรวจสอบรายละเอียดได้ที่<a href="https://pokemongo.com/news/harvest-festival-2026">เว็บไซต์</a>นี้
 
 RESOURCE ID: season_pass_details_link_horizons_fall_2026
 TEXT: ตรวจสอบรายละเอียดได้ที่<a href="https://pokemongo.com/news/pokemon-horizons-celebration-event-2026">เว็บไซต์</a>นี้
@@ -128263,6 +128792,17 @@ TEXT: ตรวจสอบรายละเอียดได้ที่<a hr
 
 RESOURCE ID: season_pass_details_link_winter_holidays_2025
 TEXT: ตรวจสอบรายละเอียดได้ที่<a href="https://pokemongo.com/news/go-pass-winter_holidays-2025">เว็บไซต์</a>นี้
+
+RESOURCE ID: season_pass_fall_marathon_2026_track_upgrade_header_description
+TEXT: รับรางวัลเพิ่มเติมและปลดล็อก<b>การเผชิญหน้ากับอาโนะคุสะ</b>ที่ระดับ 30!
+
+RESOURCE ID: season_pass_fall_marathon_2026_upgrade_description
+TEXT: ซื้อบัตรผ่าน GO Deluxe: การเดินทางไกลช่วงฤดูใบไม้ร่วง เพื่อปลดล็อกรางวัลต่อไปนี้!
+
+- พลังงานเมก้าของไลโวลต์
+- การเผชิญหน้ากับโปเกมอนธีมอีเวนต์
+- ลูกอมประหลาด XL
+- และอื่น ๆ
 
 RESOURCE ID: season_pass_february2026_event_duration
 TEXT: 3 กุมภาพันธ์ ถึง 3 มีนาคม
@@ -128305,17 +128845,17 @@ TEXT: ซื้อบัตรผ่าน GO Deluxe: ฮาโลวีน 2025
 - และอื่น ๆ
 
 RESOURCE ID: season_pass_harvest_festival_2026_event_duration
-TEXT: September 29 – October 5
+TEXT: 29 กันยายน ถึง 5 ตุลาคม
 
 RESOURCE ID: season_pass_harvest_festival_2026_track_upgrade_header_description
-TEXT: Earn additional rewards and unlock a <b>Super Rocket Radar</b> at Rank 1!
+TEXT: รับรางวัลเพิ่มเติมและปลดล็อก<b>ซูเปอร์ร็อกเกตเรดาร์</b>ที่ระดับ 1!
 
 RESOURCE ID: season_pass_harvest_festival_2026_upgrade_description
-TEXT: Purchase GO Pass Deluxe: Harvest Festival to unlock the following rewards!
+TEXT: ซื้อบัตรผ่าน GO Deluxe: เทศกาลเก็บเกี่ยว เพื่อปลดล็อกรางวัลต่อไปนี้!
 
-• Encounters with Cottonee, Skiddo, Applin, and more!
-• 3 Mossy Lure Modules
-• And much more!
+- การเผชิญหน้ากับโมนเมน, เมเคิล, คาจิชชู
+- อุปกรณ์ปล่อยลัวร์มอส 3 ชิ้น
+- และอื่น ๆ
 
 RESOURCE ID: season_pass_horizons_fall_2026_event_duration
 TEXT: 16-22 กันยายน
@@ -128529,11 +129069,14 @@ TEXT: บัตรผ่าน GO Deluxe: เส้นทางแสวงห�
 RESOURCE ID: season_pass_premium_track_plus_six_ranks_title_emea_2026
 TEXT: บัตรผ่าน GO Deluxe: เส้นทางแสวงหาชัยชนะของแคนเดลา + 6 ระดับ
 
+RESOURCE ID: season_pass_premium_track_plus_six_ranks_title_fall_marathon_2026
+TEXT: บัตรผ่าน GO Deluxe: การเดินทางไกลช่วงฤดูใบไม้ร่วง + 6 ระดับ
+
 RESOURCE ID: season_pass_premium_track_plus_six_ranks_title_flying_taxi_2026
 TEXT: บัตรผ่าน GO Deluxe: เงาเหินฟ้า + 6 ระดับ
 
 RESOURCE ID: season_pass_premium_track_plus_six_ranks_title_harvest_festival_2026
-TEXT: GO Pass Deluxe: Harvest Festival + 6 Ranks
+TEXT: บัตรผ่าน GO Deluxe: เทศกาลเก็บเกี่ยว + 6 ระดับ
 
 RESOURCE ID: season_pass_premium_track_plus_six_ranks_title_horizons_fall_2026
 TEXT: บัตรผ่าน GO Deluxe: อีเวนต์ฉลองคอลแลป + 6 ระดับ
@@ -128667,6 +129210,9 @@ TEXT: บัตรผ่าน GO Deluxe: เส้นทางแสวงห�
 RESOURCE ID: season_pass_premium_track_title_emea_2026
 TEXT: บัตรผ่าน GO Deluxe: เส้นทางแสวงหาชัยชนะของแคนเดลา
 
+RESOURCE ID: season_pass_premium_track_title_fall_marathon_2026
+TEXT: บัตรผ่าน GO Deluxe: การเดินทางไกลช่วงฤดูใบไม้ร่วง
+
 RESOURCE ID: season_pass_premium_track_title_flying_taxi_2026
 TEXT: บัตรผ่าน GO Deluxe: เงาเหินฟ้า
 
@@ -128674,7 +129220,7 @@ RESOURCE ID: season_pass_premium_track_title_halloween_2025
 TEXT: บัตรผ่าน GO Deluxe: ฮาโลวีน 2025
 
 RESOURCE ID: season_pass_premium_track_title_harvest_festival_2026
-TEXT: GO Pass Deluxe: Harvest Festival
+TEXT: บัตรผ่าน GO Deluxe: เทศกาลเก็บเกี่ยว
 
 RESOURCE ID: season_pass_premium_track_title_horizons_fall_2026
 TEXT: บัตรผ่าน GO Deluxe: อีเวนต์ฉลองคอลแลป
@@ -129152,6 +129698,18 @@ TEXT: อนุญาตให้เพื่อนส่งเครื่อ�
 RESOURCE ID: settings_allow_paid_gifts
 TEXT: อนุญาตให้เพื่อนส่งของขวัญแบบชำระเงินให้คุณ
 
+RESOURCE ID: settings_allow_paid_gifts_desc_off
+TEXT: Turning off this feature will pause Friends to send you paid gifts. This does not include free gifts.
+
+RESOURCE ID: settings_allow_paid_gifts_desc_on
+TEXT: Turning on this feature will allow Friends to send you paid gifts. You can pause specific Friends from sending you paid gifts in the Paused Friends List once turned on.
+
+RESOURCE ID: settings_allow_paid_gifts_title_off
+TEXT: Turn Off Paid Gifts from Friends?
+
+RESOURCE ID: settings_allow_paid_gifts_title_on
+TEXT: Turn On Paid Gifts from Friends?
+
 RESOURCE ID: settings_allow_raid_and_max_battle_friend_requests
 TEXT: สมาชิกตีบอสและแบตเทิลแมกซ์
 
@@ -129388,6 +129946,12 @@ TEXT: แชร์ตำแหน่งของคุณกับปาร์�
 
 RESOURCE ID: settings_party_play_map_avatars
 TEXT: ดูเทรนเนอร์คนอื่นบนแผนที่
+
+RESOURCE ID: settings_pause_gifts_list
+TEXT: Pause Gifts List
+
+RESOURCE ID: settings_pause_gifts_list_tip
+TEXT: Selected Friends will not be able to send you paid gifts. This does not include free gifts.
 
 RESOURCE ID: settings_pbp_check_other_menu
 TEXT: กรุณาไปที่หน้าโปเกมอนโกพลัสในเมนูการตั้งค่า เพื่อเข้าถึงอุปกรณ์ที่คุณเชื่อมต่อไว้
@@ -129723,7 +130287,7 @@ RESOURCE ID: settings_wearables_device_status_unpaired
 TEXT: Not Paired
 
 RESOURCE ID: settings_wearables_device_troubleshooting_url
-TEXT: https://scopelyexplore.helpshift.com/hc/faq/1337-pairing-and-connecting-pokemon-go-to-official-devices/
+TEXT: https://scopelyexplore.helpshift.com/hc/th/5-pokemon-go/faq/1337-pairing-and-connecting-pokemon-go-to-official-devices/
 
 RESOURCE ID: settings_wearables_empty_device_list
 TEXT: No Devices Found
@@ -130160,6 +130724,9 @@ TEXT: คุณมีตั๋วสำหรับอีเวนต์นี�
 ที่กำลังดำเนินการอยู่หรือเสร็จสิ้นแล้ว
 ซึ่งทำให้คุณขาดคุณสมบัติในการซื้อตั๋วนี้
 
+RESOURCE ID: shop_already_unlocked_premium_event_pass
+TEXT: You’ve already unlocked this GO Pass Deluxe
+
 RESOURCE ID: shop_battle_tickets_title
 TEXT: คุณไม่มีบัตรแบตเทิลพรีเมียม!
 
@@ -130287,6 +130854,9 @@ TEXT: {0}อัปเกรดจนถึงขีดจำกัดแล้�
 
 <a href="https://scopelyexplore.helpshift.com/hc/faq/1235-available-items-your-bag/">เรียนรู้เพิ่มเติมเกี่ยวกับการเลเวลอัปได้ที่นี่</a>
 
+RESOURCE ID: shop_gift_confirm_purchase_warning_description
+TEXT: You can send <b>{0}</b> total paid gifts today. This gift cannot be used by another player or refunded.
+
 RESOURCE ID: shop_gift_friend_ineligible_title
 TEXT: ไม่สามารถส่งตั๋วได้
 
@@ -130304,6 +130874,16 @@ TEXT: คุณอาจไม่สามารถส่งของขวั�
 ให้เพื่อนคนดังกล่าวได้
 •พวกเขาปิดระบบรับของขวัญ
 ที่ต้องชำระเงิน
+
+RESOURCE ID: shop_gift_friend_ineligible_description_temp
+TEXT: You may not be able to send paid gifts—including items, tickets, and event passes—to some friends. This can happen for the following reasons:
+
+ • They already own the ticket or event pass, or have already received it from someone else
+ • For tickets, they may have active or completed research that prevents them from receiving it
+ • Your friendship level is too low
+ • They have disabled paid gifts
+ • Their account is not eligible due to restrictions
+ • Cross-currency gifting is not supported
 
 RESOURCE ID: shop_gift_invitation_title
 TEXT: เชิญชวน
@@ -130364,6 +130944,9 @@ TEXT: ส่งของขวัญให้ {0} แล้ว
 
 อย่าลืมไปบอกให้เพื่อนเปิดของขวัญ
 ก่อนอีเวนต์เริ่มนะ!
+
+RESOURCE ID: shop_gift_purchase_invitation_sent_generic_description
+TEXT: Your gift has been sent to {0}.
 
 RESOURCE ID: shop_gift_purchase_select_friend
 TEXT: เลือกเพื่อน
@@ -131728,10 +132311,10 @@ RESOURCE ID: soft_sfida_btn_manage_item_bag
 TEXT: จัดระเบียบกระเป๋าเก็บไอเท็ม
 
 RESOURCE ID: soft_sfida_btn_switch_caps
-TEXT: SWITCH
+TEXT: สลับเปลี่ยน
 
 RESOURCE ID: soft_sfida_btn_unpair_device_caps
-TEXT: UNPAIR DEVICE
+TEXT: ยกเลิกการจับคู่อุปกรณ์
 
 RESOURCE ID: soft_sfida_btn_view_summary
 TEXT: ดูผลสรุป
@@ -135509,6 +136092,12 @@ TEXT: สถานะการจับ
 RESOURCE ID: steel_and_scales_event_name
 TEXT: ปลดล็อกอัลตร้า: เกล็ดและเหล็กกล้า
 
+RESOURCE ID: steel_poi_spin_plural
+TEXT: Spin {0} Steel type-themed PokéStops
+
+RESOURCE ID: steel_poi_spin_singular
+TEXT: Spin a Steel type-themed PokéStop
+
 RESOURCE ID: steel_scales_uu_july2025_cc_bagon
 TEXT: คำท้านักสะสมเกล็ดและเหล็กกล้า: ทัทซึเบ
 
@@ -137942,10 +138531,10 @@ RESOURCE ID: switch_sleep_warning
 TEXT: ขณะที่กำลังเชื่อมต่อกับ Nintendo Switch ห้ามปิดสมาร์ตโฟนของคุณหรือเข้าสู่โหมดสลีป
 
 RESOURCE ID: switch_to_soft_sfida_description_default
-TEXT: If you’re unable to use your device but want to remain paired, you can use your Explorer Gadget instead.
+TEXT: สามารถสลับเปลี่ยนไปใช้งานเครื่องมือนักสำรวจได้ โดยไม่ต้องยกเลิกการจับคู่กับอุปกรณ์ภายนอก
 
 RESOURCE ID: switch_to_soft_sfida_title_default
-TEXT: Pause your device and switch to your Explorer Gadget?
+TEXT: หยุดอุปกรณ์ชั่วคราว แล้วสลับเปลี่ยนเป็นเครื่องมือนักสำรวจหรือไม่?
 
 RESOURCE ID: swsh_masterball_sr_title
 TEXT: งานวิจัยระยะยาว: มาสเตอร์บอล
@@ -149065,6 +149654,12 @@ TEXT: ตั๋วพิศวง ส่วนที่ 3 (3/3)
 
 RESOURCE ID: world_tourism_day
 TEXT: วันท่องเที่ยวโลก
+
+RESOURCE ID: wsw_2026_tr_title
+TEXT: งานวิจัยแบบจำกัดเวลาสัปดาห์อวกาศโลก 2026
+
+RESOURCE ID: wsw2026_event_name
+TEXT: สัปดาห์อวกาศโลก 2026
 
 RESOURCE ID: wte_2019_friend_medium
 TEXT: วันท่องเที่ยวโลก : หาเพื่อนใหม่

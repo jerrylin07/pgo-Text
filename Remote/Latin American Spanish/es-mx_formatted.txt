@@ -61,6 +61,9 @@ TEXT: Al comienzo de cada hora, ¡Zorua aparecerá en grandes cantidades!
 RESOURCE ID: 5_special_trades_total
 TEXT: Un total de cinco intercambios especiales cada día
 
+RESOURCE ID: 5x_mega_energy_electrike_manectric_buddy
+TEXT: 5× Megaenergía al explorar con Electrike o Manectric como compañero después de hacer megaevolucionar a Manectric al menos una vez
+
 RESOURCE ID: 9th_anniversary_event_name
 TEXT: Fiesta del 9.º Aniversario
 
@@ -987,6 +990,15 @@ TEXT: Pikachu de viaje por Indonesia: Yogyakarta (4/5)
 
 RESOURCE ID: air_adventures_yogyakarta_sr_title_04
 TEXT: Pikachu de viaje por Indonesia: Yogyakarta (5/5)
+
+RESOURCE ID: allow_gift_list_prompt_title
+TEXT: Allow Gifting?
+
+RESOURCE ID: allow_gift_list_prompt_desc
+TEXT: After unpausing the following friend will be able to send you paid gifts again.
+
+RESOURCE ID: allow_gift_list_prompt_button_label
+TEXT: YES, ALLOW
 
 RESOURCE ID: allow_notifications_prompt_message
 TEXT: Para mejorar tu experiencia de juego, permite que Pokémon GO acceda a las notificaciones.
@@ -12780,6 +12792,90 @@ TEXT: Saber Siniestro
 RESOURCE ID: badge_gowa_2025_special_research_b_title
 TEXT: Fanatismo Feérico
 
+RESOURCE ID: badge_gowa_2026_cdmx_addon_battle_title
+TEXT: GO Wild Area 2026 – Mexico City: Battle Ready
+
+RESOURCE ID: badge_gowa_2026_cdmx_addon_friday_title
+TEXT: GO Wild Area 2026 – Mexico City: Extra Day (Friday)
+
+RESOURCE ID: badge_gowa_2026_cdmx_addon_hatch_title
+TEXT: GO Wild Area 2026 – Mexico City: Egg–thusiast
+
+RESOURCE ID: badge_gowa_2026_cdmx_addon_saturday_title
+TEXT: GO Wild Area 2026 – Mexico City: Extra Day (Saturday)
+
+RESOURCE ID: badge_gowa_2026_cdmx_addon_sunday_title
+TEXT: GO Wild Area 2026 – Mexico City: Extra Day (Sunday)
+
+RESOURCE ID: badge_gowa_2026_cdmx_friday_title
+TEXT: GO Wild Area 2026 – Mexico City: Friday
+
+RESOURCE ID: badge_gowa_2026_cdmx_saturday_title
+TEXT: GO Wild Area 2026 – Mexico City: Saturday
+
+RESOURCE ID: badge_gowa_2026_cdmx_sunday_title
+TEXT: GO Wild Area 2026 – Mexico City: Sunday
+
+RESOURCE ID: badge_gowa_2026_cdmx_test_addon_battle_title
+TEXT: GO Wild Area 2026 – Mexico City: Battle Ready (Test)
+
+RESOURCE ID: badge_gowa_2026_cdmx_test_addon_extra_day_title
+TEXT: GO Wild Area 2026 – Mexico City: Extra Day (Test)
+
+RESOURCE ID: badge_gowa_2026_cdmx_test_addon_hatch_title
+TEXT: GO Wild Area 2026 – Mexico City: Egg-thusiast (Test)
+
+RESOURCE ID: badge_gowa_2026_cdmx_test_title
+TEXT: GO Wild Area 2026 – Mexico City (Test)
+
+RESOURCE ID: badge_gowa_2026_global_test_title
+TEXT: GO Wild Area 2026 (Test)
+
+RESOURCE ID: badge_gowa_2026_global_title
+TEXT: GO Wild Area 2026
+
+RESOURCE ID: badge_gowa_2026_sendai_addon_battle_title
+TEXT: GO Wild Area 2026 – Sendai・Tohoku: Battle Ready
+
+RESOURCE ID: badge_gowa_2026_sendai_addon_friday_title
+TEXT: GO Wild Area 2026 – Sendai・Tohoku: Extra Day (Friday)
+
+RESOURCE ID: badge_gowa_2026_sendai_addon_hatch_title
+TEXT: GO Wild Area 2026 – Sendai・Tohoku: Egg–thusiast
+
+RESOURCE ID: badge_gowa_2026_sendai_addon_saturday_title
+TEXT: GO Wild Area 2026 – Sendai・Tohoku: Extra Day (Saturday)
+
+RESOURCE ID: badge_gowa_2026_sendai_addon_sunday_title
+TEXT: GO Wild Area 2026 – Sendai・Tohoku: Extra Day (Sunday)
+
+RESOURCE ID: badge_gowa_2026_sendai_friday_title
+TEXT: GO Wild Area 2026 – Sendai・Tohoku: Friday
+
+RESOURCE ID: badge_gowa_2026_sendai_saturday_title
+TEXT: GO Wild Area 2026 – Sendai・Tohoku: Saturday
+
+RESOURCE ID: badge_gowa_2026_sendai_sunday_title
+TEXT: GO Wild Area 2026 – Sendai・Tohoku: Sunday
+
+RESOURCE ID: badge_gowa_2026_sendai_test_addon_battle_title
+TEXT: GO Wild Area 2026 – Sendai・Tohoku: Battle Ready (Test)
+
+RESOURCE ID: badge_gowa_2026_sendai_test_addon_extra_day_title
+TEXT: GO Wild Area 2026 – Sendai・Tohoku: Extra Day (Test)
+
+RESOURCE ID: badge_gowa_2026_sendai_test_addon_hatch_title
+TEXT: GO Wild Area 2026 – Sendai・Tohoku: Egg-thusiast (Test)
+
+RESOURCE ID: badge_gowa_2026_sendai_test_title
+TEXT: GO Wild Area 2026 – Sendai・Tohoku (Test)
+
+RESOURCE ID: badge_gowa_2026_special_research_a_title
+TEXT: Steel Scholar
+
+RESOURCE ID: badge_gowa_2026_special_research_b_title
+TEXT: Dragon Defender
+
 RESOURCE ID: badge_gowa_electric
 TEXT: Área Silvestre de Pokémon GO 2024
 
@@ -12887,6 +12983,90 @@ TEXT: Área Silvestre de Pokémon GO 2025
 
 RESOURCE ID: badge_gowa_2025_special_research_b
 TEXT: Área Silvestre de Pokémon GO 2025
+
+RESOURCE ID: badge_gowa_2026_cdmx_addon_battle
+TEXT: Mexico City, November 6–8, 2026
+
+RESOURCE ID: badge_gowa_2026_cdmx_addon_friday
+TEXT: Mexico City, Friday, November 6, 2026, 10:00 a.m. – 6:00 p.m.
+
+RESOURCE ID: badge_gowa_2026_cdmx_addon_hatch
+TEXT: Mexico City, November 6–8, 2026
+
+RESOURCE ID: badge_gowa_2026_cdmx_addon_saturday
+TEXT: Mexico City, Saturday, November 7, 2026, 10:00 a.m. – 6:00 p.m.
+
+RESOURCE ID: badge_gowa_2026_cdmx_addon_sunday
+TEXT: Mexico City, Sunday, November 8, 2026, 10:00 a.m. – 6:00 p.m.
+
+RESOURCE ID: badge_gowa_2026_cdmx_friday
+TEXT: Mexico City, Friday, November 6, 2026, 10:00 a.m. – 6:00 p.m.
+
+RESOURCE ID: badge_gowa_2026_cdmx_saturday
+TEXT: Mexico City, Saturday, November 7, 2026, 10:00 a.m. – 6:00 p.m.
+
+RESOURCE ID: badge_gowa_2026_cdmx_sunday
+TEXT: Mexico City, Sunday, November 8, 2026, 10:00 a.m. – 6:00 p.m.
+
+RESOURCE ID: badge_gowa_2026_cdmx_test
+TEXT: Mexico City, November 6–8, 2026
+
+RESOURCE ID: badge_gowa_2026_cdmx_test_addon_battle
+TEXT: Mexico City, November 6–8, 2026
+
+RESOURCE ID: badge_gowa_2026_cdmx_test_addon_extra_day
+TEXT: Mexico City, November 6–8, 2026
+
+RESOURCE ID: badge_gowa_2026_cdmx_test_addon_hatch
+TEXT: Mexico City, November 6–8, 2026
+
+RESOURCE ID: badge_gowa_2026_global
+TEXT: November 14–15, 2026
+
+RESOURCE ID: badge_gowa_2026_global_test
+TEXT: November 14–15, 2026
+
+RESOURCE ID: badge_gowa_2026_sendai_addon_battle
+TEXT: Sendai・Tohoku, November 6–8, 2026
+
+RESOURCE ID: badge_gowa_2026_sendai_addon_friday
+TEXT: Sendai・Tohoku, Friday, November 6, 2026, 10:00 a.m. – 6:00 p.m.
+
+RESOURCE ID: badge_gowa_2026_sendai_addon_hatch
+TEXT: Sendai・Tohoku, November 6–8, 2026
+
+RESOURCE ID: badge_gowa_2026_sendai_addon_saturday
+TEXT: Sendai・Tohoku, Saturday, November 7, 2026, 10:00 a.m. – 6:00 p.m.
+
+RESOURCE ID: badge_gowa_2026_sendai_addon_sunday
+TEXT: Sendai・Tohoku, Sunday, November 8, 2026, 10:00 a.m. – 6:00 p.m.
+
+RESOURCE ID: badge_gowa_2026_sendai_friday
+TEXT: Sendai・Tohoku, Friday, November 6, 2026, 10:00 a.m. – 6:00 p.m.
+
+RESOURCE ID: badge_gowa_2026_sendai_saturday
+TEXT: Sendai・Tohoku, Saturday, November 7, 2026, 10:00 a.m. – 6:00 p.m.
+
+RESOURCE ID: badge_gowa_2026_sendai_sunday
+TEXT: Sendai・Tohoku, Sunday, November 8, 2026, 10:00 a.m. – 6:00 p.m.
+
+RESOURCE ID: badge_gowa_2026_sendai_test
+TEXT: Sendai・Tohoku, November 6–8, 2026
+
+RESOURCE ID: badge_gowa_2026_sendai_test_addon_battle
+TEXT: Sendai・Tohoku, November 6–8, 2026
+
+RESOURCE ID: badge_gowa_2026_sendai_test_addon_extra_day
+TEXT: Sendai・Tohoku, November 6–8, 2026
+
+RESOURCE ID: badge_gowa_2026_sendai_test_addon_hatch
+TEXT: Sendai・Tohoku, November 6–8, 2026
+
+RESOURCE ID: badge_gowa_2026_special_research_a
+TEXT: Pokémon GO Wild Area 2026
+
+RESOURCE ID: badge_gowa_2026_special_research_b
+TEXT: Pokémon GO Wild Area 2026
 
 RESOURCE ID: badge_gowa_electric_title
 TEXT: Talento Eléctrico
@@ -15506,7 +15686,7 @@ RESOURCE ID: batch_transfer_unique_location_background_pokemon_singular
 TEXT: {0} fondo de la ubicación
 
 RESOURCE ID: batch_transfer_unique_location_card_pokemon
-TEXT: {0} Pokémon con un fondo poco común
+TEXT: {0} Pokémon con un fondo raro
 
 RESOURCE ID: batch_transfer_unique_mega_level_pokemon
 TEXT: {0} Pokémon con meganivel
@@ -18487,6 +18667,9 @@ TEXT: 8× EXP por captura
 RESOURCE ID: bonus_10_daily_raid_passes
 TEXT: Recibe hasta 10 Pases de Incursión sin costo girando fotodiscos en Gimnasios
 
+RESOURCE ID: bonus_10k_egg_rate
+TEXT: Increased chance of receiving event-themed 10 km Eggs from spinning PokéStops or Gyms
+
 RESOURCE ID: bonus_10k_eggs_increased
 TEXT: Mayor probabilidad de obtener Huevos de 10 km al girar fotodiscos en Poképaradas o Gimnasios
 
@@ -18998,6 +19181,9 @@ TEXT: Encuentros sorpresa diarios con Pikachu con camisa azul de cítricos y Far
 RESOURCE ID: bonus_farfetchd_kanto_spawn
 TEXT: ¡Están apareciendo una gran cantidad de Farfetch'd en la zona!
 
+RESOURCE ID: bonus_fast_charged_tm_pois
+TEXT: Posibilidad de obtener una MT de ataque rápido o MT de ataque cargado al girar fotodiscos en Poképaradas o Gimnasios
+
 RESOURCE ID: bonus_feature_behemoth_blade_and_behemoth_bash_boost_max
 TEXT: Mejora de la potencia de Corte Supremo y de Golpe Supremo durante los combates Max
 
@@ -19433,8 +19619,14 @@ TEXT: Mega-Aerodactyl en incursiones especiales locales
 RESOURCE ID: bonus_mega_cp_boost
 TEXT: PC potenciados para todos los Pokémon megaevolucionados
 
+RESOURCE ID: bonus_mega_duration_72hr
+TEXT: 72 horas de duración de la megaevolución
+
 RESOURCE ID: bonus_mega_energy_gible
 TEXT: Consigue 300 Megaenergías Garchomp al completar el Desafío de Colección de Gible
+
+RESOURCE ID: bonus_mega_energy_catch_chance
+TEXT: Posibilidad de recibir Megaenergía al atrapar Pokémon atraídos por Módulos Señuelo que pueden megaevolucionar
 
 RESOURCE ID: bonus_mega_energy_spin_chance
 TEXT: Mayor probabilidad de recibir Megaenergía al girar fotodiscos en Poképaradas o Gimnasios
@@ -19552,6 +19744,9 @@ TEXT: Pikachu asistente del Profesor Willow está apareciendo en las incursiones
 
 RESOURCE ID: bonus_pikachu_30thapac
 TEXT: Pikachu de PokéXciting! está apareciendo en estado salvaje, en la Investigación Temporal del evento y en los encuentros sorpresa de las Fotos GO
+
+RESOURCE ID: bonus_pikachu_astro_costume
+TEXT: Pikachu Astronauta está apareciendo en las incursiones
 
 RESOURCE ID: bonus_pikachu_npb_costume
 TEXT: Pikachu con camiseta de béisbol está apareciendo en las incursiones y en la Investigación Temporal
@@ -20069,6 +20264,9 @@ TEXT: Bonificación de Investigación Temporal de Alto voltaje
 RESOURCE ID: bonus_tr_gbl_championships_2026_a_title
 TEXT: Bonificación de Investigación Temporal de Poder Antiguo
 
+RESOURCE ID: bonus_tr_gbl_championships_2027_a_title
+TEXT: Megaimpulso
+
 RESOURCE ID: bonus_tr_gbl_championships_2024_a_desc
 TEXT: Esto es sólo el comienzo: Bonificación de Investigación Temporal
 
@@ -20080,6 +20278,9 @@ TEXT: Bonificación de Investigación Temporal de Alto voltaje
 
 RESOURCE ID: bonus_tr_gbl_championships_2026_a_desc
 TEXT: Bonificación de Investigación Temporal de Poder Antiguo
+
+RESOURCE ID: bonus_tr_gbl_championships_2027_a_desc
+TEXT: Bonificación de Investigación Temporal de Megaimpulso
 
 RESOURCE ID: bonus_tr_gbl_euic_2024_a_title
 TEXT: Campeón del Campeonato Internacional Pokémon de Latinoamérica 2024
@@ -28386,6 +28587,9 @@ TEXT: Investigación Temporal Prémium de A la playa
 RESOURCE ID: concierge_promo_tr_name
 TEXT: Bonificación de Investigación Temporal de Concierge Pokémon
 
+RESOURCE ID: confirm_gift_purchase_v2_reward_points_prefix
+TEXT: You will receive
+
 RESOURCE ID: confirm_send_button
 TEXT: ENVIAR
 
@@ -29267,6 +29471,9 @@ TEXT: ¿Quieres eliminar el equipo de combate {0}?
 RESOURCE ID: delete_gift_confirmation
 TEXT: ¿De verdad quieres eliminar este regalo?
 
+RESOURCE ID: delete_gift_message
+TEXT: Gifts do not count toward Item Bag storage.
+
 RESOURCE ID: delete_pokemon_tag_confirmation
 TEXT: Esta etiqueta será eliminada de los Pokémon a los que fue asignada. Los Pokémon no serán transferidos al Profesor Willow.
 
@@ -29739,6 +29946,12 @@ TEXT: No es posible descargar los archivos
 
 RESOURCE ID: downloading_avatar_assets_warning_body
 TEXT: Hubo un problema al descargar los archivos. Asegúrate de tener una conexión de red estable y reinicia el juego.
+
+RESOURCE ID: dragon_poi_spin_plural
+TEXT: Spin {0} Dragon type-themed PokéStops
+
+RESOURCE ID: dragon_poi_spin_singular
+TEXT: Spin a Dragon type-themed PokéStop
 
 RESOURCE ID: dragon_type_event
 TEXT: Ola de Tipo: Dragón
@@ -31216,6 +31429,18 @@ TEXT: Este apodo ya no está disponible.
 
 RESOURCE ID: error_weak_network
 TEXT: Actualmente, tu conexión de red es inestable. Vuelve a intentarlo más tarde.
+
+RESOURCE ID: esa_2026_title
+TEXT: Evento de la Agencia Espacial Europea 2026
+
+RESOURCE ID: esa_2026_tr_title
+TEXT: Investigación Temporal del Evento de la Agencia Espacial Europea 2026
+
+RESOURCE ID: esa_2026_tr_01
+TEXT: Investigación Temporal del Evento de la Agencia Espacial Europea 2026 (1/2)
+
+RESOURCE ID: esa_2026_tr_02
+TEXT: Investigación Temporal del Evento de la Agencia Espacial Europea 2026 (2/2)
 
 RESOURCE ID: europe_international_championships_bonus_2024
 TEXT: Campeonato Internacional Pokémon de Europa 2024: Bonificación
@@ -33915,6 +34140,15 @@ TEXT: Gira un fotodisco en una Poképarada con temática de tipo Hada
 
 RESOURCE ID: fairy_type_event
 TEXT: Ola de Tipo: Hada
+
+RESOURCE ID: fall_marathon_event_name_2026
+TEXT: Maratón de las hojas: Excursión en compañía
+
+RESOURCE ID: fall_marathon_incense_bramblin
+TEXT: El Incienso podrá atraer a Bramblin
+
+RESOURCE ID: fall_marathon_tr_title
+TEXT: Investigación Temporal de Maratón de las hojas
 
 RESOURCE ID: fantasy_cup_great_title
 TEXT: Copa Fantasía: Edición Liga Superbola
@@ -39161,6 +39395,9 @@ TEXT: Seleccionar
 RESOURCE ID: general_days_remaining
 TEXT: {0} d
 
+RESOURCE ID: general_device_troubleshooting_id_scopely_helpshift
+TEXT: 1337
+
 RESOURCE ID: general_do_not_allow
 TEXT: No permitir
 
@@ -39278,6 +39515,12 @@ TEXT: Listo
 RESOURCE ID: generic_contact_support
 TEXT: Cómo compartir registros de juego
 
+RESOURCE ID: generic_event_pass_premium_unlock
+TEXT: GO Pass Deluxe
+
+RESOURCE ID: generic_event_pass_premium_unlock_plus_points
+TEXT: GO Pass Deluxe + Ranks
+
 RESOURCE ID: generic_player_lockout
 TEXT: Tu cuenta fue suspendida por violar las Condiciones de servicio.
 
@@ -39285,6 +39528,9 @@ TEXT: Tu cuenta fue suspendida por violar las Condiciones de servicio.
 
 RESOURCE ID: generic_track_upgrade_header_description
 TEXT: ¡Obtén recompensas adicionales y desbloquea un <b>encuentro con Dottler</b> en el rango 30!
+
+RESOURCE ID: gengar_bonus_raid
+TEXT: Están apareciendo Mega-Gengar en incursiones
 
 RESOURCE ID: gengeneral1.ticket.2_dratini_cdc_description
 TEXT: Una entrada para acceder a la Investigación Especial "Clásicos del Día de la Comunidad: Dratini" el 5 de noviembre de 2022 de 2 p. m. a 5 p. m. en tu hora local, estés donde estés. Puedes encontrar más información en las Noticias dentro de la aplicación.
@@ -39348,6 +39594,15 @@ TEXT: Saludos desde
 RESOURCE ID: gift_from_sponsor
 TEXT: ¡Abre un regalo de patrocinador!
 
+RESOURCE ID: gift_multi_delete_complete
+TEXT: Your selection has been cleared.
+
+RESOURCE ID: gift_multi_delete_plural
+TEXT: Discard these {0} Gifts?
+
+RESOURCE ID: gift_multi_delete_button_text
+TEXT: DISCARD ({0})
+
 RESOURCE ID: gift_open_double
 TEXT: Abre 2× regalos
 
@@ -39409,6 +39664,11 @@ RESOURCE ID: gifting_error_description
 TEXT: Lo sentimos.
 No se pudo enviar tu regalo porque el destinatario obtuvo la misma entrada para el evento antes de que tu compra se completara. Puedes elegir a otra amistad y enviarle la entrada.
 Si prefieres obtener un reembolso, puedes solicitarlo a través de tu tienda de aplicaciones.
+
+RESOURCE ID: gifting_error_description_temp
+TEXT: Unfortunately, this Friend is now ineligible for receiving this paid gift. This can happen for a variety of reasons.
+
+You can choose a new friend to send this to now.
 
 RESOURCE ID: gifting_error_refund_button
 TEXT: SOLICITAR REEMBOLSO
@@ -47670,6 +47930,99 @@ TEXT: Área Silvestre de Pokémon GO 2025: Domingo durante el evento
 RESOURCE ID: gowa_2025_sun_ticketed
 TEXT: Área Silvestre de Pokémon GO 2025: Domingo urante el evento (Entrada)
 
+RESOURCE ID: gowa_2026
+TEXT: Pokémon GO Wild Area 2026
+
+RESOURCE ID: gowa_2026_all_sat
+TEXT: Pokémon GO Wild Area 2026: All-Day Saturday
+
+RESOURCE ID: gowa_2026_all_sun
+TEXT: Pokémon GO Wild Area 2026: All-Day Sunday
+
+RESOURCE ID: gowa_2026_all_weekend
+TEXT: Pokémon GO Wild Area 2026: All Weekend
+
+RESOURCE ID: gowa_2026_all_weekend_ticketed
+TEXT: Pokémon GO Wild Area 2026: All Weekend (Ticket)
+
+RESOURCE ID: gowa_2026_cdmx
+TEXT: Pokémon GO Wild Area 2026: Mexico City
+
+RESOURCE ID: gowa_2026_cdmx_extended_bonus
+TEXT: Pokémon GO Wild Area 2026: Mexico City – Extended Bonuses
+
+RESOURCE ID: gowa_2026_content_hashtag
+TEXT: Post photos with #GOWildArea2026, and we’ll share our favorites!
+
+RESOURCE ID: gowa_2026_dragon_badge_candy_xl_bonus
+TEXT: One additional Candy XL from catching Dragon-type mighty Pokémon
+
+RESOURCE ID: gowa_2026_dragon_badge_stardust_bonus
+TEXT: 1,000 additional Stardust from catching Dragon-type mighty Pokémon
+
+RESOURCE ID: gowa_2026_fri_ticketed
+TEXT: Pokémon GO Wild Area 2026: All-Day Friday (Ticket)
+
+RESOURCE ID: gowa_2026_global_extended_bonus
+TEXT: Pokémon GO Wild Area 2026 – Extended Bonuses
+
+RESOURCE ID: gowa_2026_habitat_cc_description
+TEXT: Catch event Pokémon!
+
+RESOURCE ID: gowa_2026_habitat_global_cc_saturday
+TEXT: Wild Area Collection Challenge: Saturday
+
+RESOURCE ID: gowa_2026_habitat_global_cc_sunday
+TEXT: Wild Area Collection Challenge: Sunday
+
+RESOURCE ID: gowa_2026_habitat_now_dragon
+TEXT: Happening now: Solid as Steel Hour
+
+RESOURCE ID: gowa_2026_habitat_now_steel
+TEXT: Happening now: Daring as Dragons Hour
+
+RESOURCE ID: gowa_2026_irl_cc_cdmx_friday
+TEXT: GO Wild Area: Mexico City Collection Challenge
+
+RESOURCE ID: gowa_2026_irl_cc_cdmx_saturday
+TEXT: GO Wild Area: Mexico City Collection Challenge
+
+RESOURCE ID: gowa_2026_irl_cc_cdmx_sunday
+TEXT: GO Wild Area: Mexico City Collection Challenge
+
+RESOURCE ID: gowa_2026_irl_cc_sendai_friday
+TEXT: GO Wild Area: Sendai・Tohoku Collection Challenge
+
+RESOURCE ID: gowa_2026_irl_cc_sendai_saturday
+TEXT: GO Wild Area: Sendai・Tohoku Collection Challenge
+
+RESOURCE ID: gowa_2026_irl_cc_sendai_sunday
+TEXT: GO Wild Area: Sendai・Tohoku Collection Challenge
+
+RESOURCE ID: gowa_2026_sat
+TEXT: Pokémon GO Wild Area 2026: Saturday Event Hours
+
+RESOURCE ID: gowa_2026_sat_ticketed
+TEXT: Pokémon GO Wild Area 2026: Saturday Event Hours (Ticket)
+
+RESOURCE ID: gowa_2026_sendai
+TEXT: Pokémon GO Wild Area 2026: Sendai・Tohoku
+
+RESOURCE ID: gowa_2026_sendai_extended_bonus
+TEXT: Pokémon GO Wild Area 2026: Sendai・Tohoku – Extended Bonuses
+
+RESOURCE ID: gowa_2026_steel_badge_candy_xl_bonus
+TEXT: One additional Candy XL from catching Steel-type mighty Pokémon
+
+RESOURCE ID: gowa_2026_steel_badge_stardust_bonus
+TEXT: 1,000 additional Stardust from catching Steel-type mighty Pokémon
+
+RESOURCE ID: gowa_2026_sun
+TEXT: Pokémon GO Wild Area 2026: Sunday Event Hours
+
+RESOURCE ID: gowa_2026_sun_ticketed
+TEXT: Pokémon GO Wild Area 2026: Sunday Event Hours (Ticket)
+
 RESOURCE ID: gowa2024
 TEXT: Área Silvestre de Pokémon GO 2024
 
@@ -49981,6 +50334,9 @@ TEXT: Camino a las recompensas
 RESOURCE ID: iap_category_team_change
 TEXT: Cambio de equipo
 
+RESOURCE ID: iap_friend_picker_last_sent
+TEXT: Last Sent
+
 RESOURCE ID: iap_item_unavailable
 TEXT: Este objeto ya no se puede comprar.
 
@@ -50946,6 +51302,9 @@ TEXT: Encuentro con Moltres
 RESOURCE ID: item_amer2026_milestone_name
 TEXT: Elekid con accesorio inspirado en Spark
 
+RESOURCE ID: item_bag_bonus
+TEXT: bonus
+
 RESOURCE ID: item_bag_deployed
 TEXT: This item can’t be used on a Pokémon placed at a Power Spot or defending a Gym.
 
@@ -50960,6 +51319,9 @@ TEXT: Mejoras de Entrenador
 
 RESOURCE ID: item_bag_category_evolution
 TEXT: Objetos de evolución
+
+RESOURCE ID: item_bag_category_featured
+TEXT: Featured
 
 RESOURCE ID: item_bag_category_gifts
 TEXT: Regalos
@@ -52925,6 +53287,9 @@ TEXT: Horas restantes: {0}
 RESOURCE ID: item_expire_timer_minutes_seconds_left
 TEXT: Tiempo restante: {0}
 
+RESOURCE ID: item_fall_marathon_2026_milestone_name
+TEXT: Encuentro con Bramblin
+
 RESOURCE ID: item_flying_taxi_milestone_name
 TEXT: Superradar Rocket
 
@@ -53212,6 +53577,12 @@ TEXT: Un aparato en el que se incuba un Huevo que eclosionará cuando explores. 
 
 RESOURCE ID: item_incubator_timed_name
 TEXT: Incubadora Temporal
+
+RESOURCE ID: item_inventory_paid_gift_banner_title
+TEXT: You have paid gifts
+
+RESOURCE ID: item_inventory_paid_gift_banner_subtitle
+TEXT: Send to your Friends?
 
 RESOURCE ID: item_item_pack_desc
 TEXT: Aumenta el tamaño de tu Bolsa.
@@ -54369,6 +54740,30 @@ TEXT: Investigación Temporal de Un estudio en lo morado (2/3)
 RESOURCE ID: kr_ditto_event_2025_tr_name_3
 TEXT: Investigación Temporal de Un estudio en lo morado (3/3)
 
+RESOURCE ID: kr_fcseoul_collab_2026_title
+TEXT: FC Seoul Event 2026
+
+RESOURCE ID: kr_fcseoul_collab_2026_bonus_raid_lc_desc
+TEXT: During event hours on October 24, Charmander caught from raids around the Seoul World Cup Stadium event area may have an exclusive Location Background
+
+RESOURCE ID: kr_fcseoul_collab_2026_bonus_tr_lc_desc
+TEXT: Charizard encountered from event Timed Research will have an exclusive Location Background
+
+RESOURCE ID: kr_fcseoul_collab_2026_bonus_wild_pokemon
+TEXT: Catch Fire-type Pokémon around the Seoul World Cup Stadium event area—let’s fire it up for FC Seoul!
+
+RESOURCE ID: kr_fcseoul_collab_2026_tr_name
+TEXT: FC Seoul Event 2026 Timed Research
+
+RESOURCE ID: kr_fcseoul_collab_2026_tr_name_1
+TEXT: FC Seoul Event 2026 Timed Research (1/3)
+
+RESOURCE ID: kr_fcseoul_collab_2026_tr_name_2
+TEXT: FC Seoul Event 2026 Timed Research (2/3)
+
+RESOURCE ID: kr_fcseoul_collab_2026_tr_name_3
+TEXT: FC Seoul Event 2026 Timed Research (3/3)
+
 RESOURCE ID: kr_festival_fr_location_background
 TEXT: Los Deerling y los Pikachu disfrazados atrapados en tareas de Investigación de Campo pueden tener un fondo de la ubicación exclusivo
 
@@ -54445,13 +54840,13 @@ RESOURCE ID: kr_hanbok_pikachu_picnic_2026_tr_name_3
 TEXT: Investigación temporal del Día de paseo de Pikachu en Corea 2026 (3/3)
 
 RESOURCE ID: kr_hangul_day_2026_title
-TEXT: Hangul Day 2026
+TEXT: Día del Hangul 2026
 
 RESOURCE ID: kr_hangul_day_2026_bonus_desc
-TEXT: Celebrate Hangul Day with event-themed Pokémon appearing in the wild! Use Incense or Lure Modules to encounter special Pokémon.
+TEXT: ¡Celebra el Día del Hangul con la aparición de Pokémon del evento salvajes! Usa un Incienso o Módulo Señuelo para encontrarte con Pokémon especiales.
 
 RESOURCE ID: kr_hangul_day_sep2026_cc_title
-TEXT: Hangul Day 2026 Collection Challenge
+TEXT: Desafío de Colección del Día del Hangul 2026
 
 RESOURCE ID: kr_lantern_festival_2025_massive_bonus_title
 TEXT: ¡Llega El momento de Magikarp!
@@ -57285,7 +57680,7 @@ RESOURCE ID: location_card_tutorial_header
 TEXT: Fondos de la ubicación
 
 RESOURCE ID: location_card_tutorial_message
-TEXT: ¡Obtuviste un fondo de la ubicación! Estos fondos son poco comunes y los puedes recibir por atrapar Pokémon en lugares especiales. ¡Colecciónalos!
+TEXT: ¡Obtuviste un fondo de la ubicación! Estos son fondos raros que puedes recibir por atrapar Pokémon en lugares especiales. ¡Colecciónalos!
 
 RESOURCE ID: location_space_limit_message
 TEXT: No hay suficiente espacio
@@ -58187,6 +58582,9 @@ TEXT: Encuentro: Zekrom (2025)
 
 RESOURCE ID: __male_speaker
 TEXT: ¡Asegúrate de usar ataques que aprovechen la debilidad de los Pokémon rivales!
+
+RESOURCE ID: manage_gifts_header
+TEXT: Manage Gifts
 
 RESOURCE ID: manage_items_button
 TEXT: Gestionar objetos
@@ -59907,10 +60305,10 @@ at SHA 0b3915937aff7
 Pipeline 2177475, job 26434025
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-09-17T05:05:53.880793+00:00 for es-MX
-at SHA 37a1529ab2c
-Pipeline 3950659, job 58169809
-Patch from: 0.431.0-SHA-8123c737-RC1, 0.427.0-SHA-fc729f25-RC2, 0.429.0-SHA-d6c796f0-RC1, 0.427.1-SHA-4a569ba7-RC1
+TEXT: Built at 2026-09-24T01:18:40.315486+00:00 for es-MX
+at SHA 6210d7033b5
+Pipeline 3966222, job 58390716
+Patch from: 0.429.1-SHA-5521c4dc-RC1, 0.431.0-SHA-76e2198b-RC4
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: Investigación Temporal: Elige tu tipo de lucha
@@ -65692,6 +66090,21 @@ TEXT: Ascenso al ozono
 RESOURCE ID: ozone_ascent_free_timed_research
 TEXT: Investigación Temporal de Ascenso al ozono
 
+RESOURCE ID: paid_gift_already_purchased_modal_title
+TEXT: You have already purchased this paid gift.
+
+RESOURCE ID: paid_gift_already_purchased_modal_button
+TEXT: GO TO INVENTORY
+
+RESOURCE ID: paid_gift_already_purchased_modal_message
+TEXT: Please check your inventory to send your paid gift.
+
+RESOURCE ID: paid_gift_regift_no_longer_available_modal_title
+TEXT: Gifting Error
+
+RESOURCE ID: paid_gift_regift_no_longer_available_modal_message
+TEXT: This item is no longer available and cannot be gifted.
+
 RESOURCE ID: paid_pikachu_gmax_tr_mar26
 TEXT: Investigación Temporal Prémium de Pikachu Gigamax
 
@@ -65803,6 +66216,21 @@ TEXT: Investigación Limitada de Socio: Amazon Prime Gaming (1/2)
 
 RESOURCE ID: partner_research_ltd_amazon_gaming_01
 TEXT: Investigación Limitada de Socio: Amazon Prime Gaming (2/2)
+
+RESOURCE ID: partnership_gengar_2026_event_title
+TEXT: Evento de Celebración 30.º Aniversario de JCC Pokémon
+
+RESOURCE ID: partnership_gengar_2026_tr_title
+TEXT: Bonificación de Investigación Temporal del Evento de Celebración 30.º Aniversario de JCC Pokémon
+
+RESOURCE ID: partnership_gengar_2026_tr_desc_00
+TEXT: Bonificación de Investigación Temporal del Evento de Celebración 30.º Aniversario de JCC Pokémon (1/3)
+
+RESOURCE ID: partnership_gengar_2026_tr_desc_01
+TEXT: Bonificación de Investigación Temporal del Evento de Celebración 30.º Aniversario de JCC Pokémon (2/3)
+
+RESOURCE ID: partnership_gengar_2026_tr_desc_02
+TEXT: Bonificación de Investigación Temporal del Evento de Celebración 30.º Aniversario de JCC Pokémon (3/3)
 
 RESOURCE ID: partnership_latam_soccer_collab_event_title
 TEXT: Pokémon GOooool
@@ -66641,6 +67069,18 @@ TEXT: Podrás seguir recibiendo sellos de tus amistades incluso después de paus
 
 RESOURCE ID: pause_dialog_subtitle
 TEXT: Dejarás de coleccionar sellos para esta búsqueda si la pones en pausa. Puedes reanudarla en cualquier momento desde la página de colecciones.
+
+RESOURCE ID: pause_gift_list_title
+TEXT: Pause Gifts List
+
+RESOURCE ID: pause_gift_list_prompt_title
+TEXT: Pause Gifting?
+
+RESOURCE ID: pause_gift_list_prompt_desc
+TEXT: The following Friend will be unable to send you paid gifts. You can enable them to send again at any point.
+
+RESOURCE ID: pause_gift_list_prompt_button_label
+TEXT: YES, PAUSE
 
 RESOURCE ID: pause_route_travel_error_toast
 TEXT: Error al pausar la Ruta
@@ -76308,6 +76748,15 @@ TEXT: No puedes seleccionar Pokémon brillantes.
 RESOURCE ID: pokemon_info_multi_transfer_ultra_beast_pokemon_error
 TEXT: No puedes seleccionar Ultraentes.
 
+RESOURCE ID: pokemon_info_no_evolve_pokemon
+TEXT: No Pokémon can use this item to evolve.
+
+RESOURCE ID: pokemon_info_no_fainted_pokemon
+TEXT: No Pokémon need to be revived.
+
+RESOURCE ID: pokemon_info_no_hurt_pokemon
+TEXT: All Pokémon are fully healed.
+
 RESOURCE ID: pokemon_info_no_stats_available
 TEXT: No se pueden entrenar otras características con este Pokémon.
 
@@ -76526,7 +76975,7 @@ RESOURCE ID: pokemon_location_background_info_transfer_to_professor_confirmation
 TEXT: ¿De verdad quieres transferir este Pokémon que tiene un fondo de la ubicación?
 
 RESOURCE ID: pokemon_location_card_info_transfer_to_professor_confirmation
-TEXT: ¿De verdad quieres transferir este Pokémon que tiene un fondo poco común?
+TEXT: ¿De verdad quieres transferir este Pokémon que tiene un fondo raro?
 
 RESOURCE ID: pokemon_lucky_info_transfer_to_professor_confirmation
 TEXT: ¿De verdad quieres transferir este Pokémon con suerte?
@@ -80792,6 +81241,65 @@ TEXT: Deluxe
 RESOURCE ID: premium_rewards
 TEXT: RECOMPENSAS PRÉMIUM
 
+RESOURCE ID: premium_gift_sent
+TEXT: You sent a paid gift to {0}
+
+RESOURCE ID: premium_gift_ftue_title
+TEXT: Introducing More Gifting Options in the Shop
+
+RESOURCE ID: premium_gift_ftue_desc
+TEXT: You can now send and receive more types of gifts through the Shop!
+
+Do you want to opt in? You can change this at any point in Settings.
+
+RESOURCE ID: premium_gift_notification_event_pass_title
+TEXT: GO Pass
+
+RESOURCE ID: premium_gift_notification_event_pass_desc
+TEXT: Greetings, <b>{0}</b>! Here’s an GO Pass for you. Let’s see who can complete it and get all the rewards!
+
+Sincerely,
+—<b>{1}</b>
+
+RESOURCE ID: premium_gift_notification_items_title
+TEXT: Gift For You
+
+RESOURCE ID: premium_gift_notification_multiple_trainers_desc
+TEXT: Greetings, <b>{0}</b>!
+
+Your Friends sent some gifts for you!
+
+
+RESOURCE ID: premium_gift_notification_one_trainer_multiple_items_desc
+TEXT: Greetings, <b>{0}</b>!
+
+Here are gifts for you!
+{2}
+
+Sincerely,
+—<b>{1}</b>
+
+RESOURCE ID: premium_gift_notification_one_trainer_one_item_desc
+TEXT: Greetings, <b>{0}</b>!
+
+Here’s a gift for you!
+{2}
+
+Sincerely,
+—<b>{1}</b>
+
+RESOURCE ID: premium_gift_received_event_pass
+TEXT: {0} gifted you an GO Pass!
+
+RESOURCE ID: premium_gift_received_event_ticket
+TEXT: {0} gifted you a ticket for an event!
+
+RESOURCE ID: premium_gift_received_item_multi
+TEXT: {0} gifted you a {1} and more!
+
+RESOURCE ID: premium_gift_received_item_single
+TEXT: {0} gifted you a {1}!
+
 RESOURCE ID: primal_revert
 TEXT: Regresión Primigenia
 
@@ -82110,6 +82618,9 @@ TEXT: Obtén {0} corazones con un compañero de tipo Siniestro
 RESOURCE ID: quest_buddy_affection_days_in_a_row
 TEXT: Obtén un corazón con tu compañero durante {0} días consecutivos
 
+RESOURCE ID: quest_buddy_affection_dragon_plural
+TEXT: Earn {0} hearts with a Dragon-type buddy
+
 RESOURCE ID: quest_buddy_affection_electric_plural
 TEXT: Obtén {0} corazones con un compañero de tipo Eléctrico
 
@@ -82124,6 +82635,9 @@ TEXT: Obtén {0} corazones con un compañero de tipo Veneno
 
 RESOURCE ID: quest_buddy_affection_poison_singular
 TEXT: Obtén un corazón con un compañero de tipo Veneno
+
+RESOURCE ID: quest_buddy_affection_steel_plural
+TEXT: Earn {0} hearts with a Steel-type buddy
 
 RESOURCE ID: quest_buddy_affection_zeraora_plural
 TEXT: Obtén {0} corazones con Zeraora como tu compañero
@@ -85515,6 +86029,9 @@ TEXT: Obtén un Caramelo explorando con Carbink como tu compañero
 RESOURCE ID: quest_explore_buddy_dark
 TEXT: Obtén un Caramelo explorando con un Pokémon de tipo Siniestro como tu compañero
 
+RESOURCE ID: quest_explore_buddy_dragon
+TEXT: Earn a Candy exploring with a Dragon-type as your buddy
+
 RESOURCE ID: quest_explore_buddy_electric
 TEXT: Obtén un Caramelo explorando con un Pokémon de tipo Eléctrico como tu compañero
 
@@ -85526,6 +86043,9 @@ TEXT: Consigue {0} Caramelos explorando con tu compañero
 
 RESOURCE ID: quest_explore_buddy_poison
 TEXT: Obtén un Caramelo explorando con un Pokémon de tipo Veneno como tu compañero
+
+RESOURCE ID: quest_explore_buddy_steel
+TEXT: Earn a Candy exploring with a Steel-type as your buddy
 
 RESOURCE ID: quest_explore_buddy_routes_plural
 TEXT: Obtén {0} Caramelos explorando Rutas con tu compañero
@@ -108765,6 +109285,9 @@ TEXT: ¿Tirar
 RESOURCE ID: recycle_dialog_suffix
 TEXT: {0}?
 
+RESOURCE ID: recycle_discard_all
+TEXT: YES, DISCARD ALL
+
 RESOURCE ID: reduced_buddy_candy_distance_routes
 TEXT: Distancia reducida para obtener Caramelos de compañero explorando Rutas con tu compañero
 
@@ -113961,6 +114484,9 @@ TEXT: Pase de GO: Spark y la búsqueda de la conservación
 RESOURCE ID: season_pass_base_track_title_emea_2026
 TEXT: Pase de GO: Candela y la búsqueda de la victoria
 
+RESOURCE ID: season_pass_base_track_title_fall_marathon_2026
+TEXT: Pase de GO: Maratón de las hojas
+
 RESOURCE ID: season_pass_base_track_title_flying_taxi_2026
 TEXT: Pase de GO: Taxi volador
 
@@ -113968,7 +114494,7 @@ RESOURCE ID: season_pass_base_track_title_halloween_2025
 TEXT: Pase de GO: Halloween 2025
 
 RESOURCE ID: season_pass_base_track_title_harvest_festival_2026
-TEXT: GO Pass: Harvest Festival
+TEXT: Pase de GO: Festival de la Cosecha
 
 RESOURCE ID: season_pass_base_track_title_horizons_fall_2026
 TEXT: Pase de GO: Celebración del evento de colaboración
@@ -114129,6 +114655,9 @@ TEXT: Para obtener más información, visita el <a href="https://pokemongo.com/n
 RESOURCE ID: season_pass_details_link_amer_2026
 TEXT: Para obtener más información, visita el <a href="https://pokemongo.com/news/global-events-gofest2026-overlays">sitio web</a>.
 
+RESOURCE ID: season_pass_details_link_fall_marathon_2026
+TEXT: Para obtener más información, visita el <a href="https://pokemongo.com/news/fall-marathon-buddy-trek-2026">sitio web</a>.
+
 RESOURCE ID: season_pass_details_link_flying_taxi_2026
 TEXT: Para obtener más información, visita el <a href="https://pokemongo.com/news/flying-taxi-2026">sitio web</a>.
 
@@ -114136,7 +114665,7 @@ RESOURCE ID: season_pass_details_link_halloween_2025
 TEXT: Para obtener más información, visita el <a href="https://pokemongo.com/news/go-pass-halloween-2025">sitio web</a>.
 
 RESOURCE ID: season_pass_details_link_harvest_festival_2026
-TEXT: For more details, visit the <a href="https://pokemongo.com/news/harvest-festival-2026">website</a>.
+TEXT: Para obtener más información, visita el <a href="https://pokemongo.com/news/harvest-festival-2026">sitio web</a>.
 
 RESOURCE ID: season_pass_details_link_horizons_fall_2026
 TEXT: Para obtener más información, visita el <a href="https://pokemongo.com/news/pokemon-horizons-celebration-event-2026">sitio web</a>.
@@ -114161,6 +114690,17 @@ TEXT: Para obtener más información, visita el <a href="https://pokemongo.com/n
 
 RESOURCE ID: season_pass_details_link_winter_holidays_2025
 TEXT: Para obtener más información, visita el <a href="https://pokemongo.com/news/go-pass-winter_holidays-2025">sitio web</a>.
+
+RESOURCE ID: season_pass_fall_marathon_2026_track_upgrade_header_description
+TEXT: ¡Obtén recompensas adicionales y desbloquea un <b>encuentro con Bramblin</b> en el rango 30!
+
+RESOURCE ID: season_pass_fall_marathon_2026_upgrade_description
+TEXT: ¡Obtén el Pase de GO Deluxe: Maratón de las hojas para desbloquear las siguientes recompensas!
+
+• Megaenergía de Manectric
+• Encuentros con Pokémon del evento
+• Caramelos Raros XL
+• ¡Y mucho más!
 
 RESOURCE ID: season_pass_february2026_event_duration
 TEXT: Del 3 de febrero al 3 de marzo
@@ -114203,17 +114743,13 @@ TEXT: ¡Obtén el Pase de GO Deluxe: Halloween 2025 para conseguir las siguiente
 • ¡Y mucho más!
 
 RESOURCE ID: season_pass_harvest_festival_2026_event_duration
-TEXT: September 29 – October 5
+TEXT: Del 29 de septiembre al 5 de octubre
 
 RESOURCE ID: season_pass_harvest_festival_2026_track_upgrade_header_description
-TEXT: Earn additional rewards and unlock a <b>Super Rocket Radar</b> at Rank 1!
+TEXT: ¡Consigue recompensas adicionales y desbloquea un <b> Superradar Rocket</b> en el rango 1!
 
 RESOURCE ID: season_pass_harvest_festival_2026_upgrade_description
-TEXT: Purchase GO Pass Deluxe: Harvest Festival to unlock the following rewards!
-
-• Encounters with Cottonee, Skiddo, Applin, and more!
-• 3 Mossy Lure Modules
-• And much more!
+TEXT: ¡Adquiere el Pase de GO Deluxe: Festival de la Cosecha para conseguir las siguientes recompensas!• Encuentros con Cottonee, Skiddo, Applin y más Pokémon!• 3 Módulos Señuelo Musgosos• ¡Y mucho más!
 
 RESOURCE ID: season_pass_horizons_fall_2026_event_duration
 TEXT: Del 16 al 22 de septiembre
@@ -114417,11 +114953,14 @@ TEXT: Pase de GO Deluxe: Spark y la búsqueda de la conservación + 6 rangos
 RESOURCE ID: season_pass_premium_track_plus_six_ranks_title_emea_2026
 TEXT: Pase de GO Deluxe: Candela y la búsqueda de la victoria + 6 rangos
 
+RESOURCE ID: season_pass_premium_track_plus_six_ranks_title_fall_marathon_2026
+TEXT: Pase de GO Deluxe: Maratón de las hojas + 6 rangos
+
 RESOURCE ID: season_pass_premium_track_plus_six_ranks_title_flying_taxi_2026
 TEXT: Pase de GO Deluxe: Taxi volador + 6 rangos
 
 RESOURCE ID: season_pass_premium_track_plus_six_ranks_title_harvest_festival_2026
-TEXT: GO Pass Deluxe: Harvest Festival + 6 Ranks
+TEXT: Pase de GO Deluxe: Festival de la Cosecha + 6 rangos
 
 RESOURCE ID: season_pass_premium_track_plus_six_ranks_title_horizons_fall_2026
 TEXT: Pase de GO Deluxe: Celebración del evento de colaboración + 6 rangos
@@ -114555,6 +115094,9 @@ TEXT: Pase de GO Deluxe: Spark y la búsqueda de la conservación
 RESOURCE ID: season_pass_premium_track_title_emea_2026
 TEXT: Pase de GO Deluxe: Candela y la búsqueda de la victoria
 
+RESOURCE ID: season_pass_premium_track_title_fall_marathon_2026
+TEXT: Pase de GO Deluxe: Maratón de las hojas
+
 RESOURCE ID: season_pass_premium_track_title_flying_taxi_2026
 TEXT: Pase de GO Deluxe: Taxi volador
 
@@ -114562,7 +115104,7 @@ RESOURCE ID: season_pass_premium_track_title_halloween_2025
 TEXT: Pase de GO Deluxe: Halloween 2025
 
 RESOURCE ID: season_pass_premium_track_title_harvest_festival_2026
-TEXT: GO Pass Deluxe: Harvest Festival
+TEXT: Pase de GO Deluxe: Festival de la Cosecha
 
 RESOURCE ID: season_pass_premium_track_title_horizons_fall_2026
 TEXT: Pase de GO Deluxe: Celebración del evento de colaboración
@@ -115031,6 +115573,18 @@ TEXT: Permitir que tus amistades te den Adornos Suerte
 RESOURCE ID: settings_allow_paid_gifts
 TEXT: Permitir que tus amistades te envíen regalos pagados
 
+RESOURCE ID: settings_allow_paid_gifts_desc_off
+TEXT: Turning off this feature will pause Friends to send you paid gifts. This does not include free gifts.
+
+RESOURCE ID: settings_allow_paid_gifts_desc_on
+TEXT: Turning on this feature will allow Friends to send you paid gifts. You can pause specific Friends from sending you paid gifts in the Paused Friends List once turned on.
+
+RESOURCE ID: settings_allow_paid_gifts_title_off
+TEXT: Turn Off Paid Gifts from Friends?
+
+RESOURCE ID: settings_allow_paid_gifts_title_on
+TEXT: Turn On Paid Gifts from Friends?
+
 RESOURCE ID: settings_allow_raid_and_max_battle_friend_requests
 TEXT: Miembros de incursiones y combates Max
 
@@ -115258,6 +115812,12 @@ TEXT: Comparte tu ubicación con el equipo para ver al resto de Entrenadores en 
 
 RESOURCE ID: settings_party_play_map_avatars
 TEXT: Encuentra al resto de Entrenadores en el mapa
+
+RESOURCE ID: settings_pause_gifts_list
+TEXT: Pause Gifts List
+
+RESOURCE ID: settings_pause_gifts_list_tip
+TEXT: Selected Friends will not be able to send you paid gifts. This does not include free gifts.
 
 RESOURCE ID: settings_pbp_check_other_menu
 TEXT: Para acceder al dispositivo vinculado actualmente, dirígete a la pantalla de Pokémon GO Plus en el menú de Opciones.
@@ -115583,7 +116143,7 @@ RESOURCE ID: settings_wearables_device_status_unpaired
 TEXT: No vinculado
 
 RESOURCE ID: settings_wearables_device_troubleshooting_url
-TEXT: https://scopelyexplore.helpshift.com/hc/faq/1337-pairing-and-connecting-pokemon-go-to-official-devices/
+TEXT: https://scopelyexplore.helpshift.com/hc/es/5-pokemon-go/faq/1337-pairing-and-connecting-pokemon-go-to-official-devices/
 
 RESOURCE ID: settings_wearables_empty_device_list
 TEXT: No se encontraron accesorios
@@ -115969,6 +116529,9 @@ TEXT: CALCOMANÍAS
 RESOURCE ID: shop_already_own_this_ticket
 TEXT: Ya dispones de una entrada para este evento o tienes una investigación activa o completada que no te permite comprar esta entrada.
 
+RESOURCE ID: shop_already_unlocked_premium_event_pass
+TEXT: You’ve already unlocked this GO Pass Deluxe
+
 RESOURCE ID: shop_battle_tickets_title
 TEXT: ¡No te quedan Pases de Combate Prémium!
 
@@ -116096,6 +116659,9 @@ TEXT: ¡Tus {0} se ampliaron al máximo! Consigue más almacenamiento subiendo d
 
 <a href="https://scopelyexplore.helpshift.com/hc/faq/1235-available-items-your-bag/">Obtén más información sobre cómo subir de nivel aquí.</a>
 
+RESOURCE ID: shop_gift_confirm_purchase_warning_description
+TEXT: You can send <b>{0}</b> total paid gifts today. This gift cannot be used by another player or refunded.
+
 RESOURCE ID: shop_gift_friend_ineligible_title
 TEXT: No se puede enviar el regalo
 
@@ -116106,6 +116672,16 @@ TEXT: Es posible que no puedas enviar regalos pagados a algunas de tus amistades
  • Alguien ya les envió una entrada.
  • No cumples con el nivel mínimo de amistad requerido para comprarles un regalo.
  • Desactivaron la opción de recibir regalos pagados.
+
+RESOURCE ID: shop_gift_friend_ineligible_description_temp
+TEXT: You may not be able to send paid gifts—including items, tickets, and event passes—to some friends. This can happen for the following reasons:
+
+ • They already own the ticket or event pass, or have already received it from someone else
+ • For tickets, they may have active or completed research that prevents them from receiving it
+ • Your friendship level is too low
+ • They have disabled paid gifts
+ • Their account is not eligible due to restrictions
+ • Cross-currency gifting is not supported
 
 RESOURCE ID: shop_gift_invitation_title
 TEXT: INVITACIÓN
@@ -116162,6 +116738,9 @@ RESOURCE ID: shop_gift_purchase_invitation_sent_description
 TEXT: Se envió tu regalo a {0}.
 
 ¡Dile que lo recibirá para que lo pueda abrir antes del evento!
+
+RESOURCE ID: shop_gift_purchase_invitation_sent_generic_description
+TEXT: Your gift has been sent to {0}.
 
 RESOURCE ID: shop_gift_purchase_select_friend
 TEXT: Elige una amistad
@@ -118137,7 +118716,7 @@ RESOURCE ID: special_background_filter_header
 TEXT: Fondo especial
 
 RESOURCE ID: special_background_ftue_body
-TEXT: Se trata de fondos únicos para la página de información de un Pokémon que podrás obtener por atrapar Pokémon durante determinados eventos.
+TEXT: Se trata de fondos raros para la página de información de un Pokémon que podrás obtener por atrapar Pokémon durante determinados eventos.
 
 RESOURCE ID: special_background_ftue_header
 TEXT: ¡Obtuviste un fondo especial!
@@ -118152,7 +118731,7 @@ RESOURCE ID: special_background_tutorial_header
 TEXT: ¡Obtuviste un fondo especial!
 
 RESOURCE ID: special_background_tutorial_message
-TEXT: Se trata de fondos únicos para la página de información de un Pokémon que podrás obtener por atrapar Pokémon durante determinados eventos.
+TEXT: Se trata de fondos raros para la página de información de un Pokémon que podrás obtener por atrapar Pokémon durante determinados eventos.
 
 RESOURCE ID: special_egg_bonus
 TEXT: BONIFICACIÓN DE HUEVO DE AVENTURA DIARIO
@@ -120836,6 +121415,12 @@ TEXT: Atrapados
 
 RESOURCE ID: steel_and_scales_event_name
 TEXT: Ultrabonificación: Acero y escamas
+
+RESOURCE ID: steel_poi_spin_plural
+TEXT: Spin {0} Steel type-themed PokéStops
+
+RESOURCE ID: steel_poi_spin_singular
+TEXT: Spin a Steel type-themed PokéStop
 
 RESOURCE ID: steel_scales_uu_july2025_cc_bagon
 TEXT: Desafío de Colección de Acero y escamas: Bagon
@@ -129922,7 +130507,7 @@ RESOURCE ID: tutorial_tag_remote_trade_learn_pokemon_title
 TEXT: Detalles del Pokémon
 
 RESOURCE ID: tutorial_tag_remote_trade_learn_pokemon_body
-TEXT: Toca y mantén seleccionado el ícono del Pokémon de tu amistad para ver más información. Si el Pokémon tiene un fondo diferente, podrás previsualizarlo.
+TEXT: Toca y mantén seleccionado el ícono del Pokémon de tu amistad para ver más información. Si el Pokémon tiene un fondo raro, podrás previsualizarlo.
 
 RESOURCE ID: tutorial_tag_remote_trade_long_press
 TEXT: Toca y mantén seleccionado el Pokémon para ver los detalles.
@@ -132965,6 +133550,12 @@ TEXT: Entrada Maravillosa: Parte 3 (3/3)
 
 RESOURCE ID: world_tourism_day
 TEXT: Día Mundial del Turismo
+
+RESOURCE ID: wsw_2026_tr_title
+TEXT: Investigación Temporal de Semana Mundial del Espacio 2026
+
+RESOURCE ID: wsw2026_event_name
+TEXT: Semana Mundial del Espacio 2026
 
 RESOURCE ID: wte_2019_friend_medium
 TEXT: Día Mundial del Turismo: Haz una nueva amistad

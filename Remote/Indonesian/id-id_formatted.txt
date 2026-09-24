@@ -61,6 +61,9 @@ TEXT: Pada tepat setiap jam, Zorua akan muncul secara massal!
 RESOURCE ID: 5_special_trades_total
 TEXT: Five total Special Trades per day
 
+RESOURCE ID: 5x_mega_energy_electrike_manectric_buddy
+TEXT: Energi Mega ×5 saat menjelajah bersama Electrike atau Manectric sebagai partnermu, setelah melakukan Evolusi Mega pada Manectric setidaknya satu kali
+
 RESOURCE ID: 9th_anniversary_event_name
 TEXT: Pesta Hari Jadi ke-9
 
@@ -987,6 +990,15 @@ TEXT: Pikachu’s Indonesia Journey: Yogyakarta (4/5)
 
 RESOURCE ID: air_adventures_yogyakarta_sr_title_04
 TEXT: Pikachu’s Indonesia Journey: Yogyakarta (5/5)
+
+RESOURCE ID: allow_gift_list_prompt_title
+TEXT: Allow Gifting?
+
+RESOURCE ID: allow_gift_list_prompt_desc
+TEXT: After unpausing the following friend will be able to send you paid gifts again.
+
+RESOURCE ID: allow_gift_list_prompt_button_label
+TEXT: YES, ALLOW
 
 RESOURCE ID: allow_notifications_prompt_message
 TEXT: To improve your gameplay experience, allow Pokémon GO to access notifications.
@@ -12453,6 +12465,90 @@ TEXT: Detektif Kegelapan
 RESOURCE ID: badge_gowa_2025_special_research_b_title
 TEXT: Penggemar Peri
 
+RESOURCE ID: badge_gowa_2026_cdmx_addon_battle_title
+TEXT: GO Wild Area 2026 – Mexico City: Battle Ready
+
+RESOURCE ID: badge_gowa_2026_cdmx_addon_friday_title
+TEXT: GO Wild Area 2026 – Mexico City: Extra Day (Friday)
+
+RESOURCE ID: badge_gowa_2026_cdmx_addon_hatch_title
+TEXT: GO Wild Area 2026 – Mexico City: Egg–thusiast
+
+RESOURCE ID: badge_gowa_2026_cdmx_addon_saturday_title
+TEXT: GO Wild Area 2026 – Mexico City: Extra Day (Saturday)
+
+RESOURCE ID: badge_gowa_2026_cdmx_addon_sunday_title
+TEXT: GO Wild Area 2026 – Mexico City: Extra Day (Sunday)
+
+RESOURCE ID: badge_gowa_2026_cdmx_friday_title
+TEXT: GO Wild Area 2026 – Mexico City: Friday
+
+RESOURCE ID: badge_gowa_2026_cdmx_saturday_title
+TEXT: GO Wild Area 2026 – Mexico City: Saturday
+
+RESOURCE ID: badge_gowa_2026_cdmx_sunday_title
+TEXT: GO Wild Area 2026 – Mexico City: Sunday
+
+RESOURCE ID: badge_gowa_2026_cdmx_test_addon_battle_title
+TEXT: GO Wild Area 2026 – Mexico City: Battle Ready (Test)
+
+RESOURCE ID: badge_gowa_2026_cdmx_test_addon_extra_day_title
+TEXT: GO Wild Area 2026 – Mexico City: Extra Day (Test)
+
+RESOURCE ID: badge_gowa_2026_cdmx_test_addon_hatch_title
+TEXT: GO Wild Area 2026 – Mexico City: Egg-thusiast (Test)
+
+RESOURCE ID: badge_gowa_2026_cdmx_test_title
+TEXT: GO Wild Area 2026 – Mexico City (Test)
+
+RESOURCE ID: badge_gowa_2026_global_test_title
+TEXT: GO Wild Area 2026 (Test)
+
+RESOURCE ID: badge_gowa_2026_global_title
+TEXT: GO Wild Area 2026
+
+RESOURCE ID: badge_gowa_2026_sendai_addon_battle_title
+TEXT: GO Wild Area 2026 – Sendai・Tohoku: Battle Ready
+
+RESOURCE ID: badge_gowa_2026_sendai_addon_friday_title
+TEXT: GO Wild Area 2026 – Sendai・Tohoku: Extra Day (Friday)
+
+RESOURCE ID: badge_gowa_2026_sendai_addon_hatch_title
+TEXT: GO Wild Area 2026 – Sendai・Tohoku: Egg–thusiast
+
+RESOURCE ID: badge_gowa_2026_sendai_addon_saturday_title
+TEXT: GO Wild Area 2026 – Sendai・Tohoku: Extra Day (Saturday)
+
+RESOURCE ID: badge_gowa_2026_sendai_addon_sunday_title
+TEXT: GO Wild Area 2026 – Sendai・Tohoku: Extra Day (Sunday)
+
+RESOURCE ID: badge_gowa_2026_sendai_friday_title
+TEXT: GO Wild Area 2026 – Sendai・Tohoku: Friday
+
+RESOURCE ID: badge_gowa_2026_sendai_saturday_title
+TEXT: GO Wild Area 2026 – Sendai・Tohoku: Saturday
+
+RESOURCE ID: badge_gowa_2026_sendai_sunday_title
+TEXT: GO Wild Area 2026 – Sendai・Tohoku: Sunday
+
+RESOURCE ID: badge_gowa_2026_sendai_test_addon_battle_title
+TEXT: GO Wild Area 2026 – Sendai・Tohoku: Battle Ready (Test)
+
+RESOURCE ID: badge_gowa_2026_sendai_test_addon_extra_day_title
+TEXT: GO Wild Area 2026 – Sendai・Tohoku: Extra Day (Test)
+
+RESOURCE ID: badge_gowa_2026_sendai_test_addon_hatch_title
+TEXT: GO Wild Area 2026 – Sendai・Tohoku: Egg-thusiast (Test)
+
+RESOURCE ID: badge_gowa_2026_sendai_test_title
+TEXT: GO Wild Area 2026 – Sendai・Tohoku (Test)
+
+RESOURCE ID: badge_gowa_2026_special_research_a_title
+TEXT: Steel Scholar
+
+RESOURCE ID: badge_gowa_2026_special_research_b_title
+TEXT: Dragon Defender
+
 RESOURCE ID: badge_gowa_electric
 TEXT: Pokémon GO Wild Area 2024
 
@@ -12560,6 +12656,90 @@ TEXT: Pokémon GO Wild Area 2025
 
 RESOURCE ID: badge_gowa_2025_special_research_b
 TEXT: Pokémon GO Wild Area 2025
+
+RESOURCE ID: badge_gowa_2026_cdmx_addon_battle
+TEXT: Mexico City, November 6–8, 2026
+
+RESOURCE ID: badge_gowa_2026_cdmx_addon_friday
+TEXT: Mexico City, Friday, November 6, 2026, 10:00 a.m. – 6:00 p.m.
+
+RESOURCE ID: badge_gowa_2026_cdmx_addon_hatch
+TEXT: Mexico City, November 6–8, 2026
+
+RESOURCE ID: badge_gowa_2026_cdmx_addon_saturday
+TEXT: Mexico City, Saturday, November 7, 2026, 10:00 a.m. – 6:00 p.m.
+
+RESOURCE ID: badge_gowa_2026_cdmx_addon_sunday
+TEXT: Mexico City, Sunday, November 8, 2026, 10:00 a.m. – 6:00 p.m.
+
+RESOURCE ID: badge_gowa_2026_cdmx_friday
+TEXT: Mexico City, Friday, November 6, 2026, 10:00 a.m. – 6:00 p.m.
+
+RESOURCE ID: badge_gowa_2026_cdmx_saturday
+TEXT: Mexico City, Saturday, November 7, 2026, 10:00 a.m. – 6:00 p.m.
+
+RESOURCE ID: badge_gowa_2026_cdmx_sunday
+TEXT: Mexico City, Sunday, November 8, 2026, 10:00 a.m. – 6:00 p.m.
+
+RESOURCE ID: badge_gowa_2026_cdmx_test
+TEXT: Mexico City, November 6–8, 2026
+
+RESOURCE ID: badge_gowa_2026_cdmx_test_addon_battle
+TEXT: Mexico City, November 6–8, 2026
+
+RESOURCE ID: badge_gowa_2026_cdmx_test_addon_extra_day
+TEXT: Mexico City, November 6–8, 2026
+
+RESOURCE ID: badge_gowa_2026_cdmx_test_addon_hatch
+TEXT: Mexico City, November 6–8, 2026
+
+RESOURCE ID: badge_gowa_2026_global
+TEXT: November 14–15, 2026
+
+RESOURCE ID: badge_gowa_2026_global_test
+TEXT: November 14–15, 2026
+
+RESOURCE ID: badge_gowa_2026_sendai_addon_battle
+TEXT: Sendai・Tohoku, November 6–8, 2026
+
+RESOURCE ID: badge_gowa_2026_sendai_addon_friday
+TEXT: Sendai・Tohoku, Friday, November 6, 2026, 10:00 a.m. – 6:00 p.m.
+
+RESOURCE ID: badge_gowa_2026_sendai_addon_hatch
+TEXT: Sendai・Tohoku, November 6–8, 2026
+
+RESOURCE ID: badge_gowa_2026_sendai_addon_saturday
+TEXT: Sendai・Tohoku, Saturday, November 7, 2026, 10:00 a.m. – 6:00 p.m.
+
+RESOURCE ID: badge_gowa_2026_sendai_addon_sunday
+TEXT: Sendai・Tohoku, Sunday, November 8, 2026, 10:00 a.m. – 6:00 p.m.
+
+RESOURCE ID: badge_gowa_2026_sendai_friday
+TEXT: Sendai・Tohoku, Friday, November 6, 2026, 10:00 a.m. – 6:00 p.m.
+
+RESOURCE ID: badge_gowa_2026_sendai_saturday
+TEXT: Sendai・Tohoku, Saturday, November 7, 2026, 10:00 a.m. – 6:00 p.m.
+
+RESOURCE ID: badge_gowa_2026_sendai_sunday
+TEXT: Sendai・Tohoku, Sunday, November 8, 2026, 10:00 a.m. – 6:00 p.m.
+
+RESOURCE ID: badge_gowa_2026_sendai_test
+TEXT: Sendai・Tohoku, November 6–8, 2026
+
+RESOURCE ID: badge_gowa_2026_sendai_test_addon_battle
+TEXT: Sendai・Tohoku, November 6–8, 2026
+
+RESOURCE ID: badge_gowa_2026_sendai_test_addon_extra_day
+TEXT: Sendai・Tohoku, November 6–8, 2026
+
+RESOURCE ID: badge_gowa_2026_sendai_test_addon_hatch
+TEXT: Sendai・Tohoku, November 6–8, 2026
+
+RESOURCE ID: badge_gowa_2026_special_research_a
+TEXT: Pokémon GO Wild Area 2026
+
+RESOURCE ID: badge_gowa_2026_special_research_b
+TEXT: Pokémon GO Wild Area 2026
 
 RESOURCE ID: badge_gowa_electric_title
 TEXT: Eksper Listrik
@@ -18265,6 +18445,9 @@ TEXT: XP Tangkapan ×8
 RESOURCE ID: bonus_10_daily_raid_passes
 TEXT: Dapatkan hingga 10 Tiket Raid gratis dengan memutar Disk Foto di Gym
 
+RESOURCE ID: bonus_10k_egg_rate
+TEXT: Increased chance of receiving event-themed 10 km Eggs from spinning PokéStops or Gyms
+
 RESOURCE ID: bonus_10k_eggs_increased
 TEXT: Peluang perolehan Telur 10 km dari memutar PokéStop atau Gym meningkat pesat
 
@@ -18776,6 +18959,9 @@ TEXT: Pertemuan kejutan dengan Pikachu berkemeja biru (Sitrun) dan Farfetch'd di
 RESOURCE ID: bonus_farfetchd_kanto_spawn
 TEXT: Farfetch'd sedang muncul secara massal di area!
 
+RESOURCE ID: bonus_fast_charged_tm_pois
+TEXT: Peluang mendapatkan MJ Cepat atau MJ Super dari memutar PokéStop atau Gym
+
 RESOURCE ID: bonus_feature_behemoth_blade_and_behemoth_bash_boost_max
 TEXT: Peningkatan kekuatan untuk Tebasan Behemoth dan Hentakan Behemoth selama Pertarungan Max
 
@@ -19211,8 +19397,14 @@ TEXT: Mega Aerodactyl muncul lokal di Raid spesial
 RESOURCE ID: bonus_mega_cp_boost
 TEXT: Peningkatan CP untuk semua Pokémon hasil Evolusi Mega
 
+RESOURCE ID: bonus_mega_duration_72hr
+TEXT: Durasi Evolusi Mega 72 jam
+
 RESOURCE ID: bonus_mega_energy_gible
 TEXT: Dapatkan 300 Energi Mega Garchomp dengan menyelesaikan Tantangan Koleksi Gible
+
+RESOURCE ID: bonus_mega_energy_catch_chance
+TEXT: Peluang mendapatkan Energi Mega saat menangkap Pokémon yang dapat Berevolusi Mega yang terpikat oleh Modul Umpan
 
 RESOURCE ID: bonus_mega_energy_spin_chance
 TEXT: Peluang untuk menerima Energi Mega dari memutar PokéStop atau Gym
@@ -19330,6 +19522,9 @@ TEXT: Pikachu asisten Profesor Willow muncul di Raid dan Penelitian Berwaktu
 
 RESOURCE ID: bonus_pikachu_30thapac
 TEXT: PokéXciting! Pikachu muncul di alam liar, Penelitian Berwaktu terkait event, dan pertemuan kejutan di Foto GO
+
+RESOURCE ID: bonus_pikachu_astro_costume
+TEXT: Pikachu Astronaut muncul di Raid
 
 RESOURCE ID: bonus_pikachu_npb_costume
 TEXT: Sekarang Pikachu berkostum jersei bisbol muncul di Raid dan Penelitian Berwaktu
@@ -19847,6 +20042,9 @@ TEXT: Bonus Penelitian Berwaktu Pengisian Super
 RESOURCE ID: bonus_tr_gbl_championships_2026_a_title
 TEXT: Bonus Penelitian Berwaktu Kekuatan Primitif
 
+RESOURCE ID: bonus_tr_gbl_championships_2027_a_title
+TEXT: Momentum Mega
+
 RESOURCE ID: bonus_tr_gbl_championships_2024_a_desc
 TEXT: Bonus Penelitian Berwaktu: Segalanya Bermula di Sini
 
@@ -19858,6 +20056,9 @@ TEXT: Bonus Penelitian Berwaktu Pengisian Super
 
 RESOURCE ID: bonus_tr_gbl_championships_2026_a_desc
 TEXT: Bonus Penelitian Berwaktu Kekuatan Primitif
+
+RESOURCE ID: bonus_tr_gbl_championships_2027_a_desc
+TEXT: Bonus Penelitian Berwaktu Momentum Mega
 
 RESOURCE ID: bonus_tr_gbl_euic_2024_a_title
 TEXT: Champion Pokémon LAIC 2024
@@ -28166,6 +28367,9 @@ TEXT: Penelitian Berwaktu Premium Tepi Pantai
 RESOURCE ID: concierge_promo_tr_name
 TEXT: Bonus Penelitian Berwaktu Pokémon Concierge
 
+RESOURCE ID: confirm_gift_purchase_v2_reward_points_prefix
+TEXT: You will receive
+
 RESOURCE ID: confirm_send_button
 TEXT: KIRIM
 
@@ -29050,6 +29254,9 @@ TEXT: Hapus tim pertarungan {0}?
 RESOURCE ID: delete_gift_confirmation
 TEXT: Yakin ingin menghapus Hadiah ini?
 
+RESOURCE ID: delete_gift_message
+TEXT: Gifts do not count toward Item Bag storage.
+
 RESOURCE ID: delete_pokemon_tag_confirmation
 TEXT: Label ini akan dihapus dari Pokémon yang telah ditugaskan. Pokémon tidak akan ditransfer ke Profesor Willow.
 
@@ -29522,6 +29729,12 @@ TEXT: Gagal Mengunduh Aset
 
 RESOURCE ID: downloading_avatar_assets_warning_body
 TEXT: Terdapat masalah saat mengunduh aset. Pastikan kamu memiliki akses jaringan yang stabil dan silakan mulai ulang game.
+
+RESOURCE ID: dragon_poi_spin_plural
+TEXT: Spin {0} Dragon type-themed PokéStops
+
+RESOURCE ID: dragon_poi_spin_singular
+TEXT: Spin a Dragon type-themed PokéStop
 
 RESOURCE ID: dragon_type_event
 TEXT: Tipe Surge: Naga
@@ -30999,6 +31212,18 @@ TEXT: Nama panggilan ini sudah tidak tersedia.
 
 RESOURCE ID: error_weak_network
 TEXT: Koneksi jaringanmu tidak stabil saat ini. Coba lagi nanti.
+
+RESOURCE ID: esa_2026_title
+TEXT: Event Badan Antariksa Eropa 2026
+
+RESOURCE ID: esa_2026_tr_title
+TEXT: Penelitian Berwaktu Event Badan Antariksa Eropa 2026
+
+RESOURCE ID: esa_2026_tr_01
+TEXT: Penelitian Berwaktu Event Badan Antariksa Eropa 2026 (1/2)
+
+RESOURCE ID: esa_2026_tr_02
+TEXT: Penelitian Berwaktu Event Badan Antariksa Eropa 2026 (2/2)
 
 RESOURCE ID: europe_international_championships_bonus_2024
 TEXT: Pokémon Europe International Championships 2024 – Bonus
@@ -33678,6 +33903,15 @@ TEXT: Putar PokéStop bertema tipe Peri
 
 RESOURCE ID: fairy_type_event
 TEXT: Tipe Surge: Peri
+
+RESOURCE ID: fall_marathon_event_name_2026
+TEXT: Maraton Musim Gugur: Partner Trek
+
+RESOURCE ID: fall_marathon_incense_bramblin
+TEXT: Pewangi dapat memikat Bramblin
+
+RESOURCE ID: fall_marathon_tr_title
+TEXT: Penelitian Berwaktu Maraton Musim Gugur
 
 RESOURCE ID: fantasy_cup_great_title
 TEXT: Piala Fantasi: Edisi Liga Great
@@ -38963,6 +39197,9 @@ TEXT: Pilih
 RESOURCE ID: general_days_remaining
 TEXT: {0}H
 
+RESOURCE ID: general_device_troubleshooting_id_scopely_helpshift
+TEXT: 1337
+
 RESOURCE ID: general_do_not_allow
 TEXT: Tolak
 
@@ -39080,6 +39317,12 @@ TEXT: Selesai
 RESOURCE ID: generic_contact_support
 TEXT: How to Share Game Logs
 
+RESOURCE ID: generic_event_pass_premium_unlock
+TEXT: GO Pass Deluxe
+
+RESOURCE ID: generic_event_pass_premium_unlock_plus_points
+TEXT: GO Pass Deluxe + Ranks
+
 RESOURCE ID: generic_player_lockout
 TEXT: Akun telah ditangguhkan karena melanggar Persyaratan Layanan.
 
@@ -39087,6 +39330,9 @@ TEXT: Akun telah ditangguhkan karena melanggar Persyaratan Layanan.
 
 RESOURCE ID: generic_track_upgrade_header_description
 TEXT: Dapatkan hadiah tambahan dan buka <b>Pertemuan dengan Dottler</b> di Rank 30!
+
+RESOURCE ID: gengar_bonus_raid
+TEXT: Mega Gengar muncul di Raid
 
 RESOURCE ID: gengeneral1.ticket.2_dratini_cdc_description
 TEXT: A ticket to access the Dratini Community Day Classic Special Research on November 5, 2022, from 2:00 p.m. to 5:00 p.m. local time, wherever you are. Details can be found in the in-game News.
@@ -39150,6 +39396,15 @@ TEXT: Halo
 RESOURCE ID: gift_from_sponsor
 TEXT: Buka Hadiah Sponsor!
 
+RESOURCE ID: gift_multi_delete_complete
+TEXT: Your selection has been cleared.
+
+RESOURCE ID: gift_multi_delete_plural
+TEXT: Discard these {0} Gifts?
+
+RESOURCE ID: gift_multi_delete_button_text
+TEXT: DISCARD ({0})
+
 RESOURCE ID: gift_open_double
 TEXT: Buka 2× lebih banyak Hadiah
 
@@ -39211,6 +39466,11 @@ RESOURCE ID: gifting_error_description
 TEXT: We’re sorry.
 Your gift was not delivered because the intended recipient obtained the same event ticket before your purchase could be completed. You can choose a different friend to send this to.
 If you would like a refund instead, you can request one through the app store.
+
+RESOURCE ID: gifting_error_description_temp
+TEXT: Unfortunately, this Friend is now ineligible for receiving this paid gift. This can happen for a variety of reasons.
+
+You can choose a new friend to send this to now.
 
 RESOURCE ID: gifting_error_refund_button
 TEXT: REQUEST REFUND
@@ -47480,6 +47740,99 @@ TEXT: Pokémon GO Wild Area 2025: Jam Event Minggu
 RESOURCE ID: gowa_2025_sun_ticketed
 TEXT: Pokémon GO Wild Area 2025: Jam Event Minggu (Tiket)
 
+RESOURCE ID: gowa_2026
+TEXT: Pokémon GO Wild Area 2026
+
+RESOURCE ID: gowa_2026_all_sat
+TEXT: Pokémon GO Wild Area 2026: All-Day Saturday
+
+RESOURCE ID: gowa_2026_all_sun
+TEXT: Pokémon GO Wild Area 2026: All-Day Sunday
+
+RESOURCE ID: gowa_2026_all_weekend
+TEXT: Pokémon GO Wild Area 2026: All Weekend
+
+RESOURCE ID: gowa_2026_all_weekend_ticketed
+TEXT: Pokémon GO Wild Area 2026: All Weekend (Ticket)
+
+RESOURCE ID: gowa_2026_cdmx
+TEXT: Pokémon GO Wild Area 2026: Mexico City
+
+RESOURCE ID: gowa_2026_cdmx_extended_bonus
+TEXT: Pokémon GO Wild Area 2026: Mexico City – Extended Bonuses
+
+RESOURCE ID: gowa_2026_content_hashtag
+TEXT: Post photos with #GOWildArea2026, and we’ll share our favorites!
+
+RESOURCE ID: gowa_2026_dragon_badge_candy_xl_bonus
+TEXT: One additional Candy XL from catching Dragon-type mighty Pokémon
+
+RESOURCE ID: gowa_2026_dragon_badge_stardust_bonus
+TEXT: 1,000 additional Stardust from catching Dragon-type mighty Pokémon
+
+RESOURCE ID: gowa_2026_fri_ticketed
+TEXT: Pokémon GO Wild Area 2026: All-Day Friday (Ticket)
+
+RESOURCE ID: gowa_2026_global_extended_bonus
+TEXT: Pokémon GO Wild Area 2026 – Extended Bonuses
+
+RESOURCE ID: gowa_2026_habitat_cc_description
+TEXT: Catch event Pokémon!
+
+RESOURCE ID: gowa_2026_habitat_global_cc_saturday
+TEXT: Wild Area Collection Challenge: Saturday
+
+RESOURCE ID: gowa_2026_habitat_global_cc_sunday
+TEXT: Wild Area Collection Challenge: Sunday
+
+RESOURCE ID: gowa_2026_habitat_now_dragon
+TEXT: Happening now: Solid as Steel Hour
+
+RESOURCE ID: gowa_2026_habitat_now_steel
+TEXT: Happening now: Daring as Dragons Hour
+
+RESOURCE ID: gowa_2026_irl_cc_cdmx_friday
+TEXT: GO Wild Area: Mexico City Collection Challenge
+
+RESOURCE ID: gowa_2026_irl_cc_cdmx_saturday
+TEXT: GO Wild Area: Mexico City Collection Challenge
+
+RESOURCE ID: gowa_2026_irl_cc_cdmx_sunday
+TEXT: GO Wild Area: Mexico City Collection Challenge
+
+RESOURCE ID: gowa_2026_irl_cc_sendai_friday
+TEXT: GO Wild Area: Sendai・Tohoku Collection Challenge
+
+RESOURCE ID: gowa_2026_irl_cc_sendai_saturday
+TEXT: GO Wild Area: Sendai・Tohoku Collection Challenge
+
+RESOURCE ID: gowa_2026_irl_cc_sendai_sunday
+TEXT: GO Wild Area: Sendai・Tohoku Collection Challenge
+
+RESOURCE ID: gowa_2026_sat
+TEXT: Pokémon GO Wild Area 2026: Saturday Event Hours
+
+RESOURCE ID: gowa_2026_sat_ticketed
+TEXT: Pokémon GO Wild Area 2026: Saturday Event Hours (Ticket)
+
+RESOURCE ID: gowa_2026_sendai
+TEXT: Pokémon GO Wild Area 2026: Sendai・Tohoku
+
+RESOURCE ID: gowa_2026_sendai_extended_bonus
+TEXT: Pokémon GO Wild Area 2026: Sendai・Tohoku – Extended Bonuses
+
+RESOURCE ID: gowa_2026_steel_badge_candy_xl_bonus
+TEXT: One additional Candy XL from catching Steel-type mighty Pokémon
+
+RESOURCE ID: gowa_2026_steel_badge_stardust_bonus
+TEXT: 1,000 additional Stardust from catching Steel-type mighty Pokémon
+
+RESOURCE ID: gowa_2026_sun
+TEXT: Pokémon GO Wild Area 2026: Sunday Event Hours
+
+RESOURCE ID: gowa_2026_sun_ticketed
+TEXT: Pokémon GO Wild Area 2026: Sunday Event Hours (Ticket)
+
 RESOURCE ID: gowa2024
 TEXT: Pokémon GO Wild Area 2024
 
@@ -49791,6 +50144,9 @@ TEXT: Jalur Hadiah
 RESOURCE ID: iap_category_team_change
 TEXT: Perubahan Tim
 
+RESOURCE ID: iap_friend_picker_last_sent
+TEXT: Last Sent
+
 RESOURCE ID: iap_item_unavailable
 TEXT: Alat ini tidak bisa dibeli lagi.
 
@@ -50755,6 +51111,9 @@ TEXT: Pertemuan dengan Moltres
 RESOURCE ID: item_amer2026_milestone_name
 TEXT: Elekid beraksesori ala Spark
 
+RESOURCE ID: item_bag_bonus
+TEXT: bonus
+
 RESOURCE ID: item_bag_deployed
 TEXT: This item can’t be used on a Pokémon placed at a Power Spot or defending a Gym.
 
@@ -50769,6 +51128,9 @@ TEXT: Boosts
 
 RESOURCE ID: item_bag_category_evolution
 TEXT: Evolutions
+
+RESOURCE ID: item_bag_category_featured
+TEXT: Featured
 
 RESOURCE ID: item_bag_category_gifts
 TEXT: Hadiah
@@ -52770,6 +53132,9 @@ TEXT: Tinggal 1 jam
 RESOURCE ID: item_expire_timer_minutes_seconds_left
 TEXT: Tinggal {0}
 
+RESOURCE ID: item_fall_marathon_2026_milestone_name
+TEXT: Pertemuan dengan Bramblin
+
 RESOURCE ID: item_flying_taxi_milestone_name
 TEXT: Radar Roket Super
 
@@ -53057,6 +53422,12 @@ TEXT: Perangkat yang menginkubasi Telur saat kamu menjelajah hingga telur siap m
 
 RESOURCE ID: item_incubator_timed_name
 TEXT: Mesin Penetas Berwaktu
+
+RESOURCE ID: item_inventory_paid_gift_banner_title
+TEXT: You have paid gifts
+
+RESOURCE ID: item_inventory_paid_gift_banner_subtitle
+TEXT: Send to your Friends?
 
 RESOURCE ID: item_item_pack_desc
 TEXT: Meningkatkan kapasitas Tas Item.
@@ -54220,6 +54591,30 @@ TEXT: Penelitian Berwaktu Transformasi (2/3)
 
 RESOURCE ID: kr_ditto_event_2025_tr_name_3
 TEXT: Penelitian Berwaktu Transformasi (3/3)
+
+RESOURCE ID: kr_fcseoul_collab_2026_title
+TEXT: FC Seoul Event 2026
+
+RESOURCE ID: kr_fcseoul_collab_2026_bonus_raid_lc_desc
+TEXT: During event hours on October 24, Charmander caught from raids around the Seoul World Cup Stadium event area may have an exclusive Location Background
+
+RESOURCE ID: kr_fcseoul_collab_2026_bonus_tr_lc_desc
+TEXT: Charizard encountered from event Timed Research will have an exclusive Location Background
+
+RESOURCE ID: kr_fcseoul_collab_2026_bonus_wild_pokemon
+TEXT: Catch Fire-type Pokémon around the Seoul World Cup Stadium event area—let’s fire it up for FC Seoul!
+
+RESOURCE ID: kr_fcseoul_collab_2026_tr_name
+TEXT: FC Seoul Event 2026 Timed Research
+
+RESOURCE ID: kr_fcseoul_collab_2026_tr_name_1
+TEXT: FC Seoul Event 2026 Timed Research (1/3)
+
+RESOURCE ID: kr_fcseoul_collab_2026_tr_name_2
+TEXT: FC Seoul Event 2026 Timed Research (2/3)
+
+RESOURCE ID: kr_fcseoul_collab_2026_tr_name_3
+TEXT: FC Seoul Event 2026 Timed Research (3/3)
 
 RESOURCE ID: kr_festival_fr_location_background
 TEXT: Deerling dan Pikachu berkostum yang ditangkap dari Raid dan tugas Penelitian Lapangan mungkin memiliki Latar Belakang Lokasi eksklusif.
@@ -58025,6 +58420,9 @@ TEXT: Pertemuan: Zekrom 2025
 RESOURCE ID: __male_speaker
 TEXT: Gunakan serangan yang menjadi kelemahan Pokémon lawanmu!
 
+RESOURCE ID: manage_gifts_header
+TEXT: Manage Gifts
+
 RESOURCE ID: manage_items_button
 TEXT: Kelola Alat
 
@@ -59744,10 +60142,10 @@ at SHA 12701f1c07ae7f07a5d50583f697320977df7988
 Pipeline 1139111, job 13470914
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-09-17T05:05:53.880793+00:00 for id-ID
-at SHA 37a1529ab2c
-Pipeline 3950659, job 58169809
-Patch from: 0.431.0-SHA-8123c737-RC1, 0.427.0-SHA-fc729f25-RC2, 0.429.0-SHA-d6c796f0-RC1, 0.427.1-SHA-4a569ba7-RC1
+TEXT: Built at 2026-09-24T01:18:40.315486+00:00 for id-ID
+at SHA 6210d7033b5
+Pipeline 3966222, job 58390716
+Patch from: 0.429.1-SHA-5521c4dc-RC1, 0.431.0-SHA-76e2198b-RC4
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: Penelitian Berwaktu: Pilih Tipe Petarungmu
@@ -65634,6 +66032,21 @@ TEXT: Menjulang ke Ozon
 RESOURCE ID: ozone_ascent_free_timed_research
 TEXT: Penelitian Berwaktu Menjulang ke Ozon
 
+RESOURCE ID: paid_gift_already_purchased_modal_title
+TEXT: You have already purchased this paid gift.
+
+RESOURCE ID: paid_gift_already_purchased_modal_button
+TEXT: GO TO INVENTORY
+
+RESOURCE ID: paid_gift_already_purchased_modal_message
+TEXT: Please check your inventory to send your paid gift.
+
+RESOURCE ID: paid_gift_regift_no_longer_available_modal_title
+TEXT: Gifting Error
+
+RESOURCE ID: paid_gift_regift_no_longer_available_modal_message
+TEXT: This item is no longer available and cannot be gifted.
+
 RESOURCE ID: paid_pikachu_gmax_tr_mar26
 TEXT: Penelitian Berwaktu Premium Pikachu Gigantamax
 
@@ -65745,6 +66158,21 @@ TEXT: Limited Partner Research : Amazon Prime Gaming (1/2)
 
 RESOURCE ID: partner_research_ltd_amazon_gaming_01
 TEXT: Limited Partner Research : Amazon Prime Gaming (2/2)
+
+RESOURCE ID: partnership_gengar_2026_event_title
+TEXT: Event Selebrasi 30 Tahun Pokémon TCG
+
+RESOURCE ID: partnership_gengar_2026_tr_title
+TEXT: Penelitian Berwaktu Event Selebrasi 30 Tahun Pokémon TCG
+
+RESOURCE ID: partnership_gengar_2026_tr_desc_00
+TEXT: Bonus Penelitian Berwaktu Event Selebrasi 30 Tahun Pokémon TCG (1/3)
+
+RESOURCE ID: partnership_gengar_2026_tr_desc_01
+TEXT: Bonus Penelitian Berwaktu Event Selebrasi 30 Tahun Pokémon TCG (2/3)
+
+RESOURCE ID: partnership_gengar_2026_tr_desc_02
+TEXT: Bonus Penelitian Berwaktu Event Selebrasi 30 Tahun Pokémon TCG (3/3)
 
 RESOURCE ID: partnership_latam_soccer_collab_event_title
 TEXT: Pokémon GOL Terbaik
@@ -66583,6 +67011,18 @@ TEXT: Meski dijeda, kamu tetap dapat menerima stempel dari teman. Jika kamu tida
 
 RESOURCE ID: pause_dialog_subtitle
 TEXT: Kamu akan berhenti mengumpulkan stempel untuk reli ini jika dijeda. Kamu dapat melanjutkannya kapan pun via layar koleksi.
+
+RESOURCE ID: pause_gift_list_title
+TEXT: Pause Gifts List
+
+RESOURCE ID: pause_gift_list_prompt_title
+TEXT: Pause Gifting?
+
+RESOURCE ID: pause_gift_list_prompt_desc
+TEXT: The following Friend will be unable to send you paid gifts. You can enable them to send again at any point.
+
+RESOURCE ID: pause_gift_list_prompt_button_label
+TEXT: YES, PAUSE
 
 RESOURCE ID: pause_route_travel_error_toast
 TEXT: Kesalahan menjeda Rute
@@ -76275,6 +76715,15 @@ TEXT: Kamu tidak dapat memilih Pokémon Bersinar.
 RESOURCE ID: pokemon_info_multi_transfer_ultra_beast_pokemon_error
 TEXT: You can’t select Ultra Beasts.
 
+RESOURCE ID: pokemon_info_no_evolve_pokemon
+TEXT: No Pokémon can use this item to evolve.
+
+RESOURCE ID: pokemon_info_no_fainted_pokemon
+TEXT: No Pokémon need to be revived.
+
+RESOURCE ID: pokemon_info_no_hurt_pokemon
+TEXT: All Pokémon are fully healed.
+
 RESOURCE ID: pokemon_info_no_stats_available
 TEXT: Tidak ada statistik lain yang dapat dilatih untuk Pokémon ini.
 
@@ -80771,6 +81220,65 @@ TEXT: Luks
 RESOURCE ID: premium_rewards
 TEXT: HADIAH PREMIUM
 
+RESOURCE ID: premium_gift_sent
+TEXT: You sent a paid gift to {0}
+
+RESOURCE ID: premium_gift_ftue_title
+TEXT: Introducing More Gifting Options in the Shop
+
+RESOURCE ID: premium_gift_ftue_desc
+TEXT: You can now send and receive more types of gifts through the Shop!
+
+Do you want to opt in? You can change this at any point in Settings.
+
+RESOURCE ID: premium_gift_notification_event_pass_title
+TEXT: GO Pass
+
+RESOURCE ID: premium_gift_notification_event_pass_desc
+TEXT: Greetings, <b>{0}</b>! Here’s an GO Pass for you. Let’s see who can complete it and get all the rewards!
+
+Sincerely,
+—<b>{1}</b>
+
+RESOURCE ID: premium_gift_notification_items_title
+TEXT: Gift For You
+
+RESOURCE ID: premium_gift_notification_multiple_trainers_desc
+TEXT: Greetings, <b>{0}</b>!
+
+Your Friends sent some gifts for you!
+
+
+RESOURCE ID: premium_gift_notification_one_trainer_multiple_items_desc
+TEXT: Greetings, <b>{0}</b>!
+
+Here are gifts for you!
+{2}
+
+Sincerely,
+—<b>{1}</b>
+
+RESOURCE ID: premium_gift_notification_one_trainer_one_item_desc
+TEXT: Greetings, <b>{0}</b>!
+
+Here’s a gift for you!
+{2}
+
+Sincerely,
+—<b>{1}</b>
+
+RESOURCE ID: premium_gift_received_event_pass
+TEXT: {0} gifted you an GO Pass!
+
+RESOURCE ID: premium_gift_received_event_ticket
+TEXT: {0} gifted you a ticket for an event!
+
+RESOURCE ID: premium_gift_received_item_multi
+TEXT: {0} gifted you a {1} and more!
+
+RESOURCE ID: premium_gift_received_item_single
+TEXT: {0} gifted you a {1}!
+
 RESOURCE ID: primal_revert
 TEXT: Reversi Primal
 
@@ -82087,6 +82595,9 @@ TEXT: Dapatkan {0} Hati dengan Pokémon Partner tipe Kegelapan
 RESOURCE ID: quest_buddy_affection_days_in_a_row
 TEXT: Musim Pusaka: Tantangan XP (13/15)
 
+RESOURCE ID: quest_buddy_affection_dragon_plural
+TEXT: Earn {0} hearts with a Dragon-type buddy
+
 RESOURCE ID: quest_buddy_affection_electric_plural
 TEXT: Dapatkan {0} Hati dengan Pokémon Partner tipe Listrik
 
@@ -82101,6 +82612,9 @@ TEXT: Dapatkan {0} Hati dengan Pokémon Partner tipe Racun
 
 RESOURCE ID: quest_buddy_affection_poison_singular
 TEXT: Dapatkan Hati dengan Pokémon Partner tipe Racun
+
+RESOURCE ID: quest_buddy_affection_steel_plural
+TEXT: Earn {0} hearts with a Steel-type buddy
 
 RESOURCE ID: quest_buddy_affection_zeraora_plural
 TEXT: Dapatkan {0} Hati dengan Zeraora sebagai partnermu
@@ -85492,6 +86006,9 @@ TEXT: Dapatkan Permen dengan menjelajah bersama Carbink sebagai Partnermu
 RESOURCE ID: quest_explore_buddy_dark
 TEXT: Dapatkan Permen dengan berjelajah bersama Pokémon tipe Kegelapan sebagai Partnermu
 
+RESOURCE ID: quest_explore_buddy_dragon
+TEXT: Earn a Candy exploring with a Dragon-type as your buddy
+
 RESOURCE ID: quest_explore_buddy_electric
 TEXT: Dapatkan Permen dengan menjelajah bersama Pokémon tipe Listrik sebagai Partnermu
 
@@ -85503,6 +86020,9 @@ TEXT: Earn {0} Candies exploring with your buddy
 
 RESOURCE ID: quest_explore_buddy_poison
 TEXT: Dapatkan Permen dengan menjelajah bersama Pokémon tipe Racun sebagai Partnermu
+
+RESOURCE ID: quest_explore_buddy_steel
+TEXT: Earn a Candy exploring with a Steel-type as your buddy
 
 RESOURCE ID: quest_explore_buddy_routes_plural
 TEXT: Dapatkan {0} Permen dengan menjelajahi Rute bersama Partnermu
@@ -108725,6 +109245,9 @@ TEXT: Buang
 RESOURCE ID: recycle_dialog_suffix
 TEXT: {0}?
 
+RESOURCE ID: recycle_discard_all
+TEXT: YES, DISCARD ALL
+
 RESOURCE ID: reduced_buddy_candy_distance_routes
 TEXT: Mengurangi jarak untuk mendapatkan Permen Partner saat menjelajahi Rute dengan partnermu
 
@@ -114389,6 +114912,9 @@ TEXT: Tiket GO: Pencarian Spark untuk Cara Perawatan
 RESOURCE ID: season_pass_base_track_title_emea_2026
 TEXT: Tiket GO: Pencarian Candela untuk Kemenangan
 
+RESOURCE ID: season_pass_base_track_title_fall_marathon_2026
+TEXT: Tiket GO: Maraton Musim Gugur
+
 RESOURCE ID: season_pass_base_track_title_flying_taxi_2026
 TEXT: Tiket GO: Taksi Terbang
 
@@ -114556,6 +115082,9 @@ TEXT: Untuk detail lebih lanjut, kunjungi <a href="https://pokemongo.com/news/ul
 RESOURCE ID: season_pass_details_link_amer_2026
 TEXT: Untuk detail lebih lanjut, kunjungi <a href="https://pokemongo.com/news/global-events-gofest2026-overlays">situs web</a>.
 
+RESOURCE ID: season_pass_details_link_fall_marathon_2026
+TEXT: Untuk detail lebih lanjut, kunjungi <a href="https://pokemongo.com/news/fall-marathon-buddy-trek-2026">situs web</a>.
+
 RESOURCE ID: season_pass_details_link_flying_taxi_2026
 TEXT: Untuk detail lebih lanjut, kunjungi <a href="https://pokemongo.com/news/flying-taxi-2026">situs web</a>.
 
@@ -114588,6 +115117,17 @@ TEXT: Untuk detail lebih lanjut, kunjungi <a href="https://pokemongo.com/news/wo
 
 RESOURCE ID: season_pass_details_link_winter_holidays_2025
 TEXT: Untuk detail lebih lanjut, kunjungi <a href="https://pokemongo.com/news/go-pass-winter_holidays-2025">situs web</a>
+
+RESOURCE ID: season_pass_fall_marathon_2026_track_upgrade_header_description
+TEXT: Dapatkan hadiah tambahan dan buka <b>Pertemuan dengan Bramblin</b> di Rank 30!
+
+RESOURCE ID: season_pass_fall_marathon_2026_upgrade_description
+TEXT: Beli Tiket GO Luks: Maraton Musim Gugur untuk membuka hadiah berikut!
+
+• Energi Mega Manectric
+• Pertemuan dengan Pokémon bertema event
+• Permen Langka XL
+• Dan masih banyak lagi!
 
 RESOURCE ID: season_pass_february2026_event_duration
 TEXT: 3 Februari – 3 Maret
@@ -114844,6 +115384,9 @@ TEXT: Tiket GO Luks: Pencarian Spark untuk Cara Perawatan + 6 Rank
 RESOURCE ID: season_pass_premium_track_plus_six_ranks_title_emea_2026
 TEXT: Tiket GO Luks: Pencarian Candela untuk Kemenangan + 6 Rank
 
+RESOURCE ID: season_pass_premium_track_plus_six_ranks_title_fall_marathon_2026
+TEXT: Tiket GO Luks: Maraton Musim Gugur + 6 Rank
+
 RESOURCE ID: season_pass_premium_track_plus_six_ranks_title_flying_taxi_2026
 TEXT: Tiket GO Luks: Taksi Terbang + 6 Rank
 
@@ -114981,6 +115524,9 @@ TEXT: Tiket GO Luks: Pencarian Spark untuk Cara Perawatan
 
 RESOURCE ID: season_pass_premium_track_title_emea_2026
 TEXT: Tiket GO Luks: Pencarian Candela untuk Kemenangan
+
+RESOURCE ID: season_pass_premium_track_title_fall_marathon_2026
+TEXT: Tiket GO Luks: Maraton Musim Gugur
 
 RESOURCE ID: season_pass_premium_track_title_flying_taxi_2026
 TEXT: Tiket GO Luks: Taksi Terbang
@@ -115458,6 +116004,18 @@ TEXT: Izinkan Temanmu untuk Memberimu Ornamen Istimewa
 RESOURCE ID: settings_allow_paid_gifts
 TEXT: Allow friends to send you paid gifts
 
+RESOURCE ID: settings_allow_paid_gifts_desc_off
+TEXT: Turning off this feature will pause Friends to send you paid gifts. This does not include free gifts.
+
+RESOURCE ID: settings_allow_paid_gifts_desc_on
+TEXT: Turning on this feature will allow Friends to send you paid gifts. You can pause specific Friends from sending you paid gifts in the Paused Friends List once turned on.
+
+RESOURCE ID: settings_allow_paid_gifts_title_off
+TEXT: Turn Off Paid Gifts from Friends?
+
+RESOURCE ID: settings_allow_paid_gifts_title_on
+TEXT: Turn On Paid Gifts from Friends?
+
 RESOURCE ID: settings_allow_raid_and_max_battle_friend_requests
 TEXT: Anggota Raid dan Pertarungan Max
 
@@ -115685,6 +116243,12 @@ TEXT: Aktifkan bagikan lokasi dengan Grup untuk melihat Pelatih lain di peta.
 
 RESOURCE ID: settings_party_play_map_avatars
 TEXT: Lihat Pelatih Lain di Peta
+
+RESOURCE ID: settings_pause_gifts_list
+TEXT: Pause Gifts List
+
+RESOURCE ID: settings_pause_gifts_list_tip
+TEXT: Selected Friends will not be able to send you paid gifts. This does not include free gifts.
 
 RESOURCE ID: settings_pbp_check_other_menu
 TEXT: To access your currently paired device, please go to the Pokémon GO Plus screen via the Settings menu.
@@ -116010,7 +116574,7 @@ RESOURCE ID: settings_wearables_device_status_unpaired
 TEXT: Tidak Tertaut
 
 RESOURCE ID: settings_wearables_device_troubleshooting_url
-TEXT: https://scopelyexplore.helpshift.com/hc/faq/1337-pairing-and-connecting-pokemon-go-to-official-devices/
+TEXT: https://scopelyexplore.helpshift.com/hc/id/5-pokemon-go/faq/1337-pairing-and-connecting-pokemon-go-to-official-devices/
 
 RESOURCE ID: settings_wearables_empty_device_list
 TEXT: Perangkat Tidak Ditemukan
@@ -116396,6 +116960,9 @@ TEXT: STIKER
 RESOURCE ID: shop_already_own_this_ticket
 TEXT: You already have a ticket for this event.
 
+RESOURCE ID: shop_already_unlocked_premium_event_pass
+TEXT: You’ve already unlocked this GO Pass Deluxe
+
 RESOURCE ID: shop_battle_tickets_title
 TEXT: Tiket Pertarungan Premiummu habis!
 
@@ -116523,6 +117090,9 @@ TEXT: {0}-mu telah ditingkatkan sepenuhnya! Dapatkan lebih banyak penyimpanan de
 
 <a href="https://scopelyexplore.helpshift.com/hc/faq/1235-available-items-your-bag/">Pelajari lebih lanjut tentang naik level di sini.</a>
 
+RESOURCE ID: shop_gift_confirm_purchase_warning_description
+TEXT: You can send <b>{0}</b> total paid gifts today. This gift cannot be used by another player or refunded.
+
 RESOURCE ID: shop_gift_friend_ineligible_title
 TEXT: Cannot Send Gift
 
@@ -116531,6 +117101,16 @@ TEXT: A friend may be ineligible to receive paid gifts for the following reasons
 • They already have the ticket you are trying to give.
 • Someone else has sent them that ticket already.
 • You do not meet the minimum Friendship level requirement to give this friend a gift.
+
+RESOURCE ID: shop_gift_friend_ineligible_description_temp
+TEXT: You may not be able to send paid gifts—including items, tickets, and event passes—to some friends. This can happen for the following reasons:
+
+ • They already own the ticket or event pass, or have already received it from someone else
+ • For tickets, they may have active or completed research that prevents them from receiving it
+ • Your friendship level is too low
+ • They have disabled paid gifts
+ • Their account is not eligible due to restrictions
+ • Cross-currency gifting is not supported
 
 RESOURCE ID: shop_gift_invitation_title
 TEXT: INVITATION
@@ -116587,6 +117167,9 @@ RESOURCE ID: shop_gift_purchase_invitation_sent_description
 TEXT: Your gift has been sent to {0}.
 
 Go tell them about it so they can open the gift in time for the event!
+
+RESOURCE ID: shop_gift_purchase_invitation_sent_generic_description
+TEXT: Your gift has been sent to {0}.
 
 RESOURCE ID: shop_gift_purchase_select_friend
 TEXT: Select a Friend
@@ -121253,6 +121836,12 @@ TEXT: Catch Status
 
 RESOURCE ID: steel_and_scales_event_name
 TEXT: Buka Ultra: Baja dan Sisik
+
+RESOURCE ID: steel_poi_spin_plural
+TEXT: Spin {0} Steel type-themed PokéStops
+
+RESOURCE ID: steel_poi_spin_singular
+TEXT: Spin a Steel type-themed PokéStop
 
 RESOURCE ID: steel_scales_uu_july2025_cc_bagon
 TEXT: Tantangan Koleksi Baja dan Sisik: Bagon
@@ -133395,6 +133984,12 @@ TEXT: Tiket Keajaiban Bag. 3 (3/3)
 
 RESOURCE ID: world_tourism_day
 TEXT: Hari Pariwisata Dunia
+
+RESOURCE ID: wsw_2026_tr_title
+TEXT: Penelitian Berwaktu World Space Week 2026
+
+RESOURCE ID: wsw2026_event_name
+TEXT: World Space Week 2026
 
 RESOURCE ID: wte_2019_friend_medium
 TEXT: Hari Pariwisata Dunia: Buat teman baru

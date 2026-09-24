@@ -61,6 +61,9 @@ TEXT: 정시에 조로아가 대량발생
 RESOURCE ID: 5_special_trades_total
 TEXT: 하루에 할 수 있는 특별한 교환 총5회
 
+RESOURCE ID: 5x_mega_energy_electrike_manectric_buddy
+TEXT: 5× 썬더볼트를 최소 1회 메가진화 후 썬더라이 또는 썬더볼트를 파트너로 하고 탐색했을 때의 메가 에너지
+
 RESOURCE ID: 9th_anniversary_event_name
 TEXT: 9주년 기념
 
@@ -990,6 +993,15 @@ TEXT: Pikachu’s Indonesia Journey: 욕야카르타(4/5)
 
 RESOURCE ID: air_adventures_yogyakarta_sr_title_04
 TEXT: Pikachu’s Indonesia Journey: 욕야카르타(5/5)
+
+RESOURCE ID: allow_gift_list_prompt_title
+TEXT: Allow Gifting?
+
+RESOURCE ID: allow_gift_list_prompt_desc
+TEXT: After unpausing the following friend will be able to send you paid gifts again.
+
+RESOURCE ID: allow_gift_list_prompt_button_label
+TEXT: YES, ALLOW
 
 RESOURCE ID: allow_notifications_prompt_message
 TEXT: 게임 체험 향상을 위해 알림 수신을 허용해 주십시오.
@@ -12396,6 +12408,90 @@ TEXT: 다크 디텍티브
 RESOURCE ID: badge_gowa_2025_special_research_b_title
 TEXT: 페어리 파나틱
 
+RESOURCE ID: badge_gowa_2026_cdmx_addon_battle_title
+TEXT: GO Wild Area 2026 – Mexico City: Battle Ready
+
+RESOURCE ID: badge_gowa_2026_cdmx_addon_friday_title
+TEXT: GO Wild Area 2026 – Mexico City: Extra Day (Friday)
+
+RESOURCE ID: badge_gowa_2026_cdmx_addon_hatch_title
+TEXT: GO Wild Area 2026 – Mexico City: Egg–thusiast
+
+RESOURCE ID: badge_gowa_2026_cdmx_addon_saturday_title
+TEXT: GO Wild Area 2026 – Mexico City: Extra Day (Saturday)
+
+RESOURCE ID: badge_gowa_2026_cdmx_addon_sunday_title
+TEXT: GO Wild Area 2026 – Mexico City: Extra Day (Sunday)
+
+RESOURCE ID: badge_gowa_2026_cdmx_friday_title
+TEXT: GO Wild Area 2026 – Mexico City: Friday
+
+RESOURCE ID: badge_gowa_2026_cdmx_saturday_title
+TEXT: GO Wild Area 2026 – Mexico City: Saturday
+
+RESOURCE ID: badge_gowa_2026_cdmx_sunday_title
+TEXT: GO Wild Area 2026 – Mexico City: Sunday
+
+RESOURCE ID: badge_gowa_2026_cdmx_test_addon_battle_title
+TEXT: GO Wild Area 2026 – Mexico City: Battle Ready (Test)
+
+RESOURCE ID: badge_gowa_2026_cdmx_test_addon_extra_day_title
+TEXT: GO Wild Area 2026 – Mexico City: Extra Day (Test)
+
+RESOURCE ID: badge_gowa_2026_cdmx_test_addon_hatch_title
+TEXT: GO Wild Area 2026 – Mexico City: Egg-thusiast (Test)
+
+RESOURCE ID: badge_gowa_2026_cdmx_test_title
+TEXT: GO Wild Area 2026 – Mexico City (Test)
+
+RESOURCE ID: badge_gowa_2026_global_test_title
+TEXT: GO Wild Area 2026 (Test)
+
+RESOURCE ID: badge_gowa_2026_global_title
+TEXT: GO Wild Area 2026
+
+RESOURCE ID: badge_gowa_2026_sendai_addon_battle_title
+TEXT: GO Wild Area 2026 – Sendai・Tohoku: Battle Ready
+
+RESOURCE ID: badge_gowa_2026_sendai_addon_friday_title
+TEXT: GO Wild Area 2026 – Sendai・Tohoku: Extra Day (Friday)
+
+RESOURCE ID: badge_gowa_2026_sendai_addon_hatch_title
+TEXT: GO Wild Area 2026 – Sendai・Tohoku: Egg–thusiast
+
+RESOURCE ID: badge_gowa_2026_sendai_addon_saturday_title
+TEXT: GO Wild Area 2026 – Sendai・Tohoku: Extra Day (Saturday)
+
+RESOURCE ID: badge_gowa_2026_sendai_addon_sunday_title
+TEXT: GO Wild Area 2026 – Sendai・Tohoku: Extra Day (Sunday)
+
+RESOURCE ID: badge_gowa_2026_sendai_friday_title
+TEXT: GO Wild Area 2026 – Sendai・Tohoku: Friday
+
+RESOURCE ID: badge_gowa_2026_sendai_saturday_title
+TEXT: GO Wild Area 2026 – Sendai・Tohoku: Saturday
+
+RESOURCE ID: badge_gowa_2026_sendai_sunday_title
+TEXT: GO Wild Area 2026 – Sendai・Tohoku: Sunday
+
+RESOURCE ID: badge_gowa_2026_sendai_test_addon_battle_title
+TEXT: GO Wild Area 2026 – Sendai・Tohoku: Battle Ready (Test)
+
+RESOURCE ID: badge_gowa_2026_sendai_test_addon_extra_day_title
+TEXT: GO Wild Area 2026 – Sendai・Tohoku: Extra Day (Test)
+
+RESOURCE ID: badge_gowa_2026_sendai_test_addon_hatch_title
+TEXT: GO Wild Area 2026 – Sendai・Tohoku: Egg-thusiast (Test)
+
+RESOURCE ID: badge_gowa_2026_sendai_test_title
+TEXT: GO Wild Area 2026 – Sendai・Tohoku (Test)
+
+RESOURCE ID: badge_gowa_2026_special_research_a_title
+TEXT: Steel Scholar
+
+RESOURCE ID: badge_gowa_2026_special_research_b_title
+TEXT: Dragon Defender
+
 RESOURCE ID: badge_gowa_electric
 TEXT: Pokémon GO 와일드 에리어2024
 
@@ -12503,6 +12599,90 @@ TEXT: Pokémon GO 와일드 에리어2025
 
 RESOURCE ID: badge_gowa_2025_special_research_b
 TEXT: Pokémon GO 와일드 에리어2025
+
+RESOURCE ID: badge_gowa_2026_cdmx_addon_battle
+TEXT: Mexico City, November 6–8, 2026
+
+RESOURCE ID: badge_gowa_2026_cdmx_addon_friday
+TEXT: Mexico City, Friday, November 6, 2026, 10:00 a.m. – 6:00 p.m.
+
+RESOURCE ID: badge_gowa_2026_cdmx_addon_hatch
+TEXT: Mexico City, November 6–8, 2026
+
+RESOURCE ID: badge_gowa_2026_cdmx_addon_saturday
+TEXT: Mexico City, Saturday, November 7, 2026, 10:00 a.m. – 6:00 p.m.
+
+RESOURCE ID: badge_gowa_2026_cdmx_addon_sunday
+TEXT: Mexico City, Sunday, November 8, 2026, 10:00 a.m. – 6:00 p.m.
+
+RESOURCE ID: badge_gowa_2026_cdmx_friday
+TEXT: Mexico City, Friday, November 6, 2026, 10:00 a.m. – 6:00 p.m.
+
+RESOURCE ID: badge_gowa_2026_cdmx_saturday
+TEXT: Mexico City, Saturday, November 7, 2026, 10:00 a.m. – 6:00 p.m.
+
+RESOURCE ID: badge_gowa_2026_cdmx_sunday
+TEXT: Mexico City, Sunday, November 8, 2026, 10:00 a.m. – 6:00 p.m.
+
+RESOURCE ID: badge_gowa_2026_cdmx_test
+TEXT: Mexico City, November 6–8, 2026
+
+RESOURCE ID: badge_gowa_2026_cdmx_test_addon_battle
+TEXT: Mexico City, November 6–8, 2026
+
+RESOURCE ID: badge_gowa_2026_cdmx_test_addon_extra_day
+TEXT: Mexico City, November 6–8, 2026
+
+RESOURCE ID: badge_gowa_2026_cdmx_test_addon_hatch
+TEXT: Mexico City, November 6–8, 2026
+
+RESOURCE ID: badge_gowa_2026_global
+TEXT: November 14–15, 2026
+
+RESOURCE ID: badge_gowa_2026_global_test
+TEXT: November 14–15, 2026
+
+RESOURCE ID: badge_gowa_2026_sendai_addon_battle
+TEXT: Sendai・Tohoku, November 6–8, 2026
+
+RESOURCE ID: badge_gowa_2026_sendai_addon_friday
+TEXT: Sendai・Tohoku, Friday, November 6, 2026, 10:00 a.m. – 6:00 p.m.
+
+RESOURCE ID: badge_gowa_2026_sendai_addon_hatch
+TEXT: Sendai・Tohoku, November 6–8, 2026
+
+RESOURCE ID: badge_gowa_2026_sendai_addon_saturday
+TEXT: Sendai・Tohoku, Saturday, November 7, 2026, 10:00 a.m. – 6:00 p.m.
+
+RESOURCE ID: badge_gowa_2026_sendai_addon_sunday
+TEXT: Sendai・Tohoku, Sunday, November 8, 2026, 10:00 a.m. – 6:00 p.m.
+
+RESOURCE ID: badge_gowa_2026_sendai_friday
+TEXT: Sendai・Tohoku, Friday, November 6, 2026, 10:00 a.m. – 6:00 p.m.
+
+RESOURCE ID: badge_gowa_2026_sendai_saturday
+TEXT: Sendai・Tohoku, Saturday, November 7, 2026, 10:00 a.m. – 6:00 p.m.
+
+RESOURCE ID: badge_gowa_2026_sendai_sunday
+TEXT: Sendai・Tohoku, Sunday, November 8, 2026, 10:00 a.m. – 6:00 p.m.
+
+RESOURCE ID: badge_gowa_2026_sendai_test
+TEXT: Sendai・Tohoku, November 6–8, 2026
+
+RESOURCE ID: badge_gowa_2026_sendai_test_addon_battle
+TEXT: Sendai・Tohoku, November 6–8, 2026
+
+RESOURCE ID: badge_gowa_2026_sendai_test_addon_extra_day
+TEXT: Sendai・Tohoku, November 6–8, 2026
+
+RESOURCE ID: badge_gowa_2026_sendai_test_addon_hatch
+TEXT: Sendai・Tohoku, November 6–8, 2026
+
+RESOURCE ID: badge_gowa_2026_special_research_a
+TEXT: Pokémon GO Wild Area 2026
+
+RESOURCE ID: badge_gowa_2026_special_research_b
+TEXT: Pokémon GO Wild Area 2026
 
 RESOURCE ID: badge_gowa_electric_title
 TEXT: 일렉트릭 엑스퍼트
@@ -18184,6 +18364,9 @@ TEXT: 8× 포켓몬을 잡았을 때 XP
 RESOURCE ID: bonus_10_daily_raid_passes
 TEXT: 체육관의 포토디스크를 돌려 레이드패스 10장까지 입수
 
+RESOURCE ID: bonus_10k_egg_rate
+TEXT: Increased chance of receiving event-themed 10 km Eggs from spinning PokéStops or Gyms
+
 RESOURCE ID: bonus_10k_eggs_increased
 TEXT: 포켓스톱 또는 체육관에서 받을 수 있는 10km 알 확률 업
 
@@ -18695,6 +18878,9 @@ TEXT: 파랑 티셔츠(귤무늬)를 입은 피카츄와 파오리의 GO스냅�
 RESOURCE ID: bonus_farfetchd_kanto_spawn
 TEXT: 파오리가 에리어내 많이 출현
 
+RESOURCE ID: bonus_fast_charged_tm_pois
+TEXT: 포켓스톱, 체육관 스핀에서 기술머신노말, 기술머신스페셜을 손에 넣을 때가 있다
+
 RESOURCE ID: bonus_feature_behemoth_blade_and_behemoth_bash_boost_max
 TEXT: 거수참, 거수탄이 맥스배틀 중 위력이 증가
 
@@ -19130,8 +19316,14 @@ TEXT: 메가프테라가 에리어 내 특별한 레이드배틀에 출현
 RESOURCE ID: bonus_mega_cp_boost
 TEXT: 메가진화한 모든 포켓몬의 CP증가
 
+RESOURCE ID: bonus_mega_duration_72hr
+TEXT: 메가진화 72시간 지속
+
 RESOURCE ID: bonus_mega_energy_gible
 TEXT: 딥상어동 컬렉션 챌린지 완료로 한카리아스 메가 에너지 300을 받을 수 있다
+
+RESOURCE ID: bonus_mega_energy_catch_chance
+TEXT: 메가진화 가능한 포켓몬이 루어모듈에 반응해서 잡으면 메가 에너지를 손에 넣을 수 있다
 
 RESOURCE ID: bonus_mega_energy_spin_chance
 TEXT: 포켓스톱, 체육관 스핀으로 메가 에너지를 받을 수도 있다
@@ -19249,6 +19441,9 @@ TEXT: 윌로우박사 조수의 피카츄가 레이드와 시간제한 리서치
 
 RESOURCE ID: bonus_pikachu_30thapac
 TEXT: PokéXciting! 피카츄가 야생에서 시간제한 리서치, GO스냅샷에 출현
+
+RESOURCE ID: bonus_pikachu_astro_costume
+TEXT: 우주비행 피카츄가 레이드에 출현
 
 RESOURCE ID: bonus_pikachu_npb_costume
 TEXT: 야구 셔츠의 피카츄가 레이드배틀과 시간제한 리서치에 등장
@@ -19766,6 +19961,9 @@ TEXT: 전기 충전 보너스 시간제한 리서치
 RESOURCE ID: bonus_tr_gbl_championships_2026_a_title
 TEXT: 원시의힘 보너스 시간제한 리서치
 
+RESOURCE ID: bonus_tr_gbl_championships_2027_a_title
+TEXT: 메가 모멘텀
+
 RESOURCE ID: bonus_tr_gbl_championships_2024_a_desc
 TEXT: 보너스 시간제한 리서치
 
@@ -19777,6 +19975,9 @@ TEXT: 전기 충전 보너스 시간제한 리서치
 
 RESOURCE ID: bonus_tr_gbl_championships_2026_a_desc
 TEXT: 원시의힘 보너스 시간제한 리서치
+
+RESOURCE ID: bonus_tr_gbl_championships_2027_a_desc
+TEXT: 메가 모멘텀 보너스 시간제한 리서치
 
 RESOURCE ID: bonus_tr_gbl_euic_2024_a_title
 TEXT: 2024 Pokémon LAIC 챔피언
@@ -29071,7 +29272,7 @@ RESOURCE ID: combat_choose_next_pokemon
 TEXT: 포켓몬을 교대하겠습니까?
 
 RESOURCE ID: combat_choose_pokemon_scaled
-TEXT: A Pokémon’s CP has been adjusted for this league.
+TEXT: 이 리그에 맞춰 CP를 조절한 포켓몬을 포함합니다
 
 RESOURCE ID: combat_choosing_their_team
 TEXT: 파티 선택 중
@@ -30268,6 +30469,9 @@ TEXT: 비치 사이드 프리미엄 시간제한 리서치
 RESOURCE ID: concierge_promo_tr_name
 TEXT: 포켓몬 컨시어지 보너스 시간제한 리서치
 
+RESOURCE ID: confirm_gift_purchase_v2_reward_points_prefix
+TEXT: You will receive
+
 RESOURCE ID: confirm_send_button
 TEXT: 보내기
 
@@ -31152,6 +31356,9 @@ TEXT: {0} (을)를 삭제하겠습니까?
 RESOURCE ID: delete_gift_confirmation
 TEXT: 정말로 이 선물을 버리겠습니까?
 
+RESOURCE ID: delete_gift_message
+TEXT: Gifts do not count toward Item Bag storage.
+
 RESOURCE ID: delete_pokemon_tag_confirmation
 TEXT: 이 태그를 포켓몬에서 제거합니다. 포켓몬은 연구소에 보낼 수 없습니다.
 
@@ -31624,6 +31831,12 @@ TEXT: 에셋을 다운로드 못했습니다
 
 RESOURCE ID: downloading_avatar_assets_warning_body
 TEXT: 에셋 다운로드 중 문제가 발생했습니다. 통신 상태를 확인 후 게임을 다시 시작해 주십시오.
+
+RESOURCE ID: dragon_poi_spin_plural
+TEXT: Spin {0} Dragon type-themed PokéStops
+
+RESOURCE ID: dragon_poi_spin_singular
+TEXT: Spin a Dragon type-themed PokéStop
 
 RESOURCE ID: dragon_type_event
 TEXT: Type Surge: Dragon
@@ -33102,6 +33315,18 @@ TEXT: 이 닉네임은 사용할 수 없습니다.
 
 RESOURCE ID: error_weak_network
 TEXT: 네트워크 상태가 불안정합니다. 통신상태가 양호한 곳에서 다신 한번 시도해 주세요.
+
+RESOURCE ID: esa_2026_title
+TEXT: 유럽 우주기관 이벤트2026
+
+RESOURCE ID: esa_2026_tr_title
+TEXT: 유럽 우주기관 이벤트2026 시간제한 리서치
+
+RESOURCE ID: esa_2026_tr_01
+TEXT: 유럽 우주기관 이벤트2026 시간제한 리서치(1/2)
+
+RESOURCE ID: esa_2026_tr_02
+TEXT: 유럽 우주기관 이벤트2026 시간제한 리서치(2/2)
 
 RESOURCE ID: europe_international_championships_bonus_2024
 TEXT: Pokémon Europe International Championships2024 - 보너스
@@ -35805,6 +36030,15 @@ TEXT: 페어리타입 테마 포켓스톱을 1개 돌린다
 
 RESOURCE ID: fairy_type_event
 TEXT: Type Surge: Fairy
+
+RESOURCE ID: fall_marathon_event_name_2026
+TEXT: 가을 소풍: 파트너와 함께
+
+RESOURCE ID: fall_marathon_incense_bramblin
+TEXT: 그푸리가 향로에 반응할 때가 있다
+
+RESOURCE ID: fall_marathon_tr_title
+TEXT: 가을 마라톤 시간제한 리서치
 
 RESOURCE ID: fantasy_cup_great_title
 TEXT: 판타지컵: 슈퍼리그 버전
@@ -40999,6 +41233,9 @@ TEXT: 결정
 RESOURCE ID: general_days_remaining
 TEXT: {0}일
 
+RESOURCE ID: general_device_troubleshooting_id_scopely_helpshift
+TEXT: 1337
+
 RESOURCE ID: general_do_not_allow
 TEXT: 허용하지 않는다
 
@@ -41116,6 +41353,12 @@ TEXT: 종료
 RESOURCE ID: generic_contact_support
 TEXT: 문의 하기
 
+RESOURCE ID: generic_event_pass_premium_unlock
+TEXT: GO Pass Deluxe
+
+RESOURCE ID: generic_event_pass_premium_unlock_plus_points
+TEXT: GO Pass Deluxe + Ranks
+
 RESOURCE ID: generic_player_lockout
 TEXT: 이용약관 위반 상태가 계속 검출되어 사용하시는 계정이 일시 정지 되었습니다.
 
@@ -41123,6 +41366,9 @@ TEXT: 이용약관 위반 상태가 계속 검출되어 사용하시는 계정�
 
 RESOURCE ID: generic_track_upgrade_header_description
 TEXT: 프리미엄 리워드를 손에 넣을 수 있고 레벨 30에서 <b>레돔벌레</b>와 만날 수 있습니다!
+
+RESOURCE ID: gengar_bonus_raid
+TEXT: 메가팬텀이 레이드에 출현
 
 RESOURCE ID: gengeneral1.ticket.2_dratini_cdc_description
 TEXT: A ticket to access the Dratini Community Day Classic Special Research on November 5, 2022, from 2:00 p.m. to 5:00 p.m. local time, wherever you are. Details can be found in the in-game News.
@@ -41186,6 +41432,15 @@ TEXT: Greetings from
 RESOURCE ID: gift_from_sponsor
 TEXT: Open a Gift from a Sponsor!
 
+RESOURCE ID: gift_multi_delete_complete
+TEXT: Your selection has been cleared.
+
+RESOURCE ID: gift_multi_delete_plural
+TEXT: Discard these {0} Gifts?
+
+RESOURCE ID: gift_multi_delete_button_text
+TEXT: DISCARD ({0})
+
 RESOURCE ID: gift_open_double
 TEXT: 2× 개봉 가능한 선물
 
@@ -41246,6 +41501,11 @@ TEXT: 선물을 보낼 수 없습니다
 RESOURCE ID: gifting_error_description
 TEXT: 구매 완료 직전에 상대방이 티켓을 손에 넣었기 때문에 선물을 보낼 수 없었습니다.
 다른 프렌드에게 보내거나 앱 스토어에서 환불을 요청해 주세요
+
+RESOURCE ID: gifting_error_description_temp
+TEXT: Unfortunately, this Friend is now ineligible for receiving this paid gift. This can happen for a variety of reasons.
+
+You can choose a new friend to send this to now.
 
 RESOURCE ID: gifting_error_refund_button
 TEXT: 환불 요청
@@ -49512,6 +49772,99 @@ TEXT: Pokémon GO 와일드 에리어2025: 일요일 이벤트 아워
 RESOURCE ID: gowa_2025_sun_ticketed
 TEXT: Pokémon GO 와일드 에리어2025: 일요일 이벤트 아워(티켓)
 
+RESOURCE ID: gowa_2026
+TEXT: Pokémon GO Wild Area 2026
+
+RESOURCE ID: gowa_2026_all_sat
+TEXT: Pokémon GO Wild Area 2026: All-Day Saturday
+
+RESOURCE ID: gowa_2026_all_sun
+TEXT: Pokémon GO Wild Area 2026: All-Day Sunday
+
+RESOURCE ID: gowa_2026_all_weekend
+TEXT: Pokémon GO Wild Area 2026: All Weekend
+
+RESOURCE ID: gowa_2026_all_weekend_ticketed
+TEXT: Pokémon GO Wild Area 2026: All Weekend (Ticket)
+
+RESOURCE ID: gowa_2026_cdmx
+TEXT: Pokémon GO Wild Area 2026: Mexico City
+
+RESOURCE ID: gowa_2026_cdmx_extended_bonus
+TEXT: Pokémon GO Wild Area 2026: Mexico City – Extended Bonuses
+
+RESOURCE ID: gowa_2026_content_hashtag
+TEXT: Post photos with #GOWildArea2026, and we’ll share our favorites!
+
+RESOURCE ID: gowa_2026_dragon_badge_candy_xl_bonus
+TEXT: One additional Candy XL from catching Dragon-type mighty Pokémon
+
+RESOURCE ID: gowa_2026_dragon_badge_stardust_bonus
+TEXT: 1,000 additional Stardust from catching Dragon-type mighty Pokémon
+
+RESOURCE ID: gowa_2026_fri_ticketed
+TEXT: Pokémon GO Wild Area 2026: All-Day Friday (Ticket)
+
+RESOURCE ID: gowa_2026_global_extended_bonus
+TEXT: Pokémon GO Wild Area 2026 – Extended Bonuses
+
+RESOURCE ID: gowa_2026_habitat_cc_description
+TEXT: Catch event Pokémon!
+
+RESOURCE ID: gowa_2026_habitat_global_cc_saturday
+TEXT: Wild Area Collection Challenge: Saturday
+
+RESOURCE ID: gowa_2026_habitat_global_cc_sunday
+TEXT: Wild Area Collection Challenge: Sunday
+
+RESOURCE ID: gowa_2026_habitat_now_dragon
+TEXT: Happening now: Solid as Steel Hour
+
+RESOURCE ID: gowa_2026_habitat_now_steel
+TEXT: Happening now: Daring as Dragons Hour
+
+RESOURCE ID: gowa_2026_irl_cc_cdmx_friday
+TEXT: GO Wild Area: Mexico City Collection Challenge
+
+RESOURCE ID: gowa_2026_irl_cc_cdmx_saturday
+TEXT: GO Wild Area: Mexico City Collection Challenge
+
+RESOURCE ID: gowa_2026_irl_cc_cdmx_sunday
+TEXT: GO Wild Area: Mexico City Collection Challenge
+
+RESOURCE ID: gowa_2026_irl_cc_sendai_friday
+TEXT: GO Wild Area: Sendai・Tohoku Collection Challenge
+
+RESOURCE ID: gowa_2026_irl_cc_sendai_saturday
+TEXT: GO Wild Area: Sendai・Tohoku Collection Challenge
+
+RESOURCE ID: gowa_2026_irl_cc_sendai_sunday
+TEXT: GO Wild Area: Sendai・Tohoku Collection Challenge
+
+RESOURCE ID: gowa_2026_sat
+TEXT: Pokémon GO Wild Area 2026: Saturday Event Hours
+
+RESOURCE ID: gowa_2026_sat_ticketed
+TEXT: Pokémon GO Wild Area 2026: Saturday Event Hours (Ticket)
+
+RESOURCE ID: gowa_2026_sendai
+TEXT: Pokémon GO Wild Area 2026: Sendai・Tohoku
+
+RESOURCE ID: gowa_2026_sendai_extended_bonus
+TEXT: Pokémon GO Wild Area 2026: Sendai・Tohoku – Extended Bonuses
+
+RESOURCE ID: gowa_2026_steel_badge_candy_xl_bonus
+TEXT: One additional Candy XL from catching Steel-type mighty Pokémon
+
+RESOURCE ID: gowa_2026_steel_badge_stardust_bonus
+TEXT: 1,000 additional Stardust from catching Steel-type mighty Pokémon
+
+RESOURCE ID: gowa_2026_sun
+TEXT: Pokémon GO Wild Area 2026: Sunday Event Hours
+
+RESOURCE ID: gowa_2026_sun_ticketed
+TEXT: Pokémon GO Wild Area 2026: Sunday Event Hours (Ticket)
+
 RESOURCE ID: gowa2024
 TEXT: Pokémon GO 와일드 에리어2024
 
@@ -51825,6 +52178,9 @@ TEXT: 리워드 로드
 RESOURCE ID: iap_category_team_change
 TEXT: 팀 변경
 
+RESOURCE ID: iap_friend_picker_last_sent
+TEXT: Last Sent
+
 RESOURCE ID: iap_item_unavailable
 TEXT: 숍에 없는 아이템입니다.
 
@@ -52793,6 +53149,9 @@ TEXT: 파이어와의 만남
 RESOURCE ID: item_amer2026_milestone_name
 TEXT: 스파크 모티브를 한 에레키드
 
+RESOURCE ID: item_bag_bonus
+TEXT: bonus
+
 RESOURCE ID: item_bag_deployed
 TEXT: 체육관, 파워스폿에 있는 포켓몬에게는 쓸 수 없습니다
 
@@ -52807,6 +53166,9 @@ TEXT: 향로 등 트레이너 부스터
 
 RESOURCE ID: item_bag_category_evolution
 TEXT: Evolutions
+
+RESOURCE ID: item_bag_category_featured
+TEXT: Featured
 
 RESOURCE ID: item_bag_category_gifts
 TEXT: 선물
@@ -54808,6 +55170,9 @@ TEXT: 1시간 남음
 RESOURCE ID: item_expire_timer_minutes_seconds_left
 TEXT: {0} 남음
 
+RESOURCE ID: item_fall_marathon_2026_milestone_name
+TEXT: 그푸리와의 만남
+
 RESOURCE ID: item_flying_taxi_milestone_name
 TEXT: 슈퍼 로켓레이더
 
@@ -55095,6 +55460,12 @@ TEXT: 알을 넣고 걸으면 포켓몬이 부화하는 장치. GO패스 기한 
 
 RESOURCE ID: item_incubator_timed_name
 TEXT: 시간제한 부화장치
+
+RESOURCE ID: item_inventory_paid_gift_banner_title
+TEXT: You have paid gifts
+
+RESOURCE ID: item_inventory_paid_gift_banner_subtitle
+TEXT: Send to your Friends?
 
 RESOURCE ID: item_item_pack_desc
 TEXT: 지닐 수 있는 도구의 상한 수가 늘어납니다.
@@ -56261,6 +56632,30 @@ TEXT: 보라색 연구 시간제한 리서치(2/3)
 
 RESOURCE ID: kr_ditto_event_2025_tr_name_3
 TEXT: 보라색 연구 시간제한 리서치(3/3)
+
+RESOURCE ID: kr_fcseoul_collab_2026_title
+TEXT: FC Seoul Event 2026
+
+RESOURCE ID: kr_fcseoul_collab_2026_bonus_raid_lc_desc
+TEXT: During event hours on October 24, Charmander caught from raids around the Seoul World Cup Stadium event area may have an exclusive Location Background
+
+RESOURCE ID: kr_fcseoul_collab_2026_bonus_tr_lc_desc
+TEXT: Charizard encountered from event Timed Research will have an exclusive Location Background
+
+RESOURCE ID: kr_fcseoul_collab_2026_bonus_wild_pokemon
+TEXT: Catch Fire-type Pokémon around the Seoul World Cup Stadium event area—let’s fire it up for FC Seoul!
+
+RESOURCE ID: kr_fcseoul_collab_2026_tr_name
+TEXT: FC Seoul Event 2026 Timed Research
+
+RESOURCE ID: kr_fcseoul_collab_2026_tr_name_1
+TEXT: FC Seoul Event 2026 Timed Research (1/3)
+
+RESOURCE ID: kr_fcseoul_collab_2026_tr_name_2
+TEXT: FC Seoul Event 2026 Timed Research (2/3)
+
+RESOURCE ID: kr_fcseoul_collab_2026_tr_name_3
+TEXT: FC Seoul Event 2026 Timed Research (3/3)
 
 RESOURCE ID: kr_festival_fr_location_background
 TEXT: 필드리서치에서 잡는 사철록와 의상을 입은 피카츄에 로케이션 배경이 있을 가능성
@@ -60092,6 +60487,9 @@ TEXT: 만남: 제크로무2025
 RESOURCE ID: __male_speaker
 TEXT: 상대 포켓몬에게 유리한 타입의 기술을 쓰자!
 
+RESOURCE ID: manage_gifts_header
+TEXT: Manage Gifts
+
 RESOURCE ID: manage_items_button
 TEXT: 도구
 
@@ -61405,7 +61803,7 @@ RESOURCE ID: mega_evolve_lobby_existing_toast
 TEXT: 메가진화는 1마리만 가능합니다.
 
 RESOURCE ID: mega_evolve_pokemon_to_use_in_this_party
-TEXT: Mega Evolve Gengar to use this party.
+TEXT: 팬텀을 메가진화 하세요
 
 RESOURCE ID: mega_evolve_preview_first_time
 TEXT: 처음 포켓몬을 메가진화한 후에는 휴식 시간을 보내고 메가 에너지 없이 다시 메가진화 할 수 있습니다.
@@ -61796,10 +62194,10 @@ at SHA 4d4f3e80cc7fb911006bd14d198c9831ef66d005
 Pipeline 339838, job 2672172
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-09-17T05:05:53.880793+00:00 for ko-KR
-at SHA 37a1529ab2c
-Pipeline 3950659, job 58169809
-Patch from: 0.431.0-SHA-8123c737-RC1, 0.427.0-SHA-fc729f25-RC2, 0.429.0-SHA-d6c796f0-RC1, 0.427.1-SHA-4a569ba7-RC1
+TEXT: Built at 2026-09-24T01:18:40.315486+00:00 for ko-KR
+at SHA 6210d7033b5
+Pipeline 3966222, job 58390716
+Patch from: 0.429.1-SHA-5521c4dc-RC1, 0.431.0-SHA-76e2198b-RC4
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: 시간제한 리서치: 격투타입
@@ -67520,7 +67918,7 @@ RESOURCE ID: onboard_welcome_screen|9
 TEXT: 자, 어떤 스타일로 외출할래?
 
 RESOURCE ID: one_or_more_pokemon_exceed_this_leagues_cp_limit
-TEXT: One or more Pokémon exceed this league’s CP limit.
+TEXT: 이 리그 CP 상한을 넘는 포켓몬이 있습니다
 
 RESOURCE ID: one_route_nearby_label
 TEXT: 1 route
@@ -67660,6 +68058,21 @@ TEXT: 천공으로 향한 마음
 RESOURCE ID: ozone_ascent_free_timed_research
 TEXT: 천공으로 향한 마음 시간제한 리서치
 
+RESOURCE ID: paid_gift_already_purchased_modal_title
+TEXT: You have already purchased this paid gift.
+
+RESOURCE ID: paid_gift_already_purchased_modal_button
+TEXT: GO TO INVENTORY
+
+RESOURCE ID: paid_gift_already_purchased_modal_message
+TEXT: Please check your inventory to send your paid gift.
+
+RESOURCE ID: paid_gift_regift_no_longer_available_modal_title
+TEXT: Gifting Error
+
+RESOURCE ID: paid_gift_regift_no_longer_available_modal_message
+TEXT: This item is no longer available and cannot be gifted.
+
 RESOURCE ID: paid_pikachu_gmax_tr_mar26
 TEXT: 거다이맥스 피카츄 프리미엄 시간제한 리서치
 
@@ -67771,6 +68184,21 @@ TEXT: Limited Partner Research : Amazon Prime Gaming (1/2)
 
 RESOURCE ID: partner_research_ltd_amazon_gaming_01
 TEXT: Limited Partner Research : Amazon Prime Gaming (2/2)
+
+RESOURCE ID: partnership_gengar_2026_event_title
+TEXT: 포켓몬 카드 30주년 기념
+
+RESOURCE ID: partnership_gengar_2026_tr_title
+TEXT: 포켓몬 카드 30주년 기념 보너스 시간제한 리서치
+
+RESOURCE ID: partnership_gengar_2026_tr_desc_00
+TEXT: 포켓몬 카드 30주년 기념 보너스 시간제한 리서치(1/3)
+
+RESOURCE ID: partnership_gengar_2026_tr_desc_01
+TEXT: 포켓몬 카드 30주년 기념 보너스 시간제한 리서치(2/3)
+
+RESOURCE ID: partnership_gengar_2026_tr_desc_02
+TEXT: 포켓몬 카드 30주년 기념 보너스 시간제한 리서치(3/3)
 
 RESOURCE ID: partnership_latam_soccer_collab_event_title
 TEXT: 베스트 골!
@@ -68607,6 +69035,18 @@ TEXT: 일시 정지해도 프렌드의 스탬프는 받을 수 있습니다. 프
 
 RESOURCE ID: pause_dialog_subtitle
 TEXT: 이 스탬프랠리의 스탬프를 모으는 것을 멈추겠습니다. 스크랩북 컬렉션 화면에서 언제든지 다시 시작할 수 있습니다.
+
+RESOURCE ID: pause_gift_list_title
+TEXT: Pause Gifts List
+
+RESOURCE ID: pause_gift_list_prompt_title
+TEXT: Pause Gifting?
+
+RESOURCE ID: pause_gift_list_prompt_desc
+TEXT: The following Friend will be unable to send you paid gifts. You can enable them to send again at any point.
+
+RESOURCE ID: pause_gift_list_prompt_button_label
+TEXT: YES, PAUSE
 
 RESOURCE ID: pause_route_travel_error_toast
 TEXT: 루트 일시 정지 에러
@@ -78352,6 +78792,15 @@ TEXT: 색이 다른 포켓몬은 보낼 수 없습니다.
 RESOURCE ID: pokemon_info_multi_transfer_ultra_beast_pokemon_error
 TEXT: 울트라비스트는 선택할 수 없습니다!
 
+RESOURCE ID: pokemon_info_no_evolve_pokemon
+TEXT: No Pokémon can use this item to evolve.
+
+RESOURCE ID: pokemon_info_no_fainted_pokemon
+TEXT: No Pokémon need to be revived.
+
+RESOURCE ID: pokemon_info_no_hurt_pokemon
+TEXT: All Pokémon are fully healed.
+
 RESOURCE ID: pokemon_info_no_stats_available
 TEXT: 단련할 수 있는 항목이 없습니다
 
@@ -82855,6 +83304,65 @@ TEXT: 디럭스
 RESOURCE ID: premium_rewards
 TEXT: 프리미엄 리워드
 
+RESOURCE ID: premium_gift_sent
+TEXT: You sent a paid gift to {0}
+
+RESOURCE ID: premium_gift_ftue_title
+TEXT: Introducing More Gifting Options in the Shop
+
+RESOURCE ID: premium_gift_ftue_desc
+TEXT: You can now send and receive more types of gifts through the Shop!
+
+Do you want to opt in? You can change this at any point in Settings.
+
+RESOURCE ID: premium_gift_notification_event_pass_title
+TEXT: GO Pass
+
+RESOURCE ID: premium_gift_notification_event_pass_desc
+TEXT: Greetings, <b>{0}</b>! Here’s an GO Pass for you. Let’s see who can complete it and get all the rewards!
+
+Sincerely,
+—<b>{1}</b>
+
+RESOURCE ID: premium_gift_notification_items_title
+TEXT: Gift For You
+
+RESOURCE ID: premium_gift_notification_multiple_trainers_desc
+TEXT: Greetings, <b>{0}</b>!
+
+Your Friends sent some gifts for you!
+
+
+RESOURCE ID: premium_gift_notification_one_trainer_multiple_items_desc
+TEXT: Greetings, <b>{0}</b>!
+
+Here are gifts for you!
+{2}
+
+Sincerely,
+—<b>{1}</b>
+
+RESOURCE ID: premium_gift_notification_one_trainer_one_item_desc
+TEXT: Greetings, <b>{0}</b>!
+
+Here’s a gift for you!
+{2}
+
+Sincerely,
+—<b>{1}</b>
+
+RESOURCE ID: premium_gift_received_event_pass
+TEXT: {0} gifted you an GO Pass!
+
+RESOURCE ID: premium_gift_received_event_ticket
+TEXT: {0} gifted you a ticket for an event!
+
+RESOURCE ID: premium_gift_received_item_multi
+TEXT: {0} gifted you a {1} and more!
+
+RESOURCE ID: premium_gift_received_item_single
+TEXT: {0} gifted you a {1}!
+
 RESOURCE ID: primal_revert
 TEXT: 원시회귀
 
@@ -84172,6 +84680,9 @@ TEXT: 악타입 파트너 포켓몬의 하트를 {0}개 획득한다
 RESOURCE ID: quest_buddy_affection_days_in_a_row
 TEXT: {0}일 연속해서 파트너 포켓몬의 하트 받기
 
+RESOURCE ID: quest_buddy_affection_dragon_plural
+TEXT: Earn {0} hearts with a Dragon-type buddy
+
 RESOURCE ID: quest_buddy_affection_electric_plural
 TEXT: 전기타입 파트너 포켓몬의 하트를 {0}개 획득한다
 
@@ -84186,6 +84697,9 @@ TEXT: 독타입 파트너 포켓몬의 하트를 {0}개 획득한다
 
 RESOURCE ID: quest_buddy_affection_poison_singular
 TEXT: 독타입 파트너 포켓몬의 하트를 1개 획득한다
+
+RESOURCE ID: quest_buddy_affection_steel_plural
+TEXT: Earn {0} hearts with a Steel-type buddy
 
 RESOURCE ID: quest_buddy_affection_zeraora_plural
 TEXT: 제라오라를 파트너로 하고 하트를 {0}개 획득한다
@@ -87580,6 +88094,9 @@ TEXT: 파트너 멜리시와 탐색해서 사탕 1개를 얻는다
 RESOURCE ID: quest_explore_buddy_dark
 TEXT: 파트너 악타입 포켓몬과 탐색해서 사탕 1개를 얻는다
 
+RESOURCE ID: quest_explore_buddy_dragon
+TEXT: Earn a Candy exploring with a Dragon-type as your buddy
+
 RESOURCE ID: quest_explore_buddy_electric
 TEXT: 파트너 전기타입 포켓몬과 탐색해서 사탕 1개를 얻는다
 
@@ -87591,6 +88108,9 @@ TEXT: 파트너 포켓몬과 탐색하여 사탕 {0}개를 얻는다
 
 RESOURCE ID: quest_explore_buddy_poison
 TEXT: 파트너 독타입 포켓몬과 탐색해서 사탕 1개를 얻는다
+
+RESOURCE ID: quest_explore_buddy_steel
+TEXT: Earn a Candy exploring with a Steel-type as your buddy
 
 RESOURCE ID: quest_explore_buddy_routes_plural
 TEXT: 루트에서 파트너 포켓몬과 탐색하여 사탕을 {0}개 얻는다
@@ -110864,6 +111384,9 @@ TEXT: 버리는 도구:
 RESOURCE ID: recycle_dialog_suffix
 TEXT: {0}
 
+RESOURCE ID: recycle_discard_all
+TEXT: YES, DISCARD ALL
+
 RESOURCE ID: reduced_buddy_candy_distance_routes
 TEXT: 파트너 포켓몬이 루트에서 발견하는 사탕의 거리 감소
 
@@ -111934,7 +112457,7 @@ RESOURCE ID: returning_sign_in_partial
 TEXT: 사용 계정{0}
 
 RESOURCE ID: revert_pokemon_to_its_primal_form_to_use_this_party
-TEXT: Revert Kyogre to its Primal form to use this party.
+TEXT: 가이오가를 원시회귀 하세요
 
 RESOURCE ID: revive_all_button
 TEXT: Revive All
@@ -116528,6 +117051,9 @@ TEXT: GO패스: 스파크의 육성 방법 탐구
 RESOURCE ID: season_pass_base_track_title_emea_2026
 TEXT: GO패스: 칸델라의 배틀 방법 탐구
 
+RESOURCE ID: season_pass_base_track_title_fall_marathon_2026
+TEXT: GO패스: 가을 마라톤
+
 RESOURCE ID: season_pass_base_track_title_flying_taxi_2026
 TEXT: GO패스: 하늘 나는 그림자
 
@@ -116535,7 +117061,7 @@ RESOURCE ID: season_pass_base_track_title_halloween_2025
 TEXT: GO패스: 핼러윈 2025
 
 RESOURCE ID: season_pass_base_track_title_harvest_festival_2026
-TEXT: GO Pass: Harvest Festival
+TEXT: GO패스: 수확 축제
 
 RESOURCE ID: season_pass_base_track_title_horizons_fall_2026
 TEXT: GO패스: 콜라보 이벤트
@@ -116696,6 +117222,9 @@ TEXT: 자세한 내용은 <a href="https://pokemongo.com/news/ultraunlock-10th-a
 RESOURCE ID: season_pass_details_link_amer_2026
 TEXT: 자세한 내용은 <a href="https://pokemongo.com/news/global-events-gofest2026-overlays">웹사이트</a>에서 확인해 주세요.
 
+RESOURCE ID: season_pass_details_link_fall_marathon_2026
+TEXT: 자세한 내용은 <a href="https://pokemongo.com/news/fall-marathon-buddy-trek-2026">웹사이트</a>에서 확인해 주세요.
+
 RESOURCE ID: season_pass_details_link_flying_taxi_2026
 TEXT: 자세한 내용은 <a href="https://pokemongo.com/news/flying-taxi-2026">웹사이트</a>에서 확인해 주세요.
 
@@ -116703,7 +117232,7 @@ RESOURCE ID: season_pass_details_link_halloween_2025
 TEXT: 자세한 내용은 <a href="https://pokemongo.com/news/go-pass-halloween-2025">웹사이트</a>에서 확인해 주세요.
 
 RESOURCE ID: season_pass_details_link_harvest_festival_2026
-TEXT: For more details, visit the <a href="https://pokemongo.com/news/harvest-festival-2026">website</a>.
+TEXT: 자세한 내용은 <a href="https://pokemongo.com/news/harvest-festival-2026">웹사이트</a>에서 확인해 주세요.
 
 RESOURCE ID: season_pass_details_link_horizons_fall_2026
 TEXT: 자세한 내용은 <a href="https://pokemongo.com/news/pokemon-horizons-celebration-event-2026">웹사이트</a>에서 확인해 주세요.
@@ -116728,6 +117257,17 @@ TEXT: 자세한 내용은 <a href="https://pokemongo.com/news/world-championship
 
 RESOURCE ID: season_pass_details_link_winter_holidays_2025
 TEXT: 자세한 내용은 <a href="https://pokemongo.com/news/go-pass-winter_holidays-2025">웹사이트</a>에서 확인해 주세요.
+
+RESOURCE ID: season_pass_fall_marathon_2026_track_upgrade_header_description
+TEXT: 프리미엄 리워드를 손에 넣을 수 있고 레벨 30에서 <b>그푸리</b>와 만날 수 있습니다!
+
+RESOURCE ID: season_pass_fall_marathon_2026_upgrade_description
+TEXT: GO패스 디럭스: 가을 마라톤을 구매하면 다음 리워드를 받을 수 있습니다!
+
+- 썬더볼트의 메가 에너지
+- 이벤트와 어울리는 포켓몬과의 만남
+- 이상한사탕
+- 기타
 
 RESOURCE ID: season_pass_february2026_event_duration
 TEXT: 2월 3일~3월 3일
@@ -116769,17 +117309,17 @@ TEXT: GO패스 디럭스: 핼러윈 2025을 구매하면 다음 리워드를 받
 - 기타
 
 RESOURCE ID: season_pass_harvest_festival_2026_event_duration
-TEXT: September 29 – October 5
+TEXT: 9월 29일~10월 5일
 
 RESOURCE ID: season_pass_harvest_festival_2026_track_upgrade_header_description
-TEXT: Earn additional rewards and unlock a <b>Super Rocket Radar</b> at Rank 1!
+TEXT: 추가 리워드를 받을 수 있고 랭크 1에서 <b>슈퍼 로켓레이더</b>를 잠금 해제!
 
 RESOURCE ID: season_pass_harvest_festival_2026_upgrade_description
-TEXT: Purchase GO Pass Deluxe: Harvest Festival to unlock the following rewards!
+TEXT: GO패스 디럭스: 수확 축제를 구매하면 다음 리워드를 받을 수 있습니다!
 
-• Encounters with Cottonee, Skiddo, Applin, and more!
-• 3 Mossy Lure Modules
-• And much more!
+- 소미안, 메이클, 과사삭벌레와의 만남
+- 허브 루어모듈 3개
+- 기타
 
 RESOURCE ID: season_pass_horizons_fall_2026_event_duration
 TEXT: 9월 16일~22일
@@ -116980,11 +117520,14 @@ TEXT: GO패스 디럭스: 스파크의 육성 방법 탐구+6랭크
 RESOURCE ID: season_pass_premium_track_plus_six_ranks_title_emea_2026
 TEXT: GO패스 디럭스: 칸델라의 배틀 방법 탐구+6랭크
 
+RESOURCE ID: season_pass_premium_track_plus_six_ranks_title_fall_marathon_2026
+TEXT: GO패스 디럭스: 가을 마라톤 + 6랭크
+
 RESOURCE ID: season_pass_premium_track_plus_six_ranks_title_flying_taxi_2026
 TEXT: GO패스 디럭스: 하늘 나는 그림자 + 6랭크
 
 RESOURCE ID: season_pass_premium_track_plus_six_ranks_title_harvest_festival_2026
-TEXT: GO Pass Deluxe: Harvest Festival + 6 Ranks
+TEXT: GO패스 디럭스: 수확 축제 + 6랭크
 
 RESOURCE ID: season_pass_premium_track_plus_six_ranks_title_horizons_fall_2026
 TEXT: GO패스 디럭스: 콜라보 이벤트 + 6랭크
@@ -117118,6 +117661,9 @@ TEXT: GO패스 디럭스: 스파크의 육성 방법 탐구
 RESOURCE ID: season_pass_premium_track_title_emea_2026
 TEXT: GO패스 디럭스: 칸델라의 배틀 방법 탐구
 
+RESOURCE ID: season_pass_premium_track_title_fall_marathon_2026
+TEXT: GO패스 디럭스: 가을 마라톤
+
 RESOURCE ID: season_pass_premium_track_title_flying_taxi_2026
 TEXT: GO패스 디럭스: 하늘 나는 그림자
 
@@ -117125,7 +117671,7 @@ RESOURCE ID: season_pass_premium_track_title_halloween_2025
 TEXT: GO패스 디럭스: 핼러윈 2025
 
 RESOURCE ID: season_pass_premium_track_title_harvest_festival_2026
-TEXT: GO Pass Deluxe: Harvest Festival
+TEXT: GO패스 디럭스: 수확 축제
 
 RESOURCE ID: season_pass_premium_track_title_horizons_fall_2026
 TEXT: GO패스 디럭스: 콜라보 이벤트
@@ -117598,6 +118144,18 @@ TEXT: 프렌드에게 반짝이 참을 받는다
 RESOURCE ID: settings_allow_paid_gifts
 TEXT: 프렌드의 유료 티켓을 받는다
 
+RESOURCE ID: settings_allow_paid_gifts_desc_off
+TEXT: Turning off this feature will pause Friends to send you paid gifts. This does not include free gifts.
+
+RESOURCE ID: settings_allow_paid_gifts_desc_on
+TEXT: Turning on this feature will allow Friends to send you paid gifts. You can pause specific Friends from sending you paid gifts in the Paused Friends List once turned on.
+
+RESOURCE ID: settings_allow_paid_gifts_title_off
+TEXT: Turn Off Paid Gifts from Friends?
+
+RESOURCE ID: settings_allow_paid_gifts_title_on
+TEXT: Turn On Paid Gifts from Friends?
+
 RESOURCE ID: settings_allow_raid_and_max_battle_friend_requests
 TEXT: 레이드배틀, 맥스배틀 참가자
 
@@ -117825,6 +118383,12 @@ TEXT: 팀 내에서 현재 위치를 공유하고 맵 상에서 다른 트레이
 
 RESOURCE ID: settings_party_play_map_avatars
 TEXT: 다른 트레이널르 맵 상에서 본다
+
+RESOURCE ID: settings_pause_gifts_list
+TEXT: Pause Gifts List
+
+RESOURCE ID: settings_pause_gifts_list_tip
+TEXT: Selected Friends will not be able to send you paid gifts. This does not include free gifts.
 
 RESOURCE ID: settings_pbp_check_other_menu
 TEXT: 페어링 중인 기기는 Pokémon GO Plus 메뉴 아래에 있습니다.
@@ -118152,7 +118716,7 @@ RESOURCE ID: settings_wearables_device_status_unpaired
 TEXT: Not Paired
 
 RESOURCE ID: settings_wearables_device_troubleshooting_url
-TEXT: https://scopelyexplore.helpshift.com/hc/faq/1337-pairing-and-connecting-pokemon-go-to-official-devices/
+TEXT: https://scopelyexplore.helpshift.com/hc/ko/5-pokemon-go/faq/1337-pairing-and-connecting-pokemon-go-to-official-devices/
 
 RESOURCE ID: settings_wearables_empty_device_list
 TEXT: No Devices Found
@@ -118538,6 +119102,9 @@ TEXT: 스탬프
 RESOURCE ID: shop_already_own_this_ticket
 TEXT: 이 이벤트 티켓을 가지고 있습니다
 
+RESOURCE ID: shop_already_unlocked_premium_event_pass
+TEXT: You’ve already unlocked this GO Pass Deluxe
+
 RESOURCE ID: shop_battle_tickets_title
 TEXT: 레이드패스가 없습니다
 
@@ -118665,6 +119232,9 @@ TEXT: {0}(은)는 상한까지 업그레이드 되었습니다. 트레이너 레
 
 <a href="https://scopelyexplore.helpshift.com/hc/faq/1235-available-items-your-bag/">레벨업의 자세한 내용은 여기.</a>
 
+RESOURCE ID: shop_gift_confirm_purchase_warning_description
+TEXT: You can send <b>{0}</b> total paid gifts today. This gift cannot be used by another player or refunded.
+
 RESOURCE ID: shop_gift_friend_ineligible_title
 TEXT: 티켓을 보낼 수 없습니다
 
@@ -118673,6 +119243,16 @@ TEXT: 다음 이유로 프렌드가 유료 선물을 받을 수 없는 경우가
 •이미 티켓을 가지고 있는 경우
 •다른 사람이 이미 선물을 보낸 경우
 •선물을 보낼 수 있는 우정레벨이 아닌 경우
+
+RESOURCE ID: shop_gift_friend_ineligible_description_temp
+TEXT: You may not be able to send paid gifts—including items, tickets, and event passes—to some friends. This can happen for the following reasons:
+
+ • They already own the ticket or event pass, or have already received it from someone else
+ • For tickets, they may have active or completed research that prevents them from receiving it
+ • Your friendship level is too low
+ • They have disabled paid gifts
+ • Their account is not eligible due to restrictions
+ • Cross-currency gifting is not supported
 
 RESOURCE ID: shop_gift_invitation_title
 TEXT: 초대
@@ -118726,6 +119306,9 @@ RESOURCE ID: shop_gift_purchase_invitation_sent_description
 TEXT: {0}님에게 보냈습니다.
 
 이벤트 전에 열 수 있도록 알려주세요!
+
+RESOURCE ID: shop_gift_purchase_invitation_sent_generic_description
+TEXT: Your gift has been sent to {0}.
 
 RESOURCE ID: shop_gift_purchase_select_friend
 TEXT: 프렌드 선택하기
@@ -120060,10 +120643,10 @@ RESOURCE ID: soft_sfida_btn_manage_item_bag
 TEXT: 도구 가방 정리
 
 RESOURCE ID: soft_sfida_btn_switch_caps
-TEXT: SWITCH
+TEXT: 전환
 
 RESOURCE ID: soft_sfida_btn_unpair_device_caps
-TEXT: UNPAIR DEVICE
+TEXT: 페어링 해제
 
 RESOURCE ID: soft_sfida_btn_view_summary
 TEXT: 서머리 보기
@@ -123395,6 +123978,12 @@ TEXT: 등록 상황
 RESOURCE ID: steel_and_scales_event_name
 TEXT: 울트라 언록: 강철과 비늘
 
+RESOURCE ID: steel_poi_spin_plural
+TEXT: Spin {0} Steel type-themed PokéStops
+
+RESOURCE ID: steel_poi_spin_singular
+TEXT: Spin a Steel type-themed PokéStop
+
 RESOURCE ID: steel_scales_uu_july2025_cc_bagon
 TEXT: 강철과 비늘 컬렉션 챌린지: 아공이
 
@@ -125322,10 +125911,10 @@ RESOURCE ID: switch_sleep_warning
 TEXT: Please make sure that the mobile phone is up and running while connecting to SWITCH. Mobile phones going into sleep mode may disconnect from SWITCH.
 
 RESOURCE ID: switch_to_soft_sfida_description_default
-TEXT: If you’re unable to use your device but want to remain paired, you can use your Explorer Gadget instead.
+TEXT: 외부 디바이스와 페어링을 해제하지 않고 외출캐처 사용으로 전환할 수 있습니다.
 
 RESOURCE ID: switch_to_soft_sfida_title_default
-TEXT: Pause your device and switch to your Explorer Gadget?
+TEXT: 디바이스를 일시정지하고 외출캐처로 전환하겠습니까?
 
 RESOURCE ID: swsh_masterball_sr_title
 TEXT: 장기리서치: 마스터볼
@@ -135563,6 +136152,12 @@ TEXT: 원더 티켓 파트3 (3/3)
 
 RESOURCE ID: world_tourism_day
 TEXT: 세계관광의 날
+
+RESOURCE ID: wsw_2026_tr_title
+TEXT: 세계 우주 주간2026 시간제한 리서치
+
+RESOURCE ID: wsw2026_event_name
+TEXT: 세계 우주 주간2026
 
 RESOURCE ID: wte_2019_friend_medium
 TEXT: 세계 관광의 날: 트레이너 1명과 프렌드가 된다
