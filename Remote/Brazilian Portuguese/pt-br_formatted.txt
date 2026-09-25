@@ -62820,10 +62820,10 @@ at SHA 4d4f3e80cc7fb911006bd14d198c9831ef66d005
 Pipeline 339838, job 2672172
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-09-25T01:02:34.710192+00:00 for pt-BR
-at SHA c5627299131
-Pipeline 3969198, job 58438768
-Patch from: 0.429.2-SHA-ea3abc5d-RC1, 0.431.0-SHA-98b5070c-RC6
+TEXT: Built at 2026-09-25T23:26:39.461892+00:00 for pt-BR
+at SHA 698575e11e6
+Pipeline 3971666, job 58475858
+Patch from: 0.431.0-SHA-bb90cc49-RC3, 0.429.2-SHA-ad36de78-RC2
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: Pesquisa temporária: Escolha o seu tipo de lutador
@@ -118005,6 +118005,9 @@ RESOURCE ID: season_pass_harvest_festival_2026_event_duration
 TEXT: 29 de setembro – 5 de outubro
 
 RESOURCE ID: season_pass_harvest_festival_2026_track_upgrade_header_description
+TEXT: Ganhe recompensas adicionais e desbloqueie um <b>Super‑radar Rocket</b> no Ranque 2!
+
+RESOURCE ID: season_pass_harvest_festival_2026_track_upgrade_header_description_out
 TEXT: Ganhe recompensas adicionais e desbloqueie um <b>Super‑radar Rocket</b> no Ranque 1!
 
 RESOURCE ID: season_pass_harvest_festival_2026_upgrade_description

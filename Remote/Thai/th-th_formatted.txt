@@ -67294,10 +67294,10 @@ at SHA da71d231c41a4d4f7aef0d6fd71061652ff15a0a
 Pipeline 441624, job 3600523
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-09-25T01:02:34.710192+00:00 for th-TH
-at SHA c5627299131
-Pipeline 3969198, job 58438768
-Patch from: 0.429.2-SHA-ea3abc5d-RC1, 0.431.0-SHA-98b5070c-RC6
+TEXT: Built at 2026-09-25T23:26:39.461892+00:00 for th-TH
+at SHA 698575e11e6
+Pipeline 3971666, job 58475858
+Patch from: 0.431.0-SHA-bb90cc49-RC3, 0.429.2-SHA-ad36de78-RC2
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: งานวิจัยแบบจำกัดเวลา: ประเภทต่อสู้ของคุณ
@@ -128863,6 +128863,9 @@ RESOURCE ID: season_pass_harvest_festival_2026_event_duration
 TEXT: 29 กันยายน ถึง 5 ตุลาคม
 
 RESOURCE ID: season_pass_harvest_festival_2026_track_upgrade_header_description
+TEXT: รับรางวัลเพิ่มเติมและปลดล็อก<b>ซูเปอร์ร็อกเกตเรดาร์</b>ที่ระดับ 2!
+
+RESOURCE ID: season_pass_harvest_festival_2026_track_upgrade_header_description_out
 TEXT: รับรางวัลเพิ่มเติมและปลดล็อก<b>ซูเปอร์ร็อกเกตเรดาร์</b>ที่ระดับ 1!
 
 RESOURCE ID: season_pass_harvest_festival_2026_upgrade_description

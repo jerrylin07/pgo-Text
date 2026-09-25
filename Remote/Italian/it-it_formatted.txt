@@ -31728,7 +31728,7 @@ RESOURCE ID: delete_gift_confirmation
 TEXT: Vuoi davvero eliminare questo pacco?
 
 RESOURCE ID: delete_gift_message
-TEXT: Gifts do not count toward Item Bag storage.
+TEXT: I pacchi amicizia non incidono sulla capacità del tuo spazio Borsa.
 
 RESOURCE ID: delete_pokemon_tag_confirmation
 TEXT: Questa etichetta sarà rimossa dai Pokémon a cui è stata assegnata. I Pokémon non saranno trasferiti al Professor Willow.
@@ -41973,13 +41973,13 @@ RESOURCE ID: gift_from_sponsor
 TEXT: Apri un pacco amicizia sponsorizzato!
 
 RESOURCE ID: gift_multi_delete_complete
-TEXT: Your selection has been cleared.
+TEXT: La selezione è stata eliminata.
 
 RESOURCE ID: gift_multi_delete_plural
-TEXT: Discard these {0} Gifts?
+TEXT: Vuoi eliminare questi {0} pacchi amicizia?
 
 RESOURCE ID: gift_multi_delete_button_text
-TEXT: DISCARD ({0})
+TEXT: ELIMINA ({0})
 
 RESOURCE ID: gift_open_double
 TEXT: Apri il doppio dei pacchi amicizia
@@ -53716,7 +53716,7 @@ RESOURCE ID: item_bag_category_evolution
 TEXT: Strumenti Evoluzione
 
 RESOURCE ID: item_bag_category_featured
-TEXT: Featured
+TEXT: In primo piano
 
 RESOURCE ID: item_bag_category_gifts
 TEXT: Pacchi amicizia
@@ -61059,7 +61059,7 @@ RESOURCE ID: mall_event_apac_30th_anniversary_tr_desc
 TEXT: Completa la ricerca a tempo per incontrare Pikachu con cappello festivo e tanti Pokémon primi compagni d’avventura!
 
 RESOURCE ID: manage_gifts_header
-TEXT: Manage Gifts
+TEXT: Gestisci pacchi amicizia
 
 RESOURCE ID: manage_items_button
 TEXT: Organizza strumenti
@@ -62780,10 +62780,10 @@ at SHA 4d4f3e80cc7fb911006bd14d198c9831ef66d005
 Pipeline 339838, job 2672172
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-09-25T01:02:34.710192+00:00 for it-IT
-at SHA c5627299131
-Pipeline 3969198, job 58438768
-Patch from: 0.429.2-SHA-ea3abc5d-RC1, 0.431.0-SHA-98b5070c-RC6
+TEXT: Built at 2026-09-25T23:26:39.461892+00:00 for it-IT
+at SHA 698575e11e6
+Pipeline 3971666, job 58475858
+Patch from: 0.431.0-SHA-bb90cc49-RC3, 0.429.2-SHA-ad36de78-RC2
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: Ricerca a tempo: Scegli il tuo tipo Lotta
@@ -79354,13 +79354,13 @@ RESOURCE ID: pokemon_info_multi_transfer_ultra_beast_pokemon_error
 TEXT: Non puoi selezionare una Ultracreatura.
 
 RESOURCE ID: pokemon_info_no_evolve_pokemon
-TEXT: No Pokémon can use this item to evolve.
+TEXT: Nessun Pokémon può usare questo strumento per evolversi.
 
 RESOURCE ID: pokemon_info_no_fainted_pokemon
-TEXT: No Pokémon need to be revived.
+TEXT: Nessun Pokémon ha bisogno di essere rianimato.
 
 RESOURCE ID: pokemon_info_no_hurt_pokemon
-TEXT: All Pokémon are fully healed.
+TEXT: Tutti i Pokémon sono in perfetta salute.
 
 RESOURCE ID: pokemon_info_no_stats_available
 TEXT: Non ci sono altre statistiche da migliorare per questo Pokémon.
@@ -112029,7 +112029,7 @@ RESOURCE ID: recycle_dialog_suffix
 TEXT: {0}?
 
 RESOURCE ID: recycle_discard_all
-TEXT: YES, DISCARD ALL
+TEXT: SÌ, ELIMINA TUTTO
 
 RESOURCE ID: reduced_buddy_candy_distance_routes
 TEXT: Distanza ridotta per guadagnare caramelle da compagno esplorando dei percorsi
@@ -117966,6 +117966,9 @@ RESOURCE ID: season_pass_harvest_festival_2026_event_duration
 TEXT: Dal 29 settembre al 5 ottobre
 
 RESOURCE ID: season_pass_harvest_festival_2026_track_upgrade_header_description
+TEXT: Ottieni ricompense aggiuntive e sblocca un <b>super radar Rocket</b> al livello 2!
+
+RESOURCE ID: season_pass_harvest_festival_2026_track_upgrade_header_description_out
 TEXT: Ottieni ricompense aggiuntive e sblocca un <b>super radar Rocket</b> al livello 1!
 
 RESOURCE ID: season_pass_harvest_festival_2026_upgrade_description

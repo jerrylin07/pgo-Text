@@ -31565,7 +31565,7 @@ RESOURCE ID: delete_gift_confirmation
 TEXT: Ты действительно хочешь удалить этот подарок?
 
 RESOURCE ID: delete_gift_message
-TEXT: Gifts do not count toward Item Bag storage.
+TEXT: Подарки не занимают место в Рюкзаке для Предметов.
 
 RESOURCE ID: delete_pokemon_tag_confirmation
 TEXT: Тег будет удалён с Покемона, которому был присвоен. Покемон не будет отправлен Профессору Уиллоу.
@@ -41810,13 +41810,13 @@ RESOURCE ID: gift_from_sponsor
 TEXT: Открой спонсорский подарок!
 
 RESOURCE ID: gift_multi_delete_complete
-TEXT: Your selection has been cleared.
+TEXT: Твой выбор удалён.
 
 RESOURCE ID: gift_multi_delete_plural
-TEXT: Discard these {0} Gifts?
+TEXT: Удалить эти Подарки: {0}?
 
 RESOURCE ID: gift_multi_delete_button_text
-TEXT: DISCARD ({0})
+TEXT: УДАЛИТЬ ({0})
 
 RESOURCE ID: gift_open_double
 TEXT: Открой 2× подарков
@@ -53536,7 +53536,7 @@ RESOURCE ID: item_amer2026_milestone_name
 TEXT: Элекид с украшением в стиле Спарка
 
 RESOURCE ID: item_bag_bonus
-TEXT: bonus
+TEXT: бонус
 
 RESOURCE ID: item_bag_deployed
 TEXT: This item can’t be used on a Pokémon placed at a Power Spot or defending a Gym.
@@ -53554,7 +53554,7 @@ RESOURCE ID: item_bag_category_evolution
 TEXT: Evolutions
 
 RESOURCE ID: item_bag_category_featured
-TEXT: Featured
+TEXT: Актуальное
 
 RESOURCE ID: item_bag_category_gifts
 TEXT: Подарки
@@ -60897,7 +60897,7 @@ RESOURCE ID: mall_event_apac_30th_anniversary_tr_desc
 TEXT: Заверши Квест на Время, чтобы встретить Пикачу в праздничном колпаке и многих первых Покемонов-напарников!
 
 RESOURCE ID: manage_gifts_header
-TEXT: Manage Gifts
+TEXT: Организовать Подарки
 
 RESOURCE ID: manage_items_button
 TEXT: Manage Items
@@ -62618,10 +62618,10 @@ at SHA bacc02371739993984570a6f5b31a993cf3b031b
 Pipeline 498004, job 4265729
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-09-25T01:02:34.710192+00:00 for ru-RU
-at SHA c5627299131
-Pipeline 3969198, job 58438768
-Patch from: 0.429.2-SHA-ea3abc5d-RC1, 0.431.0-SHA-98b5070c-RC6
+TEXT: Built at 2026-09-25T23:26:39.461892+00:00 for ru-RU
+at SHA 698575e11e6
+Pipeline 3971666, job 58475858
+Patch from: 0.431.0-SHA-bb90cc49-RC3, 0.429.2-SHA-ad36de78-RC2
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: ‎Квест на время: Боевой тип
@@ -79179,13 +79179,13 @@ RESOURCE ID: pokemon_info_multi_transfer_ultra_beast_pokemon_error
 TEXT: Ты не можешь выбрать Ультрачудовище.
 
 RESOURCE ID: pokemon_info_no_evolve_pokemon
-TEXT: No Pokémon can use this item to evolve.
+TEXT: Нет Покемонов, которые могут использовать этот предмет, чтобы эволюционировать.
 
 RESOURCE ID: pokemon_info_no_fainted_pokemon
-TEXT: No Pokémon need to be revived.
+TEXT: Нет Покемонов, которых нужно оживить.
 
 RESOURCE ID: pokemon_info_no_hurt_pokemon
-TEXT: All Pokémon are fully healed.
+TEXT: Все Покемоны полностью излечены.
 
 RESOURCE ID: pokemon_info_no_stats_available
 TEXT: У этого Покемона нельзя тренировать другие характеристики.
@@ -111845,7 +111845,7 @@ RESOURCE ID: recycle_dialog_suffix
 TEXT: {0}?
 
 RESOURCE ID: recycle_discard_all
-TEXT: YES, DISCARD ALL
+TEXT: ДА, УДАЛИТЬ ВСЕ
 
 RESOURCE ID: reduced_buddy_candy_distance_routes
 TEXT: Короче дистанция, чтобы заработать Конфеты Приятеля во время исследования Маршрутов с твоим приятелем
@@ -117780,6 +117780,9 @@ RESOURCE ID: season_pass_harvest_festival_2026_event_duration
 TEXT: 29 сентября – 5 октября
 
 RESOURCE ID: season_pass_harvest_festival_2026_track_upgrade_header_description
+TEXT: Заработай дополнительные награды и получи доступ к <b>Суперракетному Радару</b> в Ранге 2!
+
+RESOURCE ID: season_pass_harvest_festival_2026_track_upgrade_header_description_out
 TEXT: Заработай дополнительные награды и получи доступ к <b>Суперракетному Радару</b> в Ранге 1!
 
 RESOURCE ID: season_pass_harvest_festival_2026_upgrade_description

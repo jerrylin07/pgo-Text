@@ -29380,7 +29380,7 @@ RESOURCE ID: delete_gift_confirmation
 TEXT: Bu Hediyeyi atmak istediğinizden emin misiniz?
 
 RESOURCE ID: delete_gift_message
-TEXT: Gifts do not count toward Item Bag storage.
+TEXT: Hediyeler Eşya Çantasında yer kaplamaz.
 
 RESOURCE ID: delete_pokemon_tag_confirmation
 TEXT: Bu etiket, atandığı Pokémon’dan kaldırılacak. Pokémon gönderilmeyecek.
@@ -39523,13 +39523,13 @@ RESOURCE ID: gift_from_sponsor
 TEXT: Sponsor Hediyesi açın!
 
 RESOURCE ID: gift_multi_delete_complete
-TEXT: Your selection has been cleared.
+TEXT: Seçtikleriniz silindi.
 
 RESOURCE ID: gift_multi_delete_plural
-TEXT: Discard these {0} Gifts?
+TEXT: Bu {0} Hediye silinsin mi?
 
 RESOURCE ID: gift_multi_delete_button_text
-TEXT: DISCARD ({0})
+TEXT: {0} HEDİYE SİLİNSİN
 
 RESOURCE ID: gift_open_double
 TEXT: 2× Hediye açın
@@ -51263,7 +51263,7 @@ RESOURCE ID: item_bag_category_evolution
 TEXT: Evolutions
 
 RESOURCE ID: item_bag_category_featured
-TEXT: Featured
+TEXT: Öne Çıkanlar
 
 RESOURCE ID: item_bag_category_gifts
 TEXT: Hediyeler
@@ -54725,28 +54725,28 @@ RESOURCE ID: kr_ditto_event_2025_tr_name_3
 TEXT: Mor Metafor Süreli Araştırması (3/3)
 
 RESOURCE ID: kr_fcseoul_collab_2026_title
-TEXT: FC Seoul Event 2026
+TEXT: FC Seul Etkinliği 2026
 
 RESOURCE ID: kr_fcseoul_collab_2026_bonus_raid_lc_desc
-TEXT: During event hours on October 24, Charmander caught from raids around the Seoul World Cup Stadium event area may have an exclusive Location Background
+TEXT: 24 Ekim’de etkinlik saatleri sırasında Seul Dünya Kupası Stadyumu etkinlik alanı civarındaki akınlarda yakalanan Charmander’lar ayrıcalıklı bir konum arka planına sahip olabilir
 
 RESOURCE ID: kr_fcseoul_collab_2026_bonus_tr_lc_desc
-TEXT: Charizard encountered from event Timed Research will have an exclusive Location Background
+TEXT: Etkinlik kapsamındaki süreli araştırmada karşılaşılan Charizard’lar ayrıcalıklı bir konum arka planına sahip olacak
 
 RESOURCE ID: kr_fcseoul_collab_2026_bonus_wild_pokemon
-TEXT: Catch Fire-type Pokémon around the Seoul World Cup Stadium event area—let’s fire it up for FC Seoul!
+TEXT: Seul Dünya Kupası Stadyumu etkinlik alanı civarında Ateş türü Pokémon’lar yakalayın, FC Seul coşkusunu alevlendirin!
 
 RESOURCE ID: kr_fcseoul_collab_2026_tr_name
-TEXT: FC Seoul Event 2026 Timed Research
+TEXT: FC Seul Etkinliği 2026 Süreli Araştırması
 
 RESOURCE ID: kr_fcseoul_collab_2026_tr_name_1
-TEXT: FC Seoul Event 2026 Timed Research (1/3)
+TEXT: FC Seul Etkinliği 2026 Süreli Araştırması (1/3)
 
 RESOURCE ID: kr_fcseoul_collab_2026_tr_name_2
-TEXT: FC Seoul Event 2026 Timed Research (2/3)
+TEXT: FC Seul Etkinliği 2026 Süreli Araştırması (2/3)
 
 RESOURCE ID: kr_fcseoul_collab_2026_tr_name_3
-TEXT: FC Seoul Event 2026 Timed Research (3/3)
+TEXT: FC Seul Etkinliği 2026 Süreli Araştırması (3/3)
 
 RESOURCE ID: kr_festival_fr_location_background
 TEXT: Alan araştırması görevlerinden yakalanan Deerling’ler ve kostümlü Pikachu’lar ayrıcalıklı bir konum arka planına sahip olabilir
@@ -58587,7 +58587,7 @@ RESOURCE ID: mall_event_apac_30th_anniversary_tr_desc
 TEXT: Parti şapkalı Pikachu ve pek çok ilk partner Pokémon ile karşılaşmalar kazanmak için süreli araştırmayı tamamlayın!
 
 RESOURCE ID: manage_gifts_header
-TEXT: Manage Gifts
+TEXT: Hediyeleri Yönet
 
 RESOURCE ID: manage_items_button
 TEXT: Eşyaları Yönet
@@ -60308,10 +60308,10 @@ at SHA 413df5befdbe0d00a543f8a142221526d63b719a
 Pipeline 834428, job 8736424
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-09-25T01:02:34.710192+00:00 for tr-TR
-at SHA c5627299131
-Pipeline 3969198, job 58438768
-Patch from: 0.429.2-SHA-ea3abc5d-RC1, 0.431.0-SHA-98b5070c-RC6
+TEXT: Built at 2026-09-25T23:26:39.461892+00:00 for tr-TR
+at SHA 698575e11e6
+Pipeline 3971666, job 58475858
+Patch from: 0.431.0-SHA-bb90cc49-RC3, 0.429.2-SHA-ad36de78-RC2
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: Süreli Araştırma: Dövüşçünüzü Seçin
@@ -76813,13 +76813,13 @@ RESOURCE ID: pokemon_info_multi_transfer_ultra_beast_pokemon_error
 TEXT: Ultra Yaratıkları seçemezsiniz.
 
 RESOURCE ID: pokemon_info_no_evolve_pokemon
-TEXT: No Pokémon can use this item to evolve.
+TEXT: Hiçbir Pokémon bu eşyayı kullanarak evrimleşemez.
 
 RESOURCE ID: pokemon_info_no_fainted_pokemon
-TEXT: No Pokémon need to be revived.
+TEXT: Canlandırılması gereken hiç Pokémon yok.
 
 RESOURCE ID: pokemon_info_no_hurt_pokemon
-TEXT: All Pokémon are fully healed.
+TEXT: Tüm Pokémon’lar tümüyle iyileşmiş durumda.
 
 RESOURCE ID: pokemon_info_no_stats_available
 TEXT: Bu Pokémon’un diğer istatistikleri eğitilemez.
@@ -109355,7 +109355,7 @@ RESOURCE ID: recycle_dialog_suffix
 TEXT: atılsın mı?
 
 RESOURCE ID: recycle_discard_all
-TEXT: YES, DISCARD ALL
+TEXT: TÜMÜNÜ SİL
 
 RESOURCE ID: reduced_buddy_candy_distance_routes
 TEXT: Dostunuzla rota keşfederken dost şekeri kazanmak için daha kısa mesafe
@@ -115280,6 +115280,9 @@ RESOURCE ID: season_pass_harvest_festival_2026_event_duration
 TEXT: 29 Eylül-5 Ekim
 
 RESOURCE ID: season_pass_harvest_festival_2026_track_upgrade_header_description
+TEXT: 2. rütbede ilave ödüller kazanıp <b>Süper Roket Radarının</b> kilidini açabilirsiniz!
+
+RESOURCE ID: season_pass_harvest_festival_2026_track_upgrade_header_description_out
 TEXT: 1. rütbede ilave ödüller kazanıp <b>Süper Roket Radarının</b> kilidini açabilirsiniz!
 
 RESOURCE ID: season_pass_harvest_festival_2026_upgrade_description

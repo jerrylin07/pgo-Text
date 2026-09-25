@@ -29255,7 +29255,7 @@ RESOURCE ID: delete_gift_confirmation
 TEXT: Yakin ingin menghapus Hadiah ini?
 
 RESOURCE ID: delete_gift_message
-TEXT: Gifts do not count toward Item Bag storage.
+TEXT: Hadiah tidak dihitung dalam kapasitas penyimpanan Tas Barang.
 
 RESOURCE ID: delete_pokemon_tag_confirmation
 TEXT: Label ini akan dihapus dari Pokémon yang telah ditugaskan. Pokémon tidak akan ditransfer ke Profesor Willow.
@@ -39397,13 +39397,13 @@ RESOURCE ID: gift_from_sponsor
 TEXT: Buka Hadiah Sponsor!
 
 RESOURCE ID: gift_multi_delete_complete
-TEXT: Your selection has been cleared.
+TEXT: Pilihanmu telah dihapus.
 
 RESOURCE ID: gift_multi_delete_plural
-TEXT: Discard these {0} Gifts?
+TEXT: Buang {0} Hadiah ini?
 
 RESOURCE ID: gift_multi_delete_button_text
-TEXT: DISCARD ({0})
+TEXT: HAPUS ({0})
 
 RESOURCE ID: gift_open_double
 TEXT: Buka 2× lebih banyak Hadiah
@@ -51130,7 +51130,7 @@ RESOURCE ID: item_bag_category_evolution
 TEXT: Evolutions
 
 RESOURCE ID: item_bag_category_featured
-TEXT: Featured
+TEXT: Item Sorotan
 
 RESOURCE ID: item_bag_category_gifts
 TEXT: Hadiah
@@ -54692,13 +54692,13 @@ RESOURCE ID: kr_hanbok_pikachu_picnic_2026_tr_name_3
 TEXT: Penelitian Berwaktu Pikachu Berekreasi di Korea 2026 (3/3)
 
 RESOURCE ID: kr_hangul_day_2026_title
-TEXT: Hangul Day 2026
+TEXT: Hari Hangeul 2026
 
 RESOURCE ID: kr_hangul_day_2026_bonus_desc
-TEXT: Celebrate Hangul Day with event-themed Pokémon appearing in the wild! Use Incense or Lure Modules to encounter special Pokémon.
+TEXT: Rayakan Hari Hangeul bersama kemunculan Pokémon bertema event di alam liar! Gunakan Pewangi atau Modul Umpan untuk menemui Pokémon spesial.
 
 RESOURCE ID: kr_hangul_day_sep2026_cc_title
-TEXT: Hangul Day 2026 Collection Challenge
+TEXT: Tantangan Koleksi Hari Hangeul 2026
 
 RESOURCE ID: kr_lantern_festival_2025_massive_bonus_title
 TEXT: Waktunya Magikarp!
@@ -58436,7 +58436,7 @@ RESOURCE ID: mall_event_apac_30th_anniversary_tr_desc
 TEXT: Selesaikan Penelitian Berwaktu untuk menerima pertemuan dengan Pikachu bertopi pesta dan para Pokémon partner pertama!
 
 RESOURCE ID: manage_gifts_header
-TEXT: Manage Gifts
+TEXT: Kelola Hadiah
 
 RESOURCE ID: manage_items_button
 TEXT: Kelola Alat
@@ -60157,10 +60157,10 @@ at SHA 12701f1c07ae7f07a5d50583f697320977df7988
 Pipeline 1139111, job 13470914
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-09-25T01:02:34.710192+00:00 for id-ID
-at SHA c5627299131
-Pipeline 3969198, job 58438768
-Patch from: 0.429.2-SHA-ea3abc5d-RC1, 0.431.0-SHA-98b5070c-RC6
+TEXT: Built at 2026-09-25T23:26:39.461892+00:00 for id-ID
+at SHA 698575e11e6
+Pipeline 3971666, job 58475858
+Patch from: 0.431.0-SHA-bb90cc49-RC3, 0.429.2-SHA-ad36de78-RC2
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: Penelitian Berwaktu: Pilih Tipe Petarungmu
@@ -76731,13 +76731,13 @@ RESOURCE ID: pokemon_info_multi_transfer_ultra_beast_pokemon_error
 TEXT: You can’t select Ultra Beasts.
 
 RESOURCE ID: pokemon_info_no_evolve_pokemon
-TEXT: No Pokémon can use this item to evolve.
+TEXT: Tidak ada Pokémon yang bisa menggunakan item ini untuk berevolusi.
 
 RESOURCE ID: pokemon_info_no_fainted_pokemon
-TEXT: No Pokémon need to be revived.
+TEXT: Tidak ada Pokémon yang perlu dibangkitkan.
 
 RESOURCE ID: pokemon_info_no_hurt_pokemon
-TEXT: All Pokémon are fully healed.
+TEXT: Semua Pokémon pulih sepenuhnya.
 
 RESOURCE ID: pokemon_info_no_stats_available
 TEXT: Tidak ada statistik lain yang dapat dilatih untuk Pokémon ini.
@@ -109261,7 +109261,7 @@ RESOURCE ID: recycle_dialog_suffix
 TEXT: {0}?
 
 RESOURCE ID: recycle_discard_all
-TEXT: YES, DISCARD ALL
+TEXT: YA, HAPUS SEMUA
 
 RESOURCE ID: reduced_buddy_candy_distance_routes
 TEXT: Mengurangi jarak untuk mendapatkan Permen Partner saat menjelajahi Rute dengan partnermu
@@ -115188,6 +115188,9 @@ RESOURCE ID: season_pass_harvest_festival_2026_event_duration
 TEXT: 29 September – 5 Oktober
 
 RESOURCE ID: season_pass_harvest_festival_2026_track_upgrade_header_description
+TEXT: Dapatkan hadiah tambahan dan buka <b>Radar Roket Super</b> di Rank 2!
+
+RESOURCE ID: season_pass_harvest_festival_2026_track_upgrade_header_description_out
 TEXT: Dapatkan hadiah tambahan dan buka <b>Radar Roket Super</b> di Rank 1!
 
 RESOURCE ID: season_pass_harvest_festival_2026_upgrade_description
