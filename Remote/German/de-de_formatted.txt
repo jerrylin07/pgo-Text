@@ -995,10 +995,10 @@ RESOURCE ID: air_adventures_yogyakarta_sr_title_04
 TEXT: Pikachus Indonesien-Reise: Yogyakarta (5/5)
 
 RESOURCE ID: allow_gift_list_prompt_title
-TEXT: Allow Gifting?
+TEXT: Allow paid gifts?
 
 RESOURCE ID: allow_gift_list_prompt_desc
-TEXT: After unpausing the following friend will be able to send you paid gifts again.
+TEXT: If you select Allow, this friend will be able to send you paid gifts again.
 
 RESOURCE ID: allow_gift_list_prompt_button_label
 TEXT: YES, ALLOW
@@ -32047,7 +32047,7 @@ RESOURCE ID: delete_gift_confirmation
 TEXT: Möchtest du dieses Geschenk wirklich entfernen?
 
 RESOURCE ID: delete_gift_message
-TEXT: Gifts do not count toward Item Bag storage.
+TEXT: Geschenke zählen nicht zur Item-Beutel-Aufbewahrung.
 
 RESOURCE ID: delete_pokemon_tag_confirmation
 TEXT: Dieses Tag wird von Pokémon entfernt, denen es zugeschrieben wurde. Die Pokémon werden nicht an Prof. Willow verschickt.
@@ -42307,13 +42307,13 @@ RESOURCE ID: gift_from_sponsor
 TEXT: Öffne ein Geschenk von einem Sponsor!
 
 RESOURCE ID: gift_multi_delete_complete
-TEXT: Your selection has been cleared.
+TEXT: Deine Auswahl wurde entfernt.
 
 RESOURCE ID: gift_multi_delete_plural
-TEXT: Discard these {0} Gifts?
+TEXT: Diese  Geschenke {0} entfernen?
 
 RESOURCE ID: gift_multi_delete_button_text
-TEXT: DISCARD ({0})
+TEXT: ({0}) ENTFERNEN
 
 RESOURCE ID: gift_open_double
 TEXT: Öffne 2× so viele Geschenke
@@ -42378,7 +42378,7 @@ Dein Geschenk wurde nicht zugestellt, weil der vorgesehene Empfänger das gleich
 Wenn du stattdessen eine Rückzahlung möchtest, kannst du diese über deinen App Store anfordern.
 
 RESOURCE ID: gifting_error_description_temp
-TEXT: Unfortunately, this Friend is now ineligible for receiving this paid gift. This can happen for a variety of reasons.
+TEXT: Unfortunately, this friend cannot receive this paid gift. This can happen for a variety of reasons.
 
 You can choose a new friend to send this to now.
 
@@ -54052,7 +54052,7 @@ RESOURCE ID: item_bag_category_evolution
 TEXT: Evolutions
 
 RESOURCE ID: item_bag_category_featured
-TEXT: Featured
+TEXT: Aktuell
 
 RESOURCE ID: item_bag_category_gifts
 TEXT: Geschenke
@@ -56346,7 +56346,7 @@ RESOURCE ID: item_incubator_timed_name
 TEXT: Befristete Brutmaschine
 
 RESOURCE ID: item_inventory_paid_gift_banner_title
-TEXT: You have paid gifts
+TEXT: You have paid gifts!
 
 RESOURCE ID: item_inventory_paid_gift_banner_subtitle
 TEXT: Send to your Friends?
@@ -57520,25 +57520,25 @@ RESOURCE ID: kr_fcseoul_collab_2026_title
 TEXT: FC Seoul Event 2026
 
 RESOURCE ID: kr_fcseoul_collab_2026_bonus_raid_lc_desc
-TEXT: During event hours on October 24, Charmander caught from raids around the Seoul World Cup Stadium event area may have an exclusive Location Background
+TEXT: Während der Event-Stunden am 24. Oktober können Glumanda, die du bei Raids im Event-Bereich des Seoul World Cup Stadium fängst, einen exklusiven Ortshintergrund haben.
 
 RESOURCE ID: kr_fcseoul_collab_2026_bonus_tr_lc_desc
-TEXT: Charizard encountered from event Timed Research will have an exclusive Location Background
+TEXT: Glurak, denen du in der Befristeten Forschung begegnest, haben einen exklusiven Ortshintergrund.
 
 RESOURCE ID: kr_fcseoul_collab_2026_bonus_wild_pokemon
-TEXT: Catch Fire-type Pokémon around the Seoul World Cup Stadium event area—let’s fire it up for FC Seoul!
+TEXT: Fange Feuer-Pokémon im Event-Bereich des Seoul World Cup Stadium – sei Feuer und Flamme für den FC Seoul!
 
 RESOURCE ID: kr_fcseoul_collab_2026_tr_name
-TEXT: FC Seoul Event 2026 Timed Research
+TEXT: Befristete Forschung: FC Seoul Event 2026
 
 RESOURCE ID: kr_fcseoul_collab_2026_tr_name_1
-TEXT: FC Seoul Event 2026 Timed Research (1/3)
+TEXT: Befristete Forschung: FC Seoul Event 2026 (1/3)
 
 RESOURCE ID: kr_fcseoul_collab_2026_tr_name_2
-TEXT: FC Seoul Event 2026 Timed Research (2/3)
+TEXT: Befristete Forschung: FC Seoul Event 2026 (2/3)
 
 RESOURCE ID: kr_fcseoul_collab_2026_tr_name_3
-TEXT: FC Seoul Event 2026 Timed Research (3/3)
+TEXT: Befristete Forschung: FC Seoul Event 2026 (3/3)
 
 RESOURCE ID: kr_festival_fr_location_background
 TEXT: Sesokitz und kostümierte Pikachu, die bei Feldforschungsaufgaben gefangen wurden, können einen exklusiven Ortshintergrund haben.
@@ -60759,8 +60759,7 @@ RESOURCE ID: lure_duration_2_hr
 TEXT: 2-stündige Lockmodul-Wirkungszeit
 
 RESOURCE ID: lure_duration_4_hr
-TEXT: 4-stündige Lockmodul-
-Wirkungszeit
+TEXT: 4-stündige Lockmodul-Wirkungszeit
 
 RESOURCE ID: lure_duration_6_hr
 TEXT: 6-stündige Lockmodul-
@@ -61400,7 +61399,7 @@ RESOURCE ID: mall_event_apac_30th_anniversary_tr_desc
 TEXT: Schließe die Befristete Forschung ab, um Begegnungen mit Pikachu mit Partyhut und vielen erste Partner-Pokémon zu erhalten!
 
 RESOURCE ID: manage_gifts_header
-TEXT: Manage Gifts
+TEXT: Geschenke verwalten
 
 RESOURCE ID: manage_items_button
 TEXT: Items verwalten
@@ -63121,10 +63120,10 @@ at SHA 4d4f3e80cc7fb911006bd14d198c9831ef66d005
 Pipeline 339838, job 2672172
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-09-24T05:21:12.957005+00:00 for de-DE
-at SHA 6210d7033b5
-Pipeline 3966222, job 58396566
-Patch from: 0.429.2-SHA-ea3abc5d-RC1, 0.431.0-SHA-8123c737-RC1
+TEXT: Built at 2026-09-25T01:02:34.710192+00:00 for de-DE
+at SHA c5627299131
+Pipeline 3969198, job 58438768
+Patch from: 0.429.2-SHA-ea3abc5d-RC1, 0.431.0-SHA-98b5070c-RC6
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: Befristete Forschung: Ansage vom Typ Kampf
@@ -68970,7 +68969,7 @@ RESOURCE ID: paid_gift_already_purchased_modal_button
 TEXT: GO TO INVENTORY
 
 RESOURCE ID: paid_gift_already_purchased_modal_message
-TEXT: Please check your inventory to send your paid gift.
+TEXT: You can send it from your inventory.
 
 RESOURCE ID: paid_gift_regift_no_longer_available_modal_title
 TEXT: Gifting Error
@@ -69947,10 +69946,10 @@ RESOURCE ID: pause_gift_list_title
 TEXT: Pause Gifts List
 
 RESOURCE ID: pause_gift_list_prompt_title
-TEXT: Pause Gifting?
+TEXT: Pause paid gifts?
 
 RESOURCE ID: pause_gift_list_prompt_desc
-TEXT: The following Friend will be unable to send you paid gifts. You can enable them to send again at any point.
+TEXT: The following friend will be unable to send you paid gifts. You can allow them to send paid gifts again at any point.
 
 RESOURCE ID: pause_gift_list_prompt_button_label
 TEXT: YES, PAUSE
@@ -79698,13 +79697,13 @@ RESOURCE ID: pokemon_info_multi_transfer_ultra_beast_pokemon_error
 TEXT: Du kannst keine Ultrabestie wählen.
 
 RESOURCE ID: pokemon_info_no_evolve_pokemon
-TEXT: No Pokémon can use this item to evolve.
+TEXT: Kein Pokémon kann dieses Item einsetzen, um sich zu entwickeln.
 
 RESOURCE ID: pokemon_info_no_fainted_pokemon
-TEXT: No Pokémon need to be revived.
+TEXT: Es müssen keine Pokémon wiederbelebt werden.
 
 RESOURCE ID: pokemon_info_no_hurt_pokemon
-TEXT: All Pokémon are fully healed.
+TEXT: Alle Pokémon sind vollständig geheilt.
 
 RESOURCE ID: pokemon_info_no_stats_available
 TEXT: Für dieses Pokémon können keine weiteren Werte trainiert werden.
@@ -84211,7 +84210,7 @@ RESOURCE ID: premium_rewards
 TEXT: PREMIUM-BELOHNUNGEN
 
 RESOURCE ID: premium_gift_sent
-TEXT: You sent a paid gift to {0}
+TEXT: You sent a paid gift to {0}.
 
 RESOURCE ID: premium_gift_ftue_title
 TEXT: Introducing More Gifting Options in the Shop
@@ -84225,10 +84224,10 @@ RESOURCE ID: premium_gift_notification_event_pass_title
 TEXT: GO Pass
 
 RESOURCE ID: premium_gift_notification_event_pass_desc
-TEXT: Greetings, <b>{0}</b>! Here’s an GO Pass for you. Let’s see who can complete it and get all the rewards!
+TEXT: Hi, <b>{0}</b>! Here’s a GO Pass Deluxe for you. Can you complete it and get all the rewards?
 
-Sincerely,
-—<b>{1}</b>
+Cheers,
+<b>{1}</b>
 
 RESOURCE ID: premium_gift_notification_items_title
 TEXT: Gift For You
@@ -84236,29 +84235,29 @@ TEXT: Gift For You
 RESOURCE ID: premium_gift_notification_multiple_trainers_desc
 TEXT: Greetings, <b>{0}</b>!
 
-Your Friends sent some gifts for you!
+Your friends sent you some gifts!
 
 
 RESOURCE ID: premium_gift_notification_one_trainer_multiple_items_desc
-TEXT: Greetings, <b>{0}</b>!
+TEXT: Hi, <b>{0}</b>!
 
-Here are gifts for you!
+I hope you enjoy these gifts!
 {2}
 
-Sincerely,
-—<b>{1}</b>
+Cheers,
+<b>{1}</b>
 
 RESOURCE ID: premium_gift_notification_one_trainer_one_item_desc
-TEXT: Greetings, <b>{0}</b>!
+TEXT: Hi, <b>{0}</b>!
 
 Here’s a gift for you!
 {2}
 
-Sincerely,
-—<b>{1}</b>
+Cheers,
+<b>{1}</b>
 
 RESOURCE ID: premium_gift_received_event_pass
-TEXT: {0} gifted you an GO Pass!
+TEXT: {0} gifted you a GO Pass Deluxe!
 
 RESOURCE ID: premium_gift_received_event_ticket
 TEXT: {0} gifted you a ticket for an event!
@@ -112381,7 +112380,7 @@ RESOURCE ID: recycle_dialog_suffix
 TEXT: wegwerfen?
 
 RESOURCE ID: recycle_discard_all
-TEXT: YES, DISCARD ALL
+TEXT: JA, ALLE ENTFERNEN
 
 RESOURCE ID: reduced_buddy_candy_distance_routes
 TEXT: Verringerte Distanz für das Verdienen von Kumpel-Bonbons, während du Routen mit deinem Kumpel erkundest.
@@ -119144,10 +119143,10 @@ RESOURCE ID: settings_allow_paid_gifts
 TEXT: Erlaube Freunden, dir bezahlte Geschenke zu schicken
 
 RESOURCE ID: settings_allow_paid_gifts_desc_off
-TEXT: Turning off this feature will pause Friends to send you paid gifts. This does not include free gifts.
+TEXT: Turning off this feature will pause friends from sending you paid gifts. This does not include free Gifts.
 
 RESOURCE ID: settings_allow_paid_gifts_desc_on
-TEXT: Turning on this feature will allow Friends to send you paid gifts. You can pause specific Friends from sending you paid gifts in the Paused Friends List once turned on.
+TEXT: Turning on this feature will allow friends to send you paid gifts. You can pause specific friends from sending you paid gifts in the Pause Gifts List once this feature is turned on.
 
 RESOURCE ID: settings_allow_paid_gifts_title_off
 TEXT: Turn Off Paid Gifts from Friends?
@@ -119387,7 +119386,7 @@ RESOURCE ID: settings_pause_gifts_list
 TEXT: Pause Gifts List
 
 RESOURCE ID: settings_pause_gifts_list_tip
-TEXT: Selected Friends will not be able to send you paid gifts. This does not include free gifts.
+TEXT: Selected friends will not be able to send you paid gifts. They can still send you free Gifts.
 
 RESOURCE ID: settings_pbp_check_other_menu
 TEXT: Bitte gehe zu „Pokémon GO Plus“ im Einstellungsmenü, um auf dein derzeit gekoppeltes Gerät zuzugreifen.
@@ -120102,7 +120101,7 @@ RESOURCE ID: shop_already_own_this_ticket
 TEXT: Du hast für dieses Event bereits ein Ticket.
 
 RESOURCE ID: shop_already_unlocked_premium_event_pass
-TEXT: You’ve already unlocked this GO Pass Deluxe
+TEXT: You’ve already unlocked this GO Pass Deluxe.
 
 RESOURCE ID: shop_battle_tickets_title
 TEXT: Hol dir einen Raid-Pass.
@@ -120247,12 +120246,12 @@ TEXT: Einige Freunde können eventuell aus folgenden Gründen keine bezahlten Ge
 RESOURCE ID: shop_gift_friend_ineligible_description_temp
 TEXT: You may not be able to send paid gifts—including items, tickets, and event passes—to some friends. This can happen for the following reasons:
 
- • They already own the ticket or event pass, or have already received it from someone else
- • For tickets, they may have active or completed research that prevents them from receiving it
- • Your friendship level is too low
- • They have disabled paid gifts
- • Their account is not eligible due to restrictions
- • Cross-currency gifting is not supported
+• They already own the ticket or event pass, or someone else sent it to them
+• They may have active or completed research that prevents them from receiving tickets
+• Your friendship level is too low
+• They have disabled paid gifts
+• Their account is not eligible due to restrictions
+• Cross-currency gifting is not supported
 
 RESOURCE ID: shop_gift_invitation_title
 TEXT: EINLADUNG
