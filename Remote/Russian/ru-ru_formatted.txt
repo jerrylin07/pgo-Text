@@ -12587,28 +12587,28 @@ RESOURCE ID: badge_gowa_2025_special_research_b_title
 TEXT: Фанат Фей
 
 RESOURCE ID: badge_gowa_2026_cdmx_addon_battle_title
-TEXT: GO Wild Area 2026 – Mexico City: Battle Ready
+TEXT: GO Wild Area: Battle Ready
 
 RESOURCE ID: badge_gowa_2026_cdmx_addon_friday_title
-TEXT: GO Wild Area 2026 – Mexico City: Extra Day (Friday)
+TEXT: GO Wild Area 2026: Extra Day (Friday)
 
 RESOURCE ID: badge_gowa_2026_cdmx_addon_hatch_title
-TEXT: GO Wild Area 2026 – Mexico City: Egg–thusiast
+TEXT: GO Wild Area 2026: Egg-thusiast
 
 RESOURCE ID: badge_gowa_2026_cdmx_addon_saturday_title
-TEXT: GO Wild Area 2026 – Mexico City: Extra Day (Saturday)
+TEXT: GO Wild Area 2026: Extra Day (Saturday)
 
 RESOURCE ID: badge_gowa_2026_cdmx_addon_sunday_title
-TEXT: GO Wild Area 2026 – Mexico City: Extra Day (Sunday)
+TEXT: GO Wild Area 2026: Extra Day (Sunday)
 
 RESOURCE ID: badge_gowa_2026_cdmx_friday_title
-TEXT: GO Wild Area 2026 – Mexico City: Friday
+TEXT: GO Wild Area 2026: Friday
 
 RESOURCE ID: badge_gowa_2026_cdmx_saturday_title
-TEXT: GO Wild Area 2026 – Mexico City: Saturday
+TEXT: GO Wild Area 2026: Saturday
 
 RESOURCE ID: badge_gowa_2026_cdmx_sunday_title
-TEXT: GO Wild Area 2026 – Mexico City: Sunday
+TEXT: GO Wild Area 2026: Sunday
 
 RESOURCE ID: badge_gowa_2026_cdmx_test_addon_battle_title
 TEXT: GO Wild Area 2026 – Mexico City: Battle Ready (Test)
@@ -12629,28 +12629,28 @@ RESOURCE ID: badge_gowa_2026_global_title
 TEXT: GO Wild Area 2026
 
 RESOURCE ID: badge_gowa_2026_sendai_addon_battle_title
-TEXT: GO Wild Area 2026 – Sendai・Tohoku: Battle Ready
+TEXT: GO Wild Area 2026: Battle Ready
 
 RESOURCE ID: badge_gowa_2026_sendai_addon_friday_title
-TEXT: GO Wild Area 2026 – Sendai・Tohoku: Extra Day (Friday)
+TEXT: GO Wild Area: Extra Day (Friday)
 
 RESOURCE ID: badge_gowa_2026_sendai_addon_hatch_title
-TEXT: GO Wild Area 2026 – Sendai・Tohoku: Egg–thusiast
+TEXT: GO Wild Area 2026: Egg-thusiast
 
 RESOURCE ID: badge_gowa_2026_sendai_addon_saturday_title
-TEXT: GO Wild Area 2026 – Sendai・Tohoku: Extra Day (Saturday)
+TEXT: GO Wild Area 2026: Extra Day (Saturday)
 
 RESOURCE ID: badge_gowa_2026_sendai_addon_sunday_title
-TEXT: GO Wild Area 2026 – Sendai・Tohoku: Extra Day (Sunday)
+TEXT: GO Wild Area 2026: Extra Day (Sunday)
 
 RESOURCE ID: badge_gowa_2026_sendai_friday_title
-TEXT: GO Wild Area 2026 – Sendai・Tohoku: Friday
+TEXT: GO Wild Area 2026: Friday
 
 RESOURCE ID: badge_gowa_2026_sendai_saturday_title
-TEXT: GO Wild Area 2026 – Sendai・Tohoku: Saturday
+TEXT: GO Wild Area 2026: Saturday
 
 RESOURCE ID: badge_gowa_2026_sendai_sunday_title
-TEXT: GO Wild Area 2026 – Sendai・Tohoku: Sunday
+TEXT: GO Wild Area 2026: Sunday
 
 RESOURCE ID: badge_gowa_2026_sendai_test_addon_battle_title
 TEXT: GO Wild Area 2026 – Sendai・Tohoku: Battle Ready (Test)
@@ -28841,11 +28841,23 @@ TEXT: Hasami
 RESOURCE ID: city_manhole_476
 TEXT: Goto
 
+RESOURCE ID: city_manhole_477
+TEXT: Minamimaki
+
+RESOURCE ID: city_manhole_478
+TEXT: Yamanouchi
+
+RESOURCE ID: city_manhole_479
+TEXT: Omachi
+
 RESOURCE ID: city_manhole_480
 TEXT: Isahaya
 
 RESOURCE ID: city_manhole_481
 TEXT: Saikai
+
+RESOURCE ID: city_manhole_482
+TEXT: Ina
 
 RESOURCE ID: city_manhole_483
 TEXT: Tsushima
@@ -32041,10 +32053,10 @@ RESOURCE ID: downloading_avatar_assets_warning_body
 TEXT: Произошла ошибка при загрузке материалов. Убедитесь в наличии стабильного доступа к сети и перезапустите игру.
 
 RESOURCE ID: dragon_poi_spin_plural
-TEXT: Spin {0} Dragon type-themed PokéStops
+TEXT: Spin {0} Dragon type–themed PokéStops
 
 RESOURCE ID: dragon_poi_spin_singular
-TEXT: Spin a Dragon type-themed PokéStop
+TEXT: Spin a Dragon type–themed PokéStop
 
 RESOURCE ID: dragon_type_event
 TEXT: Активизация типа: Дракон
@@ -41463,6 +41475,9 @@ TEXT: Билет: День сообщества Севаддл
 RESOURCE ID: general1.ticket_tynamocd24_title
 TEXT: Билет на день сообщества Тинамо
 
+RESOURCE ID: general2.ticket.2_sandilehatchday26_title
+TEXT: Билет: Премиум-Квест на Время День Вынашивания Яиц: Сэндайл
+
 RESOURCE ID: general2.ticket.5_megafalinksraidday
 TEXT: Билет: День Супер-Мегарейдов Фалинкс
 
@@ -50176,10 +50191,10 @@ RESOURCE ID: gowa_2026_all_weekend_ticketed
 TEXT: Pokémon GO Wild Area 2026: All Weekend (Ticket)
 
 RESOURCE ID: gowa_2026_cdmx
-TEXT: Pokémon GO Wild Area 2026: Mexico City
+TEXT: Pokémon GO Wild Area: Mexico City
 
 RESOURCE ID: gowa_2026_cdmx_extended_bonus
-TEXT: Pokémon GO Wild Area 2026: Mexico City – Extended Bonuses
+TEXT: Pokémon GO Wild Area: Mexico City – Extended Bonuses
 
 RESOURCE ID: gowa_2026_content_hashtag
 TEXT: Post photos with #GOWildArea2026, and we’ll share our favorites!
@@ -50236,10 +50251,10 @@ RESOURCE ID: gowa_2026_sat_ticketed
 TEXT: Pokémon GO Wild Area 2026: Saturday Event Hours (Ticket)
 
 RESOURCE ID: gowa_2026_sendai
-TEXT: Pokémon GO Wild Area 2026: Sendai・Tohoku
+TEXT: Pokémon GO Wild Area: Sendai・Tohoku
 
 RESOURCE ID: gowa_2026_sendai_extended_bonus
-TEXT: Pokémon GO Wild Area 2026: Sendai・Tohoku – Extended Bonuses
+TEXT: Pokémon GO Wild Area: Sendai・Tohoku – Extended Bonuses
 
 RESOURCE ID: gowa_2026_steel_badge_candy_xl_bonus
 TEXT: One additional Candy XL from catching Steel-type mighty Pokémon
@@ -54576,6 +54591,9 @@ TEXT: Билет, дающий доступ к Навстречу неизвед
 RESOURCE ID: item_event_ticket_gray_desc_raikoushadowraidday
 TEXT: Билет, дающий доступ к специальным бонусам до 17:00 24 января 2026 по местному времени, вне зависимости от твоего местонахождения.
 
+RESOURCE ID: item_event_ticket_gray_desc_sandilehatchday26
+TEXT: Билет, дающий доступ к Премиум-Квесту на Время День Вынашивания Яиц: Сэндайл и специальным бонусам 17 октября с 11:00 до 17:00 по местному времени, вне зависимости от твоего местонахождения.
+
 RESOURCE ID: item_event_ticket_gray_desc_shadowgroudonraidweekend
 TEXT: Билет, дающий доступ к специальным бонусам до 22:00 21 сентября 2025 по местному времени, вне зависимости от твоего местонахождения.
 
@@ -54761,6 +54779,9 @@ TEXT: Этот билет активируется автоматически 16
 
 RESOURCE ID: item_event_ticket_gray_details_raikoushadowraidday
 TEXT: Этот билет активируется автоматически, чтобы дать тебе доступ к специальным бонусам 24 января, вне зависимости от твоего местонахождения.
+
+RESOURCE ID: item_event_ticket_gray_details_sandilehatchday26
+TEXT: Этот билет активируется автоматически, чтобы дать тебе доступ к Премиум-Квесту на Время День Вынашивания Яиц: Сэндайл и специальным бонусам 17 октября, вне зависимости от твоего местонахождения.
 
 RESOURCE ID: item_event_ticket_gray_details_shadowgroudonraidweekend
 TEXT: Этот билет активируется автоматически, чтобы дать тебе доступ к специальным бонусам 20 сентября, вне зависимости от твоего местонахождения.
@@ -57019,28 +57040,28 @@ RESOURCE ID: kr_ditto_event_2025_tr_name_3
 TEXT: Квест на Время Этюд в Фиолетовых Тонах (3/3)
 
 RESOURCE ID: kr_fcseoul_collab_2026_title
-TEXT: FC Seoul Event 2026
+TEXT: Событие ФК Сеул 2026
 
 RESOURCE ID: kr_fcseoul_collab_2026_bonus_raid_lc_desc
-TEXT: During event hours on October 24, Charmander caught from raids around the Seoul World Cup Stadium event area may have an exclusive Location Background
+TEXT: В часы события 24 октября у Чармандеров, пойманных в рейдах по всей зоне события Стадиона Кубка Мира в Сеуле, может быть эксклюзивный Фон Места
 
 RESOURCE ID: kr_fcseoul_collab_2026_bonus_tr_lc_desc
-TEXT: Charizard encountered from event Timed Research will have an exclusive Location Background
+TEXT: У Чаризардов, встреченных в Квестах на Время события, будет эксклюзивный Фон Места
 
 RESOURCE ID: kr_fcseoul_collab_2026_bonus_wild_pokemon
-TEXT: Catch Fire-type Pokémon around the Seoul World Cup Stadium event area—let’s fire it up for FC Seoul!
+TEXT: Лови Покемонов типа Огонь по всей зоне события Стадиона Кубка Мира в Сеуле – поддержи ФК Сеул!
 
 RESOURCE ID: kr_fcseoul_collab_2026_tr_name
-TEXT: FC Seoul Event 2026 Timed Research
+TEXT: Квест на Время Событие ФК Сеул 2026
 
 RESOURCE ID: kr_fcseoul_collab_2026_tr_name_1
-TEXT: FC Seoul Event 2026 Timed Research (1/3)
+TEXT: Квест на Время Событие ФК Сеул 2026 (1/3)
 
 RESOURCE ID: kr_fcseoul_collab_2026_tr_name_2
-TEXT: FC Seoul Event 2026 Timed Research (2/3)
+TEXT: Квест на Время Событие ФК Сеул 2026 (2/3)
 
 RESOURCE ID: kr_fcseoul_collab_2026_tr_name_3
-TEXT: FC Seoul Event 2026 Timed Research (3/3)
+TEXT: Квест на Время Событие ФК Сеул 2026 (3/3)
 
 RESOURCE ID: kr_festival_fr_location_background
 TEXT: У Дирлингов и Пикачу в костюмах, пойманных в полевых квестах, может быть эксклюзивный фон места
@@ -62618,10 +62639,10 @@ at SHA bacc02371739993984570a6f5b31a993cf3b031b
 Pipeline 498004, job 4265729
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-09-25T23:26:39.461892+00:00 for ru-RU
-at SHA 698575e11e6
-Pipeline 3971666, job 58475858
-Patch from: 0.431.0-SHA-bb90cc49-RC3, 0.429.2-SHA-ad36de78-RC2
+TEXT: Built at 2026-09-29T01:11:14.795037+00:00 for ru-RU
+at SHA 8cfff611670
+Pipeline 3977616, job 58549183
+Patch from: 0.431.0-SHA-873aaf5c-RC2, 0.429.1-SHA-5521c4dc-RC1, 0.433.0-SHA-d37b1aa1-RC1
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: ‎Квест на время: Боевой тип
@@ -88485,7 +88506,7 @@ RESOURCE ID: quest_explore_buddy_dark
 TEXT: Заработай Конфету с Покемоном типа Тёмный в качестве приятеля
 
 RESOURCE ID: quest_explore_buddy_dragon
-TEXT: Earn a Candy exploring with a Dragon-type as your buddy
+TEXT: Earn a Candy exploring with a Dragon type as your buddy
 
 RESOURCE ID: quest_explore_buddy_electric
 TEXT: Заработай Конфету с Покемоном типа Электро в качестве приятеля
@@ -88500,7 +88521,7 @@ RESOURCE ID: quest_explore_buddy_poison
 TEXT: Заработай конфету с Покемоном типа Яд в качестве приятеля
 
 RESOURCE ID: quest_explore_buddy_steel
-TEXT: Earn a Candy exploring with a Steel-type as your buddy
+TEXT: Earn a Candy exploring with a Steel type as your buddy
 
 RESOURCE ID: quest_explore_buddy_routes_plural
 TEXT: Исследуя Маршруты со своим приятелем, заработай Конфеты: {0}
@@ -116365,6 +116386,15 @@ TEXT: Зона Сафари
 RESOURCE ID: safety_warning_yes
 TEXT: Я пассажир
 
+RESOURCE ID: sandile_hatch_day_event_name
+TEXT: День Вынашивания Яиц: Сэндайл
+
+RESOURCE ID: sandile_hatch_day_free_tr
+TEXT: Квест на Время День Вынашивания Яиц: Сэндайл
+
+RESOURCE ID: sandile_hatch_day_paid_tr
+TEXT: Премиум-Квест на Время День Вынашивания Яиц: Сэндайл
+
 RESOURCE ID: sapphire_badge_today_view
 TEXT: Sapphire Version
 
@@ -117665,6 +117695,9 @@ TEXT: Чтобы узнать больше, посети <a href="https://pokemo
 RESOURCE ID: season_pass_details_link_november2025
 TEXT: Чтобы узнать больше, посети <a href="https://pokemongo.com/go-pass">этот сайт</a>.
 
+RESOURCE ID: season_pass_details_link_oct2026
+TEXT: Чтобы узнать больше, посети <a href="https://pokemongo.com/news/go-pass-october-2026">этот сайт</a>.
+
 RESOURCE ID: season_pass_details_link_october2025
 TEXT: Чтобы узнать больше, посети <a href="https://pokemongo.com/go-pass">этот сайт</a>.
 
@@ -117939,6 +117972,19 @@ TEXT: Приобрети Делюкс-Пропуск GO: Ноябрь, чтоб�
 
 • 1 Суперинкубатор
 • 1 <a href="https://scopelyexplore.helpshift.com/hc/faq/1147-what-is-the-lucky-trinket/">Удачливая Капсула</a>, которая позволит тебе моментально стать Удачливыми Друзьями с любым твоим другом на выбор
+• И многим другим!
+
+RESOURCE ID: season_pass_oct2026_event_duration
+TEXT: 6 октября – 3 ноября
+
+RESOURCE ID: season_pass_oct2026_track_upgrade_header_description
+TEXT: Заработай дополнительные награды и получи доступ к <b>Удачливой Капсуле</b> в Ранге 100!
+
+RESOURCE ID: season_pass_oct2026_upgrade_description
+TEXT: Приобрети Делюкс-Пропуск GO: Октябрь, чтобы получить доступ к следующим наградам!
+
+• 1 Суперинкубатор
+• 1 <a href="https://niantic.helpshift.com/hc/faq/4945-what-is-the-lucky-trinket/">Удачливая Капсула</a>, которая позволит тебе моментально стать Удачливыми Друзьями с любым твоим другом на выбор
 • И многим другим!
 
 RESOURCE ID: season_pass_october2025_event_duration
@@ -124447,10 +124493,10 @@ RESOURCE ID: steel_and_scales_event_name
 TEXT: Ультрабонус: Сталь и Чешуя
 
 RESOURCE ID: steel_poi_spin_plural
-TEXT: Spin {0} Steel type-themed PokéStops
+TEXT: Spin {0} Steel type–themed PokéStops
 
 RESOURCE ID: steel_poi_spin_singular
-TEXT: Spin a Steel type-themed PokéStop
+TEXT: Spin a Steel type–themed PokéStop
 
 RESOURCE ID: steel_scales_uu_july2025_cc_bagon
 TEXT: Коллекционное Испытание Сталь и Чешуя: Бейгон
@@ -127651,6 +127697,14 @@ TEXT: <b>Включает следующие награды:</b>
 • 2 Суперинкубатора
 • 1 Осколок Звезды
 • 10 000 XP и 5000 Звёздной Пыли
+
+RESOURCE ID: text_rewards_key_sandilehatchday26
+TEXT: <b>Включает следующие бонусы:</b>
+• 2 Суперинкубатора
+• 1 Осколок Звезды
+• 10 000 XP
+• 5000 Звёздной Пыли
+• 1/4 Расстояния для Вынашивания Яиц
 
 RESOURCE ID: text_rewards_key_scatteredwindsfeb25
 TEXT: <b>Включает следующие награды:</b>

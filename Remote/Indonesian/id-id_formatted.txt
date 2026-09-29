@@ -12466,28 +12466,28 @@ RESOURCE ID: badge_gowa_2025_special_research_b_title
 TEXT: Penggemar Peri
 
 RESOURCE ID: badge_gowa_2026_cdmx_addon_battle_title
-TEXT: GO Wild Area 2026 – Mexico City: Battle Ready
+TEXT: GO Wild Area: Battle Ready
 
 RESOURCE ID: badge_gowa_2026_cdmx_addon_friday_title
-TEXT: GO Wild Area 2026 – Mexico City: Extra Day (Friday)
+TEXT: GO Wild Area 2026: Extra Day (Friday)
 
 RESOURCE ID: badge_gowa_2026_cdmx_addon_hatch_title
-TEXT: GO Wild Area 2026 – Mexico City: Egg–thusiast
+TEXT: GO Wild Area 2026: Egg-thusiast
 
 RESOURCE ID: badge_gowa_2026_cdmx_addon_saturday_title
-TEXT: GO Wild Area 2026 – Mexico City: Extra Day (Saturday)
+TEXT: GO Wild Area 2026: Extra Day (Saturday)
 
 RESOURCE ID: badge_gowa_2026_cdmx_addon_sunday_title
-TEXT: GO Wild Area 2026 – Mexico City: Extra Day (Sunday)
+TEXT: GO Wild Area 2026: Extra Day (Sunday)
 
 RESOURCE ID: badge_gowa_2026_cdmx_friday_title
-TEXT: GO Wild Area 2026 – Mexico City: Friday
+TEXT: GO Wild Area 2026: Friday
 
 RESOURCE ID: badge_gowa_2026_cdmx_saturday_title
-TEXT: GO Wild Area 2026 – Mexico City: Saturday
+TEXT: GO Wild Area 2026: Saturday
 
 RESOURCE ID: badge_gowa_2026_cdmx_sunday_title
-TEXT: GO Wild Area 2026 – Mexico City: Sunday
+TEXT: GO Wild Area 2026: Sunday
 
 RESOURCE ID: badge_gowa_2026_cdmx_test_addon_battle_title
 TEXT: GO Wild Area 2026 – Mexico City: Battle Ready (Test)
@@ -12508,28 +12508,28 @@ RESOURCE ID: badge_gowa_2026_global_title
 TEXT: GO Wild Area 2026
 
 RESOURCE ID: badge_gowa_2026_sendai_addon_battle_title
-TEXT: GO Wild Area 2026 – Sendai・Tohoku: Battle Ready
+TEXT: GO Wild Area 2026: Battle Ready
 
 RESOURCE ID: badge_gowa_2026_sendai_addon_friday_title
-TEXT: GO Wild Area 2026 – Sendai・Tohoku: Extra Day (Friday)
+TEXT: GO Wild Area: Extra Day (Friday)
 
 RESOURCE ID: badge_gowa_2026_sendai_addon_hatch_title
-TEXT: GO Wild Area 2026 – Sendai・Tohoku: Egg–thusiast
+TEXT: GO Wild Area 2026: Egg-thusiast
 
 RESOURCE ID: badge_gowa_2026_sendai_addon_saturday_title
-TEXT: GO Wild Area 2026 – Sendai・Tohoku: Extra Day (Saturday)
+TEXT: GO Wild Area 2026: Extra Day (Saturday)
 
 RESOURCE ID: badge_gowa_2026_sendai_addon_sunday_title
-TEXT: GO Wild Area 2026 – Sendai・Tohoku: Extra Day (Sunday)
+TEXT: GO Wild Area 2026: Extra Day (Sunday)
 
 RESOURCE ID: badge_gowa_2026_sendai_friday_title
-TEXT: GO Wild Area 2026 – Sendai・Tohoku: Friday
+TEXT: GO Wild Area 2026: Friday
 
 RESOURCE ID: badge_gowa_2026_sendai_saturday_title
-TEXT: GO Wild Area 2026 – Sendai・Tohoku: Saturday
+TEXT: GO Wild Area 2026: Saturday
 
 RESOURCE ID: badge_gowa_2026_sendai_sunday_title
-TEXT: GO Wild Area 2026 – Sendai・Tohoku: Sunday
+TEXT: GO Wild Area 2026: Sunday
 
 RESOURCE ID: badge_gowa_2026_sendai_test_addon_battle_title
 TEXT: GO Wild Area 2026 – Sendai・Tohoku: Battle Ready (Test)
@@ -26529,11 +26529,23 @@ TEXT: Hasami
 RESOURCE ID: city_manhole_476
 TEXT: Goto
 
+RESOURCE ID: city_manhole_477
+TEXT: Minamimaki
+
+RESOURCE ID: city_manhole_478
+TEXT: Yamanouchi
+
+RESOURCE ID: city_manhole_479
+TEXT: Omachi
+
 RESOURCE ID: city_manhole_480
 TEXT: Isahaya
 
 RESOURCE ID: city_manhole_481
 TEXT: Saikai
+
+RESOURCE ID: city_manhole_482
+TEXT: Ina
 
 RESOURCE ID: city_manhole_483
 TEXT: Tsushima
@@ -29731,10 +29743,10 @@ RESOURCE ID: downloading_avatar_assets_warning_body
 TEXT: Terdapat masalah saat mengunduh aset. Pastikan kamu memiliki akses jaringan yang stabil dan silakan mulai ulang game.
 
 RESOURCE ID: dragon_poi_spin_plural
-TEXT: Spin {0} Dragon type-themed PokéStops
+TEXT: Spin {0} Dragon type–themed PokéStops
 
 RESOURCE ID: dragon_poi_spin_singular
-TEXT: Spin a Dragon type-themed PokéStop
+TEXT: Spin a Dragon type–themed PokéStop
 
 RESOURCE ID: dragon_type_event
 TEXT: Tipe Surge: Naga
@@ -39050,6 +39062,9 @@ TEXT: Tiket Hari Komunitas Sewaddle
 RESOURCE ID: general1.ticket_tynamocd24_title
 TEXT: Tiket Hari Komunitas Tynamo
 
+RESOURCE ID: general2.ticket.2_sandilehatchday26_title
+TEXT: Tiket Penelitian Berwaktu Premium Hari Penetasan Sandile
+
 RESOURCE ID: general2.ticket.5_megafalinksraidday
 TEXT: Tiket Hari Raid Mega Super Falinks
 
@@ -47756,10 +47771,10 @@ RESOURCE ID: gowa_2026_all_weekend_ticketed
 TEXT: Pokémon GO Wild Area 2026: All Weekend (Ticket)
 
 RESOURCE ID: gowa_2026_cdmx
-TEXT: Pokémon GO Wild Area 2026: Mexico City
+TEXT: Pokémon GO Wild Area: Mexico City
 
 RESOURCE ID: gowa_2026_cdmx_extended_bonus
-TEXT: Pokémon GO Wild Area 2026: Mexico City – Extended Bonuses
+TEXT: Pokémon GO Wild Area: Mexico City – Extended Bonuses
 
 RESOURCE ID: gowa_2026_content_hashtag
 TEXT: Post photos with #GOWildArea2026, and we’ll share our favorites!
@@ -47816,10 +47831,10 @@ RESOURCE ID: gowa_2026_sat_ticketed
 TEXT: Pokémon GO Wild Area 2026: Saturday Event Hours (Ticket)
 
 RESOURCE ID: gowa_2026_sendai
-TEXT: Pokémon GO Wild Area 2026: Sendai・Tohoku
+TEXT: Pokémon GO Wild Area: Sendai・Tohoku
 
 RESOURCE ID: gowa_2026_sendai_extended_bonus
-TEXT: Pokémon GO Wild Area 2026: Sendai・Tohoku – Extended Bonuses
+TEXT: Pokémon GO Wild Area: Sendai・Tohoku – Extended Bonuses
 
 RESOURCE ID: gowa_2026_steel_badge_candy_xl_bonus
 TEXT: One additional Candy XL from catching Steel-type mighty Pokémon
@@ -52152,6 +52167,9 @@ TEXT: Tiket untuk mengakses Menuju Alam Liar: Raid mulai 18 November 2024, pukul
 RESOURCE ID: item_event_ticket_gray_desc_raikoushadowraidday
 TEXT: Tiket untuk mengakses bonus spesial hingga 24 Januari 2026, pukul 17.00 waktu setempat, di mana pun kamu berada.
 
+RESOURCE ID: item_event_ticket_gray_desc_sandilehatchday26
+TEXT: Tiket untuk mengakses Penelitian Berwaktu Premium Hari Penetasan Sandile dan bonus spesial pada 17 Oktober, mulai pukul 11.00 hingga 17.00 waktu setempat, di mana pun kamu berada.
+
 RESOURCE ID: item_event_ticket_gray_desc_shadowgroudonraidweekend
 TEXT: Tiket untuk mengakses bonus spesial hingga 21 September 2025, pukul 10.00 waktu setempat, di mana pun kamu berada.
 
@@ -52337,6 +52355,9 @@ TEXT: Tiket ini akan aktif secara otomatis pada tanggal 16 September dan memberi
 
 RESOURCE ID: item_event_ticket_gray_details_raikoushadowraidday
 TEXT: Tiket ini akan aktif secara otomatis dan memberimu akses ke bonus spesial pada tanggal 24 Januari, di mana pun kamu berada.
+
+RESOURCE ID: item_event_ticket_gray_details_sandilehatchday26
+TEXT: Tiket ini akan aktif secara otomatis dan memberimu akses ke Penelitian Berwaktu Premium Hari Penetasan Sandile dan bonus spesial pada 17 Oktober, di mana pun kamu berada.
 
 RESOURCE ID: item_event_ticket_gray_details_shadowgroudonraidweekend
 TEXT: Tiket ini akan aktif secara otomatis dan memberimu akses ke bonus spesial pada 20 September, di mana pun kamu berada.
@@ -60157,10 +60178,10 @@ at SHA 12701f1c07ae7f07a5d50583f697320977df7988
 Pipeline 1139111, job 13470914
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-09-25T23:26:39.461892+00:00 for id-ID
-at SHA 698575e11e6
-Pipeline 3971666, job 58475858
-Patch from: 0.431.0-SHA-bb90cc49-RC3, 0.429.2-SHA-ad36de78-RC2
+TEXT: Built at 2026-09-29T01:11:14.795037+00:00 for id-ID
+at SHA 8cfff611670
+Pipeline 3977616, job 58549183
+Patch from: 0.431.0-SHA-873aaf5c-RC2, 0.429.1-SHA-5521c4dc-RC1, 0.433.0-SHA-d37b1aa1-RC1
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: Penelitian Berwaktu: Pilih Tipe Petarungmu
@@ -86022,7 +86043,7 @@ RESOURCE ID: quest_explore_buddy_dark
 TEXT: Dapatkan Permen dengan berjelajah bersama Pokémon tipe Kegelapan sebagai Partnermu
 
 RESOURCE ID: quest_explore_buddy_dragon
-TEXT: Earn a Candy exploring with a Dragon-type as your buddy
+TEXT: Earn a Candy exploring with a Dragon type as your buddy
 
 RESOURCE ID: quest_explore_buddy_electric
 TEXT: Dapatkan Permen dengan menjelajah bersama Pokémon tipe Listrik sebagai Partnermu
@@ -86037,7 +86058,7 @@ RESOURCE ID: quest_explore_buddy_poison
 TEXT: Dapatkan Permen dengan menjelajah bersama Pokémon tipe Racun sebagai Partnermu
 
 RESOURCE ID: quest_explore_buddy_steel
-TEXT: Earn a Candy exploring with a Steel-type as your buddy
+TEXT: Earn a Candy exploring with a Steel type as your buddy
 
 RESOURCE ID: quest_explore_buddy_routes_plural
 TEXT: Dapatkan {0} Permen dengan menjelajahi Rute bersama Partnermu
@@ -113773,6 +113794,15 @@ TEXT: Zona Safari
 RESOURCE ID: safety_warning_yes
 TEXT: Aku penumpang
 
+RESOURCE ID: sandile_hatch_day_event_name
+TEXT: Hari Penetasan Sandile
+
+RESOURCE ID: sandile_hatch_day_free_tr
+TEXT: Penelitian Berwaktu Hari Penetasan Sandile
+
+RESOURCE ID: sandile_hatch_day_paid_tr
+TEXT: Penelitian Berwaktu Premium Hari Penetasan Sandile
+
 RESOURCE ID: sapphire_badge_today_view
 TEXT: Versi Sapphire
 
@@ -115073,6 +115103,9 @@ TEXT: Untuk detail lebih lanjut, kunjungi <a href="https://pokemongo.com/go-pass
 RESOURCE ID: season_pass_details_link_november2025
 TEXT: Untuk detail lebih lanjut, kunjungi <a href="https://pokemongo.com/go-pass">situs web</a>.
 
+RESOURCE ID: season_pass_details_link_oct2026
+TEXT: Untuk detail lebih lanjut, kunjungi <a href="https://pokemongo.com/news/go-pass-october-2026">situs web</a>.
+
 RESOURCE ID: season_pass_details_link_october2025
 TEXT: Untuk detail lebih lanjut, kunjungi <a href="https://pokemongo.com/go-pass">situs web</a>.
 
@@ -115347,6 +115380,19 @@ TEXT: Beli Tiket GO Luks: November untuk membuka hadiah berikut!
 
 • 1 Mesin Penetas Super
 • 1 <a href="https://scopelyexplore.helpshift.com/hc/faq/1147-what-is-the-lucky-trinket/">Ornamen Istimewa</a>, yang dalam sekejap membuatmu menjadi Teman Istimewa dengan teman pilihanmu
+• Dan masih banyak lagi!
+
+RESOURCE ID: season_pass_oct2026_event_duration
+TEXT: 6 Oktober – 3 November
+
+RESOURCE ID: season_pass_oct2026_track_upgrade_header_description
+TEXT: Dapatkan hadiah tambahan dan buka <b>Ornamen Istimewa</b> di Rank 100!
+
+RESOURCE ID: season_pass_oct2026_upgrade_description
+TEXT: Beli Tiket GO Luks: Oktober untuk membuka hadiah berikut!
+
+• 1 Mesin Penetas Super
+• 1 <a href="https://niantic.helpshift.com/hc/faq/4945-what-is-the-lucky-trinket/">Ornamen Istimewa</a>, yang dalam sekejap membuatmu menjadi Teman Istimewa dengan teman pilihanmu
 • Dan masih banyak lagi!
 
 RESOURCE ID: season_pass_october2025_event_duration
@@ -121856,10 +121902,10 @@ RESOURCE ID: steel_and_scales_event_name
 TEXT: Buka Ultra: Baja dan Sisik
 
 RESOURCE ID: steel_poi_spin_plural
-TEXT: Spin {0} Steel type-themed PokéStops
+TEXT: Spin {0} Steel type–themed PokéStops
 
 RESOURCE ID: steel_poi_spin_singular
-TEXT: Spin a Steel type-themed PokéStop
+TEXT: Spin a Steel type–themed PokéStop
 
 RESOURCE ID: steel_scales_uu_july2025_cc_bagon
 TEXT: Tantangan Koleksi Baja dan Sisik: Bagon
@@ -125053,6 +125099,14 @@ TEXT: <b>Termasuk Hadiah:</b>
 • 2 Mesin Penetas Super
 • 1 Serpihan Bintang
 • 10.000 XP dan 5.000 Debu Bintang
+
+RESOURCE ID: text_rewards_key_sandilehatchday26
+TEXT: <b>Termasuk bonus:</b>
+• 2 Mesin Penetas Super
+• 1 Serpihan Bintang
+• 10.000 XP
+• 5.000 Debu Bintang
+• 1/4 Jarak Penetasan untuk Telur
 
 RESOURCE ID: text_rewards_key_scatteredwindsfeb25
 TEXT: <b>Termasuk Hadiah:</b>

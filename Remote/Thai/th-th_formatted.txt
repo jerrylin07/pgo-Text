@@ -12708,28 +12708,28 @@ RESOURCE ID: badge_gowa_2025_special_research_b_title
 TEXT: ผู้คลั่งไคล้ด้านแฟรี่
 
 RESOURCE ID: badge_gowa_2026_cdmx_addon_battle_title
-TEXT: GO Wild Area 2026 – Mexico City: Battle Ready
+TEXT: GO Wild Area: Battle Ready
 
 RESOURCE ID: badge_gowa_2026_cdmx_addon_friday_title
-TEXT: GO Wild Area 2026 – Mexico City: Extra Day (Friday)
+TEXT: GO Wild Area 2026: Extra Day (Friday)
 
 RESOURCE ID: badge_gowa_2026_cdmx_addon_hatch_title
-TEXT: GO Wild Area 2026 – Mexico City: Egg–thusiast
+TEXT: GO Wild Area 2026: Egg-thusiast
 
 RESOURCE ID: badge_gowa_2026_cdmx_addon_saturday_title
-TEXT: GO Wild Area 2026 – Mexico City: Extra Day (Saturday)
+TEXT: GO Wild Area 2026: Extra Day (Saturday)
 
 RESOURCE ID: badge_gowa_2026_cdmx_addon_sunday_title
-TEXT: GO Wild Area 2026 – Mexico City: Extra Day (Sunday)
+TEXT: GO Wild Area 2026: Extra Day (Sunday)
 
 RESOURCE ID: badge_gowa_2026_cdmx_friday_title
-TEXT: GO Wild Area 2026 – Mexico City: Friday
+TEXT: GO Wild Area 2026: Friday
 
 RESOURCE ID: badge_gowa_2026_cdmx_saturday_title
-TEXT: GO Wild Area 2026 – Mexico City: Saturday
+TEXT: GO Wild Area 2026: Saturday
 
 RESOURCE ID: badge_gowa_2026_cdmx_sunday_title
-TEXT: GO Wild Area 2026 – Mexico City: Sunday
+TEXT: GO Wild Area 2026: Sunday
 
 RESOURCE ID: badge_gowa_2026_cdmx_test_addon_battle_title
 TEXT: GO Wild Area 2026 – Mexico City: Battle Ready (Test)
@@ -12750,28 +12750,28 @@ RESOURCE ID: badge_gowa_2026_global_title
 TEXT: GO Wild Area 2026
 
 RESOURCE ID: badge_gowa_2026_sendai_addon_battle_title
-TEXT: GO Wild Area 2026 – Sendai・Tohoku: Battle Ready
+TEXT: GO Wild Area 2026: Battle Ready
 
 RESOURCE ID: badge_gowa_2026_sendai_addon_friday_title
-TEXT: GO Wild Area 2026 – Sendai・Tohoku: Extra Day (Friday)
+TEXT: GO Wild Area: Extra Day (Friday)
 
 RESOURCE ID: badge_gowa_2026_sendai_addon_hatch_title
-TEXT: GO Wild Area 2026 – Sendai・Tohoku: Egg–thusiast
+TEXT: GO Wild Area 2026: Egg-thusiast
 
 RESOURCE ID: badge_gowa_2026_sendai_addon_saturday_title
-TEXT: GO Wild Area 2026 – Sendai・Tohoku: Extra Day (Saturday)
+TEXT: GO Wild Area 2026: Extra Day (Saturday)
 
 RESOURCE ID: badge_gowa_2026_sendai_addon_sunday_title
-TEXT: GO Wild Area 2026 – Sendai・Tohoku: Extra Day (Sunday)
+TEXT: GO Wild Area 2026: Extra Day (Sunday)
 
 RESOURCE ID: badge_gowa_2026_sendai_friday_title
-TEXT: GO Wild Area 2026 – Sendai・Tohoku: Friday
+TEXT: GO Wild Area 2026: Friday
 
 RESOURCE ID: badge_gowa_2026_sendai_saturday_title
-TEXT: GO Wild Area 2026 – Sendai・Tohoku: Saturday
+TEXT: GO Wild Area 2026: Saturday
 
 RESOURCE ID: badge_gowa_2026_sendai_sunday_title
-TEXT: GO Wild Area 2026 – Sendai・Tohoku: Sunday
+TEXT: GO Wild Area 2026: Sunday
 
 RESOURCE ID: badge_gowa_2026_sendai_test_addon_battle_title
 TEXT: GO Wild Area 2026 – Sendai・Tohoku: Battle Ready (Test)
@@ -29258,11 +29258,23 @@ TEXT: Hasami
 RESOURCE ID: city_manhole_476
 TEXT: Goto
 
+RESOURCE ID: city_manhole_477
+TEXT: Minamimaki
+
+RESOURCE ID: city_manhole_478
+TEXT: Yamanouchi
+
+RESOURCE ID: city_manhole_479
+TEXT: Omachi
+
 RESOURCE ID: city_manhole_480
 TEXT: Isahaya
 
 RESOURCE ID: city_manhole_481
 TEXT: Saikai
+
+RESOURCE ID: city_manhole_482
+TEXT: Ina
 
 RESOURCE ID: city_manhole_483
 TEXT: Tsushima
@@ -32526,10 +32538,10 @@ RESOURCE ID: downloading_avatar_assets_warning_body
 TEXT: พบปัญหาในการดาวน์โหลดทรัพยากร โปรดตรวจสอบให้แน่ใจว่าคุณมีการเชื่อมต่อเครือข่ายที่เสถียรแล้วรีสตาร์ทเกม
 
 RESOURCE ID: dragon_poi_spin_plural
-TEXT: Spin {0} Dragon type-themed PokéStops
+TEXT: Spin {0} Dragon type–themed PokéStops
 
 RESOURCE ID: dragon_poi_spin_singular
-TEXT: Spin a Dragon type-themed PokéStop
+TEXT: Spin a Dragon type–themed PokéStop
 
 RESOURCE ID: dragon_type_event
 TEXT: ระลอกฉับพลัน: มังกร
@@ -42476,6 +42488,9 @@ TEXT: ตั๋วคูรูมีรุคอมมิวนิตี้เ�
 
 RESOURCE ID: general1.ticket_tynamocd24_title
 TEXT: ตั๋วชิบิชิราซึคอมมิวนิตี้เดย์
+
+RESOURCE ID: general2.ticket.2_sandilehatchday26_title
+TEXT: ตั๋วงานวิจัยแบบจำกัดเวลาพรีเมียม: วันฟักไข่เมะกุโรโกะ
 
 RESOURCE ID: general2.ticket.5_megafalinksraidday
 TEXT: ตั๋ววันตีบอสซูเปอร์เมก้าไทเรสึ
@@ -52984,10 +52999,10 @@ RESOURCE ID: gowa_2026_all_weekend_ticketed
 TEXT: Pokémon GO Wild Area 2026: All Weekend (Ticket)
 
 RESOURCE ID: gowa_2026_cdmx
-TEXT: Pokémon GO Wild Area 2026: Mexico City
+TEXT: Pokémon GO Wild Area: Mexico City
 
 RESOURCE ID: gowa_2026_cdmx_extended_bonus
-TEXT: Pokémon GO Wild Area 2026: Mexico City – Extended Bonuses
+TEXT: Pokémon GO Wild Area: Mexico City – Extended Bonuses
 
 RESOURCE ID: gowa_2026_content_hashtag
 TEXT: Post photos with #GOWildArea2026, and we’ll share our favorites!
@@ -53044,10 +53059,10 @@ RESOURCE ID: gowa_2026_sat_ticketed
 TEXT: Pokémon GO Wild Area 2026: Saturday Event Hours (Ticket)
 
 RESOURCE ID: gowa_2026_sendai
-TEXT: Pokémon GO Wild Area 2026: Sendai・Tohoku
+TEXT: Pokémon GO Wild Area: Sendai・Tohoku
 
 RESOURCE ID: gowa_2026_sendai_extended_bonus
-TEXT: Pokémon GO Wild Area 2026: Sendai・Tohoku – Extended Bonuses
+TEXT: Pokémon GO Wild Area: Sendai・Tohoku – Extended Bonuses
 
 RESOURCE ID: gowa_2026_steel_badge_candy_xl_bonus
 TEXT: One additional Candy XL from catching Steel-type mighty Pokémon
@@ -56473,7 +56488,7 @@ RESOURCE ID: item_amer2026_milestone_name
 TEXT: เอเลคิดติดเครื่องประดับสไตล์สปาร์ก
 
 RESOURCE ID: item_bag_bonus
-TEXT: bonus
+TEXT: โบนัส
 
 RESOURCE ID: item_bag_deployed
 TEXT: This item can’t be used on a Pokémon placed at a Power Spot or defending a Gym.
@@ -57980,6 +57995,10 @@ TEXT: ตั๋วสำหรับเข้าถึง "สู่ธรรม
 RESOURCE ID: item_event_ticket_gray_desc_raikoushadowraidday
 TEXT: ตั๋วสำหรับรับโบนัสพิเศษถึงวันที่ 24 มกราคม 2026 เวลา 17:00 น. ตามเวลาท้องถิ่นทั่วโลก
 
+RESOURCE ID: item_event_ticket_gray_desc_sandilehatchday26
+TEXT: ตั๋วสำหรับเข้าร่วมงานวิจัยแบบจำกัดเวลาพรีเมียม: วันฟักไข่เมะกุโรโกะ
+ในวันที่ 17 ตุลาคม เวลา 11:00-17:00 น. ตามเวลาท้องถิ่น
+
 RESOURCE ID: item_event_ticket_gray_desc_shadowgroudonraidweekend
 TEXT: ตั๋วสำหรับรับโบนัสพิเศษถึงวันที่ 21 กันยายน 2025 เวลา 22:00 น. ตามเวลาท้องถิ่นทั่วโลก
 
@@ -58320,6 +58339,12 @@ TEXT: ตั๋วสำหรับเข้าร่วมงานวิจ�
 RESOURCE ID: item_event_ticket_gray_details_raikoushadowraidday
 TEXT: ตั๋วสำหรับรับโบนัสพิเศษ
 ในวันที่ 24 มกราคม
+คุณจะสามารถเข้าร่วมได้โดยอัตโนมัติ
+ตามเวลาท้องถิ่นทั่วโลก
+
+RESOURCE ID: item_event_ticket_gray_details_sandilehatchday26
+TEXT: ตั๋วสำหรับเข้าร่วมงานวิจัยแบบจำกัดเวลาพรีเมียม: วันฟักไข่เมะกุโรโกะ
+ในวันที่ 17 ตุลาคม
 คุณจะสามารถเข้าร่วมได้โดยอัตโนมัติ
 ตามเวลาท้องถิ่นทั่วโลก
 
@@ -61510,13 +61535,13 @@ RESOURCE ID: kr_hanbok_pikachu_picnic_2026_tr_name_3
 TEXT: งานวิจัยแบบจำกัดเวลาพิคาชูเที่ยวเกาหลี 2026 (3/3)
 
 RESOURCE ID: kr_hangul_day_2026_title
-TEXT: Hangul Day 2026
+TEXT: วันฮันกึล 2026
 
 RESOURCE ID: kr_hangul_day_2026_bonus_desc
-TEXT: Celebrate Hangul Day with event-themed Pokémon appearing in the wild! Use Incense or Lure Modules to encounter special Pokémon.
+TEXT: โปเกมอนธีมอีเวนต์ปรากฏตัวในธรรมชาติ โปเกมอนพิเศษอาจถูกดึงดูดด้วยอุปกรณ์ปล่อยลัวร์หรือเครื่องหอมเพื่อเฉลิมฉลองวันฮันกึล
 
 RESOURCE ID: kr_hangul_day_sep2026_cc_title
-TEXT: Hangul Day 2026 Collection Challenge
+TEXT: คำท้านักสะสมวันฮันกึล 2026
 
 RESOURCE ID: kr_lantern_festival_2025_massive_bonus_title
 TEXT: คอยคิงไทม์!
@@ -67294,10 +67319,10 @@ at SHA da71d231c41a4d4f7aef0d6fd71061652ff15a0a
 Pipeline 441624, job 3600523
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-09-25T23:26:39.461892+00:00 for th-TH
-at SHA 698575e11e6
-Pipeline 3971666, job 58475858
-Patch from: 0.431.0-SHA-bb90cc49-RC3, 0.429.2-SHA-ad36de78-RC2
+TEXT: Built at 2026-09-29T01:11:14.795037+00:00 for th-TH
+at SHA 8cfff611670
+Pipeline 3977616, job 58549183
+Patch from: 0.431.0-SHA-873aaf5c-RC2, 0.429.1-SHA-5521c4dc-RC1, 0.433.0-SHA-d37b1aa1-RC1
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: งานวิจัยแบบจำกัดเวลา: ประเภทต่อสู้ของคุณ
@@ -86344,7 +86369,7 @@ RESOURCE ID: pokemon_info_no_evolve_pokemon
 TEXT: No Pokémon can use this item to evolve.
 
 RESOURCE ID: pokemon_info_no_fainted_pokemon
-TEXT: No Pokémon need to be revived.
+TEXT: ไม่มีโปเกมอนที่ต้องฟื้นสภาพ
 
 RESOURCE ID: pokemon_info_no_hurt_pokemon
 TEXT: All Pokémon are fully healed.
@@ -95864,7 +95889,7 @@ TEXT: ได้รับลูกอมจากการเดินสำร�
 โปเกมอนประเภทความมืดที่เป็นคู่หู
 
 RESOURCE ID: quest_explore_buddy_dragon
-TEXT: Earn a Candy exploring with a Dragon-type as your buddy
+TEXT: Earn a Candy exploring with a Dragon type as your buddy
 
 RESOURCE ID: quest_explore_buddy_electric
 TEXT: ได้รับลูกอมจากการเดินสำรวจกับ
@@ -95882,7 +95907,7 @@ TEXT: ได้รับลูกอมจากการเดินสำร�
 โปเกมอนประเภทพิษที่เป็นคู่หู
 
 RESOURCE ID: quest_explore_buddy_steel
-TEXT: Earn a Candy exploring with a Steel-type as your buddy
+TEXT: Earn a Candy exploring with a Steel type as your buddy
 
 RESOURCE ID: quest_explore_buddy_routes_plural
 TEXT: ได้รับลูกอม {0} เม็ด ระหว่างสำรวจ "เส้นทาง" กับคู่หูของคุณ
@@ -97470,7 +97495,7 @@ RESOURCE ID: quest_partner_spin_rally_aeonmall
 TEXT: หมุนเสาโปเกสต็อปหรือยิม AEON Mall {0} ครั้ง
 
 RESOURCE ID: quest_partner_spin_rally_familymart
-TEXT: Spin {0} Familymart PokéStops or Gyms
+TEXT: หมุนเสาโปเกสต็อปหรือยิม FamilyMart {0} ครั้ง
 
 RESOURCE ID: quest_partner_spin_rally_mcdonalds
 TEXT: หมุนเสาโปเกสต็อปหรือยิมแมคโดนัลด์ {0} ครั้ง
@@ -127256,6 +127281,15 @@ TEXT: ซาฟารีโซน
 RESOURCE ID: safety_warning_yes
 TEXT: ฉันเป็นผู้โดยสาร
 
+RESOURCE ID: sandile_hatch_day_event_name
+TEXT: วันฟักไข่เมะกุโรโกะ
+
+RESOURCE ID: sandile_hatch_day_free_tr
+TEXT: งานวิจัยแบบจำกัดเวลาวันฟักไข่เมะกุโรโกะ
+
+RESOURCE ID: sandile_hatch_day_paid_tr
+TEXT: งานวิจัยแบบจำกัดเวลาพรีเมียม: วันฟักไข่เมะกุโรโกะ
+
 RESOURCE ID: sapphire_badge_today_view
 TEXT: เวอร์ชัน Sapphire
 
@@ -128748,6 +128782,9 @@ TEXT: ตรวจสอบรายละเอียดได้ที่<a hr
 RESOURCE ID: season_pass_details_link_november2025
 TEXT: ตรวจสอบรายละเอียดได้ที่<a href="https://pokemongo.com/go-pass">เว็บไซต์</a>นี้
 
+RESOURCE ID: season_pass_details_link_oct2026
+TEXT: ตรวจสอบรายละเอียดได้ที่<a href="https://pokemongo.com/news/go-pass-october-2026">เว็บไซต์</a>นี้
+
 RESOURCE ID: season_pass_details_link_october2025
 TEXT: ตรวจสอบรายละเอียดได้ที่<a href="https://pokemongo.com/go-pass">เว็บไซต์</a>นี้
 
@@ -129030,6 +129067,21 @@ TEXT: ซื้อบัตรผ่าน GO Deluxe: พฤศจิกาย�
 
 - เครื่องฟักไข่ชั้นเยี่ยม 1 ชิ้น
 - <a href="https://scopelyexplore.helpshift.com/hc/faq/1147-what-is-the-lucky-trinket/">เครื่องรางนำโชค</a> 1 ชิ้น ที่จะช่วยให้คุณ
+เป็นเพื่อนนำโชคกับเทรนเนอร์ที่ต้องการ
+ได้ในทันที
+- และอื่น ๆ
+
+RESOURCE ID: season_pass_oct2026_event_duration
+TEXT: 6 ตุลาคม ถึง 3 พฤศจิกายน
+
+RESOURCE ID: season_pass_oct2026_track_upgrade_header_description
+TEXT: รับรางวัลเพิ่มเติมและปลดล็อก<b>เครื่องรางนำโชค</b>ที่ระดับ 100!
+
+RESOURCE ID: season_pass_oct2026_upgrade_description
+TEXT: ซื้อบัตรผ่าน GO Deluxe: ตุลาคม เพื่อปลดล็อกรางวัลต่อไปนี้!
+
+- เครื่องฟักไข่ชั้นเยี่ยม 1 ชิ้น
+- <a href="https://niantic.helpshift.com/hc/faq/4945-what-is-the-lucky-trinket/">เครื่องรางนำโชค</a> 1 ชิ้น ที่จะช่วยให้คุณ
 เป็นเพื่อนนำโชคกับเทรนเนอร์ที่ต้องการ
 ได้ในทันที
 - และอื่น ๆ
@@ -136111,10 +136163,10 @@ RESOURCE ID: steel_and_scales_event_name
 TEXT: ปลดล็อกอัลตร้า: เกล็ดและเหล็กกล้า
 
 RESOURCE ID: steel_poi_spin_plural
-TEXT: Spin {0} Steel type-themed PokéStops
+TEXT: Spin {0} Steel type–themed PokéStops
 
 RESOURCE ID: steel_poi_spin_singular
-TEXT: Spin a Steel type-themed PokéStop
+TEXT: Spin a Steel type–themed PokéStop
 
 RESOURCE ID: steel_scales_uu_july2025_cc_bagon
 TEXT: คำท้านักสะสมเกล็ดและเหล็กกล้า: ทัทซึเบ
@@ -139924,6 +139976,14 @@ TEXT: <b>รางวัลที่จะได้รับ:</b>
 - เครื่องฟักไข่ชั้นเยี่ยม 2 ชิ้น
 - สะเก็ดดาว 1 ชิ้น
 - 10,000 XP และ 5,000 สตาร์ดัสต์
+
+RESOURCE ID: text_rewards_key_sandilehatchday26
+TEXT: <b>โบนัสที่จะได้รับ:</b>
+- เครื่องฟักไข่ชั้นเยี่ยม 2 ชิ้น
+- สะเก็ดดาว 1 ชิ้น
+- 10,000 XP
+- 5,000 สตาร์ดัสต์
+- 1/4 ระยะทางฟักไข่
 
 RESOURCE ID: text_rewards_key_scatteredwindsfeb25
 TEXT: <b>รางวัลที่จะได้รับ:</b>

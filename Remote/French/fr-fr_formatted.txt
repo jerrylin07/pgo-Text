@@ -12732,28 +12732,28 @@ RESOURCE ID: badge_gowa_2025_special_research_b_title
 TEXT: Fan du type Fée
 
 RESOURCE ID: badge_gowa_2026_cdmx_addon_battle_title
-TEXT: GO Wild Area 2026 – Mexico City: Battle Ready
+TEXT: GO Wild Area: Battle Ready
 
 RESOURCE ID: badge_gowa_2026_cdmx_addon_friday_title
-TEXT: GO Wild Area 2026 – Mexico City: Extra Day (Friday)
+TEXT: GO Wild Area 2026: Extra Day (Friday)
 
 RESOURCE ID: badge_gowa_2026_cdmx_addon_hatch_title
-TEXT: GO Wild Area 2026 – Mexico City: Egg–thusiast
+TEXT: GO Wild Area 2026: Egg-thusiast
 
 RESOURCE ID: badge_gowa_2026_cdmx_addon_saturday_title
-TEXT: GO Wild Area 2026 – Mexico City: Extra Day (Saturday)
+TEXT: GO Wild Area 2026: Extra Day (Saturday)
 
 RESOURCE ID: badge_gowa_2026_cdmx_addon_sunday_title
-TEXT: GO Wild Area 2026 – Mexico City: Extra Day (Sunday)
+TEXT: GO Wild Area 2026: Extra Day (Sunday)
 
 RESOURCE ID: badge_gowa_2026_cdmx_friday_title
-TEXT: GO Wild Area 2026 – Mexico City: Friday
+TEXT: GO Wild Area 2026: Friday
 
 RESOURCE ID: badge_gowa_2026_cdmx_saturday_title
-TEXT: GO Wild Area 2026 – Mexico City: Saturday
+TEXT: GO Wild Area 2026: Saturday
 
 RESOURCE ID: badge_gowa_2026_cdmx_sunday_title
-TEXT: GO Wild Area 2026 – Mexico City: Sunday
+TEXT: GO Wild Area 2026: Sunday
 
 RESOURCE ID: badge_gowa_2026_cdmx_test_addon_battle_title
 TEXT: GO Wild Area 2026 – Mexico City: Battle Ready (Test)
@@ -12774,28 +12774,28 @@ RESOURCE ID: badge_gowa_2026_global_title
 TEXT: GO Wild Area 2026
 
 RESOURCE ID: badge_gowa_2026_sendai_addon_battle_title
-TEXT: GO Wild Area 2026 – Sendai・Tohoku: Battle Ready
+TEXT: GO Wild Area 2026: Battle Ready
 
 RESOURCE ID: badge_gowa_2026_sendai_addon_friday_title
-TEXT: GO Wild Area 2026 – Sendai・Tohoku: Extra Day (Friday)
+TEXT: GO Wild Area: Extra Day (Friday)
 
 RESOURCE ID: badge_gowa_2026_sendai_addon_hatch_title
-TEXT: GO Wild Area 2026 – Sendai・Tohoku: Egg–thusiast
+TEXT: GO Wild Area 2026: Egg-thusiast
 
 RESOURCE ID: badge_gowa_2026_sendai_addon_saturday_title
-TEXT: GO Wild Area 2026 – Sendai・Tohoku: Extra Day (Saturday)
+TEXT: GO Wild Area 2026: Extra Day (Saturday)
 
 RESOURCE ID: badge_gowa_2026_sendai_addon_sunday_title
-TEXT: GO Wild Area 2026 – Sendai・Tohoku: Extra Day (Sunday)
+TEXT: GO Wild Area 2026: Extra Day (Sunday)
 
 RESOURCE ID: badge_gowa_2026_sendai_friday_title
-TEXT: GO Wild Area 2026 – Sendai・Tohoku: Friday
+TEXT: GO Wild Area 2026: Friday
 
 RESOURCE ID: badge_gowa_2026_sendai_saturday_title
-TEXT: GO Wild Area 2026 – Sendai・Tohoku: Saturday
+TEXT: GO Wild Area 2026: Saturday
 
 RESOURCE ID: badge_gowa_2026_sendai_sunday_title
-TEXT: GO Wild Area 2026 – Sendai・Tohoku: Sunday
+TEXT: GO Wild Area 2026: Sunday
 
 RESOURCE ID: badge_gowa_2026_sendai_test_addon_battle_title
 TEXT: GO Wild Area 2026 – Sendai・Tohoku: Battle Ready (Test)
@@ -28988,11 +28988,23 @@ TEXT: Hasami
 RESOURCE ID: city_manhole_476
 TEXT: Goto
 
+RESOURCE ID: city_manhole_477
+TEXT: Minamimaki
+
+RESOURCE ID: city_manhole_478
+TEXT: Yamanouchi
+
+RESOURCE ID: city_manhole_479
+TEXT: Omachi
+
 RESOURCE ID: city_manhole_480
 TEXT: Isahaya
 
 RESOURCE ID: city_manhole_481
 TEXT: Saikai
+
+RESOURCE ID: city_manhole_482
+TEXT: Ina
 
 RESOURCE ID: city_manhole_483
 TEXT: Tsushima
@@ -32193,10 +32205,10 @@ RESOURCE ID: downloading_avatar_assets_warning_body
 TEXT: Une erreur s'est produite en téléchargeant les ressources. Assure-toi que ta connexion est stable et redémarre le jeu.
 
 RESOURCE ID: dragon_poi_spin_plural
-TEXT: Spin {0} Dragon type-themed PokéStops
+TEXT: Spin {0} Dragon type–themed PokéStops
 
 RESOURCE ID: dragon_poi_spin_singular
-TEXT: Spin a Dragon type-themed PokéStop
+TEXT: Spin a Dragon type–themed PokéStop
 
 RESOURCE ID: dragon_type_event
 TEXT: Afflux du type : Dragon
@@ -41608,6 +41620,9 @@ TEXT: Ticket pour la Journée Communauté de Larveyette
 RESOURCE ID: general1.ticket_tynamocd24_title
 TEXT: Ticket pour la Journée Communauté d’Anchwatt
 
+RESOURCE ID: general2.ticket.2_sandilehatchday26_title
+TEXT: Ticket pour l’Étude ponctuelle premium Journée Éclosion Mascaïman
+
 RESOURCE ID: general2.ticket.5_megafalinksraidday
 TEXT: Ticket pour la Journée de Super Méga-Raids Hexadron
 
@@ -50319,10 +50334,10 @@ RESOURCE ID: gowa_2026_all_weekend_ticketed
 TEXT: Pokémon GO Wild Area 2026: All Weekend (Ticket)
 
 RESOURCE ID: gowa_2026_cdmx
-TEXT: Pokémon GO Wild Area 2026: Mexico City
+TEXT: Pokémon GO Wild Area: Mexico City
 
 RESOURCE ID: gowa_2026_cdmx_extended_bonus
-TEXT: Pokémon GO Wild Area 2026: Mexico City – Extended Bonuses
+TEXT: Pokémon GO Wild Area: Mexico City – Extended Bonuses
 
 RESOURCE ID: gowa_2026_content_hashtag
 TEXT: Post photos with #GOWildArea2026, and we’ll share our favorites!
@@ -50379,10 +50394,10 @@ RESOURCE ID: gowa_2026_sat_ticketed
 TEXT: Pokémon GO Wild Area 2026: Saturday Event Hours (Ticket)
 
 RESOURCE ID: gowa_2026_sendai
-TEXT: Pokémon GO Wild Area 2026: Sendai・Tohoku
+TEXT: Pokémon GO Wild Area: Sendai・Tohoku
 
 RESOURCE ID: gowa_2026_sendai_extended_bonus
-TEXT: Pokémon GO Wild Area 2026: Sendai・Tohoku – Extended Bonuses
+TEXT: Pokémon GO Wild Area: Sendai・Tohoku – Extended Bonuses
 
 RESOURCE ID: gowa_2026_steel_badge_candy_xl_bonus
 TEXT: One additional Candy XL from catching Steel-type mighty Pokémon
@@ -54720,6 +54735,9 @@ TEXT: Un ticket pour accéder à Âme sauvage : Raids à partir du 18 novembre
 RESOURCE ID: item_event_ticket_gray_desc_raikoushadowraidday
 TEXT: Un ticket pour accéder aux bonus spéciaux jusqu’au 24 janvier 2026 à 17h, heure locale, où que tu sois.
 
+RESOURCE ID: item_event_ticket_gray_desc_sandilehatchday26
+TEXT: Un ticket pour accéder à l’Étude ponctuelle premium Journée Éclosion Mascaïman et à des bonus spéciaux le 17 octobre de 11h à 17h, heures locales, où que tu sois.
+
 RESOURCE ID: item_event_ticket_gray_desc_shadowgroudonraidweekend
 TEXT: Un ticket pour accéder aux bonus spéciaux jusqu’au 21 septembre 2025 à 22h, heure locale, où que tu sois.
 
@@ -54905,6 +54923,9 @@ TEXT: Ce ticket s’activera automatiquement le 16 septembre pour te donner acc
 
 RESOURCE ID: item_event_ticket_gray_details_raikoushadowraidday
 TEXT: Ce ticket s’activera automatiquement pour te donner accès à des bonus spéciaux le 24 janvier, où que tu sois.
+
+RESOURCE ID: item_event_ticket_gray_details_sandilehatchday26
+TEXT: Ce ticket s’activera automatiquement pour te donner accès à l’Étude ponctuelle premium Journée Éclosion Mascaïman et à des bonus spéciaux le 17 octobre où que tu sois.
 
 RESOURCE ID: item_event_ticket_gray_details_shadowgroudonraidweekend
 TEXT: Ce ticket s’activera automatiquement pour te donner accès à des bonus spéciaux le 20 septembre, où que tu sois.
@@ -57163,28 +57184,28 @@ RESOURCE ID: kr_ditto_event_2025_tr_name_3
 TEXT: Étude ponctuelle Une étude en violet (3/3)
 
 RESOURCE ID: kr_fcseoul_collab_2026_title
-TEXT: FC Seoul Event 2026
+TEXT: Évènement FC Séoul 2026
 
 RESOURCE ID: kr_fcseoul_collab_2026_bonus_raid_lc_desc
-TEXT: During event hours on October 24, Charmander caught from raids around the Seoul World Cup Stadium event area may have an exclusive Location Background
+TEXT: Pendant les heures de l’évènement le 24 octobre, les Salamèche attrapés après avoir remporté des Raids à proximité du stade de la Coupe du monde de Séoul pourraient avoir un Fond de lieu exclusif
 
 RESOURCE ID: kr_fcseoul_collab_2026_bonus_tr_lc_desc
-TEXT: Charizard encountered from event Timed Research will have an exclusive Location Background
+TEXT: Les Dracaufeu rencontrés grâce à l’Étude ponctuelle de l’évènement auront un Fond de lieu exclusif
 
 RESOURCE ID: kr_fcseoul_collab_2026_bonus_wild_pokemon
-TEXT: Catch Fire-type Pokémon around the Seoul World Cup Stadium event area—let’s fire it up for FC Seoul!
+TEXT: Attrape des Pokémon de type Feu à proximité du stade de la Coupe du monde de Séoul. Le FC Séoul fait monter la température !
 
 RESOURCE ID: kr_fcseoul_collab_2026_tr_name
-TEXT: FC Seoul Event 2026 Timed Research
+TEXT: Étude ponctuelle Évènement FC Séoul 2026
 
 RESOURCE ID: kr_fcseoul_collab_2026_tr_name_1
-TEXT: FC Seoul Event 2026 Timed Research (1/3)
+TEXT: Étude ponctuelle Évènement FC Séoul 2026 (1/3)
 
 RESOURCE ID: kr_fcseoul_collab_2026_tr_name_2
-TEXT: FC Seoul Event 2026 Timed Research (2/3)
+TEXT: Étude ponctuelle Évènement FC Séoul 2026 (2/3)
 
 RESOURCE ID: kr_fcseoul_collab_2026_tr_name_3
-TEXT: FC Seoul Event 2026 Timed Research (3/3)
+TEXT: Étude ponctuelle Évènement FC Séoul 2026 (3/3)
 
 RESOURCE ID: kr_festival_fr_location_background
 TEXT: Les Vivaldaim et les Pikachu en costume attrapés après avoir terminé des tâches d’Études de terrain pourraient avoir un Fond de lieu exclusif
@@ -62766,10 +62787,10 @@ at SHA 4d4f3e80cc7fb911006bd14d198c9831ef66d005
 Pipeline 339838, job 2672172
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-09-25T23:26:39.461892+00:00 for fr-FR
-at SHA 698575e11e6
-Pipeline 3971666, job 58475858
-Patch from: 0.431.0-SHA-bb90cc49-RC3, 0.429.2-SHA-ad36de78-RC2
+TEXT: Built at 2026-09-29T01:11:14.795037+00:00 for fr-FR
+at SHA 8cfff611670
+Pipeline 3977616, job 58549183
+Patch from: 0.431.0-SHA-873aaf5c-RC2, 0.429.1-SHA-5521c4dc-RC1, 0.433.0-SHA-d37b1aa1-RC1
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: Étude ponctuelle : Choisis ton type de combat
@@ -88640,7 +88661,7 @@ RESOURCE ID: quest_explore_buddy_dark
 TEXT: Gagne un Bonbon en partant en exploration avec un Pokémon de type Ténèbres comme copain
 
 RESOURCE ID: quest_explore_buddy_dragon
-TEXT: Earn a Candy exploring with a Dragon-type as your buddy
+TEXT: Earn a Candy exploring with a Dragon type as your buddy
 
 RESOURCE ID: quest_explore_buddy_electric
 TEXT: Gagne un Bonbon en partant en exploration avec un Pokémon de type Électrik comme copain
@@ -88655,7 +88676,7 @@ RESOURCE ID: quest_explore_buddy_poison
 TEXT: Gagne un Bonbon en partant en exploration avec un Pokémon de type Poison comme copain
 
 RESOURCE ID: quest_explore_buddy_steel
-TEXT: Earn a Candy exploring with a Steel-type as your buddy
+TEXT: Earn a Candy exploring with a Steel type as your buddy
 
 RESOURCE ID: quest_explore_buddy_routes_plural
 TEXT: Gagne {0} Bonbons en explorant des Routes avec ton copain
@@ -116533,6 +116554,15 @@ TEXT: Parc Safari
 RESOURCE ID: safety_warning_yes
 TEXT: Je suis passager
 
+RESOURCE ID: sandile_hatch_day_event_name
+TEXT: Journée Éclosion Mascaïman
+
+RESOURCE ID: sandile_hatch_day_free_tr
+TEXT: Étude ponctuelle Journée Éclosion Mascaïman
+
+RESOURCE ID: sandile_hatch_day_paid_tr
+TEXT: Étude ponctuelle premium Journée Éclosion Mascaïman
+
 RESOURCE ID: sapphire_badge_today_view
 TEXT: version Saphir
 
@@ -117832,6 +117862,9 @@ TEXT: Tous les détails sont sur le <a href="https://pokemongo.com/go-pass">site
 RESOURCE ID: season_pass_details_link_november2025
 TEXT: Tous les détails sont sur le <a href="https://pokemongo.com/go-pass">site Web</a>.
 
+RESOURCE ID: season_pass_details_link_oct2026
+TEXT: Pour plus d’informations, rends-toi sur le <a href="https://pokemongo.com/news/go-pass-october-2026">site Web</a>.
+
 RESOURCE ID: season_pass_details_link_october2025
 TEXT: Tous les détails sont sur le <a href="https://pokemongo.com/go-pass">site Web</a>.
 
@@ -118106,6 +118139,19 @@ TEXT: Achète le Passe GO deluxe : novembre pour déverrouiller les récompens
 
 • Un Super-Incubateur
 • Un <a href="https://scopelyexplore.helpshift.com/hc/faq/1147-what-is-the-lucky-trinket/">Bibelot Chance</a>, qui te permet de devenir instantanément Ami Chanceux avec l’ami de ton choix
+• Et plus encore !
+
+RESOURCE ID: season_pass_oct2026_event_duration
+TEXT: Du 6 octobre au 3 novembre
+
+RESOURCE ID: season_pass_oct2026_track_upgrade_header_description
+TEXT: Gagne des récompenses supplémentaires et déverrouille un <b>Bibelot Chance</b> lorsque tu atteins le rang 100 !
+
+RESOURCE ID: season_pass_oct2026_upgrade_description
+TEXT: Achète le Passe GO deluxe : octobre pour déverrouiller les récompenses suivantes !
+
+• Un Super-Incubateur
+• Un <a href="https://niantic.helpshift.com/hc/faq/4945-what-is-the-lucky-trinket/">Bibelot Chance</a>, qui te permet de devenir instantanément Ami Chanceux avec l’ami de ton choix
 • Et plus encore !
 
 RESOURCE ID: season_pass_october2025_event_duration
@@ -124618,10 +124664,10 @@ RESOURCE ID: steel_and_scales_event_name
 TEXT: Ultra Bonus : D'acier et d’écailles
 
 RESOURCE ID: steel_poi_spin_plural
-TEXT: Spin {0} Steel type-themed PokéStops
+TEXT: Spin {0} Steel type–themed PokéStops
 
 RESOURCE ID: steel_poi_spin_singular
-TEXT: Spin a Steel type-themed PokéStop
+TEXT: Spin a Steel type–themed PokéStop
 
 RESOURCE ID: steel_scales_uu_july2025_cc_bagon
 TEXT: Défi de collection D’acier et d’écailles : Draby
@@ -127826,6 +127872,14 @@ TEXT: <b>Donne accès aux récompenses suivantes :</b>
 • 2 Super-Incubateurs
 • 1 Morceau d’Étoile
 • 10 000 PX et 5 000 Poussières Étoiles
+
+RESOURCE ID: text_rewards_key_sandilehatchday26
+TEXT: <b>Donne accès aux bonus suivants :</b>
+• 2 Super-Incubateurs
+• 1 Morceau d’Étoile
+• 10 000 PX
+• 5 000 Poussières Étoiles
+• Distance d’éclosion diminuée de trois quarts
 
 RESOURCE ID: text_rewards_key_scatteredwindsfeb25
 TEXT: <b>Donne accès aux récompenses suivantes :</b>

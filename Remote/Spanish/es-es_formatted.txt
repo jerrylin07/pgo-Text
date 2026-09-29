@@ -13175,28 +13175,28 @@ RESOURCE ID: badge_gowa_2025_special_research_b_title
 TEXT: Hadas Hechiceras
 
 RESOURCE ID: badge_gowa_2026_cdmx_addon_battle_title
-TEXT: GO Wild Area 2026 – Mexico City: Battle Ready
+TEXT: GO Wild Area: Battle Ready
 
 RESOURCE ID: badge_gowa_2026_cdmx_addon_friday_title
-TEXT: GO Wild Area 2026 – Mexico City: Extra Day (Friday)
+TEXT: GO Wild Area 2026: Extra Day (Friday)
 
 RESOURCE ID: badge_gowa_2026_cdmx_addon_hatch_title
-TEXT: GO Wild Area 2026 – Mexico City: Egg–thusiast
+TEXT: GO Wild Area 2026: Egg-thusiast
 
 RESOURCE ID: badge_gowa_2026_cdmx_addon_saturday_title
-TEXT: GO Wild Area 2026 – Mexico City: Extra Day (Saturday)
+TEXT: GO Wild Area 2026: Extra Day (Saturday)
 
 RESOURCE ID: badge_gowa_2026_cdmx_addon_sunday_title
-TEXT: GO Wild Area 2026 – Mexico City: Extra Day (Sunday)
+TEXT: GO Wild Area 2026: Extra Day (Sunday)
 
 RESOURCE ID: badge_gowa_2026_cdmx_friday_title
-TEXT: GO Wild Area 2026 – Mexico City: Friday
+TEXT: GO Wild Area 2026: Friday
 
 RESOURCE ID: badge_gowa_2026_cdmx_saturday_title
-TEXT: GO Wild Area 2026 – Mexico City: Saturday
+TEXT: GO Wild Area 2026: Saturday
 
 RESOURCE ID: badge_gowa_2026_cdmx_sunday_title
-TEXT: GO Wild Area 2026 – Mexico City: Sunday
+TEXT: GO Wild Area 2026: Sunday
 
 RESOURCE ID: badge_gowa_2026_cdmx_test_addon_battle_title
 TEXT: GO Wild Area 2026 – Mexico City: Battle Ready (Test)
@@ -13217,28 +13217,28 @@ RESOURCE ID: badge_gowa_2026_global_title
 TEXT: GO Wild Area 2026
 
 RESOURCE ID: badge_gowa_2026_sendai_addon_battle_title
-TEXT: GO Wild Area 2026 – Sendai・Tohoku: Battle Ready
+TEXT: GO Wild Area 2026: Battle Ready
 
 RESOURCE ID: badge_gowa_2026_sendai_addon_friday_title
-TEXT: GO Wild Area 2026 – Sendai・Tohoku: Extra Day (Friday)
+TEXT: GO Wild Area: Extra Day (Friday)
 
 RESOURCE ID: badge_gowa_2026_sendai_addon_hatch_title
-TEXT: GO Wild Area 2026 – Sendai・Tohoku: Egg–thusiast
+TEXT: GO Wild Area 2026: Egg-thusiast
 
 RESOURCE ID: badge_gowa_2026_sendai_addon_saturday_title
-TEXT: GO Wild Area 2026 – Sendai・Tohoku: Extra Day (Saturday)
+TEXT: GO Wild Area 2026: Extra Day (Saturday)
 
 RESOURCE ID: badge_gowa_2026_sendai_addon_sunday_title
-TEXT: GO Wild Area 2026 – Sendai・Tohoku: Extra Day (Sunday)
+TEXT: GO Wild Area 2026: Extra Day (Sunday)
 
 RESOURCE ID: badge_gowa_2026_sendai_friday_title
-TEXT: GO Wild Area 2026 – Sendai・Tohoku: Friday
+TEXT: GO Wild Area 2026: Friday
 
 RESOURCE ID: badge_gowa_2026_sendai_saturday_title
-TEXT: GO Wild Area 2026 – Sendai・Tohoku: Saturday
+TEXT: GO Wild Area 2026: Saturday
 
 RESOURCE ID: badge_gowa_2026_sendai_sunday_title
-TEXT: GO Wild Area 2026 – Sendai・Tohoku: Sunday
+TEXT: GO Wild Area 2026: Sunday
 
 RESOURCE ID: badge_gowa_2026_sendai_test_addon_battle_title
 TEXT: GO Wild Area 2026 – Sendai・Tohoku: Battle Ready (Test)
@@ -29401,11 +29401,23 @@ TEXT: Hasami
 RESOURCE ID: city_manhole_476
 TEXT: Goto
 
+RESOURCE ID: city_manhole_477
+TEXT: Minamimaki
+
+RESOURCE ID: city_manhole_478
+TEXT: Yamanouchi
+
+RESOURCE ID: city_manhole_479
+TEXT: Omachi
+
 RESOURCE ID: city_manhole_480
 TEXT: Isahaya
 
 RESOURCE ID: city_manhole_481
 TEXT: Saikai
+
+RESOURCE ID: city_manhole_482
+TEXT: Ina
 
 RESOURCE ID: city_manhole_483
 TEXT: Tsushima
@@ -32606,10 +32618,10 @@ RESOURCE ID: downloading_avatar_assets_warning_body
 TEXT: Se ha producido un problema al descargar los archivos. Asegúrate de disponer de acceso estable a la red y reinicia el juego.
 
 RESOURCE ID: dragon_poi_spin_plural
-TEXT: Spin {0} Dragon type-themed PokéStops
+TEXT: Spin {0} Dragon type–themed PokéStops
 
 RESOURCE ID: dragon_poi_spin_singular
-TEXT: Spin a Dragon type-themed PokéStop
+TEXT: Spin a Dragon type–themed PokéStop
 
 RESOURCE ID: dragon_type_event
 TEXT: Oleada de tipo: Dragón
@@ -42036,6 +42048,9 @@ TEXT: Entrada: Día de la Comunidad de Sewaddle
 RESOURCE ID: general1.ticket_tynamocd24_title
 TEXT: Entrada: Día de la Comunidad de Tynamo
 
+RESOURCE ID: general2.ticket.2_sandilehatchday26_title
+TEXT: Entrada: Investigación temporal prémium del Día de eclosiones de Sandile
+
 RESOURCE ID: general2.ticket.5_megafalinksraidday
 TEXT: Entrada: Día de supermegaincursiones de Falinks
 
@@ -50749,10 +50764,10 @@ RESOURCE ID: gowa_2026_all_weekend_ticketed
 TEXT: Pokémon GO Wild Area 2026: All Weekend (Ticket)
 
 RESOURCE ID: gowa_2026_cdmx
-TEXT: Pokémon GO Wild Area 2026: Mexico City
+TEXT: Pokémon GO Wild Area: Mexico City
 
 RESOURCE ID: gowa_2026_cdmx_extended_bonus
-TEXT: Pokémon GO Wild Area 2026: Mexico City – Extended Bonuses
+TEXT: Pokémon GO Wild Area: Mexico City – Extended Bonuses
 
 RESOURCE ID: gowa_2026_content_hashtag
 TEXT: Post photos with #GOWildArea2026, and we’ll share our favorites!
@@ -50809,10 +50824,10 @@ RESOURCE ID: gowa_2026_sat_ticketed
 TEXT: Pokémon GO Wild Area 2026: Saturday Event Hours (Ticket)
 
 RESOURCE ID: gowa_2026_sendai
-TEXT: Pokémon GO Wild Area 2026: Sendai・Tohoku
+TEXT: Pokémon GO Wild Area: Sendai・Tohoku
 
 RESOURCE ID: gowa_2026_sendai_extended_bonus
-TEXT: Pokémon GO Wild Area 2026: Sendai・Tohoku – Extended Bonuses
+TEXT: Pokémon GO Wild Area: Sendai・Tohoku – Extended Bonuses
 
 RESOURCE ID: gowa_2026_steel_badge_candy_xl_bonus
 TEXT: One additional Candy XL from catching Steel-type mighty Pokémon
@@ -55149,6 +55164,9 @@ TEXT: Una entrada para acceder a "Hacia lo silvestre: Incursiones" desde el 18 d
 RESOURCE ID: item_event_ticket_gray_desc_raikoushadowraidday
 TEXT: Una entrada para acceder a bonus especiales hasta el 24 de enero de 2026 a las 17:00 en tu hora local, estés donde estés.
 
+RESOURCE ID: item_event_ticket_gray_desc_sandilehatchday26
+TEXT: Una entrada para acceder a la investigación temporal prémium del Día de eclosiones de Sandile y a los bonus especiales el 17 de octubre de 11:00 a 17:00 en tu hora local, estés donde estés.
+
 RESOURCE ID: item_event_ticket_gray_desc_shadowgroudonraidweekend
 TEXT: Una entrada para acceder a bonus especiales hasta el 21 de septiembre de 2025 a las 22:00 en tu hora local, estés donde estés.
 
@@ -55334,6 +55352,9 @@ TEXT: Esta entrada se activará automáticamente el 16 de septiembre para darte 
 
 RESOURCE ID: item_event_ticket_gray_details_raikoushadowraidday
 TEXT: Esta entrada se activará automáticamente para darte acceso a los bonus especiales el 24 de enero, estés donde estés.
+
+RESOURCE ID: item_event_ticket_gray_details_sandilehatchday26
+TEXT: Esta entrada se activará automáticamente para darte acceso a la investigación temporal prémium del Día de eclosiones de Sandile y a bonus especiales el 17 de octubre, estés donde estés.
 
 RESOURCE ID: item_event_ticket_gray_details_shadowgroudonraidweekend
 TEXT: Esta entrada se activará automáticamente para darte acceso a bonus especiales el 20 de septiembre, estés donde estés.
@@ -63198,10 +63219,10 @@ at SHA 4d4f3e80cc7fb911006bd14d198c9831ef66d005
 Pipeline 339838, job 2672172
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-09-25T23:26:39.461892+00:00 for es-ES
-at SHA 698575e11e6
-Pipeline 3971666, job 58475858
-Patch from: 0.431.0-SHA-bb90cc49-RC3, 0.429.2-SHA-ad36de78-RC2
+TEXT: Built at 2026-09-29T01:11:14.795037+00:00 for es-ES
+at SHA 8cfff611670
+Pipeline 3977616, job 58549183
+Patch from: 0.431.0-SHA-873aaf5c-RC2, 0.429.1-SHA-5521c4dc-RC1, 0.433.0-SHA-d37b1aa1-RC1
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: Investigación temporal: Elige tu tipo de lucha
@@ -89073,7 +89094,7 @@ RESOURCE ID: quest_explore_buddy_dark
 TEXT: Consigue un Caramelo explorando con un Pokémon de tipo Siniestro como tu compañero
 
 RESOURCE ID: quest_explore_buddy_dragon
-TEXT: Earn a Candy exploring with a Dragon-type as your buddy
+TEXT: Earn a Candy exploring with a Dragon type as your buddy
 
 RESOURCE ID: quest_explore_buddy_electric
 TEXT: Consigue un Caramelo explorando con un Pokémon de tipo Eléctrico como tu compañero
@@ -89088,7 +89109,7 @@ RESOURCE ID: quest_explore_buddy_poison
 TEXT: Consigue un Caramelo explorando con un Pokémon de tipo Veneno como tu compañero
 
 RESOURCE ID: quest_explore_buddy_steel
-TEXT: Earn a Candy exploring with a Steel-type as your buddy
+TEXT: Earn a Candy exploring with a Steel type as your buddy
 
 RESOURCE ID: quest_explore_buddy_routes_plural
 TEXT: Consigue {0} Caramelos explorando Rutas con tu compañero
@@ -116969,6 +116990,15 @@ TEXT: Zona Safari
 RESOURCE ID: safety_warning_yes
 TEXT: Soy un pasajero.
 
+RESOURCE ID: sandile_hatch_day_event_name
+TEXT: Día de eclosiones: Sandile
+
+RESOURCE ID: sandile_hatch_day_free_tr
+TEXT: Investigación temporal del Día de eclosiones: Sandile
+
+RESOURCE ID: sandile_hatch_day_paid_tr
+TEXT: Investigación temporal prémium del Día de Eclosiones: Sandile
+
 RESOURCE ID: sapphire_badge_today_view
 TEXT: Versión Zafiro
 
@@ -118268,6 +118298,9 @@ TEXT: Para obtener más información, visita el <a href="https://pokemongo.com/g
 RESOURCE ID: season_pass_details_link_november2025
 TEXT: Para obtener más información, visita el <a href="https://pokemongo.com/go-pass">sitio web</a>.
 
+RESOURCE ID: season_pass_details_link_oct2026
+TEXT: Para obtener más información, visita el <a href="https://pokemongo.com/news/go-pass-october-2026">sitio web</a>.
+
 RESOURCE ID: season_pass_details_link_october2025
 TEXT: Para obtener más información, visita el <a href="https://pokemongo.com/go-pass">sitio web</a>.
 
@@ -118542,6 +118575,19 @@ TEXT: ¡Adquiere el Pase de GO deluxe de noviembre para desbloquear las siguient
 
 • Una Superincubadora
 •  Un <a href="https://scopelyexplore.helpshift.com/hc/faq/1147-what-is-the-lucky-trinket/">Recuerdo Suerte</a>, que te permite entablar una Amistad con Suerte al instante con quien escojas
+• ¡Y mucho más!
+
+RESOURCE ID: season_pass_oct2026_event_duration
+TEXT: Del 6 de octubre al 3 de noviembre
+
+RESOURCE ID: season_pass_oct2026_track_upgrade_header_description
+TEXT: ¡Consigue recompensas adicionales y desbloquea un <b>Recuerdo Suerte</b> en el nivel 100!
+
+RESOURCE ID: season_pass_oct2026_upgrade_description
+TEXT: ¡Adquiere el Pase de GO deluxe de octubre para desbloquear las siguientes recompensas!
+
+• Una Superincubadora
+•  Un <a href="https://niantic.helpshift.com/hc/faq/4945-what-is-the-lucky-trinket/">Recuerdo Suerte</a>, que te permite entablar una Amistad con Suerte al instante con quien escojas
 • ¡Y mucho más!
 
 RESOURCE ID: season_pass_october2025_event_duration
@@ -125051,10 +125097,10 @@ RESOURCE ID: steel_and_scales_event_name
 TEXT: Ultrabonus: Acero y escamas
 
 RESOURCE ID: steel_poi_spin_plural
-TEXT: Spin {0} Steel type-themed PokéStops
+TEXT: Spin {0} Steel type–themed PokéStops
 
 RESOURCE ID: steel_poi_spin_singular
-TEXT: Spin a Steel type-themed PokéStop
+TEXT: Spin a Steel type–themed PokéStop
 
 RESOURCE ID: steel_scales_uu_july2025_cc_bagon
 TEXT: Desafío de colección de Acero y escamas: Bagon
@@ -128259,6 +128305,14 @@ TEXT: <b>Recompensas incluidas:</b>
 • 2 Superincubadoras
 • 1 Trozo Estrella
 • 10 000 PX y 5000 Polvos Estelares
+
+RESOURCE ID: text_rewards_key_sandilehatchday26
+TEXT: <b>Bonus incluidos:</b>
+• 2 Superincubadoras
+• 1 Trozo Estrella
+• 10 000 PX
+• 5000 Polvos Estelares
+• Un cuarto de la distancia para eclosionar Huevos
 
 RESOURCE ID: text_rewards_key_scatteredwindsfeb25
 TEXT: <b>Recompensas incluidas:</b>

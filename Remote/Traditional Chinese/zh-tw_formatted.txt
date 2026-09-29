@@ -12704,28 +12704,28 @@ RESOURCE ID: badge_gowa_2025_special_research_b_title
 TEXT: 妖精屬性翹楚
 
 RESOURCE ID: badge_gowa_2026_cdmx_addon_battle_title
-TEXT: GO Wild Area 2026 – Mexico City: Battle Ready
+TEXT: GO Wild Area: Battle Ready
 
 RESOURCE ID: badge_gowa_2026_cdmx_addon_friday_title
-TEXT: GO Wild Area 2026 – Mexico City: Extra Day (Friday)
+TEXT: GO Wild Area 2026: Extra Day (Friday)
 
 RESOURCE ID: badge_gowa_2026_cdmx_addon_hatch_title
-TEXT: GO Wild Area 2026 – Mexico City: Egg–thusiast
+TEXT: GO Wild Area 2026: Egg-thusiast
 
 RESOURCE ID: badge_gowa_2026_cdmx_addon_saturday_title
-TEXT: GO Wild Area 2026 – Mexico City: Extra Day (Saturday)
+TEXT: GO Wild Area 2026: Extra Day (Saturday)
 
 RESOURCE ID: badge_gowa_2026_cdmx_addon_sunday_title
-TEXT: GO Wild Area 2026 – Mexico City: Extra Day (Sunday)
+TEXT: GO Wild Area 2026: Extra Day (Sunday)
 
 RESOURCE ID: badge_gowa_2026_cdmx_friday_title
-TEXT: GO Wild Area 2026 – Mexico City: Friday
+TEXT: GO Wild Area 2026: Friday
 
 RESOURCE ID: badge_gowa_2026_cdmx_saturday_title
-TEXT: GO Wild Area 2026 – Mexico City: Saturday
+TEXT: GO Wild Area 2026: Saturday
 
 RESOURCE ID: badge_gowa_2026_cdmx_sunday_title
-TEXT: GO Wild Area 2026 – Mexico City: Sunday
+TEXT: GO Wild Area 2026: Sunday
 
 RESOURCE ID: badge_gowa_2026_cdmx_test_addon_battle_title
 TEXT: GO Wild Area 2026 – Mexico City: Battle Ready (Test)
@@ -12746,28 +12746,28 @@ RESOURCE ID: badge_gowa_2026_global_title
 TEXT: GO Wild Area 2026
 
 RESOURCE ID: badge_gowa_2026_sendai_addon_battle_title
-TEXT: GO Wild Area 2026 – Sendai・Tohoku: Battle Ready
+TEXT: GO Wild Area 2026: Battle Ready
 
 RESOURCE ID: badge_gowa_2026_sendai_addon_friday_title
-TEXT: GO Wild Area 2026 – Sendai・Tohoku: Extra Day (Friday)
+TEXT: GO Wild Area: Extra Day (Friday)
 
 RESOURCE ID: badge_gowa_2026_sendai_addon_hatch_title
-TEXT: GO Wild Area 2026 – Sendai・Tohoku: Egg–thusiast
+TEXT: GO Wild Area 2026: Egg-thusiast
 
 RESOURCE ID: badge_gowa_2026_sendai_addon_saturday_title
-TEXT: GO Wild Area 2026 – Sendai・Tohoku: Extra Day (Saturday)
+TEXT: GO Wild Area 2026: Extra Day (Saturday)
 
 RESOURCE ID: badge_gowa_2026_sendai_addon_sunday_title
-TEXT: GO Wild Area 2026 – Sendai・Tohoku: Extra Day (Sunday)
+TEXT: GO Wild Area 2026: Extra Day (Sunday)
 
 RESOURCE ID: badge_gowa_2026_sendai_friday_title
-TEXT: GO Wild Area 2026 – Sendai・Tohoku: Friday
+TEXT: GO Wild Area 2026: Friday
 
 RESOURCE ID: badge_gowa_2026_sendai_saturday_title
-TEXT: GO Wild Area 2026 – Sendai・Tohoku: Saturday
+TEXT: GO Wild Area 2026: Saturday
 
 RESOURCE ID: badge_gowa_2026_sendai_sunday_title
-TEXT: GO Wild Area 2026 – Sendai・Tohoku: Sunday
+TEXT: GO Wild Area 2026: Sunday
 
 RESOURCE ID: badge_gowa_2026_sendai_test_addon_battle_title
 TEXT: GO Wild Area 2026 – Sendai・Tohoku: Battle Ready (Test)
@@ -28948,11 +28948,23 @@ TEXT: Hasami
 RESOURCE ID: city_manhole_476
 TEXT: Goto
 
+RESOURCE ID: city_manhole_477
+TEXT: Minamimaki
+
+RESOURCE ID: city_manhole_478
+TEXT: Yamanouchi
+
+RESOURCE ID: city_manhole_479
+TEXT: Omachi
+
 RESOURCE ID: city_manhole_480
 TEXT: Isahaya
 
 RESOURCE ID: city_manhole_481
 TEXT: Saikai
+
+RESOURCE ID: city_manhole_482
+TEXT: Ina
 
 RESOURCE ID: city_manhole_483
 TEXT: Tsushima
@@ -31685,7 +31697,7 @@ RESOURCE ID: delete_gift_confirmation
 TEXT: 確定要丟棄這個友情禮物嗎？
 
 RESOURCE ID: delete_gift_message
-TEXT: Gifts do not count toward Item Bag storage.
+TEXT: 友情禮物不會被計為包包裡的道具。
 
 RESOURCE ID: delete_pokemon_tag_confirmation
 TEXT: 系統將會刪除此標籤，寶可夢不會被傳送出去。
@@ -32159,10 +32171,10 @@ RESOURCE ID: downloading_avatar_assets_warning_body
 TEXT: 下載資料途中發生了問題。請確認連線狀態並重新啟動遊戲。
 
 RESOURCE ID: dragon_poi_spin_plural
-TEXT: Spin {0} Dragon type-themed PokéStops
+TEXT: Spin {0} Dragon type–themed PokéStops
 
 RESOURCE ID: dragon_poi_spin_singular
-TEXT: Spin a Dragon type-themed PokéStop
+TEXT: Spin a Dragon type–themed PokéStop
 
 RESOURCE ID: dragon_type_event
 TEXT: 急速上昇：龍屬性
@@ -41507,6 +41519,9 @@ TEXT: 蟲寶包社群日入場券
 RESOURCE ID: general1.ticket_tynamocd24_title
 TEXT: 麻麻小魚社群日入場券
 
+RESOURCE ID: general2.ticket.2_sandilehatchday26_title
+TEXT: 黑眼鱷孵化日特級限時調查入場券
+
 RESOURCE ID: general2.ticket.5_megafalinksraidday
 TEXT: 列陣兵極致超級團體戰日入場券
 
@@ -41859,13 +41874,13 @@ RESOURCE ID: gift_from_sponsor
 TEXT: Open a Gift from a Sponsor!
 
 RESOURCE ID: gift_multi_delete_complete
-TEXT: Your selection has been cleared.
+TEXT: 已解除選項
 
 RESOURCE ID: gift_multi_delete_plural
-TEXT: Discard these {0} Gifts?
+TEXT: 要丟棄{0}個友情禮物嗎？
 
 RESOURCE ID: gift_multi_delete_button_text
-TEXT: DISCARD ({0})
+TEXT: 丟棄 ({0})
 
 RESOURCE ID: gift_open_double
 TEXT: 可打開2倍的禮物
@@ -50227,10 +50242,10 @@ RESOURCE ID: gowa_2026_all_weekend_ticketed
 TEXT: Pokémon GO Wild Area 2026: All Weekend (Ticket)
 
 RESOURCE ID: gowa_2026_cdmx
-TEXT: Pokémon GO Wild Area 2026: Mexico City
+TEXT: Pokémon GO Wild Area: Mexico City
 
 RESOURCE ID: gowa_2026_cdmx_extended_bonus
-TEXT: Pokémon GO Wild Area 2026: Mexico City – Extended Bonuses
+TEXT: Pokémon GO Wild Area: Mexico City – Extended Bonuses
 
 RESOURCE ID: gowa_2026_content_hashtag
 TEXT: Post photos with #GOWildArea2026, and we’ll share our favorites!
@@ -50287,10 +50302,10 @@ RESOURCE ID: gowa_2026_sat_ticketed
 TEXT: Pokémon GO Wild Area 2026: Saturday Event Hours (Ticket)
 
 RESOURCE ID: gowa_2026_sendai
-TEXT: Pokémon GO Wild Area 2026: Sendai・Tohoku
+TEXT: Pokémon GO Wild Area: Sendai・Tohoku
 
 RESOURCE ID: gowa_2026_sendai_extended_bonus
-TEXT: Pokémon GO Wild Area 2026: Sendai・Tohoku – Extended Bonuses
+TEXT: Pokémon GO Wild Area: Sendai・Tohoku – Extended Bonuses
 
 RESOURCE ID: gowa_2026_steel_badge_candy_xl_bonus
 TEXT: One additional Candy XL from catching Steel-type mighty Pokémon
@@ -53591,7 +53606,7 @@ RESOURCE ID: item_amer2026_milestone_name
 TEXT: 穿著史帕克主題裝飾的電擊怪
 
 RESOURCE ID: item_bag_bonus
-TEXT: bonus
+TEXT: 獎勵
 
 RESOURCE ID: item_bag_deployed
 TEXT: This item can’t be used on a Pokémon placed at a Power Spot or defending a Gym.
@@ -53609,7 +53624,7 @@ RESOURCE ID: item_bag_category_evolution
 TEXT: Evolutions
 
 RESOURCE ID: item_bag_category_featured
-TEXT: Featured
+TEXT: 精選道具
 
 RESOURCE ID: item_bag_category_gifts
 TEXT: 友情禮物
@@ -54631,6 +54646,9 @@ TEXT: 只要擁有這張入場券，不論你身在何處，都能在當地時�
 RESOURCE ID: item_event_ticket_gray_desc_raikoushadowraidday
 TEXT: 只要擁有這張入場券，不論你身在何處，都能在當地時間2026年1月24日17:00為止領取特別的獎勵。
 
+RESOURCE ID: item_event_ticket_gray_desc_sandilehatchday26
+TEXT: 只要擁有這張入場券，不論你身在何處，都能在當地時間2026年10月17日11:00～17:00參與黑眼鱷孵化日特級限時調查。
+
 RESOURCE ID: item_event_ticket_gray_desc_shadowgroudonraidweekend
 TEXT: 只要擁有這張入場券，不論你身在何處，都能在當地時間2025年9月21日22:00為止領取特別的獎勵。
 
@@ -54816,6 +54834,9 @@ TEXT: 入場券將會自動啟用，不論你身在何處，都能在當地時�
 
 RESOURCE ID: item_event_ticket_gray_details_raikoushadowraidday
 TEXT: 入場券將會自動啟動。不論你身在何處，都能在當地時間1月24日領取特別的獎勵。
+
+RESOURCE ID: item_event_ticket_gray_details_sandilehatchday26
+TEXT: 入場券將會自動啟用，不論你身在何處，都能在10月17日開始參與「黑眼鱷孵化日」特級限時調查。
 
 RESOURCE ID: item_event_ticket_gray_details_shadowgroudonraidweekend
 TEXT: 入場券將會自動啟動。不論你身在何處，都能在當地時間2025年9月20日領取特別的獎勵。
@@ -57183,7 +57204,7 @@ RESOURCE ID: kr_hangul_day_2026_title
 TEXT: 韓文日2026
 
 RESOURCE ID: kr_hangul_day_2026_bonus_desc
-TEXT: 為慶祝韓文日，活動主題寶可夢出現在地圖上，且使用薰香或誘餌模組就有機會吸引到特殊寶可夢
+TEXT: 為慶祝韓文日，活動主題寶可夢會出現在地圖上，且使用薰香或誘餌模組就有機會吸引到特殊寶可夢
 
 RESOURCE ID: kr_hangul_day_sep2026_cc_title
 TEXT: 韓文日2026收藏家挑戰
@@ -60957,7 +60978,7 @@ RESOURCE ID: mall_event_apac_30th_anniversary_tr_desc
 TEXT: 完成限時調查後，就能遇見戴著派對帽的皮卡丘和最初的夥伴寶可夢們
 
 RESOURCE ID: manage_gifts_header
-TEXT: Manage Gifts
+TEXT: 整理友情禮物
 
 RESOURCE ID: manage_items_button
 TEXT: 整理道具
@@ -62680,10 +62701,10 @@ at SHA 4d4f3e80cc7fb911006bd14d198c9831ef66d005
 Pipeline 339838, job 2672172
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-09-25T23:26:39.461892+00:00 for zh-TW
-at SHA 698575e11e6
-Pipeline 3971666, job 58475858
-Patch from: 0.431.0-SHA-bb90cc49-RC3, 0.429.2-SHA-ad36de78-RC2
+TEXT: Built at 2026-09-29T01:11:14.795037+00:00 for zh-TW
+at SHA 8cfff611670
+Pipeline 3977616, job 58549183
+Patch from: 0.431.0-SHA-873aaf5c-RC2, 0.429.1-SHA-5521c4dc-RC1, 0.433.0-SHA-d37b1aa1-RC1
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: 限時調查：格鬥屬性
@@ -79360,13 +79381,13 @@ RESOURCE ID: pokemon_info_multi_transfer_ultra_beast_pokemon_error
 TEXT: 不能選擇究極異獸
 
 RESOURCE ID: pokemon_info_no_evolve_pokemon
-TEXT: No Pokémon can use this item to evolve.
+TEXT: 沒有可使用這個道具進化的寶可夢
 
 RESOURCE ID: pokemon_info_no_fainted_pokemon
-TEXT: No Pokémon need to be revived.
+TEXT: 沒有需要回復的寶可夢
 
 RESOURCE ID: pokemon_info_no_hurt_pokemon
-TEXT: All Pokémon are fully healed.
+TEXT: 所有寶可夢都活力充沛
 
 RESOURCE ID: pokemon_info_no_stats_available
 TEXT: 沒有可鍛鍊的項目
@@ -88658,7 +88679,7 @@ RESOURCE ID: quest_explore_buddy_dark
 TEXT: 將惡屬性的寶可夢設成夥伴，並和牠一起探索，取得1顆糖果
 
 RESOURCE ID: quest_explore_buddy_dragon
-TEXT: Earn a Candy exploring with a Dragon-type as your buddy
+TEXT: Earn a Candy exploring with a Dragon type as your buddy
 
 RESOURCE ID: quest_explore_buddy_electric
 TEXT: 將電屬性的寶可夢設成夥伴，並和牠一起探索，取得1顆糖果
@@ -88673,7 +88694,7 @@ RESOURCE ID: quest_explore_buddy_poison
 TEXT: 將毒屬性的寶可夢設成夥伴，並和牠一起探索，取得1顆糖果
 
 RESOURCE ID: quest_explore_buddy_steel
-TEXT: Earn a Candy exploring with a Steel-type as your buddy
+TEXT: Earn a Candy exploring with a Steel type as your buddy
 
 RESOURCE ID: quest_explore_buddy_routes_plural
 TEXT: 和夥伴一起探索路線，取得{0}顆糖果
@@ -90200,7 +90221,7 @@ RESOURCE ID: quest_partner_spin_rally_aeonmall
 TEXT: 旋轉{0}個AEON Mall的寶可補給站或道館轉盤
 
 RESOURCE ID: quest_partner_spin_rally_familymart
-TEXT: Spin {0} Familymart PokéStops or Gyms
+TEXT: 旋轉{0}個全家便利商店的寶可補給站或道館轉盤
 
 RESOURCE ID: quest_partner_spin_rally_mcdonalds
 TEXT: 旋轉{0}個麥當勞的寶可補給站或道館轉盤
@@ -112104,7 +112125,7 @@ RESOURCE ID: recycle_dialog_suffix
 TEXT: {0}？
 
 RESOURCE ID: recycle_discard_all
-TEXT: YES, DISCARD ALL
+TEXT: 是，我要全部丟棄
 
 RESOURCE ID: reduced_buddy_candy_distance_routes
 TEXT: 和夥伴一起探索路線，獲得糖果所需的距離縮減
@@ -116628,6 +116649,15 @@ TEXT: Safari Zone
 RESOURCE ID: safety_warning_yes
 TEXT: 我不是駕駛
 
+RESOURCE ID: sandile_hatch_day_event_name
+TEXT: 黑眼鱷孵化日
+
+RESOURCE ID: sandile_hatch_day_free_tr
+TEXT: 黑眼鱷孵化日限時調查
+
+RESOURCE ID: sandile_hatch_day_paid_tr
+TEXT: 黑眼鱷孵化日特級限時調查
+
 RESOURCE ID: sapphire_badge_today_view
 TEXT: 藍寶石版
 
@@ -117927,6 +117957,9 @@ TEXT: 詳情請至 <a href="https://pokemongo.com/go-pass">網站</a>確認
 RESOURCE ID: season_pass_details_link_november2025
 TEXT: （詳情請至<a href="https://pokemongo.com/go-pass">網站</a>確認）
 
+RESOURCE ID: season_pass_details_link_oct2026
+TEXT: 詳情請至<a href="https://pokemongo.com/news/go-pass-october-2026">網站</a>確認
+
 RESOURCE ID: season_pass_details_link_october2025
 TEXT: 詳情請至<a href="https://pokemongo.com/go-pass">網站</a>確認
 
@@ -118201,6 +118234,19 @@ TEXT: 如果購買GO Pass豪華版：11月，將能解鎖下列獎勵！
 
 ・1個超級孵化器
 ・能成為亮晶晶好朋友的道具「<a href="https://scopelyexplore.helpshift.com/hc/faq/1147-what-is-the-lucky-trinket/">亮晶晶首飾</a>」
+・其他
+
+RESOURCE ID: season_pass_oct2026_event_duration
+TEXT: 10月6日～11月3日
+
+RESOURCE ID: season_pass_oct2026_track_upgrade_header_description
+TEXT: 可獲得追加的獎勵，並且在級別升上100級後解鎖<b>亮晶晶首飾</b>！
+
+RESOURCE ID: season_pass_oct2026_upgrade_description
+TEXT: 如果購買GO Pass豪華版：10月，將能解鎖下列獎勵！
+
+・1個超級孵化器
+・能成為亮晶晶好朋友的道具「<a href="https://niantic.helpshift.com/hc/faq/4945-what-is-the-lucky-trinket/">亮晶晶首飾</a>」
 ・其他
 
 RESOURCE ID: season_pass_october2025_event_duration
@@ -124715,10 +124761,10 @@ RESOURCE ID: steel_and_scales_event_name
 TEXT: 究極解鎖：鋼＆鱗片
 
 RESOURCE ID: steel_poi_spin_plural
-TEXT: Spin {0} Steel type-themed PokéStops
+TEXT: Spin {0} Steel type–themed PokéStops
 
 RESOURCE ID: steel_poi_spin_singular
-TEXT: Spin a Steel type-themed PokéStop
+TEXT: Spin a Steel type–themed PokéStop
 
 RESOURCE ID: steel_scales_uu_july2025_cc_bagon
 TEXT: 鋼＆鱗片
@@ -127925,6 +127971,14 @@ TEXT: <b>可獲得的獎勵：</b>
 ・2個超級孵化器
 ・1個星星碎片
 ・10000XP和5000星星沙子等
+
+RESOURCE ID: text_rewards_key_sandilehatchday26
+TEXT: <b>可獲得的獎勵：</b>
+・2個超級孵化器
+・1個星星碎片
+・10000XP
+・5000星星沙子
+・孵蛋距離減為1/4等
 
 RESOURCE ID: text_rewards_key_scatteredwindsfeb25
 TEXT: <b>可獲得的獎勵：</b>

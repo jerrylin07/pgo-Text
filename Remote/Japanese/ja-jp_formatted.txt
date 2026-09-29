@@ -12802,28 +12802,28 @@ RESOURCE ID: badge_gowa_2025_special_research_b_title
 TEXT: フェアリーフル
 
 RESOURCE ID: badge_gowa_2026_cdmx_addon_battle_title
-TEXT: GO Wild Area 2026 – Mexico City: Battle Ready
+TEXT: GO Wild Area: Battle Ready
 
 RESOURCE ID: badge_gowa_2026_cdmx_addon_friday_title
-TEXT: GO Wild Area 2026 – Mexico City: Extra Day (Friday)
+TEXT: GO Wild Area 2026: Extra Day (Friday)
 
 RESOURCE ID: badge_gowa_2026_cdmx_addon_hatch_title
-TEXT: GO Wild Area 2026 – Mexico City: Egg–thusiast
+TEXT: GO Wild Area 2026: Egg-thusiast
 
 RESOURCE ID: badge_gowa_2026_cdmx_addon_saturday_title
-TEXT: GO Wild Area 2026 – Mexico City: Extra Day (Saturday)
+TEXT: GO Wild Area 2026: Extra Day (Saturday)
 
 RESOURCE ID: badge_gowa_2026_cdmx_addon_sunday_title
-TEXT: GO Wild Area 2026 – Mexico City: Extra Day (Sunday)
+TEXT: GO Wild Area 2026: Extra Day (Sunday)
 
 RESOURCE ID: badge_gowa_2026_cdmx_friday_title
-TEXT: GO Wild Area 2026 – Mexico City: Friday
+TEXT: GO Wild Area 2026: Friday
 
 RESOURCE ID: badge_gowa_2026_cdmx_saturday_title
-TEXT: GO Wild Area 2026 – Mexico City: Saturday
+TEXT: GO Wild Area 2026: Saturday
 
 RESOURCE ID: badge_gowa_2026_cdmx_sunday_title
-TEXT: GO Wild Area 2026 – Mexico City: Sunday
+TEXT: GO Wild Area 2026: Sunday
 
 RESOURCE ID: badge_gowa_2026_cdmx_test_addon_battle_title
 TEXT: GO Wild Area 2026 – Mexico City: Battle Ready (Test)
@@ -12844,28 +12844,28 @@ RESOURCE ID: badge_gowa_2026_global_title
 TEXT: GO Wild Area 2026
 
 RESOURCE ID: badge_gowa_2026_sendai_addon_battle_title
-TEXT: GO Wild Area 2026 – Sendai・Tohoku: Battle Ready
+TEXT: GO Wild Area 2026: Battle Ready
 
 RESOURCE ID: badge_gowa_2026_sendai_addon_friday_title
-TEXT: GO Wild Area 2026 – Sendai・Tohoku: Extra Day (Friday)
+TEXT: GO Wild Area: Extra Day (Friday)
 
 RESOURCE ID: badge_gowa_2026_sendai_addon_hatch_title
-TEXT: GO Wild Area 2026 – Sendai・Tohoku: Egg–thusiast
+TEXT: GO Wild Area 2026: Egg-thusiast
 
 RESOURCE ID: badge_gowa_2026_sendai_addon_saturday_title
-TEXT: GO Wild Area 2026 – Sendai・Tohoku: Extra Day (Saturday)
+TEXT: GO Wild Area 2026: Extra Day (Saturday)
 
 RESOURCE ID: badge_gowa_2026_sendai_addon_sunday_title
-TEXT: GO Wild Area 2026 – Sendai・Tohoku: Extra Day (Sunday)
+TEXT: GO Wild Area 2026: Extra Day (Sunday)
 
 RESOURCE ID: badge_gowa_2026_sendai_friday_title
-TEXT: GO Wild Area 2026 – Sendai・Tohoku: Friday
+TEXT: GO Wild Area 2026: Friday
 
 RESOURCE ID: badge_gowa_2026_sendai_saturday_title
-TEXT: GO Wild Area 2026 – Sendai・Tohoku: Saturday
+TEXT: GO Wild Area 2026: Saturday
 
 RESOURCE ID: badge_gowa_2026_sendai_sunday_title
-TEXT: GO Wild Area 2026 – Sendai・Tohoku: Sunday
+TEXT: GO Wild Area 2026: Sunday
 
 RESOURCE ID: badge_gowa_2026_sendai_test_addon_battle_title
 TEXT: GO Wild Area 2026 – Sendai・Tohoku: Battle Ready (Test)
@@ -29035,11 +29035,23 @@ TEXT: 波佐見町
 RESOURCE ID: city_manhole_476
 TEXT: 五島市
 
+RESOURCE ID: city_manhole_477
+TEXT: 南牧村
+
+RESOURCE ID: city_manhole_478
+TEXT: 山ノ内町
+
+RESOURCE ID: city_manhole_479
+TEXT: 大町市
+
 RESOURCE ID: city_manhole_480
 TEXT: 諫早市
 
 RESOURCE ID: city_manhole_481
 TEXT: 西海市
+
+RESOURCE ID: city_manhole_482
+TEXT: 伊那市
 
 RESOURCE ID: city_manhole_483
 TEXT: 対馬市
@@ -32260,10 +32272,10 @@ RESOURCE ID: downloading_avatar_assets_warning_body
 TEXT: アセットのダウンロード中に問題が発生しました。通信状態を確認してゲームを再起動してください。
 
 RESOURCE ID: dragon_poi_spin_plural
-TEXT: Spin {0} Dragon type-themed PokéStops
+TEXT: Spin {0} Dragon type–themed PokéStops
 
 RESOURCE ID: dragon_poi_spin_singular
-TEXT: Spin a Dragon type-themed PokéStop
+TEXT: Spin a Dragon type–themed PokéStop
 
 RESOURCE ID: dragon_type_event
 TEXT: タイプ上昇：ドラゴン
@@ -41550,6 +41562,9 @@ TEXT: クルミルコミュニティ・デイチケット
 RESOURCE ID: general1.ticket_tynamocd24_title
 TEXT: シビシラスコミュニティ・デイチケット
 
+RESOURCE ID: general2.ticket.2_sandilehatchday26_title
+TEXT: メグロコふかの日プレミアムタイムチャレンジチケット
+
 RESOURCE ID: general2.ticket.5_megafalinksraidday
 TEXT: タイレーツスーパーメガレイドデイのチケット
 
@@ -50273,10 +50288,10 @@ RESOURCE ID: gowa_2026_all_weekend_ticketed
 TEXT: Pokémon GO Wild Area 2026: All Weekend (Ticket)
 
 RESOURCE ID: gowa_2026_cdmx
-TEXT: Pokémon GO Wild Area 2026: Mexico City
+TEXT: Pokémon GO Wild Area: Mexico City
 
 RESOURCE ID: gowa_2026_cdmx_extended_bonus
-TEXT: Pokémon GO Wild Area 2026: Mexico City – Extended Bonuses
+TEXT: Pokémon GO Wild Area: Mexico City – Extended Bonuses
 
 RESOURCE ID: gowa_2026_content_hashtag
 TEXT: Post photos with #GOWildArea2026, and we’ll share our favorites!
@@ -50333,10 +50348,10 @@ RESOURCE ID: gowa_2026_sat_ticketed
 TEXT: Pokémon GO Wild Area 2026: Saturday Event Hours (Ticket)
 
 RESOURCE ID: gowa_2026_sendai
-TEXT: Pokémon GO Wild Area 2026: Sendai・Tohoku
+TEXT: Pokémon GO Wild Area: Sendai・Tohoku
 
 RESOURCE ID: gowa_2026_sendai_extended_bonus
-TEXT: Pokémon GO Wild Area 2026: Sendai・Tohoku – Extended Bonuses
+TEXT: Pokémon GO Wild Area: Sendai・Tohoku – Extended Bonuses
 
 RESOURCE ID: gowa_2026_steel_badge_candy_xl_bonus
 TEXT: One additional Candy XL from catching Steel-type mighty Pokémon
@@ -54708,6 +54723,9 @@ TEXT: 現地時間2024年11月18日12:01AMから「ワイルドウィーク：�
 RESOURCE ID: item_event_ticket_gray_desc_raikoushadowraidday
 TEXT: 現地時間2026年1月24日5:00PMまでボーナスを受け取るためのチケット。
 
+RESOURCE ID: item_event_ticket_gray_desc_sandilehatchday26
+TEXT: 現地時間2026年10月17日11:00AM～5:00PMにメグロコふかの日のプレミアムタイムチャレンジが行えるチケット。
+
 RESOURCE ID: item_event_ticket_gray_desc_shadowgroudonraidweekend
 TEXT: 現地時間2025年9月21日10:00 PMまでボーナスを受け取るためのチケット。
 
@@ -54893,6 +54911,9 @@ TEXT: このチケットは自動的に発動し9月16日に「エスパーウ�
 
 RESOURCE ID: item_event_ticket_gray_details_raikoushadowraidday
 TEXT: このチケットは自動的に発動し1月24日にボーナスが受け取れるようになります。
+
+RESOURCE ID: item_event_ticket_gray_details_sandilehatchday26
+TEXT: このチケットは自動的に発動し10月17日に「メグロコふかの日」プレミアムタイムチャレンジが行えるようになります。
 
 RESOURCE ID: item_event_ticket_gray_details_shadowgroudonraidweekend
 TEXT: このチケットは自動的に発動し9月20日にボーナスが受け取れるようになります。
@@ -62760,10 +62781,10 @@ at SHA 4d4f3e80cc7fb911006bd14d198c9831ef66d005
 Pipeline 339838, job 2672172
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-09-25T23:26:39.461892+00:00 for ja-JP
-at SHA 698575e11e6
-Pipeline 3971666, job 58475858
-Patch from: 0.431.0-SHA-bb90cc49-RC3, 0.429.2-SHA-ad36de78-RC2
+TEXT: Built at 2026-09-29T01:11:14.795037+00:00 for ja-JP
+at SHA 8cfff611670
+Pipeline 3977616, job 58549183
+Patch from: 0.431.0-SHA-873aaf5c-RC2, 0.429.1-SHA-5521c4dc-RC1, 0.433.0-SHA-d37b1aa1-RC1
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: タイムチャレンジ：かくとうタイプ
@@ -88790,7 +88811,7 @@ RESOURCE ID: quest_explore_buddy_dark
 TEXT: 相棒のあくタイプポケモンと探索してアメを1個もらう
 
 RESOURCE ID: quest_explore_buddy_dragon
-TEXT: Earn a Candy exploring with a Dragon-type as your buddy
+TEXT: Earn a Candy exploring with a Dragon type as your buddy
 
 RESOURCE ID: quest_explore_buddy_electric
 TEXT: 相棒のでんきタイプポケモンと探索してアメを1個もらう
@@ -88805,7 +88826,7 @@ RESOURCE ID: quest_explore_buddy_poison
 TEXT: 相棒のどくタイプポケモンと探索してアメを1個もらう
 
 RESOURCE ID: quest_explore_buddy_steel
-TEXT: Earn a Candy exploring with a Steel-type as your buddy
+TEXT: Earn a Candy exploring with a Steel type as your buddy
 
 RESOURCE ID: quest_explore_buddy_routes_plural
 TEXT: ルートで相棒ポケモンと探索してアメを{0}個もらう
@@ -116630,6 +116651,15 @@ TEXT: Safari Zone
 RESOURCE ID: safety_warning_yes
 TEXT: 私は運転者ではありません
 
+RESOURCE ID: sandile_hatch_day_event_name
+TEXT: メグロコふかの日
+
+RESOURCE ID: sandile_hatch_day_free_tr
+TEXT: メグロコふかの日タイムチャレンジ
+
+RESOURCE ID: sandile_hatch_day_paid_tr
+TEXT: メグロコふかの日プレミアムタイムチャレンジ
+
 RESOURCE ID: sapphire_badge_today_view
 TEXT: サファイア
 
@@ -117935,6 +117965,9 @@ TEXT: 詳細は<a href="https://pokemongo.com/go-pass">ウェブサイト</a>で
 RESOURCE ID: season_pass_details_link_november2025
 TEXT: （詳細は<a href="https://pokemongo.com/go-pass">ウェブサイト</a>でご確認ください）
 
+RESOURCE ID: season_pass_details_link_oct2026
+TEXT: 詳細は<a href="https://pokemongo.com/news/go-pass-october-2026">ウェブサイト</a>でご確認ください
+
 RESOURCE ID: season_pass_details_link_october2025
 TEXT: 詳細は<a href="https://pokemongo.com/go-pass">ウェブサイト</a>でご確認ください
 
@@ -118209,6 +118242,19 @@ TEXT: GOパスデラックス：11月を購入すると以下のリワードが�
 
 ・スーパーふかそうち1個
 ・キラフレンドになれるアイテムの<a href="https://scopelyexplore.helpshift.com/hc/faq/1147-what-is-the-lucky-trinket/">キラチャーム</a>1個
+・その他
+
+RESOURCE ID: season_pass_oct2026_event_duration
+TEXT: 10月6日～11月3日
+
+RESOURCE ID: season_pass_oct2026_track_upgrade_header_description
+TEXT: 追加リワードを入手でき、ランク100で<b>キラチャーム</b>をアンロック！
+
+RESOURCE ID: season_pass_oct2026_upgrade_description
+TEXT: GOパスデラックス：10月を購入すると以下のリワードがアンロックできます！
+
+・スーパーふかそうち1個
+・キラフレンドになれるアイテムの<a href="https://niantic.helpshift.com/hc/faq/4945-what-is-the-lucky-trinket/">キラチャーム</a>1個
 ・その他
 
 RESOURCE ID: season_pass_october2025_event_duration
@@ -124745,10 +124791,10 @@ RESOURCE ID: steel_and_scales_event_name
 TEXT: ウルトラアンロック：ハガネ＆ウロコ
 
 RESOURCE ID: steel_poi_spin_plural
-TEXT: Spin {0} Steel type-themed PokéStops
+TEXT: Spin {0} Steel type–themed PokéStops
 
 RESOURCE ID: steel_poi_spin_singular
-TEXT: Spin a Steel type-themed PokéStop
+TEXT: Spin a Steel type–themed PokéStop
 
 RESOURCE ID: steel_scales_uu_july2025_cc_bagon
 TEXT: ハガネ＆ウロコ
@@ -127952,6 +127998,14 @@ TEXT: <b>もらえるもの：</b>
 ・スーパーふかそうち2個
 ・ほしのかけら1個
 ・10000XPと5000ほしのすな、など
+
+RESOURCE ID: text_rewards_key_sandilehatchday26
+TEXT: <b>適用ボーナス：</b>
+・スーパーふかそうち2個
+・ほしのかけら1個
+・10000XP
+・5000ほしのすな
+・タマゴふか距離1/4、など
 
 RESOURCE ID: text_rewards_key_scatteredwindsfeb25
 TEXT: <b>もらえるもの：</b>

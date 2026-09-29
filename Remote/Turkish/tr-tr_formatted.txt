@@ -12587,28 +12587,28 @@ RESOURCE ID: badge_gowa_2025_special_research_b_title
 TEXT: Peri Fanatiği
 
 RESOURCE ID: badge_gowa_2026_cdmx_addon_battle_title
-TEXT: GO Wild Area 2026 – Mexico City: Battle Ready
+TEXT: GO Wild Area: Battle Ready
 
 RESOURCE ID: badge_gowa_2026_cdmx_addon_friday_title
-TEXT: GO Wild Area 2026 – Mexico City: Extra Day (Friday)
+TEXT: GO Wild Area 2026: Extra Day (Friday)
 
 RESOURCE ID: badge_gowa_2026_cdmx_addon_hatch_title
-TEXT: GO Wild Area 2026 – Mexico City: Egg–thusiast
+TEXT: GO Wild Area 2026: Egg-thusiast
 
 RESOURCE ID: badge_gowa_2026_cdmx_addon_saturday_title
-TEXT: GO Wild Area 2026 – Mexico City: Extra Day (Saturday)
+TEXT: GO Wild Area 2026: Extra Day (Saturday)
 
 RESOURCE ID: badge_gowa_2026_cdmx_addon_sunday_title
-TEXT: GO Wild Area 2026 – Mexico City: Extra Day (Sunday)
+TEXT: GO Wild Area 2026: Extra Day (Sunday)
 
 RESOURCE ID: badge_gowa_2026_cdmx_friday_title
-TEXT: GO Wild Area 2026 – Mexico City: Friday
+TEXT: GO Wild Area 2026: Friday
 
 RESOURCE ID: badge_gowa_2026_cdmx_saturday_title
-TEXT: GO Wild Area 2026 – Mexico City: Saturday
+TEXT: GO Wild Area 2026: Saturday
 
 RESOURCE ID: badge_gowa_2026_cdmx_sunday_title
-TEXT: GO Wild Area 2026 – Mexico City: Sunday
+TEXT: GO Wild Area 2026: Sunday
 
 RESOURCE ID: badge_gowa_2026_cdmx_test_addon_battle_title
 TEXT: GO Wild Area 2026 – Mexico City: Battle Ready (Test)
@@ -12629,28 +12629,28 @@ RESOURCE ID: badge_gowa_2026_global_title
 TEXT: GO Wild Area 2026
 
 RESOURCE ID: badge_gowa_2026_sendai_addon_battle_title
-TEXT: GO Wild Area 2026 – Sendai・Tohoku: Battle Ready
+TEXT: GO Wild Area 2026: Battle Ready
 
 RESOURCE ID: badge_gowa_2026_sendai_addon_friday_title
-TEXT: GO Wild Area 2026 – Sendai・Tohoku: Extra Day (Friday)
+TEXT: GO Wild Area: Extra Day (Friday)
 
 RESOURCE ID: badge_gowa_2026_sendai_addon_hatch_title
-TEXT: GO Wild Area 2026 – Sendai・Tohoku: Egg–thusiast
+TEXT: GO Wild Area 2026: Egg-thusiast
 
 RESOURCE ID: badge_gowa_2026_sendai_addon_saturday_title
-TEXT: GO Wild Area 2026 – Sendai・Tohoku: Extra Day (Saturday)
+TEXT: GO Wild Area 2026: Extra Day (Saturday)
 
 RESOURCE ID: badge_gowa_2026_sendai_addon_sunday_title
-TEXT: GO Wild Area 2026 – Sendai・Tohoku: Extra Day (Sunday)
+TEXT: GO Wild Area 2026: Extra Day (Sunday)
 
 RESOURCE ID: badge_gowa_2026_sendai_friday_title
-TEXT: GO Wild Area 2026 – Sendai・Tohoku: Friday
+TEXT: GO Wild Area 2026: Friday
 
 RESOURCE ID: badge_gowa_2026_sendai_saturday_title
-TEXT: GO Wild Area 2026 – Sendai・Tohoku: Saturday
+TEXT: GO Wild Area 2026: Saturday
 
 RESOURCE ID: badge_gowa_2026_sendai_sunday_title
-TEXT: GO Wild Area 2026 – Sendai・Tohoku: Sunday
+TEXT: GO Wild Area 2026: Sunday
 
 RESOURCE ID: badge_gowa_2026_sendai_test_addon_battle_title
 TEXT: GO Wild Area 2026 – Sendai・Tohoku: Battle Ready (Test)
@@ -26654,11 +26654,23 @@ TEXT: Hasami
 RESOURCE ID: city_manhole_476
 TEXT: Goto
 
+RESOURCE ID: city_manhole_477
+TEXT: Minamimaki
+
+RESOURCE ID: city_manhole_478
+TEXT: Yamanouchi
+
+RESOURCE ID: city_manhole_479
+TEXT: Omachi
+
 RESOURCE ID: city_manhole_480
 TEXT: Isahaya
 
 RESOURCE ID: city_manhole_481
 TEXT: Saikai
+
+RESOURCE ID: city_manhole_482
+TEXT: Ina
 
 RESOURCE ID: city_manhole_483
 TEXT: Tsushima
@@ -29856,10 +29868,10 @@ RESOURCE ID: downloading_avatar_assets_warning_body
 TEXT: Varlıklar indirilirken bir sorun oluştu. Lütfen istikrarlı bir ağ erişiminiz olduğundan emin olun ve oyunu tekrar başlatın.
 
 RESOURCE ID: dragon_poi_spin_plural
-TEXT: Spin {0} Dragon type-themed PokéStops
+TEXT: Spin {0} Dragon type–themed PokéStops
 
 RESOURCE ID: dragon_poi_spin_singular
-TEXT: Spin a Dragon type-themed PokéStop
+TEXT: Spin a Dragon type–themed PokéStop
 
 RESOURCE ID: dragon_type_event
 TEXT: Tür Artışı: Ejderha
@@ -39176,6 +39188,9 @@ TEXT: Sewaddle Topluluk Günü Bileti
 RESOURCE ID: general1.ticket_tynamocd24_title
 TEXT: Tynamo Topluluk Günü Bileti
 
+RESOURCE ID: general2.ticket.2_sandilehatchday26_title
+TEXT: Yumurtadan Çıkan Sandile Günü Premium Süreli Araştırması Bileti
+
 RESOURCE ID: general2.ticket.5_megafalinksraidday
 TEXT: Falinks Süper Mega Akın Günü Bileti
 
@@ -47888,10 +47903,10 @@ RESOURCE ID: gowa_2026_all_weekend_ticketed
 TEXT: Pokémon GO Wild Area 2026: All Weekend (Ticket)
 
 RESOURCE ID: gowa_2026_cdmx
-TEXT: Pokémon GO Wild Area 2026: Mexico City
+TEXT: Pokémon GO Wild Area: Mexico City
 
 RESOURCE ID: gowa_2026_cdmx_extended_bonus
-TEXT: Pokémon GO Wild Area 2026: Mexico City – Extended Bonuses
+TEXT: Pokémon GO Wild Area: Mexico City – Extended Bonuses
 
 RESOURCE ID: gowa_2026_content_hashtag
 TEXT: Post photos with #GOWildArea2026, and we’ll share our favorites!
@@ -47948,10 +47963,10 @@ RESOURCE ID: gowa_2026_sat_ticketed
 TEXT: Pokémon GO Wild Area 2026: Saturday Event Hours (Ticket)
 
 RESOURCE ID: gowa_2026_sendai
-TEXT: Pokémon GO Wild Area 2026: Sendai・Tohoku
+TEXT: Pokémon GO Wild Area: Sendai・Tohoku
 
 RESOURCE ID: gowa_2026_sendai_extended_bonus
-TEXT: Pokémon GO Wild Area 2026: Sendai・Tohoku – Extended Bonuses
+TEXT: Pokémon GO Wild Area: Sendai・Tohoku – Extended Bonuses
 
 RESOURCE ID: gowa_2026_steel_badge_candy_xl_bonus
 TEXT: One additional Candy XL from catching Steel-type mighty Pokémon
@@ -52285,6 +52300,9 @@ TEXT: 18 Kasım 2024’te, yerel saatle 00.01’de başlayacak Vahşi Macera: Ak
 RESOURCE ID: item_event_ticket_gray_desc_raikoushadowraidday
 TEXT: 24 Ocak 2026, yerel saatle 17.00’ye kadar geçerli olacak özel bonuslara dilediğiniz yerden hak kazanmanıza olanak tanıyan bir bilet.
 
+RESOURCE ID: item_event_ticket_gray_desc_sandilehatchday26
+TEXT: 17 Ekim 2026, yerel saatle 11.00-17.00 arasında gerçekleşecek Yumurtadan Çıkan Sandile Günü premium süreli araştırmasına dilediğiniz yerden katılmanıza olanak tanıyan bir bilet.
+
 RESOURCE ID: item_event_ticket_gray_desc_shadowgroudonraidweekend
 TEXT: 21 Eylül 2025, yerel saatle 22.00’ye kadar geçerli olacak özel bonuslara dilediğiniz yerden hak kazanmanıza olanak tanıyan bir bilet.
 
@@ -52470,6 +52488,9 @@ TEXT: Bu bilet Muhteşem Psişik: İstila premium süreli araştırmasına diled
 
 RESOURCE ID: item_event_ticket_gray_details_raikoushadowraidday
 TEXT: Bu bilet 24 Ocak tarihinde geçerli olacak özel bonuslara dilediğiniz yerden hak kazanabilmeniz için otomatik olarak etkinleştirilecek.
+
+RESOURCE ID: item_event_ticket_gray_details_sandilehatchday26
+TEXT: Bu bilet Yumurtadan Çıkan Sandile Günü premium süreli araştırmasına dilediğiniz yerden erişebilmeniz için 17 Ekim’de otomatik olarak etkinleştirilecek.
 
 RESOURCE ID: item_event_ticket_gray_details_shadowgroudonraidweekend
 TEXT: Bu bilet özel bonuslara dilediğiniz yerden hak kazanabilmeniz için 20 Eylül’de otomatik olarak etkinleştirilecek.
@@ -60308,10 +60329,10 @@ at SHA 413df5befdbe0d00a543f8a142221526d63b719a
 Pipeline 834428, job 8736424
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-09-25T23:26:39.461892+00:00 for tr-TR
-at SHA 698575e11e6
-Pipeline 3971666, job 58475858
-Patch from: 0.431.0-SHA-bb90cc49-RC3, 0.429.2-SHA-ad36de78-RC2
+TEXT: Built at 2026-09-29T01:11:14.795037+00:00 for tr-TR
+at SHA 8cfff611670
+Pipeline 3977616, job 58549183
+Patch from: 0.431.0-SHA-873aaf5c-RC2, 0.429.1-SHA-5521c4dc-RC1, 0.433.0-SHA-d37b1aa1-RC1
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: Süreli Araştırma: Dövüşçünüzü Seçin
@@ -86110,7 +86131,7 @@ RESOURCE ID: quest_explore_buddy_dark
 TEXT: Bir Karanlık tür dostunuzken keşfe çıkarak bir şeker kazanın
 
 RESOURCE ID: quest_explore_buddy_dragon
-TEXT: Earn a Candy exploring with a Dragon-type as your buddy
+TEXT: Earn a Candy exploring with a Dragon type as your buddy
 
 RESOURCE ID: quest_explore_buddy_electric
 TEXT: Bir Elektrik türü dostunuzken keşfe çıkarak bir şeker kazanın
@@ -86125,7 +86146,7 @@ RESOURCE ID: quest_explore_buddy_poison
 TEXT: Bir Elektrik türü dostunuzken keşfe çıkarak bir şeker kazanın
 
 RESOURCE ID: quest_explore_buddy_steel
-TEXT: Earn a Candy exploring with a Steel-type as your buddy
+TEXT: Earn a Candy exploring with a Steel type as your buddy
 
 RESOURCE ID: quest_explore_buddy_routes_plural
 TEXT: Dostunuzla rota keşfederken {0} şeker kazanın
@@ -113871,6 +113892,15 @@ TEXT: Safari Bölgesi
 RESOURCE ID: safety_warning_yes
 TEXT: Yolcuyum
 
+RESOURCE ID: sandile_hatch_day_event_name
+TEXT: Yumurtadan Çıkan Sandile Günü
+
+RESOURCE ID: sandile_hatch_day_free_tr
+TEXT: Yumurtadan Çıkan Sandile Günü Süreli Araştırması
+
+RESOURCE ID: sandile_hatch_day_paid_tr
+TEXT: Yumurtadan Çıkan Sandile Günü Premium Süreli Araştırması
+
 RESOURCE ID: sapphire_badge_today_view
 TEXT: Sapphire Version
 
@@ -115165,6 +115195,9 @@ TEXT: Ayrıntıları <a href="https://pokemongo.com/go-pass">internet sitemizden
 RESOURCE ID: season_pass_details_link_november2025
 TEXT: Ayrıntıları <a href="https://pokemongo.com/go-pass">internet sitemizden</a> öğrenebilirsiniz.
 
+RESOURCE ID: season_pass_details_link_oct2026
+TEXT: Ayrıntıları <a href="https://pokemongo.com/news/go-pass-october-2026">internet sitemizden</a> öğrenebilirsiniz.
+
 RESOURCE ID: season_pass_details_link_october2025
 TEXT: Ayrıntıları <a href="https://pokemongo.com/go-pass">internet sitemizden</a> öğrenebilirsiniz.
 
@@ -115432,6 +115465,19 @@ RESOURCE ID: season_pass_november2025_upgrade_description
 TEXT: Lüks GO Bileti: Kasım’ı satın alarak şu ödüllerin kilidini açabilirsiniz:
 • Bir Süper Kuluçka Makinesi
 • Dilediğiniz bir arkadaşınızla anında Şanslı Arkadaş olma fırsatı sağlayan bir <a href="https://scopelyexplore.helpshift.com/hc/faq/1147-what-is-the-lucky-trinket/">Şanslı Süs Eşyası</a>
+• Ve daha fazlası!
+
+RESOURCE ID: season_pass_oct2026_event_duration
+TEXT: 6 Ekim-3 Kasım
+
+RESOURCE ID: season_pass_oct2026_track_upgrade_header_description
+TEXT: 100. rütbede ilave ödüller kazanıp <b>Şanslı Süs Eşyasının</b> kilidini açın!
+
+RESOURCE ID: season_pass_oct2026_upgrade_description
+TEXT: Lüks GO Bileti: Ekim’i satın alarak şu ödüllerin kilidini açabilirsiniz:
+
+• Bir Süper Kuluçka Makinesi
+• Dilediğiniz bir arkadaşınızla anında Şanslı Arkadaş olma fırsatı sağlayan bir <a href="https://niantic.helpshift.com/hc/faq/4945-what-is-the-lucky-trinket/">Şanslı Süs Eşyası</a>
 • Ve daha fazlası!
 
 RESOURCE ID: season_pass_october2025_event_duration
@@ -121939,10 +121985,10 @@ RESOURCE ID: steel_and_scales_event_name
 TEXT: Ultra Kilit Açma: Çelik ve Pul
 
 RESOURCE ID: steel_poi_spin_plural
-TEXT: Spin {0} Steel type-themed PokéStops
+TEXT: Spin {0} Steel type–themed PokéStops
 
 RESOURCE ID: steel_poi_spin_singular
-TEXT: Spin a Steel type-themed PokéStop
+TEXT: Spin a Steel type–themed PokéStop
 
 RESOURCE ID: steel_scales_uu_july2025_cc_bagon
 TEXT: Çelik ve Pul Toplama Görevi: Bagon
@@ -125141,6 +125187,14 @@ TEXT: <b>Şu ödülleri içerir:</b>
 • 2 Süper Kuluçka Makinesi
 • 1 Yıldız Parçası
 • 10.000 TP ve 5000 yıldız tozu
+
+RESOURCE ID: text_rewards_key_sandilehatchday26
+TEXT: <b>Şu bonusları içerir:</b>
+• 2 Süper Kuluçka Makinesi
+• 1 Yıldız Parçası
+• 10.000 TP
+• 5000 yıldız tozu
+• 1/4 çatlatma mesafesi
 
 RESOURCE ID: text_rewards_key_scatteredwindsfeb25
 TEXT: <b>Şu ödülleri içerir:</b>
