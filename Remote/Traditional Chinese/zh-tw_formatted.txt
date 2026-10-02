@@ -12749,7 +12749,7 @@ RESOURCE ID: badge_gowa_2026_sendai_addon_battle_title
 TEXT: GO Wild Area 2026: Battle Ready
 
 RESOURCE ID: badge_gowa_2026_sendai_addon_friday_title
-TEXT: GO Wild Area: Extra Day (Friday)
+TEXT: GO Wild Area 2026: Extra Day (Friday)
 
 RESOURCE ID: badge_gowa_2026_sendai_addon_hatch_title
 TEXT: GO Wild Area 2026: Egg-thusiast
@@ -21773,6 +21773,9 @@ TEXT: 只要遊玩路線，就有機會找到基格爾德・細胞。收集到�
 
 RESOURCE ID: breakfast_tappable_tutorial_body_temp
 TEXT: 只要完成路線，就能找到基格爾德・細胞。收集到所需數量的細胞後，即可合成基格爾德。
+
+RESOURCE ID: breakfast_tappable_tutorial_body_temp2
+TEXT: Collect up to 3 Zygarde Cells per day by completing Routes. Assemble your Cells to create different Zygarde forms.
 
 RESOURCE ID: breakthrough_free_remote_raid_pass
 TEXT: 完成突破性進展，獲得遠距團體戰入場券
@@ -31789,6 +31792,9 @@ TEXT: 詳情請至<a href="https://pokemongolive.com/news">網站</a>確認
 RESOURCE ID: details_link_key_dmax_ho_oh
 TEXT: （詳情請至<a href="https://pokemongo.com/news/ho-oh-max-battle-weekend-2026">網站</a>確認）
 
+RESOURCE ID: details_link_key_dmax_sinnoh_lake_max_battle
+TEXT: 詳情請至<a href="https://pokemongo.com/news/dynamax-uxie-mesprit-azelf-max-battle-day-2026">網站</a>確認
+
 RESOURCE ID: details_link_key_entei_shadow_raid_day
 TEXT: 詳情請至 <a href="https://pokemongolive.com/news/shadow-entei-raid-day-2026">網站</a>確認
 
@@ -31981,6 +31987,9 @@ TEXT: 野生百變怪可能會帶著活動主題特別背卡
 RESOURCE ID: dmax_articuno_max_battles
 TEXT: 極巨化的急凍鳥在極巨對戰中出現了
 
+RESOURCE ID: dmax_azelf_lake_max_battles
+TEXT: 極巨化的亞克諾姆在極巨對戰中出現了
+
 RESOURCE ID: dmax_battle_win_plural
 TEXT: 在極巨化對戰中獲勝{0}次
 
@@ -32047,6 +32056,9 @@ TEXT: 極巨化洛奇亞極巨對戰週末
 RESOURCE ID: dmax_lugia_weekend_timed_research
 TEXT: 極巨化洛奇亞極巨對戰週末限時調查
 
+RESOURCE ID: dmax_mesprit_lake_max_battles
+TEXT: 極巨化的艾姆利多在極巨對戰中出現了
+
 RESOURCE ID: dmax_moltres_max_battles
 TEXT: 極巨化的火焰鳥在極巨對戰中出現了
 
@@ -32059,6 +32071,10 @@ TEXT: 極巨化雷公極巨對戰週末
 RESOURCE ID: dmax_raikou_weekend_timed_research
 TEXT: 極巨化雷公極巨對戰週末限時調查
 
+RESOURCE ID: dmax_sinnoh_lake_mbd_tr_oct26
+TEXT: 極巨化由克希／艾姆利多／亞克諾姆
+極巨對戰日特級限時調查
+
 RESOURCE ID: dmax_suicune_max_battles
 TEXT: 極巨化的水君在極巨對戰中出現了
 
@@ -32067,6 +32083,9 @@ TEXT: 極巨化水君極巨對戰週末
 
 RESOURCE ID: dmax_suicune_weekend_timed_research
 TEXT: 極巨化水君極巨對戰週末限時調查
+
+RESOURCE ID: dmax_uxie_lake_max_battles
+TEXT: 極巨化的由克希在極巨對戰中出現了
 
 RESOURCE ID: dmax_zapdos_max_battles
 TEXT: 極巨化的閃電鳥在極巨對戰中出現了
@@ -41556,6 +41575,10 @@ TEXT: 超級噴火駝團體戰日入場券
 RESOURCE ID: general2.ticket.5_megakangaskhanraidday_title
 TEXT: 超級袋獸團體戰日入場券
 
+RESOURCE ID: general2.ticket.6.dmax_sinnoh_lake_max_battle
+TEXT: 極巨化由克希／艾姆利多／亞克諾姆
+極巨對戰日入場券
+
 RESOURCE ID: general2.ticket.6.replay_go_bigger
 TEXT: 再玩一次：巨大個GO入場券
 
@@ -41874,7 +41897,7 @@ RESOURCE ID: gift_from_sponsor
 TEXT: Open a Gift from a Sponsor!
 
 RESOURCE ID: gift_multi_delete_complete
-TEXT: 已解除選項
+TEXT: 已清除所選
 
 RESOURCE ID: gift_multi_delete_plural
 TEXT: 要丟棄{0}個友情禮物嗎？
@@ -52655,6 +52678,9 @@ TEXT: 今天結束
 RESOURCE ID: iap_sale_time_left_label
 TEXT: 剩餘時間：
 
+RESOURCE ID: ibfc_minior_transformed
+TEXT: Minior transformed!
+
 RESOURCE ID: ibfc_warn_needed_move
 TEXT: 在對戰中需有{0}才能形態變化
 
@@ -55488,6 +55514,12 @@ TEXT: 只要擁有這張入場券，不論你身在何處，都能在當地時�
 RESOURCE ID: item_event_ticket_s24_oct_3_maxbattle_details_gmaxcinderace26
 TEXT: 入場券將會自動啟動。不論你身在何處，都能在當地時間2026年10月3日領取特別的獎勵。
 
+RESOURCE ID: item_event_ticket_s24_oct_24_maxbattle_desc
+TEXT: 只要擁有這張入場券，不論你身在何處，都能在當地時間2026年10月24日14:00～17:00領取特別的獎勵。
+
+RESOURCE ID: item_event_ticket_s24_oct_24_maxbattle_details
+TEXT: 入場券將會自動啟動。不論你身在何處，都能在當地時間2026年10月24日領取特別的獎勵。
+
 RESOURCE ID: item_event_ticket_to_gift_desc
 TEXT: 由於購買入場券贈送給朋友時發生錯誤，未能將這張入場券送出去。你可以把它轉送給其他朋友，或是申請退費。
 
@@ -57098,28 +57130,28 @@ RESOURCE ID: kr_ditto_event_2025_tr_name_3
 TEXT: 樣紫百變限時調查(3/3)
 
 RESOURCE ID: kr_fcseoul_collab_2026_title
-TEXT: FC Seoul Event 2026
+TEXT: FC首爾活動2026
 
 RESOURCE ID: kr_fcseoul_collab_2026_bonus_raid_lc_desc
-TEXT: During event hours on October 24, Charmander caught from raids around the Seoul World Cup Stadium event area may have an exclusive Location Background
+TEXT: 10月24日活動舉辦時在首爾世界盃競技場活動區域附近的團體戰捕捉到的小火龍可能會帶著紀念背卡
 
 RESOURCE ID: kr_fcseoul_collab_2026_bonus_tr_lc_desc
-TEXT: Charizard encountered from event Timed Research will have an exclusive Location Background
+TEXT: 從活動的限時調查捕捉到的噴火龍會帶著紀念背卡
 
 RESOURCE ID: kr_fcseoul_collab_2026_bonus_wild_pokemon
-TEXT: Catch Fire-type Pokémon around the Seoul World Cup Stadium event area—let’s fire it up for FC Seoul!
+TEXT: 在首爾世界盃競技場活動區域附近捕捉火屬性寶可夢來支持FC首爾！
 
 RESOURCE ID: kr_fcseoul_collab_2026_tr_name
-TEXT: FC Seoul Event 2026 Timed Research
+TEXT: FC首爾活動2026限時調查
 
 RESOURCE ID: kr_fcseoul_collab_2026_tr_name_1
-TEXT: FC Seoul Event 2026 Timed Research (1/3)
+TEXT: FC首爾活動2026限時調查(1/3)
 
 RESOURCE ID: kr_fcseoul_collab_2026_tr_name_2
-TEXT: FC Seoul Event 2026 Timed Research (2/3)
+TEXT: FC首爾活動2026限時調查(2/3)
 
 RESOURCE ID: kr_fcseoul_collab_2026_tr_name_3
-TEXT: FC Seoul Event 2026 Timed Research (3/3)
+TEXT: FC首爾活動2026限時調查(3/3)
 
 RESOURCE ID: kr_festival_fr_location_background
 TEXT: 從田野調查課題捕捉到的四季鹿和穿著服飾的皮卡丘可能會帶著紀念背卡
@@ -61723,6 +61755,14 @@ TEXT: 在極巨對戰獲勝時XP變成2倍
 RESOURCE ID: max_battle_day_dmax_ho_oh_ticketed
 TEXT: 極巨化鳳王極巨對戰週末入場券獎勵
 
+RESOURCE ID: max_battle_day_dmax_sinnoh_lake_ticketed
+TEXT: 極巨化由克希／艾姆利多／亞克諾姆
+極巨對戰日入場券獎勵
+
+RESOURCE ID: max_battle_day_dmax_sinnoh_lake_event_name
+TEXT: 極巨化由克希／艾姆利多／亞克諾姆
+極巨對戰日
+
 RESOURCE ID: max_battle_day_gigantamax_butterfree_ticketed
 TEXT: 巴大蝶（超極巨化）
 極巨對戰日入場券獎勵
@@ -62701,10 +62741,16 @@ at SHA 4d4f3e80cc7fb911006bd14d198c9831ef66d005
 Pipeline 339838, job 2672172
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-09-29T01:11:14.795037+00:00 for zh-TW
-at SHA 8cfff611670
-Pipeline 3977616, job 58549183
-Patch from: 0.431.0-SHA-873aaf5c-RC2, 0.429.1-SHA-5521c4dc-RC1, 0.433.0-SHA-d37b1aa1-RC1
+TEXT: Built at 2026-10-02T01:29:28.079524+00:00 for zh-TW
+at SHA a4a89ae58b0
+Pipeline 3987814, job 58728214
+Patch from: 0.431.0-SHA-98b5070c-RC6, 0.429.2-SHA-ad36de78-RC2, 0.433.0-SHA-d37b1aa1-RC1
+
+RESOURCE ID: meteor_title_1
+TEXT: 流星雨
+
+RESOURCE ID: meteor_desc_1
+TEXT: 在看得到流星雨的夜裡，小隕星有可能出現。
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: 限時調查：格鬥屬性
@@ -64314,8 +64360,23 @@ TEXT: <<move_name_0275>>+
 RESOURCE ID: move_name_0497
 TEXT: 等離子閃電拳
 
+RESOURCE ID: move_name_0498
+TEXT: <<move_name_0296>>+
+
+RESOURCE ID: move_name_0499
+TEXT: <<move_name_0083>>+
+
+RESOURCE ID: move_name_0500
+TEXT: <<move_name_0298>>+
+
+RESOURCE ID: move_name_0501
+TEXT: <<move_name_0299>>+
+
 RESOURCE ID: move_name_0502
 TEXT: <<move_name_0311>>+
+
+RESOURCE ID: move_name_0503
+TEXT: <<move_name_0122>>+
 
 RESOURCE ID: move_name_0504
 TEXT: <<move_name_0399>>+
@@ -64326,17 +64387,47 @@ TEXT: <<move_name_0252>>+
 RESOURCE ID: move_name_0506
 TEXT: <<move_name_0087>>+
 
+RESOURCE ID: move_name_0507
+TEXT: <<move_name_0060>>+
+
 RESOURCE ID: move_name_0508
 TEXT: <<move_name_0303>>+
 
 RESOURCE ID: move_name_0509
 TEXT: <<move_name_0488>>+
 
+RESOURCE ID: move_name_0510
+TEXT: <<move_name_0070>>+
+
 RESOURCE ID: move_name_0512
 TEXT: <<move_name_0383>>+
 
+RESOURCE ID: move_name_0513
+TEXT: <<move_name_0045>>+
+
+RESOURCE ID: move_name_0514
+TEXT: <<move_name_0333>>+
+
 RESOURCE ID: move_name_0515
 TEXT: <<move_name_0277>>+
+
+RESOURCE ID: move_name_0516
+TEXT: <<move_name_0116>>+
+
+RESOURCE ID: move_name_0517
+TEXT: <<move_name_0379>>+
+
+RESOURCE ID: move_name_0518
+TEXT: <<move_name_0077>>+
+
+RESOURCE ID: move_name_0519
+TEXT: <<move_name_0267>>+
+
+RESOURCE ID: move_name_0520
+TEXT: <<move_name_0100>>+
+
+RESOURCE ID: move_name_0521
+TEXT: <<move_name_0306>>+
 
 RESOURCE ID: move_name_0522
 TEXT: <<move_name_0038>>+
@@ -64344,17 +64435,95 @@ TEXT: <<move_name_0038>>+
 RESOURCE ID: move_name_0523
 TEXT: <<move_name_0016>>+
 
+RESOURCE ID: move_name_0524
+TEXT: <<move_name_0032>>+
+
+RESOURCE ID: move_name_0525
+TEXT: <<move_name_0117>>+
+
+RESOURCE ID: move_name_0526
+TEXT: <<move_name_0317>>+
+
+RESOURCE ID: move_name_0527
+TEXT: <<move_name_0316>>+
+
+RESOURCE ID: move_name_0528
+TEXT: <<move_name_0086>>+
+
 RESOURCE ID: move_name_0529
 TEXT: <<move_name_0265>>+
+
+RESOURCE ID: move_name_0530
+TEXT: <<move_name_0088>>+
+
+RESOURCE ID: move_name_0531
+TEXT: <<move_name_0268>>+
+
+RESOURCE ID: move_name_0532
+TEXT: <<move_name_0408>>+
 
 RESOURCE ID: move_name_0533
 TEXT: <<move_name_0035>>+
 
+RESOURCE ID: move_name_0534
+TEXT: <<move_name_0279>>+
+
+RESOURCE ID: move_name_0535
+TEXT: <<move_name_0042>>+
+
+RESOURCE ID: move_name_0536
+TEXT: <<move_name_0084>>+
+
+RESOURCE ID: move_name_0537
+TEXT: <<move_name_0067>>+
+
+RESOURCE ID: move_name_0538
+TEXT: <<move_name_0036>>+
+
+RESOURCE ID: move_name_0539
+TEXT: <<move_name_0051>>+
+
+RESOURCE ID: move_name_0540
+TEXT: <<move_name_0066>>+
+
 RESOURCE ID: move_name_0541
 TEXT: <<move_name_0039>>+
 
+RESOURCE ID: move_name_0542
+TEXT: <<move_name_0341>>+
+
+RESOURCE ID: move_name_0543
+TEXT: <<move_name_0301>>+
+
+RESOURCE ID: move_name_0544
+TEXT: <<move_name_0366>>+
+
+RESOURCE ID: move_name_0545
+TEXT: <<move_name_0365>>+
+
+RESOURCE ID: move_name_0546
+TEXT: <<move_name_0384>>+
+
 RESOURCE ID: move_name_0547
 TEXT: <<move_name_0256>>+
+
+RESOURCE ID: move_name_0548
+TEXT: <<move_name_0245>>+
+
+RESOURCE ID: move_name_0549
+TEXT: <<move_name_0031>>+
+
+RESOURCE ID: move_name_0550
+TEXT: <<move_name_0285>>+
+
+RESOURCE ID: move_name_0551
+TEXT: <<move_name_0332>>+
+
+RESOURCE ID: move_name_0552
+TEXT: <<move_name_0247>>+
+
+RESOURCE ID: move_name_0553
+TEXT: <<move_name_0040>>+
 
 RESOURCE ID: move_name_0554
 TEXT: <<move_name_0330>>+
@@ -64362,11 +64531,32 @@ TEXT: <<move_name_0330>>+
 RESOURCE ID: move_name_0555
 TEXT: <<move_name_0293>>+
 
+RESOURCE ID: move_name_0556
+TEXT: <<move_name_0386>>+
+
+RESOURCE ID: move_name_0558
+TEXT: <<move_name_0101>>+
+
+RESOURCE ID: move_name_0559
+TEXT: <<move_name_0046>>+
+
+RESOURCE ID: move_name_0560
+TEXT: <<move_name_0085>>+
+
+RESOURCE ID: move_name_0561
+TEXT: <<move_name_0022>>+
+
 RESOURCE ID: move_name_0562
 TEXT: <<move_name_0471>>+
 
+RESOURCE ID: move_name_0563
+TEXT: <<move_name_0251>>+
+
 RESOURCE ID: move_name_0564
 TEXT: <<move_name_0069>>+
+
+RESOURCE ID: move_name_0565
+TEXT: <<move_name_0304>>+
 
 RESOURCE ID: move_name_0566
 TEXT: <<move_name_0059>>+
@@ -64377,14 +64567,53 @@ TEXT: <<move_name_0382>>+
 RESOURCE ID: move_name_0568
 TEXT: <<move_name_0284>>+
 
+RESOURCE ID: move_name_0569
+TEXT: <<move_name_0103>>+
+
+RESOURCE ID: move_name_0571
+TEXT: <<move_name_0108>>+
+
 RESOURCE ID: move_name_0572
 TEXT: <<move_name_0030>>+
+
+RESOURCE ID: move_name_0573
+TEXT: <<move_name_0028>>+
+
+RESOURCE ID: move_name_0574
+TEXT: <<move_name_0091>>+
+
+RESOURCE ID: move_name_0575
+TEXT: <<move_name_0331>>+
+
+RESOURCE ID: move_name_0577
+TEXT: <<move_name_0065>>+
+
+RESOURCE ID: move_name_0578
+TEXT: <<move_name_0314>>+
+
+RESOURCE ID: move_name_0579
+TEXT: <<move_name_0074>>+
 
 RESOURCE ID: move_name_0580
 TEXT: <<move_name_0080>>+
 
+RESOURCE ID: move_name_0582
+TEXT: <<move_name_0497>>+
+
 RESOURCE ID: move_name_0583
 TEXT: <<move_name_0123>>+
+
+RESOURCE ID: move_name_0584
+TEXT: <<move_name_0024>>+
+
+RESOURCE ID: move_name_0585
+TEXT: <<move_name_0372>>+
+
+RESOURCE ID: move_name_0586
+TEXT: <<move_name_0082>>+
+
+RESOURCE ID: move_name_0587
+TEXT: <<move_name_0359>>+
 
 RESOURCE ID: move_name_0590
 TEXT: 巨劍突擊
@@ -64397,6 +64626,9 @@ TEXT: 狙擊
 
 RESOURCE ID: move_name_0593
 TEXT: 潛水
+
+RESOURCE ID: move_name_0619
+TEXT: <<move_name_0064>>+
 
 RESOURCE ID: move_required_to_enable_adventure_effect
 TEXT: {0}沒有學會{1}，因此合體後不會學會具有冒險效果的招式
@@ -79048,6 +79280,9 @@ TEXT: 防禦變化
 RESOURCE ID: pokemon_ibfc_desc_0681
 TEXT: 這隻寶可夢使用特殊招式時會變成刀劍形態，使用防禦網時則會變成盾牌形態。
 
+RESOURCE ID: pokemon_ibfc_desc_0774
+TEXT: 擁有一半以上的HP時，外殼會裹住核心，此時防禦會提高。
+
 RESOURCE ID: pokemon_ibfc_desc_0845_3349
 TEXT: 在高HP的狀態下使出衝浪或潛水時，古月鳥就會叼來獵物。若受到特殊招式攻擊，就會朝對手吐出獵物。
 
@@ -79059,6 +79294,9 @@ TEXT: 這隻寶可夢在用了特殊招式後樣子會改變。空腹花紋時�
 
 RESOURCE ID: pokemon_ibfc_name_0681
 TEXT: 刀劍形態
+
+RESOURCE ID: pokemon_ibfc_name_0774
+TEXT: 流星的樣子
 
 RESOURCE ID: pokemon_ibfc_name_0778
 TEXT: 現形的樣子
@@ -115830,14 +116068,20 @@ TEXT: 旋轉寶可補給站或道館轉盤時有機會出現銀色凰梨果和�
 RESOURCE ID: sa_account_creation_prompt
 TEXT: 沒有 Niantic Kids 的帳號嗎？
 
+RESOURCE ID: sa_account_creation_prompt_temp
+TEXT: 沒有Kids @ Scopely Explore的帳號嗎？
+
 RESOURCE ID: sa_auth_failed
 TEXT: 無法進行認證，請再試一次。
 
 RESOURCE ID: sa_auth_failed_permissions
 TEXT: 請先讓家長或監護人登入Niantic Kids帳號，並開啟帳號許用使可後，再開始玩遊戲
 
+RESOURCE ID: sa_auth_failed_permissions_temp
+TEXT: 請先讓家長或監護人登入Kids @ Scopely Explore帳號，並開啟帳號許用使可後，再開始玩遊戲
+
 RESOURCE ID: sa_forgot_password_url
-TEXT: https://niantic-sso.kws.superawesome.tv/zh-tw/password/forgot
+TEXT: https://sso.scopelyexplore.kidswebservices.com/zh-tw/password/forgot
 
 RESOURCE ID: sa_login_title
 TEXT: Niantic for Kids
@@ -115845,14 +116089,23 @@ TEXT: Niantic for Kids
 RESOURCE ID: sa_login_button
 TEXT: Niantic for Kids
 
+RESOURCE ID: sa_login_button_temp
+TEXT: Kids @ Scopely Explore
+
 RESOURCE ID: sa_login_server_unreachable
 TEXT: Niantic Kids暫時無法連線，敬請見諒
 
+RESOURCE ID: sa_login_server_unreachable_temp
+TEXT: Kids @ Scopely Explore暫時無法連線，敬請見諒
+
+RESOURCE ID: sa_login_title_temp
+TEXT: Kids @ Scopely Explore
+
 RESOURCE ID: sa_parent_dashboard_url
-TEXT: https://parents.nianticlabs.com/zh-tw/login
+TEXT: https://app.parents.scopelyexplore.com/portal/zh-tw/login
 
 RESOURCE ID: sa_registration_url
-TEXT: https://niantic-sso.kws.superawesome.tv/zh-tw/register
+TEXT: https://scopelyexplore-sso.kws.superawesome.tv/zh-tw/register
 
 RESOURCE ID: sableye_drop_mega_energy
 TEXT: 若捕捉到勾魂眼，將有機會獲得勾魂眼超級能量
@@ -127189,6 +127442,11 @@ TEXT: <b>可獲得的獎勵：</b>
 ・完成五星極巨對戰時獲得的糖果與糖果XL增加
 ・完成後即可獲得6400極巨粒子的限時調查課題及25000XP
 
+RESOURCE ID: text_rewards_key_dmaxsinnohlakemaxbattle26
+TEXT: <b>可獲得的獎勵</b>
+・在極巨對戰獲勝時XP變成2倍
+・完成後即可獲得6400極巨粒子、25000XP及1個極巨菇菇的限時調查課題
+
 RESOURCE ID: text_rewards_key_enamorustherianraidday
 TEXT: <b>可獲得的獎勵：</b>
 ・1個隕石
@@ -133960,6 +134218,9 @@ TEXT: 在新路線上，薰香將能吸引到更多寶可夢
 
 RESOURCE ID: tutorial_route_bonus_2
 TEXT: 會出現特殊的寶可夢
+
+RESOURCE ID: tutorial_route_bonus_2_temp
+TEXT: Specific Pokémon may appear more often on Routes in the wild
 
 RESOURCE ID: tutorial_route_play_title_0
 TEXT: 路線的玩法

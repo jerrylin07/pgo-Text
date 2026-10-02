@@ -287,7 +287,7 @@ RESOURCE ID: about_screen_btn
 TEXT: Об игре
 
 RESOURCE ID: about_screen_copyright1
-TEXT: ©2016-2017 Scopely Explore, Inc.
+TEXT: ©2016–2026 Scopely Explore, Inc.
 
 RESOURCE ID: about_screen_copyright2
 TEXT: ©2016-2017 Pokémon.
@@ -431,7 +431,7 @@ RESOURCE ID: add_friends_privacy_prompt
 TEXT: Friends will see your Trainer profile, achievements, and Pokémon you have caught. Friends may also find out about your location when you send them a Gift or you trade Pokémon.
 
 RESOURCE ID: add_niantic_friend_tip
-TEXT: Если ты добавишь этого друга в этой игре, он станет твоим другом во всех играх Scopely Explore, в которые вы оба играете.
+TEXT: Если ты добавишь друга в этой игре, он станет твоим другом во всех играх Scopely Explore, в которые вы играете.
 
 RESOURCE ID: add_referrer_disabled
 TEXT: Не удалось установить связь.
@@ -2096,7 +2096,7 @@ RESOURCE ID: ardk_download_button
 TEXT: DOWNLOAD
 
 RESOURCE ID: ardk_download_confirm_title
-TEXT: AR-платформа Scopely Explore (пробная версия)
+TEXT: AR-Платформа Scopely Explore
 
 RESOURCE ID: ardk_download_confirm_body
 TEXT: Чтобы воспользоваться функцией AR-режима для приятеля, загрузи AR-платформу Scopely Explore. (Ты можешь отключить эту пробную версию в любое время.)
@@ -2121,7 +2121,7 @@ TEXT: Success!
 Welcome to shared AR experiences!
 
 RESOURCE ID: ardk_download_prompt_multiplayer_legal_tos_description
-TEXT: Scopely Explore будет обрабатывать геопространственные данные с твоей камеры во время сеанса дополненной реальности. {0}.
+TEXT: Scopely Explore будет обрабатывать геопространственные данные с твоей камеры во время AR-сеанса. {0}.
 
 RESOURCE ID: ardk_download_prompt_multiplayer_legal_tos_link_text
 TEXT: Learn more
@@ -12632,7 +12632,7 @@ RESOURCE ID: badge_gowa_2026_sendai_addon_battle_title
 TEXT: GO Wild Area 2026: Battle Ready
 
 RESOURCE ID: badge_gowa_2026_sendai_addon_friday_title
-TEXT: GO Wild Area: Extra Day (Friday)
+TEXT: GO Wild Area 2026: Extra Day (Friday)
 
 RESOURCE ID: badge_gowa_2026_sendai_addon_hatch_title
 TEXT: GO Wild Area 2026: Egg-thusiast
@@ -18389,7 +18389,7 @@ RESOURCE ID: bidoof_day_event
 TEXT: День Бидуфа
 
 RESOURCE ID: blacklisted_app_found_lockout
-TEXT: Мы обнаружили программное обеспечение, которое может мешать работе <i>Pokémon GO</i> на твоём устройстве. Это включает в себя приложения, которые фальсифицируют твоё местоположение. Использование несанкционированного программного обеспечения, которое напрямую влияет на <i>Pokémon Go</i>, является нарушением Условий предоставления услуг Scopely Explore и может привести к потере твоего аккаунта. Тебе нужно будет удалить такие приложения, чтобы продолжить игру.
+TEXT: Мы обнаружили программное обеспечение, которое может мешать работе Pokémon GO на твоём устройстве. Это включает в себя приложения, которые фальсифицируют твоё местоположение. Использование несанкционированного программного обеспечения, которое напрямую влияет на Pokémon GO, является нарушением Условий Предоставления Услуг Scopely Explore и может привести к потере твоего аккаунта. Тебе необходимо удалить такие приложения, чтобы продолжить игру.
 
 RESOURCE ID: blanche_inspire#1
 TEXT: Don’t give up.
@@ -21667,6 +21667,9 @@ TEXT: Во время прохождения маршрута ты можешь 
 
 RESOURCE ID: breakfast_tappable_tutorial_body_temp
 TEXT: После завершения Маршрута ты можешь найти Клетки Зайгарда. Их можно соединить, чтобы создать разные формы Зайгарда.
+
+RESOURCE ID: breakfast_tappable_tutorial_body_temp2
+TEXT: Collect up to 3 Zygarde Cells per day by completing Routes. Assemble your Cells to create different Zygarde forms.
 
 RESOURCE ID: breakthrough_free_remote_raid_pass
 TEXT: Пропуск на удалённый рейд за научный прорыв
@@ -31669,6 +31672,9 @@ TEXT: Чтобы узнать больше, посети <a href="https://pokemo
 RESOURCE ID: details_link_key_dmax_ho_oh
 TEXT: Чтобы узнать больше, посети <a href="https://pokemongo.com/news/ho-oh-max-battle-weekend-2026">этот сайт</a>.
 
+RESOURCE ID: details_link_key_dmax_sinnoh_lake_max_battle
+TEXT: Чтобы узнать больше, посети <a href="https://pokemongo.com/news/dynamax-uxie-mesprit-azelf-max-battle-day-2026">этот сайт</a>.
+
 RESOURCE ID: details_link_key_entei_shadow_raid_day
 TEXT: Чтобы узнать больше, посети <a href="https://pokemongolive.com/news/shadow-entei-raid-day-2026">этот сайт</a>.
 
@@ -31861,6 +31867,9 @@ TEXT: Дитто, пойманные дикими, могут иметь тем�
 RESOURCE ID: dmax_articuno_max_battles
 TEXT: Динамакс-Артикуно появляется в битвах макс
 
+RESOURCE ID: dmax_azelf_lake_max_battles
+TEXT: Динамакс-Азелф появляется в Битвах Макс
+
 RESOURCE ID: dmax_battle_win_plural
 TEXT: Победи в Динамакс-битвах ×{0}
 
@@ -31927,6 +31936,9 @@ TEXT: Выходные Битв Макс: Динамакс-Лугиа
 RESOURCE ID: dmax_lugia_weekend_timed_research
 TEXT: Квест на Время Выходные Битв Макс: Динамакс-Лугиа
 
+RESOURCE ID: dmax_mesprit_lake_max_battles
+TEXT: Динамакс-Месприт появляется в Битвах Макс
+
 RESOURCE ID: dmax_moltres_max_battles
 TEXT: Динамакс-Молтрес появляется в битвах макс
 
@@ -31939,6 +31951,9 @@ TEXT: Выходные битв макс: Динамакс-Райку
 RESOURCE ID: dmax_raikou_weekend_timed_research
 TEXT: Квест на время Выходные битв макс: Динамакс-Райку
 
+RESOURCE ID: dmax_sinnoh_lake_mbd_tr_oct26
+TEXT: Премиум-Квест на Время День Битв Макс: Динамакс-Юкси, Динамакс-Месприт и Динамакс-Азелф
+
 RESOURCE ID: dmax_suicune_max_battles
 TEXT: Динамакс-Суикун появляется в битвах макс
 
@@ -31947,6 +31962,9 @@ TEXT: Выходные Битв Макс: Динамакс-Суикун
 
 RESOURCE ID: dmax_suicune_weekend_timed_research
 TEXT: Квест на Время Выходные Битв Макс: Динамакс-Суикун
+
+RESOURCE ID: dmax_uxie_lake_max_battles
+TEXT: Динамакс-Юкси появляется в Битвах Макс
 
 RESOURCE ID: dmax_zapdos_max_battles
 TEXT: Динамакс-Запдос появляется в битвах макс
@@ -36366,7 +36384,7 @@ RESOURCE ID: fb_invite_import_friends_title
 TEXT: Import Friends from Facebook?
 
 RESOURCE ID: fb_invite_import_friends_info
-TEXT: Если ты решишь импортировать друзей из Facebook, Scopely Explore получит доступ к списку твоих друзей из Facebook, которые уже зарегистрированы в <i>Pokémon GO</i> и также выбрали импорт друзей из Facebook. Твоё имя профиля Facebook и изображение будут отображаться вместе с твоим именем Тренера. Ты всегда можешь передумать и удалить игроков из своего списка друзей <i>Pokémon GO</i> или изменить разрешения для своего приложения в Facebook. Для получения дополнительной информации посети Справочный центр.
+TEXT: Если ты решишь импортировать друзей из Facebook, Scopely Explore получит доступ к списку твоих друзей из Facebook, которые уже зарегистрированы в Pokémon GO и также выбрали импорт друзей из Facebook. Твоё имя профиля Facebook и изображение будут отображаться вместе с твоим именем Тренера. Ты всегда можешь передумать и удалить игроков из своего Списка Друзей Pokémon GO или изменить разрешения для своего приложения в Facebook. Для получения дополнительной информации посети Справочный Центр.
 
 RESOURCE ID: fb_invite_no_friends
 TEXT: Your Facebook Friends have not opted in to this feature yet. Check with your Friends on Facebook!
@@ -38919,8 +38937,9 @@ RESOURCE ID: friend_sent_you_gift_notification
 TEXT: Тебе пришёл подарок от Тренера {0}!
 
 RESOURCE ID: friend_sort_online_not_available_body
-TEXT: <b>Эту сортировку можно использовать, только если включён общий доступ к онлайн-статусу. Ты можешь включить его, используя быстрое переключение онлайн-статуса.</b>
-<size=24>Примечание: Если ты поделишься своим онлайн-статусом, он будет доступен для всех игр Scopely Explore, в которые ты играешь. </size>
+TEXT: Эту сортировку можно использовать, только если ты делишься своим онлайн-статусом.
+
+Примечание: если ты поделишься своим онлайн-статусом, он будет доступен для всех игр Scopely Explore, в которые ты играешь.
 
 RESOURCE ID: friend_sort_online_not_available_header
 TEXT: Quick Online-Status Toggle
@@ -41510,6 +41529,9 @@ TEXT: Билет: Рейдовый День: Мега-Камерапт
 
 RESOURCE ID: general2.ticket.5_megakangaskhanraidday_title
 TEXT: Билет: Рейдовый День: Мега-Кангасхан
+
+RESOURCE ID: general2.ticket.6.dmax_sinnoh_lake_max_battle
+TEXT: Билет: День Битв Макс: Динамакс-Юкси, Динамакс-Месприт и Динамакс-Азелф
 
 RESOURCE ID: general2.ticket.6.replay_go_bigger
 TEXT: Билет: Возвращение: Гигантская Мощь GO
@@ -52602,6 +52624,9 @@ TEXT: Заканчивается сегодня!
 RESOURCE ID: iap_sale_time_left_label
 TEXT: Осталось:
 
+RESOURCE ID: ibfc_minior_transformed
+TEXT: Minior transformed!
+
 RESOURCE ID: ibfc_warn_needed_move
 TEXT: Для изменения формы Краморанта во время битвы требуется {0}.
 
@@ -55432,6 +55457,12 @@ TEXT: Билет, дающий доступ к специальным бону�
 
 RESOURCE ID: item_event_ticket_s24_oct_3_maxbattle_details_gmaxcinderace26
 TEXT: Этот билет активируется автоматически, чтобы дать тебе доступ к специальным бонусам 3 октября, вне зависимости от твоего местонахождения.
+
+RESOURCE ID: item_event_ticket_s24_oct_24_maxbattle_desc
+TEXT: Билет, дающий доступ к специальным бонусам 24 октября 2026 с 14:00 до 17:00 по местному времени, вне зависимости от твоего местонахождения.
+
+RESOURCE ID: item_event_ticket_s24_oct_24_maxbattle_details
+TEXT: Этот билет активируется автоматически, чтобы дать тебе доступ к специальным бонусам 24 октября 2026, вне зависимости от твоего местонахождения.
 
 RESOURCE ID: item_event_ticket_to_gift_desc
 TEXT: Дополнительный билет вследствие ошибки при совершении покупки. Ты можешь отправить его другу или получить возврат средств.
@@ -61661,6 +61692,12 @@ TEXT: 2× XP за победу в битвах макс
 RESOURCE ID: max_battle_day_dmax_ho_oh_ticketed
 TEXT: Бонусы Билета Выходные Битв Макс: Динамакс-Хо-Ох
 
+RESOURCE ID: max_battle_day_dmax_sinnoh_lake_ticketed
+TEXT: Бонусы Билета День Битв Макс: Динамакс-Юкси, Динамакс-Месприт и Динамакс-Азелф
+
+RESOURCE ID: max_battle_day_dmax_sinnoh_lake_event_name
+TEXT: День Битв Макс: Динамакс-Юкси, Динамакс-Месприт и Динамакс-Азелф
+
 RESOURCE ID: max_battle_day_gigantamax_butterfree_ticketed
 TEXT: Бонусы Билета День Битв Макс: Гигантамакс-Баттерфри
 
@@ -62639,10 +62676,16 @@ at SHA bacc02371739993984570a6f5b31a993cf3b031b
 Pipeline 498004, job 4265729
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-09-29T01:11:14.795037+00:00 for ru-RU
-at SHA 8cfff611670
-Pipeline 3977616, job 58549183
-Patch from: 0.431.0-SHA-873aaf5c-RC2, 0.429.1-SHA-5521c4dc-RC1, 0.433.0-SHA-d37b1aa1-RC1
+TEXT: Built at 2026-10-02T01:29:28.079524+00:00 for ru-RU
+at SHA a4a89ae58b0
+Pipeline 3987814, job 58728214
+Patch from: 0.431.0-SHA-98b5070c-RC6, 0.429.2-SHA-ad36de78-RC2, 0.433.0-SHA-d37b1aa1-RC1
+
+RESOURCE ID: meteor_title_1
+TEXT: МЕТЕОРИТНЫЙ ПОТОК
+
+RESOURCE ID: meteor_desc_1
+TEXT: Найди Миниоров вечером во время метеоритных потоков.
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: ‎Квест на время: Боевой тип
@@ -64253,8 +64296,23 @@ TEXT: <<move_name_0275>>+
 RESOURCE ID: move_name_0497
 TEXT: Плазменные Кулаки
 
+RESOURCE ID: move_name_0498
+TEXT: <<move_name_0296>>+
+
+RESOURCE ID: move_name_0499
+TEXT: <<move_name_0083>>+
+
+RESOURCE ID: move_name_0500
+TEXT: <<move_name_0298>>+
+
+RESOURCE ID: move_name_0501
+TEXT: <<move_name_0299>>+
+
 RESOURCE ID: move_name_0502
 TEXT: <<move_name_0311>>+
+
+RESOURCE ID: move_name_0503
+TEXT: <<move_name_0122>>+
 
 RESOURCE ID: move_name_0504
 TEXT: <<move_name_0399>>+
@@ -64265,17 +64323,47 @@ TEXT: <<move_name_0252>>+
 RESOURCE ID: move_name_0506
 TEXT: <<move_name_0087>>+
 
+RESOURCE ID: move_name_0507
+TEXT: <<move_name_0060>>+
+
 RESOURCE ID: move_name_0508
 TEXT: <<move_name_0303>>+
 
 RESOURCE ID: move_name_0509
 TEXT: <<move_name_0488>>+
 
+RESOURCE ID: move_name_0510
+TEXT: <<move_name_0070>>+
+
 RESOURCE ID: move_name_0512
 TEXT: <<move_name_0383>>+
 
+RESOURCE ID: move_name_0513
+TEXT: <<move_name_0045>>+
+
+RESOURCE ID: move_name_0514
+TEXT: <<move_name_0333>>+
+
 RESOURCE ID: move_name_0515
 TEXT: <<move_name_0277>>+
+
+RESOURCE ID: move_name_0516
+TEXT: <<move_name_0116>>+
+
+RESOURCE ID: move_name_0517
+TEXT: <<move_name_0379>>+
+
+RESOURCE ID: move_name_0518
+TEXT: <<move_name_0077>>+
+
+RESOURCE ID: move_name_0519
+TEXT: <<move_name_0267>>+
+
+RESOURCE ID: move_name_0520
+TEXT: <<move_name_0100>>+
+
+RESOURCE ID: move_name_0521
+TEXT: <<move_name_0306>>+
 
 RESOURCE ID: move_name_0522
 TEXT: <<move_name_0038>>+
@@ -64283,17 +64371,95 @@ TEXT: <<move_name_0038>>+
 RESOURCE ID: move_name_0523
 TEXT: <<move_name_0016>>+
 
+RESOURCE ID: move_name_0524
+TEXT: <<move_name_0032>>+
+
+RESOURCE ID: move_name_0525
+TEXT: <<move_name_0117>>+
+
+RESOURCE ID: move_name_0526
+TEXT: <<move_name_0317>>+
+
+RESOURCE ID: move_name_0527
+TEXT: <<move_name_0316>>+
+
+RESOURCE ID: move_name_0528
+TEXT: <<move_name_0086>>+
+
 RESOURCE ID: move_name_0529
 TEXT: <<move_name_0265>>+
+
+RESOURCE ID: move_name_0530
+TEXT: <<move_name_0088>>+
+
+RESOURCE ID: move_name_0531
+TEXT: <<move_name_0268>>+
+
+RESOURCE ID: move_name_0532
+TEXT: <<move_name_0408>>+
 
 RESOURCE ID: move_name_0533
 TEXT: <<move_name_0035>>+
 
+RESOURCE ID: move_name_0534
+TEXT: <<move_name_0279>>+
+
+RESOURCE ID: move_name_0535
+TEXT: <<move_name_0042>>+
+
+RESOURCE ID: move_name_0536
+TEXT: <<move_name_0084>>+
+
+RESOURCE ID: move_name_0537
+TEXT: <<move_name_0067>>+
+
+RESOURCE ID: move_name_0538
+TEXT: <<move_name_0036>>+
+
+RESOURCE ID: move_name_0539
+TEXT: <<move_name_0051>>+
+
+RESOURCE ID: move_name_0540
+TEXT: <<move_name_0066>>+
+
 RESOURCE ID: move_name_0541
 TEXT: <<move_name_0039>>+
 
+RESOURCE ID: move_name_0542
+TEXT: <<move_name_0341>>+
+
+RESOURCE ID: move_name_0543
+TEXT: <<move_name_0301>>+
+
+RESOURCE ID: move_name_0544
+TEXT: <<move_name_0366>>+
+
+RESOURCE ID: move_name_0545
+TEXT: <<move_name_0365>>+
+
+RESOURCE ID: move_name_0546
+TEXT: <<move_name_0384>>+
+
 RESOURCE ID: move_name_0547
 TEXT: <<move_name_0256>>+
+
+RESOURCE ID: move_name_0548
+TEXT: <<move_name_0245>>+
+
+RESOURCE ID: move_name_0549
+TEXT: <<move_name_0031>>+
+
+RESOURCE ID: move_name_0550
+TEXT: <<move_name_0285>>+
+
+RESOURCE ID: move_name_0551
+TEXT: <<move_name_0332>>+
+
+RESOURCE ID: move_name_0552
+TEXT: <<move_name_0247>>+
+
+RESOURCE ID: move_name_0553
+TEXT: <<move_name_0040>>+
 
 RESOURCE ID: move_name_0554
 TEXT: <<move_name_0330>>+
@@ -64301,11 +64467,32 @@ TEXT: <<move_name_0330>>+
 RESOURCE ID: move_name_0555
 TEXT: <<move_name_0293>>+
 
+RESOURCE ID: move_name_0556
+TEXT: <<move_name_0386>>+
+
+RESOURCE ID: move_name_0558
+TEXT: <<move_name_0101>>+
+
+RESOURCE ID: move_name_0559
+TEXT: <<move_name_0046>>+
+
+RESOURCE ID: move_name_0560
+TEXT: <<move_name_0085>>+
+
+RESOURCE ID: move_name_0561
+TEXT: <<move_name_0022>>+
+
 RESOURCE ID: move_name_0562
 TEXT: <<move_name_0471>>+
 
+RESOURCE ID: move_name_0563
+TEXT: <<move_name_0251>>+
+
 RESOURCE ID: move_name_0564
 TEXT: <<move_name_0069>>+
+
+RESOURCE ID: move_name_0565
+TEXT: <<move_name_0304>>+
 
 RESOURCE ID: move_name_0566
 TEXT: <<move_name_0059>>+
@@ -64316,14 +64503,53 @@ TEXT: <<move_name_0382>>+
 RESOURCE ID: move_name_0568
 TEXT: <<move_name_0284>>+
 
+RESOURCE ID: move_name_0569
+TEXT: <<move_name_0103>>+
+
+RESOURCE ID: move_name_0571
+TEXT: <<move_name_0108>>+
+
 RESOURCE ID: move_name_0572
 TEXT: <<move_name_0030>>+
+
+RESOURCE ID: move_name_0573
+TEXT: <<move_name_0028>>+
+
+RESOURCE ID: move_name_0574
+TEXT: <<move_name_0091>>+
+
+RESOURCE ID: move_name_0575
+TEXT: <<move_name_0331>>+
+
+RESOURCE ID: move_name_0577
+TEXT: <<move_name_0065>>+
+
+RESOURCE ID: move_name_0578
+TEXT: <<move_name_0314>>+
+
+RESOURCE ID: move_name_0579
+TEXT: <<move_name_0074>>+
 
 RESOURCE ID: move_name_0580
 TEXT: <<move_name_0080>>+
 
+RESOURCE ID: move_name_0582
+TEXT: <<move_name_0497>>+
+
 RESOURCE ID: move_name_0583
 TEXT: <<move_name_0123>>+
+
+RESOURCE ID: move_name_0584
+TEXT: <<move_name_0024>>+
+
+RESOURCE ID: move_name_0585
+TEXT: <<move_name_0372>>+
+
+RESOURCE ID: move_name_0586
+TEXT: <<move_name_0082>>+
+
+RESOURCE ID: move_name_0587
+TEXT: <<move_name_0359>>+
 
 RESOURCE ID: move_name_0590
 TEXT: Яростный Меч
@@ -64336,6 +64562,9 @@ TEXT: Меткая Стрельба
 
 RESOURCE ID: move_name_0593
 TEXT: Нырок
+
+RESOURCE ID: move_name_0619
+TEXT: <<move_name_0064>>+
 
 RESOURCE ID: move_required_to_enable_adventure_effect
 TEXT: Покемон {0} не знает заряженную атаку {1}, поэтому он не будет знать атаку с эффектом приключений после объединения.
@@ -70562,7 +70791,7 @@ RESOURCE ID: poi_contrib_failed_error
 TEXT: Отправка не удалась. Пожалуйста, попробуй ещё раз.
 
 RESOURCE ID: poi_contrib_ghostinfo_label
-TEXT: Локация использовалась в других играх Scopely Explore
+TEXT: Локация используется в других играх Scopely Explore
 
 RESOURCE ID: poi_contrib_identical_desc_error
 TEXT: Описание дублируется. Пожалуйста, добавь другое описание.
@@ -70775,7 +71004,7 @@ RESOURCE ID: poi_contrib_tutorial_dupe_title
 TEXT: Проверка на уникальность
 
 RESOURCE ID: poi_contrib_tutorial_dupe_body
-TEXT: Синий значок означает, что локация одобрена и в настоящее время отображается в Pokémon GO. Оранжевым значком обозначаются локации, которые не используются в Pokémon GO. При отправке новых заявок на добавление Покестопа избегай добавлять дублированные локации любого из двух типов.
+TEXT: Синий значок означает, что Локация одобрена и используется в Pokémon GO. Оранжевый значок означает, что Локация одобрена и используется в других играх Scopely Explore. При отправке новых заявок на добавление Покестопа избегай добавления существующих Локаций любого из этих типов.
 
 RESOURCE ID: poi_contrib_unavailable_disabled
 TEXT: Эта опция в данный момент недоступна.
@@ -78872,6 +79101,9 @@ TEXT: ИЗМЕНЕНИЕ ЗАЩИТЫ
 RESOURCE ID: pokemon_ibfc_desc_0681
 TEXT: Этот Покемон меняет форму на Форму Лезвие, когда использует Заряженную Атаку, и на Форму Щит, когда использует Защитную Стену.
 
+RESOURCE ID: pokemon_ibfc_desc_0774
+TEXT: Когда у него остаётся хотя бы половина ОЖ, внешний панцирь этого Покемона закрывается вокруг ядра и Защита повышается.
+
 RESOURCE ID: pokemon_ibfc_desc_0845_3349
 TEXT: После атаки Сёрф или Нырок при высоком уровне ОЖ Краморант примет эту форму. Получив удар Заряженной Атакой, он  выплёвывает свою добычу на противника.
 
@@ -78883,6 +79115,9 @@ TEXT: Этот Покемон преображается, когда испол�
 
 RESOURCE ID: pokemon_ibfc_name_0681
 TEXT: Форма Лезвие
+
+RESOURCE ID: pokemon_ibfc_name_0774
+TEXT: Метеорная Форма
 
 RESOURCE ID: pokemon_ibfc_name_0778
 TEXT: Сломанная Форма
@@ -84079,7 +84314,7 @@ RESOURCE ID: privacy_policy_short_button
 TEXT: Конфиденциальность
 
 RESOURCE ID: privacy_policy_update_notice
-TEXT: Пожалуйста, просмотри обновлённую Политику конфиденциальности Scopely Explore для получения дополнительной информации о новых функциях продукта и о том, как мы обрабатываем личные данные.
+TEXT: Чтобы получить дополнительную информацию о новых функциях продукта и о том, как мы обрабатываем личные данные, ознакомься с обновлённой Политикой Конфиденциальности Scopely Explore.
 
 RESOURCE ID: private_group_title
 TEXT: Частная Группа
@@ -114066,7 +114301,7 @@ RESOURCE ID: route_nearby_help_duration
 TEXT: Estimate time from start point to end point.
 
 RESOURCE ID: route_nearby_help_official_route
-TEXT: Эта надпись появляется на маршрутах, созданных партнёрами Scopely Explore.
+TEXT: У Маршрутов, созданных партнёрами Scopely Explore, есть этот лейбл.
 
 RESOURCE ID: route_nearby_help_played_time
 TEXT: Number of played time of this route.
@@ -115567,14 +115802,20 @@ TEXT: Шанс получить Серебряные Пайнеп-Ягоды и�
 RESOURCE ID: sa_account_creation_prompt
 TEXT: Нет аккаунта Niantic Kids?
 
+RESOURCE ID: sa_account_creation_prompt_temp
+TEXT: Нет аккаунта Kids @ Scopely Explore?
+
 RESOURCE ID: sa_auth_failed
 TEXT: Не удалось выполнить проверку подлинности. Попробуй ещё раз.
 
 RESOURCE ID: sa_auth_failed_permissions
 TEXT: Чтобы играть в эту игру, твоему родителю или опекуну необходимо войти в свой аккаунт Niantic Kids и включить разрешения для твоего аккаунта.
 
+RESOURCE ID: sa_auth_failed_permissions_temp
+TEXT: Чтобы играть в эту игру, твоему родителю или опекуну необходимо войти в свой аккаунт Kids @ Scopely Explore и включить разрешения для твоего аккаунта.
+
 RESOURCE ID: sa_forgot_password_url
-TEXT: https://niantic-sso.kws.superawesome.tv/en/password/forgot
+TEXT: https://sso.scopelyexplore.kidswebservices.com/ru/password/forgot
 
 RESOURCE ID: sa_login_title
 TEXT: Niantic Kids
@@ -115582,14 +115823,23 @@ TEXT: Niantic Kids
 RESOURCE ID: sa_login_button
 TEXT: Niantic Kids
 
+RESOURCE ID: sa_login_button_temp
+TEXT: Kids @ Scopely Explore
+
 RESOURCE ID: sa_login_server_unreachable
 TEXT: Портал Niantic Kids сейчас недоступен. Приносим извинения за неудобства.
 
+RESOURCE ID: sa_login_server_unreachable_temp
+TEXT: Портал Kids @ Scopely Explore сейчас недоступен. Приносим извинения за неудобства.
+
+RESOURCE ID: sa_login_title_temp
+TEXT: Kids @ Scopely Explore
+
 RESOURCE ID: sa_parent_dashboard_url
-TEXT: https://parents.nianticlabs.com/en/login
+TEXT: https://app.parents.scopelyexplore.com/portal/ru/login
 
 RESOURCE ID: sa_registration_url
-TEXT: https://niantic-sso.kws.superawesome.tv/en/register
+TEXT: https://scopelyexplore-sso.kws.superawesome.tv/ru/register
 
 RESOURCE ID: sableye_drop_mega_energy
 TEXT: Шанс получить Мегаэнергию Сэйблая при поимке Сэйблая
@@ -120966,7 +121216,7 @@ RESOURCE ID: social_online_consent_privacy
 TEXT: Примечание: Если поделиться своим онлайн-статусом, он будет доступен для всех игр Scopely Explore, в которые ты играешь.
 
 RESOURCE ID: social_online_consent_note_body
-TEXT: Твой онлайн-статус могут увидеть твои друзья, которые выбрали Scopely Explore Online.
+TEXT: Твой онлайн-статус могут увидеть твои друзья, которые включили Scopely Explore Online.
 Ты можешь прекратить делиться своим статусом в любое время, нажав ту же кнопку.
 
 RESOURCE ID: social_online_consent_note_header
@@ -121961,7 +122211,7 @@ RESOURCE ID: sponsored_gift_tutorial_description_1
 TEXT: Исследуя мир вокруг, ты можешь получать спонсорские подарки и сообщения от рекламодателей, связанные с твоим местоположением. Спонсорские подарки теперь выглядят по-новому!
 
 RESOURCE ID: sponsored_gift_tutorial_description_2
-TEXT: Как обычно, мы не передаём спонсорам твою личную информацию. Для получения дополнительной информации об этой функции, пожалуйста, обратись в службу поддержки Scopely Explore. 
+TEXT: Как и всегда, мы не передаём спонсорам твою личную информацию. Для получения дополнительной информации об этой функции, пожалуйста, обратись в Службу Поддержки Scopely Explore.
 
 RESOURCE ID: sponsored_gift_tutorial_description_3
 TEXT: Ты можешь регулировать спонсорские подарки в своих настройках. Это не влияет на подарки, которыми ты обмениваешься с друзьями, даже если ты получаешь подарки от спонсорских локаций.
@@ -126913,6 +127163,11 @@ TEXT: <b>Включает:</b>
 • Больше Конфет и Конфет XL в пятизвёздочных Битвах Макс
 • Квест на Время с такими наградами, как 6400 Частиц Макс и 25 000 XP
 
+RESOURCE ID: text_rewards_key_dmaxsinnohlakemaxbattle26
+TEXT: <b>Включает:</b>
+• 2× XP в Битвах Макс
+• Квест на Время с такими наградами, как 6400 Частиц Макс, 25 000 XP и Гриб Макс
+
 RESOURCE ID: text_rewards_key_enamorustherianraidday
 TEXT: <b>Включает следующие награды:</b>
 • 1 Метеорит
@@ -129066,9 +129321,9 @@ RESOURCE ID: tips_friends_tutorial_add_title
 TEXT: Добавляй друзей
 
 RESOURCE ID: tips_friends_tutorial_add_body
-TEXT: Чтобы добавить друга, введи его код Тренера или отсканируй QR-код. Если ты добавишь друга в Pokémon GO, он также станет твоим другом во всех играх Scopely Explore, в которые вы оба играете.
+TEXT: Чтобы добавить друга, введи его Код Тренера или отсканируй 2D-код. Если ты добавишь друга в Pokémon GO, он также станет твоим другом во всех играх Scopely Explore, в которые вы играете.
 
-Также можно добавить друзей, привязав аккаунт Facebook из вкладки Добавить в друзья.
+Также можно добавить друзей, привязав аккаунт Facebook из вкладки Добавить в Друзья.
 
 RESOURCE ID: tips_friends_tutorial_battle_title
 TEXT: Сражайся с друзьями
@@ -133573,6 +133828,9 @@ TEXT: Ладан привлекает больше Покемонов на но�
 RESOURCE ID: tutorial_route_bonus_2
 TEXT: На маршрутах могут появляться необычные Покемоны
 
+RESOURCE ID: tutorial_route_bonus_2_temp
+TEXT: Specific Pokémon may appear more often on Routes in the wild
+
 RESOURCE ID: tutorial_route_play_title_0
 TEXT: Исследуй маршрут
 
@@ -134492,7 +134750,7 @@ RESOURCE ID: unfriend_niantic_friend_title
 TEXT: Ты действительно хочешь удалить {0} из списка друзей?
 
 RESOURCE ID: unfriend_niantic_friend_tip
-TEXT: Если вы удалите этого друга из этой игры, он перестанет быть вашим другом во всех играх Scopely Explore, в которые вы оба играете.
+TEXT: Если ты удалишь друга из этой игры, он перестанет быть твоим другом во всех играх Scopely Explore, в которые вы играете.
 
 RESOURCE ID: unified_punishment_acknowledgement_button
 TEXT: ОК
@@ -134553,9 +134811,9 @@ TEXT: <size=36><b>Не удалось удалить связь с этим ак
 Этот аккаунт привязан к твоей активной игровой сессии.
 
 RESOURCE ID: unlink_account_failed_login_not_removable
-TEXT: <size=36><b>Не удалось удалить связь с этим аккаунтом!</b></size>
+TEXT: <size=36><b>Не удаётся отменить связь с этим аккаунтом!</b></size>
 
-Возможно, твой логин связан с другими продуктами компании Scopely Explore. Привяжи дополнительный метод входа, чтобы удалить связь с этим.
+Возможно, твой логин связан с другими продуктами Scopely Explore. Привяжи дополнительный метод входа, чтобы отменить связь с этим.
 
 RESOURCE ID: unlock_max_move_plural
 TEXT: Разблокируй приёмы макс ×{0}
@@ -135100,7 +135358,7 @@ TEXT: Помоги сделать Pokémon GO лучше!
 RESOURCE ID: verbose_logs_info_body
 TEXT: Журналы игр содержат ценную информацию, которая помогает Scopely Explore улучшать отдельные элементы Pokémon GO. Если ты разрешишь сохранение журналов игр, ты можешь впоследствии загрузить их, чтобы поделиться ими с Scopely Explore.
 
-Журналы по каждому типу активности хранятся в течение 24 часов либо до тех пор, пока ты не примешь участие в этом типе активности снова. Ты можешь загрузить журналы в любой момент через меню настроек.
+Журналы игр по каждому типу активности хранятся в течение 24 часов либо до тех пор, пока ты не примешь участие в этом типе активности снова. Ты можешь загрузить журналы игр в любой момент через меню Настроек.
 
 RESOURCE ID: verbose_logs_info_learn_more
 TEXT: Узнать больше

@@ -12753,7 +12753,7 @@ RESOURCE ID: badge_gowa_2026_sendai_addon_battle_title
 TEXT: GO Wild Area 2026: Battle Ready
 
 RESOURCE ID: badge_gowa_2026_sendai_addon_friday_title
-TEXT: GO Wild Area: Extra Day (Friday)
+TEXT: GO Wild Area 2026: Extra Day (Friday)
 
 RESOURCE ID: badge_gowa_2026_sendai_addon_hatch_title
 TEXT: GO Wild Area 2026: Egg-thusiast
@@ -22032,6 +22032,9 @@ TEXT: คุณอาจพบซีการ์ดเซลล์หลัง�
 เส้นทาง เมื่อรวบรวมได้จำนวน
 หนึ่งแล้วจะสามารถนำมาประกอบ
 เพื่อสร้างซีการ์ดได้
+
+RESOURCE ID: breakfast_tappable_tutorial_body_temp2
+TEXT: Collect up to 3 Zygarde Cells per day by completing Routes. Assemble your Cells to create different Zygarde forms.
 
 RESOURCE ID: breakthrough_free_remote_raid_pass
 TEXT: รับบัตรตีบอสระยะไกลจาก
@@ -32044,7 +32047,7 @@ TEXT: คุณแน่ใจหรือไม่ว่าต้องกา�
 ของขวัญชิ้นนี้?
 
 RESOURCE ID: delete_gift_message
-TEXT: Gifts do not count toward Item Bag storage.
+TEXT: ของขวัญจะไม่ถูกนับเป็นไอเท็มในกระเป๋าเก็บไอเท็ม
 
 RESOURCE ID: delete_pokemon_tag_confirmation
 TEXT: แท็กนี้จะถูกนำออกจากโปเกมอนที่
@@ -32136,6 +32139,9 @@ TEXT: ตรวจสอบรายละเอียดได้ที่<a hr
 
 RESOURCE ID: details_link_key_dmax_ho_oh
 TEXT: ตรวจสอบรายละเอียดได้ที่<a href="https://pokemongo.com/news/ho-oh-max-battle-weekend-2026">เว็บไซต์</a>นี้
+
+RESOURCE ID: details_link_key_dmax_sinnoh_lake_max_battle
+TEXT: ตรวจสอบรายละเอียดได้ที่<a href="https://pokemongo.com/news/dynamax-uxie-mesprit-azelf-max-battle-day-2026">เว็บไซต์</a>นี้
 
 RESOURCE ID: details_link_key_entei_shadow_raid_day
 TEXT: ตรวจสอบรายละเอียดได้ที่<a href="https://pokemongolive.com/news/shadow-entei-raid-day-2026">เว็บไซต์</a>นี้
@@ -32338,6 +32344,9 @@ TEXT: เมตามอนที่จับในธรรมชาติอ�
 RESOURCE ID: dmax_articuno_max_battles
 TEXT: ฟรีเซอร์ไดแมกซ์ปรากฏตัวในแบตเทิลแมกซ์
 
+RESOURCE ID: dmax_azelf_lake_max_battles
+TEXT: อักนอมไดแมกซ์ปรากฏตัวในแบตเทิลแมกซ์
+
 RESOURCE ID: dmax_battle_win_plural
 TEXT: ชนะแบตเทิลไดแมกซ์ {0} ครั้ง
 
@@ -32404,6 +32413,9 @@ TEXT: สุดสัปดาห์แห่งการแบตเทิล�
 RESOURCE ID: dmax_lugia_weekend_timed_research
 TEXT: งานวิจัยแบบจำกัดเวลา: สุดสัปดาห์แห่งการแบตเทิลแมกซ์ลูเกียไดแมกซ์
 
+RESOURCE ID: dmax_mesprit_lake_max_battles
+TEXT: เอ็มริตไดแมกซ์ปรากฏตัวในแบตเทิลแมกซ์
+
 RESOURCE ID: dmax_moltres_max_battles
 TEXT: ไฟเยอร์ไดแมกซ์ปรากฏตัวในแบตเทิลแมกซ์
 
@@ -32416,6 +32428,9 @@ TEXT: สุดสัปดาห์แห่งการแบตเทิล�
 RESOURCE ID: dmax_raikou_weekend_timed_research
 TEXT: งานวิจัยแบบจำกัดเวลา: สุดสัปดาห์แห่งการแบตเทิลแมกซ์ไรโคไดแมกซ์
 
+RESOURCE ID: dmax_sinnoh_lake_mbd_tr_oct26
+TEXT: งานวิจัยแบบจำกัดเวลาพรีเมียม: วันแบตเทิลแมกซ์ยุคซี, เอ็มริต และอักนอมไดแมกซ์
+
 RESOURCE ID: dmax_suicune_max_battles
 TEXT: ซุยคูนไดแมกซ์ปรากฏตัวในแบตเทิลแมกซ์
 
@@ -32424,6 +32439,9 @@ TEXT: สุดสัปดาห์แห่งการแบตเทิล�
 
 RESOURCE ID: dmax_suicune_weekend_timed_research
 TEXT: งานวิจัยแบบจำกัดเวลา: สุดสัปดาห์แห่งการแบตเทิลแมกซ์ซุยคูนไดแมกซ์
+
+RESOURCE ID: dmax_uxie_lake_max_battles
+TEXT: ยุคซีไดแมกซ์ปรากฏตัวในแบตเทิลแมกซ์
 
 RESOURCE ID: dmax_zapdos_max_battles
 TEXT: ธันเดอร์ไดแมกซ์ปรากฏตัวในแบตเทิลแมกซ์
@@ -42525,6 +42543,9 @@ TEXT: ตั๋ว "วันตีบอสเมก้าบาคูดา"
 RESOURCE ID: general2.ticket.5_megakangaskhanraidday_title
 TEXT: ตั๋ว "วันตีบอสเมก้าการูรา"
 
+RESOURCE ID: general2.ticket.6.dmax_sinnoh_lake_max_battle
+TEXT: ตั๋ว "วันแบตเทิลแมกซ์ยุคซี, เอ็มริต และอักนอมไดแมกซ์"
+
 RESOURCE ID: general2.ticket.6.replay_go_bigger
 TEXT: ตั๋วรีเพลย์: GO ให้ยิ่งใหญ่สุดแมกซ์!
 
@@ -42837,13 +42858,13 @@ RESOURCE ID: gift_from_sponsor
 TEXT: เปิดของขวัญที่ได้รับการสนับสนุน!
 
 RESOURCE ID: gift_multi_delete_complete
-TEXT: Your selection has been cleared.
+TEXT: ปลดที่เลือกแล้ว
 
 RESOURCE ID: gift_multi_delete_plural
-TEXT: Discard these {0} Gifts?
+TEXT: ต้องการทิ้งของขวัญ {0} ชิ้นนี้หรือไม่?
 
 RESOURCE ID: gift_multi_delete_button_text
-TEXT: DISCARD ({0})
+TEXT: ลบ ({0})
 
 RESOURCE ID: gift_open_double
 TEXT: เปิดของขวัญได้มากขึ้น 2 เท่า
@@ -55510,6 +55531,9 @@ TEXT: สิ้นสุดวันนี้!
 RESOURCE ID: iap_sale_time_left_label
 TEXT: เหลือเวลา: 
 
+RESOURCE ID: ibfc_minior_transformed
+TEXT: Minior transformed!
+
 RESOURCE ID: ibfc_warn_needed_move
 TEXT: จำเป็นต้องมีท่า "{0}" เพื่อเปลี่ยนร่างระหว่างแบตเทิล
 
@@ -56506,7 +56530,7 @@ RESOURCE ID: item_bag_category_evolution
 TEXT: Evolutions
 
 RESOURCE ID: item_bag_category_featured
-TEXT: Featured
+TEXT: ไอเท็มแนะนำ
 
 RESOURCE ID: item_bag_category_gifts
 TEXT: ของขวัญ
@@ -59520,6 +59544,17 @@ TEXT: ตั๋วสำหรับรับโบนัสพิเศษ
 คุณจะสามารถเข้าร่วมได้โดยอัตโนมัติ
 ตามเวลาท้องถิ่นทั่วโลก
 
+RESOURCE ID: item_event_ticket_s24_oct_24_maxbattle_desc
+TEXT: ตั๋วสำหรับรับโบนัสพิเศษในวันที่
+24 ตุลาคม 2026 เวลา 14:00-17:00 น.
+ตามเวลาท้องถิ่นทั่วโลก
+
+RESOURCE ID: item_event_ticket_s24_oct_24_maxbattle_details
+TEXT: ตั๋วสำหรับรับโบนัสพิเศษ
+ในวันที่ 24 ตุลาคม
+คุณจะสามารถเข้าร่วมได้โดยอัตโนมัติ
+ตามเวลาท้องถิ่นทั่วโลก
+
 RESOURCE ID: item_event_ticket_to_gift_desc
 TEXT: เกิดข้อผิดพลาดในการซื้อตั๋วอีเวนต์ส่วนเกิน คุณสามารถส่งให้เพื่อนหรือทำเรื่องขอเงินคืนได้
 
@@ -61436,28 +61471,28 @@ RESOURCE ID: kr_ditto_event_2025_tr_name_3
 TEXT: งานวิจัยแบบจำกัดเวลาบทเรียนสีม่วง (3/3)
 
 RESOURCE ID: kr_fcseoul_collab_2026_title
-TEXT: FC Seoul Event 2026
+TEXT: อีเวนต์ FC Seoul 2026
 
 RESOURCE ID: kr_fcseoul_collab_2026_bonus_raid_lc_desc
-TEXT: During event hours on October 24, Charmander caught from raids around the Seoul World Cup Stadium event area may have an exclusive Location Background
+TEXT: ฮิโตคาเงะที่จับจากตีบอสแถวพื้นที่อีเวนต์ Seoul World Cup Stadium ในช่วงเวลาอีเวนต์ในวันที่ 24 ตุลาคม อาจมีพื้นหลังสถานที่พิเศษ
 
 RESOURCE ID: kr_fcseoul_collab_2026_bonus_tr_lc_desc
-TEXT: Charizard encountered from event Timed Research will have an exclusive Location Background
+TEXT: ลิซาร์ดอนที่จับจากงานวิจัยแบบจำกัดเวลาของอีเวนต์จะมีพื้นหลังสถานที่พิเศษ
 
 RESOURCE ID: kr_fcseoul_collab_2026_bonus_wild_pokemon
-TEXT: Catch Fire-type Pokémon around the Seoul World Cup Stadium event area—let’s fire it up for FC Seoul!
+TEXT: จับโปเกมอนประเภทไฟแถวพื้นที่อีเวนต์ Seoul World Cup Stadium แล้วเชียร์ทีม FC Seoul!
 
 RESOURCE ID: kr_fcseoul_collab_2026_tr_name
-TEXT: FC Seoul Event 2026 Timed Research
+TEXT: งานวิจัยแบบจำกัดเวลาอีเวนต์ FC Seoul 2026
 
 RESOURCE ID: kr_fcseoul_collab_2026_tr_name_1
-TEXT: FC Seoul Event 2026 Timed Research (1/3)
+TEXT: งานวิจัยแบบจำกัดเวลาอีเวนต์ FC Seoul 2026 (1/3)
 
 RESOURCE ID: kr_fcseoul_collab_2026_tr_name_2
-TEXT: FC Seoul Event 2026 Timed Research (2/3)
+TEXT: งานวิจัยแบบจำกัดเวลาอีเวนต์ FC Seoul 2026 (2/3)
 
 RESOURCE ID: kr_fcseoul_collab_2026_tr_name_3
-TEXT: FC Seoul Event 2026 Timed Research (3/3)
+TEXT: งานวิจัยแบบจำกัดเวลาอีเวนต์ FC Seoul 2026 (3/3)
 
 RESOURCE ID: kr_festival_fr_location_background
 TEXT: ชิคิจิกะและพิคาชูในชุดคอสตูมที่จับจากภารกิจงานวิจัยภาคสนามอาจมีพื้นหลังสถานที่สุดพิเศษ
@@ -65346,7 +65381,7 @@ RESOURCE ID: mall_event_apac_30th_anniversary_tr_desc
 TEXT: ทำงานวิจัยแบบจำกัดเวลาให้เสร็จสิ้นเพื่อเผชิญหน้ากับพิคาชูสวมหมวกปาร์ตี้และเหล่าโปเกมอนคู่หูตัวแรก
 
 RESOURCE ID: manage_gifts_header
-TEXT: Manage Gifts
+TEXT: จัดระเบียบของขวัญ
 
 RESOURCE ID: manage_items_button
 TEXT: จัดระเบียบไอเท็ม
@@ -66251,6 +66286,12 @@ TEXT: 2× XP จากการชนะแบตเทิลแมกซ์
 
 RESOURCE ID: max_battle_day_dmax_ho_oh_ticketed
 TEXT: โบนัสตั๋ว "สุดสัปดาห์แห่งการแบตเทิลแมกซ์โฮโอไดแมกซ์"
+
+RESOURCE ID: max_battle_day_dmax_sinnoh_lake_ticketed
+TEXT: โบนัสตั๋ว "วันแบตเทิลแมกซ์ยุคซี, เอ็มริต และอักนอมไดแมกซ์"
+
+RESOURCE ID: max_battle_day_dmax_sinnoh_lake_event_name
+TEXT: วันแบตเทิลแมกซ์ยุคซี, เอ็มริต และอักนอมไดแมกซ์
 
 RESOURCE ID: max_battle_day_gigantamax_butterfree_ticketed
 TEXT: โบนัสตั๋ว "วันแบตเทิลแมกซ์บัตเตอร์ฟรีกิกะแมกซ์"
@@ -67319,10 +67360,16 @@ at SHA da71d231c41a4d4f7aef0d6fd71061652ff15a0a
 Pipeline 441624, job 3600523
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-09-29T01:11:14.795037+00:00 for th-TH
-at SHA 8cfff611670
-Pipeline 3977616, job 58549183
-Patch from: 0.431.0-SHA-873aaf5c-RC2, 0.429.1-SHA-5521c4dc-RC1, 0.433.0-SHA-d37b1aa1-RC1
+TEXT: Built at 2026-10-02T01:29:28.079524+00:00 for th-TH
+at SHA a4a89ae58b0
+Pipeline 3987814, job 58728214
+Patch from: 0.431.0-SHA-98b5070c-RC6, 0.429.2-SHA-ad36de78-RC2, 0.433.0-SHA-d37b1aa1-RC1
+
+RESOURCE ID: meteor_title_1
+TEXT: ฝนดาวตก
+
+RESOURCE ID: meteor_desc_1
+TEXT: เมเทโนอาจปรากฏตัวในค่ำคืนที่มีฝนดาวตก
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: งานวิจัยแบบจำกัดเวลา: ประเภทต่อสู้ของคุณ
@@ -68963,8 +69010,23 @@ TEXT: <<move_name_0275>>+
 RESOURCE ID: move_name_0497
 TEXT: หมัดพลาสมา
 
+RESOURCE ID: move_name_0498
+TEXT: <<move_name_0296>>+
+
+RESOURCE ID: move_name_0499
+TEXT: <<move_name_0083>>+
+
+RESOURCE ID: move_name_0500
+TEXT: <<move_name_0298>>+
+
+RESOURCE ID: move_name_0501
+TEXT: <<move_name_0299>>+
+
 RESOURCE ID: move_name_0502
 TEXT: <<move_name_0311>>+
+
+RESOURCE ID: move_name_0503
+TEXT: <<move_name_0122>>+
 
 RESOURCE ID: move_name_0504
 TEXT: <<move_name_0399>>+
@@ -68975,17 +69037,47 @@ TEXT: <<move_name_0252>>+
 RESOURCE ID: move_name_0506
 TEXT: <<move_name_0087>>+
 
+RESOURCE ID: move_name_0507
+TEXT: <<move_name_0060>>+
+
 RESOURCE ID: move_name_0508
 TEXT: <<move_name_0303>>+
 
 RESOURCE ID: move_name_0509
 TEXT: <<move_name_0488>>+
 
+RESOURCE ID: move_name_0510
+TEXT: <<move_name_0070>>+
+
 RESOURCE ID: move_name_0512
 TEXT: <<move_name_0383>>+
 
+RESOURCE ID: move_name_0513
+TEXT: <<move_name_0045>>+
+
+RESOURCE ID: move_name_0514
+TEXT: <<move_name_0333>>+
+
 RESOURCE ID: move_name_0515
 TEXT: <<move_name_0277>>+
+
+RESOURCE ID: move_name_0516
+TEXT: <<move_name_0116>>+
+
+RESOURCE ID: move_name_0517
+TEXT: <<move_name_0379>>+
+
+RESOURCE ID: move_name_0518
+TEXT: <<move_name_0077>>+
+
+RESOURCE ID: move_name_0519
+TEXT: <<move_name_0267>>+
+
+RESOURCE ID: move_name_0520
+TEXT: <<move_name_0100>>+
+
+RESOURCE ID: move_name_0521
+TEXT: <<move_name_0306>>+
 
 RESOURCE ID: move_name_0522
 TEXT: <<move_name_0038>>+
@@ -68993,17 +69085,95 @@ TEXT: <<move_name_0038>>+
 RESOURCE ID: move_name_0523
 TEXT: <<move_name_0016>>+
 
+RESOURCE ID: move_name_0524
+TEXT: <<move_name_0032>>+
+
+RESOURCE ID: move_name_0525
+TEXT: <<move_name_0117>>+
+
+RESOURCE ID: move_name_0526
+TEXT: <<move_name_0317>>+
+
+RESOURCE ID: move_name_0527
+TEXT: <<move_name_0316>>+
+
+RESOURCE ID: move_name_0528
+TEXT: <<move_name_0086>>+
+
 RESOURCE ID: move_name_0529
 TEXT: <<move_name_0265>>+
+
+RESOURCE ID: move_name_0530
+TEXT: <<move_name_0088>>+
+
+RESOURCE ID: move_name_0531
+TEXT: <<move_name_0268>>+
+
+RESOURCE ID: move_name_0532
+TEXT: <<move_name_0408>>+
 
 RESOURCE ID: move_name_0533
 TEXT: <<move_name_0035>>+
 
+RESOURCE ID: move_name_0534
+TEXT: <<move_name_0279>>+
+
+RESOURCE ID: move_name_0535
+TEXT: <<move_name_0042>>+
+
+RESOURCE ID: move_name_0536
+TEXT: <<move_name_0084>>+
+
+RESOURCE ID: move_name_0537
+TEXT: <<move_name_0067>>+
+
+RESOURCE ID: move_name_0538
+TEXT: <<move_name_0036>>+
+
+RESOURCE ID: move_name_0539
+TEXT: <<move_name_0051>>+
+
+RESOURCE ID: move_name_0540
+TEXT: <<move_name_0066>>+
+
 RESOURCE ID: move_name_0541
 TEXT: <<move_name_0039>>+
 
+RESOURCE ID: move_name_0542
+TEXT: <<move_name_0341>>+
+
+RESOURCE ID: move_name_0543
+TEXT: <<move_name_0301>>+
+
+RESOURCE ID: move_name_0544
+TEXT: <<move_name_0366>>+
+
+RESOURCE ID: move_name_0545
+TEXT: <<move_name_0365>>+
+
+RESOURCE ID: move_name_0546
+TEXT: <<move_name_0384>>+
+
 RESOURCE ID: move_name_0547
 TEXT: <<move_name_0256>>+
+
+RESOURCE ID: move_name_0548
+TEXT: <<move_name_0245>>+
+
+RESOURCE ID: move_name_0549
+TEXT: <<move_name_0031>>+
+
+RESOURCE ID: move_name_0550
+TEXT: <<move_name_0285>>+
+
+RESOURCE ID: move_name_0551
+TEXT: <<move_name_0332>>+
+
+RESOURCE ID: move_name_0552
+TEXT: <<move_name_0247>>+
+
+RESOURCE ID: move_name_0553
+TEXT: <<move_name_0040>>+
 
 RESOURCE ID: move_name_0554
 TEXT: <<move_name_0330>>+
@@ -69011,11 +69181,32 @@ TEXT: <<move_name_0330>>+
 RESOURCE ID: move_name_0555
 TEXT: <<move_name_0293>>+
 
+RESOURCE ID: move_name_0556
+TEXT: <<move_name_0386>>+
+
+RESOURCE ID: move_name_0558
+TEXT: <<move_name_0101>>+
+
+RESOURCE ID: move_name_0559
+TEXT: <<move_name_0046>>+
+
+RESOURCE ID: move_name_0560
+TEXT: <<move_name_0085>>+
+
+RESOURCE ID: move_name_0561
+TEXT: <<move_name_0022>>+
+
 RESOURCE ID: move_name_0562
 TEXT: <<move_name_0471>>+
 
+RESOURCE ID: move_name_0563
+TEXT: <<move_name_0251>>+
+
 RESOURCE ID: move_name_0564
 TEXT: <<move_name_0069>>+
+
+RESOURCE ID: move_name_0565
+TEXT: <<move_name_0304>>+
 
 RESOURCE ID: move_name_0566
 TEXT: <<move_name_0059>>+
@@ -69026,14 +69217,53 @@ TEXT: <<move_name_0382>>+
 RESOURCE ID: move_name_0568
 TEXT: <<move_name_0284>>+
 
+RESOURCE ID: move_name_0569
+TEXT: <<move_name_0103>>+
+
+RESOURCE ID: move_name_0571
+TEXT: <<move_name_0108>>+
+
 RESOURCE ID: move_name_0572
 TEXT: <<move_name_0030>>+
+
+RESOURCE ID: move_name_0573
+TEXT: <<move_name_0028>>+
+
+RESOURCE ID: move_name_0574
+TEXT: <<move_name_0091>>+
+
+RESOURCE ID: move_name_0575
+TEXT: <<move_name_0331>>+
+
+RESOURCE ID: move_name_0577
+TEXT: <<move_name_0065>>+
+
+RESOURCE ID: move_name_0578
+TEXT: <<move_name_0314>>+
+
+RESOURCE ID: move_name_0579
+TEXT: <<move_name_0074>>+
 
 RESOURCE ID: move_name_0580
 TEXT: <<move_name_0080>>+
 
+RESOURCE ID: move_name_0582
+TEXT: <<move_name_0497>>+
+
 RESOURCE ID: move_name_0583
 TEXT: <<move_name_0123>>+
+
+RESOURCE ID: move_name_0584
+TEXT: <<move_name_0024>>+
+
+RESOURCE ID: move_name_0585
+TEXT: <<move_name_0372>>+
+
+RESOURCE ID: move_name_0586
+TEXT: <<move_name_0082>>+
+
+RESOURCE ID: move_name_0587
+TEXT: <<move_name_0359>>+
 
 RESOURCE ID: move_name_0590
 TEXT: ดาบยักษ์ทะลวง
@@ -69046,6 +69276,9 @@ TEXT: ซุ่มยิง
 
 RESOURCE ID: move_name_0593
 TEXT: ดำน้ำ
+
+RESOURCE ID: move_name_0619
+TEXT: <<move_name_0064>>+
 
 RESOURCE ID: move_required_to_enable_adventure_effect
 TEXT: {0}ไม่รู้ท่าโจมตีชาร์จ "{1}" ดังนั้นมันจะไม่รู้ท่าที่มีเอฟเฟกต์ผจญภัยหลังรวมร่าง
@@ -86033,6 +86266,9 @@ TEXT: โปเกมอนตัวนี้จะเปลี่ยนเป�
 และเปลี่ยนเป็นฟอร์มโล่เมื่อใช้
 โล่ป้องกัน
 
+RESOURCE ID: pokemon_ibfc_desc_0774
+TEXT: เมื่อมี HP ครึ่งนึงขึ้นไป เปลือกภายนอกจะห่อหุ้มแกนกลาง และพลังป้องกันจะเพิ่มขึ้น
+
 RESOURCE ID: pokemon_ibfc_desc_0845_3349
 TEXT: เมื่อใช้ "โต้คลื่น" หรือ "ดำน้ำ" ตอนที่ HP สูงอยู่ มันจะคาบเหยื่อกลับมา เมื่อโดนท่าโจมตีชาร์จ จะคายเหยื่อใส่ฝ่ายตรงข้าม
 
@@ -86044,6 +86280,9 @@ TEXT: โปเกมอนตัวนี้จะมีรูปร่าง�
 
 RESOURCE ID: pokemon_ibfc_name_0681
 TEXT: ฟอร์มดาบ
+
+RESOURCE ID: pokemon_ibfc_name_0774
+TEXT: ร่างดาวตก
 
 RESOURCE ID: pokemon_ibfc_name_0778
 TEXT: ร่างที่ถูกเปิดเผย
@@ -86366,13 +86605,13 @@ RESOURCE ID: pokemon_info_multi_transfer_ultra_beast_pokemon_error
 TEXT: ไม่สามารถเลือกอัลตร้าบีสต์ได้
 
 RESOURCE ID: pokemon_info_no_evolve_pokemon
-TEXT: No Pokémon can use this item to evolve.
+TEXT: ไม่มีโปเกมอนที่สามารถใช้ไอเท็มนี้เพื่อวิวัฒนาการ
 
 RESOURCE ID: pokemon_info_no_fainted_pokemon
 TEXT: ไม่มีโปเกมอนที่ต้องฟื้นสภาพ
 
 RESOURCE ID: pokemon_info_no_hurt_pokemon
-TEXT: All Pokémon are fully healed.
+TEXT: โปเกมอนทั้งหมดแข็งแรงดี
 
 RESOURCE ID: pokemon_info_no_stats_available
 TEXT: ไม่มีหัวข้ออื่นที่สามารถฝึกได้
@@ -122614,7 +122853,7 @@ RESOURCE ID: recycle_dialog_suffix
 TEXT: {0}?
 
 RESOURCE ID: recycle_discard_all
-TEXT: YES, DISCARD ALL
+TEXT: ใช่ ทิ้งทั้งหมดเลย
 
 RESOURCE ID: reduced_buddy_candy_distance_routes
 TEXT: ลดระยะทางที่ต้องใช้ในการได้รับลูกอมจากคู่หูบนเส้นทาง
@@ -126419,14 +126658,20 @@ TEXT: อาจได้รับผลไพน์สีเงินหรื�
 RESOURCE ID: sa_account_creation_prompt
 TEXT: ไม่มีบัญชีของ Niantic Kids?
 
+RESOURCE ID: sa_account_creation_prompt_temp
+TEXT: ไม่มีบัญชีของ Kids @ Scopely Explore?
+
 RESOURCE ID: sa_auth_failed
 TEXT: ไม่สามารถตรวจสอบการเข้าสู่ระบบ โปรดลองอีกครั้ง
 
 RESOURCE ID: sa_auth_failed_permissions
 TEXT: กรุณาให้พ่อแม่หรือผู้ปกครองเข้าสู่บัญชี Niantic Kids และทำการอนุมัติบัญชีของคุณเพื่อเล่นเกมนี้
 
+RESOURCE ID: sa_auth_failed_permissions_temp
+TEXT: กรุณาให้พ่อแม่หรือผู้ปกครองเข้าสู่บัญชี Kids @ Scopely Explore และทำการอนุมัติบัญชีของคุณเพื่อเล่นเกมนี้
+
 RESOURCE ID: sa_forgot_password_url
-TEXT: https://niantic-sso.kws.superawesome.tv/en/password/forgot
+TEXT: https://sso.scopelyexplore.kidswebservices.com/th/password/forgot
 
 RESOURCE ID: sa_login_title
 TEXT: Niantic Kids
@@ -126434,14 +126679,23 @@ TEXT: Niantic Kids
 RESOURCE ID: sa_login_button
 TEXT: Niantic Kids
 
+RESOURCE ID: sa_login_button_temp
+TEXT: Kids @ Scopely Explore
+
 RESOURCE ID: sa_login_server_unreachable
 TEXT: ขณะนี้ Niantic Kids เกิดเหตุขัดข้อง ขออภัยในความไม่สะดวก
 
+RESOURCE ID: sa_login_server_unreachable_temp
+TEXT: Kids @ Scopely Explore ไม่สามารถใช้งานได้ในขณะนี้ ขออภัยในความไม่สะดวก
+
+RESOURCE ID: sa_login_title_temp
+TEXT: Kids @ Scopely Explore
+
 RESOURCE ID: sa_parent_dashboard_url
-TEXT: https://parents.nianticlabs.com/en/login
+TEXT: https://app.parents.scopelyexplore.com/portal/th/login
 
 RESOURCE ID: sa_registration_url
-TEXT: https://niantic-sso.kws.superawesome.tv/en/register
+TEXT: https://scopelyexplore-sso.kws.superawesome.tv/th/register
 
 RESOURCE ID: sableye_drop_mega_energy
 TEXT: เมื่อจับยามิรามิ อาจได้รับพลังงานเมก้าของยามิรามิ
@@ -139119,6 +139373,11 @@ TEXT: <b>สิ่งที่จะได้รับ:</b>
 - ลูกอมและลูกอม XL เพิ่มขึ้นจากแบตเทิลแมกซ์ห้าดาว
 - งานวิจัยแบบจำกัดเวลาที่มีรางวัลเป็น 6,400 อนุภาคแมกซ์และ 25,000 XP
 
+RESOURCE ID: text_rewards_key_dmaxsinnohlakemaxbattle26
+TEXT: <b>สิ่งที่จะได้รับ:</b>
+- 2× XP เมื่อแบตเทิลแมกซ์เสร็จสิ้น
+- งานวิจัยแบบจำกัดเวลาที่มีรางวัลเป็น 6,400 อนุภาคแมกซ์, 25,000 XP และไดมัชรูม
+
 RESOURCE ID: text_rewards_key_enamorustherianraidday
 TEXT: <b>รางวัลที่จะได้รับ:</b>
 - ลูกอุกกาบาต 1 ชิ้น
@@ -146530,6 +146789,9 @@ TEXT: เครื่องหอมดึงดูดโปเกมอนม�
 RESOURCE ID: tutorial_route_bonus_2
 TEXT: โปเกมอนที่ต่างไปจากปกติ
 อาจปรากฏตัวบนเส้นทาง
+
+RESOURCE ID: tutorial_route_bonus_2_temp
+TEXT: Specific Pokémon may appear more often on Routes in the wild
 
 RESOURCE ID: tutorial_route_play_title_0
 TEXT: วิธีเล่น "เส้นทาง (Route)"
