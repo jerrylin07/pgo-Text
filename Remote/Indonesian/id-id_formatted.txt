@@ -12511,7 +12511,7 @@ RESOURCE ID: badge_gowa_2026_sendai_addon_battle_title
 TEXT: GO Wild Area 2026: Battle Ready
 
 RESOURCE ID: badge_gowa_2026_sendai_addon_friday_title
-TEXT: GO Wild Area: Extra Day (Friday)
+TEXT: GO Wild Area 2026: Extra Day (Friday)
 
 RESOURCE ID: badge_gowa_2026_sendai_addon_hatch_title
 TEXT: GO Wild Area 2026: Egg-thusiast
@@ -21540,6 +21540,9 @@ TEXT: Kamu dapat menemukan Sel Zygarde saat menelusuri Rute. Sel tersebut dapat 
 RESOURCE ID: breakfast_tappable_tutorial_body_temp
 TEXT: Kamu bisa menemukan Sel Zygarde setelah menyelesaikan sebuah Rute. Kamu juga bisa menggabungkan Sel Zygarde itu untuk menciptakan berbagai bentuk Zygarde yang berbeda.
 
+RESOURCE ID: breakfast_tappable_tutorial_body_temp2
+TEXT: Collect up to 3 Zygarde Cells per day by completing Routes. Assemble your Cells to create different Zygarde forms.
+
 RESOURCE ID: breakthrough_free_remote_raid_pass
 TEXT: Tiket Raid Jarak Jauh dari Inovasi Penelitian
 
@@ -29359,6 +29362,9 @@ TEXT: Untuk detail lebih lanjut, kunjungi <a href="https://pokemongolive.com/new
 RESOURCE ID: details_link_key_dmax_ho_oh
 TEXT: Untuk detail lebih lanjut, kunjungi <a href="https://pokemongo.com/news/ho-oh-max-battle-weekend-2026">situs web</a>.
 
+RESOURCE ID: details_link_key_dmax_sinnoh_lake_max_battle
+TEXT: Untuk detail lebih lanjut, kunjungi <a href="https://pokemongo.com/news/dynamax-uxie-mesprit-azelf-max-battle-day-2026">situs web</a>.
+
 RESOURCE ID: details_link_key_entei_shadow_raid_day
 TEXT: Untuk detail lebih lanjut, kunjungi <a href="https://pokemongolive.com/news/shadow-entei-raid-day-2026">situs web</a>.
 
@@ -29551,6 +29557,9 @@ TEXT: Ditto yang ditangkap di alam liar mungkin memiliki Latar Belakang Spesial 
 RESOURCE ID: dmax_articuno_max_battles
 TEXT: Articuno Dynamax muncul di Pertarungan Max
 
+RESOURCE ID: dmax_azelf_lake_max_battles
+TEXT: Azelf Dynamax muncul di Pertarungan Max
+
 RESOURCE ID: dmax_battle_win_plural
 TEXT: Menangkan {0} Pertarungan Dynamax
 
@@ -29617,6 +29626,9 @@ TEXT: Pertarungan Max Akhir Pekan Lugia Dynamax
 RESOURCE ID: dmax_lugia_weekend_timed_research
 TEXT: Penelitian Berwaktu Pertarungan Max Akhir Pekan Lugia Dynamax
 
+RESOURCE ID: dmax_mesprit_lake_max_battles
+TEXT: Mesprit Dynamax muncul di Pertarungan Max
+
 RESOURCE ID: dmax_moltres_max_battles
 TEXT: Moltres Dynamax muncul di Pertarungan Max
 
@@ -29629,6 +29641,9 @@ TEXT: Pertarungan Max Akhir Pekan Raikou Dynamax
 RESOURCE ID: dmax_raikou_weekend_timed_research
 TEXT: Penelitian Berwaktu Pertarungan Max Akhir Pekan Raikou Dynamax
 
+RESOURCE ID: dmax_sinnoh_lake_mbd_tr_oct26
+TEXT: Penelitian Berwaktu Premium Hari Pertarungan Max Uxie, Mesprit, dan Azelf Dynamax
+
 RESOURCE ID: dmax_suicune_max_battles
 TEXT: Suicune Dynamax muncul di Pertarungan Max
 
@@ -29637,6 +29652,9 @@ TEXT: Pertarungan Max Akhir Pekan Suicune Dynamax
 
 RESOURCE ID: dmax_suicune_weekend_timed_research
 TEXT: Penelitian Berwaktu Pertarungan Max Akhir Pekan Suicune Dynamax
+
+RESOURCE ID: dmax_uxie_lake_max_battles
+TEXT: Uxie Dynamax muncul di Pertarungan Max
 
 RESOURCE ID: dmax_zapdos_max_battles
 TEXT: Zapdos Dynamax muncul di Pertarungan Max
@@ -39097,6 +39115,9 @@ TEXT: Tiket Hari Raid Mega Camerupt
 
 RESOURCE ID: general2.ticket.5_megakangaskhanraidday_title
 TEXT: Tiket Hari Raid Mega Kangaskhan
+
+RESOURCE ID: general2.ticket.6.dmax_sinnoh_lake_max_battle
+TEXT: Tiket Hari Pertarungan Max Uxie, Mesprit, dan Azelf Dynamax
 
 RESOURCE ID: general2.ticket.6.replay_go_bigger
 TEXT: Tiket Putar Ulang: GO Makin Besar
@@ -50180,6 +50201,9 @@ TEXT: Berakhir hari ini!
 RESOURCE ID: iap_sale_time_left_label
 TEXT: Sisa waktu:
 
+RESOURCE ID: ibfc_minior_transformed
+TEXT: Minior transformed!
+
 RESOURCE ID: ibfc_warn_needed_move
 TEXT: {0} diperlukan untuk mengubah wujud Cramorant dalam pertarungan.
 
@@ -53009,6 +53033,12 @@ TEXT: Tiket untuk mengakses bonus spesial pada 3 Oktober 2026, mulai pukul 14.00
 RESOURCE ID: item_event_ticket_s24_oct_3_maxbattle_details_gmaxcinderace26
 TEXT: Tiket ini akan aktif secara otomatis dan memberimu akses ke bonus spesial pada tanggal 3 Oktober, di mana pun kamu berada.
 
+RESOURCE ID: item_event_ticket_s24_oct_24_maxbattle_desc
+TEXT: Tiket untuk mengakses bonus spesial pada 24 Oktober 2026, mulai pukul 14.00 hingga 17.00 waktu setempat, di mana pun kamu berada.
+
+RESOURCE ID: item_event_ticket_s24_oct_24_maxbattle_details
+TEXT: Tiket ini akan aktif secara otomatis dan memberimu akses ke bonus spesial pada tanggal 24 Oktober, di mana pun kamu berada.
+
 RESOURCE ID: item_event_ticket_to_gift_desc
 TEXT: Tiket event tambahan dari kesalahan pembelian. Kamu bisa mengirimkannya ke teman atau meminta pengembalian dana.
 
@@ -54614,28 +54644,28 @@ RESOURCE ID: kr_ditto_event_2025_tr_name_3
 TEXT: Penelitian Berwaktu Transformasi (3/3)
 
 RESOURCE ID: kr_fcseoul_collab_2026_title
-TEXT: FC Seoul Event 2026
+TEXT: Event FC Seoul 2026
 
 RESOURCE ID: kr_fcseoul_collab_2026_bonus_raid_lc_desc
-TEXT: During event hours on October 24, Charmander caught from raids around the Seoul World Cup Stadium event area may have an exclusive Location Background
+TEXT: Selama jam berlangsungnya event pada tanggal 24 Oktober, Charmander yang ditangkap dari Raid di sekitar area event Seoul World Cup Stadium mungkin memiliki Latar Belakang Lokasi eksklusif
 
 RESOURCE ID: kr_fcseoul_collab_2026_bonus_tr_lc_desc
-TEXT: Charizard encountered from event Timed Research will have an exclusive Location Background
+TEXT: Charizard yang ditangkap dari Penelitian Berwaktu event akan memiliki Latar Belakang Lokasi eksklusif
 
 RESOURCE ID: kr_fcseoul_collab_2026_bonus_wild_pokemon
-TEXT: Catch Fire-type Pokémon around the Seoul World Cup Stadium event area—let’s fire it up for FC Seoul!
+TEXT: Tangkap Pokémon tipe Api di sekitar area event Seoul World Cup Stadium—ayo kobarkan semangat untuk FC Seoul!
 
 RESOURCE ID: kr_fcseoul_collab_2026_tr_name
-TEXT: FC Seoul Event 2026 Timed Research
+TEXT: Penelitian Berwaktu Event FC Seoul 2026
 
 RESOURCE ID: kr_fcseoul_collab_2026_tr_name_1
-TEXT: FC Seoul Event 2026 Timed Research (1/3)
+TEXT: Penelitian Berwaktu Event FC Seoul 2026 (1/3)
 
 RESOURCE ID: kr_fcseoul_collab_2026_tr_name_2
-TEXT: FC Seoul Event 2026 Timed Research (2/3)
+TEXT: Penelitian Berwaktu Event FC Seoul 2026 (2/3)
 
 RESOURCE ID: kr_fcseoul_collab_2026_tr_name_3
-TEXT: FC Seoul Event 2026 Timed Research (3/3)
+TEXT: Penelitian Berwaktu Event FC Seoul 2026 (3/3)
 
 RESOURCE ID: kr_festival_fr_location_background
 TEXT: Deerling dan Pikachu berkostum yang ditangkap dari Raid dan tugas Penelitian Lapangan mungkin memiliki Latar Belakang Lokasi eksklusif.
@@ -59200,6 +59230,12 @@ TEXT: XP dari memenangkan Pertarungan Max ×2
 RESOURCE ID: max_battle_day_dmax_ho_oh_ticketed
 TEXT: Bonus Tiket Pertarungan Max Akhir Pekan Ho-Oh Dynamax
 
+RESOURCE ID: max_battle_day_dmax_sinnoh_lake_ticketed
+TEXT: Bonus Tiket Hari Pertarungan Max Uxie, Mesprit, dan Azelf Dynamax
+
+RESOURCE ID: max_battle_day_dmax_sinnoh_lake_event_name
+TEXT: Hari Pertarungan Max Uxie, Mesprit, dan Azelf Dynamax
+
 RESOURCE ID: max_battle_day_gigantamax_butterfree_ticketed
 TEXT: Bonus Tiket Hari Pertarungan Max Butterfree Gigantamax
 
@@ -60178,10 +60214,16 @@ at SHA 12701f1c07ae7f07a5d50583f697320977df7988
 Pipeline 1139111, job 13470914
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-09-29T01:11:14.795037+00:00 for id-ID
-at SHA 8cfff611670
-Pipeline 3977616, job 58549183
-Patch from: 0.431.0-SHA-873aaf5c-RC2, 0.429.1-SHA-5521c4dc-RC1, 0.433.0-SHA-d37b1aa1-RC1
+TEXT: Built at 2026-10-02T01:29:28.079524+00:00 for id-ID
+at SHA a4a89ae58b0
+Pipeline 3987814, job 58728214
+Patch from: 0.431.0-SHA-98b5070c-RC6, 0.429.2-SHA-ad36de78-RC2, 0.433.0-SHA-d37b1aa1-RC1
+
+RESOURCE ID: meteor_title_1
+TEXT: HUJAN METEOR
+
+RESOURCE ID: meteor_desc_1
+TEXT: Temukan Minior pada malam hari saat hujan meteor.
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: Penelitian Berwaktu: Pilih Tipe Petarungmu
@@ -61791,8 +61833,23 @@ TEXT: <<move_name_0275>>+
 RESOURCE ID: move_name_0497
 TEXT: Plasma Fist
 
+RESOURCE ID: move_name_0498
+TEXT: <<move_name_0296>>+
+
+RESOURCE ID: move_name_0499
+TEXT: <<move_name_0083>>+
+
+RESOURCE ID: move_name_0500
+TEXT: <<move_name_0298>>+
+
+RESOURCE ID: move_name_0501
+TEXT: <<move_name_0299>>+
+
 RESOURCE ID: move_name_0502
 TEXT: <<move_name_0311>>+
+
+RESOURCE ID: move_name_0503
+TEXT: <<move_name_0122>>+
 
 RESOURCE ID: move_name_0504
 TEXT: <<move_name_0399>>+
@@ -61803,17 +61860,47 @@ TEXT: <<move_name_0252>>+
 RESOURCE ID: move_name_0506
 TEXT: <<move_name_0087>>+
 
+RESOURCE ID: move_name_0507
+TEXT: <<move_name_0060>>+
+
 RESOURCE ID: move_name_0508
 TEXT: <<move_name_0303>>+
 
 RESOURCE ID: move_name_0509
 TEXT: <<move_name_0488>>+
 
+RESOURCE ID: move_name_0510
+TEXT: <<move_name_0070>>+
+
 RESOURCE ID: move_name_0512
 TEXT: <<move_name_0383>>+
 
+RESOURCE ID: move_name_0513
+TEXT: <<move_name_0045>>+
+
+RESOURCE ID: move_name_0514
+TEXT: <<move_name_0333>>+
+
 RESOURCE ID: move_name_0515
 TEXT: <<move_name_0277>>+
+
+RESOURCE ID: move_name_0516
+TEXT: <<move_name_0116>>+
+
+RESOURCE ID: move_name_0517
+TEXT: <<move_name_0379>>+
+
+RESOURCE ID: move_name_0518
+TEXT: <<move_name_0077>>+
+
+RESOURCE ID: move_name_0519
+TEXT: <<move_name_0267>>+
+
+RESOURCE ID: move_name_0520
+TEXT: <<move_name_0100>>+
+
+RESOURCE ID: move_name_0521
+TEXT: <<move_name_0306>>+
 
 RESOURCE ID: move_name_0522
 TEXT: <<move_name_0038>>+
@@ -61821,17 +61908,95 @@ TEXT: <<move_name_0038>>+
 RESOURCE ID: move_name_0523
 TEXT: <<move_name_0016>>+
 
+RESOURCE ID: move_name_0524
+TEXT: <<move_name_0032>>+
+
+RESOURCE ID: move_name_0525
+TEXT: <<move_name_0117>>+
+
+RESOURCE ID: move_name_0526
+TEXT: <<move_name_0317>>+
+
+RESOURCE ID: move_name_0527
+TEXT: <<move_name_0316>>+
+
+RESOURCE ID: move_name_0528
+TEXT: <<move_name_0086>>+
+
 RESOURCE ID: move_name_0529
 TEXT: <<move_name_0265>>+
+
+RESOURCE ID: move_name_0530
+TEXT: <<move_name_0088>>+
+
+RESOURCE ID: move_name_0531
+TEXT: <<move_name_0268>>+
+
+RESOURCE ID: move_name_0532
+TEXT: <<move_name_0408>>+
 
 RESOURCE ID: move_name_0533
 TEXT: <<move_name_0035>>+
 
+RESOURCE ID: move_name_0534
+TEXT: <<move_name_0279>>+
+
+RESOURCE ID: move_name_0535
+TEXT: <<move_name_0042>>+
+
+RESOURCE ID: move_name_0536
+TEXT: <<move_name_0084>>+
+
+RESOURCE ID: move_name_0537
+TEXT: <<move_name_0067>>+
+
+RESOURCE ID: move_name_0538
+TEXT: <<move_name_0036>>+
+
+RESOURCE ID: move_name_0539
+TEXT: <<move_name_0051>>+
+
+RESOURCE ID: move_name_0540
+TEXT: <<move_name_0066>>+
+
 RESOURCE ID: move_name_0541
 TEXT: <<move_name_0039>>+
 
+RESOURCE ID: move_name_0542
+TEXT: <<move_name_0341>>+
+
+RESOURCE ID: move_name_0543
+TEXT: <<move_name_0301>>+
+
+RESOURCE ID: move_name_0544
+TEXT: <<move_name_0366>>+
+
+RESOURCE ID: move_name_0545
+TEXT: <<move_name_0365>>+
+
+RESOURCE ID: move_name_0546
+TEXT: <<move_name_0384>>+
+
 RESOURCE ID: move_name_0547
 TEXT: <<move_name_0256>>+
+
+RESOURCE ID: move_name_0548
+TEXT: <<move_name_0245>>+
+
+RESOURCE ID: move_name_0549
+TEXT: <<move_name_0031>>+
+
+RESOURCE ID: move_name_0550
+TEXT: <<move_name_0285>>+
+
+RESOURCE ID: move_name_0551
+TEXT: <<move_name_0332>>+
+
+RESOURCE ID: move_name_0552
+TEXT: <<move_name_0247>>+
+
+RESOURCE ID: move_name_0553
+TEXT: <<move_name_0040>>+
 
 RESOURCE ID: move_name_0554
 TEXT: <<move_name_0330>>+
@@ -61839,11 +62004,32 @@ TEXT: <<move_name_0330>>+
 RESOURCE ID: move_name_0555
 TEXT: <<move_name_0293>>+
 
+RESOURCE ID: move_name_0556
+TEXT: <<move_name_0386>>+
+
+RESOURCE ID: move_name_0558
+TEXT: <<move_name_0101>>+
+
+RESOURCE ID: move_name_0559
+TEXT: <<move_name_0046>>+
+
+RESOURCE ID: move_name_0560
+TEXT: <<move_name_0085>>+
+
+RESOURCE ID: move_name_0561
+TEXT: <<move_name_0022>>+
+
 RESOURCE ID: move_name_0562
 TEXT: <<move_name_0471>>+
 
+RESOURCE ID: move_name_0563
+TEXT: <<move_name_0251>>+
+
 RESOURCE ID: move_name_0564
 TEXT: <<move_name_0069>>+
+
+RESOURCE ID: move_name_0565
+TEXT: <<move_name_0304>>+
 
 RESOURCE ID: move_name_0566
 TEXT: <<move_name_0059>>+
@@ -61854,14 +62040,53 @@ TEXT: <<move_name_0382>>+
 RESOURCE ID: move_name_0568
 TEXT: <<move_name_0284>>+
 
+RESOURCE ID: move_name_0569
+TEXT: <<move_name_0103>>+
+
+RESOURCE ID: move_name_0571
+TEXT: <<move_name_0108>>+
+
 RESOURCE ID: move_name_0572
 TEXT: <<move_name_0030>>+
+
+RESOURCE ID: move_name_0573
+TEXT: <<move_name_0028>>+
+
+RESOURCE ID: move_name_0574
+TEXT: <<move_name_0091>>+
+
+RESOURCE ID: move_name_0575
+TEXT: <<move_name_0331>>+
+
+RESOURCE ID: move_name_0577
+TEXT: <<move_name_0065>>+
+
+RESOURCE ID: move_name_0578
+TEXT: <<move_name_0314>>+
+
+RESOURCE ID: move_name_0579
+TEXT: <<move_name_0074>>+
 
 RESOURCE ID: move_name_0580
 TEXT: <<move_name_0080>>+
 
+RESOURCE ID: move_name_0582
+TEXT: <<move_name_0497>>+
+
 RESOURCE ID: move_name_0583
 TEXT: <<move_name_0123>>+
+
+RESOURCE ID: move_name_0584
+TEXT: <<move_name_0024>>+
+
+RESOURCE ID: move_name_0585
+TEXT: <<move_name_0372>>+
+
+RESOURCE ID: move_name_0586
+TEXT: <<move_name_0082>>+
+
+RESOURCE ID: move_name_0587
+TEXT: <<move_name_0359>>+
 
 RESOURCE ID: move_name_0590
 TEXT: Serbuan Pedang
@@ -61874,6 +62099,9 @@ TEXT: Tembakan Jitu
 
 RESOURCE ID: move_name_0593
 TEXT: Menyelam
+
+RESOURCE ID: move_name_0619
+TEXT: <<move_name_0064>>+
 
 RESOURCE ID: move_required_to_enable_adventure_effect
 TEXT: {0} tidak mempelajari {1}, sehingga ia tidak dapat mempelajari jurus dengan Efek Petualangan setelah fusi.
@@ -63491,7 +63719,7 @@ RESOURCE ID: n_pants_skinnyjeans_2_display_name
 TEXT: Skinny Jeans
 
 RESOURCE ID: n_pants_skinnyjeans_a_0_display_name
-TEXT: Skinny Jeans (Biru Gelap)
+TEXT: Skinny Jeans (Biru Dongker)
 
 RESOURCE ID: n_pants_skinnyjeans_b_0_display_name
 TEXT: Skinny Jeans (Hitam)
@@ -76425,6 +76653,9 @@ TEXT: PERTAHANAN BERUBAH
 RESOURCE ID: pokemon_ibfc_desc_0681
 TEXT: Pokémon ini berubah menjadi Bentuk Pedang ketika ia menggunakan Jurus Super dan berubah menjadi Bentuk Perisai ketika ia menggunakan Perisai.
 
+RESOURCE ID: pokemon_ibfc_desc_0774
+TEXT: Saat HP-nya setengah atau lebih, cangkang luar Pokémon ini melapisi intinya dan meningkatkan Pertahanannya.
+
 RESOURCE ID: pokemon_ibfc_desc_0845_3349
 TEXT: Setelah menggunakan Berselancar atau Menyelam pada saat HP tinggi, Cramorant akan berubah ke wujud ini. Ketika terkena Jurus Super, ia memuntahkan mangsanya pada lawan.
 
@@ -76436,6 +76667,9 @@ TEXT: Pokémon ini akan berganti wujud saat menggunakan Jurus Super. Dalam Pola 
 
 RESOURCE ID: pokemon_ibfc_name_0681
 TEXT: Bentuk Pedang
+
+RESOURCE ID: pokemon_ibfc_name_0774
+TEXT: Wujud Meteor
 
 RESOURCE ID: pokemon_ibfc_name_0778
 TEXT: Wujud Ketahuan
@@ -112978,14 +113212,20 @@ TEXT: Kesempatan mendapatkan Beri Pinap Perak atau Beri Razz Emas dengan memutar
 RESOURCE ID: sa_account_creation_prompt
 TEXT: Belum punya akun Niantic Kids?
 
+RESOURCE ID: sa_account_creation_prompt_temp
+TEXT: Belum punya akun Kids @ Scopely Explore?
+
 RESOURCE ID: sa_auth_failed
 TEXT: Tidak dapat mengautentikasi. Coba lagi.
 
 RESOURCE ID: sa_auth_failed_permissions
 TEXT: Untuk memainkan game ini, mintalah orang tua atau wali masuk ke akun Niantic Kids dan aktifkan izin untuk akunmu.
 
+RESOURCE ID: sa_auth_failed_permissions_temp
+TEXT: Untuk memainkan game ini, mintalah orang tua atau wali untuk masuk ke akun Kids @ Scopely Explore dan mengaktifkan izin untuk akunmu.
+
 RESOURCE ID: sa_forgot_password_url
-TEXT: https://niantic-sso.kws.superawesome.tv/en/password/forgot
+TEXT: https://sso.scopelyexplore.kidswebservices.com/id/password/forgot
 
 RESOURCE ID: sa_login_title
 TEXT: Niantic Kids
@@ -112993,14 +113233,23 @@ TEXT: Niantic Kids
 RESOURCE ID: sa_login_button
 TEXT: Niantic Kids
 
+RESOURCE ID: sa_login_button_temp
+TEXT: Kids @ Scopely Explore
+
 RESOURCE ID: sa_login_server_unreachable
 TEXT: Niantic Kids tidak tersedia saat ini. Mohon maaf atas ketidaknyamanannya.
 
+RESOURCE ID: sa_login_server_unreachable_temp
+TEXT: Kids @ Scopely Explore tidak tersedia saat ini. Mohon maaf atas ketidaknyamanannya.
+
+RESOURCE ID: sa_login_title_temp
+TEXT: Kids @ Scopely Explore
+
 RESOURCE ID: sa_parent_dashboard_url
-TEXT: https://parents.nianticlabs.com/en/login
+TEXT: https://app.parents.scopelyexplore.com/portal/id/login
 
 RESOURCE ID: sa_registration_url
-TEXT: https://niantic-sso.kws.superawesome.tv/en/register
+TEXT: https://scopelyexplore-sso.kws.superawesome.tv/id/register
 
 RESOURCE ID: sableye_drop_mega_energy
 TEXT: Menangkap Sableye bisa menghadiahkan Energi Mega Sableye
@@ -124312,6 +124561,11 @@ TEXT: <b>Termasuk:</b>
 • Permen dan Permen XL dari Pertarungan Max bintang lima meningkat
 • Penelitian Berwaktu yang berhadiah 6.400 Partikel Max dan 25.000 XP
 
+RESOURCE ID: text_rewards_key_dmaxsinnohlakemaxbattle26
+TEXT: <b>Termasuk:</b>
+• XP ×2 dari Pertarungan Max
+• Penelitian Berwaktu yang berhadiah 6.400 Partikel Max, 25.000 XP, dan 1 Jamur Max
+
 RESOURCE ID: text_rewards_key_enamorustherianraidday
 TEXT: <b>Termasuk Hadiah:</b>
 • 1 Meteorit
@@ -130955,6 +131209,9 @@ TEXT: Pewangi memikat lebih banyak Pokémon pada Rute baru.
 
 RESOURCE ID: tutorial_route_bonus_2
 TEXT: Pokémon yang unik akan muncul di Rute
+
+RESOURCE ID: tutorial_route_bonus_2_temp
+TEXT: Specific Pokémon may appear more often on Routes in the wild
 
 RESOURCE ID: tutorial_route_play_title_0
 TEXT: Memainkan Rute

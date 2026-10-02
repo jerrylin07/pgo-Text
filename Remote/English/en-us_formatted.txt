@@ -12576,7 +12576,7 @@ RESOURCE ID: badge_gowa_2026_sendai_addon_battle_title
 TEXT: GO Wild Area 2026: Battle Ready
 
 RESOURCE ID: badge_gowa_2026_sendai_addon_friday_title
-TEXT: GO Wild Area: Extra Day (Friday)
+TEXT: GO Wild Area 2026: Extra Day (Friday)
 
 RESOURCE ID: badge_gowa_2026_sendai_addon_hatch_title
 TEXT: GO Wild Area 2026: Egg-thusiast
@@ -21607,6 +21607,9 @@ TEXT: You can find Zygarde Cells while you’re following a Route. You can assem
 
 RESOURCE ID: breakfast_tappable_tutorial_body_temp
 TEXT: You can find Zygarde Cells after completing a Route. You can assemble Zygarde Cells to create different Zygarde forms.
+
+RESOURCE ID: breakfast_tappable_tutorial_body_temp2
+TEXT: Collect up to 3 Zygarde Cells per day by completing Routes. Assemble your Cells to create different Zygarde forms.
 
 RESOURCE ID: breakthrough_free_remote_raid_pass
 TEXT: Remote Raid Pass from Research Breakthroughs
@@ -31611,6 +31614,9 @@ TEXT: For more details, visit the <a href="https://pokemongolive.com/news">websi
 RESOURCE ID: details_link_key_dmax_ho_oh
 TEXT: For more details, visit the <a href="https://pokemongo.com/news/ho-oh-max-battle-weekend-2026">website</a>.
 
+RESOURCE ID: details_link_key_dmax_sinnoh_lake_max_battle
+TEXT: For more details, visit the <a href="https://pokemongo.com/news/dynamax-uxie-mesprit-azelf-max-battle-day-2026">website</a>.
+
 RESOURCE ID: details_link_key_entei_shadow_raid_day
 TEXT: For more details, visit the <a href="https://pokemongolive.com/news/shadow-entei-raid-day-2026">website</a>.
 
@@ -31803,6 +31809,9 @@ TEXT: Ditto caught in the wild may have an event-themed Special Background
 RESOURCE ID: dmax_articuno_max_battles
 TEXT: Dynamax Articuno is appearing in Max Battles
 
+RESOURCE ID: dmax_azelf_lake_max_battles
+TEXT: Dynamax Azelf is appearing in Max Battles
+
 RESOURCE ID: dmax_battle_win_plural
 TEXT: Win {0} Dynamax Battles
 
@@ -31869,6 +31878,9 @@ TEXT: Dynamax Lugia Max Battle Weekend
 RESOURCE ID: dmax_lugia_weekend_timed_research
 TEXT: Dynamax Lugia Max Battle Weekend Timed Research
 
+RESOURCE ID: dmax_mesprit_lake_max_battles
+TEXT: Dynamax Mesprit is appearing in Max Battles
+
 RESOURCE ID: dmax_moltres_max_battles
 TEXT: Dynamax Moltres is appearing in Max Battles
 
@@ -31881,6 +31893,9 @@ TEXT: Dynamax Raikou Max Battle Weekend
 RESOURCE ID: dmax_raikou_weekend_timed_research
 TEXT: Dynamax Raikou Max Battle Weekend Timed Research
 
+RESOURCE ID: dmax_sinnoh_lake_mbd_tr_oct26
+TEXT: Dynamax Uxie, Mesprit, and Azelf Max Battle Day Premium Timed Research
+
 RESOURCE ID: dmax_suicune_max_battles
 TEXT: Dynamax Suicune is appearing in Max Battles
 
@@ -31889,6 +31904,9 @@ TEXT: Dynamax Suicune Max Battle Weekend
 
 RESOURCE ID: dmax_suicune_weekend_timed_research
 TEXT: Dynamax Suicune Max Battle Weekend Timed Research
+
+RESOURCE ID: dmax_uxie_lake_max_battles
+TEXT: Dynamax Uxie is appearing in Max Battles
 
 RESOURCE ID: dmax_zapdos_max_battles
 TEXT: Dynamax Zapdos is appearing in Max Battles
@@ -41411,6 +41429,9 @@ TEXT: Mega Camerupt Raid Day Ticket
 
 RESOURCE ID: general2.ticket.5_megakangaskhanraidday_title
 TEXT: Mega Kangaskhan Raid Day Ticket
+
+RESOURCE ID: general2.ticket.6.dmax_sinnoh_lake_max_battle
+TEXT: Dynamax Uxie, Mesprit, and Azelf Max Battle Day Ticket
 
 RESOURCE ID: general2.ticket.6.replay_go_bigger
 TEXT: Replay: GO Bigger Ticket
@@ -52501,6 +52522,9 @@ TEXT: Ends today!
 RESOURCE ID: iap_sale_time_left_label
 TEXT: Time left: 
 
+RESOURCE ID: ibfc_minior_transformed
+TEXT: Minior transformed!
+
 RESOURCE ID: ibfc_warn_needed_move
 TEXT: {0} is required to change Cramorant’s form in battle.
 
@@ -55333,6 +55357,12 @@ TEXT: A ticket to access special bonuses on October 3, 2026, from 2:00 p.m. to 5
 
 RESOURCE ID: item_event_ticket_s24_oct_3_maxbattle_details_gmaxcinderace26
 TEXT: This ticket will automatically activate to give you access to special bonuses on October 3, wherever you are.
+
+RESOURCE ID: item_event_ticket_s24_oct_24_maxbattle_desc
+TEXT: A ticket to access special bonuses on October 24, 2026, from 2:00 p.m. to 5:00 p.m. local time, wherever you are.
+
+RESOURCE ID: item_event_ticket_s24_oct_24_maxbattle_details
+TEXT: This ticket will automatically activate to give you access to special bonuses on October 24, wherever you are.
 
 RESOURCE ID: item_event_ticket_to_gift_desc
 TEXT: An extra event ticket from a purchase error. You can send it to a friend or get it refunded.
@@ -61559,6 +61589,12 @@ TEXT: 2× XP for winning Max Battles
 RESOURCE ID: max_battle_day_dmax_ho_oh_ticketed
 TEXT: Dynamax Ho-Oh Max Battle Weekend Ticket Bonuses
 
+RESOURCE ID: max_battle_day_dmax_sinnoh_lake_ticketed
+TEXT: Dynamax Uxie, Mesprit, and Azelf Max Battle Day Ticket Bonuses
+
+RESOURCE ID: max_battle_day_dmax_sinnoh_lake_event_name
+TEXT: Dynamax Uxie, Mesprit, and Azelf Max Battle Day
+
 RESOURCE ID: max_battle_day_gigantamax_butterfree_ticketed
 TEXT: Gigantamax Butterfree Max Battle Day Ticket Bonuses
 
@@ -62537,10 +62573,16 @@ at SHA 4d4f3e80cc7fb911006bd14d198c9831ef66d005
 Pipeline 339838, job 2672172
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-09-29T01:11:14.795037+00:00 for en-US
-at SHA 8cfff611670
-Pipeline 3977616, job 58549183
-Patch from: 0.431.0-SHA-873aaf5c-RC2, 0.429.1-SHA-5521c4dc-RC1, 0.433.0-SHA-d37b1aa1-RC1
+TEXT: Built at 2026-10-02T01:29:28.079524+00:00 for en-US
+at SHA a4a89ae58b0
+Pipeline 3987814, job 58728214
+Patch from: 0.431.0-SHA-98b5070c-RC6, 0.429.2-SHA-ad36de78-RC2, 0.433.0-SHA-d37b1aa1-RC1
+
+RESOURCE ID: meteor_title_1
+TEXT: METEOR SHOWER
+
+RESOURCE ID: meteor_desc_1
+TEXT: Find Minior in the evenings during meteor showers.
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: Timed Research: Choose Your Fighting Type
@@ -64150,8 +64192,23 @@ TEXT: <<move_name_0275>>+
 RESOURCE ID: move_name_0497
 TEXT: Plasma Fists
 
+RESOURCE ID: move_name_0498
+TEXT: <<move_name_0296>>+
+
+RESOURCE ID: move_name_0499
+TEXT: <<move_name_0083>>+
+
+RESOURCE ID: move_name_0500
+TEXT: <<move_name_0298>>+
+
+RESOURCE ID: move_name_0501
+TEXT: <<move_name_0299>>+
+
 RESOURCE ID: move_name_0502
 TEXT: <<move_name_0311>>+
+
+RESOURCE ID: move_name_0503
+TEXT: <<move_name_0122>>+
 
 RESOURCE ID: move_name_0504
 TEXT: <<move_name_0399>>+
@@ -64162,17 +64219,47 @@ TEXT: <<move_name_0252>>+
 RESOURCE ID: move_name_0506
 TEXT: <<move_name_0087>>+
 
+RESOURCE ID: move_name_0507
+TEXT: <<move_name_0060>>+
+
 RESOURCE ID: move_name_0508
 TEXT: <<move_name_0303>>+
 
 RESOURCE ID: move_name_0509
 TEXT: <<move_name_0488>>+
 
+RESOURCE ID: move_name_0510
+TEXT: <<move_name_0070>>+
+
 RESOURCE ID: move_name_0512
 TEXT: <<move_name_0383>>+
 
+RESOURCE ID: move_name_0513
+TEXT: <<move_name_0045>>+
+
+RESOURCE ID: move_name_0514
+TEXT: <<move_name_0333>>+
+
 RESOURCE ID: move_name_0515
 TEXT: <<move_name_0277>>+
+
+RESOURCE ID: move_name_0516
+TEXT: <<move_name_0116>>+
+
+RESOURCE ID: move_name_0517
+TEXT: <<move_name_0379>>+
+
+RESOURCE ID: move_name_0518
+TEXT: <<move_name_0077>>+
+
+RESOURCE ID: move_name_0519
+TEXT: <<move_name_0267>>+
+
+RESOURCE ID: move_name_0520
+TEXT: <<move_name_0100>>+
+
+RESOURCE ID: move_name_0521
+TEXT: <<move_name_0306>>+
 
 RESOURCE ID: move_name_0522
 TEXT: <<move_name_0038>>+
@@ -64180,17 +64267,95 @@ TEXT: <<move_name_0038>>+
 RESOURCE ID: move_name_0523
 TEXT: <<move_name_0016>>+
 
+RESOURCE ID: move_name_0524
+TEXT: <<move_name_0032>>+
+
+RESOURCE ID: move_name_0525
+TEXT: <<move_name_0117>>+
+
+RESOURCE ID: move_name_0526
+TEXT: <<move_name_0317>>+
+
+RESOURCE ID: move_name_0527
+TEXT: <<move_name_0316>>+
+
+RESOURCE ID: move_name_0528
+TEXT: <<move_name_0086>>+
+
 RESOURCE ID: move_name_0529
 TEXT: <<move_name_0265>>+
+
+RESOURCE ID: move_name_0530
+TEXT: <<move_name_0088>>+
+
+RESOURCE ID: move_name_0531
+TEXT: <<move_name_0268>>+
+
+RESOURCE ID: move_name_0532
+TEXT: <<move_name_0408>>+
 
 RESOURCE ID: move_name_0533
 TEXT: <<move_name_0035>>+
 
+RESOURCE ID: move_name_0534
+TEXT: <<move_name_0279>>+
+
+RESOURCE ID: move_name_0535
+TEXT: <<move_name_0042>>+
+
+RESOURCE ID: move_name_0536
+TEXT: <<move_name_0084>>+
+
+RESOURCE ID: move_name_0537
+TEXT: <<move_name_0067>>+
+
+RESOURCE ID: move_name_0538
+TEXT: <<move_name_0036>>+
+
+RESOURCE ID: move_name_0539
+TEXT: <<move_name_0051>>+
+
+RESOURCE ID: move_name_0540
+TEXT: <<move_name_0066>>+
+
 RESOURCE ID: move_name_0541
 TEXT: <<move_name_0039>>+
 
+RESOURCE ID: move_name_0542
+TEXT: <<move_name_0341>>+
+
+RESOURCE ID: move_name_0543
+TEXT: <<move_name_0301>>+
+
+RESOURCE ID: move_name_0544
+TEXT: <<move_name_0366>>+
+
+RESOURCE ID: move_name_0545
+TEXT: <<move_name_0365>>+
+
+RESOURCE ID: move_name_0546
+TEXT: <<move_name_0384>>+
+
 RESOURCE ID: move_name_0547
 TEXT: <<move_name_0256>>+
+
+RESOURCE ID: move_name_0548
+TEXT: <<move_name_0245>>+
+
+RESOURCE ID: move_name_0549
+TEXT: <<move_name_0031>>+
+
+RESOURCE ID: move_name_0550
+TEXT: <<move_name_0285>>+
+
+RESOURCE ID: move_name_0551
+TEXT: <<move_name_0332>>+
+
+RESOURCE ID: move_name_0552
+TEXT: <<move_name_0247>>+
+
+RESOURCE ID: move_name_0553
+TEXT: <<move_name_0040>>+
 
 RESOURCE ID: move_name_0554
 TEXT: <<move_name_0330>>+
@@ -64198,11 +64363,32 @@ TEXT: <<move_name_0330>>+
 RESOURCE ID: move_name_0555
 TEXT: <<move_name_0293>>+
 
+RESOURCE ID: move_name_0556
+TEXT: <<move_name_0386>>+
+
+RESOURCE ID: move_name_0558
+TEXT: <<move_name_0101>>+
+
+RESOURCE ID: move_name_0559
+TEXT: <<move_name_0046>>+
+
+RESOURCE ID: move_name_0560
+TEXT: <<move_name_0085>>+
+
+RESOURCE ID: move_name_0561
+TEXT: <<move_name_0022>>+
+
 RESOURCE ID: move_name_0562
 TEXT: <<move_name_0471>>+
 
+RESOURCE ID: move_name_0563
+TEXT: <<move_name_0251>>+
+
 RESOURCE ID: move_name_0564
 TEXT: <<move_name_0069>>+
+
+RESOURCE ID: move_name_0565
+TEXT: <<move_name_0304>>+
 
 RESOURCE ID: move_name_0566
 TEXT: <<move_name_0059>>+
@@ -64213,14 +64399,53 @@ TEXT: <<move_name_0382>>+
 RESOURCE ID: move_name_0568
 TEXT: <<move_name_0284>>+
 
+RESOURCE ID: move_name_0569
+TEXT: <<move_name_0103>>+
+
+RESOURCE ID: move_name_0571
+TEXT: <<move_name_0108>>+
+
 RESOURCE ID: move_name_0572
 TEXT: <<move_name_0030>>+
+
+RESOURCE ID: move_name_0573
+TEXT: <<move_name_0028>>+
+
+RESOURCE ID: move_name_0574
+TEXT: <<move_name_0091>>+
+
+RESOURCE ID: move_name_0575
+TEXT: <<move_name_0331>>+
+
+RESOURCE ID: move_name_0577
+TEXT: <<move_name_0065>>+
+
+RESOURCE ID: move_name_0578
+TEXT: <<move_name_0314>>+
+
+RESOURCE ID: move_name_0579
+TEXT: <<move_name_0074>>+
 
 RESOURCE ID: move_name_0580
 TEXT: <<move_name_0080>>+
 
+RESOURCE ID: move_name_0582
+TEXT: <<move_name_0497>>+
+
 RESOURCE ID: move_name_0583
 TEXT: <<move_name_0123>>+
+
+RESOURCE ID: move_name_0584
+TEXT: <<move_name_0024>>+
+
+RESOURCE ID: move_name_0585
+TEXT: <<move_name_0372>>+
+
+RESOURCE ID: move_name_0586
+TEXT: <<move_name_0082>>+
+
+RESOURCE ID: move_name_0587
+TEXT: <<move_name_0359>>+
 
 RESOURCE ID: move_name_0590
 TEXT: Glaive Rush
@@ -64233,6 +64458,9 @@ TEXT: Snipe Shot
 
 RESOURCE ID: move_name_0593
 TEXT: Dive
+
+RESOURCE ID: move_name_0619
+TEXT: <<move_name_0064>>+
 
 RESOURCE ID: move_required_to_enable_adventure_effect
 TEXT: {0} does not know the Charged Attack {1}, so it will not know an attack with an Adventure Effect after fusion.
@@ -78775,6 +79003,9 @@ TEXT: DEFENSE CHANGE
 RESOURCE ID: pokemon_ibfc_desc_0681
 TEXT: The Pokémon changes to Blade Forme when it uses a Charged Attack and changes to Shield Forme when it uses a Protect Shield.
 
+RESOURCE ID: pokemon_ibfc_desc_0774
+TEXT: When it has at least half its HP, this Pokémon’s outer shell encloses its core and raises its Defense.
+
 RESOURCE ID: pokemon_ibfc_desc_0845_3349
 TEXT: After using Surf or Dive at high HP, Cramorant will change to this form. When hit with a Charged Attack, it spits out its prey at the opponent.
 
@@ -78786,6 +79017,9 @@ TEXT: This Pokémon will transform when it uses a Charged Attack. When in Hangry
 
 RESOURCE ID: pokemon_ibfc_name_0681
 TEXT: Blade Forme
+
+RESOURCE ID: pokemon_ibfc_name_0774
+TEXT: Meteor Form
 
 RESOURCE ID: pokemon_ibfc_name_0778
 TEXT: Busted Form
@@ -115454,14 +115688,20 @@ TEXT: Chance of obtaining Silver Pinap Berries or Golden Razz Berries from spinn
 RESOURCE ID: sa_account_creation_prompt
 TEXT: Don’t have a Niantic Kids account?
 
+RESOURCE ID: sa_account_creation_prompt_temp
+TEXT: Don’t have a Kids @ Scopely Explore account?
+
 RESOURCE ID: sa_auth_failed
 TEXT: Unable to authenticate. Please try again.
 
 RESOURCE ID: sa_auth_failed_permissions
 TEXT: To play this game, please have a parent or guardian log in to their Niantic Kids account and enable permissions for your account.
 
+RESOURCE ID: sa_auth_failed_permissions_temp
+TEXT: To play this game, please have a parent or guardian log in to their Kids @ Scopely Explore account and enable permissions for your account.
+
 RESOURCE ID: sa_forgot_password_url
-TEXT: https://sso.niantic.kidswebservices.com/en/password/forgot
+TEXT: https://sso.scopelyexplore.kidswebservices.com/en/password/forgot
 
 RESOURCE ID: sa_login_title
 TEXT: Niantic Kids
@@ -115469,14 +115709,23 @@ TEXT: Niantic Kids
 RESOURCE ID: sa_login_button
 TEXT: Niantic Kids
 
+RESOURCE ID: sa_login_button_temp
+TEXT: Kids @ Scopely Explore
+
 RESOURCE ID: sa_login_server_unreachable
 TEXT: Niantic Kids is currently unavailable. We apologize for the inconvenience.
 
+RESOURCE ID: sa_login_server_unreachable_temp
+TEXT: Kids @ Scopely Explore is currently unavailable. We apologize for the inconvenience.
+
+RESOURCE ID: sa_login_title_temp
+TEXT: Kids @ Scopely Explore
+
 RESOURCE ID: sa_parent_dashboard_url
-TEXT: https://parents.nianticlabs.com/en/login
+TEXT: https://app.parents.scopelyexplore.com/portal/en/login
 
 RESOURCE ID: sa_registration_url
-TEXT: https://sso.niantic.kidswebservices.com/en/register
+TEXT: https://sso.scopelyexplore.kidswebservices.com/en/register
 
 RESOURCE ID: sableye_drop_mega_energy
 TEXT: Catching Sableye may award Sableye Mega Energy
@@ -126811,6 +127060,11 @@ TEXT: <b>Includes:</b>
 • Increased Candy and Candy XL from five-star Max Battles
 • Timed Research that awards 6,400 Max Particles and 25,000 XP
 
+RESOURCE ID: text_rewards_key_dmaxsinnohlakemaxbattle26
+TEXT: <b>Includes:</b>
+• 2× XP from Max Battles
+• Timed Research that awards 6,400 Max Particles, 25,000 XP, and a Max Mushroom
+
 RESOURCE ID: text_rewards_key_enamorustherianraidday
 TEXT: <b>Included rewards:</b>
 • 1 Meteorite
@@ -133497,6 +133751,9 @@ TEXT: Incense attracts more Pokémon on new Routes
 RESOURCE ID: tutorial_route_bonus_2
 TEXT: Unusual Pokémon may appear on Routes
 
+RESOURCE ID: tutorial_route_bonus_2_temp
+TEXT: Specific Pokémon may appear more often on Routes in the wild
+
 RESOURCE ID: tutorial_route_play_title_0
 TEXT: Explore a Route
 
@@ -134864,7 +135121,7 @@ RESOURCE ID: username_suggestion_disclaimer_change_name
 TEXT: You can change your nickname once.
 
 RESOURCE ID: username_suggestion_disclaimer_new_user
-TEXT: You can change your nickname later.
+TEXT: Tip. Don’t use your real name as this will be visible to other Trainers. You can change your name later.
 
 RESOURCE ID: username_suggestion_name_looks_good_banned_name
 TEXT: Looks good!

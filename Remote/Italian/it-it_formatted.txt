@@ -12812,7 +12812,7 @@ RESOURCE ID: badge_gowa_2026_sendai_addon_battle_title
 TEXT: GO Wild Area 2026: Battle Ready
 
 RESOURCE ID: badge_gowa_2026_sendai_addon_friday_title
-TEXT: GO Wild Area: Extra Day (Friday)
+TEXT: GO Wild Area 2026: Extra Day (Friday)
 
 RESOURCE ID: badge_gowa_2026_sendai_addon_hatch_title
 TEXT: GO Wild Area 2026: Egg-thusiast
@@ -21826,6 +21826,9 @@ TEXT: Puoi trovare delle cellule di Zygarde mentre segui un percorso. Se aggrega
 
 RESOURCE ID: breakfast_tappable_tutorial_body_temp
 TEXT: Puoi trovare delle cellule di Zygarde completando un percorso. Se aggregate, possono creare diverse forme del Pokémon.
+
+RESOURCE ID: breakfast_tappable_tutorial_body_temp2
+TEXT: Collect up to 3 Zygarde Cells per day by completing Routes. Assemble your Cells to create different Zygarde forms.
 
 RESOURCE ID: breakthrough_free_remote_raid_pass
 TEXT: Biglietto raid da remoto dalle scoperte straordinarie
@@ -31832,6 +31835,9 @@ TEXT: Per ulteriori informazioni, visita il <a href="https://pokemongolive.com/n
 RESOURCE ID: details_link_key_dmax_ho_oh
 TEXT: Per ulteriori informazioni, visita il <a href="https://pokemongo.com/news/ho-oh-max-battle-weekend-2026">sito</a>.
 
+RESOURCE ID: details_link_key_dmax_sinnoh_lake_max_battle
+TEXT: Per ulteriori informazioni, visita il <a href="https://pokemongo.com/news/dynamax-uxie-mesprit-azelf-max-battle-day-2026">sito</a>.
+
 RESOURCE ID: details_link_key_entei_shadow_raid_day
 TEXT: Per ulteriori informazioni, visita il <a href="https://pokemongolive.com/news/shadow-entei-raid-day-2026">sito</a>.
 
@@ -32024,6 +32030,9 @@ TEXT: I Ditto catturati allo stato selvatico possono avere uno Sfondo speciale a
 RESOURCE ID: dmax_articuno_max_battles
 TEXT: Articuno dynamaxizzato sta apparendo nelle Lotte Dynamax
 
+RESOURCE ID: dmax_azelf_lake_max_battles
+TEXT: Azelf dynamaxizzato sta apparendo nelle Lotte Dynamax
+
 RESOURCE ID: dmax_battle_win_plural
 TEXT: Vinci {0} Lotte D-Max
 
@@ -32090,6 +32099,9 @@ TEXT: Weekend Lotte Dynamax dedicato a Lugia dynamaxizzato
 RESOURCE ID: dmax_lugia_weekend_timed_research
 TEXT: Ricerca a tempo del weekend Lotte Dynamax dedicato a Lugia dynamaxizzato
 
+RESOURCE ID: dmax_mesprit_lake_max_battles
+TEXT: Mesprit dynamaxizzato sta apparendo nelle Lotte Dynamax
+
 RESOURCE ID: dmax_moltres_max_battles
 TEXT: Moltres dynamaxizzato sta apparendo nelle Lotte Dynamax
 
@@ -32102,6 +32114,9 @@ TEXT: Weekend Lotte Dynamax dedicato a Raikou dynamaxizzato
 RESOURCE ID: dmax_raikou_weekend_timed_research
 TEXT: Ricerca a tempo del weekend Lotte Dynamax dedicato a Raikou dynamaxizzato
 
+RESOURCE ID: dmax_sinnoh_lake_mbd_tr_oct26
+TEXT: Ricerca a tempo premium della giornata Lotte Dynamax dedicata a Uxie, Mesprit e Azelf dynamaxizzati
+
 RESOURCE ID: dmax_suicune_max_battles
 TEXT: Suicune dynamaxizzato sta apparendo nelle Lotte Dynamax
 
@@ -32110,6 +32125,9 @@ TEXT: Weekend Lotte Dynamax dedicato a Suicune dynamaxizzato
 
 RESOURCE ID: dmax_suicune_weekend_timed_research
 TEXT: Ricerca a tempo del weekend Lotte Dynamax dedicato a Suicune dynamaxizzato
+
+RESOURCE ID: dmax_uxie_lake_max_battles
+TEXT: Uxie dynamaxizzato sta apparendo nelle Lotte Dynamax
 
 RESOURCE ID: dmax_zapdos_max_battles
 TEXT: Zapdos dynamaxizzato sta apparendo nelle Lotte Dynamax
@@ -41672,6 +41690,9 @@ TEXT: Biglietto per il giorno di raid dedicato a MegaCamerupt
 
 RESOURCE ID: general2.ticket.5_megakangaskhanraidday_title
 TEXT: Biglietto per il giorno di raid dedicato a MegaKangaskhan
+
+RESOURCE ID: general2.ticket.6.dmax_sinnoh_lake_max_battle
+TEXT: Biglietto per la giornata Lotte Dynamax dedicata a Uxie, Mesprit e Azelf dynamaxizzati
 
 RESOURCE ID: general2.ticket.6.replay_go_bigger
 TEXT: Replay dell’evento “Alla grandissima”
@@ -52762,6 +52783,9 @@ TEXT: Termina oggi!
 RESOURCE ID: iap_sale_time_left_label
 TEXT: Tempo rimasto:
 
+RESOURCE ID: ibfc_minior_transformed
+TEXT: Minior transformed!
+
 RESOURCE ID: ibfc_warn_needed_move
 TEXT: {0} è necessario per cambiare la forma di Cramorant durante la lotta.
 
@@ -55594,6 +55618,12 @@ TEXT: Un biglietto per accedere ai bonus speciali il 3 ottobre 2026 dalle 14:00 
 
 RESOURCE ID: item_event_ticket_s24_oct_3_maxbattle_details_gmaxcinderace26
 TEXT: Questo biglietto si attiverà automaticamente garantendoti l’accesso ai bonus speciali il 3 ottobre, ovunque ti trovi.
+
+RESOURCE ID: item_event_ticket_s24_oct_24_maxbattle_desc
+TEXT: Un biglietto per accedere ai bonus speciali il 24 ottobre 2026 dalle 14:00 alle 17:00 ora locale, ovunque ti trovi.
+
+RESOURCE ID: item_event_ticket_s24_oct_24_maxbattle_details
+TEXT: Questo biglietto si attiverà automaticamente garantendoti l’accesso ai bonus speciali il 24 ottobre, ovunque ti trovi.
 
 RESOURCE ID: item_event_ticket_to_gift_desc
 TEXT: Un biglietto dell'evento in più dovuto a un errore di acquisto. Puoi inviarlo a un amico oppure ottenere un rimborso.
@@ -61823,6 +61853,12 @@ TEXT: Doppio dei PE quando vinci delle Lotte Dynamax
 RESOURCE ID: max_battle_day_dmax_ho_oh_ticketed
 TEXT: Bonus del biglietto per il weekend Lotte Dynamax dedicato a Ho-Oh dynamaxizzato
 
+RESOURCE ID: max_battle_day_dmax_sinnoh_lake_ticketed
+TEXT: Bonus del biglietto per la giornata Lotte Dynamax dedicata a Uxie, Mesprit e Azelf dynamaxizzati
+
+RESOURCE ID: max_battle_day_dmax_sinnoh_lake_event_name
+TEXT: Giornata Lotte Dynamax dedicata a Uxie, Mesprit e Azelf dynamaxizzati
+
 RESOURCE ID: max_battle_day_gigantamax_butterfree_ticketed
 TEXT: Bonus del biglietto per la giornata Lotte Dynamax dedicata a Butterfree Gigamax
 
@@ -62801,10 +62837,16 @@ at SHA 4d4f3e80cc7fb911006bd14d198c9831ef66d005
 Pipeline 339838, job 2672172
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-09-29T01:11:14.795037+00:00 for it-IT
-at SHA 8cfff611670
-Pipeline 3977616, job 58549183
-Patch from: 0.431.0-SHA-873aaf5c-RC2, 0.429.1-SHA-5521c4dc-RC1, 0.433.0-SHA-d37b1aa1-RC1
+TEXT: Built at 2026-10-02T01:29:28.079524+00:00 for it-IT
+at SHA a4a89ae58b0
+Pipeline 3987814, job 58728214
+Patch from: 0.431.0-SHA-98b5070c-RC6, 0.429.2-SHA-ad36de78-RC2, 0.433.0-SHA-d37b1aa1-RC1
+
+RESOURCE ID: meteor_title_1
+TEXT: PIOGGIA DI METEORE
+
+RESOURCE ID: meteor_desc_1
+TEXT: Cerca Minior nelle ore serali durante le piogge di meteore.
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: Ricerca a tempo: Scegli il tuo tipo Lotta
@@ -64415,8 +64457,23 @@ TEXT: <<move_name_0275>>+
 RESOURCE ID: move_name_0497
 TEXT: Pugni Plasma
 
+RESOURCE ID: move_name_0498
+TEXT: <<move_name_0296>>+
+
+RESOURCE ID: move_name_0499
+TEXT: <<move_name_0083>>+
+
+RESOURCE ID: move_name_0500
+TEXT: <<move_name_0298>>+
+
+RESOURCE ID: move_name_0501
+TEXT: <<move_name_0299>>+
+
 RESOURCE ID: move_name_0502
 TEXT: <<move_name_0311>>+
+
+RESOURCE ID: move_name_0503
+TEXT: <<move_name_0122>>+
 
 RESOURCE ID: move_name_0504
 TEXT: <<move_name_0399>>+
@@ -64427,17 +64484,47 @@ TEXT: <<move_name_0252>>+
 RESOURCE ID: move_name_0506
 TEXT: <<move_name_0087>>+
 
+RESOURCE ID: move_name_0507
+TEXT: <<move_name_0060>>+
+
 RESOURCE ID: move_name_0508
 TEXT: <<move_name_0303>>+
 
 RESOURCE ID: move_name_0509
 TEXT: <<move_name_0488>>+
 
+RESOURCE ID: move_name_0510
+TEXT: <<move_name_0070>>+
+
 RESOURCE ID: move_name_0512
 TEXT: <<move_name_0383>>+
 
+RESOURCE ID: move_name_0513
+TEXT: <<move_name_0045>>+
+
+RESOURCE ID: move_name_0514
+TEXT: <<move_name_0333>>+
+
 RESOURCE ID: move_name_0515
 TEXT: <<move_name_0277>>+
+
+RESOURCE ID: move_name_0516
+TEXT: <<move_name_0116>>+
+
+RESOURCE ID: move_name_0517
+TEXT: <<move_name_0379>>+
+
+RESOURCE ID: move_name_0518
+TEXT: <<move_name_0077>>+
+
+RESOURCE ID: move_name_0519
+TEXT: <<move_name_0267>>+
+
+RESOURCE ID: move_name_0520
+TEXT: <<move_name_0100>>+
+
+RESOURCE ID: move_name_0521
+TEXT: <<move_name_0306>>+
 
 RESOURCE ID: move_name_0522
 TEXT: <<move_name_0038>>+
@@ -64445,17 +64532,95 @@ TEXT: <<move_name_0038>>+
 RESOURCE ID: move_name_0523
 TEXT: <<move_name_0016>>+
 
+RESOURCE ID: move_name_0524
+TEXT: <<move_name_0032>>+
+
+RESOURCE ID: move_name_0525
+TEXT: <<move_name_0117>>+
+
+RESOURCE ID: move_name_0526
+TEXT: <<move_name_0317>>+
+
+RESOURCE ID: move_name_0527
+TEXT: <<move_name_0316>>+
+
+RESOURCE ID: move_name_0528
+TEXT: <<move_name_0086>>+
+
 RESOURCE ID: move_name_0529
 TEXT: <<move_name_0265>>+
+
+RESOURCE ID: move_name_0530
+TEXT: <<move_name_0088>>+
+
+RESOURCE ID: move_name_0531
+TEXT: <<move_name_0268>>+
+
+RESOURCE ID: move_name_0532
+TEXT: <<move_name_0408>>+
 
 RESOURCE ID: move_name_0533
 TEXT: <<move_name_0035>>+
 
+RESOURCE ID: move_name_0534
+TEXT: <<move_name_0279>>+
+
+RESOURCE ID: move_name_0535
+TEXT: <<move_name_0042>>+
+
+RESOURCE ID: move_name_0536
+TEXT: <<move_name_0084>>+
+
+RESOURCE ID: move_name_0537
+TEXT: <<move_name_0067>>+
+
+RESOURCE ID: move_name_0538
+TEXT: <<move_name_0036>>+
+
+RESOURCE ID: move_name_0539
+TEXT: <<move_name_0051>>+
+
+RESOURCE ID: move_name_0540
+TEXT: <<move_name_0066>>+
+
 RESOURCE ID: move_name_0541
 TEXT: <<move_name_0039>>+
 
+RESOURCE ID: move_name_0542
+TEXT: <<move_name_0341>>+
+
+RESOURCE ID: move_name_0543
+TEXT: <<move_name_0301>>+
+
+RESOURCE ID: move_name_0544
+TEXT: <<move_name_0366>>+
+
+RESOURCE ID: move_name_0545
+TEXT: <<move_name_0365>>+
+
+RESOURCE ID: move_name_0546
+TEXT: <<move_name_0384>>+
+
 RESOURCE ID: move_name_0547
 TEXT: <<move_name_0256>>+
+
+RESOURCE ID: move_name_0548
+TEXT: <<move_name_0245>>+
+
+RESOURCE ID: move_name_0549
+TEXT: <<move_name_0031>>+
+
+RESOURCE ID: move_name_0550
+TEXT: <<move_name_0285>>+
+
+RESOURCE ID: move_name_0551
+TEXT: <<move_name_0332>>+
+
+RESOURCE ID: move_name_0552
+TEXT: <<move_name_0247>>+
+
+RESOURCE ID: move_name_0553
+TEXT: <<move_name_0040>>+
 
 RESOURCE ID: move_name_0554
 TEXT: <<move_name_0330>>+
@@ -64463,11 +64628,32 @@ TEXT: <<move_name_0330>>+
 RESOURCE ID: move_name_0555
 TEXT: <<move_name_0293>>+
 
+RESOURCE ID: move_name_0556
+TEXT: <<move_name_0386>>+
+
+RESOURCE ID: move_name_0558
+TEXT: <<move_name_0101>>+
+
+RESOURCE ID: move_name_0559
+TEXT: <<move_name_0046>>+
+
+RESOURCE ID: move_name_0560
+TEXT: <<move_name_0085>>+
+
+RESOURCE ID: move_name_0561
+TEXT: <<move_name_0022>>+
+
 RESOURCE ID: move_name_0562
 TEXT: <<move_name_0471>>+
 
+RESOURCE ID: move_name_0563
+TEXT: <<move_name_0251>>+
+
 RESOURCE ID: move_name_0564
 TEXT: <<move_name_0069>>+
+
+RESOURCE ID: move_name_0565
+TEXT: <<move_name_0304>>+
 
 RESOURCE ID: move_name_0566
 TEXT: <<move_name_0059>>+
@@ -64478,14 +64664,53 @@ TEXT: <<move_name_0382>>+
 RESOURCE ID: move_name_0568
 TEXT: <<move_name_0284>>+
 
+RESOURCE ID: move_name_0569
+TEXT: <<move_name_0103>>+
+
+RESOURCE ID: move_name_0571
+TEXT: <<move_name_0108>>+
+
 RESOURCE ID: move_name_0572
 TEXT: <<move_name_0030>>+
+
+RESOURCE ID: move_name_0573
+TEXT: <<move_name_0028>>+
+
+RESOURCE ID: move_name_0574
+TEXT: <<move_name_0091>>+
+
+RESOURCE ID: move_name_0575
+TEXT: <<move_name_0331>>+
+
+RESOURCE ID: move_name_0577
+TEXT: <<move_name_0065>>+
+
+RESOURCE ID: move_name_0578
+TEXT: <<move_name_0314>>+
+
+RESOURCE ID: move_name_0579
+TEXT: <<move_name_0074>>+
 
 RESOURCE ID: move_name_0580
 TEXT: <<move_name_0080>>+
 
+RESOURCE ID: move_name_0582
+TEXT: <<move_name_0497>>+
+
 RESOURCE ID: move_name_0583
 TEXT: <<move_name_0123>>+
+
+RESOURCE ID: move_name_0584
+TEXT: <<move_name_0024>>+
+
+RESOURCE ID: move_name_0585
+TEXT: <<move_name_0372>>+
+
+RESOURCE ID: move_name_0586
+TEXT: <<move_name_0082>>+
+
+RESOURCE ID: move_name_0587
+TEXT: <<move_name_0359>>+
 
 RESOURCE ID: move_name_0590
 TEXT: Spadoncarica
@@ -64498,6 +64723,9 @@ TEXT: Tiromirato
 
 RESOURCE ID: move_name_0593
 TEXT: Sub
+
+RESOURCE ID: move_name_0619
+TEXT: <<move_name_0064>>+
 
 RESOURCE ID: move_required_to_enable_adventure_effect
 TEXT: {0} non conosce l’attacco caricato {1}, perciò non conoscerà un attacco con effetto avventura dopo la fusione.
@@ -79048,6 +79276,9 @@ TEXT: CAMBIAMENTO NELLA DIFESA
 RESOURCE ID: pokemon_ibfc_desc_0681
 TEXT: Il Pokémon si trasforma nella sua Forma Spada quando utilizza un attacco caricato, e si trasforma nella sua Forma Scudo quando utilizza uno scudo protettivo.
 
+RESOURCE ID: pokemon_ibfc_desc_0774
+TEXT: Quando ha almeno la metà dei suoi PS, il guscio esterno di questo Pokémon ne avvolge il nucleo e ne aumenta la Difesa.
+
 RESOURCE ID: pokemon_ibfc_desc_0845_3349
 TEXT: Dopo aver usato Surf o Sub con molti PS, Cramorant cambia forma. Quando viene colpito con un attacco caricato, sputa la sua preda all’avversario.
 
@@ -79059,6 +79290,9 @@ TEXT: Questo Pokémon si trasforma quando usa un attacco caricato. Quando è nel
 
 RESOURCE ID: pokemon_ibfc_name_0681
 TEXT: Forma Spada
+
+RESOURCE ID: pokemon_ibfc_name_0774
+TEXT: Forma Meteora
 
 RESOURCE ID: pokemon_ibfc_name_0778
 TEXT: Forma Smascherata
@@ -115754,14 +115988,20 @@ TEXT: Possibilità di ottenere Baccananas argentate o Baccalampon dorate facendo
 RESOURCE ID: sa_account_creation_prompt
 TEXT: Non hai un account Niantic Kids?
 
+RESOURCE ID: sa_account_creation_prompt_temp
+TEXT: Non hai un account Kids @ Scopely Explore?
+
 RESOURCE ID: sa_auth_failed
 TEXT: Autenticazione fallita. Riprova.
 
 RESOURCE ID: sa_auth_failed_permissions
 TEXT: Per poter giocare, un genitore o tutore deve accedere al proprio account Niantic Kids e concederti l’autorizzazione.
 
+RESOURCE ID: sa_auth_failed_permissions_temp
+TEXT: Per poter giocare, un genitore o tutore deve accedere al proprio account Kids @ Scopely Explore e concederti l’autorizzazione.
+
 RESOURCE ID: sa_forgot_password_url
-TEXT: https://niantic-sso.kws.superawesome.tv/it/password/forgot
+TEXT: https://sso.scopelyexplore.kidswebservices.com/it/password/forgot
 
 RESOURCE ID: sa_login_title
 TEXT: Niantic Kids
@@ -115769,14 +116009,23 @@ TEXT: Niantic Kids
 RESOURCE ID: sa_login_button
 TEXT: Niantic Kids
 
+RESOURCE ID: sa_login_button_temp
+TEXT: Kids @ Scopely Explore
+
 RESOURCE ID: sa_login_server_unreachable
 TEXT: Niantic Kids non è al momento disponibile. Ci scusiamo per il disagio.
 
+RESOURCE ID: sa_login_server_unreachable_temp
+TEXT: Kids @ Scopely Explore non è al momento disponibile. Ci scusiamo per il disagio.
+
+RESOURCE ID: sa_login_title_temp
+TEXT: Kids @ Scopely Explore
+
 RESOURCE ID: sa_parent_dashboard_url
-TEXT: https://parents.nianticlabs.com/it/login
+TEXT: https://app.parents.scopelyexplore.com/portal/it/login
 
 RESOURCE ID: sa_registration_url
-TEXT: https://niantic-sso.kws.superawesome.tv/it/register
+TEXT: https://scopelyexplore-sso.kws.superawesome.tv/it/register
 
 RESOURCE ID: sableye_drop_mega_energy
 TEXT: Catturando Sableye potresti ricevere Megaenergie Sableye
@@ -127110,6 +127359,11 @@ TEXT: <b>Include:</b>
 • Più caramelle e caramelle L dalle Lotte Dynamax di livello cinque
 • Una ricerca a tempo che regala 6.400 particelle Dynamax e 25.000 PE
 
+RESOURCE ID: text_rewards_key_dmaxsinnohlakemaxbattle26
+TEXT: <b>Include:</b>
+• Doppio dei PE dalle Lotte Dynamax
+• Una ricerca a tempo che avrà come ricompensa 6.400 particelle Dynamax, 25.000 PE e un Fungomax
+
 RESOURCE ID: text_rewards_key_enamorustherianraidday
 TEXT: <b>Le ricompense includono:</b>
 • Un Meteorite
@@ -133777,6 +134031,9 @@ TEXT: Aumento del numero di Pokémon attirati dall’aroma su nuovi percorsi
 
 RESOURCE ID: tutorial_route_bonus_2
 TEXT: Comparsa di Pokémon insoliti sui percorsi
+
+RESOURCE ID: tutorial_route_bonus_2_temp
+TEXT: Specific Pokémon may appear more often on Routes in the wild
 
 RESOURCE ID: tutorial_route_play_title_0
 TEXT: Esplora un percorso

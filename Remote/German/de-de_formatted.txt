@@ -995,13 +995,13 @@ RESOURCE ID: air_adventures_yogyakarta_sr_title_04
 TEXT: Pikachus Indonesien-Reise: Yogyakarta (5/5)
 
 RESOURCE ID: allow_gift_list_prompt_title
-TEXT: Allow paid gifts?
+TEXT: Gekaufte Geschenke erlauben?
 
 RESOURCE ID: allow_gift_list_prompt_desc
-TEXT: If you select Allow, this friend will be able to send you paid gifts again.
+TEXT: Wenn du „Erlauben“ auswählst, kann dir dieser Freund wieder gekaufte Geschenke schicken.
 
 RESOURCE ID: allow_gift_list_prompt_button_label
-TEXT: YES, ALLOW
+TEXT: JA, ERLAUBEN
 
 RESOURCE ID: allow_notifications_prompt_message
 TEXT: Um dein Spielerlebnis zu verbessern, kannst du Pokémon GO erlauben, auf Benachrichtigungen zuzugreifen.
@@ -13114,7 +13114,7 @@ RESOURCE ID: badge_gowa_2026_sendai_addon_battle_title
 TEXT: GO Wild Area 2026: Battle Ready
 
 RESOURCE ID: badge_gowa_2026_sendai_addon_friday_title
-TEXT: GO Wild Area: Extra Day (Friday)
+TEXT: GO Wild Area 2026: Extra Day (Friday)
 
 RESOURCE ID: badge_gowa_2026_sendai_addon_hatch_title
 TEXT: GO Wild Area 2026: Egg-thusiast
@@ -22147,6 +22147,9 @@ TEXT: Du kannst beim Folgen einer Route Zygarde-Zellen finden. Aus Zygarde-Zelle
 RESOURCE ID: breakfast_tappable_tutorial_body_temp
 TEXT: Du kannst Zygarde-Zellen nach dem Abschluss einer Route finden. Aus Zygarde-Zellen kannst du verschiedene Zygarde-Formen synthetisieren.
 
+RESOURCE ID: breakfast_tappable_tutorial_body_temp2
+TEXT: Collect up to 3 Zygarde Cells per day by completing Routes. Assemble your Cells to create different Zygarde forms.
+
 RESOURCE ID: breakthrough_free_remote_raid_pass
 TEXT: Fern-Raid-Pass von Forschungsdurchbrüchen
 
@@ -31172,7 +31175,7 @@ RESOURCE ID: concierge_promo_tr_name
 TEXT: Befristete Bonus-Forschung: Pokémon Concierge
 
 RESOURCE ID: confirm_gift_purchase_v2_reward_points_prefix
-TEXT: You will receive
+TEXT: Du erhältst
 
 RESOURCE ID: confirm_send_button
 TEXT: VERSCHICKEN
@@ -32151,6 +32154,9 @@ TEXT: Weitere Infos findest du auf der <a href="https://pokemongolive.com/news">
 RESOURCE ID: details_link_key_dmax_ho_oh
 TEXT: Weitere Infos findest du auf der <a href="https://pokemongo.com/news/ho-oh-max-battle-weekend-2026">Website</a>.
 
+RESOURCE ID: details_link_key_dmax_sinnoh_lake_max_battle
+TEXT: Weitere Infos findest du auf der <a href="https://pokemongo.com/news/dynamax-uxie-mesprit-azelf-max-battle-day-2026">Website</a>.
+
 RESOURCE ID: details_link_key_entei_shadow_raid_day
 TEXT: Weitere Infos findest du auf der <a href="https://pokemongolive.com/news/shadow-entei-raid-day-2026">Website</a>.
 
@@ -32343,6 +32349,9 @@ TEXT: Wilde Ditto, die gefangen werden, können einen Event-Spezialhintergrund h
 RESOURCE ID: dmax_articuno_max_battles
 TEXT: Dynamax-Arktos erscheint in Dyna-Kämpfen.
 
+RESOURCE ID: dmax_azelf_lake_max_battles
+TEXT: Dynamax-Tobutz erscheint in Dyna-Kämpfen
+
 RESOURCE ID: dmax_battle_win_plural
 TEXT: Gewinne {0} Dynamax-Kämpfe.
 
@@ -32409,6 +32418,9 @@ TEXT: Dyna-Kampfwochenende mit Dynamax-Lugia
 RESOURCE ID: dmax_lugia_weekend_timed_research
 TEXT: Befristete Forschung: Dyna-Kampfwochenende mit Dynamax-Lugia
 
+RESOURCE ID: dmax_mesprit_lake_max_battles
+TEXT: Dynamax-Vesprit erscheint in Dyna-Kämpfen
+
 RESOURCE ID: dmax_moltres_max_battles
 TEXT: Dynamax-Lavados erscheint in Dyna-Kämpfen.
 
@@ -32421,6 +32433,9 @@ TEXT: Dyna-Kampfwochenende mit Dynamax-Raikou
 RESOURCE ID: dmax_raikou_weekend_timed_research
 TEXT: Befristete Forschung: Dyna-Kampfwochenende mit Dynamax-Raikou
 
+RESOURCE ID: dmax_sinnoh_lake_mbd_tr_oct26
+TEXT: Befristete Premium-Forschung: Dyna-Kampftag mit Dynamax-Selfe, Vesprit und Tobutz
+
 RESOURCE ID: dmax_suicune_max_battles
 TEXT: Dynamax-Suicune erscheint in Dyna-Kämpfen
 
@@ -32429,6 +32444,9 @@ TEXT: Dyna-Kampfwochenende mit Dynamax-Suicune
 
 RESOURCE ID: dmax_suicune_weekend_timed_research
 TEXT: Befristete Forschung: Dyna-Kampfwochenende mit Dynamax-Suicune
+
+RESOURCE ID: dmax_uxie_lake_max_battles
+TEXT: Dynamax-Selfe erscheint in Dyna-Kämpfen
 
 RESOURCE ID: dmax_zapdos_max_battles
 TEXT: Dynamax-Zapdos erscheint in Dyna-Kämpfen.
@@ -42008,6 +42026,9 @@ TEXT: Ticket: Raid-Tag mit Mega-Camerupt
 RESOURCE ID: general2.ticket.5_megakangaskhanraidday_title
 TEXT: Ticket: Raid-Tag mit Mega-Kangama
 
+RESOURCE ID: general2.ticket.6.dmax_sinnoh_lake_max_battle
+TEXT: Ticket: Dyna-Kampftag mit Dynamax-Selfe, Vesprit und Tobutz
+
 RESOURCE ID: general2.ticket.6.replay_go_bigger
 TEXT: Ticket: Replay: GOgantischer
 
@@ -42243,10 +42264,10 @@ RESOURCE ID: generic_contact_support
 TEXT: Wie man Spiel-Protokolle teilt
 
 RESOURCE ID: generic_event_pass_premium_unlock
-TEXT: GO Pass Deluxe
+TEXT: GO-Pass-Deluxe
 
 RESOURCE ID: generic_event_pass_premium_unlock_plus_points
-TEXT: GO Pass Deluxe + Ranks
+TEXT: GO-Pass-Deluxe + Stufen
 
 RESOURCE ID: generic_player_lockout
 TEXT: Dein Konto wurde vorübergehend gesperrt, weil du die Nutzungsbedingungen verletzt hast.
@@ -42393,9 +42414,9 @@ Dein Geschenk wurde nicht zugestellt, weil der vorgesehene Empfänger das gleich
 Wenn du stattdessen eine Rückzahlung möchtest, kannst du diese über deinen App Store anfordern.
 
 RESOURCE ID: gifting_error_description_temp
-TEXT: Unfortunately, this friend cannot receive this paid gift. This can happen for a variety of reasons.
+TEXT: Dieser Freund kann dieses gekaufte Geschenk leider nicht erhalten. Dies kann aus unterschiedlichen Gründen passieren.
 
-You can choose a new friend to send this to now.
+Du kannst einen anderen Freund wählen, um es jetzt zu verschenken.
 
 RESOURCE ID: gifting_error_refund_button
 TEXT: RÜCKZAHLUNG ANFORDERN
@@ -53078,7 +53099,7 @@ RESOURCE ID: iap_category_team_change
 TEXT:  Team-Wechsel
 
 RESOURCE ID: iap_friend_picker_last_sent
-TEXT: Last Sent
+TEXT: Zuletzt verschickt
 
 RESOURCE ID: iap_item_unavailable
 TEXT: Dieses Item kann nicht mehr gekauft werden.
@@ -53097,6 +53118,9 @@ TEXT: Endet heute!
 
 RESOURCE ID: iap_sale_time_left_label
 TEXT: Übrige Zeit: 
+
+RESOURCE ID: ibfc_minior_transformed
+TEXT: Minior transformed!
 
 RESOURCE ID: ibfc_warn_needed_move
 TEXT: {0} wird benötigt, um Urgls Form im Kampf zu wechseln.
@@ -55931,6 +55955,12 @@ TEXT: Ein Ticket für den Zugang zu besonderen Boni am 3. Oktober 2026 von 14:00
 RESOURCE ID: item_event_ticket_s24_oct_3_maxbattle_details_gmaxcinderace26
 TEXT: Dieses Ticket aktiviert sich automatisch und gewährt dir Zugang zu besonderen Boni am 3. Oktober (wo immer du dich befindest).
 
+RESOURCE ID: item_event_ticket_s24_oct_24_maxbattle_desc
+TEXT: Ein Ticket für den Zugang zu besonderen Boni am 24. Oktober 2026 von 14:00 bis 17:00 Uhr Ortszeit (wo immer du dich befindest).
+
+RESOURCE ID: item_event_ticket_s24_oct_24_maxbattle_details
+TEXT: Dieses Ticket aktiviert sich automatisch und gewährt dir Zugang zu besonderen Boni am 24. Oktober (wo immer du dich befindest).
+
 RESOURCE ID: item_event_ticket_to_gift_desc
 TEXT: Ein zusätzliches Event-Ticket aus einem Fehler beim Kauf. Du kannst es an einen Freund schicken oder es erstattet bekommen.
 
@@ -56367,10 +56397,10 @@ RESOURCE ID: item_incubator_timed_name
 TEXT: Befristete Brutmaschine
 
 RESOURCE ID: item_inventory_paid_gift_banner_title
-TEXT: You have paid gifts!
+TEXT: Du hast gekaufte Geschenke!
 
 RESOURCE ID: item_inventory_paid_gift_banner_subtitle
-TEXT: Send to your Friends?
+TEXT: An deine Freunde verschicken?
 
 RESOURCE ID: item_item_pack_desc
 TEXT: Vergrößert deinen Beutel.
@@ -62163,6 +62193,12 @@ TEXT: 2× EP für gewonnene Dyna-Kämpfe
 RESOURCE ID: max_battle_day_dmax_ho_oh_ticketed
 TEXT: Ticket-Boni zum Dyna-Kampfwochenende mit Dynamax-Ho-Oh
 
+RESOURCE ID: max_battle_day_dmax_sinnoh_lake_ticketed
+TEXT: Dyna-Kampftag mit Dynamax-Selfe, Vesprit und Tobutz: Ticket-Boni
+
+RESOURCE ID: max_battle_day_dmax_sinnoh_lake_event_name
+TEXT: Dyna-Kampftag mit Dynamax-Selfe, Vesprit und Tobutz
+
 RESOURCE ID: max_battle_day_gigantamax_butterfree_ticketed
 TEXT: Dyna-Kampftag mit Gigadynamax-Smettbo: Ticket-Boni
 
@@ -63141,10 +63177,16 @@ at SHA 4d4f3e80cc7fb911006bd14d198c9831ef66d005
 Pipeline 339838, job 2672172
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-09-29T01:11:14.795037+00:00 for de-DE
-at SHA 8cfff611670
-Pipeline 3977616, job 58549183
-Patch from: 0.431.0-SHA-873aaf5c-RC2, 0.429.1-SHA-5521c4dc-RC1, 0.433.0-SHA-d37b1aa1-RC1
+TEXT: Built at 2026-10-02T01:29:28.079524+00:00 for de-DE
+at SHA a4a89ae58b0
+Pipeline 3987814, job 58728214
+Patch from: 0.431.0-SHA-98b5070c-RC6, 0.429.2-SHA-ad36de78-RC2, 0.433.0-SHA-d37b1aa1-RC1
+
+RESOURCE ID: meteor_title_1
+TEXT: METEORSCHAUER
+
+RESOURCE ID: meteor_desc_1
+TEXT: Finde Meteno abends während eines Meteorschauers.
 
 RESOURCE ID: mex_fighting_promo_title
 TEXT: Befristete Forschung: Ansage vom Typ Kampf
@@ -64755,8 +64797,23 @@ TEXT: <<move_name_0275>>+
 RESOURCE ID: move_name_0497
 TEXT: Plasmafäuste
 
+RESOURCE ID: move_name_0498
+TEXT: <<move_name_0296>>+
+
+RESOURCE ID: move_name_0499
+TEXT: <<move_name_0083>>+
+
+RESOURCE ID: move_name_0500
+TEXT: <<move_name_0298>>+
+
+RESOURCE ID: move_name_0501
+TEXT: <<move_name_0299>>+
+
 RESOURCE ID: move_name_0502
 TEXT: <<move_name_0311>>+
+
+RESOURCE ID: move_name_0503
+TEXT: <<move_name_0122>>+
 
 RESOURCE ID: move_name_0504
 TEXT: <<move_name_0399>>+
@@ -64767,17 +64824,47 @@ TEXT: <<move_name_0252>>+
 RESOURCE ID: move_name_0506
 TEXT: <<move_name_0087>>+
 
+RESOURCE ID: move_name_0507
+TEXT: <<move_name_0060>>+
+
 RESOURCE ID: move_name_0508
 TEXT: <<move_name_0303>>+
 
 RESOURCE ID: move_name_0509
 TEXT: <<move_name_0488>>+
 
+RESOURCE ID: move_name_0510
+TEXT: <<move_name_0070>>+
+
 RESOURCE ID: move_name_0512
 TEXT: <<move_name_0383>>+
 
+RESOURCE ID: move_name_0513
+TEXT: <<move_name_0045>>+
+
+RESOURCE ID: move_name_0514
+TEXT: <<move_name_0333>>+
+
 RESOURCE ID: move_name_0515
 TEXT: <<move_name_0277>>+
+
+RESOURCE ID: move_name_0516
+TEXT: <<move_name_0116>>+
+
+RESOURCE ID: move_name_0517
+TEXT: <<move_name_0379>>+
+
+RESOURCE ID: move_name_0518
+TEXT: <<move_name_0077>>+
+
+RESOURCE ID: move_name_0519
+TEXT: <<move_name_0267>>+
+
+RESOURCE ID: move_name_0520
+TEXT: <<move_name_0100>>+
+
+RESOURCE ID: move_name_0521
+TEXT: <<move_name_0306>>+
 
 RESOURCE ID: move_name_0522
 TEXT: <<move_name_0038>>+
@@ -64785,17 +64872,95 @@ TEXT: <<move_name_0038>>+
 RESOURCE ID: move_name_0523
 TEXT: <<move_name_0016>>+
 
+RESOURCE ID: move_name_0524
+TEXT: <<move_name_0032>>+
+
+RESOURCE ID: move_name_0525
+TEXT: <<move_name_0117>>+
+
+RESOURCE ID: move_name_0526
+TEXT: <<move_name_0317>>+
+
+RESOURCE ID: move_name_0527
+TEXT: <<move_name_0316>>+
+
+RESOURCE ID: move_name_0528
+TEXT: <<move_name_0086>>+
+
 RESOURCE ID: move_name_0529
 TEXT: <<move_name_0265>>+
+
+RESOURCE ID: move_name_0530
+TEXT: <<move_name_0088>>+
+
+RESOURCE ID: move_name_0531
+TEXT: <<move_name_0268>>+
+
+RESOURCE ID: move_name_0532
+TEXT: <<move_name_0408>>+
 
 RESOURCE ID: move_name_0533
 TEXT: <<move_name_0035>>+
 
+RESOURCE ID: move_name_0534
+TEXT: <<move_name_0279>>+
+
+RESOURCE ID: move_name_0535
+TEXT: <<move_name_0042>>+
+
+RESOURCE ID: move_name_0536
+TEXT: <<move_name_0084>>+
+
+RESOURCE ID: move_name_0537
+TEXT: <<move_name_0067>>+
+
+RESOURCE ID: move_name_0538
+TEXT: <<move_name_0036>>+
+
+RESOURCE ID: move_name_0539
+TEXT: <<move_name_0051>>+
+
+RESOURCE ID: move_name_0540
+TEXT: <<move_name_0066>>+
+
 RESOURCE ID: move_name_0541
 TEXT: <<move_name_0039>>+
 
+RESOURCE ID: move_name_0542
+TEXT: <<move_name_0341>>+
+
+RESOURCE ID: move_name_0543
+TEXT: <<move_name_0301>>+
+
+RESOURCE ID: move_name_0544
+TEXT: <<move_name_0366>>+
+
+RESOURCE ID: move_name_0545
+TEXT: <<move_name_0365>>+
+
+RESOURCE ID: move_name_0546
+TEXT: <<move_name_0384>>+
+
 RESOURCE ID: move_name_0547
 TEXT: <<move_name_0256>>+
+
+RESOURCE ID: move_name_0548
+TEXT: <<move_name_0245>>+
+
+RESOURCE ID: move_name_0549
+TEXT: <<move_name_0031>>+
+
+RESOURCE ID: move_name_0550
+TEXT: <<move_name_0285>>+
+
+RESOURCE ID: move_name_0551
+TEXT: <<move_name_0332>>+
+
+RESOURCE ID: move_name_0552
+TEXT: <<move_name_0247>>+
+
+RESOURCE ID: move_name_0553
+TEXT: <<move_name_0040>>+
 
 RESOURCE ID: move_name_0554
 TEXT: <<move_name_0330>>+
@@ -64803,11 +64968,32 @@ TEXT: <<move_name_0330>>+
 RESOURCE ID: move_name_0555
 TEXT: <<move_name_0293>>+
 
+RESOURCE ID: move_name_0556
+TEXT: <<move_name_0386>>+
+
+RESOURCE ID: move_name_0558
+TEXT: <<move_name_0101>>+
+
+RESOURCE ID: move_name_0559
+TEXT: <<move_name_0046>>+
+
+RESOURCE ID: move_name_0560
+TEXT: <<move_name_0085>>+
+
+RESOURCE ID: move_name_0561
+TEXT: <<move_name_0022>>+
+
 RESOURCE ID: move_name_0562
 TEXT: <<move_name_0471>>+
 
+RESOURCE ID: move_name_0563
+TEXT: <<move_name_0251>>+
+
 RESOURCE ID: move_name_0564
 TEXT: <<move_name_0069>>+
+
+RESOURCE ID: move_name_0565
+TEXT: <<move_name_0304>>+
 
 RESOURCE ID: move_name_0566
 TEXT: <<move_name_0059>>+
@@ -64818,14 +65004,53 @@ TEXT: <<move_name_0382>>+
 RESOURCE ID: move_name_0568
 TEXT: <<move_name_0284>>+
 
+RESOURCE ID: move_name_0569
+TEXT: <<move_name_0103>>+
+
+RESOURCE ID: move_name_0571
+TEXT: <<move_name_0108>>+
+
 RESOURCE ID: move_name_0572
 TEXT: <<move_name_0030>>+
+
+RESOURCE ID: move_name_0573
+TEXT: <<move_name_0028>>+
+
+RESOURCE ID: move_name_0574
+TEXT: <<move_name_0091>>+
+
+RESOURCE ID: move_name_0575
+TEXT: <<move_name_0331>>+
+
+RESOURCE ID: move_name_0577
+TEXT: <<move_name_0065>>+
+
+RESOURCE ID: move_name_0578
+TEXT: <<move_name_0314>>+
+
+RESOURCE ID: move_name_0579
+TEXT: <<move_name_0074>>+
 
 RESOURCE ID: move_name_0580
 TEXT: <<move_name_0080>>+
 
+RESOURCE ID: move_name_0582
+TEXT: <<move_name_0497>>+
+
 RESOURCE ID: move_name_0583
 TEXT: <<move_name_0123>>+
+
+RESOURCE ID: move_name_0584
+TEXT: <<move_name_0024>>+
+
+RESOURCE ID: move_name_0585
+TEXT: <<move_name_0372>>+
+
+RESOURCE ID: move_name_0586
+TEXT: <<move_name_0082>>+
+
+RESOURCE ID: move_name_0587
+TEXT: <<move_name_0359>>+
 
 RESOURCE ID: move_name_0590
 TEXT: Großklingenstoß
@@ -64838,6 +65063,9 @@ TEXT: Präzisionsschuss
 
 RESOURCE ID: move_name_0593
 TEXT: Taucher
+
+RESOURCE ID: move_name_0619
+TEXT: <<move_name_0064>>+
 
 RESOURCE ID: move_required_to_enable_adventure_effect
 TEXT: {0} beherrscht nicht die Lade-Attacke {1}, daher wird es nach der Fusion keine Lade-Attacke mit einem Abenteuer-Effekt beherrschen.
@@ -68984,19 +69212,19 @@ RESOURCE ID: ozone_ascent_free_timed_research
 TEXT: Befristete Forschung: Ozonaufstieg
 
 RESOURCE ID: paid_gift_already_purchased_modal_title
-TEXT: You have already purchased this paid gift.
+TEXT: Du hast dieses Geschenk bereits gekauft.
 
 RESOURCE ID: paid_gift_already_purchased_modal_button
-TEXT: GO TO INVENTORY
+TEXT: ZUM INVENTAR
 
 RESOURCE ID: paid_gift_already_purchased_modal_message
-TEXT: You can send it from your inventory.
+TEXT: Du kannst es aus deinem Inventar verschicken.
 
 RESOURCE ID: paid_gift_regift_no_longer_available_modal_title
-TEXT: Gifting Error
+TEXT: Geschenke-Problem
 
 RESOURCE ID: paid_gift_regift_no_longer_available_modal_message
-TEXT: This item is no longer available and cannot be gifted.
+TEXT: Dieser Artikel ist nicht mehr verfügbar und kann nicht verschenkt werden.
 
 RESOURCE ID: paid_pikachu_gmax_tr_mar26
 TEXT: Befristete Premium-Forschung: Gigadynamax-Pikachu
@@ -69964,16 +70192,16 @@ RESOURCE ID: pause_dialog_subtitle
 TEXT: Wenn du pausierst, wirst du keine weiteren Stempel für diese Rallye sammeln. Auf der Sammlerseite kannst du die Rallye jederzeit fortsetzen.
 
 RESOURCE ID: pause_gift_list_title
-TEXT: Pause Gifts List
+TEXT: Liste pausierter Geschenkgeber
 
 RESOURCE ID: pause_gift_list_prompt_title
-TEXT: Pause paid gifts?
+TEXT: Gekaufte Geschenke pausieren?
 
 RESOURCE ID: pause_gift_list_prompt_desc
-TEXT: The following friend will be unable to send you paid gifts. You can allow them to send paid gifts again at any point.
+TEXT: Der folgende Freund kann dir keine gekauften Geschenke schicken. Du kannst ihm jederzeit wieder erlauben, dir gekaufte Geschenke zu schicken.
 
 RESOURCE ID: pause_gift_list_prompt_button_label
-TEXT: YES, PAUSE
+TEXT: JA, PAUSIEREN
 
 RESOURCE ID: pause_route_travel_error_toast
 TEXT: Fehler beim Pausieren der Route
@@ -79389,6 +79617,9 @@ TEXT: VERTEIDIGUNGSWECHSEL
 RESOURCE ID: pokemon_ibfc_desc_0681
 TEXT: Das Pokémon nimmt die Klingenform an, wenn es eine Lade-Attacke einsetzt und wechselt zur Schildform, wenn es einen Schutzschild einsetzt.
 
+RESOURCE ID: pokemon_ibfc_desc_0774
+TEXT: Wenn dieses Pokémon mindestens noch die Hälfte seiner KP hat, umhüllt die äußere Schicht seinen Körper und erhöht seinen Verteidigungs-Wert.
+
 RESOURCE ID: pokemon_ibfc_desc_0845_3349
 TEXT: Nachdem es Surfer oder Taucher bei hohen KP eingesetzt hat, wechselt es in diese Form. Wenn es von einer Lade-Attacke getroffen wird, spuckt es seine Beute auf den Gegner.
 
@@ -79400,6 +79631,9 @@ TEXT: Dieses Pokémon verwandelt sich, wenn es eine Lade-Attacke einsetzt. Im Ko
 
 RESOURCE ID: pokemon_ibfc_name_0681
 TEXT: Klingenform
+
+RESOURCE ID: pokemon_ibfc_name_0774
+TEXT: Meteorform
 
 RESOURCE ID: pokemon_ibfc_name_0778
 TEXT: Entlarvte Form
@@ -84231,63 +84465,63 @@ RESOURCE ID: premium_rewards
 TEXT: PREMIUM-BELOHNUNGEN
 
 RESOURCE ID: premium_gift_sent
-TEXT: You sent a paid gift to {0}.
+TEXT: Du hast {0} ein gekauftes Geschenk geschickt.
 
 RESOURCE ID: premium_gift_ftue_title
-TEXT: Introducing More Gifting Options in the Shop
+TEXT: Neue Geschenkoptionen im Shop
 
 RESOURCE ID: premium_gift_ftue_desc
-TEXT: You can now send and receive more types of gifts through the Shop!
+TEXT: Du kannst jetzt weitere Arten von Geschenken über den Shop erhalten und verschicken!
 
-Do you want to opt in? You can change this at any point in Settings.
+Möchtest du diese Funktion aktivieren? Du kannst dies jederzeit in den Einstellungen anpassen.
 
 RESOURCE ID: premium_gift_notification_event_pass_title
-TEXT: GO Pass
+TEXT: GO-Pass
 
 RESOURCE ID: premium_gift_notification_event_pass_desc
-TEXT: Hi, <b>{0}</b>! Here’s a GO Pass Deluxe for you. Can you complete it and get all the rewards?
+TEXT: Hallo, <b>{0}</b>! Hier ist ein GO-Pass-Deluxe für dich. Kannst du ihn abschließen und alle Belohnungen freischalten?
 
-Cheers,
+Grüße,
 <b>{1}</b>
 
 RESOURCE ID: premium_gift_notification_items_title
-TEXT: Gift For You
+TEXT: Geschenk für dich
 
 RESOURCE ID: premium_gift_notification_multiple_trainers_desc
-TEXT: Greetings, <b>{0}</b>!
+TEXT: Hallo, <b>{0}</b>!
 
-Your friends sent you some gifts!
+Deine Freunde haben dir ein paar Geschenke geschickt!
 
 
 RESOURCE ID: premium_gift_notification_one_trainer_multiple_items_desc
-TEXT: Hi, <b>{0}</b>!
+TEXT: Hallo, <b>{0}</b>!
 
-I hope you enjoy these gifts!
+Ich hoffe, du freust dich über diese Geschenke!
 {2}
 
-Cheers,
+Grüße,
 <b>{1}</b>
 
 RESOURCE ID: premium_gift_notification_one_trainer_one_item_desc
-TEXT: Hi, <b>{0}</b>!
+TEXT: Hallo, <b>{0}</b>!
 
-Here’s a gift for you!
+Hier ist ein Geschenk für dich!
 {2}
 
-Cheers,
+Grüße,
 <b>{1}</b>
 
 RESOURCE ID: premium_gift_received_event_pass
-TEXT: {0} gifted you a GO Pass Deluxe!
+TEXT: {0} hat dir einen GO-Pass-Deluxe geschenkt!
 
 RESOURCE ID: premium_gift_received_event_ticket
-TEXT: {0} gifted you a ticket for an event!
+TEXT: {0} hat dir ein Ticket für ein Event geschenkt!
 
 RESOURCE ID: premium_gift_received_item_multi
-TEXT: {0} gifted you a {1} and more!
+TEXT: {0} hat dir 1 {1} und mehr geschenkt!
 
 RESOURCE ID: premium_gift_received_item_single
-TEXT: {0} gifted you a {1}!
+TEXT: {0} hat dir 1 {1} geschenkt!
 
 RESOURCE ID: primal_revert
 TEXT: Protomorphose
@@ -116100,14 +116334,20 @@ TEXT: Chance auf Erhalt von Silbernen Sananabeeren oder Goldenen Himmihbeeren du
 RESOURCE ID: sa_account_creation_prompt
 TEXT: Du hast kein Niantic Kids-Konto?
 
+RESOURCE ID: sa_account_creation_prompt_temp
+TEXT: Du hast kein Kids @ Scopely Explore-Konto?
+
 RESOURCE ID: sa_auth_failed
 TEXT: Authentifizierung fehlgeschlagen. Versuche es noch mal.
 
 RESOURCE ID: sa_auth_failed_permissions
 TEXT: Um dieses Spiel zu spielen, bitte ein Elternteil oder einen Erziehungsberechtigten, sich bei ihrem Niantic Kids-Konto anzumelden und die Berechtigungen für dein Konto zu aktivieren.
 
+RESOURCE ID: sa_auth_failed_permissions_temp
+TEXT: Um dieses Spiel zu spielen, frage einen Elternteil oder Erziehungsberechtigten, sich bei seinem Kids @ Scopely Explore-Konto anzumelden und die Berechtigungen für dein Konto freizugeben.
+
 RESOURCE ID: sa_forgot_password_url
-TEXT: https://niantic-sso.kws.superawesome.tv/de/password/forgot
+TEXT: https://sso.scopelyexplore.kidswebservices.com/de/password/forgot
 
 RESOURCE ID: sa_login_title
 TEXT: Niantic Kids
@@ -116115,14 +116355,23 @@ TEXT: Niantic Kids
 RESOURCE ID: sa_login_button
 TEXT: Niantic Kids
 
+RESOURCE ID: sa_login_button_temp
+TEXT: Kids @ Scopely Explore
+
 RESOURCE ID: sa_login_server_unreachable
 TEXT: Niantic Kids ist derzeit nicht verfügbar. Wir entschuldigen uns für die Unannehmlichkeiten.
 
+RESOURCE ID: sa_login_server_unreachable_temp
+TEXT: Kids @ Scopely Explore ist derzeit nicht verfügbar. Wir entschuldigen uns für die Unannehmlichkeiten.
+
+RESOURCE ID: sa_login_title_temp
+TEXT: Kids @ Scopely Explore
+
 RESOURCE ID: sa_parent_dashboard_url
-TEXT: https://parents.nianticlabs.com/de/login
+TEXT: https://app.parents.scopelyexplore.com/portal/de/login
 
 RESOURCE ID: sa_registration_url
-TEXT: https://niantic-sso.kws.superawesome.tv/de/register
+TEXT: https://scopelyexplore-sso.kws.superawesome.tv/de/register
 
 RESOURCE ID: sableye_drop_mega_energy
 TEXT: Chance, durch das Fangen von Zobiris Zobiris-Mega-Energie zu erhalten
@@ -119192,16 +119441,16 @@ RESOURCE ID: settings_allow_paid_gifts
 TEXT: Erlaube Freunden, dir bezahlte Geschenke zu schicken
 
 RESOURCE ID: settings_allow_paid_gifts_desc_off
-TEXT: Turning off this feature will pause friends from sending you paid gifts. This does not include free Gifts.
+TEXT: Wenn die Funktion deaktiviert wird, können Freunde dir keine gekauften Geschenke schicken. Kostenlose Geschenke sind davon nicht betroffen.
 
 RESOURCE ID: settings_allow_paid_gifts_desc_on
-TEXT: Turning on this feature will allow friends to send you paid gifts. You can pause specific friends from sending you paid gifts in the Pause Gifts List once this feature is turned on.
+TEXT: Wenn diese Funktion aktiviert wird, können Freunde dir gekaufte Geschenke schicken. Nachdem die Funktion aktiviert wurde, kannst du einzelne Freunde über die Liste pausierter Geschenkgeber daran hindern, dir gekaufte Geschenke zu senden.
 
 RESOURCE ID: settings_allow_paid_gifts_title_off
-TEXT: Turn Off Paid Gifts from Friends?
+TEXT: Gekaufte Geschenke von Freunden deaktivieren?
 
 RESOURCE ID: settings_allow_paid_gifts_title_on
-TEXT: Turn On Paid Gifts from Friends?
+TEXT: Gekaufte Geschenke von Freunden aktivieren?
 
 RESOURCE ID: settings_allow_raid_and_max_battle_friend_requests
 TEXT: Raid- und Dyna-Kampf-Mitglieder
@@ -119432,10 +119681,10 @@ RESOURCE ID: settings_party_play_map_avatars
 TEXT: Andere Trainer auf der Karte sehen
 
 RESOURCE ID: settings_pause_gifts_list
-TEXT: Pause Gifts List
+TEXT: Liste pausierter Geschenkgeber
 
 RESOURCE ID: settings_pause_gifts_list_tip
-TEXT: Selected friends will not be able to send you paid gifts. They can still send you free Gifts.
+TEXT: Freunde auf der Liste können dir keine gekauften Geschenke schicken. Sie können dir weiterhin kostenlose Geschenke schicken.
 
 RESOURCE ID: settings_pbp_check_other_menu
 TEXT: Bitte gehe zu „Pokémon GO Plus“ im Einstellungsmenü, um auf dein derzeit gekoppeltes Gerät zuzugreifen.
@@ -120150,7 +120399,7 @@ RESOURCE ID: shop_already_own_this_ticket
 TEXT: Du hast für dieses Event bereits ein Ticket.
 
 RESOURCE ID: shop_already_unlocked_premium_event_pass
-TEXT: You’ve already unlocked this GO Pass Deluxe.
+TEXT: Du hast diesen GO-Pass-Deluxe bereits freigeschaltet.
 
 RESOURCE ID: shop_battle_tickets_title
 TEXT: Hol dir einen Raid-Pass.
@@ -120281,7 +120530,7 @@ TEXT: Deine {0}-Aufbewahrung ist vollständig verbessert! Erhalte mehr Aufbewahr
 <a href="https://scopelyexplore.helpshift.com/hc/faq/1235-available-items-your-bag/">Hier erfährst du mehr über das Aufleveln.</a>
 
 RESOURCE ID: shop_gift_confirm_purchase_warning_description
-TEXT: You can send <b>{0}</b> total paid gifts today. This gift cannot be used by another player or refunded.
+TEXT: Du kannst heute insgesamt <b>{0}</b> gekaufte Geschenke verschicken. Dieses Geschenk kann nicht von einem anderen Spieler verwendet oder erstattet werden.
 
 RESOURCE ID: shop_gift_friend_ineligible_title
 TEXT: Geschenk kann nicht verschickt werden
@@ -120293,14 +120542,14 @@ TEXT: Einige Freunde können eventuell aus folgenden Gründen keine bezahlten Ge
 • Du erfüllst nicht den erforderlichen Freundschaftslevel, um diesem Freund ein Geschenk zu kaufen.
 
 RESOURCE ID: shop_gift_friend_ineligible_description_temp
-TEXT: You may not be able to send paid gifts—including items, tickets, and event passes—to some friends. This can happen for the following reasons:
+TEXT: Du kannst einigen Freunden möglicherweise keine gekauften Geschenke wie Items, Tickets und Event-Pässe schicken. Dies kann folgende Gründe haben:
 
-• They already own the ticket or event pass, or someone else sent it to them
-• They may have active or completed research that prevents them from receiving tickets
-• Your friendship level is too low
-• They have disabled paid gifts
-• Their account is not eligible due to restrictions
-• Cross-currency gifting is not supported
+• Dein Freund besitzt das Ticket oder den Event-Pass bereits oder hat das Geschenk bereits von jemand anderem erhalten.
+• Dein Freund hat möglicherweise eine aktive oder abgeschlossene Forschung, die den Erhalt von Tickets verhindert.
+• Der Freundschaftslevel ist zu niedrig.
+• Dein Freund hat gekaufte Geschenke deaktiviert.
+• Das Konto deines Freundes ist aufgrund von Einschränkungen nicht berechtigt.
+• Das Verschenken zwischen verschiedenen Währungen wird nicht unterstützt.
 
 RESOURCE ID: shop_gift_invitation_title
 TEXT: EINLADUNG
@@ -120359,7 +120608,7 @@ TEXT: Dein Geschenk wurde an {0} geschickt.
 Sag dieser Person Bescheid, damit das Geschenk rechtzeitig zum Event geöffnet werden kann!
 
 RESOURCE ID: shop_gift_purchase_invitation_sent_generic_description
-TEXT: Your gift has been sent to {0}.
+TEXT: Dein Geschenk wurde an {0} geschickt.
 
 RESOURCE ID: shop_gift_purchase_select_friend
 TEXT: Freund auswählen
@@ -127451,6 +127700,11 @@ TEXT: <b>Enthält:</b>
 • Mehr Bonbons und Bonbons XL nach Stufe-5-Dyna-Kämpfen
 • Eine Befristete Forschung mit 6400 Dyna-Partikeln und 25 000 EP als Belohnung
 
+RESOURCE ID: text_rewards_key_dmaxsinnohlakemaxbattle26
+TEXT: <b>Enthält:</b>
+• 2× EP aus Dyna-Kämpfen
+• Befristete Forschung, die dich mit 6400 Dyna-Partikeln, 25 000 EP und einem Dyna-Pilz belohnt.
+
 RESOURCE ID: text_rewards_key_enamorustherianraidday
 TEXT: <b>Enthaltene Belohnungen:</b>
 • 1 Meteorit
@@ -134122,6 +134376,9 @@ TEXT: Mehr Pokemon werden auf neuen Routen durch Rauch angelockt.
 
 RESOURCE ID: tutorial_route_bonus_2
 TEXT: Du kannst einzigartigen Pokemon begegnen.
+
+RESOURCE ID: tutorial_route_bonus_2_temp
+TEXT: Specific Pokémon may appear more often on Routes in the wild
 
 RESOURCE ID: tutorial_route_play_title_0
 TEXT: Eine Route erkunden
