@@ -287,7 +287,7 @@ RESOURCE ID: about_screen_btn
 TEXT: Sobre
 
 RESOURCE ID: about_screen_copyright1
-TEXT: ©2016-2017 Scopely Explore, Inc.
+TEXT: ©2016–2017 Scopely Explore, Inc.
 
 RESOURCE ID: about_screen_copyright2
 TEXT: ©2016-2017 Pokémon.
@@ -425,13 +425,13 @@ RESOURCE ID: add_friend_confirmation_title
 TEXT: Enviar um pedido de amizade para {0}?
 
 RESOURCE ID: add_friends_niantic_title
-TEXT: Amigos em jogos da Scopely Explore
+TEXT: Amigo nos jogos da Scopely Explore
 
 RESOURCE ID: add_friends_privacy_prompt
 TEXT: Os amigos poderão ver o seu perfil de Treinador, conquistas e seus últimos Pokémon pegos. Eles também poderão obter informações sobre a sua localidade ao receber presentes ou trocar Pokémon com você.
 
 RESOURCE ID: add_niantic_friend_tip
-TEXT: Ao adicionar amigos neste jogo, eles se tornarão amigos em todos os jogos da Scopely Explore que vocês jogarem.
+TEXT: Se você adicionar este amigo neste jogo, você também estará adicionando ele como amigo em todos os jogos da Scopely Explore que ambos jogarem.
 
 RESOURCE ID: add_referrer_disabled
 TEXT: Não foi possível estabelecer uma conexão.
@@ -747,6 +747,9 @@ TEXT: Ocultar temporariamente o local de captura
 RESOURCE ID: advanced_settings_streamer_mode_toggle_description
 TEXT: Ative esta opção para ocultar o local de captura dos Pokémon por 8 horas.
 
+RESOURCE ID: adventure_effect_activation_lobby_active
+TEXT: This Adventure Effect is currently active.
+
 RESOURCE ID: adventure_effect_incense_table_header
 TEXT: Pokémon atraídos
 
@@ -995,13 +998,13 @@ RESOURCE ID: air_adventures_yogyakarta_sr_title_04
 TEXT: Jornada de Pikachu na Indonésia: Yogyakarta (5/5)
 
 RESOURCE ID: allow_gift_list_prompt_title
-TEXT: Allow paid gifts?
+TEXT: Permitir presentes pagos?
 
 RESOURCE ID: allow_gift_list_prompt_desc
-TEXT: If you select Allow, this friend will be able to send you paid gifts again.
+TEXT: Se você selecionar Permitir, este amigo poderá voltar a enviar presentes pagos para você.
 
 RESOURCE ID: allow_gift_list_prompt_button_label
-TEXT: YES, ALLOW
+TEXT: SIM, PERMITIR
 
 RESOURCE ID: allow_notifications_prompt_message
 TEXT: Para melhorar sua experiência de jogo, permita que o Pokémon GO acesse as notificações.
@@ -1427,136 +1430,136 @@ RESOURCE ID: appraise_sinistea_phony_3
 TEXT: Parece Sinistea Forma Falsificada!
 
 RESOURCE ID: appraise_size_huge_1|1
-TEXT: O tamanho de seu {0} é colossal. Isto é realmente incrível. Fascinante!
+TEXT: Ele pode ser classificado como excepcionalmente grande.
 
 RESOURCE ID: appraise_size_huge_1|1_tgr
 TEXT: Há Pokémon grandes, mas este {0} é ainda maior.
 
 RESOURCE ID: appraise_size_huge_1|1b
-TEXT: 0 seu {0} pode ser classificado como excepcionalmente grande.
+TEXT: Ele pode ser classificado como excepcionalmente grande.
 
 RESOURCE ID: appraise_size_huge_2|1
-TEXT: Seu {0} é gigante, o maior que já vi!
+TEXT: Nossa, que enorme!
 
 RESOURCE ID: appraise_size_huge_2|1_tgr
 TEXT: Mas que {0} corpulento. Quase me impressionou.
 
 RESOURCE ID: appraise_size_huge_2|1b
-TEXT: Nossa, que {0} enorme!
+TEXT: Nossa, que enorme!
 
 RESOURCE ID: appraise_size_huge_3|1
-TEXT: Seu {0} é ENORME!
+TEXT: É simplesmente ENORME!
 
 RESOURCE ID: appraise_size_huge_3|1_tgr
 TEXT: Seu {0} é bem grande, hein?
 
 RESOURCE ID: appraise_size_huge_3|1b
-TEXT: O seu {0} é ENORME!
+TEXT: É simplesmente ENORME!
 
 RESOURCE ID: appraise_size_large_1|1
-TEXT: Seu {0} está acima da média de tamanho.
+TEXT: Ele está acima da média de tamanho.
 
 RESOURCE ID: appraise_size_large_1|1_tgr
 TEXT: Este sim é um {0} grande.
 
 RESOURCE ID: appraise_size_large_1|1b
-TEXT: Your {0} is above average in size.
+TEXT: Ele está acima da média de tamanho.
 
 RESOURCE ID: appraise_size_large_2|1
-TEXT: Sem dúvidas, seu {0} é muito grande!
+TEXT: Sem dúvida, ele é muito grande!
 
 RESOURCE ID: appraise_size_large_2|1_tgr
 TEXT: Esse é um {0} grandão. Quer que eu fale mais o quê?
 
 RESOURCE ID: appraise_size_large_3|1
-TEXT: Seu {0} é muito grande!
+TEXT: Esse é GRANDE!
 
 RESOURCE ID: appraise_size_large_3|1_tgr
 TEXT: Hum. Este tamanho não é nada mal para um {0}.
 
 RESOURCE ID: appraise_size_large_3|1b
-TEXT: Your {0} is a BIG one!
+TEXT: Esse é GRANDE!
 
 RESOURCE ID: appraise_size_small_1|1
-TEXT: Seu {0} está abaixo da média de tamanho.
+TEXT: Ele está abaixo da média de tamanho.
 
 RESOURCE ID: appraise_size_small_1|1_tgr
 TEXT: Fala sério... Que {0} pequeno.
 
 RESOURCE ID: appraise_size_small_1|1b
-TEXT: Your {0} is below average in size.
+TEXT: Ele está abaixo da média de tamanho.
 
 RESOURCE ID: appraise_size_small_2|1
-TEXT: Oun, que {0} pequeno! É muito fofo.
+TEXT: Oun, que pequeno! É muito fofo.
 
 RESOURCE ID: appraise_size_small_2|1_tgr
 TEXT: Seu {0} é pequeno. Tão... imperceptível.
 
 RESOURCE ID: appraise_size_small_3|1
-TEXT: Seu {0} é um pouco pequeno para sua espécie, não acha?
+TEXT: Ele é um pouco pequeno para sua espécie, não acha?
 
 RESOURCE ID: appraise_size_small_3|1_tgr
 TEXT: Este {0} é dos menores.
 
 RESOURCE ID: appraise_size_tiny_1|1
-TEXT: Seu {0} é menor do que os que temos no registro. Impressionante.
+TEXT: Ele pode ser classificado como excepcionalmente pequeno.
 
 RESOURCE ID: appraise_size_tiny_1|1_tgr
 TEXT: Que {0} pequenininho. Se esforce mais.
 
 RESOURCE ID: appraise_size_tiny_1|1b
-TEXT: O seu {0} pode ser classificado como excepcionalmente pequeno.
+TEXT: Ele pode ser classificado como excepcionalmente pequeno.
 
 RESOURCE ID: appraise_size_tiny_2|1
-TEXT: Seu {0} é tão pequeno que quase não o vi!
+TEXT: Esse aí é pequeno mesmo!
 
 RESOURCE ID: appraise_size_tiny_2|1_tgr
 TEXT: Isso é uma piada? Que tipo de {0} microscópico é esse?
 
 RESOURCE ID: appraise_size_tiny_2|1b
-TEXT: Que {0} pequenino!
+TEXT: Esse aí é pequeno mesmo!
 
 RESOURCE ID: appraise_size_tiny_3|1
-TEXT: Ua… Uau. Este é o menor {0} que já vi!
+TEXT: Que minúsculo, hein?
 
 RESOURCE ID: appraise_size_tiny_3|1_tgr
 TEXT: Mas que {0} peculiar.
 
 RESOURCE ID: appraise_size_tiny_3|1b
-TEXT: O seu {0} é bem pequeno, né?
+TEXT: Ele é bem pequenininho, hein?
 
 RESOURCE ID: appraise_size_xxl_1|1
-TEXT: The size of your {0} is...colossal. This is indeed exceptional. Fascinating!
+TEXT: Ele é... gigantesco. Realmente excepcional. Fascinante!
 
 RESOURCE ID: appraise_size_xxl_1|1_tgr
 TEXT: Que {0} enorme! Acho que você pode ter ele de volta... por enquanto.
 
 RESOURCE ID: appraise_size_xxl_2|1
-TEXT: Your {0} is gigantic—the largest I've ever seen!
+TEXT: É gigante! O maior que já vi!
 
 RESOURCE ID: appraise_size_xxl_2|1_tgr
 TEXT: Este é um... {0} admirável. Finalmente, você me mostrou algum que vale a pena.
 
 RESOURCE ID: appraise_size_xxl_3|1
-TEXT: Your {0} is massive! ...Could it be the biggest {0} in the world?
+TEXT: É enorme! Deve ser um dos maiores do mundo...
 
 RESOURCE ID: appraise_size_xxl_3|1_tgr
 TEXT: Muito bem! Você conseguiu um {0} impressionante!
 
 RESOURCE ID: appraise_size_xxs_1|1
-TEXT: Your {0} is tinier than any we have on record. Astounding.
+TEXT: Ele é o menor já registrado. Impressionante.
 
 RESOURCE ID: appraise_size_xxs_1|1_tgr
 TEXT: Tudo tem um uso, até mesmo este pequeno {0}.
 
 RESOURCE ID: appraise_size_xxs_2|1
-TEXT: Your {0} is so tiny, I almost didn't notice it!
+TEXT: É tão pequeno que quase não vi!
 
 RESOURCE ID: appraise_size_xxs_2|1_tgr
 TEXT: Que {0} minúsculo. Até mesmo para mim é raro ver um desses.
 
 RESOURCE ID: appraise_size_xxs_3|1
-TEXT: Wh-whoa. That's the tiniest {0} I've ever seen!
+TEXT: Uau! Eu nunca tinha visto um tão pequeno!
 
 RESOURCE ID: appraise_size_xxs_3|1_tgr
 TEXT: Nossa! Este {0} é um dos menores que eu já vi.
@@ -2097,10 +2100,10 @@ RESOURCE ID: ardk_download_button
 TEXT: BAIXAR
 
 RESOURCE ID: ardk_download_confirm_title
-TEXT: Aventura de Companheiros (teste)
+TEXT: Plataforma Scopely Explore AR
 
 RESOURCE ID: ardk_download_confirm_body
-TEXT: Para desfrutar de todos os recursos da função de RA de companheiros, baixe a Scopely Explore AR Platform (você pode desativar esta versão de teste a qualquer momento).
+TEXT: Para aproveitar todos os recursos da função de RA de companheiros, baixe a plataforma Scopely Explore AR (você pode desativar esta versão de teste a qualquer momento).
 
 RESOURCE ID: ardk_download_confirm_size
 TEXT: Tamanho do download: {0} MB
@@ -2122,7 +2125,7 @@ TEXT: Sucesso!
 Boas vindas à experiência de RA em grupo!
 
 RESOURCE ID: ardk_download_prompt_multiplayer_legal_tos_description
-TEXT: A Scopely Explore processará dados geográficos capturados pela sua câmera durante sua sessão de RA. {0}.
+TEXT: A Scopely Explore processará dados geoespaciais capturados pela sua câmera durante a sua sessão de RA. {0}.
 
 RESOURCE ID: ardk_download_prompt_multiplayer_legal_tos_link_text
 TEXT: Saiba mais
@@ -2144,7 +2147,7 @@ RESOURCE ID: ardk_download_prompt_title_dbow
 TEXT: Para desfrutar da experiência de RA com outras pessoas, é necessário baixar um conteúdo adicional.
 
 RESOURCE ID: ardk_download_prompt_title_monodepth
-TEXT: Para usufruir de uma experiência de RA mais imersiva, será preciso baixar o pacote da Scopely Explore AR.
+TEXT: Para aproveitar uma experiência de RA mais imersiva, é necessário baixar o pacote Scopely Explore AR.
 
 RESOURCE ID: ardk_update_confirm_title
 TEXT: Atualização da Scopely Explore AR Platform
@@ -18581,7 +18584,7 @@ RESOURCE ID: bidoof_day_event
 TEXT: Dia de Bidoof
 
 RESOURCE ID: blacklisted_app_found_lockout
-TEXT: Detectamos um software que pode interferir com a operação do Pokémon GO no seu dispositivo. Isso inclui aplicativos que falsificam sua localização. O uso de software não autorizado que afeta diretamente o Pokémon GO é uma violação dos Termos de Serviço da Scopely Explore e pode resultar na perda de sua conta. Você precisará desinstalar esses aplicativos para continuar jogando.
+TEXT: Detectamos um software que pode interferir na operação do Pokémon GO no seu dispositivo. Isso inclui aplicativos que falsificam sua localização. O uso de softwares não autorizados que afetam diretamente o Pokémon GO é uma violação dos Termos de Serviço da Scopely Explore e pode resultar na perda de sua conta. Você precisará desinstalar esses aplicativos para continuar jogando.
 
 RESOURCE ID: blanche_inspire#1
 TEXT: Não desista.
@@ -21863,7 +21866,7 @@ RESOURCE ID: breakfast_tappable_tutorial_body_temp
 TEXT: Você pode encontrar Células de Zygarde depois de completar uma Rota. Você pode montar as Células de Zygarde para criar formas diferentes de Zygarde.
 
 RESOURCE ID: breakfast_tappable_tutorial_body_temp2
-TEXT: Collect up to 3 Zygarde Cells per day by completing Routes. Assemble your Cells to create different Zygarde forms.
+TEXT: Colete até 3 Células de Zygarde por dia ao completar Rotas. Monte suas Células de Zygarde para criar diferentes formas de Zygarde.
 
 RESOURCE ID: breakthrough_free_remote_raid_pass
 TEXT: Passe de Reide a Distância por descobertas extraordinárias
@@ -30110,13 +30113,13 @@ TEXT: NOT YET
 RESOURCE ID: combat_log_upload_complete_modal_body
 TEXT: Agradecemos por compartilhar seus registros de jogo com a Scopely Explore. Esses dados nos ajudarão a melhorar o Pokémon GO.
 
-Para assistência adicional, entre em contato com o suporte e mencione seus registros de jogo que fez upload.
+Para mais assistência, entre em contato com o suporte e mencione os registros de jogo que você fez upload.
 
 RESOURCE ID: combat_log_upload_modal_title
 TEXT: Fazer upload de registros de jogo
 
 RESOURCE ID: combat_log_upload_modal_body
-TEXT: Se você teve problemas durante sua última Batalha de Treinador, considere fazer upload de seus registros de jogo por meio do recurso Registros de jogo para compartilhá-los com a Scopely Explore.
+TEXT: Se você teve algum problema durante sua última Batalha de Treinador, tente fazer upload dos seus registros de jogo por meio do recurso Registros de jogo para compartilhá-los com a Scopely Explore.
 
 RESOURCE ID: combat_log_upload_modal_complete_title
 TEXT: Upload concluído!
@@ -30889,7 +30892,7 @@ RESOURCE ID: concierge_promo_tr_name
 TEXT: Pesquisa Temporária Bônus de A Concierge Pokémon
 
 RESOURCE ID: confirm_gift_purchase_v2_reward_points_prefix
-TEXT: You will receive
+TEXT: Você receberá
 
 RESOURCE ID: confirm_send_button
 TEXT: ENVIAR
@@ -36595,7 +36598,7 @@ RESOURCE ID: fb_invite_import_friends_title
 TEXT: Import friends from Facebook?
 
 RESOURCE ID: fb_invite_import_friends_info
-TEXT: Se optar por importar amigos do Facebook ao Pokémon GO, a Scopely Explore só mostrará os amigos que já estejam no Pokémon GO e que também já tenham decidido importar amigos do Facebook. A Scopely Explore terá acesso limitado ao teu nome, lista de amigos e fotos do seu perfil no Facebook. Você sempre poderá mudar de opinião e remover alguém da sua lista de amigos no menu de amigos ou edite suas permissões do aplicativo dentro do Facebook.  Para obter maiores informações, visite a <a href="help_center_link">Central de ajuda</a>.
+TEXT: Se você optar por importar seus amigos do Facebook, a Scopely Explore terá acesso a sua lista de amigos do Facebook que já estão no Pokémon GO e que também optaram por importar amigos do Facebook. O nome e a foto do seu perfil no Facebook ficarão visíveis com o seu nome de Treinador. Você pode mudar de ideia a qualquer momento e remover jogadores da sua Lista de Amigos do Pokémon GO ou editar as permissões do aplicativo no Facebook. Para obter mais informações, acesse a Central de Ajuda.
 
 RESOURCE ID: fb_invite_initial_adoption_message_logged_in_with_fb
 TEXT: Some of your Facebook Friends may be playing Pokémon GO! Add them to send Gifts, trade Pokémon, and more!
@@ -39154,8 +39157,9 @@ RESOURCE ID: friend_sent_you_gift_notification
 TEXT: {0} enviou um presente para você!
 
 RESOURCE ID: friend_sort_online_not_available_body
-TEXT: <b>Esta ordenação só pode ser usada quando você estiver online. Você pode ativar seu status online agora ou mais tarde usando o botão de alternância Online/Offline.</b>
-<size=24>Ativar o status online o ativará para todos os jogos da Scopely Explore que você jogar.</size>
+TEXT: Esta ordenação só pode ser usada quando você compartilhar seu status online.
+
+Observação: ao compartilhar seu status online, ele será compartilhado em todos os jogos da Scopely Explore que você jogar.
 
 RESOURCE ID: friend_sort_online_not_available_header
 TEXT: Alternância rápida do status de conexão
@@ -39383,7 +39387,7 @@ RESOURCE ID: friendslist_sort_raid
 TEXT: EM UM REIDE ({0})
 
 RESOURCE ID: friendslist_sort_online_unavailable
-TEXT: Não é possível filtrar amigos pelo status online se não estiver usando o Scopely Explore Online.
+TEXT: Não é possível filtrar amigos pelo status online se não tiver optado por usar o Scopely Explore Online.
 
 RESOURCE ID: frigibax_cd_website_link
 TEXT: Para mais informações, visite o <a href="https://pokemongo.com/news/communityday-june-2026-frigibax">site</a>.
@@ -41947,6 +41951,9 @@ TEXT: Ativar
 RESOURCE ID: general_value_plus
 TEXT: {0}+
 
+RESOURCE ID: general_view_pokemon
+TEXT: VER POKÉMON
+
 RESOURCE ID: general_walked_km
 TEXT: Explorou {0} km
 
@@ -41960,10 +41967,10 @@ RESOURCE ID: generic_contact_support
 TEXT: Como compartilhar registros de jogo
 
 RESOURCE ID: generic_event_pass_premium_unlock
-TEXT: GO Pass Deluxe
+TEXT: Passe GO Deluxe
 
 RESOURCE ID: generic_event_pass_premium_unlock_plus_points
-TEXT: GO Pass Deluxe + Ranks
+TEXT: Passe GO Deluxe + Ranques
 
 RESOURCE ID: generic_player_lockout
 TEXT: A sua conta foi suspensa por violar os Termos de serviço.
@@ -42110,9 +42117,9 @@ O presente não foi entregue porque o destinatário obteve o mesmo ingresso de e
 Se quiser, você pode solicitar um reembolso na sua loja de aplicativos.
 
 RESOURCE ID: gifting_error_description_temp
-TEXT: Unfortunately, this friend cannot receive this paid gift. This can happen for a variety of reasons.
+TEXT: Infelizmente, este amigo não pode receber este presente pago. Isso pode acontecer por vários motivos.
 
-You can choose a new friend to send this to now.
+Você pode escolher outro amigo para enviar o presente agora.
 
 RESOURCE ID: gifting_error_refund_button
 TEXT: PEDIR REEMBOLSO
@@ -42699,6 +42706,9 @@ TEXT: Butterfree Gigamax está aparecendo em Batalhas Max
 
 RESOURCE ID: gmax_cinderace_max_battles
 TEXT: Cinderace Gigamax está aparecendo em Batalhas Max
+
+RESOURCE ID: gmax_duraludon_max_battles
+TEXT: Gigantamax Duraludon is appearing in Max Battles
 
 RESOURCE ID: gmax_garbodor_lead_up_timed_research
 TEXT: Pesquisa Temporária de Aquecimento para o Dia de Batalhas Max: Garbodor Gigamax
@@ -50492,6 +50502,9 @@ TEXT: Desafio de Coleção de Natureza Selvagem
 RESOURCE ID: gowa2025_leadup_global_todayview_bonus
 TEXT: Bônus Adicionais de Natureza Selvagem
 
+RESOURCE ID: gowa2026_leadup_collection_challenge
+TEXT: Into the Wild Collection Challenge
+
 RESOURCE ID: gowa_supply_balloon_gsb
 TEXT: Um Balão de Suprimentos aparecerá a cada hora. Toque nele para receber Bolas Safari GO!
 
@@ -52795,7 +52808,7 @@ RESOURCE ID: iap_category_team_change
 TEXT: Mudança de equipe
 
 RESOURCE ID: iap_friend_picker_last_sent
-TEXT: Last Sent
+TEXT: Último envio
 
 RESOURCE ID: iap_item_unavailable
 TEXT: Este item não pode mais ser comprado.
@@ -52816,7 +52829,7 @@ RESOURCE ID: iap_sale_time_left_label
 TEXT: Tempo restante: 
 
 RESOURCE ID: ibfc_minior_transformed
-TEXT: Minior transformed!
+TEXT: Minior mudou de forma!
 
 RESOURCE ID: ibfc_warn_needed_move
 TEXT: {0} é necessário para que Cramorant mude de forma durante a batalha.
@@ -52917,6 +52930,39 @@ TEXT: Pesquisa Temporária de Festival Universitário de Pokémon GO (3/3)
 
 RESOURCE ID: in_collegefest_2026_tv_desc
 TEXT: Explore seu campus para encontrar Pokémon icônicos, concluir a Pesquisa Temporária e se juntar aos seus amigos para participar de Reides e muito mais!
+
+RESOURCE ID: in_fol_2026_event_title
+TEXT: Festival of Lights 2026
+
+RESOURCE ID: in_fol_2026_tr_title
+TEXT: Festival of Lights 2026 Timed Research
+
+RESOURCE ID: in_fol_2026_tr_desc_title_00
+TEXT: Festival of Lights 2026 Timed Research (1/3)
+
+RESOURCE ID: in_fol_2026_tr_desc_title_01
+TEXT: Festival of Lights 2026 Timed Research (2/3)
+
+RESOURCE ID: in_fol_2026_tr_desc_title_02
+TEXT: Festival of Lights 2026 Timed Research (3/3)
+
+RESOURCE ID: in_fol_2026_collection_challenge
+TEXT: Festival of Lights 2026 Collection Challenge
+
+RESOURCE ID: in_fol_2026_event_sparkle_o_clock
+TEXT: It’s Sparkle O’Clock! Glowing Pokémon are lighting up the Festival of Lights!
+
+RESOURCE ID: in_fol_2026_event_tv_desc
+TEXT: Festival of Lights celebrations are underway! Encounter special Pokémon at 6:00 p.m., 6:30 p.m., 7:00 p.m., and 7:30 p.m. local time, and find Pikachu wearing a saree or kurta in raids. Visit the blog for more details.
+
+RESOURCE ID: in_fol_2026_tr_dialog_00
+TEXT: The Festival of Lights is here, %PLAYERNAME%! Choose your festive Pikachu, and let’s celebrate!
+
+RESOURCE ID: in_fol_2026_tr_path_a_desc
+TEXT: Choose this path for an encounter with Pikachu wearing a kurta with a Special Background, plus rewards including stickers and the Sparkler Pose for your avatar!
+
+RESOURCE ID: in_fol_2026_tr_path_b_desc
+TEXT: Choose this path for an encounter with Pikachu wearing a saree with a Special Background, plus rewards including stickers and the Sparkler Pose for your avatar!
 
 RESOURCE ID: in_person_tickets
 TEXT: Ingressos de eventos presenciais
@@ -53110,6 +53156,18 @@ TEXT: {0} pessoas enviaram pedidos de amizade a você.
 RESOURCE ID: incoming_friend_request_prompt_singular
 TEXT: 1 pessoa enviou um pedido de amizade a você.
 
+RESOURCE ID: incomplete_raid_battle_rejoin_modal_title
+TEXT: Rejoin raid?
+
+RESOURCE ID: incomplete_raid_battle_rejoin_modal_body
+TEXT: Rejoin the raid to continue battling the Raid Boss.
+
+RESOURCE ID: incomplete_raid_encounter_rejoin_modal_title
+TEXT: Return to Raid Boss encounter?
+
+RESOURCE ID: incomplete_raid_encounter_rejoin_modal_body
+TEXT: Return to the encounter to catch the Raid Boss.
+
 RESOURCE ID: increased_adventure_sync_rewards
 TEXT: Maior número de recompensas da Sincroaventura na semana que vem
 
@@ -53274,6 +53332,9 @@ TEXT: Festival Pokémon: Jacarta 2022
 
 RESOURCE ID: indonesian
 TEXT: Bahasa Indonesia
+
+RESOURCE ID: ineligible_rare_background_disclaimer_text
+TEXT: O fundo deste Pokémon não pode ser exibido no seu perfil de Treinador.
 
 RESOURCE ID: initial_onboarding_privacy_tip
 TEXT: Privacy Control: Your safety is our priority, and you are able to control what features are turned on.
@@ -56093,10 +56154,10 @@ RESOURCE ID: item_incubator_timed_name
 TEXT: Incubadora Temporária
 
 RESOURCE ID: item_inventory_paid_gift_banner_title
-TEXT: You have paid gifts!
+TEXT: Você tem presentes pagos!
 
 RESOURCE ID: item_inventory_paid_gift_banner_subtitle
-TEXT: Send to your Friends?
+TEXT: Enviar para seus amigos?
 
 RESOURCE ID: item_item_pack_desc
 TEXT: Aumenta o tamanho da sua Bolsa.
@@ -56250,6 +56311,9 @@ TEXT: Use Partículas Max para participar de Batalhas Max em Pontos de Energia o
 
 RESOURCE ID: item_mp_name
 TEXT: Partícula Max
+
+RESOURCE ID: item_mp_name_plural
+TEXT: Max Particles
 
 RESOURCE ID: item_mp_replenish_desc
 TEXT: Um pacote pequeno de Partículas Max. Cada pacote contém {0} Partículas Max.
@@ -56866,6 +56930,36 @@ TEXT: Combo de excursionista
 
 RESOURCE ID: jp_2026_ana_title
 TEXT: Aventura nas Alturas
+
+RESOURCE ID: jp_aeon_mall_collab_2026_title
+TEXT: Evento de Halloween AEON Mall 2026
+
+RESOURCE ID: jp_aeon_mall_collab_2026_event_desc
+TEXT: Um evento especial está disponível nos AEON Malls por todo o Japão de 19 de outubro a 1º de novembro!
+
+RESOURCE ID: jp_aeon_mall_collab_2026_lure_bonus
+TEXT: Os Módulos Atrair usados nos AEON Malls atrairão ainda mais Pokémon
+
+RESOURCE ID: jp_aeon_mall_collab_2026_tr_1_name
+TEXT: Pesquisa Temporária do Evento de Halloween AEON Mall 2026: Parte 1
+
+RESOURCE ID: jp_aeon_mall_collab_2026_tr_1_name_1
+TEXT: Pesquisa Temporária do Evento de Halloween AEON Mall 2026: Parte 1 (1/2)
+
+RESOURCE ID: jp_aeon_mall_collab_2026_tr_1_name_2
+TEXT: Pesquisa Temporária do Evento de Halloween AEON Mall 2026: Parte 1 (2/2)
+
+RESOURCE ID: jp_aeon_mall_collab_2026_tr_2_name
+TEXT: Pesquisa Temporária do Evento de Halloween AEON Mall 2026: Parte 2
+
+RESOURCE ID: jp_aeon_mall_collab_2026_tr_2_name_1
+TEXT: Pesquisa Temporária do Evento de Halloween AEON Mall 2026: Parte 2 (1/2)
+
+RESOURCE ID: jp_aeon_mall_collab_2026_tr_2_name_2
+TEXT: Pesquisa Temporária do Evento de Halloween AEON Mall 2026: Parte 2 (2/2)
+
+RESOURCE ID: jp_aeon_mall_collab_2026_tr_bonus
+TEXT: Visite um AEON Mall toda semana e complete a Pesquisa Temporária especial para encontrar um Pikachu especial
 
 RESOURCE ID: jp_iap_link1
 TEXT: https://scopelyexplore.helpshift.com/hc/ja/5-pokemon-go/faq/1492-%E8%B3%87%E9%87%91%E6%B1%BA%E6%B8%88%E6%B3%95%E3%81%AB%E5%9F%BA%E3%81%A4%E3%81%8F%E8%A1%A8%E7%A4%BA/
@@ -60205,7 +60299,7 @@ RESOURCE ID: location_card_tutorial_header
 TEXT: Fundos de Localidade
 
 RESOURCE ID: location_card_tutorial_message
-TEXT: Você recebeu um Fundo de Localidade! Estes são planos de fundo raros que você pode receber ao pegar Pokémon em locais especiais. Vamos nessa e colecione mais!
+TEXT: Você recebeu um Fundo de Localidade! Estes são fundos raros que você pode receber ao pegar Pokémon em locais especiais. Vamos nessa e colecione mais!
 
 RESOURCE ID: location_space_limit_message
 TEXT: Não há espaço suficiente
@@ -60239,7 +60333,7 @@ RESOURCE ID: log_verbose_raid_modal_desc_cache
 TEXT: Os dados de um Reide serão armazenados por 24 horas ou até seu próximo Reide, e você poderá fazer o upload dos dados a qualquer momento antes disso no menu de configurações.
 
 RESOURCE ID: log_verbose_raid_modal_desc_info
-TEXT: Com o recurso Registro de Reide, você pode fazer upload de dados de Reides das quais participou, o que ajudará a Scopely Explore a melhorar os próximos Reides.
+TEXT: Com o recurso Registro de Reide, você pode fazer upload dos dados de Reides dos quais participou, o que ajudará a Scopely Explore a melhorar Reides futuros.
 
 RESOURCE ID: log_verbose_raid_modal_desc_url_link
 TEXT: visite este site.
@@ -61207,7 +61301,7 @@ RESOURCE ID: marketing_email_opt_in_toggle
 TEXT: Quero receber e-mails
 
 RESOURCE ID: marketing_notification_opt_in_title
-TEXT: A Scopely Explore gostaria de lhe enviar notificações sobre eventos, ofertas e atualizações.
+TEXT: A Scopely Explore gostaria de enviar a você notificações sobre eventos, ofertas e atualizações.
 
 RESOURCE ID: marketing_notification_opt_in_message
 TEXT: As notificações podem incluir alertas, sons e selos no ícone. Isso pode ser alterado nas suas configurações.
@@ -62172,6 +62266,9 @@ TEXT: Pesquisa Temporária: Participação em Encontro (Dia Comunitário)
 RESOURCE ID: meetup_check_in_research_title_gowa2025
 TEXT: Pesquisa Temporária: Participação em Encontro (Área Selvagem GO)
 
+RESOURCE ID: meetup_check_in_research_title_gowa2026
+TEXT: Meetup Check-In Timed Research: GO Wild Area
+
 RESOURCE ID: meetup_check_in_research_title_hatch
 TEXT: Pesquisa Temporária: Participação em Encontro (Dia de Chocar)
 
@@ -62877,10 +62974,10 @@ at SHA 4d4f3e80cc7fb911006bd14d198c9831ef66d005
 Pipeline 339838, job 2672172
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-10-02T01:29:28.079524+00:00 for pt-BR
-at SHA a4a89ae58b0
-Pipeline 3987814, job 58728214
-Patch from: 0.431.0-SHA-98b5070c-RC6, 0.429.2-SHA-ad36de78-RC2, 0.433.0-SHA-d37b1aa1-RC1
+TEXT: Built at 2026-10-08T01:19:41.065326+00:00 for pt-BR
+at SHA 419119e35f4
+Pipeline 4005594, job 59006900
+Patch from: 0.431.0-SHA-76e2198b-RC4, 0.433.0-SHA-94a605de-RC4
 
 RESOURCE ID: meteor_title_1
 TEXT: CHUVA DE METEOROS
@@ -63138,10 +63235,10 @@ RESOURCE ID: monochrome_holiday_tr_name_2
 TEXT: Pesquisa Temporária Premium de Contando Ovelhinhas (2/2)
 
 RESOURCE ID: monodepth_ar_plus_required_toast
-TEXT: Ative a função de RA da Scopely Explore para usar a realidade combinada.
+TEXT: Ative Scopely Explore AR para usar a realidade combinada.
 
 RESOURCE ID: monodepth_ar_plus_toggle_warning
-TEXT: Se você desativar a função de RA da Scopely Explore, a realidade combinada também será desativada.
+TEXT: Se desativar Scopely Explore AR, a realidade combinada também será desativada.
 
 RESOURCE ID: monodepth_download_prompt_success_message
 TEXT: Agora você poderá usufruir de uma experiência de RA mais imersiva com seus Pokémon!
@@ -63152,26 +63249,50 @@ TEXT: Landscape mode does not support occlusion.
 RESOURCE ID: month_apr
 TEXT: Abr.
 
+RESOURCE ID: month_april
+TEXT: abril
+
 RESOURCE ID: month_aug
 TEXT: Ago.
+
+RESOURCE ID: month_august
+TEXT: agosto
 
 RESOURCE ID: month_dec
 TEXT: Dez.
 
+RESOURCE ID: month_december
+TEXT: dezembro
+
 RESOURCE ID: month_feb
 TEXT: Fev.
+
+RESOURCE ID: month_february
+TEXT: fevereiro
 
 RESOURCE ID: month_jan
 TEXT: Jan.
 
+RESOURCE ID: month_january
+TEXT: janeiro
+
 RESOURCE ID: month_jul
 TEXT: Jul.
+
+RESOURCE ID: month_july
+TEXT: julho
 
 RESOURCE ID: month_jun
 TEXT: Jun.
 
+RESOURCE ID: month_june
+TEXT: junho
+
 RESOURCE ID: month_mar
 TEXT: Mar.
+
+RESOURCE ID: month_march
+TEXT: março
 
 RESOURCE ID: month_may
 TEXT: Maio
@@ -63179,11 +63300,20 @@ TEXT: Maio
 RESOURCE ID: month_nov
 TEXT: Nov.
 
+RESOURCE ID: month_november
+TEXT: novembro
+
 RESOURCE ID: month_oct
 TEXT: Out.
 
+RESOURCE ID: month_october
+TEXT: outubro
+
 RESOURCE ID: month_sep
 TEXT: Set.
+
+RESOURCE ID: month_september
+TEXT: setembro
 
 RESOURCE ID: moongeist_beam_adventure_effects_mapview_dialog
 TEXT: Emite um raio sinistro. Atrai Pokémon encontrados à noite e permite Evolução noturna durante o dia.
@@ -68356,7 +68486,7 @@ RESOURCE ID: niantic_profile_privacy_settings_title
 TEXT: Configurações de privacidade
 
 RESOURCE ID: niantic_social_overview_desc
-TEXT: O Scopely Explore Social chegou! Com esse novo recurso social, agora você pode fazer o seguinte.
+TEXT: Scopely Explore Social chegou! Com esse novo recurso social, agora você pode fazer o seguinte.
 
 RESOURCE ID: nickit_website_link
 TEXT: Para mais informações, visite o <a href="https://pokemongo.com/news/communityday-august-2026-nickit">site</a>.
@@ -68913,19 +69043,19 @@ RESOURCE ID: ozone_ascent_free_timed_research
 TEXT: Pesquisa Temporária de Onda de Ozônio
 
 RESOURCE ID: paid_gift_already_purchased_modal_title
-TEXT: You have already purchased this paid gift.
+TEXT: Você já comprou este presente pago.
 
 RESOURCE ID: paid_gift_already_purchased_modal_button
-TEXT: GO TO INVENTORY
+TEXT: IR PARA O INVENTÁRIO
 
 RESOURCE ID: paid_gift_already_purchased_modal_message
-TEXT: You can send it from your inventory.
+TEXT: Você pode enviá-lo pelo seu inventário.
 
 RESOURCE ID: paid_gift_regift_no_longer_available_modal_title
-TEXT: Gifting Error
+TEXT: Erro ao enviar presente
 
 RESOURCE ID: paid_gift_regift_no_longer_available_modal_message
-TEXT: This item is no longer available and cannot be gifted.
+TEXT: Este item não está mais disponível e não pode ser enviado como presente.
 
 RESOURCE ID: paid_pikachu_gmax_tr_mar26
 TEXT: Pesquisa Temporária Premium de Pikachu Gigamax
@@ -69893,16 +70023,16 @@ RESOURCE ID: pause_dialog_subtitle
 TEXT: Você deixará de coletar selos para esta caça se pausar. Você pode retomá-la a qualquer momento na página de coleta.
 
 RESOURCE ID: pause_gift_list_title
-TEXT: Pause Gifts List
+TEXT: Lista de Pausa de Presentes
 
 RESOURCE ID: pause_gift_list_prompt_title
-TEXT: Pause paid gifts?
+TEXT: Pausar presentes pagos?
 
 RESOURCE ID: pause_gift_list_prompt_desc
-TEXT: The following friend will be unable to send you paid gifts. You can allow them to send paid gifts again at any point.
+TEXT: O amigo a seguir não poderá enviar presentes pagos para você. Você pode permitir que ele volte a enviar presentes pagos a qualquer momento.
 
 RESOURCE ID: pause_gift_list_prompt_button_label
-TEXT: YES, PAUSE
+TEXT: SIM, PAUSAR
 
 RESOURCE ID: pause_route_travel_error_toast
 TEXT: Error pausing Route
@@ -71233,7 +71363,7 @@ RESOURCE ID: poi_contrib_tutorial_dupe_title
 TEXT: Buscar por duplicados
 
 RESOURCE ID: poi_contrib_tutorial_dupe_body
-TEXT: Um ícone azul indica um Wayspot válido que é usado no Pokémon GO. Um ícone laranja indica um Wayspot válido que é usado em outros jogos da Scopely Explore. Ao submeter uma nova proposta de Poképarada, evite enviar de novo qualquer tipo de Wayspot já existente.
+TEXT: Um ícone azul indica um Wayspot válido que é usado no Pokémon GO. Um ícone laranja indica um Wayspot válido que é usado em outros jogos da Scopely Explore. Ao enviar uma nova proposta de Poképarada, evite envios duplicados de qualquer tipo de Wayspot já existente.
 
 RESOURCE ID: poi_contrib_unavailable_disabled
 TEXT: Este recurso está indisponível no momento.
@@ -71613,7 +71743,7 @@ RESOURCE ID: poi_sub_tut_desc_1
 TEXT: A Poképarada é um local no jogo que encoraja Treinadores a saírem de casa para descobrirem novos lugares e se conectarem com pessoas da sua comunidade. As Poképaradas geralmente têm precedente histórico, valor educacional, podem ser uma obra de arte ou uma joia escondida que só os moradores do local conhecem.
 
 RESOURCE ID: poi_sub_tut_desc_2
-TEXT: Envie um nome, descrição e foto do local que escolheu. Sua Poképarada será revisada por outros jogadores da Scopely Explore, então seja minucioso e preciso!
+TEXT: Envie um nome, descrição e foto do local que você escolheu. Sua indicação de Poképarada será revisada por outros jogadores da Scopely Explore, então seja minucioso e preciso!
 
 RESOURCE ID: poi_sub_tut_desc_3
 TEXT: As Poképaradas devem ter valor educacional e cultural e devem estar localizadas em lugares seguros e acessíveis a pedestres. Evite inscrever lugares que sejam residências particulares, lugares sazonais ou não permanentes, ou locais que possam interferir com veículos de serviços de emergência.
@@ -84162,63 +84292,63 @@ RESOURCE ID: premium_rewards
 TEXT: RECOMPENSAS PREMIUM
 
 RESOURCE ID: premium_gift_sent
-TEXT: You sent a paid gift to {0}.
+TEXT: Você enviou um presente pago para {0}.
 
 RESOURCE ID: premium_gift_ftue_title
-TEXT: Introducing More Gifting Options in the Shop
+TEXT: Mais opções de presentes na loja
 
 RESOURCE ID: premium_gift_ftue_desc
-TEXT: You can now send and receive more types of gifts through the Shop!
+TEXT: Agora você pode enviar e receber mais tipos de presentes pela loja!
 
-Do you want to opt in? You can change this at any point in Settings.
+Quer ativar esse recurso? Você pode alterar essa opção a qualquer momento nasa Configurações.
 
 RESOURCE ID: premium_gift_notification_event_pass_title
-TEXT: GO Pass
+TEXT: Passe GO
 
 RESOURCE ID: premium_gift_notification_event_pass_desc
-TEXT: Hi, <b>{0}</b>! Here’s a GO Pass Deluxe for you. Can you complete it and get all the rewards?
+TEXT: Olá, <b>{0}</b>! Um Passe GO Deluxe para você! Será que você consegue completá-lo e receber todas as recompensas?
 
-Cheers,
+Um abraço,
 <b>{1}</b>
 
 RESOURCE ID: premium_gift_notification_items_title
-TEXT: Gift For You
+TEXT: Presente para você
 
 RESOURCE ID: premium_gift_notification_multiple_trainers_desc
-TEXT: Greetings, <b>{0}</b>!
+TEXT: Olá, <b>{0}</b>!
 
-Your friends sent you some gifts!
+Seus amigos enviaram alguns presentes para você!
 
 
 RESOURCE ID: premium_gift_notification_one_trainer_multiple_items_desc
-TEXT: Hi, <b>{0}</b>!
+TEXT: Olá, <b>{0}</b>!
 
-I hope you enjoy these gifts!
+Espero que você curta esses presentes!
 {2}
 
-Cheers,
+Abraços,
 <b>{1}</b>
 
 RESOURCE ID: premium_gift_notification_one_trainer_one_item_desc
-TEXT: Hi, <b>{0}</b>!
+TEXT: Olá, <b>{0}</b>!
 
-Here’s a gift for you!
+Um presente para você!
 {2}
 
-Cheers,
+Abraços,
 <b>{1}</b>
 
 RESOURCE ID: premium_gift_received_event_pass
-TEXT: {0} gifted you a GO Pass Deluxe!
+TEXT: {0} presenteou você com um Passe GO Deluxe!
 
 RESOURCE ID: premium_gift_received_event_ticket
-TEXT: {0} gifted you a ticket for an event!
+TEXT: {0} presenteou você com um ingresso para um evento!
 
 RESOURCE ID: premium_gift_received_item_multi
-TEXT: {0} gifted you a {1} and more!
+TEXT: {0} presenteou você com 1 {1} e muito mais!
 
 RESOURCE ID: premium_gift_received_item_single
-TEXT: {0} gifted you a {1}!
+TEXT: {0} presenteou você com 1 {1}!
 
 RESOURCE ID: primal_revert
 TEXT: Reversão Primitiva
@@ -84525,7 +84655,7 @@ RESOURCE ID: privacy_policy_short_button
 TEXT: Privacidade
 
 RESOURCE ID: privacy_policy_update_notice
-TEXT: A Política de privacidade da Scopely Explore foi atualizada. Revise a nossa política para obter informações adicionais sobre os novos recursos do produto e saber como processamos informações pessoais.
+TEXT: Consulte a Política de Privacidade atualizada da Scopely Explore para mais informações sobre novos recursos do produto e saber como processamos dados pessoais.
 
 RESOURCE ID: private_group_title
 TEXT: Grupo privado
@@ -91065,6 +91195,9 @@ TEXT: Evoluir {0} Rowlet.
 
 RESOURCE ID: quest_rowlet_snapshot_b
 TEXT: Tirar 1 foto de {0} Rowlet.
+
+RESOURCE ID: quest_safari2026_boston_visit_unique_pokestops_plural
+TEXT: Spin {0} different PokéStops or Gyms in Boston
 
 RESOURCE ID: quest_sandt_catch_b
 TEXT: Pegar {0} Sandshrew.
@@ -106237,11 +106370,17 @@ TEXT: Ganhar {0} doces caminhando com seu companheiro.
 RESOURCE ID: quest_walk_buddy_singular
 TEXT: Ganhar 1 doce caminhando com seu companheiro.
 
+RESOURCE ID: quest_walk_buddy_dragon_plural
+TEXT: Earn {0} Candies exploring with a Dragon-type Pokémon as your buddy
+
 RESOURCE ID: quest_walk_buddy_fairy_plural
 TEXT: Ganhar {0} Doces explorando com um Pokémon de tipo Fada como seu companheiro.
 
 RESOURCE ID: quest_walk_buddy_fighting_plural
 TEXT: Ganhar {0} Doces explorando com um Pokémon de tipo Lutador como seu companheiro.
+
+RESOURCE ID: quest_walk_buddy_steel_plural
+TEXT: Earn {0} Candies exploring with a Steel-type Pokémon as your buddy
 
 RESOURCE ID: quest_walk_buddy_volcanion_plural
 TEXT: Ganhar {0} Doces explorando com Volcanion como seu companheiro.
@@ -106824,6 +106963,18 @@ TEXT: Quando você estiver em um Reide por perto, seus amigos poderão participa
 
 RESOURCE ID: raid_attendance_online_disclaimer_message
 TEXT: Seus amigos ainda poderão visualizar sua participação/presença em Reides. Você pode alterar isso depois em Configurações.
+
+RESOURCE ID: raid_battle_complete_lost_modal_title
+TEXT: The Raid Battle has ended.
+
+RESOURCE ID: raid_battle_complete_lost_modal_body
+TEXT: The Raid Boss was not defeated in time.
+
+RESOURCE ID: raid_battle_complete_rejoin_modal_title
+TEXT: Rejoin raid?
+
+RESOURCE ID: raid_battle_complete_rejoin_modal_body
+TEXT: Return to the raid to catch the Raid Boss.
 
 RESOURCE ID: raid_battle_retreat_confirmation
 TEXT: Tem certeza de que quer sair?
@@ -109104,6 +109255,12 @@ TEXT: Todos os seus Pokémon desmaiaram!
 
 RESOURCE ID: raid_defeat_try_again
 TEXT: Selecione novos Pokémon ou cure seus Pokémon desmaiados e volte para a batalha!
+
+RESOURCE ID: raid_encounter_flee_warning_modal_title
+TEXT: Are you sure you want to flee?
+
+RESOURCE ID: raid_encounter_flee_warning_modal_body
+TEXT: If you flee from this Pokémon, you won’t be able to return.
 
 RESOURCE ID: raid_enter_group_code
 TEXT: Grupo Privado
@@ -111946,6 +112103,12 @@ TEXT: Encontre Pikachu com um Fundo Especial LEGO exclusivo em cada loja LEGO pa
 RESOURCE ID: rally_gowa_2025_title
 TEXT: Caça aos Selos da Área Selvagem GO 2025
 
+RESOURCE ID: rally_gowa_2026_cdmx_title
+TEXT: GO Wild Area 2026 – Mexico City Stamp Rally
+
+RESOURCE ID: rally_gowa_2026_sendai_title
+TEXT: GO Wild Area 2026 – Sendai・Tohoku Stamp Rally
+
 RESOURCE ID: rally_gowa_2025_desc
 TEXT: Boas-vindas à Área Selvagem do Pokémon GO 2025: Nagasaki!
 
@@ -111957,6 +112120,30 @@ TEXT: Cidade de Nagasaki, Nagasaki, Japão
 
 RESOURCE ID: rally_gowa_2025_rewards_desc
 TEXT: Complete esta Caça aos Selos para encontrar um Bewear exclusivo do evento com um cachecol selvagem e Fundo de Localidade da Cidade de Nagasaki!
+
+RESOURCE ID: rally_gowa_2026_cdmx_desc
+TEXT: Welcome to GO Wild Area: Mexico City!
+
+RESOURCE ID: rally_gowa_2026_cdmx_desc_detail
+TEXT: Collect stamps by visiting GO Stamp Rally PokéStops in Mexico City during your ticketed event day!
+
+RESOURCE ID: rally_gowa_2026_cdmx_location
+TEXT: Mexico City, Mexico
+
+RESOURCE ID: rally_gowa_2026_cdmx_rewards_desc
+TEXT: Complete this rally to encounter an event-exclusive Machamp wearing a modern jacket with a Mexico City Location Background!
+
+RESOURCE ID: rally_gowa_2026_sendai_desc
+TEXT: Welcome to GO Wild Area: Sendai・Tohoku!
+
+RESOURCE ID: rally_gowa_2026_sendai_desc_detail
+TEXT: Collect stamps by visiting GO Stamp Rally PokéStops in Sendai during your ticketed event day!
+
+RESOURCE ID: rally_gowa_2026_sendai_location
+TEXT: Sendai・Tohoku, Japan
+
+RESOURCE ID: rally_gowa_2026_sendai_rewards_desc
+TEXT: Complete this rally to encounter an event-exclusive Machamp wearing a modern jacket with a Sendai・Tohoku Location Background!
 
 RESOURCE ID: rally_irl_copenhagen_lego_2026_title
 TEXT: Festival de Pokémon GO 2026: Copenhague — Caça aos Selos LEGO
@@ -112239,6 +112426,30 @@ TEXT: Continuação do Dia Comunitário (Pesquisa Temporária) de Ralts
 
 RESOURCE ID: rank
 TEXT: RANQUE
+
+RESOURCE ID: rare_background_disclaimer_text
+TEXT: Este fundo pode ser exibido no seu perfil de Treinador se este Pokémon for escolhido como seu companheiro.
+
+RESOURCE ID: rare_background_ftue_pokemon_detail_title
+TEXT: Fundo Raro
+
+RESOURCE ID: rare_background_ftue_pokemon_detail_desc
+TEXT: Este Pokémon tem um fundo que pode ser exibido no seu perfil de Treinador quando escolhido como companheiro.
+
+RESOURCE ID: rare_background_ftue_pokemon_detail_button
+TEXT: ESCOLHER
+
+RESOURCE ID: rare_background_ftue_profile_modal_title
+TEXT: Exibir fundos no seu perfil de Treinador
+
+RESOURCE ID: rare_background_ftue_profile_modal_body
+TEXT: Quando você escolhe um Pokémon com determinado Fundo de Localidade ou Fundos Especial como seu companheiro, o fundo raro será exibido no seu perfil de Treinador.
+
+RESOURCE ID: rare_background_ftue_profile_panel_title
+TEXT: Exibir fundo raro de companheiro no seu perfil de Treinador!
+
+RESOURCE ID: rare_background_ftue_profile_swap_buddies_button
+TEXT: TROCAR COMPANHEIRO
 
 RESOURCE ID: rare_candy_usage_confirmation
 TEXT: Transformar um Doce Raro em um doce {0}?
@@ -114059,9 +114270,9 @@ Marcadores devem ser posicionados:
 2. A pelo menos {1} metros de distância de outros marcadores.
 
 RESOURCE ID: route_creation_onboarding_page_4
-TEXT: Rotas criadas são submetidas para a Scopely Explore para serem revisadas e aceitas. Se sua Rota for rejeitada, você pode tentar editar e resubmeter sua Rota para revisão.
+TEXT: Rotas criadas são enviadas à Scopely Explore para serem revisadas e aprovadas. Se sua Rota for rejeitada, você pode ter a chance de editar e enviar sua Rota novamente.
 
-Agora é hora de criar sua Rota!
+É hora de criar sua Rota!
 
 RESOURCE ID: route_creation_pause_button
 TEXT: Pausar Rota
@@ -114299,9 +114510,9 @@ RESOURCE ID: route_enforcement_long_ban_title
 TEXT: You’ve been banned from using Pokémon GO.
 
 RESOURCE ID: route_enforcement_long_ban_description
-TEXT: A sua conta da Scopely Explore foi banida do Pokémon GO por {0} anos devido a repetidas ou graves violações de nossas diretrizes para jogadores de Rotas.
+TEXT: A sua conta da Scopely Explore foi banida do Pokémon GO por {0} ano(s) devido a violações repetidas ou graves de nossas Diretrizes sobre as Rotas para jogadores.
 
-Mais violações podem resultar em banimento permanente.
+Mais violações podem resultar em um banimento permanente.
 
 RESOURCE ID: route_enforcement_long_ban_description_b
 TEXT: Your Pokémon GO account has been banned for {0} years due to repeated or severe violations against our Player Guidelines.
@@ -114320,7 +114531,7 @@ RESOURCE ID: route_enforcement_permanent_ban_title
 TEXT: You’ve been permanently banned from using Pokémon GO.
 
 RESOURCE ID: route_enforcement_permanent_ban_description
-TEXT: A sua conta da Scopely Explore foi banida do Pokémon GO devido a repetidas ou graves violações de nossas diretrizes para jogadores de Rotas.
+TEXT: A sua conta da Scopely Explore foi banida do Pokémon GO devido a violações repetidas ou graves de nossas Diretrizes sobre as Rotas para jogadores.
 
 RESOURCE ID: route_enforcement_permanent_ban_description_b
 TEXT: Your Pokémon GO account has been banned due to repeated or severe violations against our Player Guidelines.
@@ -114684,7 +114895,7 @@ RESOURCE ID: route_play_low_rating_title
 TEXT: Você teve algum problema nesta Rota?
 
 RESOURCE ID: route_play_low_rating_description
-TEXT: Se você teve um problema, você pode reportar esta Rota para que seja analisada pela Scopely Explore.
+TEXT: Caso tenha tido algum problema, você pode reportar esta Rota para que seja revisada pela Scopely Explore.
 
 RESOURCE ID: route_play_no_routes_campfire_message
 TEXT: There are no Routes nearby. Browse Campfire to find Routes that are further away.
@@ -114961,7 +115172,7 @@ TEXT: What kind of issue happened?
 Could you describe it?
 
 RESOURCE ID: route_report_body
-TEXT: Quando você reporta uma Rota para a Scopely Explore, nós analisamos esta Rota e tomamos as medidas apropriadas de acordo com nossas políticas. Sua identidade nunca será compartilhada com o criador da Rota. Ao enviar um relatório, você confirma que o mesmo é verdadeiro.
+TEXT: Quando você reporta uma Rota para a Scopely Explore, nós analisamos essa Rota e tomamos as medidas apropriadas de acordo com nossas políticas. Sua identidade nunca será compartilhada com o criador da Rota. Ao enviar um relatório, você confirma que ele é verdadeiro.
 
 RESOURCE ID: route_report_permanent
 TEXT: Permanent issue
@@ -115305,10 +115516,10 @@ RESOURCE ID: route_submission_result_reject_description
 TEXT: Your Route was rejected because the title and/or description included inappropriate phrases or links. You will not be able to edit and resubmit this Route.
 
 RESOURCE ID: route_submission_result_reject_message_bullying
-TEXT: A Scopely Explore não tolera bullying, assédio, humilhação ou ameaça contra qualquer pessoa.
+TEXT: A Scopely Explore não permite bullying, assédio, humilhação ou ameaças contra qualquer pessoa.
 
 RESOURCE ID: route_submission_result_reject_message_hate
-TEXT: A Scopely Explore não tolera comportamento de ódio, discurso de ódio ou a disseminação de ideologias de ódio. Isso inclui, mas não se limita à disseminação de ódio baseado em raça, etnia, religião, gênero ou quaisquer outras identidades.
+TEXT: A Scopely Explore não permite comportamento de ódio, discurso de ódio ou a disseminação de ideologias de ódio. Isso inclui, mas não se limita à disseminação de ódio baseado em raça, etnia, religião, gênero ou qualquer outra identidade.
 
 RESOURCE ID: route_submission_result_reject_message_suicide
 TEXT: If you or someone you know has thoughts of suicide or self harm, help is available. See <a href="route_mental_health_resources_link">Mental Health Resources</a> for more information.
@@ -116025,6 +116236,9 @@ RESOURCE ID: s_pinap_g_razz_pokestop_drop_bonus
 TEXT: Chances de receber Frutas Caxí Prateadas e Frutas Frambo Douradas ao girar Poképaradas e Ginásios
 
 RESOURCE ID: sa_account_creation_prompt
+TEXT: Não tem uma conta Kids @ Scopely Explore?
+
+RESOURCE ID: sa_account_creation_prompt_out
 TEXT: Não tem uma conta da Niantic Kids?
 
 RESOURCE ID: sa_account_creation_prompt_temp
@@ -116034,6 +116248,9 @@ RESOURCE ID: sa_auth_failed
 TEXT: Não foi possível autenticar. Tente de novo.
 
 RESOURCE ID: sa_auth_failed_permissions
+TEXT: Para jogar, peça para um dos seus pais ou responsável iniciar sessão na conta deles da Kids @ Scopely Explore e ativar as permissões da sua conta.
+
+RESOURCE ID: sa_auth_failed_permissions_out
 TEXT: Para poder jogar, peça para um de seus pais ou guardiões entrar na conta deles da Niantic Kids e autorizar a sua conta.
 
 RESOURCE ID: sa_auth_failed_permissions_temp
@@ -116043,19 +116260,28 @@ RESOURCE ID: sa_forgot_password_url
 TEXT: https://sso.scopelyexplore.kidswebservices.com/pt-br/password/forgot
 
 RESOURCE ID: sa_login_title
-TEXT: Niantic para crianças
+TEXT: Kids @ Scopely Explore
 
 RESOURCE ID: sa_login_button
+TEXT: Kids @ Scopely Explore
+
+RESOURCE ID: sa_login_button_out
 TEXT: Niantic para crianças
 
 RESOURCE ID: sa_login_button_temp
 TEXT: Kids @ Scopely Explore
 
 RESOURCE ID: sa_login_server_unreachable
+TEXT: Kids @ Scopely Explore está indisponível no momento. Lamentamos a inconveniência.
+
+RESOURCE ID: sa_login_server_unreachable_out
 TEXT: Niantic Kids está indisponível no momento. Sentimos pela incoveniência.
 
 RESOURCE ID: sa_login_server_unreachable_temp
 TEXT: Kids @ Scopely Explore está indisponível no momento. Lamentamos a inconveniência.
+
+RESOURCE ID: sa_login_title_out
+TEXT: Niantic para crianças
 
 RESOURCE ID: sa_login_title_temp
 TEXT: Kids @ Scopely Explore
@@ -116606,6 +116832,9 @@ TEXT: Safári Urbano: Rio de Janeiro 2026 (3/3)
 RESOURCE ID: safari_city_2026_riodejaneiro_title_02
 TEXT: Safári Urbano: Rio de Janeiro 2026 (3/3)
 
+RESOURCE ID: safari_city_boston_makegood_tr_dialog_00_00
+TEXT: Hello, %PLAYERNAME%! Ready to explore Boston?
+
 RESOURCE ID: safari_city_leave_behind_dialog_00_00
 TEXT: Oi, %PLAYERNAME%. Que ótimo te ver por aqui! Essa é uma das minhas cidades preferidas e ela é bem popular entre os outros Treinadores de Pokémon também!
 
@@ -116807,8 +117036,14 @@ TEXT: Você voltou, %PLAYERNAME%! Ah, e você também, Eevee!
 RESOURCE ID: safari_city_sr_dialog_02_01
 TEXT: Tiraram boas fotos? Comeram comidas gostosas?
 
+RESOURCE ID: safari_city_sr_dialog_02_01_backup
+TEXT: How was your journey?
+
 RESOURCE ID: safari_city_sr_dialog_02_02
 TEXT: É muita coisa pra ver, então espero que vocês tenham gostado de explorar juntos! Não tenho dúvidas de que você e Eevee compartilharão muitas jornadas no futuro.
+
+RESOURCE ID: safari_city_sr_dialog_02_02_backup
+TEXT: There’s a lot to see, so I hope you enjoy exploring! I have no doubt there are many more journeys waiting for you.
 
 RESOURCE ID: safari_city_sr_dialog_branch_00_backup
 TEXT: Oi de novo, %PLAYERNAME%!
@@ -119135,16 +119370,16 @@ RESOURCE ID: settings_allow_paid_gifts
 TEXT: Permitir que amigos enviem a você presentes pagos
 
 RESOURCE ID: settings_allow_paid_gifts_desc_off
-TEXT: Turning off this feature will pause friends from sending you paid gifts. This does not include free Gifts.
+TEXT: Ao desativar este recurso, seus amigos não poderão enviar presentes pagos para você. Isso não se aplica aos presentes gratuitos.
 
 RESOURCE ID: settings_allow_paid_gifts_desc_on
-TEXT: Turning on this feature will allow friends to send you paid gifts. You can pause specific friends from sending you paid gifts in the Pause Gifts List once this feature is turned on.
+TEXT: Ativar este recurso permite que seus amigos enviem presentes pagos para você. Depois de ativá-lo, você pode limitar que amigos específicos enviem presentes pagos para você usando a Lista de Pausa de Presentes.
 
 RESOURCE ID: settings_allow_paid_gifts_title_off
-TEXT: Turn Off Paid Gifts from Friends?
+TEXT: Desativar presentes pagos de amigos?
 
 RESOURCE ID: settings_allow_paid_gifts_title_on
-TEXT: Turn On Paid Gifts from Friends?
+TEXT: Ativar presentes pagos de amigos?
 
 RESOURCE ID: settings_allow_raid_and_max_battle_friend_requests
 TEXT: Membros do Reide e da Batalha Max
@@ -119186,7 +119421,7 @@ RESOURCE ID: settings_buddy_ar
 TEXT: Companheiro de RA
 
 RESOURCE ID: settings_buddy_ar_tip
-TEXT: Brincadeiras com Companheiro com a Scopely Explore RA
+TEXT: Scopely Explore AR para Brincadeiras com Companheiro
 
 RESOURCE ID: settings_buddy_gained_candy
 TEXT: Doces por companheiro
@@ -119225,7 +119460,7 @@ RESOURCE ID: settings_encounter_ar
 TEXT: Encontros em RA
 
 RESOURCE ID: settings_encounter_ar_tip
-TEXT: Scopely Explore RA para Encontros com Pokémon
+TEXT: Scopely Explore AR para Encontros com Pokémon
 
 RESOURCE ID: settings_enhanced_graphics_description
 TEXT: Efeitos, sombreamentos e texturas otimizados, o que pode afetar a vida útil da bateria.
@@ -119315,13 +119550,13 @@ RESOURCE ID: settings_nearby_raids
 TEXT: Reides por perto
 
 RESOURCE ID: settings_niantic_ar
-TEXT: Scopely Explore RA
+TEXT: Scopely Explore AR (AR+)
 
 RESOURCE ID: settings_niantic_ar_tip
 TEXT: Você pode pegar Pokémon, tirar fotos no Retrato GO e brincar com seu companheiro em RA.
 
 RESOURCE ID: settings_niantic_ar_update
-TEXT: Atualizar Scopely Explore RA (RA+)
+TEXT: Atualizar Scopely Explore AR (AR+)
 
 RESOURCE ID: settings_niantic_ar_update_done
 TEXT: RA foi atualizada.
@@ -119375,10 +119610,10 @@ RESOURCE ID: settings_party_play_map_avatars
 TEXT: Veja outros Treinadores no mapa.
 
 RESOURCE ID: settings_pause_gifts_list
-TEXT: Pause Gifts List
+TEXT: Lista de Pausa de Presentes
 
 RESOURCE ID: settings_pause_gifts_list_tip
-TEXT: Selected friends will not be able to send you paid gifts. They can still send you free Gifts.
+TEXT: Os amigos selecionados não poderão enviar presentes pagos para você. Eles ainda poderão enviar presentes gratuitos.
 
 RESOURCE ID: settings_pbp_check_other_menu
 TEXT: Para acessar seu dispositivo atualmente emparelhado, vá para a tela do Pokémon GO Plus através do menu de Configurações.
@@ -119557,6 +119792,9 @@ TEXT: Mostrar Campfire
 
 RESOURCE ID: settings_show_campfire_tip
 TEXT: Ativa os botões do Campfire no Pokémon GO.
+
+RESOURCE ID: settings_show_location_card_background
+TEXT: Exibir fundo raro do companheiro no perfil de Treinador
 
 RESOURCE ID: settings_sound_effects
 TEXT: Áudio
@@ -120093,7 +120331,7 @@ RESOURCE ID: shop_already_own_this_ticket
 TEXT: Você já tem um ingresso para este evento.
 
 RESOURCE ID: shop_already_unlocked_premium_event_pass
-TEXT: You’ve already unlocked this GO Pass Deluxe.
+TEXT: Você já desbloqueou este Passe GO Deluxe.
 
 RESOURCE ID: shop_battle_tickets_title
 TEXT: Obtenha um Passe de Reide.
@@ -120223,7 +120461,7 @@ TEXT: {0} atingiram a capacidade máxima! Consiga mais espaço subindo de nível
 <a href="https://scopelyexplore.helpshift.com/hc/faq/1235-available-items-your-bag/">Saiba mais sobre como subir de nível aqui.</a>
 
 RESOURCE ID: shop_gift_confirm_purchase_warning_description
-TEXT: You can send <b>{0}</b> total paid gifts today. This gift cannot be used by another player or refunded.
+TEXT: Você pode enviar um total de <b>{0}</b> presentes pagos hoje. Este presente não pode ser usado por outro jogador nem reembolsado.
 
 RESOURCE ID: shop_gift_friend_ineligible_title
 TEXT: Não foi possível enviar o ingresso
@@ -120235,14 +120473,14 @@ TEXT: Alguns amigos podem não ser elegíveis para receber presentes pagos pelos
 • Você não cumpre o requisito mínimo de nível de amizade para comprar um presente para esse amigo.
 
 RESOURCE ID: shop_gift_friend_ineligible_description_temp
-TEXT: You may not be able to send paid gifts—including items, tickets, and event passes—to some friends. This can happen for the following reasons:
+TEXT: Talvez você não consiga enviar presentes pagos, como itens, ingressos e passes de evento, para alguns amigos. Isso pode acontecer pelos seguintes motivos:
 
-• They already own the ticket or event pass, or someone else sent it to them
-• They may have active or completed research that prevents them from receiving tickets
-• Your friendship level is too low
-• They have disabled paid gifts
-• Their account is not eligible due to restrictions
-• Cross-currency gifting is not supported
+• Eles já têm o ingresso ou passe de evento, ou outra pessoa já o enviou para eles
+• Eles podem ter uma pesquisa ativa ou completa que os impede de receber ingressos
+• Seu nível de amizade é muito baixo
+• Eles desativaram os presentes pagos
+• A conta deles não é elegível devido a restrições
+• O envio de presentes entre moedas diferentes não é compatível
 
 RESOURCE ID: shop_gift_invitation_title
 TEXT: CONVITE
@@ -120301,7 +120539,7 @@ TEXT: Seu presente foi enviado para {0}.
 Avise{0} que enviou para que  possa abrir o presente a tempo do evento!
 
 RESOURCE ID: shop_gift_purchase_invitation_sent_generic_description
-TEXT: Your gift has been sent to {0}.
+TEXT: Seu presente foi enviado para {0}.
 
 RESOURCE ID: shop_gift_purchase_select_friend
 TEXT: Selecione um amigo
@@ -121440,7 +121678,7 @@ RESOURCE ID: social_online_toast
 TEXT: Compartilhando seu status online
 
 RESOURCE ID: social_online_consent_privacy
-TEXT: Ativar o compartilhamento de status online o ativará para todos os jogos da Scopely Explore que você jogar.
+TEXT: Observação: ativar o compartilhamento de status online o ativará para todos os jogos da Scopely Explore que você jogar.
 
 RESOURCE ID: social_online_consent_note_body
 TEXT: Seu status online pode ser visto pelos seus amigos que optaram por usar o Scopely Explore Online.
@@ -121604,6 +121842,9 @@ TEXT: Você pode retomar a qualquer momento hoje.
 
 RESOURCE ID: soft_sfida_desc_pokemon_full
 TEXT: Você pode transferir seus Pokémon para o Professor Willow ou fazer upgrade do seu estoque de Pokémon.
+
+RESOURCE ID: soft_sfida_alert_pokemon_storage
+TEXT: Your Pokémon storage is full.
 
 RESOURCE ID: soft_sfida_btn_cancel
 TEXT: Cancelar
@@ -122438,7 +122679,7 @@ RESOURCE ID: sponsored_gift_tutorial_description_1
 TEXT: Ao explorar o mundo ao seu redor, você pode receber presentes de patrocinadores junto com uma mensagem patrocinada relevante a sua localização. Os presentes de patrocinadores agora têm um visual novo e repaginado!
 
 RESOURCE ID: sponsored_gift_tutorial_description_2
-TEXT: Como sempre, não compartilhamos suas informações pessoais com patrocinadores. Para mais informações sobre esta função, entre em contato com Scopely Explore Support.
+TEXT: Como sempre, não compartilhamos suas informações pessoais com patrocinadores. Para mais informações sobre esta função, entre em contato com o suporte da Scopely Explore.
 
 RESOURCE ID: sponsored_gift_tutorial_description_3
 TEXT: Você pode gerenciar Presentes de patrocinadores nas configurações. Esta opção permite que você receba Presentes de patrocinadores quando disponíveis. Isto não afeta Presentes enviados ou recebidos que foram obtidos em Poképaradas patrocinadas.
@@ -124659,6 +124900,105 @@ TEXT: Área Selvagem GO: Nagasaki – Contos de Fadas e Trilhas Selvagens (5/6)
 
 RESOURCE ID: sr_gowa2025_irl_6
 TEXT: Área Selvagem GO: Nagasaki – Contos de Fadas e Trilhas Selvagens (6/6)
+
+RESOURCE ID: sr_gowa2026_global_title
+TEXT: GO Wild Area 2026: Streets to Skies (1/6)
+
+RESOURCE ID: sr_gowa2026_global_dark_2
+TEXT: GO Wild Area 2026: Path to Mastery – Dragon (2/6)
+
+RESOURCE ID: sr_gowa2026_global_dark_3
+TEXT: GO Wild Area 2026: Path to Mastery – Dragon (3/6)
+
+RESOURCE ID: sr_gowa2026_global_dark_4
+TEXT: GO Wild Area 2026: Path to Mastery – Dragon (4/6)
+
+RESOURCE ID: sr_gowa2026_global_dark_5
+TEXT: GO Wild Area 2026: Path to Mastery – Dragon (5/6)
+
+RESOURCE ID: sr_gowa2026_global_dark_6
+TEXT: GO Wild Area 2026: Path to Mastery – Dragon (6/6)
+
+RESOURCE ID: sr_gowa2026_global_dragon_title
+TEXT: GO Wild Area 2026: Path to Mastery – Dragon
+
+RESOURCE ID: sr_gowa2026_global_quest_branch_dragon_title
+TEXT: Dragon
+
+RESOURCE ID: sr_gowa2026_global_quest_branch_dragon_description
+TEXT: Choose this path to become an accomplished Dragon-type Trainer. Tasks will be focused on catching, powering up, and evolving Dragon-type Pokémon. Completing this research awards the Dragon Defender medal!
+
+RESOURCE ID: sr_gowa2026_global_quest_branch_steel_title
+TEXT: Steel
+
+RESOURCE ID: sr_gowa2026_global_quest_branch_steel_description
+TEXT: Choose this path to become an accomplished Steel-type Trainer. Tasks will be focused on catching, powering up, and evolving Steel-type Pokémon. Completing this research awards the Steel Scholar medal!
+
+RESOURCE ID: sr_gowa2026_global_steel_title
+TEXT: GO Wild Area 2026: Path to Mastery – Steel
+
+RESOURCE ID: sr_gowa2026_global_steel_2
+TEXT: GO Wild Area 2026: Path to Mastery – Steel (2/6)
+
+RESOURCE ID: sr_gowa2026_global_steel_3
+TEXT: GO Wild Area 2026: Path to Mastery – Steel (3/6)
+
+RESOURCE ID: sr_gowa2026_global_steel_4
+TEXT: GO Wild Area 2026: Path to Mastery – Steel (4/6)
+
+RESOURCE ID: sr_gowa2026_global_steel_5
+TEXT: GO Wild Area 2026: Path to Mastery – Steel (5/6)
+
+RESOURCE ID: sr_gowa2026_global_steel_6
+TEXT: GO Wild Area 2026: Path to Mastery – Steel (6/6)
+
+RESOURCE ID: sr_gowa2026_irl_cdmx
+TEXT: GO Wild Area: Mexico City – The Suspense Is Building
+
+RESOURCE ID: sr_gowa2026_irl_sendai
+TEXT: GO Wild Area: Sendai・Tohoku – The Suspense Is Building
+
+RESOURCE ID: sr_gowa2026_irl_cdmx_1
+TEXT: GO Wild Area: Mexico City – The Suspense Is Building (1/6)
+
+RESOURCE ID: sr_gowa2026_irl_cdmx_2
+TEXT: GO Wild Area: Mexico City – The Suspense Is Building (2/6)
+
+RESOURCE ID: sr_gowa2026_irl_cdmx_3
+TEXT: GO Wild Area: Mexico City – The Suspense Is Building (3/6)
+
+RESOURCE ID: sr_gowa2026_irl_cdmx_4
+TEXT: GO Wild Area: Mexico City – The Suspense Is Building (4/6)
+
+RESOURCE ID: sr_gowa2026_irl_cdmx_5
+TEXT: GO Wild Area: Mexico City – The Suspense Is Building (5/6)
+
+RESOURCE ID: sr_gowa2026_irl_cdmx_6
+TEXT: GO Wild Area: Mexico City – The Suspense Is Building (6/6)
+
+RESOURCE ID: sr_gowa2026_irl_sendai_1
+TEXT: GO Wild Area: Sendai・Tohoku – The Suspense Is Building (1/6)
+
+RESOURCE ID: sr_gowa2026_irl_sendai_2
+TEXT: GO Wild Area: Sendai・Tohoku – The Suspense Is Building (2/6)
+
+RESOURCE ID: sr_gowa2026_irl_sendai_3
+TEXT: GO Wild Area: Sendai・Tohoku – The Suspense Is Building (3/6)
+
+RESOURCE ID: sr_gowa2026_irl_sendai_4
+TEXT: GO Wild Area: Sendai・Tohoku – The Suspense Is Building (4/6)
+
+RESOURCE ID: sr_gowa2026_irl_sendai_5
+TEXT: GO Wild Area: Sendai・Tohoku – The Suspense Is Building (5/6)
+
+RESOURCE ID: sr_gowa2026_irl_sendai_6
+TEXT: GO Wild Area: Sendai・Tohoku – The Suspense Is Building (6/6)
+
+RESOURCE ID: sr_safari_city_boston_2026_makegood_sat_header
+TEXT: City Safari: Boston 2026 (Day 1)
+
+RESOURCE ID: sr_safari_city_boston_2026_makegood_sun_header
+TEXT: City Safari: Boston 2026 (Day 2)
 
 RESOURCE ID: sr_ticket_in_shop
 TEXT: O ingresso para a narrativa de pesquisa especial está disponível na loja
@@ -129557,9 +129897,9 @@ RESOURCE ID: tips_friends_tutorial_add_title
 TEXT: Adicionar amigos
 
 RESOURCE ID: tips_friends_tutorial_add_body
-TEXT: Adicione amigos inserindo o código de Treinador ou escaneando o código QR deles. Quando adicionar um amigo no Pokémon GO, você também se conectará a essa pessoa em todos os jogos da Scopely Explore que vocês jogam.
+TEXT: Adicione amigos inserindo o código de Treinador ou escaneando o código 2D deles. Adicionar um amigo no Pokémon GO conectará vocês em todos os jogos da Scopely Explore que ambos jogarem.
 
-Você também pode adicionar amigos conectando sua conta ao Facebook, na tela de adicionar amigo.
+Você também pode adicionar amigos conectando sua conta ao Facebook, na tela de Adicionar amigo.
 
 RESOURCE ID: tips_friends_tutorial_battle_title
 TEXT: Batalhe com amigos
@@ -132472,6 +132812,12 @@ TEXT: Perseguição Selvagem – Sombrio
 RESOURCE ID: tr_gowa2025_poi_fairy
 TEXT: Perseguição Selvagem – Fada
 
+RESOURCE ID: tr_gowa2026_poi_dragon
+TEXT: A Wild Pursuit – Dragon
+
+RESOURCE ID: tr_gowa2026_poi_steel
+TEXT: A Wild Pursuit – Steel
+
 RESOURCE ID: tr_hut_hut_title
 TEXT: Pesquisa Temporária Bônus de Kickoff
 
@@ -134075,7 +134421,7 @@ RESOURCE ID: tutorial_route_bonus_2
 TEXT: Pokémon incomuns podem aparecer em Rotas
 
 RESOURCE ID: tutorial_route_bonus_2_temp
-TEXT: Specific Pokémon may appear more often on Routes in the wild
+TEXT: Alguns Pokémon selvagens podem aparecer com mais frequência em Rotas
 
 RESOURCE ID: tutorial_route_play_title_0
 TEXT: Explorar uma Rota
@@ -134998,7 +135344,7 @@ RESOURCE ID: unfriend_niantic_friend_title
 TEXT: Tem certeza de que quer terminar a amizade com {0}?
 
 RESOURCE ID: unfriend_niantic_friend_tip
-TEXT: Remover essa amizade deste jogo da Scopely Explore a removerá de todos os jogos que vocês dois jogarem.
+TEXT: Se você remover este amigo deste jogo, você também estará removendo ele de todos os jogos da Scopely Explore que ambos jogarem.
 
 RESOURCE ID: unified_punishment_acknowledgement_button
 TEXT: OK
@@ -135061,7 +135407,7 @@ Esta conta está vinculada à sua sessão de jogo ativa.
 RESOURCE ID: unlink_account_failed_login_not_removable
 TEXT: <size=36><b>Não é possível desvincular esta conta!</b></size>
 
-Você pode ter vinculado esta conta com outros produtos da Scopely Explore. Por favor, vincule outra conta para desvincular esta.
+Você pode ter vinculado esta conta com outros produtos da Scopely Explore. Vincule um método de login alternativo para desvincular este.
 
 RESOURCE ID: unlock_max_move_plural
 TEXT: Desbloqueie {0} Movimentos Max
@@ -135443,7 +135789,7 @@ RESOURCE ID: username_suggestion_disclaimer_change_name
 TEXT: Você pode mudar seu apelido apenas uma vez.
 
 RESOURCE ID: username_suggestion_disclaimer_new_user
-TEXT: Você pode mudar seu apelido mais tarde.
+TEXT: Atenção: não use seu nome verdadeiro, pois ele ficará visível para outros Treinadores. Você poderá trocar seu nome depois.
 
 RESOURCE ID: username_suggestion_name_looks_good_banned_name
 TEXT: Legal!
@@ -135604,9 +135950,9 @@ RESOURCE ID: verbose_logs_info_title
 TEXT: Ajude a melhorar o Pokémon GO!
 
 RESOURCE ID: verbose_logs_info_body
-TEXT: Os registros de jogo contêm informações valiosas que podem ajudar a Scopely Explore a melhorar aspectos do Pokémon GO. Se você permitir que seus registros de jogo sejam salvos, poderá enviá-los e compartilhá-los com a Scopely Explore.
+TEXT: Os registros de jogo contêm informações valiosas que podem ajudar a Scopely Explore a melhorar certos aspectos do Pokémon GO. Se você permitir que seus registros de jogo sejam salvos, poderá fazer o upload e compartilhá-los com a Scopely Explore.
 
-Os registros de jogo de cada atividade são armazenados por 24 horas ou até que você participe desse tipo de atividade novamente. Você pode fazer upload de registros de jogo a qualquer momento no menu de Configurações.
+Os registros de jogo de cada atividade são armazenados por 24 horas ou até que você participe desse tipo de atividade novamente. Você pode fazer o upload dos registros de jogo a qualquer momento nas Configurações.
 
 RESOURCE ID: verbose_logs_info_learn_more
 TEXT: Saiba mais
@@ -135674,6 +136020,9 @@ TEXT: Visualizar recompensas
 RESOURCE ID: view_all_tags_title
 TEXT: Ver todas as tags atribuídas a {0}
 
+RESOURCE ID: view_external_profile
+TEXT: PERFIL SCOPELY EXPLORE
+
 RESOURCE ID: view_in_map
 TEXT: Ver no mapa
 
@@ -135738,7 +136087,7 @@ RESOURCE ID: vps_download_prompt_continue
 TEXT: Vamos começar!
 
 RESOURCE ID: vps_download_prompt_legal_tos_description
-TEXT: Ative a RA para usar esse recurso. A Scopely Explore processará dados geográficos capturados pela sua câmera durante o Safári fotográfico em RA. {0}.
+TEXT: Ative a RA para usar esse recurso. A Scopely Explore processará dados geoespaciais capturados pela sua câmera durante o Safári Fotográfico em RA. {0}
 
 RESOURCE ID: vps_guardian_oob_toast
 TEXT: Você está fora da área do Playground Pokémon. Fique dentro do perímetro para colocar um Pokémon.
