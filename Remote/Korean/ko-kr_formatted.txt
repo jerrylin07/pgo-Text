@@ -12412,7 +12412,7 @@ RESOURCE ID: badge_gowa_2025_special_research_b_title
 TEXT: 페어리 파나틱
 
 RESOURCE ID: badge_gowa_2026_cdmx_addon_battle_title
-TEXT: GO Wild Area: Battle Ready
+TEXT: GO Wild Area 2026: Battle Ready
 
 RESOURCE ID: badge_gowa_2026_cdmx_addon_friday_title
 TEXT: GO Wild Area 2026: Extra Day (Friday)
@@ -19941,6 +19941,9 @@ RESOURCE ID: bonus_today_unova_spawn
 TEXT: 하나지방의 포켓몬이 야생에서 출현!
 
 RESOURCE ID: bonus_today_zygarde_cell
+TEXT: 하루 5루트까지 루트 끝나는 지점에서 지가르데 셀 발견.
+
+RESOURCE ID: bonus_today_zygarde_cell_out
 TEXT: 하루마다 5개까지 루트 마지막에 지가르데 셀을 발견할 수 있다
 
 RESOURCE ID: bonus_today_zygarde_cell_temp
@@ -21458,6 +21461,9 @@ RESOURCE ID: bread_walk_km_and_collect_mp
 TEXT: {0}km 걸어서 {1}MP모으자
 
 RESOURCE ID: breakfast_tappable_tutorial_body
+TEXT: 루트를 완료하면 지가르데 셀을 발견할 수 있습니다. 필요한 수의 셀을 모아 지가르데를 합성할 수 있습니다.
+
+RESOURCE ID: breakfast_tappable_tutorial_body_out
 TEXT: 루트를 걸으면 지가르데 셀을 발견하기도 합니다. 필요한 수의 셀을 모으면 지가르데를 합성할 수 있습니다.
 
 RESOURCE ID: breakfast_tappable_tutorial_body_temp
@@ -49853,6 +49859,165 @@ TEXT: Pokémon GO Wild Area 2026: All-Day Friday (Ticket)
 RESOURCE ID: gowa_2026_global_extended_bonus
 TEXT: Pokémon GO Wild Area 2026 – Extended Bonuses
 
+RESOURCE ID: gowa_2026_global_sr_0_0
+TEXT: Hey there, %PLAYERNAME%! I’m glad you’re here—something remarkable is happening in the area!
+
+RESOURCE ID: gowa_2026_global_sr_0_1
+TEXT: Steel- and Dragon-type Pokémon are appearing in greater numbers than I’ve ever seen recorded.
+
+RESOURCE ID: gowa_2026_global_sr_0_2
+TEXT: And if we’re bold enough to venture into the action, I’m sure there will be tons for us to discover!
+
+RESOURCE ID: gowa_2026_global_sr_0_3
+TEXT: Wait, why am I still standing here gabbing? Let’s get out there and explore!
+
+RESOURCE ID: gowa_2026_global_sr_1_0
+TEXT: We stand at a THRILLING crossroads, %PLAYERNAME%!
+
+RESOURCE ID: gowa_2026_global_sr_1_1
+TEXT: This area is loaded with both Steel- and Dragon-type Pokémon. I can’t decide which one is more fascinating—they both have so much charm!
+
+RESOURCE ID: gowa_2026_global_sr_1_2
+TEXT: You could blaze a trail to the future with a Steel-type Pokémon at your side…
+
+RESOURCE ID: gowa_2026_global_sr_1_3
+TEXT: But maybe the bold, daring power of Dragon types calls out to your adventurous spirit?
+
+RESOURCE ID: gowa_2026_global_sr_1_4
+TEXT: Which speaks to your heart, my friend? Steel or Dragon?
+
+RESOURCE ID: gowa_2026_global_sr_dragon_2_0
+TEXT: A bold and adventurous choice! There’s always something exciting to learn about Dragon-type Pokémon.
+
+RESOURCE ID: gowa_2026_global_sr_dragon_2_1
+TEXT: I’ll never forget the first time I encountered a wild Dragonite. I filled an entire notebook with research notes that day!
+
+RESOURCE ID: gowa_2026_global_sr_dragon_2_2
+TEXT: And every Dragon type I’ve studied since then has revealed something new and fascinating.
+
+RESOURCE ID: gowa_2026_global_sr_dragon_2_3
+TEXT: So keep your peepers peeled, my friend. For every tidbit we learn about Dragon types, there’s that much more still to be discovered.
+
+RESOURCE ID: gowa_2026_global_sr_dragon_3_0
+TEXT: Hey there, %PLAYERNAME%! I don’t doubt your bravery, but still, don’t let Dragon-type Pokémon intimidate you!
+
+RESOURCE ID: gowa_2026_global_sr_dragon_3_1
+TEXT: Getting to know one can be an incredibly rewarding experience, after all.
+
+RESOURCE ID: gowa_2026_global_sr_dragon_3_2
+TEXT: You just have to be daring enough to grow along with them!
+
+RESOURCE ID: gowa_2026_global_sr_dragon_4_0
+TEXT: Well done, %PLAYERNAME%! Now, let’s dive into the tactical considerations of Dragon-type Pokémon.
+
+RESOURCE ID: gowa_2026_global_sr_dragon_4_1
+TEXT: Dragon types are fearsome attackers, and they deal supereffective damage against other Dragon types.
+
+RESOURCE ID: gowa_2026_global_sr_dragon_4_2
+TEXT: If you’re facing other Dragon types, remember that Ice-, Fairy-, and other Dragon-type Pokémon can be particularly effective.
+
+RESOURCE ID: gowa_2026_global_sr_dragon_4_3
+TEXT: Powerful as they are, knowing their vulnerabilities is what separates a good Trainer from a great one.
+
+RESOURCE ID: gowa_2026_global_sr_dragon_4_4
+TEXT: In battle, as in all things, knowledge is power!
+
+RESOURCE ID: gowa_2026_global_sr_dragon_5_0
+TEXT: Outstanding job broadening your knowledge of Dragon-type Pokémon, %PLAYERNAME%!
+
+RESOURCE ID: gowa_2026_global_sr_dragon_5_1
+TEXT: But as always, there’s a final surprise—Dynamax Dialga and Dynamax Palkia have just appeared!
+
+RESOURCE ID: gowa_2026_global_sr_dragon_5_2
+TEXT: Only a Trainer with skills like yours could rise to this challenge.
+
+RESOURCE ID: gowa_2026_global_sr_dragon_5_3
+TEXT: Take heart—everything you’ve learned has been preparing you for this moment.
+
+RESOURCE ID: gowa_2026_global_sr_dragon_5_4
+TEXT: Head into battle with confidence and show them what you’re made of!
+
+RESOURCE ID: gowa_2026_global_sr_dragon_6_0
+TEXT: Phenomenal work, %PLAYERNAME%! You faced Dynamax Dialga and Dynamax Palkia and came out on top!
+
+RESOURCE ID: gowa_2026_global_sr_dragon_6_1
+TEXT: I couldn’t ask for a more dedicated Trainer to work with.
+
+RESOURCE ID: gowa_2026_global_sr_dragon_6_2
+TEXT: But this is just one chapter of a much bigger story. There are so many more Pokémon types to learn about!
+
+RESOURCE ID: gowa_2026_global_sr_dragon_6_3
+TEXT: I can’t wait to see where your journey takes you next, %PLAYERNAME%.
+
+RESOURCE ID: gowa_2026_global_sr_steel_2_0
+TEXT: Steel-type Pokémon are an excellent choice!
+
+RESOURCE ID: gowa_2026_global_sr_steel_2_1
+TEXT: Their remarkable resilience and steadfast nature never fail to impress me.
+
+RESOURCE ID: gowa_2026_global_sr_steel_2_2
+TEXT: And the beauty of research is that every encounter has something new to teach us.
+
+RESOURCE ID: gowa_2026_global_sr_steel_2_3
+TEXT: Why, one time I attempted to take a Metagross’s measurements during a battle, and…well, let’s just say it wasn’t my most graceful bit of research.
+
+RESOURCE ID: gowa_2026_global_sr_steel_2_4
+TEXT: But I digress. Go on, spend some time with those remarkable Pokémon and let their resilience inspire you!
+
+RESOURCE ID: gowa_2026_global_sr_steel_3_0
+TEXT: As you know, a Trainer’s bond with their Pokémon is one of the most powerful forces in the world!
+
+RESOURCE ID: gowa_2026_global_sr_steel_3_1
+TEXT: And with Steel-type Pokémon, I bet you could form bonds as strong as...well, steel!
+
+RESOURCE ID: gowa_2026_global_sr_steel_3_2
+TEXT: The more I study those Pokémon, the more they surprise me.
+
+RESOURCE ID: gowa_2026_global_sr_steel_3_3
+TEXT: Take some time to grow with them, %PLAYERNAME%. Solid trust is built one interaction at a time.
+
+RESOURCE ID: gowa_2026_global_sr_steel_4_0
+TEXT: Excellent work, %PLAYERNAME%. Now, let’s sharpen that Steel type knowledge even further!
+
+RESOURCE ID: gowa_2026_global_sr_steel_4_1
+TEXT: Here’s a practical tip: Steel-type Pokémon resist an impressive array of types. This makes them practically a fortress unto themselves in battle!
+
+RESOURCE ID: gowa_2026_global_sr_steel_4_2
+TEXT: But every fortress has its weak point—Fire-, Fighting-, and Ground-type Pokémon can make quick work of their defenses.
+
+RESOURCE ID: gowa_2026_global_sr_steel_4_3
+TEXT: You might want to keep this info in your back pocket. It just might help you forge a path to victory in your next battle!
+
+RESOURCE ID: gowa_2026_global_sr_steel_5_0
+TEXT: You’ve done some truly outstanding work honing your knowledge of Steel-type Pokémon, %PLAYERNAME%.
+
+RESOURCE ID: gowa_2026_global_sr_steel_5_1
+TEXT: We can’t celebrate yet, though. First, we’ve got some legendary guests to attend to: Dynamax Dialga and Dynamax Palkia!
+
+RESOURCE ID: gowa_2026_global_sr_steel_5_2
+TEXT: Only a Trainer with skills like yours could rise to this challenge!
+
+RESOURCE ID: gowa_2026_global_sr_steel_5_3
+TEXT: Take heart—everything you’ve learned has been preparing you for this moment.
+
+RESOURCE ID: gowa_2026_global_sr_steel_5_4
+TEXT: Go on now. Breathe deep, trust your training, and then get out there and show off your steely resolve!
+
+RESOURCE ID: gowa_2026_global_sr_steel_6_0
+TEXT: Wow! %PLAYERNAME%, you’ve really proven yourself as an extraordinary Steel type Trainer!
+
+RESOURCE ID: gowa_2026_global_sr_steel_6_1
+TEXT: Your dedication is as firm as...well, you get the idea!
+
+RESOURCE ID: gowa_2026_global_sr_steel_6_2
+TEXT: It's been a thrill watching you grow throughout this adventure.
+
+RESOURCE ID: gowa_2026_global_sr_steel_6_3
+TEXT: Ah, but the Pokémon world is vast, and there’s still so much more to explore.
+
+RESOURCE ID: gowa_2026_global_sr_steel_6_4
+TEXT: And never forget that I’ll be here to cheer you on the whole way!
+
 RESOURCE ID: gowa_2026_habitat_cc_description
 TEXT: Catch event Pokémon!
 
@@ -49863,10 +50028,10 @@ RESOURCE ID: gowa_2026_habitat_global_cc_sunday
 TEXT: Wild Area Collection Challenge: Sunday
 
 RESOURCE ID: gowa_2026_habitat_now_dragon
-TEXT: Happening now: Solid as Steel Hour
+TEXT: Happening now: Daring as Dragons Hour
 
 RESOURCE ID: gowa_2026_habitat_now_steel
-TEXT: Happening now: Daring as Dragons Hour
+TEXT: Happening now: Solid as Steel Hour
 
 RESOURCE ID: gowa_2026_irl_cc_cdmx_friday
 TEXT: GO Wild Area: Mexico City Collection Challenge
@@ -49885,6 +50050,93 @@ TEXT: GO Wild Area: Sendai・Tohoku Collection Challenge
 
 RESOURCE ID: gowa_2026_irl_cc_sendai_sunday
 TEXT: GO Wild Area: Sendai・Tohoku Collection Challenge
+
+RESOURCE ID: gowa_2026_irl_sr_0_0
+TEXT: %PLAYERNAME%! Excellent to see you, and great timing. Something extraordinary is afoot!
+
+RESOURCE ID: gowa_2026_irl_sr_0_1
+TEXT: My peaceful morning stroll was interrupted by a towering figure moving in the distance—a thrilling mystery!
+
+RESOURCE ID: gowa_2026_irl_sr_0_2
+TEXT: I’ve consulted my field notes and identified a few compelling candidates for who it could be, but I’ll need your sharp instincts to confirm my findings.
+
+RESOURCE ID: gowa_2026_irl_sr_0_3
+TEXT: Follow the clues and see what you can uncover. Our mysterious friend has left quite the trail...
+
+RESOURCE ID: gowa_2026_irl_sr_0_4
+TEXT: This is your moment, my friend! Let’s find that Pokémon!
+
+RESOURCE ID: gowa_2026_irl_sr_1_0
+TEXT: What an incredible discovery! Based on what we’ve found, I’d say that was a Gigantamax Duraludon!
+
+RESOURCE ID: gowa_2026_irl_sr_1_1
+TEXT: It’s a Steel and Dragon type, a remarkable combination shared by only a handful of discovered Pokémon.
+
+RESOURCE ID: gowa_2026_irl_sr_1_2
+TEXT: And look where it’s led us, %PLAYERNAME%! This place is filled with both Steel and Dragon types!
+
+RESOURCE ID: gowa_2026_irl_sr_1_3
+TEXT: To think that epic trail led us all the way here.
+
+RESOURCE ID: gowa_2026_irl_sr_1_4
+TEXT: Well, let’s not keep these Pokémon waiting. Time to explore!
+
+RESOURCE ID: gowa_2026_irl_sr_2_0
+TEXT: All the Steel-type Pokémon around sure are something to behold, aren’t they?
+
+RESOURCE ID: gowa_2026_irl_sr_2_1
+TEXT: Sturdy, resilient, and sometimes even gleaming! Gosh, Steel-type Pokémon are truly fascinating.
+
+RESOURCE ID: gowa_2026_irl_sr_2_2
+TEXT: And let me tell you, their “steely” resolve is an inspiration! I could use that kind of focus in the lab...
+
+RESOURCE ID: gowa_2026_irl_sr_2_3
+TEXT: Anyhow, I’d like you to spend some time with them and observe their unique behaviors.
+
+RESOURCE ID: gowa_2026_irl_sr_2_4
+TEXT: I have a feeling they’ll leave a strong impression on you, %PLAYERNAME%!
+
+RESOURCE ID: gowa_2026_irl_sr_3_0
+TEXT: Dragon-type Pokémon tend to leave a trail of legends and wonder wherever they roam.
+
+RESOURCE ID: gowa_2026_irl_sr_3_1
+TEXT: There’s just something inspiring about them, don’t you think?
+
+RESOURCE ID: gowa_2026_irl_sr_3_2
+TEXT: And on that note, please spend some time getting closer to them. Let your curiosity guide you!
+
+RESOURCE ID: gowa_2026_irl_sr_3_3
+TEXT: Those magnificent Dragon types have so many secrets to share with us. Let’s GO!
+
+RESOURCE ID: gowa_2026_irl_sr_4_0
+TEXT: Brace yourself %PLAYERNAME%—Dynamax Dialga and Dynamax Palkia just showed up!
+
+RESOURCE ID: gowa_2026_irl_sr_4_1
+TEXT: Finding Dialga and Palkia in the same place at the same time is extraordinary enough, but Dynamaxed too? It’s truly remarkable!
+
+RESOURCE ID: gowa_2026_irl_sr_4_2
+TEXT: This sure is a BIG opportunity for us! Haha!
+
+RESOURCE ID: gowa_2026_irl_sr_4_3
+TEXT: It’s time we put our knowledge to work and help calm them down.
+
+RESOURCE ID: gowa_2026_irl_sr_4_4
+TEXT: I believe in you %PLAYERNAME%—go and show them what you’re made of!
+
+RESOURCE ID: gowa_2026_irl_sr_5_0
+TEXT: What a journey this has been, %PLAYERNAME%. I’m in awe!
+
+RESOURCE ID: gowa_2026_irl_sr_5_1
+TEXT: Chasing down that mysterious Pokémon has been quite the epic adventure. All in a day’s work though, right?
+
+RESOURCE ID: gowa_2026_irl_sr_5_2
+TEXT: And your understanding of Steel and Dragon types has grown so much!
+
+RESOURCE ID: gowa_2026_irl_sr_5_3
+TEXT: Ah, but the Pokémon world is vast, and there’s still so much more to explore!
+
+RESOURCE ID: gowa_2026_irl_sr_5_4
+TEXT: How exciting is that?! Anyhow, onward, %PLAYERNAME%! Our greatest discoveries are still ahead of us!
 
 RESOURCE ID: gowa_2026_sat
 TEXT: Pokémon GO Wild Area 2026: Saturday Event Hours
@@ -51387,6 +51639,12 @@ TEXT: 핼러윈 파트1
 RESOURCE ID: halloween_event_name_2
 TEXT: 핼러윈 파트2
 
+RESOURCE ID: halloween_event_name_part_1_2026
+TEXT: 핼러윈 2026 파트1
+
+RESOURCE ID: halloween_event_name_part_2_2026
+TEXT: 핼러윈 2026 파트2
+
 RESOURCE ID: halloween_morpeko_tr_name
 TEXT: 모르페코 의상 프리미엄 시간제한 리서치
 
@@ -51422,6 +51680,9 @@ TEXT: 장식한 포켓몬을 Nice 이상 나오게 잡았을 때 받을 수 있�
 
 RESOURCE ID: halloween_spiritomb_tr_name
 TEXT: 핼러윈2024:  화강돌 챌린지
+
+RESOURCE ID: halloween_spooky_surprise_tappable_today_view
+TEXT: 서프라이즈 박스가 맵에 출현!
 
 RESOURCE ID: halloween_ultra_cup_title
 TEXT: Halloween Cup: Ultra League Edition
@@ -52313,6 +52574,9 @@ TEXT: 시간제한 리서치 완료하고 스페셜 배경이 있는 바틱을 �
 
 RESOURCE ID: id_potw_2026_tv_description
 TEXT: 초원에 있을 것 같은 아름다운 색과 모양의 포켓몬이 10시~20시 사이에 출현. 자세한 내용은 블로그에서 확인하세요.
+
+RESOURCE ID: in.fol.2026.bundle_title
+TEXT: Festival of Lights Box
 
 RESOURCE ID: in_app_label
 TEXT: 인앱 구매
@@ -62362,10 +62626,10 @@ at SHA 4d4f3e80cc7fb911006bd14d198c9831ef66d005
 Pipeline 339838, job 2672172
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-10-08T01:19:41.065326+00:00 for ko-KR
-at SHA 419119e35f4
-Pipeline 4005594, job 59006900
-Patch from: 0.431.0-SHA-76e2198b-RC4, 0.433.0-SHA-94a605de-RC4
+TEXT: Built at 2026-10-09T02:08:54.953841+00:00 for ko-KR
+at SHA e1629afd832
+Pipeline 4009579, job 59072788
+Patch from: 0.431.0-SHA-ecb3d867-RC5, 0.433.0-SHA-a810fd7d-RC2
 
 RESOURCE ID: meteor_title_1
 TEXT: 유성군
@@ -67902,6 +68166,39 @@ TEXT: 자세한 내용은 <a href="https://pokemongo.com/news/communityday-augus
 
 RESOURCE ID: nickname_set_nickname
 TEXT: 닉네임을 붙인다
+
+RESOURCE ID: night_out_2026_stream_tr_title
+TEXT: Pokémon Night Out 시간제한 리서치
+
+RESOURCE ID: night_out_2026_title
+TEXT: Pokémon Night Out
+
+RESOURCE ID: night_out_2026_tr_title
+TEXT: Pokémon Night Out 시간제한 리서치: 전기로 선택
+
+RESOURCE ID: night_out_2026_stream_tr_01
+TEXT: Pokémon Night Out 시간제한 리서치(1/2)
+
+RESOURCE ID: night_out_2026_stream_tr_02
+TEXT: Pokémon Night Out 시간제한 리서치(2/2)
+
+RESOURCE ID: night_out_2026_tr_amped
+TEXT: Pokémon Night Out 시간제한 리서치: 하이한 모습
+
+RESOURCE ID: night_out_2026_tr_amped_desc
+TEXT: 이것을 선택하면 하이한 모습의 스트린더를 만날 수 있습니다.
+
+RESOURCE ID: night_out_2026_tr_amped_path
+TEXT: 하이한 모습
+
+RESOURCE ID: night_out_2026_tr_low_key
+TEXT: Pokémon Night Out 시간제한 리서치: 로우한 모습
+
+RESOURCE ID: night_out_2026_tr_low_key_desc
+TEXT: 이것을 선택하면 로우한 모습의 스트린더를 만날 수 있습니다.
+
+RESOURCE ID: night_out_2026_tr_low_key_path
+TEXT: 로우한 모습
 
 RESOURCE ID: nihilego_double_raid_rewards
 TEXT: 2× 레에드 XP, 2× 레이드에서 획득 별의모래, 2×텅비드를 잡았을 때 받을 수 있는 사탕
@@ -100948,12 +101245,18 @@ RESOURCE ID: quest_special_dialogue_zygarde_1_1
 TEXT: 네가 걷는 동안 트레이너들에게 보고가 들어왔어.
 
 RESOURCE ID: quest_special_dialogue_zygarde_1_2
+TEXT: 루트 끝에서 뭔가 이상한 일이 일어났다는 보고야. 정체를 알 수 없는 것을 봤다는 이야기도 있어.
+
+RESOURCE ID: quest_special_dialogue_zygarde_1_2_out
 TEXT: 루트 구석에서 녹색 물체를 봤다는 보고야. 녹색의 생명체라고 말하는 트레이너도 있었어.
 
 RESOURCE ID: quest_special_dialogue_zygarde_1_2_temp
 TEXT: 루트 끝에서 뭔가 이상한 일이 일어났다는 보고야. 정체를 알 수 없는 것을 봤다는 이야기도 있어.
 
 RESOURCE ID: quest_special_dialogue_zygarde_1_3
+TEXT: 대체 무슨 일이 일어나고 있는지 짐작은 되는데... 확실해질 때까지 자료를 찾아볼게. 아마 칼로스지방 특집을 다시 읽으면 알 수 있을 거야.
+
+RESOURCE ID: quest_special_dialogue_zygarde_1_3_out
 TEXT: 짐작은 했어도.... 확신을 가질 때까지 자료를 찾아볼게. 아니 칼로스지방 특집을 다시 한번 읽으면 알 것 같군.
 
 RESOURCE ID: quest_special_dialogue_zygarde_1_3_temp
@@ -100993,6 +101296,9 @@ RESOURCE ID: quest_special_dialogue_zygarde_3_4
 TEXT: 모습을 바꾸기 위해 사용하는 것이 아까 준 지가르데큐브야. 지가르데의 셀을 안전하면서도 쾌적하게 보관할 수 있어. 즉, 둥지 같은 거지.
 
 RESOURCE ID: quest_special_dialogue_zygarde_3_5
+TEXT: 그럼 그 셀을 어디서 발견할까? 루트에서 보고된 신기한 현상에 대해 말했었지? 지가르데 셀과 연관이 있는 것 같아.
+
+RESOURCE ID: quest_special_dialogue_zygarde_3_5_out
 TEXT: 트레이너들의 보고를 정리하면 루트를 걸으면 지가르데 셀을 발견할 가능성이 높다는군 녹색 물체는 셀을 말하는 거였어.
 
 RESOURCE ID: quest_special_dialogue_zygarde_3_5_temp
@@ -111430,10 +111736,10 @@ RESOURCE ID: rally_gowa_2025_title
 TEXT: GO 와일드 에리어2025 스탬프랠리
 
 RESOURCE ID: rally_gowa_2026_cdmx_title
-TEXT: GO Wild Area 2026 – Mexico City Stamp Rally
+TEXT: GO Wild Area: Mexico City Stamp Rally
 
 RESOURCE ID: rally_gowa_2026_sendai_title
-TEXT: GO Wild Area 2026 – Sendai・Tohoku Stamp Rally
+TEXT: GO Wild Area: Sendai・Tohoku Stamp Rally
 
 RESOURCE ID: rally_gowa_2025_desc
 TEXT: GO 와일드 에리어2025: 나가사키에 어서 오세요!
@@ -112616,6 +112922,9 @@ RESOURCE ID: report_route_bug_info_tracking
 TEXT: 거리가 올바르게 추적되기 위해서는 루트 경로에서 떨어지지 않고 걸어주세요
 
 RESOURCE ID: report_route_bug_info_zygarde
+TEXT: 모든 루트의 끝나는 지점에서 지가르데 셀을 발견하는 것은 아닙니다.
+
+RESOURCE ID: report_route_bug_info_zygarde_out
 TEXT: 모든 루트에서 지가르데 셀이 나오는 것은 아닙니다.
 
 RESOURCE ID: report_route_bug_info_zygarde_temp
@@ -117537,6 +117846,9 @@ TEXT: GO패스: 12월
 RESOURCE ID: season_pass_base_track_title_feb
 TEXT: GO패스: 2월
 
+RESOURCE ID: season_pass_base_track_title_halloween2026
+TEXT: GO패스: 핼러윈 2026
+
 RESOURCE ID: season_pass_base_track_title_jan
 TEXT: GO패스: 1월
 
@@ -117762,6 +118074,9 @@ TEXT: 자세한 내용은 <a href="https://pokemongo.com/news/flying-taxi-2026">
 RESOURCE ID: season_pass_details_link_halloween_2025
 TEXT: 자세한 내용은 <a href="https://pokemongo.com/news/go-pass-halloween-2025">웹사이트</a>에서 확인해 주세요.
 
+RESOURCE ID: season_pass_details_link_halloween2026_part1
+TEXT: 자세한 내용은 <a href="https://pokemongo.com/news/halloween-part-1-2026">웹사이트</a>에서 확인해 주세요.
+
 RESOURCE ID: season_pass_details_link_harvest_festival_2026
 TEXT: 자세한 내용은 <a href="https://pokemongo.com/news/harvest-festival-2026">웹사이트</a>에서 확인해 주세요.
 
@@ -117837,6 +118152,21 @@ TEXT: GO패스 디럭스: 핼러윈 2025을 구매하면 다음 리워드를 받
 - 티타임 포즈
 - 이벤트와 어울리는 포켓몬과의 만남
 - 이상한사탕
+- 기타
+
+RESOURCE ID: season_pass_halloween2026_event_duration
+TEXT: 10월 27일~11월 5일
+
+RESOURCE ID: season_pass_halloween2026_track_upgrade_header_description
+TEXT: 추가 리워드를 받을 수 있고 랭크 108에서 <b>화강돌</b>과 만날 수 있습니다!
+
+RESOURCE ID: season_pass_halloween2026_upgrade_description
+TEXT: GO패스 디럭스: 핼러윈 2026을 구매하면 다음 리워드를 받을 수 있습니다.
+
+- 해트와 케이프의 피카츄와의 만남
+- 이벤트와 어울리는 포켓몬과의 만남
+- 파티시에 의상 아이템
+- 이상한사탕XL
 - 기타
 
 RESOURCE ID: season_pass_harvest_festival_2026_event_duration
@@ -118115,6 +118445,9 @@ TEXT: GO패스 디럭스: 12월+10랭크
 RESOURCE ID: season_pass_premium_track_plus_ten_ranks_title_feb
 TEXT: GO패스 디럭스: 2월+10랭크
 
+RESOURCE ID: season_pass_premium_track_plus_ten_ranks_title_halloween2026
+TEXT: GO패스 디럭스: 핼러윈 2026 + 10랭크
+
 RESOURCE ID: season_pass_premium_track_plus_ten_ranks_title_jan
 TEXT: GO패스 디럭스: 1월+10랭크
 
@@ -118165,6 +118498,9 @@ TEXT: GO패스 디럭스: 12월
 
 RESOURCE ID: season_pass_premium_track_title_feb
 TEXT: GO패스 디럭스: 2월
+
+RESOURCE ID: season_pass_premium_track_title_halloween2026
+TEXT: GO패스 디럭스: 핼러윈 2026
 
 RESOURCE ID: season_pass_premium_track_title_jan
 TEXT: GO패스 디럭스: 1월
