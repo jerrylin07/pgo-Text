@@ -5097,6 +5097,9 @@ TEXT: 미네소타 트윈스 모자
 RESOURCE ID: avatar_hat_mlbwhitesox
 TEXT: 시카고 화이트삭스 모자
 
+RESOURCE ID: avatar_hat_nflhelmet-arizonacardinals
+TEXT: Arizona 헬멧
+
 RESOURCE ID: avatar_hat_partyhat
 TEXT: 파티 모자
 
@@ -7498,6 +7501,9 @@ TEXT: 블래리 하의
 RESOURCE ID: avatar_pants_grusha
 TEXT: 그루샤 하의
 
+RESOURCE ID: avatar_pants_halloween2026
+TEXT: 파티시에 하의
+
 RESOURCE ID: avatar_pants_mustard
 TEXT: 마스터드 하의
 
@@ -7663,6 +7669,12 @@ TEXT: GO Fest 2026 티셔츠(퍼플)
 RESOURCE ID: avatar_shirt_gofest2026zeraora
 TEXT: 제라오라 티셔츠
 
+RESOURCE ID: avatar_shirt_gothiclolitashorts
+TEXT: 핼러윈 의상 바지 세트
+
+RESOURCE ID: avatar_shirt_gothiclolitaskirt
+TEXT: 핼러윈 의상 스커트 세트
+
 RESOURCE ID: avatar_shirt_gotour2025black
 TEXT: GO Tour 2025 티셔츠(블랙)
 
@@ -7681,6 +7693,9 @@ TEXT: 그루샤 상의
 RESOURCE ID: avatar_shirt_halloween2024
 TEXT: 핼러윈 블라우스
 
+RESOURCE ID: avatar_shirt_halloween2026
+TEXT: 파티시에 상의
+
 RESOURCE ID: avatar_shirt_marshtompsweater
 TEXT: 늪짱이 스웨터
 
@@ -7698,6 +7713,9 @@ TEXT: 모르페코(배고픈 모양) 포켓몬 옷
 
 RESOURCE ID: avatar_shirt_mustard
 TEXT: 마스터드 상의
+
+RESOURCE ID: avatar_shirt_nightout
+TEXT: 포켓몬 Night Out 야구 유니폼
 
 RESOURCE ID: avatar_shirt_plaidtop
 TEXT: 체크무늬 상의
@@ -7866,6 +7884,9 @@ TEXT: 어니언 신발
 RESOURCE ID: avatar_shoes_gblgrimsley
 TEXT: 블래리 신발
 
+RESOURCE ID: avatar_shoes_gothiclolita
+TEXT: 핼러윈 의상 부츠
+
 RESOURCE ID: avatar_shoes_grusha
 TEXT: 그루샤 신발
 
@@ -7913,6 +7934,9 @@ TEXT: 최근
 
 RESOURCE ID: avatar_shop_filter_type_text
 TEXT: 타입
+
+RESOURCE ID: avatar_socks_gothiclolita
+TEXT: 핼러윈 의상 양말
 
 RESOURCE ID: avatar_style_unlocked
 TEXT: 새로운 스타일을 손에 넣었다!
@@ -62626,10 +62650,10 @@ at SHA 4d4f3e80cc7fb911006bd14d198c9831ef66d005
 Pipeline 339838, job 2672172
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-10-09T02:08:54.953841+00:00 for ko-KR
-at SHA e1629afd832
-Pipeline 4009579, job 59072788
-Patch from: 0.431.0-SHA-ecb3d867-RC5, 0.433.0-SHA-a810fd7d-RC2
+TEXT: Built at 2026-10-10T01:30:09.155088+00:00 for ko-KR
+at SHA 59b2e4089cd
+Pipeline 4012512, job 59119892
+Patch from: 0.431.0-SHA-ecb3d867-RC5, 0.433.0-SHA-d37b1aa1-RC1
 
 RESOURCE ID: meteor_title_1
 TEXT: 유성군

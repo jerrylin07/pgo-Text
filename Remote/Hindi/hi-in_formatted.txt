@@ -5119,6 +5119,9 @@ TEXT: मिनेसोटा ट्विंस टोपी
 RESOURCE ID: avatar_hat_mlbwhitesox
 TEXT: शिकागो वाइट सॉक्स टोपी
 
+RESOURCE ID: avatar_hat_nflhelmet-arizonacardinals
+TEXT: एरज़िोना हेल्मेट
+
 RESOURCE ID: avatar_hat_partyhat
 TEXT: पार्टी हैट
 
@@ -7544,6 +7547,9 @@ TEXT: ग्रिमस्ली-स्टाइल पैंट
 RESOURCE ID: avatar_pants_grusha
 TEXT: ग्रूशा-स्टाइल पैंट
 
+RESOURCE ID: avatar_pants_halloween2026
+TEXT: पेस्ट्री शेफ़ पैंट
+
 RESOURCE ID: avatar_pants_mustard
 TEXT: मस्टर्ड पैंट
 
@@ -7709,6 +7715,12 @@ TEXT: GO फ़ेस्टविल टी-शर्ट (पर्पल)
 RESOURCE ID: avatar_shirt_gofest2026zeraora
 TEXT: ज़ेराऑरा टी-शर्ट
 
+RESOURCE ID: avatar_shirt_gothiclolitashorts
+TEXT: गॉथकि शॉर्ट्स सेट
+
+RESOURCE ID: avatar_shirt_gothiclolitaskirt
+TEXT: गॉथकि स्कर्ट सेट
+
 RESOURCE ID: avatar_shirt_gotour2025black
 TEXT: GO Tour 2025 टी-शर्ट (ब्लैक)
 
@@ -7727,6 +7739,9 @@ TEXT: ग्रूशा-स्टाइल जैकेट
 RESOURCE ID: avatar_shirt_halloween2024
 TEXT: हैलोवीन ब्लाउस
 
+RESOURCE ID: avatar_shirt_halloween2026
+TEXT: पेस्ट्री शेफ़ टॉप
+
 RESOURCE ID: avatar_shirt_marshtompsweater
 TEXT: मार्शटॉम्प स्वेटर
 
@@ -7744,6 +7759,9 @@ TEXT: मोरपेको (हंग्री मोड)
 
 RESOURCE ID: avatar_shirt_mustard
 TEXT: मस्टर्ड जैकेट
+
+RESOURCE ID: avatar_shirt_nightout
+TEXT: पोकेमॉन Night Out बेसबॉल जर्सी
 
 RESOURCE ID: avatar_shirt_plaidtop
 TEXT: चेक टॉप
@@ -7912,6 +7930,9 @@ TEXT: एलिस्टर स्टाइल जूते
 RESOURCE ID: avatar_shoes_gblgrimsley
 TEXT: ग्रिमस्ली-स्टाइल जूते
 
+RESOURCE ID: avatar_shoes_gothiclolita
+TEXT: गॉथकि बूट
+
 RESOURCE ID: avatar_shoes_grusha
 TEXT: ग्रूशा-शैली के जूते
 
@@ -7959,6 +7980,9 @@ TEXT: हालिया
 
 RESOURCE ID: avatar_shop_filter_type_text
 TEXT: टाइप
+
+RESOURCE ID: avatar_socks_gothiclolita
+TEXT: गॉथकि जुराबें
 
 RESOURCE ID: avatar_style_unlocked
 TEXT: नया स्टाइल जोड़ा गया!
@@ -50389,7 +50413,7 @@ RESOURCE ID: iap_category_team_change
 TEXT: टीम बदलें
 
 RESOURCE ID: iap_friend_picker_last_sent
-TEXT: Last Sent
+TEXT: पछिला भेजा
 
 RESOURCE ID: iap_item_unavailable
 TEXT: अब यह आइटम नहीं खरीदा जा सकता।
@@ -60503,10 +60527,10 @@ at SHA 12701f1c07ae7f07a5d50583f697320977df7988
 Pipeline 1139111, job 13470914
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-10-09T02:08:54.953841+00:00 for hi-IN
-at SHA e1629afd832
-Pipeline 4009579, job 59072788
-Patch from: 0.431.0-SHA-ecb3d867-RC5, 0.433.0-SHA-a810fd7d-RC2
+TEXT: Built at 2026-10-10T01:30:09.155088+00:00 for hi-IN
+at SHA 59b2e4089cd
+Pipeline 4012512, job 59119892
+Patch from: 0.431.0-SHA-ecb3d867-RC5, 0.433.0-SHA-d37b1aa1-RC1
 
 RESOURCE ID: meteor_title_1
 TEXT: मीटयिोर शावर
@@ -116765,10 +116789,10 @@ RESOURCE ID: settings_allow_paid_gifts_desc_on
 TEXT: Turning on this feature will allow friends to send you paid gifts. You can pause specific friends from sending you paid gifts in the Pause Gifts List once this feature is turned on.
 
 RESOURCE ID: settings_allow_paid_gifts_title_off
-TEXT: Turn Off Paid Gifts from Friends?
+TEXT: दोस्तों से पेमेंट वाले गफ़्टि बंद करें?
 
 RESOURCE ID: settings_allow_paid_gifts_title_on
-TEXT: Turn On Paid Gifts from Friends?
+TEXT: दोस्तों से पेमेंट वाले गफ़्टि चालू करें?
 
 RESOURCE ID: settings_allow_raid_and_max_battle_friend_requests
 TEXT: रेड और मैक्स बैटल मेंबर
@@ -117718,7 +117742,7 @@ RESOURCE ID: shop_already_own_this_ticket
 TEXT: आपके पास पहले से ही इस ईवेंट की टिकट है या यह रिसर्च आपके पास जारी है या पूरी हो रखी है जिस की वजह से आप इस टिकट को फिर से खरीद नहीं सकते।
 
 RESOURCE ID: shop_already_unlocked_premium_event_pass
-TEXT: You’ve already unlocked this GO Pass Deluxe.
+TEXT: आपने यह GO पास डीलक्स पहले से ही अनलॉक कयिा हुआ है।
 
 RESOURCE ID: shop_battle_tickets_title
 TEXT: आपके पास प्रीमियम बैटल पास खत्म हो गए हैं!

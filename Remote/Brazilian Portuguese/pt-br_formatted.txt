@@ -5294,6 +5294,9 @@ TEXT: Boné do Minnesota Twins
 RESOURCE ID: avatar_hat_mlbwhitesox
 TEXT: Boné do Chicago White Sox
 
+RESOURCE ID: avatar_hat_nflhelmet-arizonacardinals
+TEXT: Capacete do Arizona
+
 RESOURCE ID: avatar_hat_partyhat
 TEXT: Chapéu de festa
 
@@ -7896,6 +7899,9 @@ TEXT: Calça estilo do Grimsley
 RESOURCE ID: avatar_pants_grusha
 TEXT: Calça estilo do Grusha
 
+RESOURCE ID: avatar_pants_halloween2026
+TEXT: Calça de confeiteiro
+
 RESOURCE ID: avatar_pants_mustard
 TEXT: Calça estilo do Mostarda
 
@@ -8061,6 +8067,12 @@ TEXT: Camiseta do Festival de Pokémon GO 2026 (roxa)
 RESOURCE ID: avatar_shirt_gofest2026zeraora
 TEXT: Camiseta de Zeraora
 
+RESOURCE ID: avatar_shirt_gothiclolitashorts
+TEXT: Conjunto de shorts góticos
+
+RESOURCE ID: avatar_shirt_gothiclolitaskirt
+TEXT: Conjunto de saia gótica
+
 RESOURCE ID: avatar_shirt_gotour2025black
 TEXT: Camiseta do GO Tour 2025 (preta)
 
@@ -8079,6 +8091,9 @@ TEXT: Jaqueta estilo do Grusha
 RESOURCE ID: avatar_shirt_halloween2024
 TEXT: Roupa Elegante de Halloween
 
+RESOURCE ID: avatar_shirt_halloween2026
+TEXT: Dólmã de confeiteiro
+
 RESOURCE ID: avatar_shirt_marshtompsweater
 TEXT: Suéter de Marshtomp
 
@@ -8096,6 +8111,9 @@ TEXT: Macacão de Morpeko (Forma Voraz)
 
 RESOURCE ID: avatar_shirt_mustard
 TEXT: Jaqueta estilo do Mostarda
+
+RESOURCE ID: avatar_shirt_nightout
+TEXT: Camiseta de baseball Pokémon Curtir a Noite
 
 RESOURCE ID: avatar_shirt_plaidtop
 TEXT: Casaco Xadrez
@@ -8264,6 +8282,9 @@ TEXT: Sapatos estilo do Allister
 RESOURCE ID: avatar_shoes_gblgrimsley
 TEXT: Sapatos estilo do Grimsley
 
+RESOURCE ID: avatar_shoes_gothiclolita
+TEXT: Botas góticas
+
 RESOURCE ID: avatar_shoes_grusha
 TEXT: Sapatos estilo do Grusha
 
@@ -8311,6 +8332,9 @@ TEXT: Recentes
 
 RESOURCE ID: avatar_shop_filter_type_text
 TEXT: Tipo
+
+RESOURCE ID: avatar_socks_gothiclolita
+TEXT: Meias góticas
 
 RESOURCE ID: avatar_style_unlocked
 TEXT: Estilo novo adicionado!
@@ -12810,28 +12834,28 @@ RESOURCE ID: badge_gowa_2025_special_research_b_title
 TEXT: Fã de Fada
 
 RESOURCE ID: badge_gowa_2026_cdmx_addon_battle_title
-TEXT: GO Wild Area 2026: Battle Ready
+TEXT: Área Selvagem GO 2026: Hora da Batalha
 
 RESOURCE ID: badge_gowa_2026_cdmx_addon_friday_title
 TEXT: GO Wild Area 2026: Extra Day (Friday)
 
 RESOURCE ID: badge_gowa_2026_cdmx_addon_hatch_title
-TEXT: GO Wild Area 2026: Egg-thusiast
+TEXT: Área Selvagem GO 2026: Chocante
 
 RESOURCE ID: badge_gowa_2026_cdmx_addon_saturday_title
-TEXT: GO Wild Area 2026: Extra Day (Saturday)
+TEXT: Área Selvagem GO 2026: Dia Extra (sábado)
 
 RESOURCE ID: badge_gowa_2026_cdmx_addon_sunday_title
-TEXT: GO Wild Area 2026: Extra Day (Sunday)
+TEXT: Área Selvagem GO 2026: Dia Extra (domingo)
 
 RESOURCE ID: badge_gowa_2026_cdmx_friday_title
-TEXT: GO Wild Area 2026: Friday
+TEXT: Área Selvagem GO 2026: sexta-feira
 
 RESOURCE ID: badge_gowa_2026_cdmx_saturday_title
-TEXT: GO Wild Area 2026: Saturday
+TEXT: Área Selvagem GO 2026: sábado
 
 RESOURCE ID: badge_gowa_2026_cdmx_sunday_title
-TEXT: GO Wild Area 2026: Sunday
+TEXT: Área Selvagem GO 2026: domingo
 
 RESOURCE ID: badge_gowa_2026_cdmx_test_addon_battle_title
 TEXT: GO Wild Area 2026 – Mexico City: Battle Ready (Test)
@@ -12849,31 +12873,31 @@ RESOURCE ID: badge_gowa_2026_global_test_title
 TEXT: GO Wild Area 2026 (Test)
 
 RESOURCE ID: badge_gowa_2026_global_title
-TEXT: GO Wild Area 2026
+TEXT: Área Selvagem GO 2026
 
 RESOURCE ID: badge_gowa_2026_sendai_addon_battle_title
-TEXT: GO Wild Area 2026: Battle Ready
+TEXT: Área Selvagem GO 2026: Hora da Batalha
 
 RESOURCE ID: badge_gowa_2026_sendai_addon_friday_title
-TEXT: GO Wild Area 2026: Extra Day (Friday)
+TEXT: Área Selvagem GO 2026: Dia Extra (sexta-feira)
 
 RESOURCE ID: badge_gowa_2026_sendai_addon_hatch_title
-TEXT: GO Wild Area 2026: Egg-thusiast
+TEXT: Área Selvagem GO 2026: Chocante
 
 RESOURCE ID: badge_gowa_2026_sendai_addon_saturday_title
-TEXT: GO Wild Area 2026: Extra Day (Saturday)
+TEXT: Área Selvagem GO 2026: Dia Extra (sábado)
 
 RESOURCE ID: badge_gowa_2026_sendai_addon_sunday_title
-TEXT: GO Wild Area 2026: Extra Day (Sunday)
+TEXT: Área Selvagem GO 2026: Dia Extra (domingo)
 
 RESOURCE ID: badge_gowa_2026_sendai_friday_title
-TEXT: GO Wild Area 2026: Friday
+TEXT: Área Selvagem GO 2026: sexta-feira
 
 RESOURCE ID: badge_gowa_2026_sendai_saturday_title
-TEXT: GO Wild Area 2026: Saturday
+TEXT: Área Selvagem GO 2026: sábado
 
 RESOURCE ID: badge_gowa_2026_sendai_sunday_title
-TEXT: GO Wild Area 2026: Sunday
+TEXT: Área Selvagem GO 2026: domingo
 
 RESOURCE ID: badge_gowa_2026_sendai_test_addon_battle_title
 TEXT: GO Wild Area 2026 – Sendai・Tohoku: Battle Ready (Test)
@@ -12888,10 +12912,10 @@ RESOURCE ID: badge_gowa_2026_sendai_test_title
 TEXT: GO Wild Area 2026 – Sendai・Tohoku (Test)
 
 RESOURCE ID: badge_gowa_2026_special_research_a_title
-TEXT: Steel Scholar
+TEXT: Intelectual de Aço
 
 RESOURCE ID: badge_gowa_2026_special_research_b_title
-TEXT: Dragon Defender
+TEXT: Defensor de Dragões
 
 RESOURCE ID: badge_gowa_electric
 TEXT: Área Selvagem do Pokémon GO 2024
@@ -13002,28 +13026,28 @@ RESOURCE ID: badge_gowa_2025_special_research_b
 TEXT: Área Selvagem do Pokémon GO 2025
 
 RESOURCE ID: badge_gowa_2026_cdmx_addon_battle
-TEXT: Mexico City, November 6–8, 2026
+TEXT: Cidade do México, 6 a 8 de novembro de 2026
 
 RESOURCE ID: badge_gowa_2026_cdmx_addon_friday
-TEXT: Mexico City, Friday, November 6, 2026, 10:00 a.m. – 6:00 p.m.
+TEXT: Cidade do México, sexta-feira, 6 de novembro de 2026, das 10h às 18h
 
 RESOURCE ID: badge_gowa_2026_cdmx_addon_hatch
-TEXT: Mexico City, November 6–8, 2026
+TEXT: Cidade do México, 6 a 8 de novembro de 2026
 
 RESOURCE ID: badge_gowa_2026_cdmx_addon_saturday
-TEXT: Mexico City, Saturday, November 7, 2026, 10:00 a.m. – 6:00 p.m.
+TEXT: Cidade do México, sábado, 7 de novembro de 2026, das 10h às 18h
 
 RESOURCE ID: badge_gowa_2026_cdmx_addon_sunday
-TEXT: Mexico City, Sunday, November 8, 2026, 10:00 a.m. – 6:00 p.m.
+TEXT: Cidade do México, domingo, 8 de novembro de 2026, das 10h às 18h
 
 RESOURCE ID: badge_gowa_2026_cdmx_friday
-TEXT: Mexico City, Friday, November 6, 2026, 10:00 a.m. – 6:00 p.m.
+TEXT: Cidade do México, sexta-feira, 6 de novembro de 2026, das 10h às 18h
 
 RESOURCE ID: badge_gowa_2026_cdmx_saturday
-TEXT: Mexico City, Saturday, November 7, 2026, 10:00 a.m. – 6:00 p.m.
+TEXT: Cidade do México, sábado, 7 de novembro de 2026, das 10h às 18h
 
 RESOURCE ID: badge_gowa_2026_cdmx_sunday
-TEXT: Mexico City, Sunday, November 8, 2026, 10:00 a.m. – 6:00 p.m.
+TEXT: Cidade do México, domingo, 8 de novembro de 2026, das 10h às 18h
 
 RESOURCE ID: badge_gowa_2026_cdmx_test
 TEXT: Mexico City, November 6–8, 2026
@@ -13038,34 +13062,34 @@ RESOURCE ID: badge_gowa_2026_cdmx_test_addon_hatch
 TEXT: Mexico City, November 6–8, 2026
 
 RESOURCE ID: badge_gowa_2026_global
-TEXT: November 14–15, 2026
+TEXT: 14 a 15 de novembro de 2026
 
 RESOURCE ID: badge_gowa_2026_global_test
 TEXT: November 14–15, 2026
 
 RESOURCE ID: badge_gowa_2026_sendai_addon_battle
-TEXT: Sendai・Tohoku, November 6–8, 2026
+TEXT: Sendai・Tohoku, 6 a 8 de novembro de 2026
 
 RESOURCE ID: badge_gowa_2026_sendai_addon_friday
-TEXT: Sendai・Tohoku, Friday, November 6, 2026, 10:00 a.m. – 6:00 p.m.
+TEXT: Sendai・Tohoku, sexta-feira, 6 de novembro de 2026, das 10h às 18h
 
 RESOURCE ID: badge_gowa_2026_sendai_addon_hatch
-TEXT: Sendai・Tohoku, November 6–8, 2026
+TEXT: Sendai・Tohoku, 6 a 8 de novembro de 2026
 
 RESOURCE ID: badge_gowa_2026_sendai_addon_saturday
-TEXT: Sendai・Tohoku, Saturday, November 7, 2026, 10:00 a.m. – 6:00 p.m.
+TEXT: Sendai・Tohoku, sábado, 7 de novembro de 2026, das 10h às 18h
 
 RESOURCE ID: badge_gowa_2026_sendai_addon_sunday
-TEXT: Sendai・Tohoku, Sunday, November 8, 2026, 10:00 a.m. – 6:00 p.m.
+TEXT: Sendai・Tohoku, domingo, 8 de novembro de 2026, das 10h às 18h
 
 RESOURCE ID: badge_gowa_2026_sendai_friday
-TEXT: Sendai・Tohoku, Friday, November 6, 2026, 10:00 a.m. – 6:00 p.m.
+TEXT: Sendai・Tohoku, sexta-feira, 6 de novembro de 2026, das 10h às 18h
 
 RESOURCE ID: badge_gowa_2026_sendai_saturday
-TEXT: Sendai・Tohoku, Saturday, November 7, 2026, 10:00 a.m. – 6:00 p.m.
+TEXT: Sendai・Tohoku, sábado, 7 de novembro de 2026, das 10h às 18h
 
 RESOURCE ID: badge_gowa_2026_sendai_sunday
-TEXT: Sendai・Tohoku, Sunday, November 8, 2026, 10:00 a.m. – 6:00 p.m.
+TEXT: Sendai・Tohoku, domingo, 8 de novembro de 2026, das 10h às 18h
 
 RESOURCE ID: badge_gowa_2026_sendai_test
 TEXT: Sendai・Tohoku, November 6–8, 2026
@@ -13080,10 +13104,10 @@ RESOURCE ID: badge_gowa_2026_sendai_test_addon_hatch
 TEXT: Sendai・Tohoku, November 6–8, 2026
 
 RESOURCE ID: badge_gowa_2026_special_research_a
-TEXT: Pokémon GO Wild Area 2026
+TEXT: Área Selvagem do Pokémon GO 2026
 
 RESOURCE ID: badge_gowa_2026_special_research_b
-TEXT: Pokémon GO Wild Area 2026
+TEXT: Área Selvagem do Pokémon GO 2026
 
 RESOURCE ID: badge_gowa_electric_title
 TEXT: Eletricista
@@ -18769,7 +18793,7 @@ RESOURCE ID: bonus_10_daily_raid_passes
 TEXT: Receba até 10 Passes de Reide gratuitamente ao girar Fotodiscos de Ginásios
 
 RESOURCE ID: bonus_10k_egg_rate
-TEXT: Increased chance of receiving event-themed 10 km Eggs from spinning PokéStops or Gyms
+TEXT: Maior chance de receber Ovos de 10 km temáticos por girar Poképaradas ou Ginásios
 
 RESOURCE ID: bonus_10k_eggs_increased
 TEXT: Muito mais chances de obter Ovos de 10 km ao girar fotodiscos de Poképaradas ou Ginásios
@@ -32276,10 +32300,10 @@ RESOURCE ID: downloading_avatar_assets_warning_body
 TEXT: Ocorreu um problema ao baixar os arquivos. Certifique-se de ter uma conexão de rede estável e reinicie o jogo.
 
 RESOURCE ID: dragon_poi_spin_plural
-TEXT: Spin {0} Dragon type–themed PokéStops
+TEXT: Girar {0} Poképaradas temáticas de tipo Dragão.
 
 RESOURCE ID: dragon_poi_spin_singular
-TEXT: Spin a Dragon type–themed PokéStop
+TEXT: Girar 1 Poképarada temática de tipo Dragão.
 
 RESOURCE ID: dragon_type_event
 TEXT: Invasão de tipo: Dragão
@@ -50407,40 +50431,40 @@ RESOURCE ID: gowa_2025_sun_ticketed
 TEXT: Área Selvagem do Pokémon GO 2025: domingo durante o evento (ingresso)
 
 RESOURCE ID: gowa_2026
-TEXT: Pokémon GO Wild Area 2026
+TEXT: Área Selvagem do Pokémon GO 2026
 
 RESOURCE ID: gowa_2026_all_sat
-TEXT: Pokémon GO Wild Area 2026: All-Day Saturday
+TEXT: Área Selvagem do Pokémon GO 2026: sábado (o dia todo)
 
 RESOURCE ID: gowa_2026_all_sun
-TEXT: Pokémon GO Wild Area 2026: All-Day Sunday
+TEXT: Área Selvagem do Pokémon GO 2026: domingo (o dia todo)
 
 RESOURCE ID: gowa_2026_all_weekend
-TEXT: Pokémon GO Wild Area 2026: All Weekend
+TEXT: Área Selvagem do Pokémon GO 2026: durante todo o final de semana
 
 RESOURCE ID: gowa_2026_all_weekend_ticketed
-TEXT: Pokémon GO Wild Area 2026: All Weekend (Ticket)
+TEXT: Área Selvagem do Pokémon GO 2026: durante todo o final de semana (ingresso)
 
 RESOURCE ID: gowa_2026_cdmx
-TEXT: Pokémon GO Wild Area: Mexico City
+TEXT: Área Selvagem do Pokémon GO: Cidade do México
 
 RESOURCE ID: gowa_2026_cdmx_extended_bonus
-TEXT: Pokémon GO Wild Area: Mexico City – Extended Bonuses
+TEXT: Bônus Prolongados da Área Selvagem do Pokémon GO: Cidade do México
 
 RESOURCE ID: gowa_2026_content_hashtag
-TEXT: Post photos with #GOWildArea2026, and we’ll share our favorites!
+TEXT: Publique fotos com #GOWildArea2026 e compartilharemos as nossas favoritas!
 
 RESOURCE ID: gowa_2026_dragon_badge_candy_xl_bonus
-TEXT: One additional Candy XL from catching Dragon-type mighty Pokémon
+TEXT: 1 Doce GG adicional por pegar Pokémon incríveis de tipo Dragão
 
 RESOURCE ID: gowa_2026_dragon_badge_stardust_bonus
-TEXT: 1,000 additional Stardust from catching Dragon-type mighty Pokémon
+TEXT: 1.000 Poeira Estelar adicional por pegar Pokémon incríveis de tipo Dragão.
 
 RESOURCE ID: gowa_2026_fri_ticketed
-TEXT: Pokémon GO Wild Area 2026: All-Day Friday (Ticket)
+TEXT: Área Selvagem do Pokémon GO 2026: durante toda a sexta-feira (ingresso)
 
 RESOURCE ID: gowa_2026_global_extended_bonus
-TEXT: Pokémon GO Wild Area 2026 – Extended Bonuses
+TEXT: Bônus Prolongados da Área Selvagem do Pokémon GO 2026
 
 RESOURCE ID: gowa_2026_global_sr_0_0
 TEXT: Hey there, %PLAYERNAME%! I’m glad you’re here—something remarkable is happening in the area!
@@ -50602,37 +50626,37 @@ RESOURCE ID: gowa_2026_global_sr_steel_6_4
 TEXT: And never forget that I’ll be here to cheer you on the whole way!
 
 RESOURCE ID: gowa_2026_habitat_cc_description
-TEXT: Catch event Pokémon!
+TEXT: Pegue Pokémon de evento!
 
 RESOURCE ID: gowa_2026_habitat_global_cc_saturday
-TEXT: Wild Area Collection Challenge: Saturday
+TEXT: Desafio de Coleção da Área Selvagem: sábado
 
 RESOURCE ID: gowa_2026_habitat_global_cc_sunday
-TEXT: Wild Area Collection Challenge: Sunday
+TEXT: Desafio de Coleção da Área Selvagem: domingo
 
 RESOURCE ID: gowa_2026_habitat_now_dragon
-TEXT: Happening now: Daring as Dragons Hour
+TEXT: Acontecendo agora: Hora de Determinação de Dragão
 
 RESOURCE ID: gowa_2026_habitat_now_steel
-TEXT: Happening now: Solid as Steel Hour
+TEXT: Acontecendo agora: Hora de Sólido como Aço
 
 RESOURCE ID: gowa_2026_irl_cc_cdmx_friday
-TEXT: GO Wild Area: Mexico City Collection Challenge
+TEXT: Área Selvagem GO: Desafio de Coleção da Cidade do México
 
 RESOURCE ID: gowa_2026_irl_cc_cdmx_saturday
-TEXT: GO Wild Area: Mexico City Collection Challenge
+TEXT: Área Selvagem GO: Desafio de Coleção da Cidade do México
 
 RESOURCE ID: gowa_2026_irl_cc_cdmx_sunday
-TEXT: GO Wild Area: Mexico City Collection Challenge
+TEXT: Área Selvagem GO: Desafio de Coleção da Cidade do México
 
 RESOURCE ID: gowa_2026_irl_cc_sendai_friday
-TEXT: GO Wild Area: Sendai・Tohoku Collection Challenge
+TEXT: Área Selvagem GO: Desafio de Coleção de Sendai・Tohoku
 
 RESOURCE ID: gowa_2026_irl_cc_sendai_saturday
-TEXT: GO Wild Area: Sendai・Tohoku Collection Challenge
+TEXT: Área Selvagem GO: Desafio de Coleção de Sendai・Tohoku
 
 RESOURCE ID: gowa_2026_irl_cc_sendai_sunday
-TEXT: GO Wild Area: Sendai・Tohoku Collection Challenge
+TEXT: Área Selvagem GO: Desafio de Coleção de Sendai・Tohoku
 
 RESOURCE ID: gowa_2026_irl_sr_0_0
 TEXT: %PLAYERNAME%! Excellent to see you, and great timing. Something extraordinary is afoot!
@@ -50722,28 +50746,28 @@ RESOURCE ID: gowa_2026_irl_sr_5_4
 TEXT: How exciting is that?! Anyhow, onward, %PLAYERNAME%! Our greatest discoveries are still ahead of us!
 
 RESOURCE ID: gowa_2026_sat
-TEXT: Pokémon GO Wild Area 2026: Saturday Event Hours
+TEXT: Área Selvagem do Pokémon GO 2026: sábado (durante o evento)
 
 RESOURCE ID: gowa_2026_sat_ticketed
-TEXT: Pokémon GO Wild Area 2026: Saturday Event Hours (Ticket)
+TEXT: Área Selvagem do Pokémon GO 2026: sábado durante o evento (ingresso)
 
 RESOURCE ID: gowa_2026_sendai
-TEXT: Pokémon GO Wild Area: Sendai・Tohoku
+TEXT: Área Selvagem do Pokémon GO: Sendai・Tohoku
 
 RESOURCE ID: gowa_2026_sendai_extended_bonus
-TEXT: Pokémon GO Wild Area: Sendai・Tohoku – Extended Bonuses
+TEXT: Bônus Prolongados da Área Selvagem do Pokémon GO: Sendai・Tohoku
 
 RESOURCE ID: gowa_2026_steel_badge_candy_xl_bonus
-TEXT: One additional Candy XL from catching Steel-type mighty Pokémon
+TEXT: 1 Doce GG adicional por pegar Pokémon incríveis de tipo Aço
 
 RESOURCE ID: gowa_2026_steel_badge_stardust_bonus
-TEXT: 1,000 additional Stardust from catching Steel-type mighty Pokémon
+TEXT: 1.000 Poeira Estelar adicional por pegar Pokémon incríveis de tipo Aço
 
 RESOURCE ID: gowa_2026_sun
-TEXT: Pokémon GO Wild Area 2026: Sunday Event Hours
+TEXT: Área Selvagem do Pokémon GO 2026: domingo (durante o evento)
 
 RESOURCE ID: gowa_2026_sun_ticketed
-TEXT: Pokémon GO Wild Area 2026: Sunday Event Hours (Ticket)
+TEXT: Área Selvagem do Pokémon GO 2026: domingo durante o evento (ingresso)
 
 RESOURCE ID: gowa2024
 TEXT: Área Selvagem do Pokémon GO 2024
@@ -63238,10 +63262,10 @@ at SHA 4d4f3e80cc7fb911006bd14d198c9831ef66d005
 Pipeline 339838, job 2672172
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-10-09T02:08:54.953841+00:00 for pt-BR
-at SHA e1629afd832
-Pipeline 4009579, job 59072788
-Patch from: 0.431.0-SHA-ecb3d867-RC5, 0.433.0-SHA-a810fd7d-RC2
+TEXT: Built at 2026-10-10T01:30:09.155088+00:00 for pt-BR
+at SHA 59b2e4089cd
+Pipeline 4012512, job 59119892
+Patch from: 0.431.0-SHA-ecb3d867-RC5, 0.433.0-SHA-d37b1aa1-RC1
 
 RESOURCE ID: meteor_title_1
 TEXT: CHUVA DE METEOROS
@@ -85964,7 +85988,7 @@ RESOURCE ID: quest_buddy_affection_days_in_a_row
 TEXT: Ganhar 1 coração com seu companheiro {0} dias seguidos.
 
 RESOURCE ID: quest_buddy_affection_dragon_plural
-TEXT: Earn {0} hearts with a Dragon-type buddy
+TEXT: Ganhar {0} corações com um companheiro de tipo Dragão.
 
 RESOURCE ID: quest_buddy_affection_electric_plural
 TEXT: Ganhar {0} corações com um companheiro de tipo Elétrico.
@@ -85982,7 +86006,7 @@ RESOURCE ID: quest_buddy_affection_poison_singular
 TEXT: Ganhar 1 coração com um companheiro de tipo Venenoso.
 
 RESOURCE ID: quest_buddy_affection_steel_plural
-TEXT: Earn {0} hearts with a Steel-type buddy
+TEXT: Ganhar {0} corações com um companheiro de tipo Aço.
 
 RESOURCE ID: quest_buddy_affection_zeraora_plural
 TEXT: Ganhar {0} corações com Zeraora como seu companheiro.
@@ -89379,7 +89403,7 @@ RESOURCE ID: quest_explore_buddy_dark
 TEXT: Ganhar 1 Doce explorando com um Pokémon de tipo Sombrio como seu companheiro.
 
 RESOURCE ID: quest_explore_buddy_dragon
-TEXT: Earn a Candy exploring with a Dragon type as your buddy
+TEXT: Ganhar 1 Doce explorando com um Pokémon de tipo Dragão como seu companheiro.
 
 RESOURCE ID: quest_explore_buddy_electric
 TEXT: Ganhar 1 Doce explorando com um Pokémon de tipo Elétrico como seu companheiro.
@@ -89394,7 +89418,7 @@ RESOURCE ID: quest_explore_buddy_poison
 TEXT: Ganhar 1 Doce explorando com um Pokémon de tipo Venenoso como seu companheiro.
 
 RESOURCE ID: quest_explore_buddy_steel
-TEXT: Earn a Candy exploring with a Steel type as your buddy
+TEXT: Ganhar 1 Doce explorando com um Pokémon de tipo Aço como seu companheiro.
 
 RESOURCE ID: quest_explore_buddy_routes_plural
 TEXT: Ganhar {0} doces explorando Rotas com seu companheiro.
@@ -125646,10 +125670,10 @@ RESOURCE ID: steel_and_scales_event_name
 TEXT: Ultrabônus: Aço e Escamas
 
 RESOURCE ID: steel_poi_spin_plural
-TEXT: Spin {0} Steel type–themed PokéStops
+TEXT: Girar {0} Poképaradas temáticas de tipo Aço.
 
 RESOURCE ID: steel_poi_spin_singular
-TEXT: Spin a Steel type–themed PokéStop
+TEXT: Girar 1 Poképarada temática de tipo Aço.
 
 RESOURCE ID: steel_scales_uu_july2025_cc_bagon
 TEXT: Desafio de Coleção de Aço e Escamas: Bagon

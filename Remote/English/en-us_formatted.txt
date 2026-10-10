@@ -5158,6 +5158,9 @@ TEXT: Minnesota Twins Cap
 RESOURCE ID: avatar_hat_mlbwhitesox
 TEXT: Chicago White Sox Cap
 
+RESOURCE ID: avatar_hat_nflhelmet-arizonacardinals
+TEXT: Arizona Helmet
+
 RESOURCE ID: avatar_hat_partyhat
 TEXT: Party Hat
 
@@ -7620,6 +7623,9 @@ TEXT: Grimsley-Style Pants
 RESOURCE ID: avatar_pants_grusha
 TEXT: Grusha-Style Pants
 
+RESOURCE ID: avatar_pants_halloween2026
+TEXT: Patissier Pants
+
 RESOURCE ID: avatar_pants_mustard
 TEXT: Mustard-Style Pants
 
@@ -7785,6 +7791,12 @@ TEXT: GO Fest 2026 Tee (Purple)
 RESOURCE ID: avatar_shirt_gofest2026zeraora
 TEXT: Zeraora T-Shirt
 
+RESOURCE ID: avatar_shirt_gothiclolitashorts
+TEXT: Gothic Shorts Set
+
+RESOURCE ID: avatar_shirt_gothiclolitaskirt
+TEXT: Gothic Skirt Set
+
 RESOURCE ID: avatar_shirt_gotour2025black
 TEXT: GO Tour 2025 Tee (Black)
 
@@ -7803,6 +7815,9 @@ TEXT: Grusha-Style Jacket
 RESOURCE ID: avatar_shirt_halloween2024
 TEXT: Halloween Finery
 
+RESOURCE ID: avatar_shirt_halloween2026
+TEXT: Patissier Top
+
 RESOURCE ID: avatar_shirt_marshtompsweater
 TEXT: Marshtomp Sweater
 
@@ -7820,6 +7835,9 @@ TEXT: Morpeko Onesie (Hangry Mode)
 
 RESOURCE ID: avatar_shirt_mustard
 TEXT: Mustard-Style Jacket
+
+RESOURCE ID: avatar_shirt_nightout
+TEXT: Pokémon Night Out Baseball Jersey
 
 RESOURCE ID: avatar_shirt_plaidtop
 TEXT: Plaid Top
@@ -7988,6 +8006,9 @@ TEXT: Allister-Style Shoes
 RESOURCE ID: avatar_shoes_gblgrimsley
 TEXT: Grimsley-Style Shoes
 
+RESOURCE ID: avatar_shoes_gothiclolita
+TEXT: Gothic Boots
+
 RESOURCE ID: avatar_shoes_grusha
 TEXT: Grusha-Style Shoes
 
@@ -8035,6 +8056,9 @@ TEXT: Recent
 
 RESOURCE ID: avatar_shop_filter_type_text
 TEXT: Type
+
+RESOURCE ID: avatar_socks_gothiclolita
+TEXT: Gothic Socks
 
 RESOURCE ID: avatar_style_unlocked
 TEXT: New style added!
@@ -62933,10 +62957,10 @@ at SHA 4d4f3e80cc7fb911006bd14d198c9831ef66d005
 Pipeline 339838, job 2672172
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-10-09T02:08:54.953841+00:00 for en-US
-at SHA e1629afd832
-Pipeline 4009579, job 59072788
-Patch from: 0.431.0-SHA-ecb3d867-RC5, 0.433.0-SHA-a810fd7d-RC2
+TEXT: Built at 2026-10-10T01:30:09.155088+00:00 for en-US
+at SHA 59b2e4089cd
+Pipeline 4012512, job 59119892
+Patch from: 0.431.0-SHA-ecb3d867-RC5, 0.433.0-SHA-d37b1aa1-RC1
 
 RESOURCE ID: meteor_title_1
 TEXT: METEOR SHOWER

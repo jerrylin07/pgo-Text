@@ -5276,6 +5276,9 @@ TEXT: หมวกแก๊ปมินนิโซตา ทวินส์
 RESOURCE ID: avatar_hat_mlbwhitesox
 TEXT: หมวกแก๊ปชิคาโก ไวท์ ซอกซ์
 
+RESOURCE ID: avatar_hat_nflhelmet-arizonacardinals
+TEXT: หมวกกันน็อก Arizona
+
 RESOURCE ID: avatar_hat_partyhat
 TEXT: หมวกปาร์ตี้
 
@@ -7791,6 +7794,9 @@ TEXT: กางเกงสไตล์กีมะ
 RESOURCE ID: avatar_pants_grusha
 TEXT: กางเกงกรูชา
 
+RESOURCE ID: avatar_pants_halloween2026
+TEXT: กางเกงเชฟทำขนม
+
 RESOURCE ID: avatar_pants_mustard
 TEXT: กางเกงสไตล์มัสตาร์ด
 
@@ -7957,6 +7963,12 @@ TEXT: เสื้อยืด GO Fest 2026 (สีม่วง)
 RESOURCE ID: avatar_shirt_gofest2026zeraora
 TEXT: เสื้อยืดเซราโอรา
 
+RESOURCE ID: avatar_shirt_gothiclolitashorts
+TEXT: ชุดกางเกงฮาโลวีน
+
+RESOURCE ID: avatar_shirt_gothiclolitaskirt
+TEXT: ชุดกระโปรงฮาโลวีน
+
 RESOURCE ID: avatar_shirt_gotour2025black
 TEXT: เสื้อยืด GO Tour 2025 (Black)
 
@@ -7975,6 +7987,9 @@ TEXT: เสื้อกรูชา
 RESOURCE ID: avatar_shirt_halloween2024
 TEXT: เสื้อเบลาส์ฮาโลวีน
 
+RESOURCE ID: avatar_shirt_halloween2026
+TEXT: เสื้อเชฟทำขนม
+
 RESOURCE ID: avatar_shirt_marshtompsweater
 TEXT: เสื้อกันหนาวนูมาโคร
 
@@ -7992,6 +8007,9 @@ TEXT: ชุดคอสเพลย์โมรุเปโกะ (ร่าง
 
 RESOURCE ID: avatar_shirt_mustard
 TEXT: เสื้อสไตล์มัสตาร์ด
+
+RESOURCE ID: avatar_shirt_nightout
+TEXT: เสื้อกีฬา Pokémon Night Out
 
 RESOURCE ID: avatar_shirt_plaidtop
 TEXT: เสื้อลายตาราง
@@ -8160,6 +8178,9 @@ TEXT: รองเท้าสไตล์ออเนียน
 RESOURCE ID: avatar_shoes_gblgrimsley
 TEXT: รองเท้าสไตล์กีมะ
 
+RESOURCE ID: avatar_shoes_gothiclolita
+TEXT: รองเท้าบู๊ตฮาโลวีน
+
 RESOURCE ID: avatar_shoes_grusha
 TEXT: รองเท้ากรูชา
 
@@ -8209,6 +8230,9 @@ TEXT: ล่าสุด
 
 RESOURCE ID: avatar_shop_filter_type_text
 TEXT: ประเภท
+
+RESOURCE ID: avatar_socks_gothiclolita
+TEXT: ถุงเท้าฮาโลวีน
 
 RESOURCE ID: avatar_style_unlocked
 TEXT: ได้รับสไตล์ใหม่!
@@ -67718,10 +67742,10 @@ at SHA da71d231c41a4d4f7aef0d6fd71061652ff15a0a
 Pipeline 441624, job 3600523
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-10-09T02:08:54.953841+00:00 for th-TH
-at SHA e1629afd832
-Pipeline 4009579, job 59072788
-Patch from: 0.431.0-SHA-ecb3d867-RC5, 0.433.0-SHA-a810fd7d-RC2
+TEXT: Built at 2026-10-10T01:30:09.155088+00:00 for th-TH
+at SHA 59b2e4089cd
+Pipeline 4012512, job 59119892
+Patch from: 0.431.0-SHA-ecb3d867-RC5, 0.433.0-SHA-d37b1aa1-RC1
 
 RESOURCE ID: meteor_title_1
 TEXT: ฝนดาวตก

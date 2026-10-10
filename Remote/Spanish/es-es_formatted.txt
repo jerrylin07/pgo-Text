@@ -748,7 +748,7 @@ RESOURCE ID: advanced_settings_streamer_mode_toggle_description
 TEXT: Habilita esta función para ocultar la ubicación de la captura de los Pokémon durante 8 horas.
 
 RESOURCE ID: adventure_effect_activation_lobby_active
-TEXT: This Adventure Effect is currently active.
+TEXT: Este Efecto aventura está activo actualmente.
 
 RESOURCE ID: adventure_effect_incense_table_header
 TEXT: Pokémon atraídos por el Incienso
@@ -5482,6 +5482,9 @@ TEXT: Gorra de Minnesota Twins
 RESOURCE ID: avatar_hat_mlbwhitesox
 TEXT: Gorra de Chicago White Sox
 
+RESOURCE ID: avatar_hat_nflhelmet-arizonacardinals
+TEXT: casco Arizona
+
 RESOURCE ID: avatar_hat_partyhat
 TEXT: Sombrero de fiesta
 
@@ -8264,6 +8267,9 @@ TEXT: Pantalones estilo Aza
 RESOURCE ID: avatar_pants_grusha
 TEXT: Pantalones estilo Grusha
 
+RESOURCE ID: avatar_pants_halloween2026
+TEXT: pantalones de pastelero
+
 RESOURCE ID: avatar_pants_mustard
 TEXT: Pantalones estilo Mostaz
 
@@ -8429,6 +8435,12 @@ TEXT: Camiseta morada del Festival de GO 2026
 RESOURCE ID: avatar_shirt_gofest2026zeraora
 TEXT: Camiseta de Zeraora 
 
+RESOURCE ID: avatar_shirt_gothiclolitashorts
+TEXT: conjunto de pantalones cortos góticos
+
+RESOURCE ID: avatar_shirt_gothiclolitaskirt
+TEXT: conjunto de falda gótica
+
 RESOURCE ID: avatar_shirt_gotour2025black
 TEXT: Camiseta del Tour de GO 2025 (negra)
 
@@ -8447,6 +8459,9 @@ TEXT: Chaqueta estilo Grusha
 RESOURCE ID: avatar_shirt_halloween2024
 TEXT: Galas finas de Halloween
 
+RESOURCE ID: avatar_shirt_halloween2026
+TEXT: camisa de pastelero
+
 RESOURCE ID: avatar_shirt_marshtompsweater
 TEXT: Suéter de Marshtomp
 
@@ -8464,6 +8479,9 @@ TEXT: Mono de Morpeko (Forma Voraz)
 
 RESOURCE ID: avatar_shirt_mustard
 TEXT: Chaqueta estilo Mostaz
+
+RESOURCE ID: avatar_shirt_nightout
+TEXT: camiseta de béisbol de Noche Electrizante Pokémon
 
 RESOURCE ID: avatar_shirt_plaidtop
 TEXT: Chaqueta a cuadros
@@ -8632,6 +8650,9 @@ TEXT: Calzado estilo Alistair
 RESOURCE ID: avatar_shoes_gblgrimsley
 TEXT: Zapatos estilo Aza
 
+RESOURCE ID: avatar_shoes_gothiclolita
+TEXT: botas góticas
+
 RESOURCE ID: avatar_shoes_grusha
 TEXT: Botas estilo Grusha
 
@@ -8679,6 +8700,9 @@ TEXT: Recientes
 
 RESOURCE ID: avatar_shop_filter_type_text
 TEXT: Tipo
+
+RESOURCE ID: avatar_socks_gothiclolita
+TEXT: calcetines góticos
 
 RESOURCE ID: avatar_style_unlocked
 TEXT: ¡Nuevo estilo añadido!
@@ -50990,10 +51014,10 @@ RESOURCE ID: gowa_2026_habitat_global_cc_sunday
 TEXT: Desafío de colección del Área Silvestre: Domingo
 
 RESOURCE ID: gowa_2026_habitat_now_dragon
-TEXT: Ahora: Hora del temple de acero
+TEXT: Ahora: Hora de la valentía dracónica
 
 RESOURCE ID: gowa_2026_habitat_now_steel
-TEXT: Ahora: Hora de la valentía dracónica
+TEXT: Ahora: Hora del temple de acero 
 
 RESOURCE ID: gowa_2026_irl_cc_cdmx_friday
 TEXT: Desafío de colección del Área Silvestre de GO: Ciudad de México
@@ -63616,10 +63640,10 @@ at SHA 4d4f3e80cc7fb911006bd14d198c9831ef66d005
 Pipeline 339838, job 2672172
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-10-09T02:08:54.953841+00:00 for es-ES
-at SHA e1629afd832
-Pipeline 4009579, job 59072788
-Patch from: 0.431.0-SHA-ecb3d867-RC5, 0.433.0-SHA-a810fd7d-RC2
+TEXT: Built at 2026-10-10T01:30:09.155088+00:00 for es-ES
+at SHA 59b2e4089cd
+Pipeline 4012512, job 59119892
+Patch from: 0.431.0-SHA-ecb3d867-RC5, 0.433.0-SHA-d37b1aa1-RC1
 
 RESOURCE ID: meteor_title_1
 TEXT: LLUVIA DE METEORITOS

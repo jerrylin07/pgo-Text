@@ -5311,6 +5311,9 @@ TEXT: Gorra de Mellizos de Minnesota
 RESOURCE ID: avatar_hat_mlbwhitesox
 TEXT: Gorra de Medias Blancas de Chicago
 
+RESOURCE ID: avatar_hat_nflhelmet-arizonacardinals
+TEXT: Casco Arizona
+
 RESOURCE ID: avatar_hat_partyhat
 TEXT: Sombrero de fiesta
 
@@ -7930,6 +7933,9 @@ TEXT: Pantalones estilo Grimsley
 RESOURCE ID: avatar_pants_grusha
 TEXT: Pantalones estilo Grusha
 
+RESOURCE ID: avatar_pants_halloween2026
+TEXT: Pantalones de pastelería
+
 RESOURCE ID: avatar_pants_mustard
 TEXT: Pantalones estilo Mostaz
 
@@ -8095,6 +8101,12 @@ TEXT: Camiseta morada del Festival de GO 2026
 RESOURCE ID: avatar_shirt_gofest2026zeraora
 TEXT: Camiseta de Zeraora
 
+RESOURCE ID: avatar_shirt_gothiclolitashorts
+TEXT: Conjunto con pantalón corto gótico
+
+RESOURCE ID: avatar_shirt_gothiclolitaskirt
+TEXT: Conjunto con falda gótica
+
 RESOURCE ID: avatar_shirt_gotour2025black
 TEXT: Camiseta del Tour de GO 2025 (Black)
 
@@ -8113,6 +8125,9 @@ TEXT: Chamarra estilo Grusha
 RESOURCE ID: avatar_shirt_halloween2024
 TEXT: Ropa elegante de Halloween
 
+RESOURCE ID: avatar_shirt_halloween2026
+TEXT: Camisa de pastelería
+
 RESOURCE ID: avatar_shirt_marshtompsweater
 TEXT: Suéter de Marshtomp
 
@@ -8130,6 +8145,9 @@ TEXT: Overol de Morpeko (Forma Voraz)
 
 RESOURCE ID: avatar_shirt_mustard
 TEXT: Chamarra estilo Mostaz
+
+RESOURCE ID: avatar_shirt_nightout
+TEXT: Camiseta de béisbol de Noche Electrizante Pokémon
 
 RESOURCE ID: avatar_shirt_plaidtop
 TEXT: Abrigo de cuadros
@@ -8298,6 +8316,9 @@ TEXT: Zapatos estilo Alistair
 RESOURCE ID: avatar_shoes_gblgrimsley
 TEXT: Zapatos estilo Grimsley
 
+RESOURCE ID: avatar_shoes_gothiclolita
+TEXT: Botas góticas
+
 RESOURCE ID: avatar_shoes_grusha
 TEXT: Botas estilo Grusha
 
@@ -8345,6 +8366,9 @@ TEXT: Recientes
 
 RESOURCE ID: avatar_shop_filter_type_text
 TEXT: Tipo
+
+RESOURCE ID: avatar_socks_gothiclolita
+TEXT: Calcetines góticos
 
 RESOURCE ID: avatar_style_unlocked
 TEXT: ¡Nuevo estilo añadido!
@@ -60737,10 +60761,10 @@ at SHA 0b3915937aff7
 Pipeline 2177475, job 26434025
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-10-09T02:08:54.953841+00:00 for es-MX
-at SHA e1629afd832
-Pipeline 4009579, job 59072788
-Patch from: 0.431.0-SHA-ecb3d867-RC5, 0.433.0-SHA-a810fd7d-RC2
+TEXT: Built at 2026-10-10T01:30:09.155088+00:00 for es-MX
+at SHA 59b2e4089cd
+Pipeline 4012512, job 59119892
+Patch from: 0.431.0-SHA-ecb3d867-RC5, 0.433.0-SHA-d37b1aa1-RC1
 
 RESOURCE ID: meteor_title_1
 TEXT: LLUVIA DE METEOROS
@@ -61013,70 +61037,70 @@ RESOURCE ID: month_apr
 TEXT: Abr
 
 RESOURCE ID: month_april
-TEXT: April
+TEXT: abril
 
 RESOURCE ID: month_aug
 TEXT: Ago
 
 RESOURCE ID: month_august
-TEXT: August
+TEXT: agosto
 
 RESOURCE ID: month_dec
 TEXT: Dic
 
 RESOURCE ID: month_december
-TEXT: December
+TEXT: diciembre
 
 RESOURCE ID: month_feb
 TEXT: Feb
 
 RESOURCE ID: month_february
-TEXT: February
+TEXT: febrero
 
 RESOURCE ID: month_jan
 TEXT: Ene
 
 RESOURCE ID: month_january
-TEXT: January
+TEXT: enero
 
 RESOURCE ID: month_jul
 TEXT: Jul
 
 RESOURCE ID: month_july
-TEXT: July
+TEXT: julio
 
 RESOURCE ID: month_jun
 TEXT: Jun
 
 RESOURCE ID: month_june
-TEXT: June
+TEXT: junio
 
 RESOURCE ID: month_mar
 TEXT: Mar
 
 RESOURCE ID: month_march
-TEXT: March
+TEXT: marzo
 
 RESOURCE ID: month_may
-TEXT: May
+TEXT: mayo
 
 RESOURCE ID: month_nov
 TEXT: Nov
 
 RESOURCE ID: month_november
-TEXT: November
+TEXT: noviembre
 
 RESOURCE ID: month_oct
 TEXT: Oct
 
 RESOURCE ID: month_october
-TEXT: October
+TEXT: octubre
 
 RESOURCE ID: month_sep
 TEXT: Sep
 
 RESOURCE ID: month_september
-TEXT: September
+TEXT: septiembre
 
 RESOURCE ID: moongeist_beam_adventure_effects_mapview_dialog
 TEXT: Emite un rayo misterioso. Atrae Pokémon nocturnos y permite la evolución nocturna durante el día.
@@ -118935,7 +118959,7 @@ RESOURCE ID: soft_sfida_desc_pokemon_full
 TEXT: Puedes transferir Pokémon al Profesor Willow o aumentar tu almacenamiento de Pokémon.
 
 RESOURCE ID: soft_sfida_alert_pokemon_storage
-TEXT: Your Pokémon storage is full.
+TEXT: Tu almacenamiento de Pokémon está lleno.
 
 RESOURCE ID: soft_sfida_btn_cancel
 TEXT: Cancelar
@@ -119125,13 +119149,13 @@ RESOURCE ID: soft_sfida_title_resume
 TEXT: Artefacto de Exploración pausado.
 
 RESOURCE ID: soft_sfida_title_items_full
-TEXT: La Bolsa está llena.
+TEXT: Tu Bolsa está llena.
 
 RESOURCE ID: soft_sfida_title_items_full_out
 TEXT: Llena
 
 RESOURCE ID: soft_sfida_title_items_full_no_pokeballs
-TEXT: La Bolsa está llena y no tiene Pokébolas.
+TEXT: Tu Bolsa está llena y no tiene Pokébolas.
 
 RESOURCE ID: soft_sfida_title_no_pokeballs
 TEXT: No te quedan Pokébolas.
@@ -132819,7 +132843,7 @@ RESOURCE ID: username_suggestion_disclaimer_change_name
 TEXT: Puedes cambiar tu apodo una vez.
 
 RESOURCE ID: username_suggestion_disclaimer_new_user
-TEXT: Puedes cambiar tu apodo más tarde.
+TEXT: Consejo: No uses tu nombre real, ya que será visible para otros Entrenadores. Podrás modificar este nombre más adelante.
 
 RESOURCE ID: username_suggestion_name_looks_good_banned_name
 TEXT: ¡Se ve bien!

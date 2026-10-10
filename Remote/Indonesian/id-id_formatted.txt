@@ -995,13 +995,13 @@ RESOURCE ID: air_adventures_yogyakarta_sr_title_04
 TEXT: Pikachu’s Indonesia Journey: Yogyakarta (5/5)
 
 RESOURCE ID: allow_gift_list_prompt_title
-TEXT: Allow paid gifts?
+TEXT: Izinkan hadiah berbayar?
 
 RESOURCE ID: allow_gift_list_prompt_desc
-TEXT: If you select Allow, this friend will be able to send you paid gifts again.
+TEXT: Jika kamu memilih Izinkan, teman ini bisa mengirimkan hadiah berbayar lagi kepadamu.
 
 RESOURCE ID: allow_gift_list_prompt_button_label
-TEXT: YES, ALLOW
+TEXT: YA, IZINKAN
 
 RESOURCE ID: allow_notifications_prompt_message
 TEXT: To improve your gameplay experience, allow Pokémon GO to access notifications.
@@ -5131,6 +5131,9 @@ TEXT: Topi Minnesota Twins
 RESOURCE ID: avatar_hat_mlbwhitesox
 TEXT: Topi Chicago White Sox
 
+RESOURCE ID: avatar_hat_nflhelmet-arizonacardinals
+TEXT: Helm Arizona
+
 RESOURCE ID: avatar_hat_partyhat
 TEXT: Topi Pesta
 
@@ -7567,6 +7570,9 @@ TEXT: Celana Bergaya Grimsley
 RESOURCE ID: avatar_pants_grusha
 TEXT: Celana Bergaya Grusha
 
+RESOURCE ID: avatar_pants_halloween2026
+TEXT: Celana Patiseri
+
 RESOURCE ID: avatar_pants_mustard
 TEXT: Celana Mustard
 
@@ -7732,6 +7738,12 @@ TEXT: Kaus GO Fest 2026 (Ungu)
 RESOURCE ID: avatar_shirt_gofest2026zeraora
 TEXT: Kaus Zeraora
 
+RESOURCE ID: avatar_shirt_gothiclolitashorts
+TEXT: Setelan Celana Gotik
+
+RESOURCE ID: avatar_shirt_gothiclolitaskirt
+TEXT: Setelan Rok Gotik
+
 RESOURCE ID: avatar_shirt_gotour2025black
 TEXT: Kaus Tur GO 2025 (Hitam)
 
@@ -7750,6 +7762,9 @@ TEXT: Atasan Bergaya Grusha
 RESOURCE ID: avatar_shirt_halloween2024
 TEXT: Kostum Halloween Elegan
 
+RESOURCE ID: avatar_shirt_halloween2026
+TEXT: Atasan Patiseri
+
 RESOURCE ID: avatar_shirt_marshtompsweater
 TEXT: Sweter Marshtomp
 
@@ -7767,6 +7782,9 @@ TEXT: Kostum Morpeko (Pola Lapar)
 
 RESOURCE ID: avatar_shirt_mustard
 TEXT: Jaket Mustard
+
+RESOURCE ID: avatar_shirt_nightout
+TEXT: Jersi Baseball Pokémon Night Out
 
 RESOURCE ID: avatar_shirt_plaidtop
 TEXT: Atasan Pola Kotak-kotak
@@ -7935,6 +7953,9 @@ TEXT: Sepatu Gaya Allister
 RESOURCE ID: avatar_shoes_gblgrimsley
 TEXT: Sepatu Bergaya Grimsley
 
+RESOURCE ID: avatar_shoes_gothiclolita
+TEXT: Sepatu Bot Gotik
+
 RESOURCE ID: avatar_shoes_grusha
 TEXT: Sepatu Bergaya Grusha
 
@@ -7982,6 +8003,9 @@ TEXT: Terbaru
 
 RESOURCE ID: avatar_shop_filter_type_text
 TEXT: Tipe
+
+RESOURCE ID: avatar_socks_gothiclolita
+TEXT: Kaus Kaki Gotik
 
 RESOURCE ID: avatar_style_unlocked
 TEXT: Mendapatkan gaya baru!
@@ -28392,7 +28416,7 @@ RESOURCE ID: concierge_promo_tr_name
 TEXT: Bonus Penelitian Berwaktu Pokémon Concierge
 
 RESOURCE ID: confirm_gift_purchase_v2_reward_points_prefix
-TEXT: You will receive
+TEXT: Kamu akan menerima
 
 RESOURCE ID: confirm_send_button
 TEXT: KIRIM
@@ -39366,10 +39390,10 @@ RESOURCE ID: generic_contact_support
 TEXT: How to Share Game Logs
 
 RESOURCE ID: generic_event_pass_premium_unlock
-TEXT: GO Pass Deluxe
+TEXT: Tiket GO Luks
 
 RESOURCE ID: generic_event_pass_premium_unlock_plus_points
-TEXT: GO Pass Deluxe + Ranks
+TEXT: Tiket GO Luks + Rank
 
 RESOURCE ID: generic_player_lockout
 TEXT: Akun telah ditangguhkan karena melanggar Persyaratan Layanan.
@@ -39516,9 +39540,9 @@ Your gift was not delivered because the intended recipient obtained the same eve
 If you would like a refund instead, you can request one through the app store.
 
 RESOURCE ID: gifting_error_description_temp
-TEXT: Unfortunately, this friend cannot receive this paid gift. This can happen for a variety of reasons.
+TEXT: Sayangnya, teman ini tidak bisa menerima hadiah berbayar ini. Hal ini bisa terjadi karena berbagai alasan.
 
-You can choose a new friend to send this to now.
+Kamu bisa memilih teman lain untuk menerima hadiah ini sekarang.
 
 RESOURCE ID: gifting_error_refund_button
 TEXT: REQUEST REFUND
@@ -50454,7 +50478,7 @@ RESOURCE ID: iap_category_team_change
 TEXT: Perubahan Tim
 
 RESOURCE ID: iap_friend_picker_last_sent
-TEXT: Last Sent
+TEXT: Penerima Terakhir
 
 RESOURCE ID: iap_item_unavailable
 TEXT: Alat ini tidak bisa dibeli lagi.
@@ -53799,10 +53823,10 @@ RESOURCE ID: item_incubator_timed_name
 TEXT: Mesin Penetas Berwaktu
 
 RESOURCE ID: item_inventory_paid_gift_banner_title
-TEXT: You have paid gifts!
+TEXT: Kamu punya hadiah berbayar!
 
 RESOURCE ID: item_inventory_paid_gift_banner_subtitle
-TEXT: Send to your Friends?
+TEXT: Kirimkan ke temanmu?
 
 RESOURCE ID: item_item_pack_desc
 TEXT: Meningkatkan kapasitas Tas Item.
@@ -60574,10 +60598,10 @@ at SHA 12701f1c07ae7f07a5d50583f697320977df7988
 Pipeline 1139111, job 13470914
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-10-09T02:08:54.953841+00:00 for id-ID
-at SHA e1629afd832
-Pipeline 4009579, job 59072788
-Patch from: 0.431.0-SHA-ecb3d867-RC5, 0.433.0-SHA-a810fd7d-RC2
+TEXT: Built at 2026-10-10T01:30:09.155088+00:00 for id-ID
+at SHA 59b2e4089cd
+Pipeline 4012512, job 59119892
+Patch from: 0.431.0-SHA-ecb3d867-RC5, 0.433.0-SHA-d37b1aa1-RC1
 
 RESOURCE ID: meteor_title_1
 TEXT: HUJAN METEOR
@@ -66723,19 +66747,19 @@ RESOURCE ID: ozone_ascent_free_timed_research
 TEXT: Penelitian Berwaktu Menjulang ke Ozon
 
 RESOURCE ID: paid_gift_already_purchased_modal_title
-TEXT: You have already purchased this paid gift.
+TEXT: Kamu telah membeli hadiah berbayar ini.
 
 RESOURCE ID: paid_gift_already_purchased_modal_button
-TEXT: GO TO INVENTORY
+TEXT: KE TAS ITEM
 
 RESOURCE ID: paid_gift_already_purchased_modal_message
-TEXT: You can send it from your inventory.
+TEXT: Kamu bisa mengirimkannya dari Tas Item.
 
 RESOURCE ID: paid_gift_regift_no_longer_available_modal_title
-TEXT: Gifting Error
+TEXT: Eror Pengiriman Hadiah
 
 RESOURCE ID: paid_gift_regift_no_longer_available_modal_message
-TEXT: This item is no longer available and cannot be gifted.
+TEXT: Item ini tidak lagi tersedia dan tidak dapat dihadiahkan.
 
 RESOURCE ID: paid_pikachu_gmax_tr_mar26
 TEXT: Penelitian Berwaktu Premium Pikachu Gigantamax
@@ -67703,16 +67727,16 @@ RESOURCE ID: pause_dialog_subtitle
 TEXT: Kamu akan berhenti mengumpulkan stempel untuk reli ini jika dijeda. Kamu dapat melanjutkannya kapan pun via layar koleksi.
 
 RESOURCE ID: pause_gift_list_title
-TEXT: Pause Gifts List
+TEXT: Daftar Jeda Hadiah
 
 RESOURCE ID: pause_gift_list_prompt_title
-TEXT: Pause paid gifts?
+TEXT: Hentikan sementara hadiah berbayar?
 
 RESOURCE ID: pause_gift_list_prompt_desc
-TEXT: The following friend will be unable to send you paid gifts. You can allow them to send paid gifts again at any point.
+TEXT: Teman berikut ini tidak bisa mengirimkan hadiah berbayar kepadamu. Kamu bisa mengizinkannya mengirim hadiah berbayar lagi kapan saja.
 
 RESOURCE ID: pause_gift_list_prompt_button_label
-TEXT: YES, PAUSE
+TEXT: YA, BERIKAN JEDA
 
 RESOURCE ID: pause_route_travel_error_toast
 TEXT: Kesalahan menjeda Rute
@@ -81917,63 +81941,63 @@ RESOURCE ID: premium_rewards
 TEXT: HADIAH PREMIUM
 
 RESOURCE ID: premium_gift_sent
-TEXT: You sent a paid gift to {0}.
+TEXT: Kamu telah mengirimkan hadiah berbayar ke {0}.
 
 RESOURCE ID: premium_gift_ftue_title
-TEXT: Introducing More Gifting Options in the Shop
+TEXT: Memperkenalkan Lebih Banyak Pilihan Hadiah di Toko
 
 RESOURCE ID: premium_gift_ftue_desc
-TEXT: You can now send and receive more types of gifts through the Shop!
+TEXT: Kini kamu bisa mengirim dan menerima lebih banyak jenis hadiah melalui toko! 
 
-Do you want to opt in? You can change this at any point in Settings.
+Apa kamu ingin mengaktifkan fitur ini? Kamu bisa mengubahnya kapan saja di Pengaturan.
 
 RESOURCE ID: premium_gift_notification_event_pass_title
-TEXT: GO Pass
+TEXT: Tiket GO
 
 RESOURCE ID: premium_gift_notification_event_pass_desc
-TEXT: Hi, <b>{0}</b>! Here’s a GO Pass Deluxe for you. Can you complete it and get all the rewards?
+TEXT: Hai, <b>{0}</b>! Ini Tiket GO Luks untukmu. Bisakah kamu menyelesaikannya dan mendapatkan semua hadiahnya?
 
-Cheers,
+Salam,
 <b>{1}</b>
 
 RESOURCE ID: premium_gift_notification_items_title
-TEXT: Gift For You
+TEXT: Hadiah Untukmu
 
 RESOURCE ID: premium_gift_notification_multiple_trainers_desc
-TEXT: Greetings, <b>{0}</b>!
+TEXT: Halo, <b>{0}</b>!
 
-Your friends sent you some gifts!
+Temanmu mengirimkan hadiah!
 
 
 RESOURCE ID: premium_gift_notification_one_trainer_multiple_items_desc
-TEXT: Hi, <b>{0}</b>!
+TEXT: Hai, <b>{0}</b>!
 
-I hope you enjoy these gifts!
+Aku harap kamu menikmati hadiah ini!
 {2}
 
-Cheers,
+Salam,
 <b>{1}</b>
 
 RESOURCE ID: premium_gift_notification_one_trainer_one_item_desc
-TEXT: Hi, <b>{0}</b>!
+TEXT: Hai, <b>{0}</b>!
 
-Here’s a gift for you!
+Ini hadiah untukmu!
 {2}
 
-Cheers,
+Salam,
 <b>{1}</b>
 
 RESOURCE ID: premium_gift_received_event_pass
-TEXT: {0} gifted you a GO Pass Deluxe!
+TEXT: Ada hadiah Tiket GO Luks dari {0}!
 
 RESOURCE ID: premium_gift_received_event_ticket
-TEXT: {0} gifted you a ticket for an event!
+TEXT: Ada hadiah tiket untuk sebuah event dari {0}!
 
 RESOURCE ID: premium_gift_received_item_multi
-TEXT: {0} gifted you a {1} and more!
+TEXT: Ada hadiah {1} dan lainnya dari {0}!
 
 RESOURCE ID: premium_gift_received_item_single
-TEXT: {0} gifted you a {1}!
+TEXT: Ada hadiah {1} dari {0}!
 
 RESOURCE ID: primal_revert
 TEXT: Reversi Primal
@@ -116888,16 +116912,16 @@ RESOURCE ID: settings_allow_paid_gifts
 TEXT: Allow friends to send you paid gifts
 
 RESOURCE ID: settings_allow_paid_gifts_desc_off
-TEXT: Turning off this feature will pause friends from sending you paid gifts. This does not include free Gifts.
+TEXT: Menonaktifkan fitur ini akan menghentikan sementara pengiriman hadiah berbayar dari teman kepadamu. Hal ini tidak mencakup Hadiah gratis.
 
 RESOURCE ID: settings_allow_paid_gifts_desc_on
-TEXT: Turning on this feature will allow friends to send you paid gifts. You can pause specific friends from sending you paid gifts in the Pause Gifts List once this feature is turned on.
+TEXT: Mengaktifkan fitur ini akan mengizinkan teman untuk mengirimkan hadiah berbayar kepadamu. Setelah fitur ini aktif, kamu bisa menghentikan sementara pengiriman hadiah berbayar dari teman tertentu kepadamu melalui Daftar Jeda Hadiah.
 
 RESOURCE ID: settings_allow_paid_gifts_title_off
-TEXT: Turn Off Paid Gifts from Friends?
+TEXT: Nonaktifkan Hadiah Berbayar dari Teman?
 
 RESOURCE ID: settings_allow_paid_gifts_title_on
-TEXT: Turn On Paid Gifts from Friends?
+TEXT: Aktifkan Hadiah Berbayar dari Teman?
 
 RESOURCE ID: settings_allow_raid_and_max_battle_friend_requests
 TEXT: Anggota Raid dan Pertarungan Max
@@ -117128,10 +117152,10 @@ RESOURCE ID: settings_party_play_map_avatars
 TEXT: Lihat Pelatih Lain di Peta
 
 RESOURCE ID: settings_pause_gifts_list
-TEXT: Pause Gifts List
+TEXT: Daftar Jeda Hadiah
 
 RESOURCE ID: settings_pause_gifts_list_tip
-TEXT: Selected friends will not be able to send you paid gifts. They can still send you free Gifts.
+TEXT: Teman yang dipilih tidak akan bisa mengirimkan hadiah berbayar kepadamu. Mereka tetap bisa mengirimkan hadiah gratis kepadamu.
 
 RESOURCE ID: settings_pbp_check_other_menu
 TEXT: To access your currently paired device, please go to the Pokémon GO Plus screen via the Settings menu.
@@ -117847,7 +117871,7 @@ RESOURCE ID: shop_already_own_this_ticket
 TEXT: You already have a ticket for this event.
 
 RESOURCE ID: shop_already_unlocked_premium_event_pass
-TEXT: You’ve already unlocked this GO Pass Deluxe.
+TEXT: Kamu telah membuka Tiket GO Luks ini.
 
 RESOURCE ID: shop_battle_tickets_title
 TEXT: Tiket Pertarungan Premiummu habis!
@@ -117977,7 +118001,7 @@ TEXT: {0}-mu telah ditingkatkan sepenuhnya! Dapatkan lebih banyak penyimpanan de
 <a href="https://scopelyexplore.helpshift.com/hc/faq/1235-available-items-your-bag/">Pelajari lebih lanjut tentang naik level di sini.</a>
 
 RESOURCE ID: shop_gift_confirm_purchase_warning_description
-TEXT: You can send <b>{0}</b> total paid gifts today. This gift cannot be used by another player or refunded.
+TEXT: Kamu bisa mengirim total {0} hadiah berbayar hari ini. Hadiah ini tidak bisa digunakan oleh pemain lain atau dikembalikan.
 
 RESOURCE ID: shop_gift_friend_ineligible_title
 TEXT: Cannot Send Gift
@@ -117989,14 +118013,14 @@ TEXT: A friend may be ineligible to receive paid gifts for the following reasons
 • You do not meet the minimum Friendship level requirement to give this friend a gift.
 
 RESOURCE ID: shop_gift_friend_ineligible_description_temp
-TEXT: You may not be able to send paid gifts—including items, tickets, and event passes—to some friends. This can happen for the following reasons:
+TEXT: Kamu mungkin tidak dapat mengirim hadiah berbayar—termasuk item, tiket, dan tiket event—kepada beberapa teman. Hal ini dapat terjadi karena alasan berikut:
 
-• They already own the ticket or event pass, or someone else sent it to them
-• They may have active or completed research that prevents them from receiving tickets
-• Your friendship level is too low
-• They have disabled paid gifts
-• Their account is not eligible due to restrictions
-• Cross-currency gifting is not supported
+• Mereka sudah memiliki tiket atau tiket event terkait, atau orang lain telah mengirimkannya kepada mereka
+• Mereka mungkin memiliki penelitian yang aktif atau telah selesai yang menghalangi mereka menerima tiket
+• Tingkat pertemananmu terlalu rendah
+• Mereka telah menonaktifkan fitur hadiah berbayar
+• Akun mereka tidak memenuhi syarat karena adanya pembatasan
+• Pengiriman hadiah lintas mata uang tidak didukung
 
 RESOURCE ID: shop_gift_invitation_title
 TEXT: INVITATION
@@ -118055,7 +118079,7 @@ TEXT: Your gift has been sent to {0}.
 Go tell them about it so they can open the gift in time for the event!
 
 RESOURCE ID: shop_gift_purchase_invitation_sent_generic_description
-TEXT: Your gift has been sent to {0}.
+TEXT: Hadiahmu telah dikirimkan ke {0}.
 
 RESOURCE ID: shop_gift_purchase_select_friend
 TEXT: Select a Friend

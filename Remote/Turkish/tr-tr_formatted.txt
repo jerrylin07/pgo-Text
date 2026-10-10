@@ -5193,6 +5193,9 @@ TEXT: Minnesota Twins Şapkası
 RESOURCE ID: avatar_hat_mlbwhitesox
 TEXT: Chicago White Sox Şapkası
 
+RESOURCE ID: avatar_hat_nflhelmet-arizonacardinals
+TEXT: Arizona Kaskı
+
 RESOURCE ID: avatar_hat_partyhat
 TEXT: Parti Şapkası
 
@@ -7688,6 +7691,9 @@ TEXT: Grimsley Tarzı Pantolon
 RESOURCE ID: avatar_pants_grusha
 TEXT: Grusha Tarzı Pantolon
 
+RESOURCE ID: avatar_pants_halloween2026
+TEXT: Pastacı Pantolonu
+
 RESOURCE ID: avatar_pants_mustard
 TEXT: Mustard Tarzı Pantolon
 
@@ -7853,6 +7859,12 @@ TEXT: GO Festivali 2026 Tişörtü (Mor)
 RESOURCE ID: avatar_shirt_gofest2026zeraora
 TEXT: Zeraora Tişörtü
 
+RESOURCE ID: avatar_shirt_gothiclolitashorts
+TEXT: Gotik Şort Seti
+
+RESOURCE ID: avatar_shirt_gothiclolitaskirt
+TEXT: Gotik Etek Seti
+
 RESOURCE ID: avatar_shirt_gotour2025black
 TEXT: GO Tur 2025 Tişörtü (Siyah)
 
@@ -7871,6 +7883,9 @@ TEXT: Grusha Tarzı Mont
 RESOURCE ID: avatar_shirt_halloween2024
 TEXT: Cadılar Bayramı Kıyafeti
 
+RESOURCE ID: avatar_shirt_halloween2026
+TEXT: Pastacı Üstü
+
 RESOURCE ID: avatar_shirt_marshtompsweater
 TEXT: Marshtomp Kazağı
 
@@ -7888,6 +7903,9 @@ TEXT: Morpeko Tulumu (Obur Modu)
 
 RESOURCE ID: avatar_shirt_mustard
 TEXT: Mustard Tarzı Mont
+
+RESOURCE ID: avatar_shirt_nightout
+TEXT: Pokémon Night Out Beyzbol Forması
 
 RESOURCE ID: avatar_shirt_plaidtop
 TEXT: Ekose Üst
@@ -8056,6 +8074,9 @@ TEXT: Allister Tarzı Ayakkabı
 RESOURCE ID: avatar_shoes_gblgrimsley
 TEXT: Grimsley Tarzı Ayakkabı
 
+RESOURCE ID: avatar_shoes_gothiclolita
+TEXT: Gotik Çizme
+
 RESOURCE ID: avatar_shoes_grusha
 TEXT: Grusha Tarzı Bot
 
@@ -8103,6 +8124,9 @@ TEXT: Yeni
 
 RESOURCE ID: avatar_shop_filter_type_text
 TEXT: Tür
+
+RESOURCE ID: avatar_socks_gothiclolita
+TEXT: Gotik Çorap
 
 RESOURCE ID: avatar_style_unlocked
 TEXT: Yeni görünüm eklendi!
@@ -48129,10 +48153,10 @@ RESOURCE ID: gowa_2026_habitat_global_cc_sunday
 TEXT: Vahşi Bölge Toplama Görevi: Pazar
 
 RESOURCE ID: gowa_2026_habitat_now_dragon
-TEXT: Şu anda: Çelik Gibi Sağlam Saati
+TEXT: Şu anda: Ejderhalı Eğlence Saati
 
 RESOURCE ID: gowa_2026_habitat_now_steel
-TEXT: Şu anda: Ejderhalı Eğlence Saati
+TEXT: Şu anda: Çelik Gibi Sağlam Saati
 
 RESOURCE ID: gowa_2026_irl_cc_cdmx_friday
 TEXT: GO Vahşi Bölgesi: Meksiko Toplama Görevi
@@ -60726,10 +60750,10 @@ at SHA 413df5befdbe0d00a543f8a142221526d63b719a
 Pipeline 834428, job 8736424
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-10-09T02:08:54.953841+00:00 for tr-TR
-at SHA e1629afd832
-Pipeline 4009579, job 59072788
-Patch from: 0.431.0-SHA-ecb3d867-RC5, 0.433.0-SHA-a810fd7d-RC2
+TEXT: Built at 2026-10-10T01:30:09.155088+00:00 for tr-TR
+at SHA 59b2e4089cd
+Pipeline 4012512, job 59119892
+Patch from: 0.431.0-SHA-ecb3d867-RC5, 0.433.0-SHA-d37b1aa1-RC1
 
 RESOURCE ID: meteor_title_1
 TEXT: METEOR YAĞMURU

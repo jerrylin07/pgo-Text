@@ -748,7 +748,7 @@ RESOURCE ID: advanced_settings_streamer_mode_toggle_description
 TEXT: Schalte diese Einstellung ein, um den Fangort von Pokémon für 8 Stunden zu verbergen.
 
 RESOURCE ID: adventure_effect_activation_lobby_active
-TEXT: This Adventure Effect is currently active.
+TEXT: Dieser Abenteuer-Effekt ist derzeit aktiv.
 
 RESOURCE ID: adventure_effect_incense_table_header
 TEXT: Von Rauch angelockte Pokémon
@@ -5434,6 +5434,9 @@ TEXT: Minnesota Twins-Kappe
 RESOURCE ID: avatar_hat_mlbwhitesox
 TEXT: Chicago White Sox-Kappe
 
+RESOURCE ID: avatar_hat_nflhelmet-arizonacardinals
+TEXT: Arizona-Helm
+
 RESOURCE ID: avatar_hat_partyhat
 TEXT: Partyhut
 
@@ -8154,6 +8157,9 @@ TEXT: Hose im Stil von Astor
 RESOURCE ID: avatar_pants_grusha
 TEXT: Hose im Stil von Grusha
 
+RESOURCE ID: avatar_pants_halloween2026
+TEXT: Konditor-Hose
+
 RESOURCE ID: avatar_pants_mustard
 TEXT: Hose im Stil von Mastrich
 
@@ -8321,6 +8327,12 @@ TEXT: T-Shirt zum GO Fest 2026 (lila)
 RESOURCE ID: avatar_shirt_gofest2026zeraora
 TEXT: Zeraora-T-Shirt
 
+RESOURCE ID: avatar_shirt_gothiclolitashorts
+TEXT: Gothic-Shorts
+
+RESOURCE ID: avatar_shirt_gothiclolitaskirt
+TEXT: Gothic-Rock
+
 RESOURCE ID: avatar_shirt_gotour2025black
 TEXT: T-Shirt zur GO Tour 2025 (Schwarz)
 
@@ -8339,6 +8351,9 @@ TEXT: Jacke im Stil von Grusha
 RESOURCE ID: avatar_shirt_halloween2024
 TEXT: Halloween-Gewandung
 
+RESOURCE ID: avatar_shirt_halloween2026
+TEXT: Konditor-Top
+
 RESOURCE ID: avatar_shirt_marshtompsweater
 TEXT: Moorabbel-Pullover
 
@@ -8356,6 +8371,9 @@ TEXT: Morpeko-Einteiler (Kohldampfmuster)
 
 RESOURCE ID: avatar_shirt_mustard
 TEXT: Jacke im Stil von Mastrich
+
+RESOURCE ID: avatar_shirt_nightout
+TEXT: Baseball-Jersey zu Pokémon Elektrisierende Nacht
 
 RESOURCE ID: avatar_shirt_plaidtop
 TEXT: Kariertes Top
@@ -8525,6 +8543,9 @@ TEXT: Schuhe im Stil von Nio
 RESOURCE ID: avatar_shoes_gblgrimsley
 TEXT: Schuhe im Stil von Astor
 
+RESOURCE ID: avatar_shoes_gothiclolita
+TEXT: Gothic-Stiefel
+
 RESOURCE ID: avatar_shoes_grusha
 TEXT: Schuhe im Stil von Grusha
 
@@ -8573,6 +8594,9 @@ TEXT: Neu
 
 RESOURCE ID: avatar_shop_filter_type_text
 TEXT: Typ
+
+RESOURCE ID: avatar_socks_gothiclolita
+TEXT: Gothic-Socken
 
 RESOURCE ID: avatar_style_unlocked
 TEXT: Neuer Artikel hinzugefügt!
@@ -50913,10 +50937,10 @@ RESOURCE ID: gowa_2026_habitat_global_cc_sunday
 TEXT: Naturzone: Sammler-Herausforderung – Sonntag
 
 RESOURCE ID: gowa_2026_habitat_now_dragon
-TEXT: Jetzt live: Stahlhart-Stunde
+TEXT: Jetzt live: Drachenmut-Stunde
 
 RESOURCE ID: gowa_2026_habitat_now_steel
-TEXT: Jetzt live: Drachenmut-Stunde
+TEXT: Jetzt live: Stahlhart-Stunde
 
 RESOURCE ID: gowa_2026_irl_cc_cdmx_friday
 TEXT: GO-Naturzone: Mexiko-Stadt – Sammler-Herausforderung
@@ -53724,16 +53748,16 @@ RESOURCE ID: incoming_friend_request_prompt_singular
 TEXT: 1 Freundschaftsanfrage erhalten.
 
 RESOURCE ID: incomplete_raid_battle_rejoin_modal_title
-TEXT: Rejoin raid?
+TEXT: Raid erneut beitreten?
 
 RESOURCE ID: incomplete_raid_battle_rejoin_modal_body
-TEXT: Rejoin the raid to continue battling the Raid Boss.
+TEXT: Trete dem Raid erneut bei, um den Raid-Boss weiter zu bekämpfen.
 
 RESOURCE ID: incomplete_raid_encounter_rejoin_modal_title
-TEXT: Return to Raid Boss encounter?
+TEXT: Zur Raid-Boss-Begegnung zurückkehren?
 
 RESOURCE ID: incomplete_raid_encounter_rejoin_modal_body
-TEXT: Return to the encounter to catch the Raid Boss.
+TEXT: Kehre zur Begegnung zurück, um den Raid-Boss zu fangen.
 
 RESOURCE ID: increased_adventure_sync_rewards
 TEXT: Erhöhte Abenteuer-Sync-Belohnungen nächste Woche
@@ -63131,7 +63155,7 @@ RESOURCE ID: mega_evolve_lobby_existing_toast
 TEXT: Du kannst immer nur ein Mega-Entwicklungs-Pokémon einsetzen.
 
 RESOURCE ID: mega_evolve_pokemon_to_use_in_this_party
-TEXT: Löse bei Gengar die Mega-Entwicklung aus, um dieses Team einzusetzen.
+TEXT: Löse bei {0} die Mega-Entwicklung aus, um dieses Team einzusetzen.
 
 RESOURCE ID: mega_evolve_preview_first_time
 TEXT: Nachdem du bei einem Pokémon zum ersten Mal die Mega-Entwicklung ausgelöst hast, kannst du bei ihm nach einer Ruhephase die Mega-Entwicklung ohne Mega-Energie erneut auslösen.
@@ -63537,10 +63561,10 @@ at SHA 4d4f3e80cc7fb911006bd14d198c9831ef66d005
 Pipeline 339838, job 2672172
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-10-09T02:08:54.953841+00:00 for de-DE
-at SHA e1629afd832
-Pipeline 4009579, job 59072788
-Patch from: 0.431.0-SHA-ecb3d867-RC5, 0.433.0-SHA-a810fd7d-RC2
+TEXT: Built at 2026-10-10T01:30:09.155088+00:00 for de-DE
+at SHA 59b2e4089cd
+Pipeline 4012512, job 59119892
+Patch from: 0.431.0-SHA-ecb3d867-RC5, 0.433.0-SHA-d37b1aa1-RC1
 
 RESOURCE ID: meteor_title_1
 TEXT: METEORSCHAUER
@@ -107577,16 +107601,16 @@ RESOURCE ID: raid_attendance_online_disclaimer_message
 TEXT: Freunde können weiterhin deine Raid-Teilnahme sehen. Du kannst dies später in den Einstellungen ändern.
 
 RESOURCE ID: raid_battle_complete_lost_modal_title
-TEXT: The Raid Battle has ended.
+TEXT: Der Raid-Kampf ist vorbei.
 
 RESOURCE ID: raid_battle_complete_lost_modal_body
-TEXT: The Raid Boss was not defeated in time.
+TEXT: Der Raid-Boss wurde nicht rechtzeitig besiegt.
 
 RESOURCE ID: raid_battle_complete_rejoin_modal_title
-TEXT: Rejoin raid?
+TEXT: Raid erneut beitreten?
 
 RESOURCE ID: raid_battle_complete_rejoin_modal_body
-TEXT: Return to the raid to catch the Raid Boss.
+TEXT: Kehre zum Raid zurück, um den Raid-Boss zu fangen.
 
 RESOURCE ID: raid_battle_retreat_confirmation
 TEXT: Bist du sicher, dass du den Kampf verlassen willst?
@@ -109869,10 +109893,10 @@ RESOURCE ID: raid_defeat_try_again
 TEXT: Wähle neue Pokémon oder belebe und heile die kampfunfähigen Pokémon und kehre zum Kampf zurück!
 
 RESOURCE ID: raid_encounter_flee_warning_modal_title
-TEXT: Are you sure you want to flee?
+TEXT: Willst du wirklich fliehen?
 
 RESOURCE ID: raid_encounter_flee_warning_modal_body
-TEXT: If you flee from this Pokémon, you won’t be able to return.
+TEXT: Wenn du vor diesem Pokémon fliehst, kannst du nicht zurückkommen.
 
 RESOURCE ID: raid_enter_group_code
 TEXT: PRIVATE GRUPPE
@@ -114226,7 +114250,7 @@ RESOURCE ID: returning_sign_in_partial
 TEXT: Anmelden mit {0}
 
 RESOURCE ID: revert_pokemon_to_its_primal_form_to_use_this_party
-TEXT: Löse bei Kyogre die Protomorphose aus, um dieses Team einzusetzen.
+TEXT: Löse bei {0} die Protomorphose aus, um dieses Team einzusetzen.
 
 RESOURCE ID: revive_all_button
 TEXT: Alle wiederbeleben
