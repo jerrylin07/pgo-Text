@@ -995,13 +995,13 @@ RESOURCE ID: air_adventures_yogyakarta_sr_title_04
 TEXT: Pikachu's Indonesia Journey - योग्याकर्ता (5/5)
 
 RESOURCE ID: allow_gift_list_prompt_title
-TEXT: Allow paid gifts?
+TEXT: पेमेंट वाले गफ़्टि की अनुमति दें?
 
 RESOURCE ID: allow_gift_list_prompt_desc
-TEXT: If you select Allow, this friend will be able to send you paid gifts again.
+TEXT: "अनुमति दें" चुनने पर, ये दोस्त आपको फरि से पेमेंट वाले गफ़्टि भेज पाएंगे।
 
 RESOURCE ID: allow_gift_list_prompt_button_label
-TEXT: YES, ALLOW
+TEXT: जी हाँ, अनुमति दें
 
 RESOURCE ID: allow_notifications_prompt_message
 TEXT: To improve your gameplay experience, allow Pokémon GO to access notifications.
@@ -21549,7 +21549,7 @@ RESOURCE ID: breakfast_tappable_tutorial_body_temp
 TEXT: रूट को पूरा करने के बाद आपको ज़ाइगार्ड सेल मलि सकते हैं। ज़ाइगार्ड सेल को एक-साथ जोड़कर, आप अलग-अलग ज़ाइगार्ड फ़ॉर्म बना सकते हैं।
 
 RESOURCE ID: breakfast_tappable_tutorial_body_temp2
-TEXT: Collect up to 3 Zygarde Cells per day by completing Routes. Assemble your Zygarde Cells to create different Zygarde forms.
+TEXT: रूट को पूरा कर, आप हर दनि अधकितम 3 ज़ाइगार्ड सेल इकट्ठे कर सकते हैं। ज़ाइगार्ड सेल को एक-साथ जोड़कर, आप अलग-अलग ज़ाइगार्ड फ़ॉर्म बना सकते हैं।
 
 RESOURCE ID: breakthrough_free_remote_raid_pass
 TEXT: आइए, अब चलें!
@@ -28389,7 +28389,7 @@ RESOURCE ID: concierge_promo_tr_name
 TEXT: पोकेमॉन कंसीयर्ज बोनस सीमित समय वाली रिसर्च
 
 RESOURCE ID: confirm_gift_purchase_v2_reward_points_prefix
-TEXT: You will receive
+TEXT: मलिेंगे
 
 RESOURCE ID: confirm_send_button
 TEXT: भेजें
@@ -39307,10 +39307,10 @@ RESOURCE ID: generic_contact_support
 TEXT: How to Share Game Logs
 
 RESOURCE ID: generic_event_pass_premium_unlock
-TEXT: GO Pass Deluxe
+TEXT: GO पास डीलक्स
 
 RESOURCE ID: generic_event_pass_premium_unlock_plus_points
-TEXT: GO Pass Deluxe + Ranks
+TEXT: GO पास डीलक्स + रैंक
 
 RESOURCE ID: generic_player_lockout
 TEXT: सेवा की शर्तों का उल्लंघन करने की वजह से आपका खाता निलंबित कर दिया गया है। ज़्यादा जानकारी के लिए, 
@@ -39457,9 +39457,9 @@ TEXT: हमें खेद है।
 इसके बजाय, अगर आपको रिफ़ंड चाहिए, तो आप app store के ज़रिए इसका अनुरोध कर सकते हैं।
 
 RESOURCE ID: gifting_error_description_temp
-TEXT: Unfortunately, this friend cannot receive this paid gift. This can happen for a variety of reasons.
+TEXT: खेद है, ये दोस्त इस पेमेंट वाले गफ़्टि को नहीं पा सकते। ऐसा कई कारणों से हो सकता है।
 
-You can choose a new friend to send this to now.
+आप इसे भेजने के लिए अब कोई दूसरा दोस्त चुन सकते हैं।
 
 RESOURCE ID: gifting_error_refund_button
 TEXT: REQUEST REFUND
@@ -53754,10 +53754,10 @@ RESOURCE ID: item_incubator_timed_name
 TEXT: समयबद्ध इन्क्यूबेटर
 
 RESOURCE ID: item_inventory_paid_gift_banner_title
-TEXT: You have paid gifts!
+TEXT: आपके पास पेमेंट वाले गफ़्टि हैं!
 
 RESOURCE ID: item_inventory_paid_gift_banner_subtitle
-TEXT: Send to your Friends?
+TEXT: दोस्तों को भेजें?
 
 RESOURCE ID: item_item_pack_desc
 TEXT: इससे आपका आइटम बैग बड़ा होता है।
@@ -60527,10 +60527,10 @@ at SHA 12701f1c07ae7f07a5d50583f697320977df7988
 Pipeline 1139111, job 13470914
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-10-10T01:30:09.155088+00:00 for hi-IN
-at SHA 59b2e4089cd
-Pipeline 4012512, job 59119892
-Patch from: 0.431.0-SHA-ecb3d867-RC5, 0.433.0-SHA-d37b1aa1-RC1
+TEXT: Built at 2026-10-14T01:27:43.825708+00:00 for hi-IN
+at SHA 46a25b64966
+Pipeline 4019736, job 59225155
+Patch from: 0.435.0-SHA-5bec7604-RC1, 0.431.0-SHA-98b5070c-RC6, 0.433.0-SHA-a810fd7d-RC2
 
 RESOURCE ID: meteor_title_1
 TEXT: मीटयिोर शावर
@@ -66655,19 +66655,19 @@ RESOURCE ID: ozone_ascent_free_timed_research
 TEXT: नीले अंबर की ओर सीमति समय वाली रसिर्च
 
 RESOURCE ID: paid_gift_already_purchased_modal_title
-TEXT: You have already purchased this paid gift.
+TEXT: आपने पहले से ही यह पेमेंट वाला गफ़्टि खरीदा हुआ है।
 
 RESOURCE ID: paid_gift_already_purchased_modal_button
-TEXT: GO TO INVENTORY
+TEXT: इन्वेंट्री में जाएँ
 
 RESOURCE ID: paid_gift_already_purchased_modal_message
-TEXT: You can send it from your inventory.
+TEXT: आप इसे अपनी इन्वेंट्री से भेज सकते हैं।
 
 RESOURCE ID: paid_gift_regift_no_longer_available_modal_title
-TEXT: Gifting Error
+TEXT: गफ़्टि एरर
 
 RESOURCE ID: paid_gift_regift_no_longer_available_modal_message
-TEXT: This item is no longer available and cannot be gifted.
+TEXT: यह आइटम अब उपलब्ध नहीं है और इसे गफ़्टि नहीं कयिा जा सकता।
 
 RESOURCE ID: paid_pikachu_gmax_tr_mar26
 TEXT: जायगैंटामैक्स पिकाचू प्रीमियम सीमित समय वाली रिसर्च
@@ -67635,16 +67635,16 @@ RESOURCE ID: pause_dialog_subtitle
 TEXT: पॉज़ करने पर आप इस रैली से स्टैम्प इकट्ठा करना बंद कर देंगे। आप कलेक्शन पेज से किसी भी समय रैली को फिर से शुरू कर सकते हैं।
 
 RESOURCE ID: pause_gift_list_title
-TEXT: Pause Gifts List
+TEXT: गफ़्टि पॉज़ सूची
 
 RESOURCE ID: pause_gift_list_prompt_title
-TEXT: Pause paid gifts?
+TEXT: पेमेंट वाले गफ़्टि पॉज़ करें?
 
 RESOURCE ID: pause_gift_list_prompt_desc
-TEXT: The following friend will be unable to send you paid gifts. You can allow them to send paid gifts again at any point.
+TEXT: ये दोस्त आपको पेमेंट वाले गफ़्टि नहीं भेज पाएंगे। आप जब चाहें, उन्हें फरि से पेमेंट वाले गफ़्टि भेजने की अनुमति दे सकते हैं।
 
 RESOURCE ID: pause_gift_list_prompt_button_label
-TEXT: YES, PAUSE
+TEXT: जी हाँ, पॉज़ करें
 
 RESOURCE ID: pause_route_travel_error_toast
 TEXT: Error pausing Route
@@ -81825,63 +81825,63 @@ RESOURCE ID: premium_rewards
 TEXT: प्रीमियम रिवॉर्ड
 
 RESOURCE ID: premium_gift_sent
-TEXT: You sent a paid gift to {0}.
+TEXT: आपने {0} को पेमेंट वाला गफ़्टि भेजा।
 
 RESOURCE ID: premium_gift_ftue_title
-TEXT: Introducing More Gifting Options in the Shop
+TEXT: अब शॉप में गफ़्टि करने के और भी वकिल्प आ गए हैं
 
 RESOURCE ID: premium_gift_ftue_desc
-TEXT: You can now send and receive more types of gifts through the Shop!
+TEXT: अब आप शॉप से और भी प्रकार के गफ़्टि भेज और पा सकते हैं!
 
-Do you want to opt in? You can change this at any point in Settings.
+क्या आप इसे चालू करना चाहते हैं? आप जब चाहें, सेटिंग में जाकर इसे बदल सकते हैं।
 
 RESOURCE ID: premium_gift_notification_event_pass_title
-TEXT: GO Pass
+TEXT: GO पास
 
 RESOURCE ID: premium_gift_notification_event_pass_desc
-TEXT: Hi, <b>{0}</b>! Here’s a GO Pass Deluxe for you. Can you complete it and get all the rewards?
+TEXT: हैलो <b>{0}</b>! यह GO Pass Deluxe आपके लिए है। क्या आप इसे पूरा कर सारे रविॉर्ड पा सकेंगे?
 
-Cheers,
+गुड लक,
 <b>{1}</b>
 
 RESOURCE ID: premium_gift_notification_items_title
-TEXT: Gift For You
+TEXT: आपके लिए गफ़्टि
 
 RESOURCE ID: premium_gift_notification_multiple_trainers_desc
-TEXT: Greetings, <b>{0}</b>!
+TEXT: हैलो <b>{0}</b>!
 
-Your friends sent you some gifts!
+आपके दोस्तों ने आपको कुछ गफ़्टि भेजे हैं!
 
 
 RESOURCE ID: premium_gift_notification_one_trainer_multiple_items_desc
-TEXT: Hi, <b>{0}</b>!
+TEXT: हैलो <b>{0}</b>!
 
-I hope you enjoy these gifts!
+आशा है कि आपको ये गफ़्टि अच्छे लगेंगे!
 {2}
 
-Cheers,
+शुभकामनाएँ,
 <b>{1}</b>
 
 RESOURCE ID: premium_gift_notification_one_trainer_one_item_desc
-TEXT: Hi, <b>{0}</b>!
+TEXT: हैलो <b>{0}</b>!
 
-Here’s a gift for you!
+यह गफ़्टि आपके लिए है!
 {2}
 
-Cheers,
+शुभकामनाएँ,
 <b>{1}</b>
 
 RESOURCE ID: premium_gift_received_event_pass
-TEXT: {0} gifted you a GO Pass Deluxe!
+TEXT: {0} ने आपको GO पास डीलक्स गफ़्टि कयिा!
 
 RESOURCE ID: premium_gift_received_event_ticket
-TEXT: {0} gifted you a ticket for an event!
+TEXT: {0} ने आपको एक ईवेंट की टकिट गफ़्टि की!
 
 RESOURCE ID: premium_gift_received_item_multi
-TEXT: {0} gifted you a {1} and more!
+TEXT: {0} ने आपको एक {1} के साथ और भी गफ़्टि भेजे!
 
 RESOURCE ID: premium_gift_received_item_single
-TEXT: {0} gifted you a {1}!
+TEXT: {0} ने आपको एक गफ़्टि भेजा - {1}!
 
 RESOURCE ID: primal_revert
 TEXT: प्राइमल​ रिवर्ज़न​
@@ -106660,6 +106660,9 @@ TEXT: आपके सभी पोकेमॉन बेहोश हो गए
 RESOURCE ID: raid_defeat_try_again
 TEXT: पोकेमॉन चुनें या बेहोश हो गए पोकेमॉन को हील करें और बैटल में वापसी करें!
 
+RESOURCE ID: raid_encounter_flee_warning_button_text
+TEXT: FLEE
+
 RESOURCE ID: raid_encounter_flee_warning_modal_title
 TEXT: Are you sure you want to flee?
 
@@ -116783,10 +116786,10 @@ RESOURCE ID: settings_allow_paid_gifts
 TEXT: Allow friends to send you paid gifts
 
 RESOURCE ID: settings_allow_paid_gifts_desc_off
-TEXT: Turning off this feature will pause friends from sending you paid gifts. This does not include free Gifts.
+TEXT: इस सेटिंग को बंद करने पर आपके दोस्तों को आपको पेमेंट वाले गफ़्टि भेजने से पॉज़ कर दयिा जाएगा। यह पॉज़ फ़्री गफ़्टि पर लागू नहीं होता।
 
 RESOURCE ID: settings_allow_paid_gifts_desc_on
-TEXT: Turning on this feature will allow friends to send you paid gifts. You can pause specific friends from sending you paid gifts in the Pause Gifts List once this feature is turned on.
+TEXT: इस सेटिंग को चालू करने पर आपके दोस्त आपको पेमेंट वाले गफ़्टि भेज पाएंगे। इसके चालू होने के बाद, आप "गफ़्टि पॉज़ सूची" में जाकर चुनिंदा दोस्तों को आपको पेमेंट वाले गफ़्टि भेजने से पॉज़ कर सकते हैं।
 
 RESOURCE ID: settings_allow_paid_gifts_title_off
 TEXT: दोस्तों से पेमेंट वाले गफ़्टि बंद करें?
@@ -117023,10 +117026,10 @@ RESOURCE ID: settings_party_play_map_avatars
 TEXT: मैप में अन्य ट्रेनर को देखें
 
 RESOURCE ID: settings_pause_gifts_list
-TEXT: Pause Gifts List
+TEXT: गफ़्टि पॉज़ सूची
 
 RESOURCE ID: settings_pause_gifts_list_tip
-TEXT: Selected friends will not be able to send you paid gifts. They can still send you free Gifts.
+TEXT: चुने गए दोस्त आपको पेमेंट वाले गफ़्टि नहीं भेज पाएंगे। वे अब भी आपको फ़्री गफ़्टि भेज सकते हैं।
 
 RESOURCE ID: settings_pbp_check_other_menu
 TEXT: To access your currently paired device, please go to the Pokémon GO Plus screen via the Settings menu.
@@ -117872,7 +117875,7 @@ TEXT: आपके {0} पूरे अपग्रेड हो चुके �
 <a href="https://scopelyexplore.helpshift.com/hc/faq/1235-available-items-your-bag/">लेवल अप करने के बारे में यहाँ से जानें।</a>
 
 RESOURCE ID: shop_gift_confirm_purchase_warning_description
-TEXT: You can send <b>{0}</b> total paid gifts today. This gift cannot be used by another player or refunded.
+TEXT: आप आज कुल <b>{0}</b> पेमेंट वाले गफ़्टि भेज सकते हैं। इस गफ़्टि का उपयोग कोई और प्लेयर नहीं कर सकता, और न ही इसका रफ़िंड मलि सकता है।
 
 RESOURCE ID: shop_gift_friend_ineligible_title
 TEXT: Cannot Send Gift
@@ -117884,14 +117887,14 @@ TEXT: A friend may be ineligible to receive paid gifts for the following reasons
 • You do not meet the minimum Friendship level requirement to give this friend a gift.
 
 RESOURCE ID: shop_gift_friend_ineligible_description_temp
-TEXT: You may not be able to send paid gifts—including items, tickets, and event passes—to some friends. This can happen for the following reasons:
+TEXT: हो सकता है कि आप कुछ दोस्तों को पेमेंट वाले गफ़्टि—जैसे कि आइटम, टकिट और इवेंट पास—न भेज पाएं। ऐसा इन कारणों से हो सकता है -
 
-• They already own the ticket or event pass, or someone else sent it to them
-• They may have active or completed research that prevents them from receiving tickets
-• Your friendship level is too low
-• They have disabled paid gifts
-• Their account is not eligible due to restrictions
-• Cross-currency gifting is not supported
+• उनके पास वह टकिट या इवेंट पास पहले से है, या कसिी और ने उन्हें भेज दयिा है
+• उनकी कोई रसिर्च चल रही हो या पूरी हो चुकी हो, जसिके कारण वे टकिट नहीं पा सकते
+• आपकी दोस्ती का लेवल पर्याप्त नहीं है
+• उन्होंने पेमेंट वाले गफ़्टि की सेटिंग चालू नहीं की है
+• प्रतबिंधों के कारण उनका अकाउंट योग्य नहीं है
+• मुद्राओं के अलग होने कारण गफ़्टि नहीं कयिा जा सकता
 
 RESOURCE ID: shop_gift_invitation_title
 TEXT: INVITATION
@@ -117950,7 +117953,7 @@ TEXT: Your gift has been sent to {0}.
 Go tell them about it so they can open the gift in time for the event!
 
 RESOURCE ID: shop_gift_purchase_invitation_sent_generic_description
-TEXT: Your gift has been sent to {0}.
+TEXT: आपका गफ़्टि {0} को भेज दयिा गया है।
 
 RESOURCE ID: shop_gift_purchase_select_friend
 TEXT: Select a Friend
@@ -131807,7 +131810,7 @@ RESOURCE ID: tutorial_route_bonus_2
 TEXT: Unusual Pokémon may appear on Routes
 
 RESOURCE ID: tutorial_route_bonus_2_temp
-TEXT: Certain Pokémon may appear more often in the wild on Routes
+TEXT: रूट पर, कुछ पोकेमॉन जंगल में अधकि बार दखिाई दे सकते हैं
 
 RESOURCE ID: tutorial_route_play_title_0
 TEXT: Explore a Route
@@ -133164,7 +133167,7 @@ RESOURCE ID: username_suggestion_disclaimer_change_name
 TEXT: आप एक ही बार अपना निकनेम बदल सकते हैं।
 
 RESOURCE ID: username_suggestion_disclaimer_new_user
-TEXT: आप बाद में अपना निकनेम बदल सकते हैं।
+TEXT: सुझाव: अपना वास्तवकि नाम न डालें, क्योंकि यह अन्य ट्रेनर को दखिाई देगा। आप अपना नाम बाद में बदल सकते हैं।
 
 RESOURCE ID: username_suggestion_name_looks_good_banned_name
 TEXT: अच्छा लग रहा है!

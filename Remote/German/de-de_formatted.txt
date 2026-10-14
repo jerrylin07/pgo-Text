@@ -63561,10 +63561,10 @@ at SHA 4d4f3e80cc7fb911006bd14d198c9831ef66d005
 Pipeline 339838, job 2672172
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-10-10T01:30:09.155088+00:00 for de-DE
-at SHA 59b2e4089cd
-Pipeline 4012512, job 59119892
-Patch from: 0.431.0-SHA-ecb3d867-RC5, 0.433.0-SHA-d37b1aa1-RC1
+TEXT: Built at 2026-10-14T01:27:43.825708+00:00 for de-DE
+at SHA 46a25b64966
+Pipeline 4019736, job 59225155
+Patch from: 0.435.0-SHA-5bec7604-RC1, 0.431.0-SHA-98b5070c-RC6, 0.433.0-SHA-a810fd7d-RC2
 
 RESOURCE ID: meteor_title_1
 TEXT: METEORSCHAUER
@@ -91821,7 +91821,7 @@ RESOURCE ID: quest_rowlet_snapshot_b
 TEXT: Mache einen Schnappschuss von {0} Bauz.
 
 RESOURCE ID: quest_safari2026_boston_visit_unique_pokestops_plural
-TEXT: Spin {0} different PokéStops or Gyms in Boston
+TEXT: Drehe {0} verschiedene PokéStops oder Arenen in Boston.
 
 RESOURCE ID: quest_sandt_catch_b
 TEXT: Fange {0} Sandan.
@@ -109892,6 +109892,9 @@ TEXT: Alle deine Pokémon wurden besiegt.
 RESOURCE ID: raid_defeat_try_again
 TEXT: Wähle neue Pokémon oder belebe und heile die kampfunfähigen Pokémon und kehre zum Kampf zurück!
 
+RESOURCE ID: raid_encounter_flee_warning_button_text
+TEXT: FLEE
+
 RESOURCE ID: raid_encounter_flee_warning_modal_title
 TEXT: Willst du wirklich fliehen?
 
@@ -117472,7 +117475,7 @@ RESOURCE ID: safari_city_2026_riodejaneiro_title_02
 TEXT: Stadt-Safari: Rio de Janeiro 2026 (3/3)
 
 RESOURCE ID: safari_city_boston_makegood_tr_dialog_00_00
-TEXT: Hello, %PLAYERNAME%! Ready to explore Boston?
+TEXT: Hallo, %PLAYERNAME%! Bist du bereit, Boston zu erkunden?
 
 RESOURCE ID: safari_city_leave_behind_dialog_00_00
 TEXT: Hallo, %PLAYERNAME%. Es ist wunderbar, dich hier zu sehen! Dies ist eine meiner Lieblingsstädte und sie ist bei anderen Pokémon-Trainern auch beliebt!
@@ -117676,13 +117679,13 @@ RESOURCE ID: safari_city_sr_dialog_02_01
 TEXT: Hast du ein paar gute Schnappschüsse gemacht und etwas Leckeres gegessen?
 
 RESOURCE ID: safari_city_sr_dialog_02_01_backup
-TEXT: How was your journey?
+TEXT: Wie war deine Reise?
 
 RESOURCE ID: safari_city_sr_dialog_02_02
 TEXT: Es gibt so viel zu sehen und ich hoffe, dass ihr zwei eure gemeinsamen Erlebnisse genießt! Ich bin mir sicher, dass du und Evoli auf viele weitere Abenteuer gehen werdet.
 
 RESOURCE ID: safari_city_sr_dialog_02_02_backup
-TEXT: There’s a lot to see, so I hope you enjoy exploring! I have no doubt there are many more journeys waiting for you.
+TEXT: Es gibt viel zu sehen. Viel Spaß beim Erkunden! Dich erwarten zweifellos noch viele weitere Abenteuer.
 
 RESOURCE ID: safari_city_sr_dialog_branch_00_backup
 TEXT: Hallo nochmal, %PLAYERNAME%!
@@ -125661,10 +125664,10 @@ RESOURCE ID: sr_gowa2026_irl_sendai_6
 TEXT: GO-Naturzone: Sendai・Tohoku – Die Spannung steigt (6/6)
 
 RESOURCE ID: sr_safari_city_boston_2026_makegood_sat_header
-TEXT: City Safari: Boston 2026 (Day 1)
+TEXT: Stadt-Safari: Boston 2026 (Tag 1)
 
 RESOURCE ID: sr_safari_city_boston_2026_makegood_sun_header
-TEXT: City Safari: Boston 2026 (Day 2)
+TEXT: Stadt-Safari: Boston 2026 (Tag 2)
 
 RESOURCE ID: sr_ticket_in_shop
 TEXT: Ticket für ein Spezialforschungs-Abenteuer im Shop erhältlich

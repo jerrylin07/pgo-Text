@@ -28656,22 +28656,22 @@ RESOURCE ID: city_manhole_473
 TEXT: 시카
 
 RESOURCE ID: city_manhole_474
-TEXT: Wajima
+TEXT: 와지마
 
 RESOURCE ID: city_manhole_475
-TEXT: Hasami
+TEXT: 하사미
 
 RESOURCE ID: city_manhole_476
-TEXT: Goto
+TEXT: 고토
 
 RESOURCE ID: city_manhole_477
-TEXT: Minamimaki
+TEXT: 미나미마키
 
 RESOURCE ID: city_manhole_478
-TEXT: Yamanouchi
+TEXT: 야마노우치
 
 RESOURCE ID: city_manhole_479
-TEXT: Omachi
+TEXT: 오마치
 
 RESOURCE ID: city_manhole_480
 TEXT: Isahaya
@@ -52533,7 +52533,7 @@ RESOURCE ID: iap_sale_time_left_label
 TEXT: 남은 시간: 
 
 RESOURCE ID: ibfc_minior_transformed
-TEXT: Minior changed form!
+TEXT: 메테노의 모습이 변했다!
 
 RESOURCE ID: ibfc_warn_needed_move
 TEXT: {0}(은)는 배틀 중에 모습을 바꾸는 데 필수
@@ -62650,10 +62650,10 @@ at SHA 4d4f3e80cc7fb911006bd14d198c9831ef66d005
 Pipeline 339838, job 2672172
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-10-10T01:30:09.155088+00:00 for ko-KR
-at SHA 59b2e4089cd
-Pipeline 4012512, job 59119892
-Patch from: 0.431.0-SHA-ecb3d867-RC5, 0.433.0-SHA-d37b1aa1-RC1
+TEXT: Built at 2026-10-14T01:27:43.825708+00:00 for ko-KR
+at SHA 46a25b64966
+Pipeline 4019736, job 59225155
+Patch from: 0.435.0-SHA-5bec7604-RC1, 0.431.0-SHA-98b5070c-RC6, 0.433.0-SHA-a810fd7d-RC2
 
 RESOURCE ID: meteor_title_1
 TEXT: 유성군
@@ -108915,6 +108915,9 @@ TEXT: 싸울 수 있는 포켓몬이 없다...
 RESOURCE ID: raid_defeat_try_again
 TEXT: 포켓몬을 선택하고(또는 회복하고) 배틀에 복귀!
 
+RESOURCE ID: raid_encounter_flee_warning_button_text
+TEXT: FLEE
+
 RESOURCE ID: raid_encounter_flee_warning_modal_title
 TEXT: Are you sure you want to flee?
 
@@ -120143,7 +120146,7 @@ TEXT: {0}(은)는 상한까지 업그레이드 되었습니다. 트레이너 레
 <a href="https://scopelyexplore.helpshift.com/hc/faq/1235-available-items-your-bag/">레벨업의 자세한 내용은 여기.</a>
 
 RESOURCE ID: shop_gift_confirm_purchase_warning_description
-TEXT: You can send <b>{0}</b> total paid gifts today. This gift cannot be used by another player or refunded.
+TEXT: You can send a total of 20 paid gifts per day. This gift cannot be used by another player or refunded.
 
 RESOURCE ID: shop_gift_friend_ineligible_title
 TEXT: 티켓을 보낼 수 없습니다

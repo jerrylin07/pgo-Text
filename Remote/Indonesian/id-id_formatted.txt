@@ -60598,10 +60598,10 @@ at SHA 12701f1c07ae7f07a5d50583f697320977df7988
 Pipeline 1139111, job 13470914
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-10-10T01:30:09.155088+00:00 for id-ID
-at SHA 59b2e4089cd
-Pipeline 4012512, job 59119892
-Patch from: 0.431.0-SHA-ecb3d867-RC5, 0.433.0-SHA-d37b1aa1-RC1
+TEXT: Built at 2026-10-14T01:27:43.825708+00:00 for id-ID
+at SHA 46a25b64966
+Pipeline 4019736, job 59225155
+Patch from: 0.435.0-SHA-5bec7604-RC1, 0.431.0-SHA-98b5070c-RC6, 0.433.0-SHA-a810fd7d-RC2
 
 RESOURCE ID: meteor_title_1
 TEXT: HUJAN METEOR
@@ -106775,6 +106775,9 @@ TEXT: Semua Pokémonmu pingsan!
 
 RESOURCE ID: raid_defeat_try_again
 TEXT: Pilih Pokémon baru atau sembuhkan Pokémon yang pingsan dan kembali ke pertarungan!
+
+RESOURCE ID: raid_encounter_flee_warning_button_text
+TEXT: FLEE
 
 RESOURCE ID: raid_encounter_flee_warning_modal_title
 TEXT: Are you sure you want to flee?

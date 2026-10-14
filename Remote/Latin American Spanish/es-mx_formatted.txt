@@ -745,7 +745,7 @@ RESOURCE ID: advanced_settings_streamer_mode_toggle_description
 TEXT: Activa esta opción para ocultar la ubicación de captura de los Pokémon durante 8 horas.
 
 RESOURCE ID: adventure_effect_activation_lobby_active
-TEXT: This Adventure Effect is currently active.
+TEXT: Este Efecto aventura está activo actualmente.
 
 RESOURCE ID: adventure_effect_incense_table_header
 TEXT: Pokémon atraídos
@@ -60355,7 +60355,7 @@ RESOURCE ID: mega_evolve_lobby_existing_toast
 TEXT: Sólo puedes usar un Pokémon megaevolucionado a la vez
 
 RESOURCE ID: mega_evolve_pokemon_to_use_in_this_party
-TEXT: Megaevoluciona a Gengar para usar este equipo.
+TEXT: Megaevoluciona a {0} para usar este equipo.
 
 RESOURCE ID: mega_evolve_preview_first_time
 TEXT: Una vez que hayas megaevolucionado a un Pokémon por primera vez, puedes megaevolucionarlo de nuevo sin Megaenergía tras un periodo de descanso.
@@ -60761,10 +60761,10 @@ at SHA 0b3915937aff7
 Pipeline 2177475, job 26434025
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-10-10T01:30:09.155088+00:00 for es-MX
-at SHA 59b2e4089cd
-Pipeline 4012512, job 59119892
-Patch from: 0.431.0-SHA-ecb3d867-RC5, 0.433.0-SHA-d37b1aa1-RC1
+TEXT: Built at 2026-10-14T01:27:43.825708+00:00 for es-MX
+at SHA 46a25b64966
+Pipeline 4019736, job 59225155
+Patch from: 0.435.0-SHA-5bec7604-RC1, 0.431.0-SHA-98b5070c-RC6, 0.433.0-SHA-a810fd7d-RC2
 
 RESOURCE ID: meteor_title_1
 TEXT: LLUVIA DE METEOROS
@@ -106819,6 +106819,9 @@ TEXT: ¡Todos tus Pokémon se debilitaron!
 RESOURCE ID: raid_defeat_try_again
 TEXT: ¡Selecciona nuevos Pokémon o cura a los que se debilitaron para volver al combate!
 
+RESOURCE ID: raid_encounter_flee_warning_button_text
+TEXT: FLEE
+
 RESOURCE ID: raid_encounter_flee_warning_modal_title
 TEXT: Are you sure you want to flee?
 
@@ -111174,7 +111177,7 @@ RESOURCE ID: returning_sign_in_partial
 TEXT: Inicia sesión con {0}
 
 RESOURCE ID: revert_pokemon_to_its_primal_form_to_use_this_party
-TEXT: Revierte a Kyogre a su forma Primigenia para usar este equipo.
+TEXT: Revierte a {0} a su forma Primigenia para usar este equipo.
 
 RESOURCE ID: revive_all_button
 TEXT: Revivir a todos

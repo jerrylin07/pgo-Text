@@ -62957,10 +62957,10 @@ at SHA 4d4f3e80cc7fb911006bd14d198c9831ef66d005
 Pipeline 339838, job 2672172
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-10-10T01:30:09.155088+00:00 for en-US
-at SHA 59b2e4089cd
-Pipeline 4012512, job 59119892
-Patch from: 0.431.0-SHA-ecb3d867-RC5, 0.433.0-SHA-d37b1aa1-RC1
+TEXT: Built at 2026-10-14T01:27:43.825708+00:00 for en-US
+at SHA 46a25b64966
+Pipeline 4019736, job 59225155
+Patch from: 0.435.0-SHA-5bec7604-RC1, 0.431.0-SHA-98b5070c-RC6, 0.433.0-SHA-a810fd7d-RC2
 
 RESOURCE ID: meteor_title_1
 TEXT: METEOR SHOWER
@@ -109244,6 +109244,9 @@ TEXT: All your Pokémon have fainted.
 RESOURCE ID: raid_defeat_try_again
 TEXT: Select new Pokémon or heal up those that fainted and get back to the battle!
 
+RESOURCE ID: raid_encounter_flee_warning_button_text
+TEXT: FLEE
+
 RESOURCE ID: raid_encounter_flee_warning_modal_title
 TEXT: Are you sure you want to flee?
 
@@ -120481,7 +120484,7 @@ TEXT: Your {0} are fully upgraded! Earn more storage by leveling up!
 <a href="https://scopelyexplore.helpshift.com/hc/faq/1235-available-items-your-bag/">Learn more about leveling up here.</a>
 
 RESOURCE ID: shop_gift_confirm_purchase_warning_description
-TEXT: You can send <b>{0}</b> total paid gifts today. This gift cannot be used by another player or refunded.
+TEXT: You can send a total of 20 paid gifts per day. This gift cannot be used by another player or refunded.
 
 RESOURCE ID: shop_gift_friend_ineligible_title
 TEXT: Cannot Send Gift

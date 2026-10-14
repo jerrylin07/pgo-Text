@@ -29282,40 +29282,40 @@ RESOURCE ID: city_manhole_473
 TEXT: ชิกะ
 
 RESOURCE ID: city_manhole_474
-TEXT: Wajima
+TEXT: วาจิมะ
 
 RESOURCE ID: city_manhole_475
-TEXT: Hasami
+TEXT: ฮาซามิ
 
 RESOURCE ID: city_manhole_476
-TEXT: Goto
+TEXT: โกโตะ
 
 RESOURCE ID: city_manhole_477
-TEXT: Minamimaki
+TEXT: มินามิมากิ
 
 RESOURCE ID: city_manhole_478
-TEXT: Yamanouchi
+TEXT: ยามาโนะอุจิ
 
 RESOURCE ID: city_manhole_479
-TEXT: Omachi
+TEXT: โอมาจิ
 
 RESOURCE ID: city_manhole_480
-TEXT: Isahaya
+TEXT: อิซาฮายะ
 
 RESOURCE ID: city_manhole_481
-TEXT: Saikai
+TEXT: ไซไก
 
 RESOURCE ID: city_manhole_482
-TEXT: Ina
+TEXT: อินะ
 
 RESOURCE ID: city_manhole_483
-TEXT: Tsushima
+TEXT: สึชิมะ
 
 RESOURCE ID: city_manhole_484
-TEXT: Okaya
+TEXT: โอคายะ
 
 RESOURCE ID: city_manhole_485
-TEXT: Kiso
+TEXT: คิโสะ
 
 RESOURCE ID: city_manhole_4(ibusuki)_d64e
 TEXT: อิบุสุกิ
@@ -55825,7 +55825,7 @@ RESOURCE ID: iap_sale_time_left_label
 TEXT: เหลือเวลา: 
 
 RESOURCE ID: ibfc_minior_transformed
-TEXT: Minior changed form!
+TEXT: เมเทโนเปลี่ยนร่าง!
 
 RESOURCE ID: ibfc_warn_needed_move
 TEXT: จำเป็นต้องมีท่า "{0}" เพื่อเปลี่ยนร่างระหว่างแบตเทิล
@@ -67742,10 +67742,10 @@ at SHA da71d231c41a4d4f7aef0d6fd71061652ff15a0a
 Pipeline 441624, job 3600523
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-10-10T01:30:09.155088+00:00 for th-TH
-at SHA 59b2e4089cd
-Pipeline 4012512, job 59119892
-Patch from: 0.431.0-SHA-ecb3d867-RC5, 0.433.0-SHA-d37b1aa1-RC1
+TEXT: Built at 2026-10-14T01:27:43.825708+00:00 for th-TH
+at SHA 46a25b64966
+Pipeline 4019736, job 59225155
+Patch from: 0.435.0-SHA-5bec7604-RC1, 0.431.0-SHA-98b5070c-RC6, 0.433.0-SHA-a810fd7d-RC2
 
 RESOURCE ID: meteor_title_1
 TEXT: ฝนดาวตก
@@ -120094,6 +120094,9 @@ TEXT: โปเกมอนทั้งหมดของคุณหมดส�
 RESOURCE ID: raid_defeat_try_again
 TEXT: เลือกโปเกมอนใหม่ หรือฟื้นสภาพและรักษาโปเกมอนที่หมดสติแล้วกลับไปแบตเทิลต่อ!
 
+RESOURCE ID: raid_encounter_flee_warning_button_text
+TEXT: FLEE
+
 RESOURCE ID: raid_encounter_flee_warning_modal_title
 TEXT: Are you sure you want to flee?
 
@@ -131796,7 +131799,7 @@ TEXT: {0}อัปเกรดจนถึงขีดจำกัดแล้�
 <a href="https://scopelyexplore.helpshift.com/hc/faq/1235-available-items-your-bag/">เรียนรู้เพิ่มเติมเกี่ยวกับการเลเวลอัปได้ที่นี่</a>
 
 RESOURCE ID: shop_gift_confirm_purchase_warning_description
-TEXT: You can send <b>{0}</b> total paid gifts today. This gift cannot be used by another player or refunded.
+TEXT: You can send a total of 20 paid gifts per day. This gift cannot be used by another player or refunded.
 
 RESOURCE ID: shop_gift_friend_ineligible_title
 TEXT: ไม่สามารถส่งตั๋วได้
