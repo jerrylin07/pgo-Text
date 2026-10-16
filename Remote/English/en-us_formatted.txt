@@ -21991,7 +21991,7 @@ RESOURCE ID: buddy_monodepth_modal_turn_off_button
 TEXT: Turn off Scopely Explore AR Platform (Trial)
 
 RESOURCE ID: buddy_multilplayer_qr_display_header
-TEXT: Buddy Group QR Code
+TEXT: Buddy Group 2D Code
 
 RESOURCE ID: buddy_multiplayer_quit
 TEXT: Do you want to quit the session?
@@ -22000,7 +22000,7 @@ RESOURCE ID: buddy_multiplayer_connection_error
 TEXT: Connection Failure
 
 RESOURCE ID: buddy_multiplayer_create_session
-TEXT: Create Group QR Code
+TEXT: Create Group 2D Code
 
 RESOURCE ID: buddy_multiplayer_deploy_invalid_position
 TEXT: Try to find a larger flat area.
@@ -22082,7 +22082,7 @@ RESOURCE ID: buddy_multiplayer_lobby_body_peer
 TEXT: Get instructions from the group leader to find the hiding spots!
 
 RESOURCE ID: buddy_multiplayer_mapping_timeout
-TEXT: The current Buddy Group closed due to inactivity. To continue, please retry by scanning a Group QR Code.
+TEXT: The current Buddy Group closed due to inactivity. To continue, please retry by scanning a Group 2D Code.
 
 RESOURCE ID: buddy_multiplayer_peer_cannot_exit_group_photo
 TEXT: {0} is the photo leader right now. Ask {0} to turn off Group Photo mode.
@@ -22109,7 +22109,7 @@ RESOURCE ID: buddy_multiplayer_player_count_can_join_singular
 TEXT: 1 more Trainer can join
 
 RESOURCE ID: buddy_multiplayer_qr_guidance
-TEXT: Scan a Group QR Code
+TEXT: Scan a Group 2D Code
 
 RESOURCE ID: buddy_multiplayer_qr_display_body
 TEXT: If everyone is gathered, tap the GO button.
@@ -22121,7 +22121,7 @@ RESOURCE ID: buddy_multiplayer_safety_warning
 TEXT: While using AR mode, make sure you’re in a safe location and any children are supervised at all times.
 
 RESOURCE ID: buddy_multiplayer_scan_button
-TEXT: Scan a Group QR Code
+TEXT: Scan a Group 2D Code
 
 RESOURCE ID: buddy_multiplayer_start_session
 TEXT: Go
@@ -22130,7 +22130,7 @@ RESOURCE ID: buddy_multiplayer_timeout_dialog_title
 TEXT: The Buddy Group has closed.
 
 RESOURCE ID: buddy_multiplayer_timeout_dialog_description
-TEXT: The current Buddy Group closed due to inactivity. To continue, please retry by scanning a Group QR Code.
+TEXT: The current Buddy Group closed due to inactivity. To continue, please retry by scanning a Group 2D Code.
 
 RESOURCE ID: buddy_multiplayer_tutorial_0_title
 TEXT: Play in a well-lit area
@@ -29925,7 +29925,7 @@ RESOURCE ID: combat_matchmaking_generic_error
 TEXT: Error finding match.
 
 RESOURCE ID: combat_matchmaking_invalid_qr
-TEXT: WRONG!
+TEXT: Invalid 2D Code.
 
 RESOURCE ID: combat_matchmaking_match_found_status
 TEXT: Battle starting
@@ -31610,6 +31610,9 @@ TEXT: For more details, visit the <a href="https://pokemongolive.com/post/commun
 
 RESOURCE ID: details_link_key_mawileraidday
 TEXT: For more details, visit the <a href="https://pokemongolive.com/post/mega-mawile-raid-day-2024">website</a>.
+
+RESOURCE ID: details_link_key_megachandelureraidday
+TEXT: For more details, visit the <a href="https://pokemongo.com/news/chandelure-super-mega-raid-day-2026">website</a>.
 
 RESOURCE ID: details_link_key_megalucarioraidday24
 TEXT: For more details, visit the <a href="https://pokemongolive.com/post/mega-lucario-raid-ultra-unlock">website</a>.
@@ -34641,6 +34644,9 @@ TEXT: Your City Experience is active! You can take part in the event throughout 
 
 RESOURCE ID: event_live_park_active_generic
 TEXT: Your Park Experience is active! Head to the park to take part in the event. Enjoy!
+
+RESOURCE ID: event_mega_chandelure_raid_day_timed_research
+TEXT: Chandelure Super Mega Raid Day Timed Research
 
 RESOURCE ID: event_mega_cp_bonus
 TEXT: Boosted CP for certain Mega-Evolved Pokémon
@@ -41429,6 +41435,9 @@ TEXT: Tynamo Community Day Ticket
 
 RESOURCE ID: general2.ticket.2_sandilehatchday26_title
 TEXT: Sandile Hatch Day Premium Timed Research Ticket
+
+RESOURCE ID: general2.ticket.5_megachandelureraidday
+TEXT: Chandelure Super Mega Raid Day Ticket
 
 RESOURCE ID: general2.ticket.5_megafalinksraidday
 TEXT: Falinks Super Mega Raid Day Ticket
@@ -53847,6 +53856,9 @@ TEXT: Featured
 RESOURCE ID: item_bag_category_gifts
 TEXT: Gifts
 
+RESOURCE ID: item_bag_category_incubators
+TEXT: Incubators
+
 RESOURCE ID: item_bag_category_lures
 TEXT: Lures
 
@@ -53864,6 +53876,9 @@ TEXT: Poké Balls
 
 RESOURCE ID: item_bag_category_tm
 TEXT: TMs
+
+RESOURCE ID: item_bag_category_berries_and_poffins
+TEXT: Berries and Poffins
 
 RESOURCE ID: item_bag_category_key_items
 TEXT: Key Items
@@ -54801,6 +54816,9 @@ TEXT: A ticket to access special bonuses on Saturday, April 5, 2025, from 2:00 p
 RESOURCE ID: item_event_ticket_gray_desc_megacameruptraidday
 TEXT: A ticket to access special bonuses on September 28, 2025, from 2:00 p.m. to 5:00 p.m. local time, wherever you are.
 
+RESOURCE ID: item_event_ticket_gray_desc_megachandelureraidday
+TEXT: A ticket to access special bonuses on Saturday, October 31, 2026, from 2:00 p.m. to 5:00 p.m. local time, wherever you are.
+
 RESOURCE ID: item_event_ticket_gray_desc_megafalinksraidday
 TEXT: A ticket to access special bonuses on Saturday, May 23, 2026, from 2:00 p.m. to 5:00 p.m. local time, wherever you are.
 
@@ -54992,6 +55010,9 @@ TEXT: This ticket will automatically activate to give you access to special bonu
 
 RESOURCE ID: item_event_ticket_gray_details_megacameruptraidday
 TEXT: This ticket will automatically activate to give you access to special bonuses on September 28, wherever you are.
+
+RESOURCE ID: item_event_ticket_gray_details_megachandelureraidday
+TEXT: This ticket will automatically activate on October 31 to give you access to special bonuses, wherever you are.
 
 RESOURCE ID: item_event_ticket_gray_details_megafalinksraidday
 TEXT: This ticket will automatically activate on May 23 to give you access to special bonuses, wherever you are.
@@ -56873,6 +56894,9 @@ TEXT: {0} dropped an item when caught!
 
 RESOURCE ID: journal_declined_ex_raid_ticket_from_friend
 TEXT: You declined an invitation from {0}.
+
+RESOURCE ID: journal_player_fled
+TEXT: Fled from a raid encounter with {0}.
 
 RESOURCE ID: journal_received_fitness_rewards
 TEXT: Received {0} items from Weekly Adventure Sync Rewards.
@@ -62411,6 +62435,12 @@ TEXT: Mega Catch Cup: Great League Edition
 RESOURCE ID: mega_championship_cup_great_title
 TEXT: 2026 GO LAIC Cup: Great League Edition
 
+RESOURCE ID: mega_chandelure_global_challenge
+TEXT: Chandelure Super Mega Raid Day Global Challenge
+
+RESOURCE ID: mega_chandelure_raid_day_event_name
+TEXT: Chandelure Super Mega Raid Day
+
 RESOURCE ID: mega_color_cup_great_title
 TEXT: Mega Color Cup: Great League Edition
 
@@ -62674,6 +62704,11 @@ TEXT: When you catch a Pokémon that shares a type with your Mega-Evolved Pokém
 • Extra Candy
 • Extra XP
 • An increased chance of receiving Candy XL
+
+RESOURCE ID: mega_level_tutorial_cp_downscaling_1_body
+TEXT: If a Mega Pokémon’s CP exceeds certain Battle Leagues, their levels will be temporarily adjusted to where its CP is within that Battle League’s limits.
+
+Pokémon at Super Max Level will not have the Greatly Increased CP bonus in Master League.
 
 RESOURCE ID: mega_level_tutorial_hero_title
 TEXT: Let’s GO Mega!
@@ -62957,10 +62992,10 @@ at SHA 4d4f3e80cc7fb911006bd14d198c9831ef66d005
 Pipeline 339838, job 2672172
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-10-14T01:27:43.825708+00:00 for en-US
-at SHA 46a25b64966
-Pipeline 4019736, job 59225155
-Patch from: 0.435.0-SHA-5bec7604-RC1, 0.431.0-SHA-98b5070c-RC6, 0.433.0-SHA-a810fd7d-RC2
+TEXT: Built at 2026-10-16T22:34:57.171068+00:00 for en-US
+at SHA d68311f630a
+Pipeline 4029884, job 59396785
+Patch from: 0.431.0-SHA-8123c737-RC1, 0.433.0-SHA-94a605de-RC4, 0.435.0-SHA-5bec7604-RC1
 
 RESOURCE ID: meteor_title_1
 TEXT: METEOR SHOWER
@@ -63156,6 +63191,9 @@ TEXT: Collection Challenge complete!
 
 RESOURCE ID: minicollect_progress_indicator
 TEXT: Collection Challenge progress!
+
+RESOURCE ID: minior_shower_tr_name
+TEXT: Minior Shower Timed Research
 
 RESOURCE ID: minute_abbrev
 TEXT: m
@@ -68137,6 +68175,15 @@ TEXT: Night
 RESOURCE ID: nearby_active_reminder_header
 TEXT: ACTIVE RSVP
 
+RESOURCE ID: nearby_incomplete_raid_header
+TEXT: IN PROGRESS
+
+RESOURCE ID: nearby_incomplete_raid_widget_title
+TEXT: Rejoin the {0} raid
+
+RESOURCE ID: nearby_incomplete_raid_widget_header
+TEXT: REJOIN
+
 RESOURCE ID: nearby_pokemon_clear_button
 TEXT: Clear
 
@@ -68790,6 +68837,12 @@ TEXT: Old Friends, New Beginnings
 
 RESOURCE ID: old_friends_description
 TEXT: Old Friends, New Beginnings Timed Research
+
+RESOURCE ID: ominous_wind_base_increased_level_bonus
+TEXT: Mega Chandelure at Super Max Level will have its CP boosted from November 2 at 12:00 p.m. through November 15, 2026, at 12:00pm PST.
+
+RESOURCE ID: ominous_wind_base_power_boost_bonus
+TEXT: Ominous Wind+ will have its power increased from November 2 at 12:00 p.m.  through November 15, 2026, at 12:00 p.m. PST.
 
 RESOURCE ID: onboard_accept_tos
 TEXT: Accept
@@ -69882,7 +69935,7 @@ RESOURCE ID: party_play_raid_menu_header
 TEXT: PARTY PLAY RAIDS
 
 RESOURCE ID: party_play_scan_qr_code
-TEXT: Scan the party’s QR code.
+TEXT: Scan the party’s 2D code.
 
 RESOURCE ID: party_play_see_all_activities
 TEXT: See All Activities
@@ -83783,7 +83836,7 @@ RESOURCE ID: pokestop_button_manual_input_2
 TEXT: Switch to Manual Input
 
 RESOURCE ID: pokestop_button_read_qr_code
-TEXT: READ QR CODE
+TEXT: READ 2D CODE
 
 RESOURCE ID: pokestop_challenge_fr_title
 TEXT: PokéStop Challenge
@@ -83796,7 +83849,7 @@ TEXT: PokéStop Challenge Timed Research (1/1)
 
 RESOURCE ID: pokestop_check_in_notice
 TEXT: Welcome to {0}!
-Please use the camera to read the QR Code to check in.
+Please use the camera to read the 2D Code to check in.
 
 RESOURCE ID: pokestop_check_in_succeeded
 TEXT: SUCCESSFULLY CHECKED IN
@@ -84836,7 +84889,7 @@ RESOURCE ID: psychic_type_event
 TEXT: Type Surge: Psychic
 
 RESOURCE ID: ptc_account_creation_prompt
-TEXT: Don't have a Pokémon Trainer Club account?
+TEXT: No Pokémon Trainer Central account?
 
 RESOURCE ID: ptc_auth_failed
 TEXT: Unable to authenticate. Please try again.
@@ -84848,13 +84901,13 @@ RESOURCE ID: ptc_auth_consent_needed
 TEXT: You must give Pokémon GO access to your Pokémon Trainer Central account to continue playing.
 
 RESOURCE ID: ptc_auth_consent_needed_out
-TEXT: You must give Pokémon GO access to your Pokémon Trainer Club account to continue playing.
+TEXT: You must give Pokémon GO access to your Pokémon Trainer Central account to continue playing.
 
 RESOURCE ID: ptc_auth_link_btn
 TEXT: Link
 
 RESOURCE ID: ptc_auth_link_disclaimer
-TEXT: Once linked, Pokémon Trainer Club cannot be unlinked.
+TEXT: Once linked, Pokémon Trainer Central cannot be unlinked.
 
 RESOURCE ID: ptc_auth_link_failed
 TEXT: Linking failed
@@ -84863,22 +84916,22 @@ RESOURCE ID: ptc_auth_link_message
 TEXT: Link a Pokémon Trainer Central account to your Pokémon GO account to earn an {0}.
 
 RESOURCE ID: ptc_auth_link_message_out
-TEXT: Link a Pokémon Trainer Club account to your Pokémon GO account to earn an {0}.
+TEXT: Link a Pokémon Trainer Central account to your Pokémon GO account to earn an {0}.
 
 RESOURCE ID: ptc_auth_link_toggle_disclaimer
 TEXT: Cannot unlink.
 
 RESOURCE ID: ptc_auth_parent_consent_needed
-TEXT: You’ll need a parent or guardian to give Pokémon GO access to your Pokémon Trainer Club account.
+TEXT: You’ll need a parent or guardian to give Pokémon GO access to your Pokémon Trainer Central account.
 
 RESOURCE ID: ptc_auth_retry_validate
 TEXT: Please validate using the username and password linked to your account.
 
 RESOURCE ID: ptc_auth_timed_research_title
-TEXT: Pokémon Trainer Club Reward
+TEXT: Pokémon Trainer Central Reward
 
 RESOURCE ID: ptc_auth_timed_research_message
-TEXT: Link or validate your Pokémon Trainer Club account by tapping the Account option in Pokémon GO’s Settings menu.
+TEXT: Link or validate your Pokémon Trainer Central account by tapping the Account option in Pokémon GO’s Settings menu.
 
 RESOURCE ID: ptc_auth_validate_title
 TEXT: {0} Reward
@@ -84896,10 +84949,10 @@ RESOURCE ID: ptc_auth_validate_footer
 TEXT: Pokémon GO may restart after successful validation.
 
 RESOURCE ID: ptc_auth_validate_message
-TEXT: Validate your Pokémon Trainer Club account to earn a {0}.
+TEXT: Validate your Pokémon Trainer Central account to earn a {0}.
 
 RESOURCE ID: ptc_auth_validate_success
-TEXT: Pokémon Trainer Club account successfully validated! Pokémon GO will restart.
+TEXT: Pokémon Trainer Central account successfully validated! Pokémon GO will restart.
 
 RESOURCE ID: ptc_auth_validate_trainer_name
 TEXT: Linked with username: {0}
@@ -84911,7 +84964,7 @@ RESOURCE ID: ptc_claim_reward_msg
 TEXT: You have successfully linked your Pokémon Trainer Central account and earned an Incubator.
 
 RESOURCE ID: ptc_claim_reward_msg_out
-TEXT: You have successfully linked your Pokémon Trainer Club account and earned an Incubator.
+TEXT: You have successfully linked your Pokémon Trainer Central account and earned an Incubator.
 
 RESOURCE ID: ptc_error_activation_required
 TEXT: Please activate your account in order to play Pokémon GO.
@@ -84932,16 +84985,16 @@ RESOURCE ID: ptc_login_submit
 TEXT: Sign in
 
 RESOURCE ID: ptc_login_button_out
-TEXT: Pokémon Trainer Club
+TEXT: Pokémon Trainer Central
 
 RESOURCE ID: ptc_login_server_unreachable
 TEXT: The Pokémon Trainer Central is currently unavailable. We apologize for the inconvenience.
 
 RESOURCE ID: ptc_login_server_unreachable_out
-TEXT: The Pokémon Trainer Club is currently unavailable. We apologize for the inconvenience.
+TEXT: The Pokémon Trainer Central is currently unavailable. We apologize for the inconvenience.
 
 RESOURCE ID: ptc_login_title_out
-TEXT: Pokémon Trainer Club
+TEXT: Pokémon Trainer Central
 
 RESOURCE ID: ptc_login_title_short
 TEXT: Trainer Club
@@ -85031,10 +85084,10 @@ RESOURCE ID: pxp_worlds_event_name_2026
 TEXT: PokémonXP & 2026 Worlds
 
 RESOURCE ID: qr_code_title
-TEXT: Scan the QR Code
+TEXT: Scan the 2D Code
 
 RESOURCE ID: qr_decode_problem
-TEXT: QR Code recognition failed. Please try manual input.
+TEXT: 2D Code recognition failed. Please try manual input.
 
 RESOURCE ID: qualifier_limited _one_event_raid
 TEXT: Note: Certain special event raids can only be completed by each Trainer once.
@@ -86969,6 +87022,9 @@ TEXT: Defeat a Fighting-type Raid Boss
 
 RESOURCE ID: quest_defeat_flying_type_raid_singular
 TEXT: Defeat a Flying-type Raid Boss
+
+RESOURCE ID: quest_defeat_ghost_fire_type_raid_singular
+TEXT: Defeat a Fire- or Ghost-type Raid Boss
 
 RESOURCE ID: quest_defeat_jessie_james_plural
 TEXT: Defeat Jessie or James {0} times
@@ -112526,6 +112582,9 @@ TEXT: RECORD NEW ROUTE
 RESOURCE ID: recycle_dialog_prefix
 TEXT: Discard
 
+RESOURCE ID: recycle_dialog_quantity
+TEXT: QUANTITY: {0}
+
 RESOURCE ID: recycle_dialog_suffix
 TEXT: {0}?
 
@@ -121674,10 +121733,10 @@ RESOURCE ID: social_add_friend_facebook
 TEXT: Import friends from Facebook
 
 RESOURCE ID: social_add_friend_qr
-TEXT: QR Code
+TEXT: 2D Code
 
 RESOURCE ID: social_add_friend_qr_v2
-TEXT: SCAN QR CODE
+TEXT: SCAN 2D CODE
 
 RESOURCE ID: social_cancel_friend_request
 TEXT: Cancel request
@@ -121689,7 +121748,7 @@ RESOURCE ID: social_my_code
 TEXT: MY TRAINER CODE
 
 RESOURCE ID: social_my_qr_code
-TEXT: My QR Code
+TEXT: My 2D Code
 
 RESOURCE ID: social_no_friends
 TEXT: Play together with your friends to unlock trades, Premier Balls, and power-ups for battle!
@@ -121816,13 +121875,13 @@ RESOURCE ID: social_qr_code_header
 TEXT: MY CODE
 
 RESOURCE ID: social_qr_code_prompt
-TEXT: Scan this QR Code with another Trainer's scanner.
+TEXT: Scan this 2D Code with another Trainer’s scanner.
 
 RESOURCE ID: social_qr_scan_header
 TEXT: SCAN
 
 RESOURCE ID: social_qr_scan_prompt
-TEXT: Scan a Trainer's QR Code
+TEXT: Scan a Trainer’s 2D Code
 
 RESOURCE ID: social_remove_friend
 TEXT: Remove Friend
@@ -127703,6 +127762,13 @@ TEXT: <b>Included rewards:</b>
 • 10 Pinap Berries
 • 3,000 Stardust
 
+RESOURCE ID: text_rewards_key_chandelureraidday
+TEXT: <b>Included bonuses:</b>
+• Eight additional Raid Passes from spinning Photo Discs at Gyms
+• Increased chance to receive Rare Candy XL from raids
+• Additional 5,000 Stardust from successfully completing Super Mega Raids
+• Additional 5,000 XP from successfully completing Super Mega Raids
+
 RESOURCE ID: text_rewards_key_chargedembers1224
 TEXT: <b>Included rewards:</b>
 • 1 Super Incubator
@@ -130261,6 +130327,12 @@ TEXT: Trading Pokémon
 
 RESOURCE ID: tips_tasks_trade_body
 TEXT: You must be near a friend to trade with them. Then, go to their Trainer profile on your Friends list and tap TRADE.
+
+RESOURCE ID: tips_tasks_weather_boost_title
+TEXT: Weather Boosts
+
+RESOURCE ID: tips_tasks_weather_boost_body
+TEXT: Certain Pokémon appear more frequently when the weather matches their type. These Pokémon have higher CP, are stronger in battle, and award extra Stardust when they’re caught.
 
 RESOURCE ID: tips_trading_intro_conversation_1
 TEXT: Hey there, %PLAYERNAME%! Did you know you can trade Pokémon with other Trainers?

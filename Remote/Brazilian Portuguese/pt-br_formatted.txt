@@ -31865,6 +31865,9 @@ TEXT: Para mais informações, visite o <a href="https://pokemongolive.com/post/
 RESOURCE ID: details_link_key_mawileraidday
 TEXT: Para mais informações, visite o <a href="https://pokemongolive.com/post/mega-mawile-raid-day-2024">site</a>.
 
+RESOURCE ID: details_link_key_megachandelureraidday
+TEXT: Para mais informações, visite o <a href="https://pokemongo.com/news/chandelure-super-mega-raid-day-2026">site</a>.
+
 RESOURCE ID: details_link_key_megalucarioraidday24
 TEXT: Para mais informações, visite o <a href="https://pokemongolive.com/post/mega-lucario-raid-ultra-unlock">site</a>.
 
@@ -34895,6 +34898,9 @@ TEXT: Sua Experiência na cidade está ativa! Você pode participar do evento po
 
 RESOURCE ID: event_live_park_active_generic
 TEXT: Sua Experiência no parque está ativa! Vá até o parque para participar do evento. Aproveite!
+
+RESOURCE ID: event_mega_chandelure_raid_day_timed_research
+TEXT: Pesquisa Temporária do Dia de Super Megarreides: Chandelure
 
 RESOURCE ID: event_mega_cp_bonus
 TEXT: PC aumentado por certos Pokémon Megaevoluídos
@@ -41722,6 +41728,9 @@ TEXT: Ingresso para o Dia Comunitário de Tynamo
 
 RESOURCE ID: general2.ticket.2_sandilehatchday26_title
 TEXT: Ingresso para a Pesquisa Temporária Premium do Dia de Chocar Sandile
+
+RESOURCE ID: general2.ticket.5_megachandelureraidday
+TEXT: Ingresso para o Dia de Super Megarreides: Chandelure
 
 RESOURCE ID: general2.ticket.5_megafalinksraidday
 TEXT: Ingresso para o Dia de Super Megarreides: Falinks
@@ -50779,7 +50788,7 @@ RESOURCE ID: gowa2025_leadup_global_todayview_bonus
 TEXT: Bônus Adicionais de Natureza Selvagem
 
 RESOURCE ID: gowa2026_leadup_collection_challenge
-TEXT: Into the Wild Collection Challenge
+TEXT: Desafio de Coleção de Natureza Selvagem
 
 RESOURCE ID: gowa_supply_balloon_gsb
 TEXT: Um Balão de Suprimentos aparecerá a cada hora. Toque nele para receber Bolas Safari GO!
@@ -54141,6 +54150,9 @@ TEXT: Destaques
 RESOURCE ID: item_bag_category_gifts
 TEXT: Presentes
 
+RESOURCE ID: item_bag_category_incubators
+TEXT: Incubators
+
 RESOURCE ID: item_bag_category_lures
 TEXT: Lures
 
@@ -54158,6 +54170,9 @@ TEXT: Poké Balls
 
 RESOURCE ID: item_bag_category_tm
 TEXT: TMs
+
+RESOURCE ID: item_bag_category_berries_and_poffins
+TEXT: Berries and Poffins
 
 RESOURCE ID: item_bag_category_key_items
 TEXT: Key Items
@@ -55095,6 +55110,9 @@ TEXT: Um ingresso para acessar bônus especiais no sábado, 5 de abril de 2025, 
 RESOURCE ID: item_event_ticket_gray_desc_megacameruptraidday
 TEXT: Um ingresso para acessar bônus especiais em 28 de setembro de 2025, das 14h às 17h do seu horário local, de onde você estiver.
 
+RESOURCE ID: item_event_ticket_gray_desc_megachandelureraidday
+TEXT: Um ingresso para acessar bônus especiais no sábado, 31 de outubro de 2026, das 14h às 17h do seu horário local, de onde você estiver.
+
 RESOURCE ID: item_event_ticket_gray_desc_megafalinksraidday
 TEXT: Um ingresso para acessar bônus especiais no sábado, 23 de maio de 2026, das 14h às 17h do seu horário local, de onde você estiver.
 
@@ -55286,6 +55304,9 @@ TEXT: Este ingresso será ativado automaticamente para lhe garantir acesso a bô
 
 RESOURCE ID: item_event_ticket_gray_details_megacameruptraidday
 TEXT: Este ingresso será ativado automaticamente para lhe garantir acesso a bônus especiais em 28 de setembro, de onde você estiver.
+
+RESOURCE ID: item_event_ticket_gray_details_megachandelureraidday
+TEXT: Este ingresso será ativado automaticamente no dia 31 de outubro para lhe garantir acesso a bônus especiais, de onde você estiver.
 
 RESOURCE ID: item_event_ticket_gray_details_megafalinksraidday
 TEXT: Este ingresso será ativado automaticamente no dia 23 de maio para lhe garantir acesso a bônus especiais, de onde você estiver.
@@ -56601,7 +56622,7 @@ RESOURCE ID: item_mp_name
 TEXT: Partícula Max
 
 RESOURCE ID: item_mp_name_plural
-TEXT: Max Particles
+TEXT: Partículas Max
 
 RESOURCE ID: item_mp_replenish_desc
 TEXT: Um pacote pequeno de Partículas Max. Cada pacote contém {0} Partículas Max.
@@ -57167,6 +57188,9 @@ TEXT: {0} deixou um item quando foi pego!
 
 RESOURCE ID: journal_declined_ex_raid_ticket_from_friend
 TEXT: You declined an invitation from {0}.
+
+RESOURCE ID: journal_player_fled
+TEXT: Fled from a raid encounter with {0}.
 
 RESOURCE ID: journal_received_fitness_rewards
 TEXT: Received {0} items from Weekly Adventure Sync Rewards.
@@ -62716,6 +62740,12 @@ TEXT: Mega Copa da Captura: Edição Grande Liga
 RESOURCE ID: mega_championship_cup_great_title
 TEXT: Copa LAIC de GO 2026: Edição Grande Liga
 
+RESOURCE ID: mega_chandelure_global_challenge
+TEXT: Desafio Global de Dia de Super Megarreides: Chandelure
+
+RESOURCE ID: mega_chandelure_raid_day_event_name
+TEXT: Dia de Super Megarreides: Chandelure
+
 RESOURCE ID: mega_color_cup_great_title
 TEXT: Mega Copa das Cores: Edição Grande Liga
 
@@ -62979,6 +63009,11 @@ TEXT: Quando você pega um Pokémon de mesmo tipo do seu Pokémon Megaevoluído,
 • Doces Extras
 • PE Extra
 • Maior chance  de receber Doces GG
+
+RESOURCE ID: mega_level_tutorial_cp_downscaling_1_body
+TEXT: If a Mega Pokémon’s CP exceeds certain Battle Leagues, their levels will be temporarily adjusted to where its CP is within that Battle League’s limits.
+
+Pokémon at Super Max Level will not have the Greatly Increased CP bonus in Master League.
 
 RESOURCE ID: mega_level_tutorial_hero_title
 TEXT: Vamos Mega!
@@ -63262,10 +63297,10 @@ at SHA 4d4f3e80cc7fb911006bd14d198c9831ef66d005
 Pipeline 339838, job 2672172
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-10-14T01:27:43.825708+00:00 for pt-BR
-at SHA 46a25b64966
-Pipeline 4019736, job 59225155
-Patch from: 0.435.0-SHA-5bec7604-RC1, 0.431.0-SHA-98b5070c-RC6, 0.433.0-SHA-a810fd7d-RC2
+TEXT: Built at 2026-10-16T22:34:57.171068+00:00 for pt-BR
+at SHA d68311f630a
+Pipeline 4029884, job 59396785
+Patch from: 0.431.0-SHA-8123c737-RC1, 0.433.0-SHA-94a605de-RC4, 0.435.0-SHA-5bec7604-RC1
 
 RESOURCE ID: meteor_title_1
 TEXT: CHUVA DE METEOROS
@@ -63461,6 +63496,9 @@ TEXT: Desafio de coleção completo!
 
 RESOURCE ID: minicollect_progress_indicator
 TEXT: Progresso do desafio de coleção!
+
+RESOURCE ID: minior_shower_tr_name
+TEXT: Pesquisa Temporária de Chuva de Minior
 
 RESOURCE ID: minute_abbrev
 TEXT: m
@@ -68450,6 +68488,15 @@ TEXT: Noite
 RESOURCE ID: nearby_active_reminder_header
 TEXT: CONFIRMAÇÃO ATIVA
 
+RESOURCE ID: nearby_incomplete_raid_header
+TEXT: IN PROGRESS
+
+RESOURCE ID: nearby_incomplete_raid_widget_title
+TEXT: Rejoin the {0} raid
+
+RESOURCE ID: nearby_incomplete_raid_widget_header
+TEXT: REJOIN
+
 RESOURCE ID: nearby_pokemon_clear_button
 TEXT: Apagar
 
@@ -69103,6 +69150,12 @@ TEXT: Velhos amigos, novos começos
 
 RESOURCE ID: old_friends_description
 TEXT: Pesquisa temporária “Velhos amigos, novos começos”
+
+RESOURCE ID: ominous_wind_base_increased_level_bonus
+TEXT: O nível de Mega Chandelure será aumentado de 2 de novembro, às 12h, até 15 de novembro de 2026, às 12h (horário do Pacífico).
+
+RESOURCE ID: ominous_wind_base_power_boost_bonus
+TEXT: Vento Ominoso+ terá seu poder aumentado de 2 de novembro, às 12h, até 15 de novembro de 2026, às 12h (horário do Pacífico).
 
 RESOURCE ID: onboard_accept_tos
 TEXT: Aceitar
@@ -87286,6 +87339,9 @@ TEXT: Derrotar um Chefe de Reide de tipo Lutador.
 
 RESOURCE ID: quest_defeat_flying_type_raid_singular
 TEXT: Derrotar um Chefe de Reide de tipo Voador.
+
+RESOURCE ID: quest_defeat_ghost_fire_type_raid_singular
+TEXT: Derrote um Chefe de Reide de tipo Fogo ou de tipo Fantasma
 
 RESOURCE ID: quest_defeat_jessie_james_plural
 TEXT: Derrotar Jessie ou James {0} vezes.
@@ -106701,7 +106757,7 @@ RESOURCE ID: quest_walk_buddy_singular
 TEXT: Ganhar 1 doce caminhando com seu companheiro.
 
 RESOURCE ID: quest_walk_buddy_dragon_plural
-TEXT: Earn {0} Candies exploring with a Dragon-type Pokémon as your buddy
+TEXT: Ganhar {0} Doces explorando com um Pokémon de tipo Dragão como seu companheiro.
 
 RESOURCE ID: quest_walk_buddy_fairy_plural
 TEXT: Ganhar {0} Doces explorando com um Pokémon de tipo Fada como seu companheiro.
@@ -106710,7 +106766,7 @@ RESOURCE ID: quest_walk_buddy_fighting_plural
 TEXT: Ganhar {0} Doces explorando com um Pokémon de tipo Lutador como seu companheiro.
 
 RESOURCE ID: quest_walk_buddy_steel_plural
-TEXT: Earn {0} Candies exploring with a Steel-type Pokémon as your buddy
+TEXT: Ganhar {0} Doces explorando com um Pokémon de tipo Aço como seu companheiro.
 
 RESOURCE ID: quest_walk_buddy_volcanion_plural
 TEXT: Ganhar {0} Doces explorando com Volcanion como seu companheiro.
@@ -109587,7 +109643,7 @@ RESOURCE ID: raid_defeat_try_again
 TEXT: Selecione novos Pokémon ou cure seus Pokémon desmaiados e volte para a batalha!
 
 RESOURCE ID: raid_encounter_flee_warning_button_text
-TEXT: FLEE
+TEXT: FUGIR
 
 RESOURCE ID: raid_encounter_flee_warning_modal_title
 TEXT: Tem certeza de que deseja fugir?
@@ -112437,10 +112493,10 @@ RESOURCE ID: rally_gowa_2025_title
 TEXT: Caça aos Selos da Área Selvagem GO 2025
 
 RESOURCE ID: rally_gowa_2026_cdmx_title
-TEXT: GO Wild Area: Mexico City Stamp Rally
+TEXT: Caça aos Selos da Área Selvagem GO: Cidade do México
 
 RESOURCE ID: rally_gowa_2026_sendai_title
-TEXT: GO Wild Area: Sendai・Tohoku Stamp Rally
+TEXT: Caça aos Selos da Área Selvagem GO: Sendai・Tohoku
 
 RESOURCE ID: rally_gowa_2025_desc
 TEXT: Boas-vindas à Área Selvagem do Pokémon GO 2025: Nagasaki!
@@ -112455,28 +112511,28 @@ RESOURCE ID: rally_gowa_2025_rewards_desc
 TEXT: Complete esta Caça aos Selos para encontrar um Bewear exclusivo do evento com um cachecol selvagem e Fundo de Localidade da Cidade de Nagasaki!
 
 RESOURCE ID: rally_gowa_2026_cdmx_desc
-TEXT: Welcome to GO Wild Area: Mexico City!
+TEXT: Boas-vindas à Área Selvagem do Pokémon GO: Cidade do México!
 
 RESOURCE ID: rally_gowa_2026_cdmx_desc_detail
-TEXT: Collect stamps by visiting GO Stamp Rally PokéStops in Mexico City during your ticketed event day!
+TEXT: Colete selos visitando Poképaradas da Caça aos Selos GO na Cidade do México durante o dia do evento com ingresso!
 
 RESOURCE ID: rally_gowa_2026_cdmx_location
-TEXT: Mexico City, Mexico
+TEXT: Cidade do México, México
 
 RESOURCE ID: rally_gowa_2026_cdmx_rewards_desc
-TEXT: Complete this rally to encounter an event-exclusive Machamp wearing a modern jacket with a Mexico City Location Background!
+TEXT: Complete esta Caça aos Selos para encontrar um Machamp exclusivo do evento com uma jaqueta moderna e Fundo de Localidade da Cidade do México!
 
 RESOURCE ID: rally_gowa_2026_sendai_desc
-TEXT: Welcome to GO Wild Area: Sendai・Tohoku!
+TEXT: Boas-vindas à Área Selvagem do Pokémon GO: Sendai・Tohoku!
 
 RESOURCE ID: rally_gowa_2026_sendai_desc_detail
-TEXT: Collect stamps by visiting GO Stamp Rally PokéStops in Sendai during your ticketed event day!
+TEXT: Colete selos visitando Poképaradas da Caça aos Selos GO em Sendai durante o dia do evento com ingresso!
 
 RESOURCE ID: rally_gowa_2026_sendai_location
-TEXT: Sendai・Tohoku, Japan
+TEXT: Sendai・Tohoku, Japão
 
 RESOURCE ID: rally_gowa_2026_sendai_rewards_desc
-TEXT: Complete this rally to encounter an event-exclusive Machamp wearing a modern jacket with a Sendai・Tohoku Location Background!
+TEXT: Complete esta Caça aos Selos para encontrar um Machamp exclusivo do evento com uma jaqueta moderna e Fundo de Localidade de Sendai・Tohoku!
 
 RESOURCE ID: rally_irl_copenhagen_lego_2026_title
 TEXT: Festival de Pokémon GO 2026: Copenhague — Caça aos Selos LEGO
@@ -112867,6 +112923,9 @@ TEXT: REGISTRAR NOVA ROTA
 
 RESOURCE ID: recycle_dialog_prefix
 TEXT: Descartar
+
+RESOURCE ID: recycle_dialog_quantity
+TEXT: QUANTITY: {0}
 
 RESOURCE ID: recycle_dialog_suffix
 TEXT: {0}?
@@ -128039,6 +128098,13 @@ TEXT: <b>As recompensas incluem:</b>
 • 10 Frutas Caxí
 • 3.000 Poeira Estelar
 
+RESOURCE ID: text_rewards_key_chandelureraidday
+TEXT: <b>Os bônus incluem:</b>
+• 8 Passes de Reide adicionais ao girar Fotodiscos de Ginásios
+• Maior chance de receber Doce Raro GG de Reides
+• 5.000 Poeira Estelar a mais por completar Super Megarreides com sucesso
+• 5.000 PE adicionais por completar Super Megarreides com sucesso
+
 RESOURCE ID: text_rewards_key_chargedembers1224
 TEXT: <b>As recompensas incluem:</b>
 • 1 Superincubadora
@@ -130598,6 +130664,12 @@ TEXT: Trocando Pokémon
 RESOURCE ID: tips_tasks_trade_body
 TEXT: Você precisa estar perto de amigos para trocar com eles. Em seguida, acesse o perfil de Treinador da pessoa com quem quer trocar na lista de amigos e toque em TROCAR.
 
+RESOURCE ID: tips_tasks_weather_boost_title
+TEXT: Weather Boosts
+
+RESOURCE ID: tips_tasks_weather_boost_body
+TEXT: Certain Pokémon appear more frequently when the weather matches their type. These Pokémon have higher CP, are stronger in battle, and award extra Stardust when they’re caught.
+
 RESOURCE ID: tips_trading_intro_conversation_1
 TEXT: Olá, %PLAYERNAME%! Você sabia que pode trocar Pokémon com outros Treinadores?
 
@@ -130940,7 +131012,7 @@ RESOURCE ID: title_event_pass_daily_bonus_quest
 TEXT: Tarefas diárias
 
 RESOURCE ID: title_event_pass_daily_bonus_quest_premium
-TEXT: Tarefas Diárias – Premium
+TEXT: Tarefas Diárias – Deluxe
 
 RESOURCE ID: title_event_pass_hourly_bonus_quest
 TEXT: Tarefas por hora

@@ -29484,6 +29484,9 @@ TEXT: Ayrıntıları <a href="https://pokemongolive.com/post/communityday-novemb
 RESOURCE ID: details_link_key_mawileraidday
 TEXT: Ayrıntıları <a href="https://pokemongolive.com/post/mega-mawile-raid-day-2024">internet sitemizden</a> öğrenebilirsiniz.
 
+RESOURCE ID: details_link_key_megachandelureraidday
+TEXT: Ayrıntıları <a href="https://pokemongo.com/news/chandelure-super-mega-raid-day-2026">internet sitemizden</a> öğrenebilirsiniz.
+
 RESOURCE ID: details_link_key_megalucarioraidday24
 TEXT: Ayrıntıları <a href="https://pokemongolive.com/post/mega-lucario-raid-ultra-unlock">internet sitemizden</a> öğrenebilirsiniz.
 
@@ -32510,6 +32513,9 @@ TEXT: Şehir Tecrübeniz aktif! Şehir içinde etkinliğe katılabilirsiniz. İy
 
 RESOURCE ID: event_live_park_active_generic
 TEXT: Park Tecrübeniz aktif! Parka giderek etkinliğe katılabilirsiniz. İyi eğlenceler!
+
+RESOURCE ID: event_mega_chandelure_raid_day_timed_research
+TEXT: Chandelure Süper Mega Akın Günü Süreli Araştırması
 
 RESOURCE ID: event_mega_cp_bonus
 TEXT: Belirli Mega Evrimleşmiş Pokémon'lar için artırılmış DG
@@ -39242,6 +39248,9 @@ TEXT: Tynamo Topluluk Günü Bileti
 
 RESOURCE ID: general2.ticket.2_sandilehatchday26_title
 TEXT: Yumurtadan Çıkan Sandile Günü Premium Süreli Araştırması Bileti
+
+RESOURCE ID: general2.ticket.5_megachandelureraidday
+TEXT: Chandelure Süper Mega Akın Günü Bileti
 
 RESOURCE ID: general2.ticket.5_megafalinksraidday
 TEXT: Falinks Süper Mega Akın Günü Bileti
@@ -50960,16 +50969,16 @@ RESOURCE ID: incoming_friend_request_prompt_singular
 TEXT: Bir kişi size Arkadaşlık İsteği gönderdi.
 
 RESOURCE ID: incomplete_raid_battle_rejoin_modal_title
-TEXT: Rejoin raid?
+TEXT: Akına tekrar katılınsın mı?
 
 RESOURCE ID: incomplete_raid_battle_rejoin_modal_body
-TEXT: Rejoin the raid to continue battling the Raid Boss.
+TEXT: Akın Canavarıyla maça devam için akına tekrar katılın.
 
 RESOURCE ID: incomplete_raid_encounter_rejoin_modal_title
-TEXT: Return to Raid Boss encounter?
+TEXT: Akın Canavarı karşılaşmasına dönülsün mü?
 
 RESOURCE ID: incomplete_raid_encounter_rejoin_modal_body
-TEXT: Return to the encounter to catch the Raid Boss.
+TEXT: Akın Canavarını yakalamak için karşılaşmaya geri dönün.
 
 RESOURCE ID: increased_adventure_sync_rewards
 TEXT: Gelecek haftanın Macera Senkronizasyonu ödüllerinde artış
@@ -51656,6 +51665,9 @@ TEXT: Öne Çıkanlar
 RESOURCE ID: item_bag_category_gifts
 TEXT: Hediyeler
 
+RESOURCE ID: item_bag_category_incubators
+TEXT: Incubators
+
 RESOURCE ID: item_bag_category_lures
 TEXT: Lures
 
@@ -51673,6 +51685,9 @@ TEXT: Poké Balls
 
 RESOURCE ID: item_bag_category_tm
 TEXT: TMs
+
+RESOURCE ID: item_bag_category_berries_and_poffins
+TEXT: Berries and Poffins
 
 RESOURCE ID: item_bag_category_key_items
 TEXT: Key Items
@@ -52610,6 +52625,9 @@ TEXT: 5 Nisan 2025 Cumartesi, yerel saatle 14.00-17.00 arasında geçerli olacak
 RESOURCE ID: item_event_ticket_gray_desc_megacameruptraidday
 TEXT: 28 Eylül 2025’te, yerel saatle 14.00-17.00 arasında geçerli olacak özel bonuslara dilediğiniz yerden hak kazanmanıza olanak tanıyan bir bilet.
 
+RESOURCE ID: item_event_ticket_gray_desc_megachandelureraidday
+TEXT: 31 Ekim 2026 Cumartesi, yerel saatle 14.00-17.00 arasında geçerli olacak özel bonuslara dilediğiniz yerden hak kazanmanıza olanak tanıyan bir bilet.
+
 RESOURCE ID: item_event_ticket_gray_desc_megafalinksraidday
 TEXT: 23 Mayıs 2026 Cumartesi, yerel saatle 14.00-17.00 arasında geçerli olacak özel bonuslara dilediğiniz yerden hak kazanmanıza olanak tanıyan bir bilet.
 
@@ -52801,6 +52819,9 @@ TEXT: Bu bilet 5 Nisan’da geçerli olacak özel bonuslara dilediğiniz yerden 
 
 RESOURCE ID: item_event_ticket_gray_details_megacameruptraidday
 TEXT: Bu bilet 28 Eylül’de geçerli olacak özel bonuslara dilediğiniz yerden hak kazanabilmeniz için otomatik olarak etkinleştirilecek.
+
+RESOURCE ID: item_event_ticket_gray_details_megachandelureraidday
+TEXT: Bu bilet özel bonuslara dilediğiniz yerden hak kazanabilmeniz için 31 Ekim’de otomatik olarak etkinleştirilecek.
 
 RESOURCE ID: item_event_ticket_gray_details_megafalinksraidday
 TEXT: Bu bilet özel bonuslara dilediğiniz yerden hak kazanabilmeniz için 23 Mayıs’ta otomatik olarak etkinleştirilecek.
@@ -54679,6 +54700,9 @@ TEXT: {0} yakalandığında bir eşya düşürdü!
 
 RESOURCE ID: journal_declined_ex_raid_ticket_from_friend
 TEXT: {0} adlı oyuncudan gelen davetiyeyi reddettiniz.
+
+RESOURCE ID: journal_player_fled
+TEXT: Fled from a raid encounter with {0}.
 
 RESOURCE ID: journal_received_fitness_rewards
 TEXT: Haftalık Macera Senkronizasyonu Ödüllerinden {0} eşya alındı.
@@ -60204,6 +60228,12 @@ TEXT: Mega Yakalama Kupası: Süper Lig
 RESOURCE ID: mega_championship_cup_great_title
 TEXT: 2026 GO LAIC Kupası: Süper Lig
 
+RESOURCE ID: mega_chandelure_global_challenge
+TEXT: Chandelure Süper Mega Akın Günü Küresel Görevi
+
+RESOURCE ID: mega_chandelure_raid_day_event_name
+TEXT: Chandelure Süper Mega Akın Günü
+
 RESOURCE ID: mega_color_cup_great_title
 TEXT: Mega Renk Kupası: Süper Lig
 
@@ -60467,6 +60497,11 @@ TEXT: Mega evrimleşmiş Pokémon’unuzla aynı türü paylaşan bir Pokémon y
 • Ekstra şeker
 • Ekstra TP
 • Büyük şeker elde etme şansında artış
+
+RESOURCE ID: mega_level_tutorial_cp_downscaling_1_body
+TEXT: If a Mega Pokémon’s CP exceeds certain Battle Leagues, their levels will be temporarily adjusted to where its CP is within that Battle League’s limits.
+
+Pokémon at Super Max Level will not have the Greatly Increased CP bonus in Master League.
 
 RESOURCE ID: mega_level_tutorial_hero_title
 TEXT: Mega Olalım!
@@ -60750,10 +60785,10 @@ at SHA 413df5befdbe0d00a543f8a142221526d63b719a
 Pipeline 834428, job 8736424
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-10-14T01:27:43.825708+00:00 for tr-TR
-at SHA 46a25b64966
-Pipeline 4019736, job 59225155
-Patch from: 0.435.0-SHA-5bec7604-RC1, 0.431.0-SHA-98b5070c-RC6, 0.433.0-SHA-a810fd7d-RC2
+TEXT: Built at 2026-10-16T22:34:57.171068+00:00 for tr-TR
+at SHA d68311f630a
+Pipeline 4029884, job 59396785
+Patch from: 0.431.0-SHA-8123c737-RC1, 0.433.0-SHA-94a605de-RC4, 0.435.0-SHA-5bec7604-RC1
 
 RESOURCE ID: meteor_title_1
 TEXT: METEOR YAĞMURU
@@ -60949,6 +60984,9 @@ TEXT: Toplama Görevi tamamlandı!
 
 RESOURCE ID: minicollect_progress_indicator
 TEXT: Toplama Görevi devam ediyor!
+
+RESOURCE ID: minior_shower_tr_name
+TEXT: Minior Yağmuru Süreli Araştırması
 
 RESOURCE ID: minute_abbrev
 TEXT: dk
@@ -65930,6 +65968,15 @@ TEXT: Gece
 RESOURCE ID: nearby_active_reminder_header
 TEXT: AKTİF KATILIMLAR
 
+RESOURCE ID: nearby_incomplete_raid_header
+TEXT: IN PROGRESS
+
+RESOURCE ID: nearby_incomplete_raid_widget_title
+TEXT: Rejoin the {0} raid
+
+RESOURCE ID: nearby_incomplete_raid_widget_header
+TEXT: REJOIN
+
 RESOURCE ID: nearby_pokemon_clear_button
 TEXT: Temizle
 
@@ -66580,6 +66627,12 @@ TEXT: Eski Arkadaşlar, Yeni Başlangıçlar
 
 RESOURCE ID: old_friends_description
 TEXT: Eski Arkadaşlar, Yeni Başlangıçlar Süreli Araştırması
+
+RESOURCE ID: ominous_wind_base_increased_level_bonus
+TEXT: 2 Kasım 2026, Pasifik saatiyle 12.00 (GMT -8) - 15 Kasım 2026, Pasifik saatiyle 12.00 (GMT -8) arasında Mega Chandelure’un seviyesi artacak.
+
+RESOURCE ID: ominous_wind_base_power_boost_bonus
+TEXT: 2 Kasım 2026, Pasifik saatiyle 12.00 (GMT -8) - 15 Kasım 2026, Pasifik saatiyle 12.00 (GMT -8) arasında Uğursuz Rüzgâr+ gücünü artıracak.
 
 RESOURCE ID: onboard_accept_tos
 TEXT: Kabul et
@@ -84700,6 +84753,9 @@ TEXT: Bir Dövüşçü türü Akın Canavarı alt edin
 RESOURCE ID: quest_defeat_flying_type_raid_singular
 TEXT: Bir Uçan tür Akın Canavarı alt edin
 
+RESOURCE ID: quest_defeat_ghost_fire_type_raid_singular
+TEXT: Ateş ya da Hayalet türü bir Akın Canavarı alt edin
+
 RESOURCE ID: quest_defeat_jessie_james_plural
 TEXT: Jessie'yi ya da James'i {0} kez alt edin
 
@@ -88511,7 +88567,7 @@ RESOURCE ID: quest_poryt_evolve_s1
 TEXT: {0} Porygon2 evrimleştirin
 
 RESOURCE ID: quest_power_up_plural
-TEXT: Pokémon'ları {0} kez güçlendirin
+TEXT: Pokémon’ları {0} kez güçlendirin
 
 RESOURCE ID: quest_power_up_singular
 TEXT: Bir Pokémon'u güçlendirin
@@ -88817,7 +88873,7 @@ RESOURCE ID: quest_rocket_leader_battle_win_singular
 TEXT: Bir GO Roket Takımı Liderini alt edin
 
 RESOURCE ID: quest_rocket_power_up_plural
-TEXT: Pokémon'ları {0} kez güçlendirin
+TEXT: Pokémon’ları {0} kez güçlendirin
 
 RESOURCE ID: quest_rocket_purify_plural
 TEXT: {0} Gölge Pokémon arındırın
@@ -89198,7 +89254,7 @@ RESOURCE ID: quest_snapshot_wild_raikou
 TEXT: Yabanda Raikou’nun bir fotoğrafını çekin
 
 RESOURCE ID: quest_snapshot_wild_singular
-TEXT: Bir vahşi Pokémon'un fotoğrafını çekin
+TEXT: Bir vahşi Pokémon’un fotoğrafını çekin
 
 RESOURCE ID: quest_snapshot_wild_squirtle
 TEXT: Doğada Squirtle’ın bir fotoğrafını çekin
@@ -104577,16 +104633,16 @@ RESOURCE ID: raid_attendance_online_disclaimer_message
 TEXT: Arkadaşlarınız akın katılımlarınızı görüntüleyebilecek. Bunu daha sonra Ayarlardan değiştirebilirsiniz.
 
 RESOURCE ID: raid_battle_complete_lost_modal_title
-TEXT: The Raid Battle has ended.
+TEXT: Akın maçı sona erdi.
 
 RESOURCE ID: raid_battle_complete_lost_modal_body
-TEXT: The Raid Boss was not defeated in time.
+TEXT: Akın Canavarı zamanında alt edilemedi.
 
 RESOURCE ID: raid_battle_complete_rejoin_modal_title
-TEXT: Rejoin raid?
+TEXT: Akına tekrar katılınsın mı?
 
 RESOURCE ID: raid_battle_complete_rejoin_modal_body
-TEXT: Return to the raid to catch the Raid Boss.
+TEXT: Akın Canavarını yakalamak için akına geri dönün.
 
 RESOURCE ID: raid_battle_retreat_confirmation
 TEXT: Ayrılmak istediğinizden emin misiniz?
@@ -106869,13 +106925,13 @@ RESOURCE ID: raid_defeat_try_again
 TEXT: Yeni Pokémon seçin ya da bayılanları iyileştirip maça kaldığınız yerden devam edin!
 
 RESOURCE ID: raid_encounter_flee_warning_button_text
-TEXT: FLEE
+TEXT: AYRIL
 
 RESOURCE ID: raid_encounter_flee_warning_modal_title
-TEXT: Are you sure you want to flee?
+TEXT: Ayrılmak istediğinize emin misiniz?
 
 RESOURCE ID: raid_encounter_flee_warning_modal_body
-TEXT: If you flee from this Pokémon, you won’t be able to return.
+TEXT: Bu karşılaşmadan ayrılırsanız bir daha geri dönemezsiniz.
 
 RESOURCE ID: raid_enter_group_code
 TEXT: ÖZEL GRUP
@@ -110149,6 +110205,9 @@ TEXT: YENİ ROTA KAYDET
 
 RESOURCE ID: recycle_dialog_prefix
 TEXT: {0}
+
+RESOURCE ID: recycle_dialog_quantity
+TEXT: QUANTITY: {0}
 
 RESOURCE ID: recycle_dialog_suffix
 TEXT: atılsın mı?
@@ -118088,7 +118147,7 @@ TEXT: {0} tamamen geliştirildi! Seviye atlayarak depo kapasitenizi daha da geli
 <a href="https://scopelyexplore.helpshift.com/hc/faq/1235-available-items-your-bag/">Seviye atlama hakkındaki ayrıntıları buradan öğrenebilirsiniz.</a>
 
 RESOURCE ID: shop_gift_confirm_purchase_warning_description
-TEXT: Bugün toplam <b>{0}</b> ücretli hediye yollayabilirsiniz. Bu hediye başka bir oyuncu tarafından kullanılamaz veya iade edilerek ücreti talep edilemez.
+TEXT: Her gün toplam 20 ücretli hediye yollayabilirsiniz. Bu hediye başka bir oyuncu tarafından kullanılamaz veya iade edilerek ücreti talep edilemez.
 
 RESOURCE ID: shop_gift_friend_ineligible_title
 TEXT: Hediye Gönderilemiyor
@@ -125296,6 +125355,13 @@ TEXT: <b>Şu ödülleri içerir:</b>
 • 10 Pinap Meyvesi
 • 3000 yıldız tozu
 
+RESOURCE ID: text_rewards_key_chandelureraidday
+TEXT: <b>Şu bonusları içerir:</b>
+• Spor salonu fotoğraf disklerini döndürerek ilave 8 Akın Bileti
+• Akınlardan daha yüksek Nadir Büyük Şeker alma şansı
+• Başarıyla tamamlanan süper mega akınlardan ilave 5000 yıldız tozu
+• Başarıyla tamamlanan süper mega akınlardan ilave 5000 TP
+
 RESOURCE ID: text_rewards_key_chargedembers1224
 TEXT: <b>Ödüller arasında şunlar yer alıyor:</b>
 • 1 Süper Kuluçka Makinesi
@@ -127834,7 +127900,7 @@ RESOURCE ID: tips_tasks_snapshot_inventory_body
 TEXT: Pokémon'unuzun fotoğrafını çekmek için ayrıntılar sayfasına gidin ve kamera butonuna basın. Ayrıca Eşya Çantanızda bulunan Kamerayı seçtikten sonra dilediğiniz Pokémon'u seçerek de bu işlemi gerçekleştirebilirsiniz.
 
 RESOURCE ID: tips_tasks_snapshot_wild_title
-TEXT: Vahşi Pokémon'ları Fotoğraflamak
+TEXT: Vahşi Pokémon’ları Fotoğraflamak
 
 RESOURCE ID: tips_tasks_snapshot_wild_body
 TEXT: Yabanda bir Pokémon ile karşılaştığınızda kamera butonuna basarak Pokémon'un fotoğrafını çekin.
@@ -127850,6 +127916,12 @@ TEXT: Pokémon Takası
 
 RESOURCE ID: tips_tasks_trade_body
 TEXT: Takas yapmak için Arkadaş listesindeki bir Eğitmen'in profiline giderek TAKAS'a basın. Takas yapabilmek için arkadaşlarınızla yakın mesafede olmalısınız.
+
+RESOURCE ID: tips_tasks_weather_boost_title
+TEXT: Weather Boosts
+
+RESOURCE ID: tips_tasks_weather_boost_body
+TEXT: Certain Pokémon appear more frequently when the weather matches their type. These Pokémon have higher CP, are stronger in battle, and award extra Stardust when they’re caught.
 
 RESOURCE ID: tips_trading_intro_conversation_1
 TEXT: Selam %PLAYERNAME%! Diğer Eğitmenlerle Pokémon’larınızı takas edebileceğinizi biliyor muydun?
@@ -128180,7 +128252,7 @@ RESOURCE ID: title_event_pass_daily_bonus_quest
 TEXT: Günlük Görevler
 
 RESOURCE ID: title_event_pass_daily_bonus_quest_premium
-TEXT: Günlük Görevler – Premium
+TEXT: Günlük Görevler – Lüks
 
 RESOURCE ID: title_event_pass_hourly_bonus_quest
 TEXT: Saatlik Görevler

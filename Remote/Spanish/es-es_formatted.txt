@@ -32234,6 +32234,9 @@ TEXT: Para obtener más información, visita el <a href="https://pokemongolive.c
 RESOURCE ID: details_link_key_mawileraidday
 TEXT: Para obtener más información, visita el <a href="https://pokemongolive.com/post/mega-mawile-raid-day-2024">sitio web</a>.
 
+RESOURCE ID: details_link_key_megachandelureraidday
+TEXT: Para obtener más información, visita el <a href="https://pokemongo.com/news/chandelure-super-mega-raid-day-2026">sitio web</a>.
+
 RESOURCE ID: details_link_key_megalucarioraidday24
 TEXT: Para obtener más información, visita el <a href="https://pokemongolive.com/es/post/mega-lucario-raid-ultra-unlock">sitio web</a>.
 
@@ -35267,6 +35270,9 @@ TEXT: ¡Tu Experiencia en la ciudad está activa! Puedes participar en el evento
 
 RESOURCE ID: event_live_park_active_generic
 TEXT: ¡Tu Experiencia en el parque está activa! Dirígete al parque para participar en el evento. ¡Que lo disfrutes!
+
+RESOURCE ID: event_mega_chandelure_raid_day_timed_research
+TEXT: Investigación temporal del Día de supermegaincursiones: Chandelure
 
 RESOURCE ID: event_mega_cp_bonus
 TEXT: PC potenciados para ciertos Pokémon megaevolucionados
@@ -42102,6 +42108,9 @@ TEXT: Entrada: Día de la Comunidad de Tynamo
 
 RESOURCE ID: general2.ticket.2_sandilehatchday26_title
 TEXT: Entrada: Investigación temporal prémium del Día de eclosiones de Sandile
+
+RESOURCE ID: general2.ticket.5_megachandelureraidday
+TEXT: Entrada: Día de supermegaincursiones de Chandelure
 
 RESOURCE ID: general2.ticket.5_megafalinksraidday
 TEXT: Entrada: Día de supermegaincursiones de Falinks
@@ -54520,6 +54529,9 @@ TEXT: Destacado
 RESOURCE ID: item_bag_category_gifts
 TEXT: Regalos
 
+RESOURCE ID: item_bag_category_incubators
+TEXT: Incubators
+
 RESOURCE ID: item_bag_category_lures
 TEXT: Lures
 
@@ -54537,6 +54549,9 @@ TEXT: Poké Balls
 
 RESOURCE ID: item_bag_category_tm
 TEXT: TMs
+
+RESOURCE ID: item_bag_category_berries_and_poffins
+TEXT: Berries and Poffins
 
 RESOURCE ID: item_bag_category_key_items
 TEXT: Key Items
@@ -55474,6 +55489,9 @@ TEXT: Una entrada para acceder a bonus especiales el sábado 5 de abril de 2025 
 RESOURCE ID: item_event_ticket_gray_desc_megacameruptraidday
 TEXT: Una entrada para acceder a bonus especiales el 28 de septiembre de 2025 de 14:00 a 17:00 en tu hora local, estés donde estés.
 
+RESOURCE ID: item_event_ticket_gray_desc_megachandelureraidday
+TEXT: Una entrada para acceder a bonus especiales el sábado 31 de octubre de 2026 de 14:00 a 17:00 en tu hora local, estés donde estés.
+
 RESOURCE ID: item_event_ticket_gray_desc_megafalinksraidday
 TEXT: Una entrada para acceder a bonus especiales el sábado 23 de mayo de 2026 de 14:00 a 17:00 en tu hora local, estés donde estés.
 
@@ -55665,6 +55683,9 @@ TEXT: Esta entrada se activará automáticamente para darte acceso a bonus espec
 
 RESOURCE ID: item_event_ticket_gray_details_megacameruptraidday
 TEXT: Esta entrada se activará automáticamente para darte acceso a bonus especiales el 28 de septiembre, estés donde estés.
+
+RESOURCE ID: item_event_ticket_gray_details_megachandelureraidday
+TEXT: Esta entrada se activará automáticamente el 31 de octubre para darte acceso a los bonus especiales, estés donde estés.
 
 RESOURCE ID: item_event_ticket_gray_details_megafalinksraidday
 TEXT: Esta entrada se activará automáticamente el 23 de mayo para darte acceso a bonus especiales, estés donde estés.
@@ -57546,6 +57567,9 @@ TEXT: ¡{0} ha dejado caer un objeto al capturarlo!
 
 RESOURCE ID: journal_declined_ex_raid_ticket_from_friend
 TEXT: Has rechazado una invitación de {0}.
+
+RESOURCE ID: journal_player_fled
+TEXT: Fled from a raid encounter with {0}.
 
 RESOURCE ID: journal_received_fitness_rewards
 TEXT: Received {0} items from Weekly Adventure Sync Rewards.
@@ -63094,6 +63118,12 @@ TEXT: Copa Megacaptura: Edición Liga Super Ball
 RESOURCE ID: mega_championship_cup_great_title
 TEXT: Copa LAIC de GO 2026: Edición Liga Super Ball
 
+RESOURCE ID: mega_chandelure_global_challenge
+TEXT: Desafío global del Día de supermegaincursiones: Chandelure
+
+RESOURCE ID: mega_chandelure_raid_day_event_name
+TEXT: Día de supermegaincursiones: Chandelure
+
 RESOURCE ID: mega_color_cup_great_title
 TEXT: Copa Megacolor: Edición Liga Super Ball
 
@@ -63357,6 +63387,11 @@ TEXT: Cuando captures un Pokémon del mismo tipo que tu Pokémon megaevolucionad
 • Caramelos adicionales
 • PX adicionales
 • Una mayor probabilidad de conseguir Caramelos ++
+
+RESOURCE ID: mega_level_tutorial_cp_downscaling_1_body
+TEXT: If a Mega Pokémon’s CP exceeds certain Battle Leagues, their levels will be temporarily adjusted to where its CP is within that Battle League’s limits.
+
+Pokémon at Super Max Level will not have the Greatly Increased CP bonus in Master League.
 
 RESOURCE ID: mega_level_tutorial_hero_title
 TEXT: ¡Vamos allá con la megaevolución!
@@ -63640,10 +63675,10 @@ at SHA 4d4f3e80cc7fb911006bd14d198c9831ef66d005
 Pipeline 339838, job 2672172
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-10-14T01:27:43.825708+00:00 for es-ES
-at SHA 46a25b64966
-Pipeline 4019736, job 59225155
-Patch from: 0.435.0-SHA-5bec7604-RC1, 0.431.0-SHA-98b5070c-RC6, 0.433.0-SHA-a810fd7d-RC2
+TEXT: Built at 2026-10-16T22:34:57.171068+00:00 for es-ES
+at SHA d68311f630a
+Pipeline 4029884, job 59396785
+Patch from: 0.431.0-SHA-8123c737-RC1, 0.433.0-SHA-94a605de-RC4, 0.435.0-SHA-5bec7604-RC1
 
 RESOURCE ID: meteor_title_1
 TEXT: LLUVIA DE METEORITOS
@@ -63839,6 +63874,9 @@ TEXT: ¡Desafío de colección completado!
 
 RESOURCE ID: minicollect_progress_indicator
 TEXT: ¡Progreso del desafío de colección!
+
+RESOURCE ID: minior_shower_tr_name
+TEXT: Investigación temporal: Lluvia de Minior
 
 RESOURCE ID: minute_abbrev
 TEXT: m
@@ -68828,6 +68866,15 @@ TEXT: Noche
 RESOURCE ID: nearby_active_reminder_header
 TEXT: ASISTENCIAS CONFIRMADAS
 
+RESOURCE ID: nearby_incomplete_raid_header
+TEXT: IN PROGRESS
+
+RESOURCE ID: nearby_incomplete_raid_widget_title
+TEXT: Rejoin the {0} raid
+
+RESOURCE ID: nearby_incomplete_raid_widget_header
+TEXT: REJOIN
+
 RESOURCE ID: nearby_pokemon_clear_button
 TEXT: Borrar
 
@@ -69481,6 +69528,12 @@ TEXT: Viejas amistades, nuevos comienzos
 
 RESOURCE ID: old_friends_description
 TEXT: Investigación temporal "Viejas amistades, nuevos comienzos"
+
+RESOURCE ID: ominous_wind_base_increased_level_bonus
+TEXT: El nivel de Mega-Chandelure se verá incrementado del 2 de noviembre a las 21:00 al 15 de noviembre de 2026 a las 21:00 (hora peninsular).
+
+RESOURCE ID: ominous_wind_base_power_boost_bonus
+TEXT: Viento Aciago+ verá incrementado su poder del 2 de noviembre a las 21:00 al 15 de noviembre de 2026 a las 21:00 (hora peninsular).
 
 RESOURCE ID: onboard_accept_tos
 TEXT: Aceptar
@@ -87662,6 +87715,9 @@ TEXT: Derrota a un jefe de incursión de tipo Lucha
 
 RESOURCE ID: quest_defeat_flying_type_raid_singular
 TEXT: Derrota a un jefe de incursión de tipo Volador
+
+RESOURCE ID: quest_defeat_ghost_fire_type_raid_singular
+TEXT: Derrota a un jefe de incursión de tipo Fuego o Fantasma
 
 RESOURCE ID: quest_defeat_jessie_james_plural
 TEXT: Derrota a Jessie o James {0} veces
@@ -113245,6 +113301,9 @@ TEXT: REGISTRAR NUEVA RUTA
 RESOURCE ID: recycle_dialog_prefix
 TEXT: ¿Tirar
 
+RESOURCE ID: recycle_dialog_quantity
+TEXT: QUANTITY: {0}
+
 RESOURCE ID: recycle_dialog_suffix
 TEXT: {0}?
 
@@ -121202,7 +121261,7 @@ TEXT: ¡Tus {0} se han mejorado al máximo! ¡Consigue más almacenamiento subie
 <a href="https://scopelyexplore.helpshift.com/hc/faq/1235-available-items-your-bag/">Obtén más información sobre cómo subir de nivel aquí.</a>
 
 RESOURCE ID: shop_gift_confirm_purchase_warning_description
-TEXT: Puedes enviar un total de <b>{0}</b> regalos de pago hoy. Este regalo no lo puede utilizar otro jugador ni se puede reembolsar.
+TEXT: Puedes enviar un total de 20 regalos de pago al día. Este regalo no lo puede utilizar otro jugador ni se puede reembolsar.
 
 RESOURCE ID: shop_gift_friend_ineligible_title
 TEXT: No se puede enviar el regalo
@@ -128413,6 +128472,13 @@ TEXT: <b>Recompensas incluidas:</b>
 • 10 Bayas Pinia
 • 3000 Polvos Estelares
 
+RESOURCE ID: text_rewards_key_chandelureraidday
+TEXT: <b>Bonus incluidos:</b>
+• Ocho Pases de incursión adicionales al dar vueltas a fotodiscos en Gimnasios
+• Mayor probabilidad de recibir Caramelos Raros ++ en incursiones
+• 5000 Polvos Estelares adicionales al completar supermegaincursiones
+• 5000 PX adicionales al completar supermegaincursiones
+
 RESOURCE ID: text_rewards_key_chargedembers1224
 TEXT: <b>Recompensas incluidas:</b>
 • 1 Superincubadora
@@ -130967,6 +131033,12 @@ TEXT: Intercambiar Pokémon
 
 RESOURCE ID: tips_tasks_trade_body
 TEXT: Debes estar cerca de un amigo para poder hacer intercambios. Después, ve a su perfil de Entrenador en tu lista de amigos y toca INTERCAMBIAR.
+
+RESOURCE ID: tips_tasks_weather_boost_title
+TEXT: Weather Boosts
+
+RESOURCE ID: tips_tasks_weather_boost_body
+TEXT: Certain Pokémon appear more frequently when the weather matches their type. These Pokémon have higher CP, are stronger in battle, and award extra Stardust when they’re caught.
 
 RESOURCE ID: tips_trading_intro_conversation_1
 TEXT: ¡Hola, %PLAYERNAME%! ¿Sabías que puedes intercambiar Pokémon con otros entrenadores?

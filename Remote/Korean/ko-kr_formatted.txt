@@ -998,13 +998,13 @@ RESOURCE ID: air_adventures_yogyakarta_sr_title_04
 TEXT: Pikachu’s Indonesia Journey: 욕야카르타(5/5)
 
 RESOURCE ID: allow_gift_list_prompt_title
-TEXT: Allow paid gifts?
+TEXT: 유료 선물을 받겠습니까?
 
 RESOURCE ID: allow_gift_list_prompt_desc
-TEXT: If you select Allow, this friend will be able to send you paid gifts again.
+TEXT: 받기를 허용하면 이 프렌드의 유료 선물을 받을 수 있게 됩니다.
 
 RESOURCE ID: allow_gift_list_prompt_button_label
-TEXT: YES, ALLOW
+TEXT: 네, 허용하겠습니다.
 
 RESOURCE ID: allow_notifications_prompt_message
 TEXT: 게임 체험 향상을 위해 알림 수신을 허용해 주십시오.
@@ -21494,7 +21494,7 @@ RESOURCE ID: breakfast_tappable_tutorial_body_temp
 TEXT: 루트를 완료하면 지가르데 셀을 발견할 수 있습니다. 필요한 수의 셀을 모아 지가르데를 합성할 수 있습니다.
 
 RESOURCE ID: breakfast_tappable_tutorial_body_temp2
-TEXT: Collect up to 3 Zygarde Cells per day by completing Routes. Assemble your Zygarde Cells to create different Zygarde forms.
+TEXT: 루트를 끝까지 걸으면, 지가르데 셀을 하루에 3개까지 모을 수 있으며 모은 수에 따라 지가르데의 각 폼을 만들 수 있습니다. 
 
 RESOURCE ID: breakthrough_free_remote_raid_pass
 TEXT: 대발견의 리모트 레이드패스
@@ -28674,22 +28674,22 @@ RESOURCE ID: city_manhole_479
 TEXT: 오마치
 
 RESOURCE ID: city_manhole_480
-TEXT: Isahaya
+TEXT: 이사하야
 
 RESOURCE ID: city_manhole_481
-TEXT: Saikai
+TEXT: 사이카이
 
 RESOURCE ID: city_manhole_482
-TEXT: Ina
+TEXT: 이나
 
 RESOURCE ID: city_manhole_483
-TEXT: Tsushima
+TEXT: 츠시마
 
 RESOURCE ID: city_manhole_484
-TEXT: Okaya
+TEXT: 오카야
 
 RESOURCE ID: city_manhole_485
-TEXT: Kiso
+TEXT: 키소
 
 RESOURCE ID: city_manhole_4(ibusuki)_d64e
 TEXT: 이부스키
@@ -30518,7 +30518,7 @@ RESOURCE ID: concierge_promo_tr_name
 TEXT: 포켓몬 컨시어지 보너스 시간제한 리서치
 
 RESOURCE ID: confirm_gift_purchase_v2_reward_points_prefix
-TEXT: You will receive
+TEXT: 받을 수 있는 것:
 
 RESOURCE ID: confirm_send_button
 TEXT: 보내기
@@ -31460,6 +31460,9 @@ TEXT: 자세한 내용은 <a href="https://pokemongolive.com/post/communityday-n
 
 RESOURCE ID: details_link_key_mawileraidday
 TEXT: 자세한 내용은 <a href="https://pokemongolive.com/post/mega-mawile-raid-day-2024">웹사이트</a>에서 확인해 주세요.
+
+RESOURCE ID: details_link_key_megachandelureraidday
+TEXT: 자세한 내용은 <a href="https://pokemongo.com/news/chandelure-super-mega-raid-day-2026">웹사이트</a>에서 확인해 주세요.
 
 RESOURCE ID: details_link_key_megalucarioraidday24
 TEXT: 자세한 내용은 <a href="https://pokemongolive.com/post/mega-lucario-raid-ultra-unlock">웹사이트</a>에서 확인해 주세요.
@@ -34488,6 +34491,9 @@ TEXT: 도시 체험 시간입니다. 도시에서 탐색을 시작합시다.
 
 RESOURCE ID: event_live_park_active_generic
 TEXT: 공원 체험 시간입니다. 공원으로 가서 탐색을 시작합시다.
+
+RESOURCE ID: event_mega_chandelure_raid_day_timed_research
+TEXT: 샹델라 슈퍼 메가 레이드 데이 시간제한 리서치
 
 RESOURCE ID: event_mega_cp_bonus
 TEXT: 특정 메가진화한 포켓몬의 CP증가
@@ -41152,6 +41158,9 @@ TEXT: 저리어 커뮤니티 데이 티켓
 RESOURCE ID: general2.ticket.2_sandilehatchday26_title
 TEXT: 깜눈크 부화데이 프리미엄 시간제한 리서치 티켓
 
+RESOURCE ID: general2.ticket.5_megachandelureraidday
+TEXT: 샹델라 슈퍼 메가 레이드 데이 티켓
+
 RESOURCE ID: general2.ticket.5_megafalinksraidday
 TEXT: 대여르 슈퍼 메가 레이드 데이 티켓
 
@@ -41426,10 +41435,10 @@ RESOURCE ID: generic_contact_support
 TEXT: 문의 하기
 
 RESOURCE ID: generic_event_pass_premium_unlock
-TEXT: GO Pass Deluxe
+TEXT: GO패스 디럭스
 
 RESOURCE ID: generic_event_pass_premium_unlock_plus_points
-TEXT: GO Pass Deluxe + Ranks
+TEXT: GO패스 디럭스+랭크
 
 RESOURCE ID: generic_player_lockout
 TEXT: 이용약관 위반 상태가 계속 검출되어 사용하시는 계정이 일시 정지 되었습니다.
@@ -41575,9 +41584,9 @@ TEXT: 구매 완료 직전에 상대방이 티켓을 손에 넣었기 때문에 
 다른 프렌드에게 보내거나 앱 스토어에서 환불을 요청해 주세요
 
 RESOURCE ID: gifting_error_description_temp
-TEXT: Unfortunately, this friend cannot receive this paid gift. This can happen for a variety of reasons.
+TEXT: 어떤 이유(다양한 가능성)으로 프렌드는 이 선물을 받을 수 없습니다.
 
-You can choose a new friend to send this to now.
+다른 프렌드에게 보낼 수 있습니다.
 
 RESOURCE ID: gifting_error_refund_button
 TEXT: 환불 요청
@@ -52512,7 +52521,7 @@ RESOURCE ID: iap_category_team_change
 TEXT: 팀 변경
 
 RESOURCE ID: iap_friend_picker_last_sent
-TEXT: Last Sent
+TEXT: 최근에 보낸 프렌드
 
 RESOURCE ID: iap_item_unavailable
 TEXT: 숍에 없는 아이템입니다.
@@ -53560,6 +53569,9 @@ TEXT: 추천
 RESOURCE ID: item_bag_category_gifts
 TEXT: 선물
 
+RESOURCE ID: item_bag_category_incubators
+TEXT: Incubators
+
 RESOURCE ID: item_bag_category_lures
 TEXT: Lures
 
@@ -53577,6 +53589,9 @@ TEXT: Poké Balls
 
 RESOURCE ID: item_bag_category_tm
 TEXT: TMs
+
+RESOURCE ID: item_bag_category_berries_and_poffins
+TEXT: Berries and Poffins
 
 RESOURCE ID: item_bag_category_key_items
 TEXT: Key Items
@@ -54514,6 +54529,9 @@ TEXT: 현지 시간 2025년 4월 5일 14시~ 17시에 보너스를 받기 위한
 RESOURCE ID: item_event_ticket_gray_desc_megacameruptraidday
 TEXT: 현지시간 2025년 9월 28일 14시~17시에 보너스를 받기 위한 티켓.
 
+RESOURCE ID: item_event_ticket_gray_desc_megachandelureraidday
+TEXT: 현지 시간 2026년 10월 31일 14시~ 22시에 보너스를 진행하기 위한 티켓.
+
 RESOURCE ID: item_event_ticket_gray_desc_megafalinksraidday
 TEXT: 현지 시간 2026년 5월 23일 14시~ 17시에 보너스를 받기 위한 티켓.
 
@@ -54705,6 +54723,9 @@ TEXT: 이 티켓은 자동으로 활성화되어 현지시간 2025년 4월 5일�
 
 RESOURCE ID: item_event_ticket_gray_details_megacameruptraidday
 TEXT: 이 티켓은 자동으로 활성화되어 현지시간 2025년 9월 28일에 발생하는 보너스를 손에 넣을 수 있습니다.
+
+RESOURCE ID: item_event_ticket_gray_details_megachandelureraidday
+TEXT: 이 티켓은 자동으로 활성화되어 현지시간 2026년 10월 31일에 발생하는 보너스를 손에 넣을 수 있습니다.
 
 RESOURCE ID: item_event_ticket_gray_details_megafalinksraidday
 TEXT: 이 티켓은 자동으로 활성화되어 현지시간 2026년 5월 23일에 발생하는 보너스를 손에 넣을 수 있습니다.
@@ -55861,10 +55882,10 @@ RESOURCE ID: item_incubator_timed_name
 TEXT: 시간제한 부화장치
 
 RESOURCE ID: item_inventory_paid_gift_banner_title
-TEXT: You have paid gifts!
+TEXT: 구매한 선물
 
 RESOURCE ID: item_inventory_paid_gift_banner_subtitle
-TEXT: Send to your Friends?
+TEXT: 프렌드에 보내겠습니까?
 
 RESOURCE ID: item_item_pack_desc
 TEXT: 지닐 수 있는 도구의 상한 수가 늘어납니다.
@@ -56587,6 +56608,9 @@ TEXT: {0}(을)를 잡았을 때 에너지를 손에 넣었다!
 
 RESOURCE ID: journal_declined_ex_raid_ticket_from_friend
 TEXT: You declined an invitation from {0}.
+
+RESOURCE ID: journal_player_fled
+TEXT: Fled from a raid encounter with {0}.
 
 RESOURCE ID: journal_received_fitness_rewards
 TEXT: Received {0} items from Weekly Adventure Sync Rewards.
@@ -62119,6 +62143,12 @@ TEXT: 메가 캐치컵: 슈퍼리그 버전
 RESOURCE ID: mega_championship_cup_great_title
 TEXT: 2026 GO 챔피언십LA 컵: 슈퍼리그 버전
 
+RESOURCE ID: mega_chandelure_global_challenge
+TEXT: 샹델라 슈퍼 메가 레이드 데이 글로벌 챌린지
+
+RESOURCE ID: mega_chandelure_raid_day_event_name
+TEXT: 샹델라 슈퍼 메가 레이드 데이
+
 RESOURCE ID: mega_color_cup_great_title
 TEXT: 메가 4색컵: 슈퍼리그 버전
 
@@ -62382,6 +62412,11 @@ TEXT: 메가진화한 포켓몬과 같은 타입의 포켓몬을 잡으면 메�
 - 포켓몬의 사탕 추가
 - 보너스 XP
 - 사탕XL 입수 확률 증가
+
+RESOURCE ID: mega_level_tutorial_cp_downscaling_1_body
+TEXT: If a Mega Pokémon’s CP exceeds certain Battle Leagues, their levels will be temporarily adjusted to where its CP is within that Battle League’s limits.
+
+Pokémon at Super Max Level will not have the Greatly Increased CP bonus in Master League.
 
 RESOURCE ID: mega_level_tutorial_hero_title
 TEXT: 메가진화 시키자!
@@ -62650,10 +62685,10 @@ at SHA 4d4f3e80cc7fb911006bd14d198c9831ef66d005
 Pipeline 339838, job 2672172
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-10-14T01:27:43.825708+00:00 for ko-KR
-at SHA 46a25b64966
-Pipeline 4019736, job 59225155
-Patch from: 0.435.0-SHA-5bec7604-RC1, 0.431.0-SHA-98b5070c-RC6, 0.433.0-SHA-a810fd7d-RC2
+TEXT: Built at 2026-10-16T22:34:57.171068+00:00 for ko-KR
+at SHA d68311f630a
+Pipeline 4029884, job 59396785
+Patch from: 0.431.0-SHA-8123c737-RC1, 0.433.0-SHA-94a605de-RC4, 0.435.0-SHA-5bec7604-RC1
 
 RESOURCE ID: meteor_title_1
 TEXT: 유성군
@@ -62849,6 +62884,9 @@ TEXT: 컬렉션 챌린지 완료!
 
 RESOURCE ID: minicollect_progress_indicator
 TEXT: 컬렉션 챌린지가 진행되었다!
+
+RESOURCE ID: minior_shower_tr_name
+TEXT: 메테노 샤워 시간제한 리서치
 
 RESOURCE ID: minute_abbrev
 TEXT: 분
@@ -67861,6 +67899,15 @@ TEXT: 밤의 만남
 RESOURCE ID: nearby_active_reminder_header
 TEXT: 활동 알림
 
+RESOURCE ID: nearby_incomplete_raid_header
+TEXT: IN PROGRESS
+
+RESOURCE ID: nearby_incomplete_raid_widget_title
+TEXT: Rejoin the {0} raid
+
+RESOURCE ID: nearby_incomplete_raid_widget_header
+TEXT: REJOIN
+
 RESOURCE ID: nearby_pokemon_clear_button
 TEXT: 취소
 
@@ -68513,6 +68560,12 @@ TEXT: 프렌드와 새로운 모험
 RESOURCE ID: old_friends_description
 TEXT: 프렌드와 새로운 모험- 시간제한 리서치
 
+RESOURCE ID: ominous_wind_base_increased_level_bonus
+TEXT: 메가샹델라의 레벨이 올라갑니다(11월 2일 12시~15일 12시 PST)
+
+RESOURCE ID: ominous_wind_base_power_boost_bonus
+TEXT: 괴상한바람의 위력이 증가(11월 2일 12시~ 15일 12시 PST)
+
 RESOURCE ID: onboard_accept_tos
 TEXT: 이용규약에 동의한다
 
@@ -68773,19 +68826,19 @@ RESOURCE ID: ozone_ascent_free_timed_research
 TEXT: 천공으로 향한 마음 시간제한 리서치
 
 RESOURCE ID: paid_gift_already_purchased_modal_title
-TEXT: You have already purchased this paid gift.
+TEXT: 이미 구매한 선물
 
 RESOURCE ID: paid_gift_already_purchased_modal_button
-TEXT: GO TO INVENTORY
+TEXT: 도구 가방으로
 
 RESOURCE ID: paid_gift_already_purchased_modal_message
-TEXT: You can send it from your inventory.
+TEXT: 도구 가방에서 보낼 수 있습니다
 
 RESOURCE ID: paid_gift_regift_no_longer_available_modal_title
-TEXT: Gifting Error
+TEXT: 에러 발생
 
 RESOURCE ID: paid_gift_regift_no_longer_available_modal_message
-TEXT: This item is no longer available and cannot be gifted.
+TEXT: 이미 제공 기간이 종료되어 선물로 보낼 수 있습니다
 
 RESOURCE ID: paid_pikachu_gmax_tr_mar26
 TEXT: 거다이맥스 피카츄 프리미엄 시간제한 리서치
@@ -69751,16 +69804,16 @@ RESOURCE ID: pause_dialog_subtitle
 TEXT: 이 스탬프랠리의 스탬프를 모으는 것을 멈추겠습니다. 스크랩북 컬렉션 화면에서 언제든지 다시 시작할 수 있습니다.
 
 RESOURCE ID: pause_gift_list_title
-TEXT: Pause Gifts List
+TEXT: 선물 수령 정지 리스트
 
 RESOURCE ID: pause_gift_list_prompt_title
-TEXT: Pause paid gifts?
+TEXT: 유료 선물 받는 것을 멈추겠습니까?
 
 RESOURCE ID: pause_gift_list_prompt_desc
-TEXT: The following friend will be unable to send you paid gifts. You can allow them to send paid gifts again at any point.
+TEXT: 다음 프렌드는 당신에게 유료 선물을 보낼 수 없게 됩니다. 나중에 언제든지 변경할 수 있습니다.
 
 RESOURCE ID: pause_gift_list_prompt_button_label
-TEXT: YES, PAUSE
+TEXT: 네, 멈추겠습니다
 
 RESOURCE ID: pause_route_travel_error_toast
 TEXT: 루트 일시 정지 에러
@@ -84025,63 +84078,57 @@ RESOURCE ID: premium_rewards
 TEXT: 프리미엄 리워드
 
 RESOURCE ID: premium_gift_sent
-TEXT: You sent a paid gift to {0}.
+TEXT: {0}님에게 선물을 보냈습니다
 
 RESOURCE ID: premium_gift_ftue_title
-TEXT: Introducing More Gifting Options in the Shop
+TEXT: 프렌드에게 보낼 수 있는 아이템이 늘었습니다
 
 RESOURCE ID: premium_gift_ftue_desc
-TEXT: You can now send and receive more types of gifts through the Shop!
+TEXT: 숍에서 구매할 수 있는 프렌드에게 보낼 수 있는 선물의 종류가 늘었습니다!
 
-Do you want to opt in? You can change this at any point in Settings.
+ 설정을 켜겠습니까? 설정은 나중에 언제라도 변경할 수 있습니다.
 
 RESOURCE ID: premium_gift_notification_event_pass_title
-TEXT: GO Pass
+TEXT: GO패스
 
 RESOURCE ID: premium_gift_notification_event_pass_desc
-TEXT: Hi, <b>{0}</b>! Here’s a GO Pass Deluxe for you. Can you complete it and get all the rewards?
+TEXT: <b>{0}</b>님 안녕하세요! GO패스 디럭스를 보내드립니다. 수령 완료 해주세요.
 
-Cheers,
+감사합니다.
 <b>{1}</b>
 
 RESOURCE ID: premium_gift_notification_items_title
-TEXT: Gift For You
+TEXT: 선물
 
 RESOURCE ID: premium_gift_notification_multiple_trainers_desc
-TEXT: Greetings, <b>{0}</b>!
+TEXT: <b>{0}</b>님!
 
-Your friends sent you some gifts!
+프렌드 선물이 도착했습니다!
 
 
 RESOURCE ID: premium_gift_notification_one_trainer_multiple_items_desc
-TEXT: Hi, <b>{0}</b>!
+TEXT: <b>{0}</b>님 안녕하세요! 선물을 보냅니다.
 
-I hope you enjoy these gifts!
-{2}
-
-Cheers,
+감사합니다.
 <b>{1}</b>
 
 RESOURCE ID: premium_gift_notification_one_trainer_one_item_desc
-TEXT: Hi, <b>{0}</b>!
+TEXT: <b>{0}</b>님 안녕하세요! 마음이 가득 담긴 선물입니다.
 
-Here’s a gift for you!
-{2}
-
-Cheers,
+수령해 주세요.
 <b>{1}</b>
 
 RESOURCE ID: premium_gift_received_event_pass
-TEXT: {0} gifted you a GO Pass Deluxe!
+TEXT: {0}님의 GO패스 디럭스 선물이 도착했습니다!
 
 RESOURCE ID: premium_gift_received_event_ticket
-TEXT: {0} gifted you a ticket for an event!
+TEXT: {0}님이 보낸 이벤트 티켓 선물이 도착했습니다!
 
 RESOURCE ID: premium_gift_received_item_multi
-TEXT: {0} gifted you a {1} and more!
+TEXT: {0}님이 보낸 {1} 등이 도착했습니다!
 
 RESOURCE ID: premium_gift_received_item_single
-TEXT: {0} gifted you a {1}!
+TEXT: {0}님이 보낸 {1}(이)가 도착했습니다!
 
 RESOURCE ID: primal_revert
 TEXT: 원시회귀
@@ -86698,6 +86745,9 @@ TEXT: 격투타입의 보스 포켓몬에게 이긴다
 
 RESOURCE ID: quest_defeat_flying_type_raid_singular
 TEXT: 비행타입의 보스 포켓몬에게 이긴다
+
+RESOURCE ID: quest_defeat_ghost_fire_type_raid_singular
+TEXT: 고스트타입 또는 불꽃타입의 보스 포켓몬에게 이긴다
 
 RESOURCE ID: quest_defeat_jessie_james_plural
 TEXT: 로사 또는 로이에게 {0}번 이긴다
@@ -112194,6 +112244,9 @@ TEXT: 새 루트를 기록
 RESOURCE ID: recycle_dialog_prefix
 TEXT: 버리는 도구:
 
+RESOURCE ID: recycle_dialog_quantity
+TEXT: QUANTITY: {0}
+
 RESOURCE ID: recycle_dialog_suffix
 TEXT: {0}
 
@@ -119055,16 +119108,16 @@ RESOURCE ID: settings_allow_paid_gifts
 TEXT: 프렌드의 유료 티켓을 받는다
 
 RESOURCE ID: settings_allow_paid_gifts_desc_off
-TEXT: Turning off this feature will pause friends from sending you paid gifts. This does not include free Gifts.
+TEXT: 이 설정을 끄면 프렌드가 구입한 선물을 받을 수 없습니다. 무료 선물은 계속해서 받을 수 있습니다.
 
 RESOURCE ID: settings_allow_paid_gifts_desc_on
-TEXT: Turning on this feature will allow friends to send you paid gifts. You can pause specific friends from sending you paid gifts in the Pause Gifts List once this feature is turned on.
+TEXT: 이 설정을 켜면 프렌드가 구입한 선물을 받을 수 있습니다. 유료 선물 받기를 멈출 프렌드를 선택할 수 있습니다.
 
 RESOURCE ID: settings_allow_paid_gifts_title_off
-TEXT: Turn Off Paid Gifts from Friends?
+TEXT: 프레드의 유료 선물 설정을 끄겠습니까?
 
 RESOURCE ID: settings_allow_paid_gifts_title_on
-TEXT: Turn On Paid Gifts from Friends?
+TEXT: 프레드의 유료 선물 설정을 켜겠습니까?
 
 RESOURCE ID: settings_allow_raid_and_max_battle_friend_requests
 TEXT: 레이드배틀, 맥스배틀 참가자
@@ -119295,10 +119348,10 @@ RESOURCE ID: settings_party_play_map_avatars
 TEXT: 다른 트레이널르 맵 상에서 본다
 
 RESOURCE ID: settings_pause_gifts_list
-TEXT: Pause Gifts List
+TEXT: 선물 수령 정지 리스트
 
 RESOURCE ID: settings_pause_gifts_list_tip
-TEXT: Selected friends will not be able to send you paid gifts. They can still send you free Gifts.
+TEXT: 프렌드를 선택하고 유료 선물 받기를 멈출 수 있습니다. 무료 선물은 받을 수 있습니다.
 
 RESOURCE ID: settings_pbp_check_other_menu
 TEXT: 페어링 중인 기기는 Pokémon GO Plus 메뉴 아래에 있습니다.
@@ -120016,7 +120069,7 @@ RESOURCE ID: shop_already_own_this_ticket
 TEXT: 이 이벤트 티켓을 가지고 있습니다
 
 RESOURCE ID: shop_already_unlocked_premium_event_pass
-TEXT: You’ve already unlocked this GO Pass Deluxe.
+TEXT: 이미 GO패스 디럭스를 구매했습니다
 
 RESOURCE ID: shop_battle_tickets_title
 TEXT: 레이드패스가 없습니다
@@ -120146,7 +120199,7 @@ TEXT: {0}(은)는 상한까지 업그레이드 되었습니다. 트레이너 레
 <a href="https://scopelyexplore.helpshift.com/hc/faq/1235-available-items-your-bag/">레벨업의 자세한 내용은 여기.</a>
 
 RESOURCE ID: shop_gift_confirm_purchase_warning_description
-TEXT: You can send a total of 20 paid gifts per day. This gift cannot be used by another player or refunded.
+TEXT: 유료 선물은 1일 20개까지 보낼 수 있습니다. 다른 트레이너가 사용할 수 없으며 환불도 할 수 없습니다.
 
 RESOURCE ID: shop_gift_friend_ineligible_title
 TEXT: 티켓을 보낼 수 없습니다
@@ -120158,14 +120211,14 @@ TEXT: 다음 이유로 프렌드가 유료 선물을 받을 수 없는 경우가
 •선물을 보낼 수 있는 우정레벨이 아닌 경우
 
 RESOURCE ID: shop_gift_friend_ineligible_description_temp
-TEXT: You may not be able to send paid gifts—including items, tickets, and event passes—to some friends. This can happen for the following reasons:
+TEXT: 도구, 이벤트 티켓, 이벤트 패스 등을 포함한 선물을 구매해도 보낼 상대가 다음 이유로 못 받을 수 있습니다.
 
-• They already own the ticket or event pass, or someone else sent it to them
-• They may have active or completed research that prevents them from receiving tickets
-• Your friendship level is too low
-• They have disabled paid gifts
-• Their account is not eligible due to restrictions
-• Cross-currency gifting is not supported
+- 이미 구매했거나 다른 사람이 먼저 선물해서 가지고 있다.
+- 진행 중 또는 완료한 리서치 관련이라 받을 수 없다.
+- 우정레벨이 낮다.
+- 유료 선물 수령 기능이 꺼져있다.
+- 제한이 걸려 있는 계정이다.
+- 다른 화폐를 넘나드는 응답을 할 수 없다.
 
 RESOURCE ID: shop_gift_invitation_title
 TEXT: 초대
@@ -120221,7 +120274,7 @@ TEXT: {0}님에게 보냈습니다.
 이벤트 전에 열 수 있도록 알려주세요!
 
 RESOURCE ID: shop_gift_purchase_invitation_sent_generic_description
-TEXT: Your gift has been sent to {0}.
+TEXT: {0}님에게 선물을 보냈다!
 
 RESOURCE ID: shop_gift_purchase_select_friend
 TEXT: 프렌드 선택하기
@@ -120242,10 +120295,10 @@ TEXT: 이 이벤트용으로 보낼 수 있는 유료 선물은 {0}개입니다.
 과도한 선물과 위조 선물을 방지하기 위해 최대 수를 제한하고 있습니다.
 
 RESOURCE ID: shop_gift_received_notification
-TEXT: {0}님이 보낸 이벤트 선물이 도착했습니다!
+TEXT: {0}님이 보낸 이벤트 티켓 선물이 도착했습니다!
 
 RESOURCE ID: shop_gift_received_journal_entry
-TEXT: {0}님이 보낸 이벤트 티켓 선물을 받았다!
+TEXT: {0}님이 보낸 이벤트 티켓 선물이 도착했습니다!
 
 RESOURCE ID: shop_gift_redemption_error_modal_description
 TEXT: 선물 구입이 완료되기 전에 상대방이 이미 해당 선물을 가지고 있어 보낼 수 없습니다.
@@ -127358,6 +127411,13 @@ TEXT: <b>받을 수 있는 리워드:</b>
 - 파인열매 10개
 - 별의모래 3,000개
 
+RESOURCE ID: text_rewards_key_chandelureraidday
+TEXT: <b>받을 수 있는 보너스:</b>
+- 체육관 포토디스크를 돌려 추가 레이드패스 8개
+- 레이드배틀에서 받을 수 있는 이상한사탕XL의 확률 증가
+- 슈퍼 메가 레이드 승리로 받을 수 있는 별의모래 5,000 추가
+- 슈퍼 메가 레이드 승리로 받을 수 있는 5,000 XP 추가 등
+
 RESOURCE ID: text_rewards_key_chargedembers1224
 TEXT: <b>받을 수 있는 리워드:</b>
 - 슈퍼 부화장치 1개
@@ -129890,6 +129950,12 @@ TEXT: 포켓몬 교환
 
 RESOURCE ID: tips_tasks_trade_body
 TEXT: 근처에 있는 프렌드와 포켓몬 교환을 할 수 있습니다. 트레이너 프로필의 프렌드 리스트에서 프렌드를 선택하고 "교환"을 탭합니다.
+
+RESOURCE ID: tips_tasks_weather_boost_title
+TEXT: Weather Boosts
+
+RESOURCE ID: tips_tasks_weather_boost_body
+TEXT: Certain Pokémon appear more frequently when the weather matches their type. These Pokémon have higher CP, are stronger in battle, and award extra Stardust when they’re caught.
 
 RESOURCE ID: tips_trading_intro_conversation_1
 TEXT: 안녕, %PLAYERNAME%! 트레이너끼리 포켓몬을 교환할 수 있다는 것을 알고 있니?
@@ -134073,7 +134139,7 @@ RESOURCE ID: tutorial_route_bonus_2
 TEXT: 독특한 포켓몬 출현
 
 RESOURCE ID: tutorial_route_bonus_2_temp
-TEXT: Certain Pokémon may appear more often in the wild on Routes
+TEXT: 특정 야생 포켓몬이 루트에 더 많이 출현할 수 있다
 
 RESOURCE ID: tutorial_route_play_title_0
 TEXT: 루트 플레이 방법
@@ -135439,7 +135505,7 @@ RESOURCE ID: username_suggestion_disclaimer_change_name
 TEXT: 닉네임은 1번만 변경 가능합니다.
 
 RESOURCE ID: username_suggestion_disclaimer_new_user
-TEXT: 닉네임은 나중에 변경 가능합니다.
+TEXT: 팁) 다른 트레이너가 볼 수 있는 이름이니 실명을 쓰지 마세요. 트레이너명은 나중에 변경할 수 있습니다.
 
 RESOURCE ID: username_suggestion_name_looks_good_banned_name
 TEXT: 좋은 닉네임이네요!

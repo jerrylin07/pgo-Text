@@ -31882,6 +31882,9 @@ TEXT: 詳細は<a href="https://pokemongolive.com/post/communityday-november-202
 RESOURCE ID: details_link_key_mawileraidday
 TEXT: 詳細は<a href="https://pokemongolive.com/post/mega-mawile-raid-day-2024">ウェブサイト</a>でご確認ください
 
+RESOURCE ID: details_link_key_megachandelureraidday
+TEXT: 詳細は<a href="https://pokemongo.com/news/chandelure-super-mega-raid-day-2026">ウェブサイト</a>でご確認ください
+
 RESOURCE ID: details_link_key_megalucarioraidday24
 TEXT: 詳細は<a href="https://pokemongolive.com/post/mega-lucario-raid-ultra-unlock">ウェブサイト</a>でご確認ください
 
@@ -34958,6 +34961,9 @@ TEXT: 都市体験の時間です！街で探索を開始しましょう！
 
 RESOURCE ID: event_live_park_active_generic
 TEXT: 公園体験の時間です！公園へ行って探索を開始しましょう！
+
+RESOURCE ID: event_mega_chandelure_raid_day_timed_research
+TEXT: シャンデラスーパーメガレイドデイタイムチャレンジ
 
 RESOURCE ID: event_mega_cp_bonus
 TEXT: 特定のメガシンカしたポケモンのCP増
@@ -41616,6 +41622,9 @@ TEXT: シビシラスコミュニティ・デイチケット
 
 RESOURCE ID: general2.ticket.2_sandilehatchday26_title
 TEXT: メグロコふかの日プレミアムタイムチャレンジチケット
+
+RESOURCE ID: general2.ticket.5_megachandelureraidday
+TEXT: シャンデラスーパーメガレイドデイチケット
 
 RESOURCE ID: general2.ticket.5_megafalinksraidday
 TEXT: タイレーツスーパーメガレイドデイのチケット
@@ -54080,6 +54089,9 @@ TEXT: 注目アイテム
 RESOURCE ID: item_bag_category_gifts
 TEXT: ギフト
 
+RESOURCE ID: item_bag_category_incubators
+TEXT: ふかそうち
+
 RESOURCE ID: item_bag_category_lures
 TEXT: ルアー
 
@@ -54097,6 +54109,9 @@ TEXT: ボール
 
 RESOURCE ID: item_bag_category_tm
 TEXT: わざマシン
+
+RESOURCE ID: item_bag_category_berries_and_poffins
+TEXT: きのみ＆ポフィン
 
 RESOURCE ID: item_bag_category_key_items
 TEXT: ギフトなど
@@ -55034,6 +55049,9 @@ TEXT: 現地時間2025年4月5日2:00PM～5:00PMにボーナスを受け取る�
 RESOURCE ID: item_event_ticket_gray_desc_megacameruptraidday
 TEXT: 現地時間2025年9月28日2:00PM～5:00PMにボーナスを受け取るためのチケット。
 
+RESOURCE ID: item_event_ticket_gray_desc_megachandelureraidday
+TEXT: 現地時間2026年10月31日2:00PM～10:00PMにボーナスを受け取るためのチケット。
+
 RESOURCE ID: item_event_ticket_gray_desc_megafalinksraidday
 TEXT: 現地時間2026年5月23日2:00PM～5:00PMにボーナスを受け取るためのチケット。
 
@@ -55225,6 +55243,9 @@ TEXT: このチケットは自動的に発動し4月5日にボーナスが受け
 
 RESOURCE ID: item_event_ticket_gray_details_megacameruptraidday
 TEXT: このチケットは自動的に発動し9月28日にボーナスが受け取れるようになります。
+
+RESOURCE ID: item_event_ticket_gray_details_megachandelureraidday
+TEXT: このチケットは自動的に発動し10月31日にボーナスが受け取れるようになります。
 
 RESOURCE ID: item_event_ticket_gray_details_megafalinksraidday
 TEXT: このチケットは自動的に発動し5月23日にボーナスが受け取れるようになります。
@@ -57107,6 +57128,9 @@ TEXT: {0}を捕まえたときエナジーを手に入れた！
 
 RESOURCE ID: journal_declined_ex_raid_ticket_from_friend
 TEXT: {0}さんのお誘いを断った
+
+RESOURCE ID: journal_player_fled
+TEXT: Fled from a raid encounter with {0}.
 
 RESOURCE ID: journal_received_fitness_rewards
 TEXT: アドベンチャーシンクの週間リワードとして{0}アイテム手に入れた！
@@ -62667,6 +62691,12 @@ TEXT: メガ速成カップ：スーパーリーグバージョン
 RESOURCE ID: mega_championship_cup_great_title
 TEXT: 2026GOチャンピオンシップLAカップ：スーパーリーグバージョン
 
+RESOURCE ID: mega_chandelure_global_challenge
+TEXT: シャンデラスーパーメガレイドデイグローバルチャレンジ
+
+RESOURCE ID: mega_chandelure_raid_day_event_name
+TEXT: シャンデラスーパーメガレイドデイ
+
 RESOURCE ID: mega_color_cup_great_title
 TEXT: メガ4色カップ：スーパーリーグバージョン
 
@@ -62930,6 +62960,11 @@ TEXT: メガシンカしたポケモンと同じタイプのポケモンを捕�
 ・追加のアメ
 ・ボーナスXP
 ・アメXL入手の確率アップ
+
+RESOURCE ID: mega_level_tutorial_cp_downscaling_1_body
+TEXT: メガシンカしたポケモンのCPが特定リーグの上限を超える場合、参戦できる範囲に調整されます。
+
+スーパーマックスレベルに達しているポケモンも、マスターリーグでCPが大幅に上がることはありません。
 
 RESOURCE ID: mega_level_tutorial_hero_title
 TEXT: メガシンカさせよう！
@@ -63205,10 +63240,10 @@ at SHA 4d4f3e80cc7fb911006bd14d198c9831ef66d005
 Pipeline 339838, job 2672172
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-10-14T01:27:43.825708+00:00 for ja-JP
-at SHA 46a25b64966
-Pipeline 4019736, job 59225155
-Patch from: 0.435.0-SHA-5bec7604-RC1, 0.431.0-SHA-98b5070c-RC6, 0.433.0-SHA-a810fd7d-RC2
+TEXT: Built at 2026-10-16T22:34:57.171068+00:00 for ja-JP
+at SHA d68311f630a
+Pipeline 4029884, job 59396785
+Patch from: 0.431.0-SHA-8123c737-RC1, 0.433.0-SHA-94a605de-RC4, 0.435.0-SHA-5bec7604-RC1
 
 RESOURCE ID: meteor_title_1
 TEXT: 流星群
@@ -63404,6 +63439,9 @@ TEXT: コレクションチャレンジ完了！
 
 RESOURCE ID: minicollect_progress_indicator
 TEXT: コレクションが進んだ！
+
+RESOURCE ID: minior_shower_tr_name
+TEXT: メテノシャワータイムチャレンジ
 
 RESOURCE ID: minute_abbrev
 TEXT: 分
@@ -68507,6 +68545,15 @@ TEXT: 夜の出会い
 RESOURCE ID: nearby_active_reminder_header
 TEXT: アクティブなリマインダー
 
+RESOURCE ID: nearby_incomplete_raid_header
+TEXT: IN PROGRESS
+
+RESOURCE ID: nearby_incomplete_raid_widget_title
+TEXT: Rejoin the {0} raid
+
+RESOURCE ID: nearby_incomplete_raid_widget_header
+TEXT: REJOIN
+
 RESOURCE ID: nearby_pokemon_clear_button
 TEXT: やめる
 
@@ -69164,6 +69211,12 @@ TEXT: 友との新たな冒険
 
 RESOURCE ID: old_friends_description
 TEXT: 友との新たな冒険 - タイムチャレンジ
+
+RESOURCE ID: ominous_wind_base_increased_level_bonus
+TEXT: メガシャンデラのレベルが上がる（11月2日12:00PM～15日12:00PM太平洋標準時）
+
+RESOURCE ID: ominous_wind_base_power_boost_bonus
+TEXT: 「あやしいかぜ+」の威力が増す（11月2日12:00PM～15日12:00PM太平洋標準時）
 
 RESOURCE ID: onboard_accept_tos
 TEXT: 利用規約に同意します
@@ -87382,6 +87435,9 @@ TEXT: かくとうタイプのボスポケモンに勝つ
 
 RESOURCE ID: quest_defeat_flying_type_raid_singular
 TEXT: ひこうタイプのボスポケモンに勝つ
+
+RESOURCE ID: quest_defeat_ghost_fire_type_raid_singular
+TEXT: ゴーストタイプかほのおタイプのボスポケモンに勝つ
 
 RESOURCE ID: quest_defeat_jessie_james_plural
 TEXT: ムサシかコジロウに{0}回勝つ
@@ -112897,6 +112953,9 @@ TEXT: 新ルートを記録
 RESOURCE ID: recycle_dialog_prefix
 TEXT: 捨てる道具：
 
+RESOURCE ID: recycle_dialog_quantity
+TEXT: 持っている量：{0}
+
 RESOURCE ID: recycle_dialog_suffix
 TEXT: {0}
 
@@ -128124,6 +128183,13 @@ TEXT: <b>もらえるもの：</b>
 ・パイルのみ10個
 ・3000ほしのすな、など
 
+RESOURCE ID: text_rewards_key_chandelureraidday
+TEXT: <b>適用ボーナス：</b>
+・ジムのフォトディスクを回してもらえるレイドパス8枚追加
+・レイドでもらえるふしぎなアメXLの可能性増
+・スーパーメガレイド勝利でもらえる5000ほしのすな追加
+・スーパーメガレイド勝利でもらえる5000XP追加、など
+
 RESOURCE ID: text_rewards_key_chargedembers1224
 TEXT: <b>もらえるもの：</b>
 ・スーパーふかそうち1個
@@ -130663,6 +130729,12 @@ TEXT: ポケモン交換
 
 RESOURCE ID: tips_tasks_trade_body
 TEXT: 近くにいるフレンドとポケモンを交換することができます。トレーナープロフィールのフレンドリストからフレンドを選び「交換」をタップします。
+
+RESOURCE ID: tips_tasks_weather_boost_title
+TEXT: 天候によるブースト
+
+RESOURCE ID: tips_tasks_weather_boost_body
+TEXT: 特定のポケモンが、そのタイプに合う天候下で出会いやすくなります。これらのポケモンには、CPがより高くなる、バトルでのワザの強さがブーストされる、などの特徴があります。捕まえると、ほしのすなが多くもらえます。
 
 RESOURCE ID: tips_trading_intro_conversation_1
 TEXT: やぁ、%PLAYERNAME%！トレーナー同士でポケモンを交換できるって知ってたかな？
