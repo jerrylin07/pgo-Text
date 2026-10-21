@@ -2685,6 +2685,9 @@ TEXT: Kara Kyurem Kanadı
 RESOURCE ID: avatar_backpack_eggincubator
 TEXT: Kuluçka Makinesi Sırt Çantası
 
+RESOURCE ID: avatar_backpack_gmaxduraludon
+TEXT: Gigantamaks Duraludon Sırt Çantası
+
 RESOURCE ID: avatar_backpack_goruckgengar
 TEXT: GORUCK Gengar Sırt Çantası
 
@@ -5132,6 +5135,9 @@ TEXT: Applin Tacı
 
 RESOURCE ID: avatar_hat_captainpikachu
 TEXT: Kaptan Pikachu Şapkası
+
+RESOURCE ID: avatar_hat_duraludon
+TEXT: Duraludon Kaskı
 
 RESOURCE ID: avatar_hat_eternatus
 TEXT: Eternatus Kaskı
@@ -7679,6 +7685,9 @@ TEXT: Lumiose Şehri Ayakkabısı (Kırmızı)
 RESOURCE ID: avatar_pants_bwpants
 TEXT: Siyah Beyaz Eşofman Altı
 
+RESOURCE ID: avatar_pants_duraludon
+TEXT: Duraludon Pantolonu
+
 RESOURCE ID: avatar_pants_eternatus
 TEXT: Eternatus Pantolonu
 
@@ -7750,6 +7759,9 @@ TEXT: Grimsley Pozu
 
 RESOURCE ID: avatar_pose_gofest2025
 TEXT: GO Festivali 2025 Pozu
+
+RESOURCE ID: avatar_pose_gowa2026
+TEXT: GO Vahşi Bölgesi 2026 Pozu
 
 RESOURCE ID: avatar_pose_grusha
 TEXT: Grusha Pozu
@@ -7873,6 +7885,15 @@ TEXT: GO Tur 2025 Tişörtü
 
 RESOURCE ID: avatar_shirt_gotour2025white
 TEXT: GO Tur 2025 Tişörtü (Beyaz)
+
+RESOURCE ID: avatar_shirt_gowa2026-maroon
+TEXT: GO Vahşi Bölgesi 2026 Tişörtü (Mor)
+
+RESOURCE ID: avatar_shirt_gowa2026-navy
+TEXT: GO Vahşi Bölgesi 2026 Tişörtü (Lacivert)
+
+RESOURCE ID: avatar_shirt_gowamachamp
+TEXT: Dövüşçü Türü Montu
 
 RESOURCE ID: avatar_shirt_gowatshirt2024
 TEXT: GO Vahşi Bölgesi 2024 Tişörtü
@@ -51666,7 +51687,7 @@ RESOURCE ID: item_bag_category_gifts
 TEXT: Hediyeler
 
 RESOURCE ID: item_bag_category_incubators
-TEXT: Incubators
+TEXT: Kuluçka Makineleri
 
 RESOURCE ID: item_bag_category_lures
 TEXT: Lures
@@ -51687,7 +51708,7 @@ RESOURCE ID: item_bag_category_tm
 TEXT: TMs
 
 RESOURCE ID: item_bag_category_berries_and_poffins
-TEXT: Berries and Poffins
+TEXT: Meyve ve Pofinler
 
 RESOURCE ID: item_bag_category_key_items
 TEXT: Key Items
@@ -54702,7 +54723,7 @@ RESOURCE ID: journal_declined_ex_raid_ticket_from_friend
 TEXT: {0} adlı oyuncudan gelen davetiyeyi reddettiniz.
 
 RESOURCE ID: journal_player_fled
-TEXT: Fled from a raid encounter with {0}.
+TEXT:  {0} ile bir akın karşılaşmasından ayrılındı.
 
 RESOURCE ID: journal_received_fitness_rewards
 TEXT: Haftalık Macera Senkronizasyonu Ödüllerinden {0} eşya alındı.
@@ -60499,9 +60520,9 @@ TEXT: Mega evrimleşmiş Pokémon’unuzla aynı türü paylaşan bir Pokémon y
 • Büyük şeker elde etme şansında artış
 
 RESOURCE ID: mega_level_tutorial_cp_downscaling_1_body
-TEXT: If a Mega Pokémon’s CP exceeds certain Battle Leagues, their levels will be temporarily adjusted to where its CP is within that Battle League’s limits.
+TEXT: If a Mega-Evolved Pokémon’s CP exceeds certain Battle Leagues, their levels will be temporarily adjusted to where their CP is within that Battle League’s limits.
 
-Pokémon at Super Max Level will not have the Greatly Increased CP bonus in Master League.
+Pokémon at Super Max Level will not have the greatly enhanced CP bonus in Master League.
 
 RESOURCE ID: mega_level_tutorial_hero_title
 TEXT: Mega Olalım!
@@ -60785,10 +60806,10 @@ at SHA 413df5befdbe0d00a543f8a142221526d63b719a
 Pipeline 834428, job 8736424
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-10-16T22:34:57.171068+00:00 for tr-TR
-at SHA d68311f630a
-Pipeline 4029884, job 59396785
-Patch from: 0.431.0-SHA-8123c737-RC1, 0.433.0-SHA-94a605de-RC4, 0.435.0-SHA-5bec7604-RC1
+TEXT: Built at 2026-10-21T01:48:22.252006+00:00 for tr-TR
+at SHA eb1e2fc106ad
+Pipeline 4038403, job 59531866
+Patch from: 0.433.1-SHA-0f52e3f0-RC1, 0.435.0-SHA-d5d32cc5-RC2
 
 RESOURCE ID: meteor_title_1
 TEXT: METEOR YAĞMURU
@@ -65969,13 +65990,13 @@ RESOURCE ID: nearby_active_reminder_header
 TEXT: AKTİF KATILIMLAR
 
 RESOURCE ID: nearby_incomplete_raid_header
-TEXT: IN PROGRESS
+TEXT: DEVAM EDİYOR
 
 RESOURCE ID: nearby_incomplete_raid_widget_title
-TEXT: Rejoin the {0} raid
+TEXT: {0} akınına tekrar katılın
 
 RESOURCE ID: nearby_incomplete_raid_widget_header
-TEXT: REJOIN
+TEXT: TEKRAR KATIL
 
 RESOURCE ID: nearby_pokemon_clear_button
 TEXT: Temizle
@@ -110207,7 +110228,7 @@ RESOURCE ID: recycle_dialog_prefix
 TEXT: {0}
 
 RESOURCE ID: recycle_dialog_quantity
-TEXT: QUANTITY: {0}
+TEXT: MİKTAR: {0}
 
 RESOURCE ID: recycle_dialog_suffix
 TEXT: atılsın mı?
@@ -127918,10 +127939,10 @@ RESOURCE ID: tips_tasks_trade_body
 TEXT: Takas yapmak için Arkadaş listesindeki bir Eğitmen'in profiline giderek TAKAS'a basın. Takas yapabilmek için arkadaşlarınızla yakın mesafede olmalısınız.
 
 RESOURCE ID: tips_tasks_weather_boost_title
-TEXT: Weather Boosts
+TEXT: Hava Durumu Desteği
 
 RESOURCE ID: tips_tasks_weather_boost_body
-TEXT: Certain Pokémon appear more frequently when the weather matches their type. These Pokémon have higher CP, are stronger in battle, and award extra Stardust when they’re caught.
+TEXT: Bazı Pokémon’lar hava durumu türleriyle uyuştuğunda daha sık ortaya çıkar. Bu Pokémon’ların DG’si daha yüksektir, maçta daha güçlüdürler ve yakalandıkları zaman ilave yıldız tozu kazandırırlar.
 
 RESOURCE ID: tips_trading_intro_conversation_1
 TEXT: Selam %PLAYERNAME%! Diğer Eğitmenlerle Pokémon’larınızı takas edebileceğinizi biliyor muydun?

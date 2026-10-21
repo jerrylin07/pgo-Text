@@ -2684,6 +2684,9 @@ TEXT: Ali Kyurem Nero
 RESOURCE ID: avatar_backpack_eggincubator
 TEXT: Zaino Incubatrice
 
+RESOURCE ID: avatar_backpack_gmaxduraludon
+TEXT: Zaino Duraludon Gigamax
+
 RESOURCE ID: avatar_backpack_goruckgengar
 TEXT: Zaino GORUCK Gengar
 
@@ -5217,6 +5220,9 @@ TEXT: Cerchietto Applin
 
 RESOURCE ID: avatar_hat_captainpikachu
 TEXT: Cappello Capitan Pikachu
+
+RESOURCE ID: avatar_hat_duraludon
+TEXT: Elmo Duraludon
 
 RESOURCE ID: avatar_hat_eternatus
 TEXT: Elmetto Eternatus
@@ -7847,6 +7853,9 @@ TEXT: Scarpe Luminopoli (rosse)
 RESOURCE ID: avatar_pants_bwpants
 TEXT: Pantaloni tuta neri e bianchi
 
+RESOURCE ID: avatar_pants_duraludon
+TEXT: Pantaloni Duraludon
+
 RESOURCE ID: avatar_pants_eternatus
 TEXT: Pantaloni Eternatus
 
@@ -7918,6 +7927,9 @@ TEXT: Stile Mirton
 
 RESOURCE ID: avatar_pose_gofest2025
 TEXT: Festival di Pokémon GO 2025
+
+RESOURCE ID: avatar_pose_gowa2026
+TEXT: Terre Selvagge di GO 2026
 
 RESOURCE ID: avatar_pose_grusha
 TEXT: Grusha
@@ -8041,6 +8053,15 @@ TEXT: T-shirt Tour GO 2025
 
 RESOURCE ID: avatar_shirt_gotour2025white
 TEXT: T-shirt Tour GO 2025 (bianca)
+
+RESOURCE ID: avatar_shirt_gowa2026-maroon
+TEXT: T-shirt Terre Selvagge di GO 2026 (porpora)
+
+RESOURCE ID: avatar_shirt_gowa2026-navy
+TEXT: T-shirt Terre Selvagge di GO 2026 (blu)
+
+RESOURCE ID: avatar_shirt_gowamachamp
+TEXT: Giacca del tipo Lotta
 
 RESOURCE ID: avatar_shirt_gowatshirt2024
 TEXT: T-shirt Terre Selvagge di GO 2024
@@ -54117,7 +54138,7 @@ RESOURCE ID: item_bag_category_gifts
 TEXT: Pacchi amicizia
 
 RESOURCE ID: item_bag_category_incubators
-TEXT: Incubators
+TEXT: Incubatrici
 
 RESOURCE ID: item_bag_category_lures
 TEXT: Moduli esca
@@ -54138,7 +54159,7 @@ RESOURCE ID: item_bag_category_tm
 TEXT: TM
 
 RESOURCE ID: item_bag_category_berries_and_poffins
-TEXT: Berries and Poffins
+TEXT: Bacche e Poffin
 
 RESOURCE ID: item_bag_category_key_items
 TEXT: Strumenti base
@@ -57156,7 +57177,7 @@ RESOURCE ID: journal_declined_ex_raid_ticket_from_friend
 TEXT: Hai rifiutato un invito da {0}.
 
 RESOURCE ID: journal_player_fled
-TEXT: Fled from a raid encounter with {0}.
+TEXT: Fuga da un incontro con {0} in un raid.
 
 RESOURCE ID: journal_received_fitness_rewards
 TEXT: Received {0} items from Weekly Adventure Sync Rewards.
@@ -62969,9 +62990,9 @@ TEXT: Quando catturi un Pokémon dello stesso tipo di un tuo Pokémon megaevolut
 • Maggiori probabilità di ricevere caramelle L
 
 RESOURCE ID: mega_level_tutorial_cp_downscaling_1_body
-TEXT: If a Mega Pokémon’s CP exceeds certain Battle Leagues, their levels will be temporarily adjusted to where its CP is within that Battle League’s limits.
+TEXT: Se un Pokémon megaevoluto supera il limite massimo di PL consentito in determinate Leghe Lotte, il suo livello viene temporaneamente ridotto fino al limite di PL previsto per quella Lega Lotta.
 
-Pokémon at Super Max Level will not have the Greatly Increased CP bonus in Master League.
+ I Pokémon che hanno raggiunto il super livello massimo non otterranno un aumento significativo del bonus PE da cattura nella Lega Master.
 
 RESOURCE ID: mega_level_tutorial_hero_title
 TEXT: Megaevoluzione!
@@ -63255,10 +63276,10 @@ at SHA 4d4f3e80cc7fb911006bd14d198c9831ef66d005
 Pipeline 339838, job 2672172
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-10-16T22:34:57.171068+00:00 for it-IT
-at SHA d68311f630a
-Pipeline 4029884, job 59396785
-Patch from: 0.431.0-SHA-8123c737-RC1, 0.433.0-SHA-94a605de-RC4, 0.435.0-SHA-5bec7604-RC1
+TEXT: Built at 2026-10-21T01:48:22.252006+00:00 for it-IT
+at SHA eb1e2fc106ad
+Pipeline 4038403, job 59531866
+Patch from: 0.433.1-SHA-0f52e3f0-RC1, 0.435.0-SHA-d5d32cc5-RC2
 
 RESOURCE ID: meteor_title_1
 TEXT: PIOGGIA DI METEORE
@@ -68441,13 +68462,13 @@ RESOURCE ID: nearby_active_reminder_header
 TEXT: RSVP ATTIVI
 
 RESOURCE ID: nearby_incomplete_raid_header
-TEXT: IN PROGRESS
+TEXT: IN CORSO
 
 RESOURCE ID: nearby_incomplete_raid_widget_title
-TEXT: Rejoin the {0} raid
+TEXT: Ritorna nel raid di {0}
 
 RESOURCE ID: nearby_incomplete_raid_widget_header
-TEXT: REJOIN
+TEXT: RITORNA NEL RAID
 
 RESOURCE ID: nearby_pokemon_clear_button
 TEXT: Annulla
@@ -112879,7 +112900,7 @@ RESOURCE ID: recycle_dialog_prefix
 TEXT: Scarta qualche
 
 RESOURCE ID: recycle_dialog_quantity
-TEXT: QUANTITY: {0}
+TEXT: QUANTITÀ: {0}
 
 RESOURCE ID: recycle_dialog_suffix
 TEXT: {0}?
@@ -120841,7 +120862,7 @@ TEXT: {0} già ampliate al massimo! Ottieni più spazio salendo di livello!
 <a href="https://scopelyexplore.helpshift.com/hc/faq/1235-available-items-your-bag/">Scopri di più sugli aumenti di livello qui.</a>
 
 RESOURCE ID: shop_gift_confirm_purchase_warning_description
-TEXT: Puoi inviare un totale di <b>{0}</b> regali a pagamento oggi. Questo regalo non può essere utilizzato da un altro giocatore né rimborsato.
+TEXT: Puoi inviare un totale di 20 regali a pagamento oggi. Questo regalo non può essere utilizzato da un altro giocatore né rimborsato.
 
 RESOURCE ID: shop_gift_friend_ineligible_title
 TEXT: Impossibile inviare biglietto in regalo
@@ -130623,10 +130644,10 @@ RESOURCE ID: tips_tasks_trade_body
 TEXT: Per effettuare uno scambio con un amico, dovete essere vicini. Vai sul suo profilo nella tua lista amici e tocca SCAMBIA.
 
 RESOURCE ID: tips_tasks_weather_boost_title
-TEXT: Weather Boosts
+TEXT: Potenziamenti da condizioni atmosferiche
 
 RESOURCE ID: tips_tasks_weather_boost_body
-TEXT: Certain Pokémon appear more frequently when the weather matches their type. These Pokémon have higher CP, are stronger in battle, and award extra Stardust when they’re caught.
+TEXT: Alcuni Pokémon appaiono più spesso quando le condizioni atmosferiche corrispondono al loro tipo. Questi Pokémon hanno PL più alti, sono più forti nella lotta, e quando vengono catturati permettono di ottenere polvere di stelle extra.
 
 RESOURCE ID: tips_trading_intro_conversation_1
 TEXT: Ehilà, %PLAYERNAME%! Sapevi che puoi scambiare Pokémon con altri Allenatori?
@@ -130969,7 +130990,7 @@ RESOURCE ID: title_event_pass_daily_bonus_quest
 TEXT: Missioni giornaliere
 
 RESOURCE ID: title_event_pass_daily_bonus_quest_premium
-TEXT: Missioni giornaliere premium
+TEXT: Missioni giornaliere deluxe
 
 RESOURCE ID: title_event_pass_hourly_bonus_quest
 TEXT: Missioni orarie

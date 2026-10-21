@@ -2684,6 +2684,9 @@ TEXT: Asas de Kyurem Preto
 RESOURCE ID: avatar_backpack_eggincubator
 TEXT: Mochila de Incubadora de Ovo
 
+RESOURCE ID: avatar_backpack_gmaxduraludon
+TEXT: Mochila de Duraludon Gigamax
+
 RESOURCE ID: avatar_backpack_goruckgengar
 TEXT: Mochila de Gengar da GORUCK
 
@@ -5233,6 +5236,9 @@ TEXT: Tiara de Applin
 
 RESOURCE ID: avatar_hat_captainpikachu
 TEXT: Chapéu do Capitão Pikachu
+
+RESOURCE ID: avatar_hat_duraludon
+TEXT: Capacete de Duraludon
 
 RESOURCE ID: avatar_hat_eternatus
 TEXT: Capacete de Eternatus
@@ -7887,6 +7893,9 @@ TEXT: Sapatos estilo Cidade de Lumiose (vermelho)
 RESOURCE ID: avatar_pants_bwpants
 TEXT: Calça jogger preta e branca
 
+RESOURCE ID: avatar_pants_duraludon
+TEXT: Calça de Duraludon
+
 RESOURCE ID: avatar_pants_eternatus
 TEXT: Calça de Eternatus
 
@@ -7958,6 +7967,9 @@ TEXT: Pose do Grimsley
 
 RESOURCE ID: avatar_pose_gofest2025
 TEXT: Pose do Festival de Pokémon GO 2025
+
+RESOURCE ID: avatar_pose_gowa2026
+TEXT: Pose da Área Selvagem GO 2026
 
 RESOURCE ID: avatar_pose_grusha
 TEXT: Pose do Grusha
@@ -8081,6 +8093,15 @@ TEXT: Camiseta do GO Tour 2025
 
 RESOURCE ID: avatar_shirt_gotour2025white
 TEXT: Camiseta do GO Tour 2025 (branca)
+
+RESOURCE ID: avatar_shirt_gowa2026-maroon
+TEXT: Camiseta da Área Selvagem GO 2026 (roxa)
+
+RESOURCE ID: avatar_shirt_gowa2026-navy
+TEXT: Camiseta da Área Selvagem GO 2026 (azul-marinho)
+
+RESOURCE ID: avatar_shirt_gowamachamp
+TEXT: Jaqueta de tipo Lutador
 
 RESOURCE ID: avatar_shirt_gowatshirt2024
 TEXT: Camiseta da Área Selvagem GO 2024
@@ -54151,7 +54172,7 @@ RESOURCE ID: item_bag_category_gifts
 TEXT: Presentes
 
 RESOURCE ID: item_bag_category_incubators
-TEXT: Incubators
+TEXT: Incubadoras
 
 RESOURCE ID: item_bag_category_lures
 TEXT: Lures
@@ -54172,7 +54193,7 @@ RESOURCE ID: item_bag_category_tm
 TEXT: TMs
 
 RESOURCE ID: item_bag_category_berries_and_poffins
-TEXT: Berries and Poffins
+TEXT: Frutas e Poffins
 
 RESOURCE ID: item_bag_category_key_items
 TEXT: Key Items
@@ -57190,7 +57211,7 @@ RESOURCE ID: journal_declined_ex_raid_ticket_from_friend
 TEXT: You declined an invitation from {0}.
 
 RESOURCE ID: journal_player_fled
-TEXT: Fled from a raid encounter with {0}.
+TEXT: Fugiu de um encontro de Reide com {0}.
 
 RESOURCE ID: journal_received_fitness_rewards
 TEXT: Received {0} items from Weekly Adventure Sync Rewards.
@@ -63011,9 +63032,9 @@ TEXT: Quando você pega um Pokémon de mesmo tipo do seu Pokémon Megaevoluído,
 • Maior chance  de receber Doces GG
 
 RESOURCE ID: mega_level_tutorial_cp_downscaling_1_body
-TEXT: If a Mega Pokémon’s CP exceeds certain Battle Leagues, their levels will be temporarily adjusted to where its CP is within that Battle League’s limits.
+TEXT: Se o PC de um Pokémon Megaevoluído ultrapassar o limite em certas Ligas de Batalha, seu nível será ajustado temporariamente para que o PC fique dentro dos limites da Liga de Batalha em questão.
 
-Pokémon at Super Max Level will not have the Greatly Increased CP bonus in Master League.
+Pokémon no Super Nível Máximo não receberão o bônus de PC muito intensificado na Liga Mestra.
 
 RESOURCE ID: mega_level_tutorial_hero_title
 TEXT: Vamos Mega!
@@ -63297,10 +63318,10 @@ at SHA 4d4f3e80cc7fb911006bd14d198c9831ef66d005
 Pipeline 339838, job 2672172
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-10-16T22:34:57.171068+00:00 for pt-BR
-at SHA d68311f630a
-Pipeline 4029884, job 59396785
-Patch from: 0.431.0-SHA-8123c737-RC1, 0.433.0-SHA-94a605de-RC4, 0.435.0-SHA-5bec7604-RC1
+TEXT: Built at 2026-10-21T01:48:22.252006+00:00 for pt-BR
+at SHA eb1e2fc106ad
+Pipeline 4038403, job 59531866
+Patch from: 0.433.1-SHA-0f52e3f0-RC1, 0.435.0-SHA-d5d32cc5-RC2
 
 RESOURCE ID: meteor_title_1
 TEXT: CHUVA DE METEOROS
@@ -68489,13 +68510,13 @@ RESOURCE ID: nearby_active_reminder_header
 TEXT: CONFIRMAÇÃO ATIVA
 
 RESOURCE ID: nearby_incomplete_raid_header
-TEXT: IN PROGRESS
+TEXT: EM ANDAMENTO
 
 RESOURCE ID: nearby_incomplete_raid_widget_title
-TEXT: Rejoin the {0} raid
+TEXT: Voltar ao Reide de {0}
 
 RESOURCE ID: nearby_incomplete_raid_widget_header
-TEXT: REJOIN
+TEXT: VOLTAR
 
 RESOURCE ID: nearby_pokemon_clear_button
 TEXT: Apagar
@@ -112925,7 +112946,7 @@ RESOURCE ID: recycle_dialog_prefix
 TEXT: Descartar
 
 RESOURCE ID: recycle_dialog_quantity
-TEXT: QUANTITY: {0}
+TEXT: QUANTIDADE: {0}
 
 RESOURCE ID: recycle_dialog_suffix
 TEXT: {0}?
@@ -120883,7 +120904,7 @@ TEXT: {0} atingiram a capacidade máxima! Consiga mais espaço subindo de nível
 <a href="https://scopelyexplore.helpshift.com/hc/faq/1235-available-items-your-bag/">Saiba mais sobre como subir de nível aqui.</a>
 
 RESOURCE ID: shop_gift_confirm_purchase_warning_description
-TEXT: Você pode enviar um total de <b>{0}</b> presentes pagos hoje. Este presente não pode ser usado por outro jogador nem reembolsado.
+TEXT: Você pode enviar um total de 20 presentes pagos por dia. Este presente não pode ser usado por outro jogador nem reembolsado.
 
 RESOURCE ID: shop_gift_friend_ineligible_title
 TEXT: Não foi possível enviar o ingresso
@@ -130665,10 +130686,10 @@ RESOURCE ID: tips_tasks_trade_body
 TEXT: Você precisa estar perto de amigos para trocar com eles. Em seguida, acesse o perfil de Treinador da pessoa com quem quer trocar na lista de amigos e toque em TROCAR.
 
 RESOURCE ID: tips_tasks_weather_boost_title
-TEXT: Weather Boosts
+TEXT: Fortalecimento de Clima
 
 RESOURCE ID: tips_tasks_weather_boost_body
-TEXT: Certain Pokémon appear more frequently when the weather matches their type. These Pokémon have higher CP, are stronger in battle, and award extra Stardust when they’re caught.
+TEXT: Alguns Pokémon aparecem com mais frequência quando as condições climáticas correspondem ao seu tipo. Esses Pokémon têm PC mais alto, são mais fortes em batalhas e concedem mais Poeira Estelar ao serem pegos.
 
 RESOURCE ID: tips_trading_intro_conversation_1
 TEXT: Olá, %PLAYERNAME%! Você sabia que pode trocar Pokémon com outros Treinadores?

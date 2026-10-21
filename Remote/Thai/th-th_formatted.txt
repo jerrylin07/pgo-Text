@@ -2750,6 +2750,9 @@ TEXT: ปีกแบล็กคิวเรม
 RESOURCE ID: avatar_backpack_eggincubator
 TEXT: กระเป๋าเป้เครื่องฟักไข่
 
+RESOURCE ID: avatar_backpack_gmaxduraludon
+TEXT: กระเป๋าเป้ดิวรัลดอนกิกะแมกซ์
+
 RESOURCE ID: avatar_backpack_goruckgengar
 TEXT: กระเป๋าเป้เก็งกา GORUCK
 
@@ -5215,6 +5218,9 @@ TEXT: ที่คาดผมคาจิชชู
 
 RESOURCE ID: avatar_hat_captainpikachu
 TEXT: หมวกกัปตันพิคาชู
+
+RESOURCE ID: avatar_hat_duraludon
+TEXT: หมวกกันน็อกดิวรัลดอน
 
 RESOURCE ID: avatar_hat_eternatus
 TEXT: หมวกกันน็อกมุเก็นไดนา
@@ -7782,6 +7788,9 @@ TEXT: รองเท้าสไตล์ตัวเอกมิอาเร�
 RESOURCE ID: avatar_pants_bwpants
 TEXT: กางเกงวอร์มขาวดำ
 
+RESOURCE ID: avatar_pants_duraludon
+TEXT: กางเกงขายาวดิวรัลดอน
+
 RESOURCE ID: avatar_pants_eternatus
 TEXT: กางเกงมุเก็นไดนา
 
@@ -7854,6 +7863,9 @@ TEXT: ท่าโพสกีมะ
 
 RESOURCE ID: avatar_pose_gofest2025
 TEXT: ท่าโพส GO Fest 2025
+
+RESOURCE ID: avatar_pose_gowa2026
+TEXT: ท่าโพส GO ไวลด์แอเรีย 2026
 
 RESOURCE ID: avatar_pose_grusha
 TEXT: ท่าโพสกรูชา
@@ -7977,6 +7989,15 @@ TEXT: เสื้อยืด GO Tour 2025
 
 RESOURCE ID: avatar_shirt_gotour2025white
 TEXT: เสื้อยืด GO Tour 2025 (White)
+
+RESOURCE ID: avatar_shirt_gowa2026-maroon
+TEXT: เสื้อยืด GO ไวลด์แอเรีย 2026 (สีม่วง)
+
+RESOURCE ID: avatar_shirt_gowa2026-navy
+TEXT: เสื้อยืด GO ไวลด์แอเรีย 2026 (สีกรมท่า)
+
+RESOURCE ID: avatar_shirt_gowamachamp
+TEXT: เสื้อแจ็กเก็ตประเภทต่อสู้
 
 RESOURCE ID: avatar_shirt_gowatshirt2024
 TEXT: เสื้อยืด GO ไวลด์แอเรีย 2024
@@ -12728,28 +12749,28 @@ RESOURCE ID: badge_gowa_2025_special_research_b_title
 TEXT: ผู้คลั่งไคล้ด้านแฟรี่
 
 RESOURCE ID: badge_gowa_2026_cdmx_addon_battle_title
-TEXT: GO Wild Area 2026: Battle Ready
+TEXT: GO ไวลด์แอเรีย 2026: แบตเทิลเดือด
 
 RESOURCE ID: badge_gowa_2026_cdmx_addon_friday_title
-TEXT: GO Wild Area 2026: Extra Day (Friday)
+TEXT: GO ไวลด์แอเรีย 2026: วันเสริม (วันศุกร์)
 
 RESOURCE ID: badge_gowa_2026_cdmx_addon_hatch_title
-TEXT: GO Wild Area 2026: Egg-thusiast
+TEXT: GO ไวลด์แอเรีย 2026: ฟักไข่ไม่หยุด
 
 RESOURCE ID: badge_gowa_2026_cdmx_addon_saturday_title
-TEXT: GO Wild Area 2026: Extra Day (Saturday)
+TEXT: GO ไวลด์แอเรีย 2026: วันเสริม (วันเสาร์)
 
 RESOURCE ID: badge_gowa_2026_cdmx_addon_sunday_title
-TEXT: GO Wild Area 2026: Extra Day (Sunday)
+TEXT: GO ไวลด์แอเรีย 2026: วันเสริม (วันอาทิตย์)
 
 RESOURCE ID: badge_gowa_2026_cdmx_friday_title
-TEXT: GO Wild Area 2026: Friday
+TEXT: GO ไวลด์แอเรีย 2026: วันศุกร์
 
 RESOURCE ID: badge_gowa_2026_cdmx_saturday_title
-TEXT: GO Wild Area 2026: Saturday
+TEXT: GO ไวลด์แอเรีย 2026: วันเสาร์
 
 RESOURCE ID: badge_gowa_2026_cdmx_sunday_title
-TEXT: GO Wild Area 2026: Sunday
+TEXT: GO ไวลด์แอเรีย 2026: วันอาทิตย์
 
 RESOURCE ID: badge_gowa_2026_cdmx_test_addon_battle_title
 TEXT: GO Wild Area 2026 – Mexico City: Battle Ready (Test)
@@ -12767,31 +12788,31 @@ RESOURCE ID: badge_gowa_2026_global_test_title
 TEXT: GO Wild Area 2026 (Test)
 
 RESOURCE ID: badge_gowa_2026_global_title
-TEXT: GO Wild Area 2026
+TEXT: GO ไวลด์แอเรีย 2026
 
 RESOURCE ID: badge_gowa_2026_sendai_addon_battle_title
-TEXT: GO Wild Area 2026: Battle Ready
+TEXT: GO ไวลด์แอเรีย 2026: แบตเทิลเดือด
 
 RESOURCE ID: badge_gowa_2026_sendai_addon_friday_title
-TEXT: GO Wild Area 2026: Extra Day (Friday)
+TEXT: GO ไวลด์แอเรีย 2026: วันเสริม (วันศุกร์)
 
 RESOURCE ID: badge_gowa_2026_sendai_addon_hatch_title
-TEXT: GO Wild Area 2026: Egg-thusiast
+TEXT: GO ไวลด์แอเรีย 2026: ฟักไข่ไม่หยุด
 
 RESOURCE ID: badge_gowa_2026_sendai_addon_saturday_title
-TEXT: GO Wild Area 2026: Extra Day (Saturday)
+TEXT: GO ไวลด์แอเรีย 2026: วันเสริม (วันเสาร์)
 
 RESOURCE ID: badge_gowa_2026_sendai_addon_sunday_title
-TEXT: GO Wild Area 2026: Extra Day (Sunday)
+TEXT: GO ไวลด์แอเรีย 2026: วันเสริม (วันอาทิตย์)
 
 RESOURCE ID: badge_gowa_2026_sendai_friday_title
-TEXT: GO Wild Area 2026: Friday
+TEXT: GO ไวลด์แอเรีย 2026: วันศุกร์
 
 RESOURCE ID: badge_gowa_2026_sendai_saturday_title
-TEXT: GO Wild Area 2026: Saturday
+TEXT: GO ไวลด์แอเรีย 2026: วันเสาร์
 
 RESOURCE ID: badge_gowa_2026_sendai_sunday_title
-TEXT: GO Wild Area 2026: Sunday
+TEXT: GO ไวลด์แอเรีย 2026: วันอาทิตย์
 
 RESOURCE ID: badge_gowa_2026_sendai_test_addon_battle_title
 TEXT: GO Wild Area 2026 – Sendai・Tohoku: Battle Ready (Test)
@@ -12806,10 +12827,10 @@ RESOURCE ID: badge_gowa_2026_sendai_test_title
 TEXT: GO Wild Area 2026 – Sendai・Tohoku (Test)
 
 RESOURCE ID: badge_gowa_2026_special_research_a_title
-TEXT: Steel Scholar
+TEXT: ผู้เชี่ยวชาญโลหะ
 
 RESOURCE ID: badge_gowa_2026_special_research_b_title
-TEXT: Dragon Defender
+TEXT: ผู้พิทักษ์มังกร
 
 RESOURCE ID: badge_gowa_electric
 TEXT: Pokémon GO ไวลด์แอเรีย 2024
@@ -12920,28 +12941,28 @@ RESOURCE ID: badge_gowa_2025_special_research_b
 TEXT: Pokémon GO ไวลด์แอเรีย 2025
 
 RESOURCE ID: badge_gowa_2026_cdmx_addon_battle
-TEXT: Mexico City, November 6–8, 2026
+TEXT: เม็กซิโกซิตี้, 6–8 พฤศจิกายน 2026
 
 RESOURCE ID: badge_gowa_2026_cdmx_addon_friday
-TEXT: Mexico City, Friday, November 6, 2026, 10:00 a.m. – 6:00 p.m.
+TEXT: เม็กซิโกซิตี้, วันศุกร์ที่ 6 พฤศจิกายน 2026, 10:00 - 18:00 น.
 
 RESOURCE ID: badge_gowa_2026_cdmx_addon_hatch
-TEXT: Mexico City, November 6–8, 2026
+TEXT: เม็กซิโกซิตี้, 6–8 พฤศจิกายน 2026
 
 RESOURCE ID: badge_gowa_2026_cdmx_addon_saturday
-TEXT: Mexico City, Saturday, November 7, 2026, 10:00 a.m. – 6:00 p.m.
+TEXT: เม็กซิโกซิตี้, วันเสาร์ที่ 7 พฤศจิกายน 2026, 10:00 - 18:00 น.
 
 RESOURCE ID: badge_gowa_2026_cdmx_addon_sunday
-TEXT: Mexico City, Sunday, November 8, 2026, 10:00 a.m. – 6:00 p.m.
+TEXT: เม็กซิโกซิตี้, วันอาทิตย์ที่ 8 พฤศจิกายน 2026, 10:00 - 18:00 น.
 
 RESOURCE ID: badge_gowa_2026_cdmx_friday
-TEXT: Mexico City, Friday, November 6, 2026, 10:00 a.m. – 6:00 p.m.
+TEXT: เม็กซิโกซิตี้, วันศุกร์ที่ 6 พฤศจิกายน 2026, 10:00 - 18:00 น.
 
 RESOURCE ID: badge_gowa_2026_cdmx_saturday
-TEXT: Mexico City, Saturday, November 7, 2026, 10:00 a.m. – 6:00 p.m.
+TEXT: เม็กซิโกซิตี้, วันเสาร์ที่ 7 พฤศจิกายน 2026, 10:00 - 18:00 น.
 
 RESOURCE ID: badge_gowa_2026_cdmx_sunday
-TEXT: Mexico City, Sunday, November 8, 2026, 10:00 a.m. – 6:00 p.m.
+TEXT: เม็กซิโกซิตี้, วันอาทิตย์ที่ 8 พฤศจิกายน 2026, 10:00 - 18:00 น.
 
 RESOURCE ID: badge_gowa_2026_cdmx_test
 TEXT: Mexico City, November 6–8, 2026
@@ -12956,34 +12977,34 @@ RESOURCE ID: badge_gowa_2026_cdmx_test_addon_hatch
 TEXT: Mexico City, November 6–8, 2026
 
 RESOURCE ID: badge_gowa_2026_global
-TEXT: November 14–15, 2026
+TEXT: 14-15 พฤศจิกายน 2026
 
 RESOURCE ID: badge_gowa_2026_global_test
 TEXT: November 14–15, 2026
 
 RESOURCE ID: badge_gowa_2026_sendai_addon_battle
-TEXT: Sendai・Tohoku, November 6–8, 2026
+TEXT: เซนได・โทโฮกุ, 6–8 พฤศจิกายน, 2026
 
 RESOURCE ID: badge_gowa_2026_sendai_addon_friday
-TEXT: Sendai・Tohoku, Friday, November 6, 2026, 10:00 a.m. – 6:00 p.m.
+TEXT: เซนได・โทโฮกุ, วันศุกร์ที่ 6 พฤศจิกายน 2026, 10:00 - 18:00 น.
 
 RESOURCE ID: badge_gowa_2026_sendai_addon_hatch
-TEXT: Sendai・Tohoku, November 6–8, 2026
+TEXT: เซนได・โทโฮกุ, 6–8 พฤศจิกายน, 2026
 
 RESOURCE ID: badge_gowa_2026_sendai_addon_saturday
-TEXT: Sendai・Tohoku, Saturday, November 7, 2026, 10:00 a.m. – 6:00 p.m.
+TEXT: เซนได・โทโฮกุ, วันเสาร์ที่ 7 พฤศจิกายน 2026, 10:00 - 18:00 น.
 
 RESOURCE ID: badge_gowa_2026_sendai_addon_sunday
-TEXT: Sendai・Tohoku, Sunday, November 8, 2026, 10:00 a.m. – 6:00 p.m.
+TEXT: เซนได・โทโฮกุ, วันอาทิตย์ที่ 8 พฤศจิกายน 2026, 10:00 - 18:00 น.
 
 RESOURCE ID: badge_gowa_2026_sendai_friday
-TEXT: Sendai・Tohoku, Friday, November 6, 2026, 10:00 a.m. – 6:00 p.m.
+TEXT: เซนได・โทโฮกุ, วันศุกร์ที่ 6 พฤศจิกายน 2026, 10:00 - 18:00 น.
 
 RESOURCE ID: badge_gowa_2026_sendai_saturday
-TEXT: Sendai・Tohoku, Saturday, November 7, 2026, 10:00 a.m. – 6:00 p.m.
+TEXT: เซนได・โทโฮกุ, วันเสาร์ที่ 7 พฤศจิกายน 2026, 10:00 - 18:00 น.
 
 RESOURCE ID: badge_gowa_2026_sendai_sunday
-TEXT: Sendai・Tohoku, Sunday, November 8, 2026, 10:00 a.m. – 6:00 p.m.
+TEXT: เซนได・โทโฮกุ, วันอาทิตย์ที่ 8 พฤศจิกายน 2026, 10:00 - 18:00 น.
 
 RESOURCE ID: badge_gowa_2026_sendai_test
 TEXT: Sendai・Tohoku, November 6–8, 2026
@@ -12998,10 +13019,10 @@ RESOURCE ID: badge_gowa_2026_sendai_test_addon_hatch
 TEXT: Sendai・Tohoku, November 6–8, 2026
 
 RESOURCE ID: badge_gowa_2026_special_research_a
-TEXT: Pokémon GO Wild Area 2026
+TEXT: Pokémon GO ไวลด์แอเรีย 2026
 
 RESOURCE ID: badge_gowa_2026_special_research_b
-TEXT: Pokémon GO Wild Area 2026
+TEXT: Pokémon GO ไวลด์แอเรีย 2026
 
 RESOURCE ID: badge_gowa_electric_title
 TEXT: ผู้เชี่ยวชาญด้านไฟฟ้า
@@ -18790,7 +18811,7 @@ RESOURCE ID: bonus_10_daily_raid_passes
 TEXT: รับบัตรตีบอสฟรีสูงสุด 10 ใบด้วยการหมุนแผ่นภาพที่ยิม
 
 RESOURCE ID: bonus_10k_egg_rate
-TEXT: Increased chance of receiving event-themed 10 km Eggs from spinning PokéStops or Gyms
+TEXT: เพิ่มโอกาสได้รับไข่ 10 กม. ธีมอีเวนต์จากการหมุนเสาโปเกสต็อปหรือยิม
 
 RESOURCE ID: bonus_10k_eggs_increased
 TEXT: เพิ่มโอกาสได้รับไข่ 10 กม. จากการหมุนเสาโปเกสต็อปหรือยิมเป็นอย่างมาก
@@ -32588,10 +32609,10 @@ RESOURCE ID: downloading_avatar_assets_warning_body
 TEXT: พบปัญหาในการดาวน์โหลดทรัพยากร โปรดตรวจสอบให้แน่ใจว่าคุณมีการเชื่อมต่อเครือข่ายที่เสถียรแล้วรีสตาร์ทเกม
 
 RESOURCE ID: dragon_poi_spin_plural
-TEXT: Spin {0} Dragon type–themed PokéStops
+TEXT: หมุนเสาโปเกสต็อปธีมประเภทมังกร {0} แห่ง
 
 RESOURCE ID: dragon_poi_spin_singular
-TEXT: Spin a Dragon type–themed PokéStop
+TEXT: หมุนเสาโปเกสต็อปธีมประเภทมังกร
 
 RESOURCE ID: dragon_type_event
 TEXT: ระลอกฉับพลัน: มังกร
@@ -43681,7 +43702,7 @@ RESOURCE ID: gmax_cinderace_max_battles
 TEXT: เอสเบิร์นกิกะแมกซ์ปรากฏตัวในแบตเทิลแมกซ์
 
 RESOURCE ID: gmax_duraludon_max_battles
-TEXT: Gigantamax Duraludon is appearing in Max Battles
+TEXT: ดิวรัลดอนกิกะแมกซ์ปรากฏตัวในแบตเทิลแมกซ์
 
 RESOURCE ID: gmax_garbodor_lead_up_timed_research
 TEXT: งานวิจัยแบบจำกัดเวลาเตรียมตัวสู่ "วันแบตเทิลแมกซ์ดัสต์ดาสกิกะแมกซ์"
@@ -53049,40 +53070,40 @@ RESOURCE ID: gowa_2025_sun_ticketed
 TEXT: Pokémon GO ไวลด์แอเรีย 2025: ชั่วโมงอีเวนต์วันอาทิตย์ (ตั๋ว)
 
 RESOURCE ID: gowa_2026
-TEXT: Pokémon GO Wild Area 2026
+TEXT: Pokémon GO ไวลด์แอเรีย 2026
 
 RESOURCE ID: gowa_2026_all_sat
-TEXT: Pokémon GO Wild Area 2026: All-Day Saturday
+TEXT: Pokémon GO ไวลด์แอเรีย 2026: วันเสาร์ตลอดวัน
 
 RESOURCE ID: gowa_2026_all_sun
-TEXT: Pokémon GO Wild Area 2026: All-Day Sunday
+TEXT: Pokémon GO ไวลด์แอเรีย 2026: วันอาทิตย์ตลอดวัน
 
 RESOURCE ID: gowa_2026_all_weekend
-TEXT: Pokémon GO Wild Area 2026: All Weekend
+TEXT: Pokémon GO ไวลด์แอเรีย 2026: สุดสัปดาห์
 
 RESOURCE ID: gowa_2026_all_weekend_ticketed
-TEXT: Pokémon GO Wild Area 2026: All Weekend (Ticket)
+TEXT: Pokémon GO ไวลด์แอเรีย 2026: สุดสัปดาห์ (ตั๋ว)
 
 RESOURCE ID: gowa_2026_cdmx
-TEXT: Pokémon GO Wild Area: Mexico City
+TEXT: Pokémon GO ไวลด์แอเรีย: เม็กซิโกซิตี้
 
 RESOURCE ID: gowa_2026_cdmx_extended_bonus
-TEXT: Pokémon GO Wild Area: Mexico City – Extended Bonuses
+TEXT: Pokémon GO ไวลด์แอเรีย: เม็กซิโกซิตี้ - โบนัสเพิ่มเติม
 
 RESOURCE ID: gowa_2026_content_hashtag
-TEXT: Post photos with #GOWildArea2026, and we’ll share our favorites!
+TEXT: เราจะเลือกและแชร์ภาพจากภาพที่โพสต์พร้อมติดแฮชแท็ก #GOWildArea2026
 
 RESOURCE ID: gowa_2026_dragon_badge_candy_xl_bonus
-TEXT: One additional Candy XL from catching Dragon-type mighty Pokémon
+TEXT: +1 ลูกอม XL จากการจับโปเกมอนทรงพลังประเภทมังกร
 
 RESOURCE ID: gowa_2026_dragon_badge_stardust_bonus
-TEXT: 1,000 additional Stardust from catching Dragon-type mighty Pokémon
+TEXT: +1,000 สตาร์ดัสต์จากการจับโปเกมอนทรงพลังประเภทมังกร
 
 RESOURCE ID: gowa_2026_fri_ticketed
-TEXT: Pokémon GO Wild Area 2026: All-Day Friday (Ticket)
+TEXT: Pokémon GO ไวลด์แอเรีย 2026: วันศุกร์ตลอดวัน (ตั๋ว)
 
 RESOURCE ID: gowa_2026_global_extended_bonus
-TEXT: Pokémon GO Wild Area 2026 – Extended Bonuses
+TEXT: Pokémon GO ไวลด์แอเรีย 2026 - โบนัสเพิ่มเติม
 
 RESOURCE ID: gowa_2026_global_sr_0_0
 TEXT: Hey there, %PLAYERNAME%! I’m glad you’re here—something remarkable is happening in the area!
@@ -53244,43 +53265,43 @@ RESOURCE ID: gowa_2026_global_sr_steel_6_4
 TEXT: And never forget that I’ll be here to cheer you on the whole way!
 
 RESOURCE ID: gowa_2026_habitat_cc_description
-TEXT: Catch event Pokémon!
+TEXT: จับโปเกมอนอีเวนต์!
 
 RESOURCE ID: gowa_2026_habitat_global_cc_saturday
-TEXT: Wild Area Collection Challenge: Saturday
+TEXT: คำท้านักสะสมไวลด์แอเรีย: วันเสาร์
 
 RESOURCE ID: gowa_2026_habitat_global_cc_sunday
-TEXT: Wild Area Collection Challenge: Sunday
+TEXT: คำท้านักสะสมไวลด์แอเรีย: วันอาทิตย์
 
 RESOURCE ID: gowa_2026_habitat_now_dragon
-TEXT: Happening now: Daring as Dragons Hour
+TEXT: กำลังจัด: ชั่วโมงหาญกล้าดุจมังกร
 
 RESOURCE ID: gowa_2026_habitat_now_steel
-TEXT: Happening now: Solid as Steel Hour
+TEXT: กำลังจัด: ชั่วโมงแข็งแกร่งดุจโลหะ
 
 RESOURCE ID: gowa_2026_irl_cc_cdmx_friday
-TEXT: GO Wild Area: Mexico City Collection Challenge
+TEXT: GO ไวลด์แอเรีย: คำท้านักสะสมเม็กซิโกซิตี้
 
 RESOURCE ID: gowa_2026_irl_cc_cdmx_saturday
-TEXT: GO Wild Area: Mexico City Collection Challenge
+TEXT: GO ไวลด์แอเรีย: คำท้านักสะสมเม็กซิโกซิตี้
 
 RESOURCE ID: gowa_2026_irl_cc_cdmx_sunday
-TEXT: GO Wild Area: Mexico City Collection Challenge
+TEXT: GO ไวลด์แอเรีย: คำท้านักสะสมเม็กซิโกซิตี้
 
 RESOURCE ID: gowa_2026_irl_cc_sendai_friday
-TEXT: GO Wild Area: Sendai・Tohoku Collection Challenge
+TEXT: GO ไวลด์แอเรีย: คำท้านักสะสมเซนได・โทโฮกุ
 
 RESOURCE ID: gowa_2026_irl_cc_sendai_saturday
-TEXT: GO Wild Area: Sendai・Tohoku Collection Challenge
+TEXT: GO ไวลด์แอเรีย: คำท้านักสะสมเซนได・โทโฮกุ
 
 RESOURCE ID: gowa_2026_irl_cc_sendai_sunday
-TEXT: GO Wild Area: Sendai・Tohoku Collection Challenge
+TEXT: GO ไวลด์แอเรีย: คำท้านักสะสมเซนได・โทโฮกุ
 
 RESOURCE ID: gowa_2026_irl_sr_0_0
-TEXT: %PLAYERNAME% นี่นา! ดีใจจริง ๆ ที่ได้เจอ แถมยังมาได้ถูกจังหวะพอดีอีก ดูเหมือนจะมีเรื่องไม่ธรรมดาเกิดขึ้นล่ะ!
+TEXT: %PLAYERNAME%! Excellent to see you, and great timing. Something extraordinary is afoot!
 
 RESOURCE ID: gowa_2026_irl_sr_0_1
-TEXT: การเดินเล่นยามเช้าอันแสนสงบของฉันต้องสะดุดลง เมื่อเห็นเงาร่างสูงตระหง่านเคลื่อนไหวอยู่ไกล ๆ ช่างเป็นปริศนาที่น่าตื่นเต้นเสียจริง!
+TEXT: My peaceful morning stroll was interrupted by a towering figure moving in the distance—a thrilling mystery!
 
 RESOURCE ID: gowa_2026_irl_sr_0_2
 TEXT: I’ve consulted my field notes and identified a few compelling candidates for who it could be, but I’ll need your sharp instincts to confirm my findings.
@@ -53364,28 +53385,28 @@ RESOURCE ID: gowa_2026_irl_sr_5_4
 TEXT: How exciting is that?! Anyhow, onward, %PLAYERNAME%! Our greatest discoveries are still ahead of us!
 
 RESOURCE ID: gowa_2026_sat
-TEXT: Pokémon GO Wild Area 2026: Saturday Event Hours
+TEXT: Pokémon GO ไวลด์แอเรีย 2026: ชั่วโมงอีเวนต์วันเสาร์
 
 RESOURCE ID: gowa_2026_sat_ticketed
-TEXT: Pokémon GO Wild Area 2026: Saturday Event Hours (Ticket)
+TEXT: Pokémon GO ไวลด์แอเรีย 2026: ชั่วโมงอีเวนต์วันเสาร์ (ตั๋ว)
 
 RESOURCE ID: gowa_2026_sendai
-TEXT: Pokémon GO Wild Area: Sendai・Tohoku
+TEXT: Pokémon GO ไวลด์แอเรีย: เซนได・โทโฮกุ
 
 RESOURCE ID: gowa_2026_sendai_extended_bonus
-TEXT: Pokémon GO Wild Area: Sendai・Tohoku – Extended Bonuses
+TEXT: Pokémon GO ไวลด์แอเรีย: เซนได・โทโฮกุ - โบนัสเพิ่มเติม
 
 RESOURCE ID: gowa_2026_steel_badge_candy_xl_bonus
-TEXT: One additional Candy XL from catching Steel-type mighty Pokémon
+TEXT: +1 ลูกอม XL จากการจับโปเกมอนทรงพลังประเภทมังกร
 
 RESOURCE ID: gowa_2026_steel_badge_stardust_bonus
-TEXT: 1,000 additional Stardust from catching Steel-type mighty Pokémon
+TEXT: +1,000 สตาร์ดัสต์จากการจับโปเกมอนทรงพลังประเภทโลหะ
 
 RESOURCE ID: gowa_2026_sun
-TEXT: Pokémon GO Wild Area 2026: Sunday Event Hours
+TEXT: Pokémon GO ไวลด์แอเรีย 2026: ชั่วโมงอีเวนต์วันอาทิตย์
 
 RESOURCE ID: gowa_2026_sun_ticketed
-TEXT: Pokémon GO Wild Area 2026: Sunday Event Hours (Ticket)
+TEXT: Pokémon GO ไวลด์แอเรีย 2026: ชั่วโมงอีเวนต์วันอาทิตย์ (ตั๋ว)
 
 RESOURCE ID: gowa2024
 TEXT: Pokémon GO ไวลด์แอเรีย 2024
@@ -55964,17 +55985,19 @@ RESOURCE ID: in_fol_2026_event_tv_desc
 TEXT: เฉลิมฉลองเทศกาลแห่งแสง นอกจากโปเกมอนพิเศษจะปรากฏตัวในธรรมชาติเวลา 18.00 น., 18.30 น., 19.00 น., 19.30 น. ตามเวลาท้องถิ่นแล้ว ยังมีตีบอสพิคาชูสวมชุดส่าหรีหรือกูรตะด้วย อ่านรายละเอียดเพิ่มเติมได้ที่บล็อก!
 
 RESOURCE ID: in_fol_2026_tr_dialog_00
-TEXT: เทศกาลแห่งแสงเริ่มขึ้นแล้ว %PLAYERNAME% เธอจะฉลองโดยเลือกพิคาชูตัวไหนกันนะ?
+TEXT: เทศกาลแห่งแสงเริ่มขึ้นแล้ว!
+%PLAYERNAME% เธอจะฉลอง
+โดยเลือกพิคาชูตัวไหนกันนะ?
 
 RESOURCE ID: in_fol_2026_tr_path_a_desc
 TEXT: เมื่อเลือกเส้นทางนี้ จะได้เผชิญหน้า
 กับพิคาชูสวมชุดกูรตะที่มีพื้นหลังพิเศษ
-และรับรางวัลเช่น สติกเกอร์และท่าโพสประกายไฟ
+และรับรางวัลเช่น สติกเกอร์ และท่าโพสประกายไฟ
 
 RESOURCE ID: in_fol_2026_tr_path_b_desc
 TEXT: เมื่อเลือกเส้นทางนี้ จะได้เผชิญหน้า
 กับพิคาชูสวมชุดส่าหรีที่มีพื้นหลังพิเศษ
-และรับรางวัลเช่น สติกเกอร์และท่าโพสประกายไฟ
+และรับรางวัลเช่น สติกเกอร์ และท่าโพสประกายไฟ
 
 RESOURCE ID: in_person_tickets
 TEXT: ตั๋ว (เข้าร่วมในพื้นที่)
@@ -56172,16 +56195,16 @@ RESOURCE ID: incoming_friend_request_prompt_singular
 TEXT: มีคนส่งคำขอเป็นเพื่อนมาหาคุณ
 
 RESOURCE ID: incomplete_raid_battle_rejoin_modal_title
-TEXT: Rejoin raid?
+TEXT: ต้องการเข้าร่วมตีบอสอีกครั้งหรือไม่?
 
 RESOURCE ID: incomplete_raid_battle_rejoin_modal_body
-TEXT: Rejoin the raid to continue battling the Raid Boss.
+TEXT: เมื่อเข้าร่วมอีกครั้ง จะสามารถแบตเทิลกับบอสต่อได้
 
 RESOURCE ID: incomplete_raid_encounter_rejoin_modal_title
-TEXT: Return to Raid Boss encounter?
+TEXT: ต้องการกลับไปเผชิญหน้ากับบอสหรือไม่?
 
 RESOURCE ID: incomplete_raid_encounter_rejoin_modal_body
-TEXT: Return to the encounter to catch the Raid Boss.
+TEXT: กลับไปเพื่อจับบอสกันเถอะ
 
 RESOURCE ID: increased_adventure_sync_rewards
 TEXT: เพิ่มรางวัลแอดเวนเจอร์ซิงค์ของอาทิตย์หน้า
@@ -66979,7 +67002,7 @@ RESOURCE ID: meetup_check_in_research_title_gowa2025
 TEXT: งานวิจัยแบบจำกัดเวลาเช็กอินงานพบปะ: GO ไวลด์แอเรีย
 
 RESOURCE ID: meetup_check_in_research_title_gowa2026
-TEXT: Meetup Check-In Timed Research: GO Wild Area
+TEXT: งานวิจัยแบบจำกัดเวลาเช็กอินงานพบปะ: GO ไวลด์แอเรีย
 
 RESOURCE ID: meetup_check_in_research_title_hatch
 TEXT: งานวิจัยแบบจำกัดเวลาเช็กอินงานพบปะ: วันฟักไข่
@@ -67455,9 +67478,9 @@ TEXT: เมื่อจับโปเกมอนที่มีประเ�
 • เพิ่มโอกาสในการได้รับลูกอม XL
 
 RESOURCE ID: mega_level_tutorial_cp_downscaling_1_body
-TEXT: If a Mega Pokémon’s CP exceeds certain Battle Leagues, their levels will be temporarily adjusted to where its CP is within that Battle League’s limits.
+TEXT: If a Mega-Evolved Pokémon’s CP exceeds certain Battle Leagues, their levels will be temporarily adjusted to where their CP is within that Battle League’s limits.
 
-Pokémon at Super Max Level will not have the Greatly Increased CP bonus in Master League.
+Pokémon at Super Max Level will not have the greatly enhanced CP bonus in Master League.
 
 RESOURCE ID: mega_level_tutorial_hero_title
 TEXT: วิวัฒนาการเมก้ากันเลย!
@@ -67786,10 +67809,10 @@ at SHA da71d231c41a4d4f7aef0d6fd71061652ff15a0a
 Pipeline 441624, job 3600523
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-10-16T22:34:57.171068+00:00 for th-TH
-at SHA d68311f630a
-Pipeline 4029884, job 59396785
-Patch from: 0.431.0-SHA-8123c737-RC1, 0.433.0-SHA-94a605de-RC4, 0.435.0-SHA-5bec7604-RC1
+TEXT: Built at 2026-10-21T01:48:22.252006+00:00 for th-TH
+at SHA eb1e2fc106ad
+Pipeline 4038403, job 59531866
+Patch from: 0.433.1-SHA-0f52e3f0-RC1, 0.435.0-SHA-d5d32cc5-RC2
 
 RESOURCE ID: meteor_title_1
 TEXT: ฝนดาวตก
@@ -93124,7 +93147,8 @@ RESOURCE ID: quest_buddy_affection_days_in_a_row
 TEXT: ได้รับหัวใจร่วมกันกับคู่หูของคุณ {0} วันติดต่อกัน
 
 RESOURCE ID: quest_buddy_affection_dragon_plural
-TEXT: Earn {0} hearts with a Dragon-type buddy
+TEXT: ได้รับหัวใจร่วมกันกับคู่หูประเภทมังกร
+ของคุณ {0} ดวง
 
 RESOURCE ID: quest_buddy_affection_electric_plural
 TEXT: ได้รับหัวใจร่วมกันกับคู่หูประเภทไฟฟ้า
@@ -93147,7 +93171,8 @@ TEXT: ได้รับหัวใจร่วมกันกับคู่�
 ของคุณ
 
 RESOURCE ID: quest_buddy_affection_steel_plural
-TEXT: Earn {0} hearts with a Steel-type buddy
+TEXT: ได้รับหัวใจร่วมกันกับคู่หูประเภทโลหะ
+ของคุณ {0} ดวง
 
 RESOURCE ID: quest_buddy_affection_zeraora_plural
 TEXT: ได้รับหัวใจร่วมกันกับเซราโอราที่เป็นคู่หูของคุณ {0} ดวง 
@@ -96640,7 +96665,8 @@ TEXT: ได้รับลูกอมจากการเดินสำร�
 โปเกมอนประเภทความมืดที่เป็นคู่หู
 
 RESOURCE ID: quest_explore_buddy_dragon
-TEXT: Earn a Candy exploring with a Dragon type as your buddy
+TEXT: ได้รับลูกอมจากการเดินสำรวจกับ
+โปเกมอนประเภทมังกรที่เป็นคู่หู
 
 RESOURCE ID: quest_explore_buddy_electric
 TEXT: ได้รับลูกอมจากการเดินสำรวจกับ
@@ -96658,7 +96684,8 @@ TEXT: ได้รับลูกอมจากการเดินสำร�
 โปเกมอนประเภทพิษที่เป็นคู่หู
 
 RESOURCE ID: quest_explore_buddy_steel
-TEXT: Earn a Candy exploring with a Steel type as your buddy
+TEXT: ได้รับลูกอมจากการเดินสำรวจกับ
+โปเกมอนประเภทโลหะที่เป็นคู่หู
 
 RESOURCE ID: quest_explore_buddy_routes_plural
 TEXT: ได้รับลูกอม {0} เม็ด ระหว่างสำรวจ "เส้นทาง" กับคู่หูของคุณ
@@ -98831,7 +98858,7 @@ RESOURCE ID: quest_rowlet_snapshot_b
 TEXT: ถ่ายภาพโมคุโร {0} ภาพ
 
 RESOURCE ID: quest_safari2026_boston_visit_unique_pokestops_plural
-TEXT: Spin {0} different PokéStops or Gyms in Boston
+TEXT: หมุนเสาโปเกสต็อปหรือยิมที่ไม่ซ้ำกันในบอสตัน {0} ครั้ง
 
 RESOURCE ID: quest_sandt_catch_b
 TEXT: จับแซนด์ {0} ตัว
@@ -117862,16 +117889,16 @@ RESOURCE ID: raid_attendance_online_disclaimer_message
 TEXT: เพื่อนของคุณยังสามารถเห็นสถานะการเข้าร่วมตีบอสของคุณได้ คุณสามารถเปลี่ยนการตั้งค่าได้ที่เมนูการตั้งค่าในภายหลัง
 
 RESOURCE ID: raid_battle_complete_lost_modal_title
-TEXT: The Raid Battle has ended.
+TEXT: แบตเทิลตีบอสนี้ได้จบลงแล้ว
 
 RESOURCE ID: raid_battle_complete_lost_modal_body
-TEXT: The Raid Boss was not defeated in time.
+TEXT: ไม่สามารถจัดการบอสได้ภายในเวลา
 
 RESOURCE ID: raid_battle_complete_rejoin_modal_title
-TEXT: Rejoin raid?
+TEXT: ต้องการเข้าร่วมตีบอสอีกครั้งหรือไม่?
 
 RESOURCE ID: raid_battle_complete_rejoin_modal_body
-TEXT: Return to the raid to catch the Raid Boss.
+TEXT: กลับไปเพื่อเผชิญหน้าบอสกันเถอะ
 
 RESOURCE ID: raid_battle_retreat_confirmation
 TEXT: คุณต้องการออกใช่หรือไม่?
@@ -120157,10 +120184,10 @@ RESOURCE ID: raid_encounter_flee_warning_button_text
 TEXT: FLEE
 
 RESOURCE ID: raid_encounter_flee_warning_modal_title
-TEXT: Are you sure you want to flee?
+TEXT: คุณแน่ใจหรือไม่ว่าต้องการหนี?
 
 RESOURCE ID: raid_encounter_flee_warning_modal_body
-TEXT: If you flee from this Pokémon, you won’t be able to return.
+TEXT: ถ้าคุณหนีจากโปเกมอนนี้ จะไม่สามารถกลับมาจับได้
 
 RESOURCE ID: raid_enter_group_code
 TEXT: กลุ่มส่วนตัว
@@ -124588,7 +124615,7 @@ RESOURCE ID: returning_sign_in_partial
 TEXT: ลงชื่อเข้าใช้ด้วย {0}
 
 RESOURCE ID: revert_pokemon_to_its_primal_form_to_use_this_party
-TEXT: กรุณาทำให้{0}คืนสู่ต้นกำเนิด
+TEXT: กรุณาให้{0}คืนสู่ต้นกำเนิด
 
 RESOURCE ID: revive_all_button
 TEXT: Revive All
@@ -127885,7 +127912,7 @@ RESOURCE ID: safari_city_2026_riodejaneiro_title_02
 TEXT: City Safari: รีโอเดจาเนโร 2026 (3/3)
 
 RESOURCE ID: safari_city_boston_makegood_tr_dialog_00_00
-TEXT: Hello, %PLAYERNAME%! Ready to explore Boston?
+TEXT: สวัสดี %PLAYERNAME%! พร้อมสำรวจบอสตันหรือยัง?
 
 RESOURCE ID: safari_city_leave_behind_dialog_00_00
 TEXT: ไง %PLAYERNAME% ไม่นึกเลยว่าจะได้เจอ
@@ -128122,7 +128149,7 @@ TEXT: ได้รูปถ่ายดี ๆ บ้างไหม? แล้�
 มาบ้างหรือเปล่า?
 
 RESOURCE ID: safari_city_sr_dialog_02_01_backup
-TEXT: How was your journey?
+TEXT: การสำรวจสนุกดีมั้ย?
 
 RESOURCE ID: safari_city_sr_dialog_02_02
 TEXT: ที่นี่มีอะไรให้ค้นพบเยอะแยะมากมาย
@@ -128130,7 +128157,7 @@ TEXT: ที่นี่มีอะไรให้ค้นพบเยอะ�
 เมืองในครั้งนี้นะ! เธอกับอีวุยเป็นคู่หูที่ดีเลยล่ะ
 
 RESOURCE ID: safari_city_sr_dialog_02_02_backup
-TEXT: There’s a lot to see, so I hope you enjoy exploring! I have no doubt there are many more journeys waiting for you.
+TEXT: ยังมีสิ่งที่น่าดูอยู่อีกมากมาย! ไปสำรวจต่อกันเถอะ
 
 RESOURCE ID: safari_city_sr_dialog_branch_00_backup
 TEXT: สวัสดี %PLAYERNAME%!
@@ -136790,43 +136817,43 @@ RESOURCE ID: sr_gowa2025_irl_6
 TEXT: GO ไวลด์แอเรีย: เส้นทางนางาซากิ (6/6)
 
 RESOURCE ID: sr_gowa2026_global_title
-TEXT: GO Wild Area 2026: Streets to Skies (1/6)
+TEXT: GO ไวลด์แอเรีย 2026: จากมุมถนนสู่ท้องฟ้ากว้าง (1/6)
 
 RESOURCE ID: sr_gowa2026_global_dark_2
-TEXT: GO Wild Area 2026: Path to Mastery – Dragon (2/6)
+TEXT: GO ไวลด์แอเรีย 2026: ผู้เชี่ยวชาญมังกร (2/6)
 
 RESOURCE ID: sr_gowa2026_global_dark_3
-TEXT: GO Wild Area 2026: Path to Mastery – Dragon (3/6)
+TEXT: GO ไวลด์แอเรีย 2026: ผู้เชี่ยวชาญมังกร (3/6)
 
 RESOURCE ID: sr_gowa2026_global_dark_4
-TEXT: GO Wild Area 2026: Path to Mastery – Dragon (4/6)
+TEXT: GO ไวลด์แอเรีย 2026: ผู้เชี่ยวชาญมังกร (4/6)
 
 RESOURCE ID: sr_gowa2026_global_dark_5
-TEXT: GO Wild Area 2026: Path to Mastery – Dragon (5/6)
+TEXT: GO ไวลด์แอเรีย 2026: ผู้เชี่ยวชาญมังกร (5/6)
 
 RESOURCE ID: sr_gowa2026_global_dark_6
-TEXT: GO Wild Area 2026: Path to Mastery – Dragon (6/6)
+TEXT: GO ไวลด์แอเรีย 2026: ผู้เชี่ยวชาญมังกร (6/6)
 
 RESOURCE ID: sr_gowa2026_global_dragon_title
-TEXT: GO Wild Area 2026: Path to Mastery – Dragon
+TEXT: GO ไวลด์แอเรีย 2026: ผู้เชี่ยวชาญมังกร
 
 RESOURCE ID: sr_gowa2026_global_quest_branch_dragon_title
-TEXT: Dragon
+TEXT: มังกร
 
 RESOURCE ID: sr_gowa2026_global_quest_branch_dragon_description
 TEXT: Choose this path to become an accomplished Dragon-type Trainer. Tasks will be focused on catching, powering up, and evolving Dragon-type Pokémon. Completing this research awards the Dragon Defender medal!
 
 RESOURCE ID: sr_gowa2026_global_quest_branch_steel_title
-TEXT: Steel
+TEXT: โลหะ
 
 RESOURCE ID: sr_gowa2026_global_quest_branch_steel_description
 TEXT: Choose this path to become an accomplished Steel-type Trainer. Tasks will be focused on catching, powering up, and evolving Steel-type Pokémon. Completing this research awards the Steel Scholar medal!
 
 RESOURCE ID: sr_gowa2026_global_steel_title
-TEXT: GO Wild Area 2026: Path to Mastery – Steel
+TEXT: GO ไวลด์แอเรีย 2026: ผู้เชี่ยวชาญโลหะ
 
 RESOURCE ID: sr_gowa2026_global_steel_2
-TEXT: GO Wild Area 2026: Path to Mastery – Steel (2/6)
+TEXT: GO ไวลด์แอเรีย 2026: ผู้เชี่ยวชาญโลหะ (2/6)
 
 RESOURCE ID: sr_gowa2026_global_steel_3
 TEXT: GO Wild Area 2026: Path to Mastery – Steel (3/6)
@@ -136841,52 +136868,52 @@ RESOURCE ID: sr_gowa2026_global_steel_6
 TEXT: GO Wild Area 2026: Path to Mastery – Steel (6/6)
 
 RESOURCE ID: sr_gowa2026_irl_cdmx
-TEXT: GO Wild Area: Mexico City – The Suspense Is Building
+TEXT: GO ไวลด์แอเรีย: ปริศนาแห่งเม็กซิโกซิตี้
 
 RESOURCE ID: sr_gowa2026_irl_sendai
-TEXT: GO Wild Area: Sendai・Tohoku – The Suspense Is Building
+TEXT: GO ไวลด์แอเรีย: ปริศนาแห่งเซนได・โทโฮกุ
 
 RESOURCE ID: sr_gowa2026_irl_cdmx_1
-TEXT: GO Wild Area: Mexico City – The Suspense Is Building (1/6)
+TEXT: GO ไวลด์แอเรีย: ปริศนาแห่งเม็กซิโกซิตี้ (1/6)
 
 RESOURCE ID: sr_gowa2026_irl_cdmx_2
-TEXT: GO Wild Area: Mexico City – The Suspense Is Building (2/6)
+TEXT: GO ไวลด์แอเรีย: ปริศนาแห่งเม็กซิโกซิตี้ (2/6)
 
 RESOURCE ID: sr_gowa2026_irl_cdmx_3
-TEXT: GO Wild Area: Mexico City – The Suspense Is Building (3/6)
+TEXT: GO ไวลด์แอเรีย: ปริศนาแห่งเม็กซิโกซิตี้ (3/6)
 
 RESOURCE ID: sr_gowa2026_irl_cdmx_4
-TEXT: GO Wild Area: Mexico City – The Suspense Is Building (4/6)
+TEXT: GO ไวลด์แอเรีย: ปริศนาแห่งเม็กซิโกซิตี้ (4/6)
 
 RESOURCE ID: sr_gowa2026_irl_cdmx_5
-TEXT: GO Wild Area: Mexico City – The Suspense Is Building (5/6)
+TEXT: GO ไวลด์แอเรีย: ปริศนาแห่งเม็กซิโกซิตี้ (5/6)
 
 RESOURCE ID: sr_gowa2026_irl_cdmx_6
-TEXT: GO Wild Area: Mexico City – The Suspense Is Building (6/6)
+TEXT: GO ไวลด์แอเรีย: ปริศนาแห่งเม็กซิโกซิตี้ (6/6)
 
 RESOURCE ID: sr_gowa2026_irl_sendai_1
-TEXT: GO Wild Area: Sendai・Tohoku – The Suspense Is Building (1/6)
+TEXT: GO ไวลด์แอเรีย: ปริศนาแห่งเซนได・โทโฮกุ (1/6)
 
 RESOURCE ID: sr_gowa2026_irl_sendai_2
-TEXT: GO Wild Area: Sendai・Tohoku – The Suspense Is Building (2/6)
+TEXT: GO ไวลด์แอเรีย: ปริศนาแห่งเซนได・โทโฮกุ (2/6)
 
 RESOURCE ID: sr_gowa2026_irl_sendai_3
-TEXT: GO Wild Area: Sendai・Tohoku – The Suspense Is Building (3/6)
+TEXT: GO ไวลด์แอเรีย: ปริศนาแห่งเซนได・โทโฮกุ (3/6)
 
 RESOURCE ID: sr_gowa2026_irl_sendai_4
-TEXT: GO Wild Area: Sendai・Tohoku – The Suspense Is Building (4/6)
+TEXT: GO ไวลด์แอเรีย: ปริศนาแห่งเซนได・โทโฮกุ (4/6)
 
 RESOURCE ID: sr_gowa2026_irl_sendai_5
-TEXT: GO Wild Area: Sendai・Tohoku – The Suspense Is Building (5/6)
+TEXT: GO ไวลด์แอเรีย: ปริศนาแห่งเซนได・โทโฮกุ (5/6)
 
 RESOURCE ID: sr_gowa2026_irl_sendai_6
-TEXT: GO Wild Area: Sendai・Tohoku – The Suspense Is Building (6/6)
+TEXT: GO ไวลด์แอเรีย: ปริศนาแห่งเซนได・โทโฮกุ (6/6)
 
 RESOURCE ID: sr_safari_city_boston_2026_makegood_sat_header
-TEXT: City Safari: Boston 2026 (Day 1)
+TEXT: City Safari: บอสตัน 2026 (วันที่ 1)
 
 RESOURCE ID: sr_safari_city_boston_2026_makegood_sun_header
-TEXT: City Safari: Boston 2026 (Day 2)
+TEXT: City Safari: บอสตัน 2026 (วันที่ 2)
 
 RESOURCE ID: sr_ticket_in_shop
 TEXT: สามารถซื้อตั๋วสำหรับงานวิจัยพิเศษได้ที่ร้านค้า
@@ -137201,10 +137228,10 @@ RESOURCE ID: steel_and_scales_event_name
 TEXT: ปลดล็อกอัลตร้า: เกล็ดและเหล็กกล้า
 
 RESOURCE ID: steel_poi_spin_plural
-TEXT: Spin {0} Steel type–themed PokéStops
+TEXT: หมุนเสาโปเกสต็อปธีมประเภทโลหะ {0} แห่ง
 
 RESOURCE ID: steel_poi_spin_singular
-TEXT: Spin a Steel type–themed PokéStop
+TEXT: หมุนเสาโปเกสต็อปธีมประเภทโลหะ
 
 RESOURCE ID: steel_scales_uu_july2025_cc_bagon
 TEXT: คำท้านักสะสมเกล็ดและเหล็กกล้า: ทัทซึเบ

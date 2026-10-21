@@ -2682,6 +2682,9 @@ TEXT: Sayap Kyurem Hitam
 RESOURCE ID: avatar_backpack_eggincubator
 TEXT: Ransel Mesin Penetas
 
+RESOURCE ID: avatar_backpack_gmaxduraludon
+TEXT: Ransel Gigantamax Duraludon
+
 RESOURCE ID: avatar_backpack_goruckgengar
 TEXT: Ransel GORUCK Gengar
 
@@ -5070,6 +5073,9 @@ TEXT: Bando Applin
 
 RESOURCE ID: avatar_hat_captainpikachu
 TEXT: Topi Kapten Pikachu
+
+RESOURCE ID: avatar_hat_duraludon
+TEXT: Helm Duraludon
 
 RESOURCE ID: avatar_hat_eternatus
 TEXT: Helm Eternatus
@@ -7558,6 +7564,9 @@ TEXT: Sepatu Kota Lumiose (Merah)
 RESOURCE ID: avatar_pants_bwpants
 TEXT: Celana Joging Hitam & Putih
 
+RESOURCE ID: avatar_pants_duraludon
+TEXT: Celana Duraludon
+
 RESOURCE ID: avatar_pants_eternatus
 TEXT: Celana Eternatus
 
@@ -7629,6 +7638,9 @@ TEXT: Pose Grimsley
 
 RESOURCE ID: avatar_pose_gofest2025
 TEXT: Pose GO Fest 2025
+
+RESOURCE ID: avatar_pose_gowa2026
+TEXT: Pose GO Wild Area 2026
 
 RESOURCE ID: avatar_pose_grusha
 TEXT: Pose Grusha
@@ -7752,6 +7764,15 @@ TEXT: Kaus Tur GO 2025
 
 RESOURCE ID: avatar_shirt_gotour2025white
 TEXT: Kaus Tur GO 2025 (Putih)
+
+RESOURCE ID: avatar_shirt_gowa2026-maroon
+TEXT: Kaus GO Wild Area 2026 (Ungu)
+
+RESOURCE ID: avatar_shirt_gowa2026-navy
+TEXT: Kaus GO Wild Area 2026 (Biru Dongker)
+
+RESOURCE ID: avatar_shirt_gowamachamp
+TEXT: Jaket Tipe Petarung
 
 RESOURCE ID: avatar_shirt_gowatshirt2024
 TEXT: Kaus GO Wild Area 2024
@@ -12493,28 +12514,28 @@ RESOURCE ID: badge_gowa_2025_special_research_b_title
 TEXT: Penggemar Peri
 
 RESOURCE ID: badge_gowa_2026_cdmx_addon_battle_title
-TEXT: GO Wild Area 2026: Battle Ready
+TEXT: GO Wild Area 2026: Siap Bertarung
 
 RESOURCE ID: badge_gowa_2026_cdmx_addon_friday_title
-TEXT: GO Wild Area 2026: Extra Day (Friday)
+TEXT: GO Wild Area 2026: Hari Tambahan (Jumat)
 
 RESOURCE ID: badge_gowa_2026_cdmx_addon_hatch_title
-TEXT: GO Wild Area 2026: Egg-thusiast
+TEXT: GO Wild Area 2026: Penggila Telur
 
 RESOURCE ID: badge_gowa_2026_cdmx_addon_saturday_title
-TEXT: GO Wild Area 2026: Extra Day (Saturday)
+TEXT: GO Wild Area 2026: Hari Tambahan (Sabtu)
 
 RESOURCE ID: badge_gowa_2026_cdmx_addon_sunday_title
-TEXT: GO Wild Area 2026: Extra Day (Sunday)
+TEXT: GO Wild Area 2026: Hari Tambahan (Minggu)
 
 RESOURCE ID: badge_gowa_2026_cdmx_friday_title
-TEXT: GO Wild Area 2026: Friday
+TEXT: GO Wild Area 2026: Jumat
 
 RESOURCE ID: badge_gowa_2026_cdmx_saturday_title
-TEXT: GO Wild Area 2026: Saturday
+TEXT: GO Wild Area 2026: Sabtu
 
 RESOURCE ID: badge_gowa_2026_cdmx_sunday_title
-TEXT: GO Wild Area 2026: Sunday
+TEXT: GO Wild Area 2026: Minggu
 
 RESOURCE ID: badge_gowa_2026_cdmx_test_addon_battle_title
 TEXT: GO Wild Area 2026 – Mexico City: Battle Ready (Test)
@@ -12535,28 +12556,28 @@ RESOURCE ID: badge_gowa_2026_global_title
 TEXT: GO Wild Area 2026
 
 RESOURCE ID: badge_gowa_2026_sendai_addon_battle_title
-TEXT: GO Wild Area 2026: Battle Ready
+TEXT: GO Wild Area 2026: Siap Bertarung
 
 RESOURCE ID: badge_gowa_2026_sendai_addon_friday_title
-TEXT: GO Wild Area 2026: Extra Day (Friday)
+TEXT: GO Wild Area 2026: Hari Tambahan (Jumat)
 
 RESOURCE ID: badge_gowa_2026_sendai_addon_hatch_title
-TEXT: GO Wild Area 2026: Egg-thusiast
+TEXT: GO Wild Area 2026: Penggila Telur
 
 RESOURCE ID: badge_gowa_2026_sendai_addon_saturday_title
-TEXT: GO Wild Area 2026: Extra Day (Saturday)
+TEXT: GO Wild Area 2026: Hari Tambahan (Sabtu)
 
 RESOURCE ID: badge_gowa_2026_sendai_addon_sunday_title
-TEXT: GO Wild Area 2026: Extra Day (Sunday)
+TEXT: GO Wild Area 2026: Hari Tambahan (Minggu)
 
 RESOURCE ID: badge_gowa_2026_sendai_friday_title
-TEXT: GO Wild Area 2026: Friday
+TEXT: GO Wild Area 2026: Jumat
 
 RESOURCE ID: badge_gowa_2026_sendai_saturday_title
-TEXT: GO Wild Area 2026: Saturday
+TEXT: GO Wild Area 2026: Sabtu
 
 RESOURCE ID: badge_gowa_2026_sendai_sunday_title
-TEXT: GO Wild Area 2026: Sunday
+TEXT: GO Wild Area 2026: Minggu
 
 RESOURCE ID: badge_gowa_2026_sendai_test_addon_battle_title
 TEXT: GO Wild Area 2026 – Sendai・Tohoku: Battle Ready (Test)
@@ -12571,10 +12592,10 @@ RESOURCE ID: badge_gowa_2026_sendai_test_title
 TEXT: GO Wild Area 2026 – Sendai・Tohoku (Test)
 
 RESOURCE ID: badge_gowa_2026_special_research_a_title
-TEXT: Steel Scholar
+TEXT: Cendekiawan Logam
 
 RESOURCE ID: badge_gowa_2026_special_research_b_title
-TEXT: Dragon Defender
+TEXT: Pelindung Naga
 
 RESOURCE ID: badge_gowa_electric
 TEXT: Pokémon GO Wild Area 2024
@@ -12685,28 +12706,28 @@ RESOURCE ID: badge_gowa_2025_special_research_b
 TEXT: Pokémon GO Wild Area 2025
 
 RESOURCE ID: badge_gowa_2026_cdmx_addon_battle
-TEXT: Mexico City, November 6–8, 2026
+TEXT: Mexico City, 6–8 November 2026
 
 RESOURCE ID: badge_gowa_2026_cdmx_addon_friday
-TEXT: Mexico City, Friday, November 6, 2026, 10:00 a.m. – 6:00 p.m.
+TEXT: Mexico City, Jumat, 6 November 2026, 10.00–18.00
 
 RESOURCE ID: badge_gowa_2026_cdmx_addon_hatch
-TEXT: Mexico City, November 6–8, 2026
+TEXT: Mexico City, 6–8 November 2026
 
 RESOURCE ID: badge_gowa_2026_cdmx_addon_saturday
-TEXT: Mexico City, Saturday, November 7, 2026, 10:00 a.m. – 6:00 p.m.
+TEXT: Mexico City, Sabtu, 7 November 2026, 10.00–18.00
 
 RESOURCE ID: badge_gowa_2026_cdmx_addon_sunday
-TEXT: Mexico City, Sunday, November 8, 2026, 10:00 a.m. – 6:00 p.m.
+TEXT: Mexico City, Minggu, 8 November 2026, 10.00–18.00
 
 RESOURCE ID: badge_gowa_2026_cdmx_friday
-TEXT: Mexico City, Friday, November 6, 2026, 10:00 a.m. – 6:00 p.m.
+TEXT: Mexico City, Jumat, 6 November 2026, 10.00–18.00
 
 RESOURCE ID: badge_gowa_2026_cdmx_saturday
-TEXT: Mexico City, Saturday, November 7, 2026, 10:00 a.m. – 6:00 p.m.
+TEXT: Mexico City, Sabtu, 7 November 2026, 10.00–18.00
 
 RESOURCE ID: badge_gowa_2026_cdmx_sunday
-TEXT: Mexico City, Sunday, November 8, 2026, 10:00 a.m. – 6:00 p.m.
+TEXT: Mexico City, Minggu, 8 November 2026, 10.00–18.00
 
 RESOURCE ID: badge_gowa_2026_cdmx_test
 TEXT: Mexico City, November 6–8, 2026
@@ -12721,34 +12742,34 @@ RESOURCE ID: badge_gowa_2026_cdmx_test_addon_hatch
 TEXT: Mexico City, November 6–8, 2026
 
 RESOURCE ID: badge_gowa_2026_global
-TEXT: November 14–15, 2026
+TEXT: 14–15 November 2026
 
 RESOURCE ID: badge_gowa_2026_global_test
 TEXT: November 14–15, 2026
 
 RESOURCE ID: badge_gowa_2026_sendai_addon_battle
-TEXT: Sendai・Tohoku, November 6–8, 2026
+TEXT: Sendai・Tohoku, 6–8 November 2026
 
 RESOURCE ID: badge_gowa_2026_sendai_addon_friday
-TEXT: Sendai・Tohoku, Friday, November 6, 2026, 10:00 a.m. – 6:00 p.m.
+TEXT: Sendai・Tohoku, Jumat, 6 November 2026, 10.00–18.00
 
 RESOURCE ID: badge_gowa_2026_sendai_addon_hatch
-TEXT: Sendai・Tohoku, November 6–8, 2026
+TEXT: Sendai・Tohoku, 6–8 November 2026
 
 RESOURCE ID: badge_gowa_2026_sendai_addon_saturday
-TEXT: Sendai・Tohoku, Saturday, November 7, 2026, 10:00 a.m. – 6:00 p.m.
+TEXT: Sendai・Tohoku, Sabtu, 7 November 2026, 10.00–18.00
 
 RESOURCE ID: badge_gowa_2026_sendai_addon_sunday
-TEXT: Sendai・Tohoku, Sunday, November 8, 2026, 10:00 a.m. – 6:00 p.m.
+TEXT: Sendai・Tohoku, Minggu, 8 November 2026, 10.00–18.00
 
 RESOURCE ID: badge_gowa_2026_sendai_friday
-TEXT: Sendai・Tohoku, Friday, November 6, 2026, 10:00 a.m. – 6:00 p.m.
+TEXT: Sendai・Tohoku, Jumat, 6 November 2026, 10.00–18.00
 
 RESOURCE ID: badge_gowa_2026_sendai_saturday
-TEXT: Sendai・Tohoku, Saturday, November 7, 2026, 10:00 a.m. – 6:00 p.m.
+TEXT: Sendai・Tohoku, Sabtu, 7 November 2026, 10.00–18.00
 
 RESOURCE ID: badge_gowa_2026_sendai_sunday
-TEXT: Sendai・Tohoku, Sunday, November 8, 2026, 10:00 a.m. – 6:00 p.m.
+TEXT: Sendai・Tohoku, Minggu, 8 November 2026, 10.00–18.00
 
 RESOURCE ID: badge_gowa_2026_sendai_test
 TEXT: Sendai・Tohoku, November 6–8, 2026
@@ -18473,7 +18494,7 @@ RESOURCE ID: bonus_10_daily_raid_passes
 TEXT: Dapatkan hingga 10 Tiket Raid gratis dengan memutar Disk Foto di Gym
 
 RESOURCE ID: bonus_10k_egg_rate
-TEXT: Increased chance of receiving event-themed 10 km Eggs from spinning PokéStops or Gyms
+TEXT: Peningkatan peluang menerima Telur 10 km bertema event dari memutar PokéStop atau Gym
 
 RESOURCE ID: bonus_10k_eggs_increased
 TEXT: Peluang perolehan Telur 10 km dari memutar PokéStop atau Gym meningkat pesat
@@ -29797,10 +29818,10 @@ RESOURCE ID: downloading_avatar_assets_warning_body
 TEXT: Terdapat masalah saat mengunduh aset. Pastikan kamu memiliki akses jaringan yang stabil dan silakan mulai ulang game.
 
 RESOURCE ID: dragon_poi_spin_plural
-TEXT: Spin {0} Dragon type–themed PokéStops
+TEXT: Putar {0} PokéStop bertema tipe Naga
 
 RESOURCE ID: dragon_poi_spin_singular
-TEXT: Spin a Dragon type–themed PokéStop
+TEXT: Putar PokéStop bertema tipe Naga
 
 RESOURCE ID: dragon_type_event
 TEXT: Tipe Surge: Naga
@@ -40136,7 +40157,7 @@ RESOURCE ID: gmax_cinderace_max_battles
 TEXT: Cinderace Gigantamax muncul di Pertarungan Max
 
 RESOURCE ID: gmax_duraludon_max_battles
-TEXT: Gigantamax Duraludon is appearing in Max Battles
+TEXT: Duraludon Gigantamax muncul di Pertarungan Max
 
 RESOURCE ID: gmax_garbodor_lead_up_timed_research
 TEXT: Penelitian Berwaktu Pendahuluan Hari Pertarungan Max Garbodor Gigantamax
@@ -47828,37 +47849,37 @@ RESOURCE ID: gowa_2026
 TEXT: Pokémon GO Wild Area 2026
 
 RESOURCE ID: gowa_2026_all_sat
-TEXT: Pokémon GO Wild Area 2026: All-Day Saturday
+TEXT: Pokémon GO Wild Area 2026: Sabtu Seharian
 
 RESOURCE ID: gowa_2026_all_sun
-TEXT: Pokémon GO Wild Area 2026: All-Day Sunday
+TEXT: Pokémon GO Wild Area 2026: Minggu Seharian
 
 RESOURCE ID: gowa_2026_all_weekend
-TEXT: Pokémon GO Wild Area 2026: All Weekend
+TEXT: Pokémon GO Wild Area 2026: Sepanjang Akhir Minggu
 
 RESOURCE ID: gowa_2026_all_weekend_ticketed
-TEXT: Pokémon GO Wild Area 2026: All Weekend (Ticket)
+TEXT: Pokémon GO Wild Area 2026: Sepanjang Akhir Minggu (Tiket)
 
 RESOURCE ID: gowa_2026_cdmx
 TEXT: Pokémon GO Wild Area: Mexico City
 
 RESOURCE ID: gowa_2026_cdmx_extended_bonus
-TEXT: Pokémon GO Wild Area: Mexico City – Extended Bonuses
+TEXT: Pokémon GO Wild Area: Mexico City – Perpanjangan Bonus
 
 RESOURCE ID: gowa_2026_content_hashtag
-TEXT: Post photos with #GOWildArea2026, and we’ll share our favorites!
+TEXT: Posting foto dengan #GOWildArea2026, dan kami akan membagikan foto favorit kami!
 
 RESOURCE ID: gowa_2026_dragon_badge_candy_xl_bonus
-TEXT: One additional Candy XL from catching Dragon-type mighty Pokémon
+TEXT: 1 Permen XL tambahan dari menangkap Pokémon tangguh tipe Naga
 
 RESOURCE ID: gowa_2026_dragon_badge_stardust_bonus
-TEXT: 1,000 additional Stardust from catching Dragon-type mighty Pokémon
+TEXT: 1.000 Debu Bintang tambahan dari menangkap Pokémon tangguh tipe Naga
 
 RESOURCE ID: gowa_2026_fri_ticketed
-TEXT: Pokémon GO Wild Area 2026: All-Day Friday (Ticket)
+TEXT: Pokémon GO Wild Area 2026: Jumat Seharian (Tiket)
 
 RESOURCE ID: gowa_2026_global_extended_bonus
-TEXT: Pokémon GO Wild Area 2026 – Extended Bonuses
+TEXT: Pokémon GO Wild Area 2026 – Perpanjangan Bonus
 
 RESOURCE ID: gowa_2026_global_sr_0_0
 TEXT: Hai, %PLAYERNAME%! Senang sekali bertemu denganmu di sini—ada hal menakjubkan yang sedang terjadi di wilayah ini!
@@ -47927,7 +47948,7 @@ RESOURCE ID: gowa_2026_global_sr_dragon_5_0
 TEXT: Luar biasa sekali usahamu dalam memperluas pengetahuan tentang Pokémon tipe Naga, %PLAYERNAME%!
 
 RESOURCE ID: gowa_2026_global_sr_dragon_5_1
-TEXT: Tapi seperti biasa, ada kejutan terakhir— Dialga Dynamax dan Palkia Dynamax baru saja muncul!
+TEXT: Tapi seperti biasa, ada kejutan terakhir—Dialga Dynamax dan Palkia Dynamax baru saja muncul!
 
 RESOURCE ID: gowa_2026_global_sr_dragon_5_2
 TEXT: Hanya Pelatih dengan kemampuan sepertimu yang mampu menghadapi tantangan ini.
@@ -48020,37 +48041,37 @@ RESOURCE ID: gowa_2026_global_sr_steel_6_4
 TEXT: Dan jangan pernah lupa, aku akan ada di sini untuk terus menyemangatimu sepanjang jalan!
 
 RESOURCE ID: gowa_2026_habitat_cc_description
-TEXT: Catch event Pokémon!
+TEXT: Tangkap Pokémon event!
 
 RESOURCE ID: gowa_2026_habitat_global_cc_saturday
-TEXT: Wild Area Collection Challenge: Saturday
+TEXT: Tantangan Koleksi Wild Area: Sabtu
 
 RESOURCE ID: gowa_2026_habitat_global_cc_sunday
-TEXT: Wild Area Collection Challenge: Sunday
+TEXT: Tantangan Koleksi Wild Area: Minggu
 
 RESOURCE ID: gowa_2026_habitat_now_dragon
-TEXT: Happening now: Daring as Dragons Hour
+TEXT: Berlangsung: Jam Seberani Naga
 
 RESOURCE ID: gowa_2026_habitat_now_steel
-TEXT: Happening now: Solid as Steel Hour
+TEXT: Berlangsung: Jam Sesolid Logam
 
 RESOURCE ID: gowa_2026_irl_cc_cdmx_friday
-TEXT: GO Wild Area: Mexico City Collection Challenge
+TEXT: GO Wild Area: Tantangan Koleksi Mexico City
 
 RESOURCE ID: gowa_2026_irl_cc_cdmx_saturday
-TEXT: GO Wild Area: Mexico City Collection Challenge
+TEXT: GO Wild Area: Tantangan Koleksi Mexico City
 
 RESOURCE ID: gowa_2026_irl_cc_cdmx_sunday
-TEXT: GO Wild Area: Mexico City Collection Challenge
+TEXT: GO Wild Area: Tantangan Koleksi Mexico City
 
 RESOURCE ID: gowa_2026_irl_cc_sendai_friday
-TEXT: GO Wild Area: Sendai・Tohoku Collection Challenge
+TEXT: GO Wild Area: Tantangan Koleksi Sendai・Tohoku
 
 RESOURCE ID: gowa_2026_irl_cc_sendai_saturday
-TEXT: GO Wild Area: Sendai・Tohoku Collection Challenge
+TEXT: GO Wild Area: Tantangan Koleksi Sendai・Tohoku
 
 RESOURCE ID: gowa_2026_irl_cc_sendai_sunday
-TEXT: GO Wild Area: Sendai・Tohoku Collection Challenge
+TEXT: GO Wild Area: Tantangan Koleksi Sendai・Tohoku
 
 RESOURCE ID: gowa_2026_irl_sr_0_0
 TEXT: %PLAYERNAME%! Senang sekali bertemu denganmu, dan waktunya pas sekali. Sesuatu yang luar biasa sedang terjadi!
@@ -48140,28 +48161,28 @@ RESOURCE ID: gowa_2026_irl_sr_5_4
 TEXT: Seru sekali, bukan?! Baiklah, ayo kita lanjutkan, %PLAYERNAME%! Penemuan-penemuan terhebat kita masih menanti di depan sana!
 
 RESOURCE ID: gowa_2026_sat
-TEXT: Pokémon GO Wild Area 2026: Saturday Event Hours
+TEXT: Pokémon GO Wild Area 2026: Jam Event Sabtu
 
 RESOURCE ID: gowa_2026_sat_ticketed
-TEXT: Pokémon GO Wild Area 2026: Saturday Event Hours (Ticket)
+TEXT: Pokémon GO Wild Area 2026: Jam Event Sabtu (Tiket)
 
 RESOURCE ID: gowa_2026_sendai
 TEXT: Pokémon GO Wild Area: Sendai・Tohoku
 
 RESOURCE ID: gowa_2026_sendai_extended_bonus
-TEXT: Pokémon GO Wild Area: Sendai・Tohoku – Extended Bonuses
+TEXT: Pokémon GO Wild Area: Sendai・Tohoku – Perpanjangan Bonus
 
 RESOURCE ID: gowa_2026_steel_badge_candy_xl_bonus
-TEXT: One additional Candy XL from catching Steel-type mighty Pokémon
+TEXT: 1 Permen XL tambahan dari menangkap Pokémon tangguh tipe Logam
 
 RESOURCE ID: gowa_2026_steel_badge_stardust_bonus
-TEXT: 1,000 additional Stardust from catching Steel-type mighty Pokémon
+TEXT: 1.000 Debu Bintang tambahan dari menangkap Pokémon tangguh tipe Logam
 
 RESOURCE ID: gowa_2026_sun
-TEXT: Pokémon GO Wild Area 2026: Sunday Event Hours
+TEXT: Pokémon GO Wild Area 2026: Jam Event Minggu
 
 RESOURCE ID: gowa_2026_sun_ticketed
-TEXT: Pokémon GO Wild Area 2026: Sunday Event Hours (Ticket)
+TEXT: Pokémon GO Wild Area 2026: Jam Event Minggu (Tiket)
 
 RESOURCE ID: gowa2024
 TEXT: Pokémon GO Wild Area 2024
@@ -48173,7 +48194,7 @@ RESOURCE ID: gowa2025_leadup_global_todayview_bonus
 TEXT: Bonus Tambahan Menuju Alam Liar
 
 RESOURCE ID: gowa2026_leadup_collection_challenge
-TEXT: Into the Wild Collection Challenge
+TEXT: Tantangan Koleksi Menuju Alam Liar
 
 RESOURCE ID: gowa_supply_balloon_gsb
 TEXT: Balon Suplai akan muncul setiap jam. Ketuk balon untuk mendapatkan Bola Safari GO!
@@ -54000,7 +54021,7 @@ RESOURCE ID: item_mp_name
 TEXT: Partikel Max
 
 RESOURCE ID: item_mp_name_plural
-TEXT: Max Particles
+TEXT: Partikel Max
 
 RESOURCE ID: item_mp_replenish_desc
 TEXT: Paket kecil Partikel Max. Tiap paket berisi {0} Partikel Max.
@@ -59915,7 +59936,7 @@ RESOURCE ID: meetup_check_in_research_title_gowa2025
 TEXT: Penelitian Berwaktu Check-In Kopdar: GO Wild Area
 
 RESOURCE ID: meetup_check_in_research_title_gowa2026
-TEXT: Meetup Check-In Timed Research: GO Wild Area
+TEXT: Penelitian Berwaktu Check-In Kopdar: GO Wild Area
 
 RESOURCE ID: meetup_check_in_research_title_hatch
 TEXT: Penelitian Berwaktu Check-In Kopdar: Hari Penetasan
@@ -60347,9 +60368,9 @@ TEXT: Saat kamu menangkap Pokémon yang memiliki tipe yang sama dengan Pokémon 
 • Peningkatan peluang untuk menerima Permen XL
 
 RESOURCE ID: mega_level_tutorial_cp_downscaling_1_body
-TEXT: If a Mega Pokémon’s CP exceeds certain Battle Leagues, their levels will be temporarily adjusted to where its CP is within that Battle League’s limits.
+TEXT: Jika CP Pokémon yang telah melakukan Evolusi Mega melampaui batas Battle League tertentu, levelnya akan disesuaikan untuk sementara agar CP-nya berada dalam batasan Battle League tersebut.
 
-Pokémon at Super Max Level will not have the Greatly Increased CP bonus in Master League.
+Pokémon dengan Level Maks. Super tidak akan mendapatkan bonus peningkatan pesat CP di Liga Master. 
 
 RESOURCE ID: mega_level_tutorial_hero_title
 TEXT: Let’s GO Mega!
@@ -60633,10 +60654,10 @@ at SHA 12701f1c07ae7f07a5d50583f697320977df7988
 Pipeline 1139111, job 13470914
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-10-16T22:34:57.171068+00:00 for id-ID
-at SHA d68311f630a
-Pipeline 4029884, job 59396785
-Patch from: 0.431.0-SHA-8123c737-RC1, 0.433.0-SHA-94a605de-RC4, 0.435.0-SHA-5bec7604-RC1
+TEXT: Built at 2026-10-21T01:48:22.252006+00:00 for id-ID
+at SHA eb1e2fc106ad
+Pipeline 4038403, job 59531866
+Patch from: 0.433.1-SHA-0f52e3f0-RC1, 0.435.0-SHA-d5d32cc5-RC2
 
 RESOURCE ID: meteor_title_1
 TEXT: HUJAN METEOR
@@ -62346,7 +62367,7 @@ RESOURCE ID: move_name_0517
 TEXT: <<move_name_0379>>+
 
 RESOURCE ID: move_name_0518
-TEXT: <<move_name_0077>>+
+TEXT: <<move_name_0077>> +
 
 RESOURCE ID: move_name_0519
 TEXT: <<move_name_0267>>+
@@ -83369,7 +83390,7 @@ RESOURCE ID: quest_buddy_affection_days_in_a_row
 TEXT: Musim Pusaka: Tantangan XP (13/15)
 
 RESOURCE ID: quest_buddy_affection_dragon_plural
-TEXT: Earn {0} hearts with a Dragon-type buddy
+TEXT: Dapatkan {0} Hati dengan Pokémon Partner tipe Naga
 
 RESOURCE ID: quest_buddy_affection_electric_plural
 TEXT: Dapatkan {0} Hati dengan Pokémon Partner tipe Listrik
@@ -83387,7 +83408,7 @@ RESOURCE ID: quest_buddy_affection_poison_singular
 TEXT: Dapatkan Hati dengan Pokémon Partner tipe Racun
 
 RESOURCE ID: quest_buddy_affection_steel_plural
-TEXT: Earn {0} hearts with a Steel-type buddy
+TEXT: Dapatkan {0} Hati dengan Pokémon Partner tipe Logam
 
 RESOURCE ID: quest_buddy_affection_zeraora_plural
 TEXT: Dapatkan {0} Hati dengan Zeraora sebagai partnermu
@@ -86783,7 +86804,7 @@ RESOURCE ID: quest_explore_buddy_dark
 TEXT: Dapatkan Permen dengan berjelajah bersama Pokémon tipe Kegelapan sebagai Partnermu
 
 RESOURCE ID: quest_explore_buddy_dragon
-TEXT: Earn a Candy exploring with a Dragon type as your buddy
+TEXT: Dapatkan Permen dengan berjelajah bersama Pokémon tipe Naga sebagai Partnermu
 
 RESOURCE ID: quest_explore_buddy_electric
 TEXT: Dapatkan Permen dengan menjelajah bersama Pokémon tipe Listrik sebagai Partnermu
@@ -86798,7 +86819,7 @@ RESOURCE ID: quest_explore_buddy_poison
 TEXT: Dapatkan Permen dengan menjelajah bersama Pokémon tipe Racun sebagai Partnermu
 
 RESOURCE ID: quest_explore_buddy_steel
-TEXT: Earn a Candy exploring with a Steel type as your buddy
+TEXT: Dapatkan Permen dengan berjelajah bersama Pokémon tipe Logam sebagai Partnermu
 
 RESOURCE ID: quest_explore_buddy_routes_plural
 TEXT: Dapatkan {0} Permen dengan menjelajahi Rute bersama Partnermu
@@ -104005,7 +104026,7 @@ RESOURCE ID: quest_walk_buddy_singular
 TEXT: Dapatkan 1 Permen dengan berjalan bersama partnermu
 
 RESOURCE ID: quest_walk_buddy_dragon_plural
-TEXT: Earn {0} Candies exploring with a Dragon-type Pokémon as your buddy
+TEXT: Dapatkan {0} Permen dengan menjelajah bersama Pokémon tipe Naga sebagai Partnermu
 
 RESOURCE ID: quest_walk_buddy_fairy_plural
 TEXT: Dapatkan {0} Permen dengan menjelajah bersama Pokémon tipe Peri sebagai Partnermu
@@ -104014,7 +104035,7 @@ RESOURCE ID: quest_walk_buddy_fighting_plural
 TEXT: Dapatkan {0} Permen dengan menjelajah bersama Pokémon tipe Petarung sebagai Partnermu
 
 RESOURCE ID: quest_walk_buddy_steel_plural
-TEXT: Earn {0} Candies exploring with a Steel-type Pokémon as your buddy
+TEXT: Dapatkan {0} Permen dengan menjelajah bersama Pokémon tipe Logam sebagai Partnermu
 
 RESOURCE ID: quest_walk_buddy_volcanion_plural
 TEXT: Dapatkan {0} Permen dengan menjelajah bersama Volcanion sebagai Partnermu
@@ -109680,10 +109701,10 @@ RESOURCE ID: rally_gowa_2025_title
 TEXT: Reli Stempel GO Wild Area 2025
 
 RESOURCE ID: rally_gowa_2026_cdmx_title
-TEXT: GO Wild Area: Mexico City Stamp Rally
+TEXT: Reli Stempel GO Wild Area 2026 – Mexico City
 
 RESOURCE ID: rally_gowa_2026_sendai_title
-TEXT: GO Wild Area: Sendai・Tohoku Stamp Rally
+TEXT: Reli Stempel GO Wild Area 2026 – Sendai・Tohoku
 
 RESOURCE ID: rally_gowa_2025_desc
 TEXT: Selamat Datang di GO Wild Area: Nagasaki!
@@ -109698,28 +109719,28 @@ RESOURCE ID: rally_gowa_2025_rewards_desc
 TEXT: Selesaikan reli ini untuk bertemu dengan Bewear bersyal daerah liar eksklusif event dengan Latar Belakang Lokasi Kota Nagasaki!
 
 RESOURCE ID: rally_gowa_2026_cdmx_desc
-TEXT: Welcome to GO Wild Area: Mexico City!
+TEXT: Selamat Datang di GO Wild Area: Mexico City!
 
 RESOURCE ID: rally_gowa_2026_cdmx_desc_detail
-TEXT: Collect stamps by visiting GO Stamp Rally PokéStops in Mexico City during your ticketed event day!
+TEXT: Koleksi stempel dengan mengunjungi PokéStop Reli Stempel GO di Mexico City selama hari event pada tiketmu!
 
 RESOURCE ID: rally_gowa_2026_cdmx_location
 TEXT: Mexico City, Mexico
 
 RESOURCE ID: rally_gowa_2026_cdmx_rewards_desc
-TEXT: Complete this rally to encounter an event-exclusive Machamp wearing a modern jacket with a Mexico City Location Background!
+TEXT: Selesaikan reli ini untuk bertemu dengan Machamp berjaket modern eksklusif event dengan Latar Belakang Lokasi Mexico City!
 
 RESOURCE ID: rally_gowa_2026_sendai_desc
-TEXT: Welcome to GO Wild Area: Sendai・Tohoku!
+TEXT: Selamat Datang di GO Wild Area 2026 – Sendai・Tohoku!
 
 RESOURCE ID: rally_gowa_2026_sendai_desc_detail
-TEXT: Collect stamps by visiting GO Stamp Rally PokéStops in Sendai during your ticketed event day!
+TEXT: Koleksi stempel dengan mengunjungi PokéStop Reli Stempel GO di Sendai selama hari event pada tiketmu!
 
 RESOURCE ID: rally_gowa_2026_sendai_location
-TEXT: Sendai・Tohoku, Japan
+TEXT: Sendai・Tohoku, Jepang
 
 RESOURCE ID: rally_gowa_2026_sendai_rewards_desc
-TEXT: Complete this rally to encounter an event-exclusive Machamp wearing a modern jacket with a Sendai・Tohoku Location Background!
+TEXT: Selesaikan reli ini untuk bertemu dengan Machamp berjaket modern eksklusif event dengan Latar Belakang Lokasi Sendai・Tohoku!
 
 RESOURCE ID: rally_irl_copenhagen_lego_2026_title
 TEXT: GO Fest 2026: Copenhagen – Reli Stempel LEGO
@@ -122504,97 +122525,97 @@ RESOURCE ID: sr_gowa2025_irl_6
 TEXT: GO Wild Area: Nagasaki - Kisah Peri dan Jejak Alam Liar (6/6)
 
 RESOURCE ID: sr_gowa2026_global_title
-TEXT: GO Wild Area 2026: Streets to Skies (1/6)
+TEXT: GO Wild Area 2026: Sudut Kota hingga Langit (1/6)
 
 RESOURCE ID: sr_gowa2026_global_dark_2
-TEXT: GO Wild Area 2026: Path to Mastery – Dragon (2/6)
+TEXT: GO Wild Area 2026: Jalan Menuju Penguasaan - Naga (2/6)
 
 RESOURCE ID: sr_gowa2026_global_dark_3
-TEXT: GO Wild Area 2026: Path to Mastery – Dragon (3/6)
+TEXT: GO Wild Area 2026: Jalan Menuju Penguasaan - Naga (3/6)
 
 RESOURCE ID: sr_gowa2026_global_dark_4
-TEXT: GO Wild Area 2026: Path to Mastery – Dragon (4/6)
+TEXT: GO Wild Area 2026: Jalan Menuju Penguasaan - Naga (4/6)
 
 RESOURCE ID: sr_gowa2026_global_dark_5
-TEXT: GO Wild Area 2026: Path to Mastery – Dragon (5/6)
+TEXT: GO Wild Area 2026: Jalan Menuju Penguasaan - Naga (5/6)
 
 RESOURCE ID: sr_gowa2026_global_dark_6
-TEXT: GO Wild Area 2026: Path to Mastery – Dragon (6/6)
+TEXT: GO Wild Area 2026: Jalan Menuju Penguasaan - Naga (6/6)
 
 RESOURCE ID: sr_gowa2026_global_dragon_title
-TEXT: GO Wild Area 2026: Path to Mastery – Dragon
+TEXT: GO Wild Area 2026: Jalan Menuju Penguasaan - Naga
 
 RESOURCE ID: sr_gowa2026_global_quest_branch_dragon_title
-TEXT: Dragon
+TEXT: Naga
 
 RESOURCE ID: sr_gowa2026_global_quest_branch_dragon_description
-TEXT: Choose this path to become an accomplished Dragon-type Trainer. Tasks will be focused on catching, powering up, and evolving Dragon-type Pokémon. Completing this research awards the Dragon Defender medal!
+TEXT: Pilih jalur ini untuk menjadi Pelatih tipe Naga yang andal. Tugas akan difokuskan pada menangkap, memperkuat, dan mengevolusikan Pokémon tipe Naga. Kamu akan mendapatkan medali Pelindung Naga ketika menyelesaikan penelitian ini!
 
 RESOURCE ID: sr_gowa2026_global_quest_branch_steel_title
-TEXT: Steel
+TEXT: Logam
 
 RESOURCE ID: sr_gowa2026_global_quest_branch_steel_description
-TEXT: Choose this path to become an accomplished Steel-type Trainer. Tasks will be focused on catching, powering up, and evolving Steel-type Pokémon. Completing this research awards the Steel Scholar medal!
+TEXT: Pilih jalur ini untuk menjadi Pelatih tipe Logam yang andal. Tugas akan difokuskan pada menangkap, memperkuat, dan mengevolusikan Pokémon tipe Logam. Kamu akan mendapatkan medali Cendekiawan Logam ketika menyelesaikan penelitian ini!
 
 RESOURCE ID: sr_gowa2026_global_steel_title
-TEXT: GO Wild Area 2026: Path to Mastery – Steel
+TEXT: GO Wild Area 2026: Jalan Menuju Penguasaan - Logam
 
 RESOURCE ID: sr_gowa2026_global_steel_2
-TEXT: GO Wild Area 2026: Path to Mastery – Steel (2/6)
+TEXT: GO Wild Area 2026: Jalan Menuju Penguasaan - Logam (2/6)
 
 RESOURCE ID: sr_gowa2026_global_steel_3
-TEXT: GO Wild Area 2026: Path to Mastery – Steel (3/6)
+TEXT: GO Wild Area 2026: Jalan Menuju Penguasaan - Logam (3/6)
 
 RESOURCE ID: sr_gowa2026_global_steel_4
-TEXT: GO Wild Area 2026: Path to Mastery – Steel (4/6)
+TEXT: GO Wild Area 2026: Jalan Menuju Penguasaan - Logam (4/6)
 
 RESOURCE ID: sr_gowa2026_global_steel_5
-TEXT: GO Wild Area 2026: Path to Mastery – Steel (5/6)
+TEXT: GO Wild Area 2026: Jalan Menuju Penguasaan - Logam (5/6)
 
 RESOURCE ID: sr_gowa2026_global_steel_6
-TEXT: GO Wild Area 2026: Path to Mastery – Steel (6/6)
+TEXT: GO Wild Area 2026: Jalan Menuju Penguasaan - Logam (6/6)
 
 RESOURCE ID: sr_gowa2026_irl_cdmx
-TEXT: GO Wild Area: Mexico City – The Suspense Is Building
+TEXT: GO Wild Area: Mexico City – Ketegangan Memuncak
 
 RESOURCE ID: sr_gowa2026_irl_sendai
-TEXT: GO Wild Area: Sendai・Tohoku – The Suspense Is Building
+TEXT: GO Wild Area: Sendai・Tohoku – Ketegangan Memuncak
 
 RESOURCE ID: sr_gowa2026_irl_cdmx_1
-TEXT: GO Wild Area: Mexico City – The Suspense Is Building (1/6)
+TEXT: GO Wild Area: Mexico City – Ketegangan Memuncak (1/6)
 
 RESOURCE ID: sr_gowa2026_irl_cdmx_2
-TEXT: GO Wild Area: Mexico City – The Suspense Is Building (2/6)
+TEXT: GO Wild Area: Mexico City – Ketegangan Memuncak (2/6)
 
 RESOURCE ID: sr_gowa2026_irl_cdmx_3
-TEXT: GO Wild Area: Mexico City – The Suspense Is Building (3/6)
+TEXT: GO Wild Area: Mexico City – Ketegangan Memuncak (3/6)
 
 RESOURCE ID: sr_gowa2026_irl_cdmx_4
-TEXT: GO Wild Area: Mexico City – The Suspense Is Building (4/6)
+TEXT: GO Wild Area: Mexico City – Ketegangan Memuncak (4/6)
 
 RESOURCE ID: sr_gowa2026_irl_cdmx_5
-TEXT: GO Wild Area: Mexico City – The Suspense Is Building (5/6)
+TEXT: GO Wild Area: Mexico City – Ketegangan Memuncak (5/6)
 
 RESOURCE ID: sr_gowa2026_irl_cdmx_6
-TEXT: GO Wild Area: Mexico City – The Suspense Is Building (6/6)
+TEXT: GO Wild Area: Mexico City – Ketegangan Memuncak (6/6)
 
 RESOURCE ID: sr_gowa2026_irl_sendai_1
-TEXT: GO Wild Area: Sendai・Tohoku – The Suspense Is Building (1/6)
+TEXT: GO Wild Area: Sendai・Tohoku – Ketegangan Memuncak (1/6)
 
 RESOURCE ID: sr_gowa2026_irl_sendai_2
-TEXT: GO Wild Area: Sendai・Tohoku – The Suspense Is Building (2/6)
+TEXT: GO Wild Area: Sendai・Tohoku – Ketegangan Memuncak (2/6)
 
 RESOURCE ID: sr_gowa2026_irl_sendai_3
-TEXT: GO Wild Area: Sendai・Tohoku – The Suspense Is Building (3/6)
+TEXT: GO Wild Area: Sendai・Tohoku – Ketegangan Memuncak (3/6)
 
 RESOURCE ID: sr_gowa2026_irl_sendai_4
-TEXT: GO Wild Area: Sendai・Tohoku – The Suspense Is Building (4/6)
+TEXT: GO Wild Area: Sendai・Tohoku – Ketegangan Memuncak (4/6)
 
 RESOURCE ID: sr_gowa2026_irl_sendai_5
-TEXT: GO Wild Area: Sendai・Tohoku – The Suspense Is Building (5/6)
+TEXT: GO Wild Area: Sendai・Tohoku – Ketegangan Memuncak (5/6)
 
 RESOURCE ID: sr_gowa2026_irl_sendai_6
-TEXT: GO Wild Area: Sendai・Tohoku – The Suspense Is Building (6/6)
+TEXT: GO Wild Area: Sendai・Tohoku – Ketegangan Memuncak (6/6)
 
 RESOURCE ID: sr_safari_city_boston_2026_makegood_sat_header
 TEXT: City Safari: Boston 2026 (Hari ke-1)
@@ -122912,10 +122933,10 @@ RESOURCE ID: steel_and_scales_event_name
 TEXT: Buka Ultra: Baja dan Sisik
 
 RESOURCE ID: steel_poi_spin_plural
-TEXT: Spin {0} Steel type–themed PokéStops
+TEXT: Putar {0} PokéStop bertema tipe Logam
 
 RESOURCE ID: steel_poi_spin_singular
-TEXT: Spin a Steel type–themed PokéStop
+TEXT: Putar PokéStop bertema tipe Logam
 
 RESOURCE ID: steel_scales_uu_july2025_cc_bagon
 TEXT: Tantangan Koleksi Baja dan Sisik: Bagon
@@ -130385,10 +130406,10 @@ RESOURCE ID: tr_gowa2025_poi_fairy
 TEXT: Pengejaran Liar - Peri
 
 RESOURCE ID: tr_gowa2026_poi_dragon
-TEXT: A Wild Pursuit – Dragon
+TEXT: Pengejaran Liar - Naga
 
 RESOURCE ID: tr_gowa2026_poi_steel
-TEXT: A Wild Pursuit – Steel
+TEXT: Pengejaran Liar - Logam
 
 RESOURCE ID: tr_hut_hut_title
 TEXT: Bonus Penelitian Berwaktu Hut, Hut, Hike!

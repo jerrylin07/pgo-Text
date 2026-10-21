@@ -2683,6 +2683,9 @@ TEXT: Alas de Kyurem Negro
 RESOURCE ID: avatar_backpack_eggincubator
 TEXT: Mochila Incubadora
 
+RESOURCE ID: avatar_backpack_gmaxduraludon
+TEXT: Mochila de Duraludon Gigamax
+
 RESOURCE ID: avatar_backpack_goruckgengar
 TEXT: Mochila GORUCK de Gengar
 
@@ -5250,6 +5253,9 @@ TEXT: Diadema de Applin
 
 RESOURCE ID: avatar_hat_captainpikachu
 TEXT: Gorra de Capitán Pikachu
+
+RESOURCE ID: avatar_hat_duraludon
+TEXT: Casco de Duraludon
 
 RESOURCE ID: avatar_hat_eternatus
 TEXT: Casco de Eternatus
@@ -7921,6 +7927,9 @@ TEXT: Tenis rojos de Ciudad Luminalia
 RESOURCE ID: avatar_pants_bwpants
 TEXT: Pantalones deportivos (Black/White)
 
+RESOURCE ID: avatar_pants_duraludon
+TEXT: Pantalones de Duraludon
+
 RESOURCE ID: avatar_pants_eternatus
 TEXT: Pantalones de Eternatus
 
@@ -7992,6 +8001,9 @@ TEXT: Pose de Grimsley
 
 RESOURCE ID: avatar_pose_gofest2025
 TEXT: Pose del Festival de GO 2025
+
+RESOURCE ID: avatar_pose_gowa2026
+TEXT: Pose del Área Silvestre de GO 2026
 
 RESOURCE ID: avatar_pose_grusha
 TEXT: Pose de Grusha
@@ -8115,6 +8127,15 @@ TEXT: Camiseta del Tour de GO 2025
 
 RESOURCE ID: avatar_shirt_gotour2025white
 TEXT: Camiseta del Tour de GO 2025 (White)
+
+RESOURCE ID: avatar_shirt_gowa2026-maroon
+TEXT: Camiseta morada del Área Silvestre de GO 2026
+
+RESOURCE ID: avatar_shirt_gowa2026-navy
+TEXT: Camiseta azul marino del Área Silvestre de GO 2026
+
+RESOURCE ID: avatar_shirt_gowamachamp
+TEXT: Chamarra de tipo Pelea
 
 RESOURCE ID: avatar_shirt_gowatshirt2024
 TEXT: Camiseta del Área Silvestre de GO 2024
@@ -48363,7 +48384,7 @@ RESOURCE ID: gowa2025_leadup_global_todayview_bonus
 TEXT: Bonificaciones adicionales de Una expedición silvestre
 
 RESOURCE ID: gowa2026_leadup_collection_challenge
-TEXT: Into the Wild Collection Challenge
+TEXT: Desafío de Colección de Una expedición silvestre
 
 RESOURCE ID: gowa_supply_balloon_gsb
 TEXT: Aparecerá un globo con provisiones cada hora. ¡Tócalo para obtener Safaribolas GO!
@@ -51723,7 +51744,7 @@ RESOURCE ID: item_bag_category_gifts
 TEXT: Regalos
 
 RESOURCE ID: item_bag_category_incubators
-TEXT: Incubators
+TEXT: Incubadoras
 
 RESOURCE ID: item_bag_category_lures
 TEXT: Señuelos
@@ -51744,7 +51765,7 @@ RESOURCE ID: item_bag_category_tm
 TEXT: MT
 
 RESOURCE ID: item_bag_category_berries_and_poffins
-TEXT: Berries and Poffins
+TEXT: Bayas y Pokochos
 
 RESOURCE ID: item_bag_category_key_items
 TEXT: Objetos clave
@@ -54155,7 +54176,7 @@ RESOURCE ID: item_mp_name
 TEXT: Partícula Max
 
 RESOURCE ID: item_mp_name_plural
-TEXT: Max Particles
+TEXT: Partículas Max
 
 RESOURCE ID: item_mp_replenish_desc
 TEXT: Una pequeña Caja de Partículas Max. Cada una contiene {0} Partículas Max.
@@ -54717,7 +54738,7 @@ RESOURCE ID: journal_declined_ex_raid_ticket_from_friend
 TEXT: Rechazaste una invitación de {0}.
 
 RESOURCE ID: journal_player_fled
-TEXT: Fled from a raid encounter with {0}.
+TEXT: Huiste de una incursión con {0}.
 
 RESOURCE ID: journal_received_fitness_rewards
 TEXT: Recibiste {0} objetos de recompensas semanales de Sincroaventura.
@@ -60510,9 +60531,9 @@ TEXT: Cuando atrapes un Pokémon del mismo tipo que tu Pokémon megaevolucionado
 • Una mayor probabilidad de obtener Caramelos XL
 
 RESOURCE ID: mega_level_tutorial_cp_downscaling_1_body
-TEXT: If a Mega Pokémon’s CP exceeds certain Battle Leagues, their levels will be temporarily adjusted to where its CP is within that Battle League’s limits.
+TEXT: If a Mega-Evolved Pokémon’s CP exceeds certain Battle Leagues, their levels will be temporarily adjusted to where their CP is within that Battle League’s limits.
 
-Pokémon at Super Max Level will not have the Greatly Increased CP bonus in Master League.
+Pokémon at Super Max Level will not have the greatly enhanced CP bonus in Master League.
 
 RESOURCE ID: mega_level_tutorial_hero_title
 TEXT: ¡Listos con la megaevolución!
@@ -60796,10 +60817,10 @@ at SHA 0b3915937aff7
 Pipeline 2177475, job 26434025
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-10-16T22:34:57.171068+00:00 for es-MX
-at SHA d68311f630a
-Pipeline 4029884, job 59396785
-Patch from: 0.431.0-SHA-8123c737-RC1, 0.433.0-SHA-94a605de-RC4, 0.435.0-SHA-5bec7604-RC1
+TEXT: Built at 2026-10-21T01:48:22.252006+00:00 for es-MX
+at SHA eb1e2fc106ad
+Pipeline 4038403, job 59531866
+Patch from: 0.433.1-SHA-0f52e3f0-RC1, 0.435.0-SHA-d5d32cc5-RC2
 
 RESOURCE ID: meteor_title_1
 TEXT: LLUVIA DE METEOROS
@@ -65990,13 +66011,13 @@ RESOURCE ID: nearby_active_reminder_header
 TEXT: PLANES ACTIVOS
 
 RESOURCE ID: nearby_incomplete_raid_header
-TEXT: IN PROGRESS
+TEXT: EN CURSO
 
 RESOURCE ID: nearby_incomplete_raid_widget_title
-TEXT: Rejoin the {0} raid
+TEXT: Volver a unirse a la incursión de {0}
 
 RESOURCE ID: nearby_incomplete_raid_widget_header
-TEXT: REJOIN
+TEXT: RECONECTAR
 
 RESOURCE ID: nearby_pokemon_clear_button
 TEXT: Borrar
@@ -104046,7 +104067,7 @@ RESOURCE ID: quest_walk_buddy_singular
 TEXT: Consigue 1 Caramelo caminando con tu compañero
 
 RESOURCE ID: quest_walk_buddy_dragon_plural
-TEXT: Earn {0} Candies exploring with a Dragon-type Pokémon as your buddy
+TEXT: Obtén {0} Caramelos explorando con un Pokémon de tipo Dragón como tu compañero
 
 RESOURCE ID: quest_walk_buddy_fairy_plural
 TEXT: Obtén {0} Caramelos explorando con un Pokémon de tipo Hada como tu compañero
@@ -104055,7 +104076,7 @@ RESOURCE ID: quest_walk_buddy_fighting_plural
 TEXT: Obtén {0} Caramelos explorando con un Pokémon de tipo Pelea como tu compañero
 
 RESOURCE ID: quest_walk_buddy_steel_plural
-TEXT: Earn {0} Candies exploring with a Steel-type Pokémon as your buddy
+TEXT: Obtén {0} Caramelos explorando con un Pokémon de tipo Acero como tu compañero
 
 RESOURCE ID: quest_walk_buddy_volcanion_plural
 TEXT: Obtén {0} Caramelos explorando con Volcanion como tu compañero
@@ -109720,10 +109741,10 @@ RESOURCE ID: rally_gowa_2025_title
 TEXT: Búsqueda de sellos del Área Silvestre de GO 2025
 
 RESOURCE ID: rally_gowa_2026_cdmx_title
-TEXT: GO Wild Area: Mexico City Stamp Rally
+TEXT: Área Silvestre de GO: Búsqueda de sellos de Ciudad de México
 
 RESOURCE ID: rally_gowa_2026_sendai_title
-TEXT: GO Wild Area: Sendai・Tohoku Stamp Rally
+TEXT: Área Silvestre de GO: Búsqueda de sellos de Sendai • Tohoku
 
 RESOURCE ID: rally_gowa_2025_desc
 TEXT: ¡Te damos la bienvenida al Área Silvestre de GO: Nagasaki!
@@ -109738,28 +109759,28 @@ RESOURCE ID: rally_gowa_2025_rewards_desc
 TEXT: ¡Completa esta búsqueda para encontrarte con un Bewear con capa silvestre exclusivo del evento que tiene un fondo de la ubicación de Nagasaki!
 
 RESOURCE ID: rally_gowa_2026_cdmx_desc
-TEXT: Welcome to GO Wild Area: Mexico City!
+TEXT: ¡Te damos la bienvenida al Área Silvestre de GO: Ciudad de México!
 
 RESOURCE ID: rally_gowa_2026_cdmx_desc_detail
-TEXT: Collect stamps by visiting GO Stamp Rally PokéStops in Mexico City during your ticketed event day!
+TEXT: ¡Colecciona sellos visitando Poképaradas de la Búsqueda de sellos GO de Ciudad de México durante el día del evento con entrada!
 
 RESOURCE ID: rally_gowa_2026_cdmx_location
-TEXT: Mexico City, Mexico
+TEXT: Ciudad de México, México
 
 RESOURCE ID: rally_gowa_2026_cdmx_rewards_desc
-TEXT: Complete this rally to encounter an event-exclusive Machamp wearing a modern jacket with a Mexico City Location Background!
+TEXT: ¡Completa esta búsqueda para encontrarte con un Machamp con chamarra moderna exclusivo del evento que tiene un fondo de la ubicación de Ciudad de México!
 
 RESOURCE ID: rally_gowa_2026_sendai_desc
-TEXT: Welcome to GO Wild Area: Sendai・Tohoku!
+TEXT: ¡Te damos la bienvenida al Área Silvestre de GO: Sendai • Tohoku!
 
 RESOURCE ID: rally_gowa_2026_sendai_desc_detail
-TEXT: Collect stamps by visiting GO Stamp Rally PokéStops in Sendai during your ticketed event day!
+TEXT: ¡Colecciona sellos visitando Poképaradas de la Búsqueda de sellos GO de Sendai durante el día del evento con entrada!
 
 RESOURCE ID: rally_gowa_2026_sendai_location
-TEXT: Sendai・Tohoku, Japan
+TEXT: Sendai • Tohoku, Japón
 
 RESOURCE ID: rally_gowa_2026_sendai_rewards_desc
-TEXT: Complete this rally to encounter an event-exclusive Machamp wearing a modern jacket with a Sendai・Tohoku Location Background!
+TEXT: ¡Completa esta búsqueda para encontrarte con un Machamp con chamarra moderna exclusivo del evento que tiene un fondo de la ubicación de Sendai • Tohoku!
 
 RESOURCE ID: rally_irl_copenhagen_lego_2026_title
 TEXT: Búsqueda de sellos de LEGO del Festival de GO 2026: Copenhague
@@ -110152,7 +110173,7 @@ RESOURCE ID: recycle_dialog_prefix
 TEXT: ¿Tirar
 
 RESOURCE ID: recycle_dialog_quantity
-TEXT: QUANTITY: {0}
+TEXT: CANTIDAD: {0}
 
 RESOURCE ID: recycle_dialog_suffix
 TEXT: {0}?
@@ -117632,7 +117653,7 @@ TEXT: ¡Tus {0} se ampliaron al máximo! Consigue más almacenamiento subiendo d
 <a href="https://scopelyexplore.helpshift.com/hc/faq/1235-available-items-your-bag/">Obtén más información sobre cómo subir de nivel aquí.</a>
 
 RESOURCE ID: shop_gift_confirm_purchase_warning_description
-TEXT: Puedes enviar un total de <b>{0}</b> regalos de pago hoy. Este regalo no lo puede utilizar otro jugador ni se puede reembolsar.
+TEXT: Puedes enviar un total de 20 regalos de pago al día. Este regalo no lo puede utilizar otro jugador ni se puede reembolsar.
 
 RESOURCE ID: shop_gift_friend_ineligible_title
 TEXT: No se puede enviar el regalo
@@ -127384,10 +127405,10 @@ RESOURCE ID: tips_tasks_trade_body
 TEXT: Debes estar cerca de una amistad para poder hacer intercambios. Después, ve a su perfil de Entrenador en tu lista de amistades y toca Intercambiar.
 
 RESOURCE ID: tips_tasks_weather_boost_title
-TEXT: Weather Boosts
+TEXT: Potencias atmosféricas
 
 RESOURCE ID: tips_tasks_weather_boost_body
-TEXT: Certain Pokémon appear more frequently when the weather matches their type. These Pokémon have higher CP, are stronger in battle, and award extra Stardust when they’re caught.
+TEXT: Algunos Pokémon aparecen con más frecuencia cuando las condiciones climáticas favorecen a su tipo. Estos Pokémon tienen más PC, son más fuertes en combate y otorgan Polvo Estrella adicional al atraparlos.
 
 RESOURCE ID: tips_trading_intro_conversation_1
 TEXT: ¡Hola, %PLAYERNAME%! ¿Sabías que puedes intercambiar Pokémon con otros Entrenadores?

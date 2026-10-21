@@ -2692,6 +2692,9 @@ TEXT: Schwarzes-Kyurem-Flügel
 RESOURCE ID: avatar_backpack_eggincubator
 TEXT: Brutmaschinen-Rucksack
 
+RESOURCE ID: avatar_backpack_gmaxduraludon
+TEXT: Gigadynamax-Duraludon-Rucksack
+
 RESOURCE ID: avatar_backpack_goruckgengar
 TEXT: GORUCK Gengar-Rucksack
 
@@ -5373,6 +5376,9 @@ TEXT: Knapfel-Haarreif
 
 RESOURCE ID: avatar_hat_captainpikachu
 TEXT: Flugkapitän-Pikachu-Hut
+
+RESOURCE ID: avatar_hat_duraludon
+TEXT: Duraludon-Helm
 
 RESOURCE ID: avatar_hat_eternatus
 TEXT: Endynalos-Helm
@@ -8145,6 +8151,9 @@ TEXT: Illumina City-Schuhe (rot)
 RESOURCE ID: avatar_pants_bwpants
 TEXT: Jogger (Schwarz & Weiß)
 
+RESOURCE ID: avatar_pants_duraludon
+TEXT: Duraludon-Hose
+
 RESOURCE ID: avatar_pants_eternatus
 TEXT: Endynalos-Hose
 
@@ -8217,6 +8226,9 @@ TEXT: Astor-Pose
 
 RESOURCE ID: avatar_pose_gofest2025
 TEXT: Pose zum GO Fest 2025
+
+RESOURCE ID: avatar_pose_gowa2026
+TEXT: Pose zur GO-Naturzone 2026
 
 RESOURCE ID: avatar_pose_grusha
 TEXT: Grusha-Pose
@@ -8341,6 +8353,15 @@ TEXT: T-Shirt zur GO Tour 2025
 
 RESOURCE ID: avatar_shirt_gotour2025white
 TEXT: T-Shirt zur GO Tour 2025 (Weiß)
+
+RESOURCE ID: avatar_shirt_gowa2026-maroon
+TEXT: T-Shirt zur GO-Naturzone 2026 (lila)
+
+RESOURCE ID: avatar_shirt_gowa2026-navy
+TEXT: T-Shirt zur GO-Naturzone 2026 (marineblau)
+
+RESOURCE ID: avatar_shirt_gowamachamp
+TEXT: Kampf-Typ-Jacke
 
 RESOURCE ID: avatar_shirt_gowatshirt2024
 TEXT: T-Shirt zur GO-Naturzone 2024
@@ -54454,7 +54475,7 @@ RESOURCE ID: item_bag_category_gifts
 TEXT: Geschenke
 
 RESOURCE ID: item_bag_category_incubators
-TEXT: Incubators
+TEXT: Brutmaschinen
 
 RESOURCE ID: item_bag_category_lures
 TEXT: Lures
@@ -54475,7 +54496,7 @@ RESOURCE ID: item_bag_category_tm
 TEXT: TMs
 
 RESOURCE ID: item_bag_category_berries_and_poffins
-TEXT: Berries and Poffins
+TEXT: Beeren und Knurspe
 
 RESOURCE ID: item_bag_category_key_items
 TEXT: Key Items
@@ -57493,7 +57514,7 @@ RESOURCE ID: journal_declined_ex_raid_ticket_from_friend
 TEXT: Du hast eine Einladung von {0} abgelehnt.
 
 RESOURCE ID: journal_player_fled
-TEXT: Fled from a raid encounter with {0}.
+TEXT: Geflohen von einer Raid-Begegnung mit {0}.
 
 RESOURCE ID: journal_received_fitness_rewards
 TEXT: Received {0} items from Weekly Adventure Sync Rewards.
@@ -63310,9 +63331,9 @@ TEXT: Wenn du ein Pokémon fängst, das mit dem Typ deines Mega-Entwicklungs-Pok
 • Erhöhte Chance Bonbons XL zu erhalten
 
 RESOURCE ID: mega_level_tutorial_cp_downscaling_1_body
-TEXT: If a Mega Pokémon’s CP exceeds certain Battle Leagues, their levels will be temporarily adjusted to where its CP is within that Battle League’s limits.
+TEXT: Wenn die WP eines Mega-Entwicklungs-Pokémon das Limit bestimmter Kampfligen überschreiten, werden ihre Level vorübergehend angepasst, sodass ihre WP innerhalb des Limits jener Kampfliga liegen.
 
-Pokémon at Super Max Level will not have the Greatly Increased CP bonus in Master League.
+Pokémon mit Super-Max-Level werden den stark erhöhten WP-Bonus nicht in der Meisterliga haben.
 
 RESOURCE ID: mega_level_tutorial_hero_title
 TEXT: Los geht‘s, Mega!
@@ -63596,10 +63617,10 @@ at SHA 4d4f3e80cc7fb911006bd14d198c9831ef66d005
 Pipeline 339838, job 2672172
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-10-16T22:34:57.171068+00:00 for de-DE
-at SHA d68311f630a
-Pipeline 4029884, job 59396785
-Patch from: 0.431.0-SHA-8123c737-RC1, 0.433.0-SHA-94a605de-RC4, 0.435.0-SHA-5bec7604-RC1
+TEXT: Built at 2026-10-21T01:48:22.252006+00:00 for de-DE
+at SHA eb1e2fc106ad
+Pipeline 4038403, job 59531866
+Patch from: 0.433.1-SHA-0f52e3f0-RC1, 0.435.0-SHA-d5d32cc5-RC2
 
 RESOURCE ID: meteor_title_1
 TEXT: METEORSCHAUER
@@ -68787,13 +68808,13 @@ RESOURCE ID: nearby_active_reminder_header
 TEXT: AKTIVES RSVP
 
 RESOURCE ID: nearby_incomplete_raid_header
-TEXT: IN PROGRESS
+TEXT: LÄUFT
 
 RESOURCE ID: nearby_incomplete_raid_widget_title
-TEXT: Rejoin the {0} raid
+TEXT: Dem {0}-Raid erneut beitreten
 
 RESOURCE ID: nearby_incomplete_raid_widget_header
-TEXT: REJOIN
+TEXT: ERNEUT BEITRETEN
 
 RESOURCE ID: nearby_pokemon_clear_button
 TEXT: Entfernen
@@ -69450,7 +69471,7 @@ RESOURCE ID: old_friends_description
 TEXT: Befristete Forschung: Alte Freunde, neue Anfänge
 
 RESOURCE ID: ominous_wind_base_increased_level_bonus
-TEXT: Der Level von Mega-Skelabra wird vom 2. November um 21:00 Uhr bis zum 15. November 2026 um 21:00 Uhr (MEZ) erhöht.
+TEXT: Mega-Skelabra mit Super-Max-Level haben vom 2. November um 21:00 Uhr bis zum 15. November 2026 um 21:00 Uhr (MEZ) erhöhte WP.
 
 RESOURCE ID: ominous_wind_base_power_boost_bonus
 TEXT: Die Stärke von Unheilböen+ wird vom 2. November um 21:00 Uhr bis zum 15. November 2026 um 21:00 Uhr (MEZ) erhöht.
@@ -113231,7 +113252,7 @@ RESOURCE ID: recycle_dialog_prefix
 TEXT: {0}
 
 RESOURCE ID: recycle_dialog_quantity
-TEXT: QUANTITY: {0}
+TEXT: ANZAHL: {0}
 
 RESOURCE ID: recycle_dialog_suffix
 TEXT: wegwerfen?
@@ -130968,10 +130989,10 @@ RESOURCE ID: tips_tasks_trade_body
 TEXT: Du musst in der Nähe eines Freundes sein, um mit ihm zu tauschen. Gehe dann zu seinem Trainerprofil in deiner Freundesliste und tippe auf TAUSCHEN.
 
 RESOURCE ID: tips_tasks_weather_boost_title
-TEXT: Weather Boosts
+TEXT: Wetter-Boosts
 
 RESOURCE ID: tips_tasks_weather_boost_body
-TEXT: Certain Pokémon appear more frequently when the weather matches their type. These Pokémon have higher CP, are stronger in battle, and award extra Stardust when they’re caught.
+TEXT: Bestimmte Pokémon erscheinen häufiger, wenn das Wetter ihrem Typ entspricht. Diese Pokémon haben höhere WP, sind im Kampf stärker und bringen beim Fangen mehr Sternenstaub ein.
 
 RESOURCE ID: tips_trading_intro_conversation_1
 TEXT: Hallo, %PLAYERNAME%! Wusstest du, dass du Pokémon mit anderen Trainern tauschen kannst?

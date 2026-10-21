@@ -2683,6 +2683,9 @@ TEXT: Крылья Чёрный Курем
 RESOURCE ID: avatar_backpack_eggincubator
 TEXT: Рюкзак-Инкубатор для яиц
 
+RESOURCE ID: avatar_backpack_gmaxduraludon
+TEXT: Рюкзак Гигантамакс-Дюралюдон
+
 RESOURCE ID: avatar_backpack_goruckgengar
 TEXT: Рюкзак GORUCK Генгар
 
@@ -5128,6 +5131,9 @@ TEXT: Ободок Апплин
 
 RESOURCE ID: avatar_hat_captainpikachu
 TEXT: Фуражка Капитан Пикачу
+
+RESOURCE ID: avatar_hat_duraludon
+TEXT: Шлем Дюралюдон
 
 RESOURCE ID: avatar_hat_eternatus
 TEXT: Шлем Этернатус
@@ -7673,6 +7679,9 @@ TEXT: Обувь Люмиос-Сити (Красная)
 RESOURCE ID: avatar_pants_bwpants
 TEXT: Чёрно-белые штаны
 
+RESOURCE ID: avatar_pants_duraludon
+TEXT: Штаны Дюралюдон
+
 RESOURCE ID: avatar_pants_eternatus
 TEXT: Штаны Этернатус
 
@@ -7744,6 +7753,9 @@ TEXT: Поза Гримслея
 
 RESOURCE ID: avatar_pose_gofest2025
 TEXT: Поза Фестиваль GO 2025
+
+RESOURCE ID: avatar_pose_gowa2026
+TEXT: Поза Нетронутые Земли GO 2026
 
 RESOURCE ID: avatar_pose_grusha
 TEXT: Поза Груши
@@ -7867,6 +7879,15 @@ TEXT: Футболка Тур GO 2025
 
 RESOURCE ID: avatar_shirt_gotour2025white
 TEXT: Футболка Тур GO 2025 (белая)
+
+RESOURCE ID: avatar_shirt_gowa2026-maroon
+TEXT: Футболка Нетронутые Земли GO 2026 (Фиолетовая)
+
+RESOURCE ID: avatar_shirt_gowa2026-navy
+TEXT: Футболка Нетронутые Земли GO 2026 (Тёмно-Синяя)
+
+RESOURCE ID: avatar_shirt_gowamachamp
+TEXT: Куртка Тип Боевой
 
 RESOURCE ID: avatar_shirt_gowatshirt2024
 TEXT: Футболка Нетронутые земли GO 2024
@@ -53957,7 +53978,7 @@ RESOURCE ID: item_bag_category_gifts
 TEXT: Подарки
 
 RESOURCE ID: item_bag_category_incubators
-TEXT: Incubators
+TEXT: Инкубаторы
 
 RESOURCE ID: item_bag_category_lures
 TEXT: Lures
@@ -53978,7 +53999,7 @@ RESOURCE ID: item_bag_category_tm
 TEXT: TMs
 
 RESOURCE ID: item_bag_category_berries_and_poffins
-TEXT: Berries and Poffins
+TEXT: Ягоды и Поффины
 
 RESOURCE ID: item_bag_category_key_items
 TEXT: Key Items
@@ -56996,7 +57017,7 @@ RESOURCE ID: journal_declined_ex_raid_ticket_from_friend
 TEXT: You declined an invitation from {0}.
 
 RESOURCE ID: journal_player_fled
-TEXT: Fled from a raid encounter with {0}.
+TEXT: Покинутрейд с {0}.
 
 RESOURCE ID: journal_received_fitness_rewards
 TEXT: Предметы, полученные в качестве еженедельной награды Синхронизации приключений: {0}.
@@ -62809,9 +62830,9 @@ TEXT: Если ты поймаешь Покемона того же типа, ч
 • Больше шансов получить Конфеты XL
 
 RESOURCE ID: mega_level_tutorial_cp_downscaling_1_body
-TEXT: If a Mega Pokémon’s CP exceeds certain Battle Leagues, their levels will be temporarily adjusted to where its CP is within that Battle League’s limits.
+TEXT: If a Mega-Evolved Pokémon’s CP exceeds certain Battle Leagues, their levels will be temporarily adjusted to where their CP is within that Battle League’s limits.
 
-Pokémon at Super Max Level will not have the Greatly Increased CP bonus in Master League.
+Pokémon at Super Max Level will not have the greatly enhanced CP bonus in Master League.
 
 RESOURCE ID: mega_level_tutorial_hero_title
 TEXT: Вперёд, к мегаэволюции!
@@ -63095,10 +63116,10 @@ at SHA bacc02371739993984570a6f5b31a993cf3b031b
 Pipeline 498004, job 4265729
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-10-16T22:34:57.171068+00:00 for ru-RU
-at SHA d68311f630a
-Pipeline 4029884, job 59396785
-Patch from: 0.431.0-SHA-8123c737-RC1, 0.433.0-SHA-94a605de-RC4, 0.435.0-SHA-5bec7604-RC1
+TEXT: Built at 2026-10-21T01:48:22.252006+00:00 for ru-RU
+at SHA eb1e2fc106ad
+Pipeline 4038403, job 59531866
+Patch from: 0.433.1-SHA-0f52e3f0-RC1, 0.435.0-SHA-d5d32cc5-RC2
 
 RESOURCE ID: meteor_title_1
 TEXT: МЕТЕОРИТНЫЙ ПОТОК
@@ -68289,13 +68310,13 @@ RESOURCE ID: nearby_active_reminder_header
 TEXT: АКТИВНЫЕ ЗАПИСИ
 
 RESOURCE ID: nearby_incomplete_raid_header
-TEXT: IN PROGRESS
+TEXT: В ПРОЦЕССЕ
 
 RESOURCE ID: nearby_incomplete_raid_widget_title
-TEXT: Rejoin the {0} raid
+TEXT: Вернуться в рейд {0}
 
 RESOURCE ID: nearby_incomplete_raid_widget_header
-TEXT: REJOIN
+TEXT: ВЕРНУТЬСЯ
 
 RESOURCE ID: nearby_pokemon_clear_button
 TEXT: Удалить
@@ -112298,7 +112319,7 @@ RESOURCE ID: rally_gowa_2026_sendai_desc
 TEXT: Добро пожаловать в Нетронутые Земли GO: Сендай・Тохоку!
 
 RESOURCE ID: rally_gowa_2026_sendai_desc_detail
-TEXT: Собирай печати, посещая Покестопы Марафона Печатей GO в городе Сендай по билетам в день события!
+TEXT: Собирай печати, посещая Покестопы Марафона Печатей GO в Сендае по билетам в день события!
 
 RESOURCE ID: rally_gowa_2026_sendai_location
 TEXT: Сендай・Тохоку, Япония
@@ -112697,7 +112718,7 @@ RESOURCE ID: recycle_dialog_prefix
 TEXT: Удалить:
 
 RESOURCE ID: recycle_dialog_quantity
-TEXT: QUANTITY: {0}
+TEXT: КОЛИЧЕСТВО: {0}
 
 RESOURCE ID: recycle_dialog_suffix
 TEXT: {0}?
@@ -120656,7 +120677,7 @@ TEXT: {0}: улучшение произведено! Получай больш�
 <a href="https://scopelyexplore.helpshift.com/hc/faq/1235-available-items-your-bag/">Узнай больше о повышении уровня здесь.</a>
 
 RESOURCE ID: shop_gift_confirm_purchase_warning_description
-TEXT: Сегодня ты можешь отправить платные подарки в количестве <b>{0}</b>. Этот подарок не может быть использован другим игроком или возвращён.
+TEXT: Ты можешь отправлять в общей сложности 20 платных подарков в день. Этот подарок не может быть использован другим игроком или возвращён.
 
 RESOURCE ID: shop_gift_friend_ineligible_title
 TEXT: Не удалось отправить подарок
@@ -130435,10 +130456,10 @@ RESOURCE ID: tips_tasks_trade_body
 TEXT: Чтобы обмениваться с друзьями, вам нужно находиться рядом. Зайди в свой список друзей, выбери профиль Тренера и нажми ОБМЕН.
 
 RESOURCE ID: tips_tasks_weather_boost_title
-TEXT: Weather Boosts
+TEXT: Погодные Усиления
 
 RESOURCE ID: tips_tasks_weather_boost_body
-TEXT: Certain Pokémon appear more frequently when the weather matches their type. These Pokémon have higher CP, are stronger in battle, and award extra Stardust when they’re caught.
+TEXT: Некоторые Покемоны появляются чаще, если погода соответствует их типу. У этих Покемонов выше БС, они сильнее в битве и дают больше Звёздной Пыли при поимке.
 
 RESOURCE ID: tips_trading_intro_conversation_1
 TEXT: Привет, %PLAYERNAME%! Знаешь ли ты, что ты можешь обмениваться Покемонами с другими Тренерами?

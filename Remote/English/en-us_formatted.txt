@@ -2684,6 +2684,9 @@ TEXT: Black Kyurem Wings
 RESOURCE ID: avatar_backpack_eggincubator
 TEXT: Egg Incubator Backpack
 
+RESOURCE ID: avatar_backpack_gmaxduraludon
+TEXT: Gigantamax Duraludon Backpack
+
 RESOURCE ID: avatar_backpack_goruckgengar
 TEXT: GORUCK Gengar Backpack
 
@@ -5097,6 +5100,9 @@ TEXT: Applin Headband
 
 RESOURCE ID: avatar_hat_captainpikachu
 TEXT: Captain Pikachu Hat
+
+RESOURCE ID: avatar_hat_duraludon
+TEXT: Duraludon Helmet
 
 RESOURCE ID: avatar_hat_eternatus
 TEXT: Eternatus Helmet
@@ -7611,6 +7617,9 @@ TEXT: Lumiose City Shoes (Red)
 RESOURCE ID: avatar_pants_bwpants
 TEXT: Black and White Joggers
 
+RESOURCE ID: avatar_pants_duraludon
+TEXT: Duraludon Pants
+
 RESOURCE ID: avatar_pants_eternatus
 TEXT: Eternatus Pants
 
@@ -7682,6 +7691,9 @@ TEXT: Grimsley Pose
 
 RESOURCE ID: avatar_pose_gofest2025
 TEXT: GO Fest 2025 Pose
+
+RESOURCE ID: avatar_pose_gowa2026
+TEXT: GO Wild Area 2026 Pose
 
 RESOURCE ID: avatar_pose_grusha
 TEXT: Grusha Pose
@@ -7805,6 +7817,15 @@ TEXT: GO Tour 2025 Tee
 
 RESOURCE ID: avatar_shirt_gotour2025white
 TEXT: GO Tour 2025 Tee (White)
+
+RESOURCE ID: avatar_shirt_gowa2026-maroon
+TEXT: GO Wild Area 2026 Tee (Purple)
+
+RESOURCE ID: avatar_shirt_gowa2026-navy
+TEXT: GO Wild Area 2026 Tee (Navy)
+
+RESOURCE ID: avatar_shirt_gowamachamp
+TEXT: Fighting-Type Jacket
 
 RESOURCE ID: avatar_shirt_gowatshirt2024
 TEXT: GO Wild Area 2024 Tee
@@ -62706,9 +62727,9 @@ TEXT: When you catch a Pokémon that shares a type with your Mega-Evolved Pokém
 • An increased chance of receiving Candy XL
 
 RESOURCE ID: mega_level_tutorial_cp_downscaling_1_body
-TEXT: If a Mega Pokémon’s CP exceeds certain Battle Leagues, their levels will be temporarily adjusted to where its CP is within that Battle League’s limits.
+TEXT: If a Mega-Evolved Pokémon’s CP exceeds certain Battle Leagues, their levels will be temporarily adjusted to where their CP is within that Battle League’s limits.
 
-Pokémon at Super Max Level will not have the Greatly Increased CP bonus in Master League.
+Pokémon at Super Max Level will not have the greatly enhanced CP bonus in Master League.
 
 RESOURCE ID: mega_level_tutorial_hero_title
 TEXT: Let’s GO Mega!
@@ -62992,10 +63013,10 @@ at SHA 4d4f3e80cc7fb911006bd14d198c9831ef66d005
 Pipeline 339838, job 2672172
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-10-16T22:34:57.171068+00:00 for en-US
-at SHA d68311f630a
-Pipeline 4029884, job 59396785
-Patch from: 0.431.0-SHA-8123c737-RC1, 0.433.0-SHA-94a605de-RC4, 0.435.0-SHA-5bec7604-RC1
+TEXT: Built at 2026-10-21T01:48:22.252006+00:00 for en-US
+at SHA eb1e2fc106ad
+Pipeline 4038403, job 59531866
+Patch from: 0.433.1-SHA-0f52e3f0-RC1, 0.435.0-SHA-d5d32cc5-RC2
 
 RESOURCE ID: meteor_title_1
 TEXT: METEOR SHOWER
@@ -68839,7 +68860,7 @@ RESOURCE ID: old_friends_description
 TEXT: Old Friends, New Beginnings Timed Research
 
 RESOURCE ID: ominous_wind_base_increased_level_bonus
-TEXT: Mega Chandelure at Super Max Level will have its CP boosted from November 2 at 12:00 p.m. through November 15, 2026, at 12:00pm PST.
+TEXT: Mega Chandelure at Super Max Level will have their CP boosted from November 2 at 12:00 p.m. through November 15, 2026, at 12:00 p.m. PST.
 
 RESOURCE ID: ominous_wind_base_power_boost_bonus
 TEXT: Ominous Wind+ will have its power increased from November 2 at 12:00 p.m.  through November 15, 2026, at 12:00 p.m. PST.
