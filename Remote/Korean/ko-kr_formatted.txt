@@ -7736,7 +7736,8 @@ RESOURCE ID: avatar_shirt_mustard
 TEXT: 마스터드 상의
 
 RESOURCE ID: avatar_shirt_nightout
-TEXT: 포켓몬 Night Out 야구 유니폼
+TEXT: 포켓몬 Night Out
+야구 유니폼
 
 RESOURCE ID: avatar_shirt_plaidtop
 TEXT: 체크무늬 상의
@@ -19276,6 +19277,9 @@ TEXT: 향로 지속 3시간
 
 RESOURCE ID: bonus_incense_costume_pikachu
 TEXT: 의상의 피카츄가 향로에 반응할 때가 있다
+
+RESOURCE ID: bonus_incense_event_sb
+TEXT: 향로에 반응하는 이벤트 관련 포켓몬에게 스페셜 배경이 있을 수 이다
 
 RESOURCE ID: bonus_incense_hisui_costume_pikachu
 TEXT: 히스이지방 모자를 쓴 피카츄 2종이 향로에 반응
@@ -52673,7 +52677,7 @@ RESOURCE ID: id_potw_2026_tv_description
 TEXT: 초원에 있을 것 같은 아름다운 색과 모양의 포켓몬이 10시~20시 사이에 출현. 자세한 내용은 블로그에서 확인하세요.
 
 RESOURCE ID: in.fol.2026.bundle_title
-TEXT: Festival of Lights Box
+TEXT: 빛의 페스티벌 박스
 
 RESOURCE ID: in_app_label
 TEXT: 인앱 구매
@@ -57533,6 +57537,15 @@ TEXT: 정말로 1마리밖에 없는 {0}(을)를 보내겠습니까
 
 RESOURCE ID: last_time_activity_label
 TEXT: Last Time Activity
+
+RESOURCE ID: latam_ddm_2026_event_title
+TEXT: Día de Muertos 2026
+
+RESOURCE ID: latam_ddm_2026_tr_title
+TEXT: Día de Muertos 2026 시간제한 리서치
+
+RESOURCE ID: latam_ddm_2026_tr_desc_title_00
+TEXT: Día de Muertos 2026 시간제한 리서치(1/1)
 
 RESOURCE ID: latam_live_op_title
 TEXT: 신규 LATAM 어드벤처
@@ -62487,9 +62500,9 @@ TEXT: 메가진화한 포켓몬과 같은 타입의 포켓몬을 잡으면 메�
 - 사탕XL 입수 확률 증가
 
 RESOURCE ID: mega_level_tutorial_cp_downscaling_1_body
-TEXT: If a Mega-Evolved Pokémon’s CP exceeds certain Battle Leagues, their levels will be temporarily adjusted to where their CP is within that Battle League’s limits.
+TEXT: 메가진화한 포켓몬의 CP가 특정 리그의 상한을 넘는 경우, 참가할 수 있는 범위로 일시적으로 조정됩니다.
 
-Pokémon at Super Max Level will not have the greatly enhanced CP bonus in Master League.
+슈퍼 맥스 레벨에 달성한 포켓몬이 마스터리그에서 CP가 대폭 올라가지는 않습니다.
 
 RESOURCE ID: mega_level_tutorial_hero_title
 TEXT: 메가진화 시키자!
@@ -62758,10 +62771,10 @@ at SHA 4d4f3e80cc7fb911006bd14d198c9831ef66d005
 Pipeline 339838, job 2672172
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-10-23T01:27:44.410532+00:00 for ko-KR
-at SHA 747b7b37f1b
-Pipeline 4045122, job 59638845
-Patch from: 0.433.1-SHA-0f52e3f0-RC1, 0.435.0-SHA-d5d32cc5-RC2
+TEXT: Built at 2026-10-24T00:20:49.016765+00:00 for ko-KR
+at SHA 799aa887df2
+Pipeline 4048116, job 59688838
+Patch from: 0.435.0-SHA-d5d32cc5-RC2, 0.433.1-SHA-0f52e3f0-RC1
 
 RESOURCE ID: meteor_title_1
 TEXT: 유성군
@@ -111878,6 +111891,21 @@ TEXT: 리우데자네이루, 브라질
 
 RESOURCE ID: rally_city_safari_2026_riodejaneiro_rewards_desc_general
 TEXT: 한정 리우데자네이루 로케이션 배경이 있는 사파리 모자 이브이와의 만남
+
+RESOURCE ID: rally_ddm_cdmx_2026_title
+TEXT: Día de Muertos - 해골몽 스탬프랠리
+
+RESOURCE ID: rally_ddm_cdmx_2026_desc
+TEXT: Día de Muertos - 해골몽 스탬프랠리
+
+RESOURCE ID: rally_ddm_cdmx_2026_desc_detail
+TEXT: 이 GO스탬프랠리를 완료하면 해골몽의 사탕을 받을 수 있고 꽃장식을 단 해골몽과 만날 수 있습니다!
+
+RESOURCE ID: rally_ddm_cdmx_2026_location
+TEXT: 멕시코 시티, 멕시코
+
+RESOURCE ID: rally_ddm_cdmx_2026_rewards_desc
+TEXT: 로케이션 배경이 있는 꽃장식을 단 해골몽을 만날 수 있습니다!
 
 RESOURCE ID: rally_expo_2025_title
 TEXT: EXPO2025 스탬프랠리

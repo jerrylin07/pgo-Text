@@ -8168,7 +8168,8 @@ RESOURCE ID: avatar_shirt_mustard
 TEXT: Chamarra estilo Mostaz
 
 RESOURCE ID: avatar_shirt_nightout
-TEXT: Camiseta de béisbol de Noche Electrizante Pokémon
+TEXT: Camiseta de béisbol de
+Noche Electrizante Pokémon
 
 RESOURCE ID: avatar_shirt_plaidtop
 TEXT: Abrigo de cuadros
@@ -19579,6 +19580,9 @@ TEXT: El Incienso dura 3 horas
 
 RESOURCE ID: bonus_incense_costume_pikachu
 TEXT: El Incienso puede atraer a Pikachu disfrazados
+
+RESOURCE ID: bonus_incense_event_sb
+TEXT: Los Pokémon del evento que son atraídos por el Incienso podrán tener un fondo especial
 
 RESOURCE ID: bonus_incense_hisui_costume_pikachu
 TEXT: El Incienso podrá atraer a Pikachu con gorra de Luka y a Pikachu con pañuelo de Kira
@@ -50829,7 +50833,7 @@ RESOURCE ID: id_potw_2026_tv_description
 TEXT: ¡Están apareciendo Pokémon inspirados en la naturaleza! Explora para atrapar Pokémon con hermosos motivos de 10:00 a. m. a 8:00 p. m. en tu hora local. Visita el blog para obtener más información.
 
 RESOURCE ID: in.fol.2026.bundle_title
-TEXT: Festival of Lights Box
+TEXT: Caja Festival de las Luces
 
 RESOURCE ID: in_app_label
 TEXT: Aplicación
@@ -55637,6 +55641,15 @@ TEXT: Última vez que jugué: hace dos días o más
 
 RESOURCE ID: last_pokemon_transfer_to_professor_confirmation
 TEXT: ¿De verdad quieres transferir tu único {0}?
+
+RESOURCE ID: latam_ddm_2026_event_title
+TEXT: Día de Muertos 2026
+
+RESOURCE ID: latam_ddm_2026_tr_title
+TEXT: Investigación Temporal del Día de Muertos 2026
+
+RESOURCE ID: latam_ddm_2026_tr_desc_title_00
+TEXT: Investigación Temporal del Día de Muertos 2026 (1/1)
 
 RESOURCE ID: latam_live_op_title
 TEXT: Una nueva aventura para Latinoamérica
@@ -60869,10 +60882,10 @@ at SHA 0b3915937aff7
 Pipeline 2177475, job 26434025
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-10-23T01:27:44.410532+00:00 for es-MX
-at SHA 747b7b37f1b
-Pipeline 4045122, job 59638845
-Patch from: 0.433.1-SHA-0f52e3f0-RC1, 0.435.0-SHA-d5d32cc5-RC2
+TEXT: Built at 2026-10-24T00:20:49.016765+00:00 for es-MX
+at SHA 799aa887df2
+Pipeline 4048116, job 59688838
+Patch from: 0.435.0-SHA-d5d32cc5-RC2, 0.433.1-SHA-0f52e3f0-RC1
 
 RESOURCE ID: meteor_title_1
 TEXT: LLUVIA DE METEOROS
@@ -66720,7 +66733,7 @@ RESOURCE ID: old_friends_description
 TEXT: Investigación Temporal "Viejas amistades, nuevos comienzos"
 
 RESOURCE ID: ominous_wind_base_increased_level_bonus
-TEXT: El nivel de Mega-Chandelure se verá incrementado del 2 de noviembre a las 12:00 p. m. al 15 de noviembre de 2026 a las 12:00 p. m. PST.
+TEXT: Los Mega-Chandelure en el nivel supermáximo verán sus PC incrementados del 2 de noviembre a las 12:00 p. m. al 15 de noviembre de 2026 a las 12:00 p. m. PST.
 
 RESOURCE ID: ominous_wind_base_power_boost_bonus
 TEXT: Viento Ominoso+ incrementará su poder del 2 de noviembre a las 12:00 p. m. al 15 de noviembre de 2026 a las 12:00 p. m. PST.
@@ -109785,6 +109798,21 @@ TEXT: Río de Janeiro, Brasil
 
 RESOURCE ID: rally_city_safari_2026_riodejaneiro_rewards_desc_general
 TEXT: Explora la ciudad para encontrarte con Eevee con sombrero de explorador con un exclusivo fondo de la ubicación de Río de Janeiro.
+
+RESOURCE ID: rally_ddm_cdmx_2026_title
+TEXT: Día de Muertos: Búsqueda de sellos de Duskull
+
+RESOURCE ID: rally_ddm_cdmx_2026_desc
+TEXT: Te damos la bienvenida al Día de Muertos: Búsqueda de sellos de Duskull
+
+RESOURCE ID: rally_ddm_cdmx_2026_desc_detail
+TEXT: Completa la Búsqueda de sellos GO para obtener Caramelos Duskull y un encuentro con Duskull con corona de cempasúchil.
+
+RESOURCE ID: rally_ddm_cdmx_2026_location
+TEXT: Ciudad de México, México
+
+RESOURCE ID: rally_ddm_cdmx_2026_rewards_desc
+TEXT: Encuéntrate con un Duskull con corona de cempasúchil con un fondo de la ubicación de Sendai durante esta Búsqueda de sellos.
 
 RESOURCE ID: rally_expo_2025_title
 TEXT: Búsqueda de sellos de EXPO 2025

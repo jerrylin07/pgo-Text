@@ -8058,7 +8058,8 @@ RESOURCE ID: avatar_shirt_mustard
 TEXT: Veste style Mustar
 
 RESOURCE ID: avatar_shirt_nightout
-TEXT: Maillot de base-ball Soirée électrisante Pokémon
+TEXT: Maillot de base-ball
+Soirée électrisante Pokémon
 
 RESOURCE ID: avatar_shirt_plaidtop
 TEXT: Pardessus à carreaux
@@ -19634,6 +19635,9 @@ TEXT: Les Encens durent 3 heures.
 
 RESOURCE ID: bonus_incense_costume_pikachu
 TEXT: L’Encens peut attirer des Pikachu en costume
+
+RESOURCE ID: bonus_incense_event_sb
+TEXT: Les Pokémon sur le thème de l’évènement attirés par l’Encens peuvent avoir un Fond spécial
 
 RESOURCE ID: bonus_incense_hisui_costume_pikachu
 TEXT: L’Encens peut attirer Pikachu coiffé de la casquette d’Aurel ou Pikachu coiffé du foulard de Lucia
@@ -37424,7 +37428,7 @@ RESOURCE ID: filter_key_mega_level
 TEXT: Méga
 
 RESOURCE ID: filter_key_profile_background
-TEXT: profilebackground
+TEXT: fonddeprofil
 
 RESOURCE ID: filter_key_raid_ex
 TEXT: raidex
@@ -50818,16 +50822,16 @@ RESOURCE ID: great_league_championship_series_2026
 TEXT: Coupe des Championnats de GO 2026
 
 RESOURCE ID: great_league_championship_series_2027
-TEXT: 2027 GO Championship Series Cup
+TEXT: Coupe des Championnats de GO 2027
 
 RESOURCE ID: great_league_championship_series_2028
-TEXT: 2028 GO Championship Series Cup
+TEXT: Coupe des Championnats de GO 2028
 
 RESOURCE ID: great_league_championship_series_2029
-TEXT: 2029 GO Championship Series Cup
+TEXT: Coupe des Championnats de GO 2029
 
 RESOURCE ID: great_league_championship_series_2030
-TEXT: 2030 GO Championship Series Cup
+TEXT: Coupe des Championnats de GO 2030
 
 RESOURCE ID: great_league_mega_title
 TEXT: Ligue Super : Méga-édition
@@ -53202,7 +53206,7 @@ RESOURCE ID: id_potw_2026_tv_description
 TEXT: Des Pokémon inspirés de la nature apparaissent ! Explore et attrape des Pokémon avec de sublimes motifs de 10h à 20h, heures locales. Consulte le blog pour davantage d’informations.
 
 RESOURCE ID: in.fol.2026.bundle_title
-TEXT: Festival of Lights Box
+TEXT: Boîte Fête des lumières
 
 RESOURCE ID: in_app_label
 TEXT: Dans l’application
@@ -58063,6 +58067,15 @@ TEXT: Veux-tu vraiment transférer ton seul {0} ?
 RESOURCE ID: last_time_activity_label
 TEXT: Last Time Activity
 
+RESOURCE ID: latam_ddm_2026_event_title
+TEXT: Día de Muertos 2026
+
+RESOURCE ID: latam_ddm_2026_tr_title
+TEXT: Étude ponctuelle Día de Muertos 2026
+
+RESOURCE ID: latam_ddm_2026_tr_desc_title_00
+TEXT: Étude ponctuelle Día de Muertos 2026 (1/1)
+
 RESOURCE ID: latam_live_op_title
 TEXT: Une nouvelle aventure pour l’Amérique latine
 
@@ -60724,7 +60737,7 @@ RESOURCE ID: login_choice_screen
 TEXT: Te connecter avec :
 
 RESOURCE ID: login_choice_screen_temp
-TEXT: Sign up with {0}
+TEXT: Te connecter avec {0}
 
 RESOURCE ID: login_create_account
 TEXT: En créer un
@@ -63315,10 +63328,10 @@ at SHA 4d4f3e80cc7fb911006bd14d198c9831ef66d005
 Pipeline 339838, job 2672172
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-10-23T01:27:44.410532+00:00 for fr-FR
-at SHA 747b7b37f1b
-Pipeline 4045122, job 59638845
-Patch from: 0.433.1-SHA-0f52e3f0-RC1, 0.435.0-SHA-d5d32cc5-RC2
+TEXT: Built at 2026-10-24T00:20:49.016765+00:00 for fr-FR
+at SHA 799aa887df2
+Pipeline 4048116, job 59688838
+Patch from: 0.435.0-SHA-d5d32cc5-RC2, 0.433.1-SHA-0f52e3f0-RC1
 
 RESOURCE ID: meteor_title_1
 TEXT: PLUIE DE MÉTÉORES
@@ -85230,7 +85243,7 @@ RESOURCE ID: psychic_type_event
 TEXT: Afflux du type : Psy
 
 RESOURCE ID: ptc_account_creation_prompt
-TEXT: Tu n’as pas de compte au Club des Dresseurs Pokémon ?
+TEXT: Pas de compte au Cercle des Dresseurs Pokémon ?
 
 RESOURCE ID: ptc_auth_failed
 TEXT: Authentification impossible. Essaye à nouveau.
@@ -85242,13 +85255,13 @@ RESOURCE ID: ptc_auth_consent_needed
 TEXT: Tu dois autoriser Pokémon GO à accéder à ton compte au Cercle des Dresseurs Pokémon pour continuer à jouer.
 
 RESOURCE ID: ptc_auth_consent_needed_out
-TEXT: Tu dois autoriser Pokémon GO à accéder à ton compte au Club des Dresseurs Pokémon pour continuer à jouer.
+TEXT: Tu dois autoriser Pokémon GO à accéder à ton compte au Cercle des Dresseurs Pokémon pour continuer à jouer.
 
 RESOURCE ID: ptc_auth_link_btn
 TEXT: Lier
 
 RESOURCE ID: ptc_auth_link_disclaimer
-TEXT: Une fois lié, le compte au Club des Dresseurs Pokémon ne peut pas être dissocié.
+TEXT: Une fois lié, le compte au Cercle des Dresseurs Pokémon ne peut pas être dissocié.
 
 RESOURCE ID: ptc_auth_link_failed
 TEXT: Échec de l’association
@@ -85257,22 +85270,22 @@ RESOURCE ID: ptc_auth_link_message
 TEXT: Lie un compte au Cercle des Dresseurs Pokémon à ton compte Pokémon GO pour recevoir : {0}
 
 RESOURCE ID: ptc_auth_link_message_out
-TEXT: Lie un compte au Club des Dresseurs Pokémon à ton compte Pokémon GO pour recevoir : {0}
+TEXT: Lie un compte au Cercle des Dresseurs Pokémon à ton compte Pokémon GO pour recevoir : {0}
 
 RESOURCE ID: ptc_auth_link_toggle_disclaimer
 TEXT: Dissociation impossible.
 
 RESOURCE ID: ptc_auth_parent_consent_needed
-TEXT: Un parent ou un tuteur doit autoriser Pokémon GO à accéder à ton compte au Club des Dresseurs Pokémon.
+TEXT: Un parent ou un tuteur doit autoriser Pokémon GO à accéder à ton compte au Cercle des Dresseurs Pokémon.
 
 RESOURCE ID: ptc_auth_retry_validate
 TEXT: Effectue la validation avec le nom d’utilisateur et le mot de passe liés à ton compte.
 
 RESOURCE ID: ptc_auth_timed_research_title
-TEXT: Récompense du Club des Dresseurs Pokémon
+TEXT: Récompense du Cercle des Dresseurs Pokémon
 
 RESOURCE ID: ptc_auth_timed_research_message
-TEXT: Lie ou valide ton compte au Club des Dresseurs Pokémon en sélectionnant Compte dans les Options de Pokémon GO.
+TEXT: Lie ou valide ton compte au Cercle des Dresseurs Pokémon en sélectionnant Compte dans les Options de Pokémon GO.
 
 RESOURCE ID: ptc_auth_validate_title
 TEXT: Étude ponctuelle : {0}
@@ -85290,10 +85303,10 @@ RESOURCE ID: ptc_auth_validate_footer
 TEXT: Pokémon GO peut redémarrer une fois la validation réussie.
 
 RESOURCE ID: ptc_auth_validate_message
-TEXT: Valide ton compte au Club des Dresseurs Pokémon pour recevoir : {0}
+TEXT: Valide ton compte au Cercle des Dresseurs Pokémon pour recevoir : {0}
 
 RESOURCE ID: ptc_auth_validate_success
-TEXT: Compte au Club des Dresseurs Pokémon validé ! Pokémon GO va redémarrer.
+TEXT: Compte au Cercle des Dresseurs Pokémon validé ! Pokémon GO va redémarrer.
 
 RESOURCE ID: ptc_auth_validate_trainer_name
 TEXT: Lié au nom d’utilisateur : {0}
@@ -85305,7 +85318,7 @@ RESOURCE ID: ptc_claim_reward_msg
 TEXT: Tu as lié ton compte au Cercle des Dresseurs Pokémon avec succès et gagné un Incubateur.
 
 RESOURCE ID: ptc_claim_reward_msg_out
-TEXT: Tu as lié ton compte au Club des Dresseurs Pokémon avec succès et gagné un Incubateur.
+TEXT: Tu as lié ton compte au Cercle des Dresseurs Pokémon avec succès et gagné un Incubateur.
 
 RESOURCE ID: ptc_error_activation_required
 TEXT: Active ton compte afin de jouer à Pokémon GO.
@@ -85326,16 +85339,16 @@ RESOURCE ID: ptc_login_submit
 TEXT: Ouvrir ta session
 
 RESOURCE ID: ptc_login_button_out
-TEXT: Club des Dresseurs Pokémon
+TEXT: Cercle des Dresseurs Pokémon
 
 RESOURCE ID: ptc_login_server_unreachable
 TEXT: Nous sommes désolés, mais le Cercle des Dresseurs Pokémon n’est pas disponible pour le moment.
 
 RESOURCE ID: ptc_login_server_unreachable_out
-TEXT: Nous sommes désolés, mais le Club des Dresseurs Pokémon n’est pas disponible pour le moment.
+TEXT: Le Cercle des Dresseurs Pokémon n'est pas disponible pour le le moment. Nous nous excusons pour la gêne occasionnée.
 
 RESOURCE ID: ptc_login_title_out
-TEXT: Club des Dresseurs Pokémon
+TEXT: Cercle des Dresseurs Pokémon
 
 RESOURCE ID: ptc_login_title_short
 TEXT: Club des Dresseurs
@@ -112501,6 +112514,21 @@ TEXT: Rio de Janeiro, Brésil
 RESOURCE ID: rally_city_safari_2026_riodejaneiro_rewards_desc_general
 TEXT: Parcours la ville pour rencontrer Évoli coiffé d’un chapeau d’explorateur et doté d’un Fond de lieu de Rio de Janeiro exclusif.
 
+RESOURCE ID: rally_ddm_cdmx_2026_title
+TEXT: Chasse aux tampons Skelénox – Día de Muertos
+
+RESOURCE ID: rally_ddm_cdmx_2026_desc
+TEXT: Bienvenue dans la Chasse aux tampons Skelénox – Día de Muertos
+
+RESOURCE ID: rally_ddm_cdmx_2026_desc_detail
+TEXT: Termine la Chasse aux tampons GO pour gagner des Bonbons Skelénox et une rencontre avec Skelénox portant une couronne de cempasúchil.
+
+RESOURCE ID: rally_ddm_cdmx_2026_location
+TEXT: Mexico, Mexique
+
+RESOURCE ID: rally_ddm_cdmx_2026_rewards_desc
+TEXT: Rencontre un Skelénox portant une couronne de cempasúchil avec un Fond de lieu pendant cette chasse.
+
 RESOURCE ID: rally_expo_2025_title
 TEXT: Chasse aux tampons EXPO 2025
 
@@ -119152,7 +119180,7 @@ RESOURCE ID: season_pass_nov2026_event_duration
 TEXT: Du 3 novembre au 1ᵉʳ décembre
 
 RESOURCE ID: season_pass_nov2026_track_upgrade_header_description
-TEXT: Gagne des récompenses supplémentaires et obtiens <b>1 000 PokéPièces supplémentaires<b> !
+TEXT: Gagne des récompenses supplémentaires et obtiens <b>1 000 PokéPièces supplémentaires</b> !
 
 RESOURCE ID: season_pass_nov2026_upgrade_description
 TEXT: Achète le Passe GO deluxe : novembre pour déverrouiller les récompenses suivantes !

@@ -7805,7 +7805,8 @@ RESOURCE ID: avatar_shirt_mustard
 TEXT: Jaket Mustard
 
 RESOURCE ID: avatar_shirt_nightout
-TEXT: Jersi Baseball Pokémon Night Out
+TEXT: Jersi Baseball
+Pokémon Night Out
 
 RESOURCE ID: avatar_shirt_plaidtop
 TEXT: Atasan Pola Kotak-kotak
@@ -19357,6 +19358,9 @@ TEXT: Durasi Wewangian 3 jam
 
 RESOURCE ID: bonus_incense_costume_pikachu
 TEXT: Pewangi akan memikat Pikachu berkostum
+
+RESOURCE ID: bonus_incense_event_sb
+TEXT: Pokémon bertema event yang terpikat oleh Pewangi mungkin memiliki Latar Belakang Spesial
 
 RESOURCE ID: bonus_incense_hisui_costume_pikachu
 TEXT: Pewangi akan memikat Pikachu bertopi Rei atau Pikachu bertudung Akari
@@ -50639,7 +50643,7 @@ RESOURCE ID: id_potw_2026_tv_description
 TEXT: Pokémon yang terinspirasi oleh alam bermunculan! Berjelajahlah untuk menangkap Pokémon dengan berbagai pola yang indah mulai pukul 10.00 hingga 20.00 waktu setempat. Kunjungi blog untuk informasi lebih lanjut.
 
 RESOURCE ID: in.fol.2026.bundle_title
-TEXT: Festival of Lights Box
+TEXT: Kotak Festival Cahaya
 
 RESOURCE ID: in_app_label
 TEXT: Di App
@@ -55492,6 +55496,15 @@ TEXT: Yakin ingin mentransfer satu-satunya {0} ini?
 
 RESOURCE ID: last_time_activity_label
 TEXT: Last Time Activity
+
+RESOURCE ID: latam_ddm_2026_event_title
+TEXT: Día de Muertos 2026
+
+RESOURCE ID: latam_ddm_2026_tr_title
+TEXT: Penelitian Berwaktu Día de Muertos 2026
+
+RESOURCE ID: latam_ddm_2026_tr_desc_title_00
+TEXT: Penelitian Berwaktu Día de Muertos 2026 (1/1)
 
 RESOURCE ID: latam_live_op_title
 TEXT: Petualangan Baru LATAM
@@ -60706,10 +60719,10 @@ at SHA 12701f1c07ae7f07a5d50583f697320977df7988
 Pipeline 1139111, job 13470914
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-10-23T01:27:44.410532+00:00 for id-ID
-at SHA 747b7b37f1b
-Pipeline 4045122, job 59638845
-Patch from: 0.433.1-SHA-0f52e3f0-RC1, 0.435.0-SHA-d5d32cc5-RC2
+TEXT: Built at 2026-10-24T00:20:49.016765+00:00 for id-ID
+at SHA 799aa887df2
+Pipeline 4048116, job 59688838
+Patch from: 0.435.0-SHA-d5d32cc5-RC2, 0.433.1-SHA-0f52e3f0-RC1
 
 RESOURCE ID: meteor_title_1
 TEXT: HUJAN METEOR
@@ -65960,7 +65973,7 @@ RESOURCE ID: nearby_incomplete_raid_header
 TEXT: DALAM PROGRES
 
 RESOURCE ID: nearby_incomplete_raid_widget_title
-TEXT: Kembali ke {0} Raid
+TEXT: Kembali ke Raid {0}
 
 RESOURCE ID: nearby_incomplete_raid_widget_header
 TEXT: KEMBALI
@@ -109745,6 +109758,21 @@ TEXT: Rio de Janeiro, Brasil
 
 RESOURCE ID: rally_city_safari_2026_riodejaneiro_rewards_desc_general
 TEXT: Berjelajahlah untuk bertemu dengan Eevee bertopi safari dengan Latar Belakang Lokasi Rio de Janeiro eksklusif.
+
+RESOURCE ID: rally_ddm_cdmx_2026_title
+TEXT: Reli Stempel Día de Muertos – Duskull
+
+RESOURCE ID: rally_ddm_cdmx_2026_desc
+TEXT: Selamat datang di Reli Stempel Día de Muertos – Duskull
+
+RESOURCE ID: rally_ddm_cdmx_2026_desc_detail
+TEXT: Selesaikan Reli Stempel GO untuk mendapatkan Permen Duskull dan pertemuan dengan Duskull bermahkota bunga.
+
+RESOURCE ID: rally_ddm_cdmx_2026_location
+TEXT: Mexico City, Mexico
+
+RESOURCE ID: rally_ddm_cdmx_2026_rewards_desc
+TEXT: Temukan Duskull bermahkota bunga dengan Latar Belakang Lokasi selama reli ini.
 
 RESOURCE ID: rally_expo_2025_title
 TEXT: Reli Stempel EXPO 2025

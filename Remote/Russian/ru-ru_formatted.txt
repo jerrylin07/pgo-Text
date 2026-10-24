@@ -7920,7 +7920,8 @@ RESOURCE ID: avatar_shirt_mustard
 TEXT: Куртка в стиле Мустарда
 
 RESOURCE ID: avatar_shirt_nightout
-TEXT: Бейсбольная Футболка Pokémon Night Out
+TEXT: Бейсбольная Футболка
+Pokémon Night Out
 
 RESOURCE ID: avatar_shirt_plaidtop
 TEXT: Клетчатый пиджак
@@ -19485,6 +19486,9 @@ TEXT: 3-часовое действие ладана
 
 RESOURCE ID: bonus_incense_costume_pikachu
 TEXT: Ладан может привлечь Пикачу в костюмах
+
+RESOURCE ID: bonus_incense_event_sb
+TEXT: Тематические Ивент-Покемоны, привлечённые Ладаном, могут иметь Особый Фон
 
 RESOURCE ID: bonus_incense_hisui_costume_pikachu
 TEXT: Ладан может привлечь Пикачу в фуражке Рея или Пикачу в косынке Акари
@@ -53063,7 +53067,7 @@ RESOURCE ID: id_potw_2026_tv_description
 TEXT: Появляются Покемоны, вдохновлённые природой! Исследуй, чтобы поймать Покемонов с прекрасными узорами с 10:00 до 20:00 по местному времени. Чтобы узнать больше, посети блог.
 
 RESOURCE ID: in.fol.2026.bundle_title
-TEXT: Festival of Lights Box
+TEXT: Коробка Фестиваль Огней
 
 RESOURCE ID: in_app_label
 TEXT: В приложении
@@ -57920,6 +57924,15 @@ TEXT: Ты точно хочешь передать своего единств�
 
 RESOURCE ID: last_time_activity_label
 TEXT: Last Time Activity
+
+RESOURCE ID: latam_ddm_2026_event_title
+TEXT: День Мёртвых 2026
+
+RESOURCE ID: latam_ddm_2026_tr_title
+TEXT: Квест на Время День Мёртвых 2026
+
+RESOURCE ID: latam_ddm_2026_tr_desc_title_00
+TEXT: Квест на Время День Мёртвых 2026 (1/1)
 
 RESOURCE ID: latam_live_op_title
 TEXT: Новое приключение в Латинской Америке
@@ -63169,10 +63182,10 @@ at SHA bacc02371739993984570a6f5b31a993cf3b031b
 Pipeline 498004, job 4265729
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-10-23T01:27:44.410532+00:00 for ru-RU
-at SHA 747b7b37f1b
-Pipeline 4045122, job 59638845
-Patch from: 0.433.1-SHA-0f52e3f0-RC1, 0.435.0-SHA-d5d32cc5-RC2
+TEXT: Built at 2026-10-24T00:20:49.016765+00:00 for ru-RU
+at SHA 799aa887df2
+Pipeline 4048116, job 59688838
+Patch from: 0.435.0-SHA-d5d32cc5-RC2, 0.433.1-SHA-0f52e3f0-RC1
 
 RESOURCE ID: meteor_title_1
 TEXT: МЕТЕОРИТНЫЙ ПОТОК
@@ -112331,6 +112344,21 @@ TEXT: Рио-де-Жанейро, Бразилия
 
 RESOURCE ID: rally_city_safari_2026_riodejaneiro_rewards_desc_general
 TEXT: Исследуй город, чтобы встретить Иви в шляпе исследователя с эксклюзивным Фоном Места Рио-де-Жанейро.
+
+RESOURCE ID: rally_ddm_cdmx_2026_title
+TEXT: День Мёртвых – Марафон Печатей Даскалл
+
+RESOURCE ID: rally_ddm_cdmx_2026_desc
+TEXT: Добро пожаловать на День Мёртвых – Марафон Печатей Даскалл
+
+RESOURCE ID: rally_ddm_cdmx_2026_desc_detail
+TEXT: Заверши Марафон Печатей GO, чтобы заработать Даскалл-Конфеты и встречу с Даскаллом в венке из бархатцев.
+
+RESOURCE ID: rally_ddm_cdmx_2026_location
+TEXT: Мехико, Мексика
+
+RESOURCE ID: rally_ddm_cdmx_2026_rewards_desc
+TEXT: Повстречай Даскалла в венке из бархатцев с Фоном Места во время этого марафона.
 
 RESOURCE ID: rally_expo_2025_title
 TEXT: Марафон печатей EXPO 2025

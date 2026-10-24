@@ -7926,7 +7926,8 @@ RESOURCE ID: avatar_shirt_mustard
 TEXT: Mustard Tarzı Mont
 
 RESOURCE ID: avatar_shirt_nightout
-TEXT: Pokémon Night Out Beyzbol Forması
+TEXT: Pokémon Night Out
+Beyzbol Forması
 
 RESOURCE ID: avatar_shirt_plaidtop
 TEXT: Ekose Üst
@@ -19478,6 +19479,9 @@ TEXT: 3 saatlik Tütsü süresi
 
 RESOURCE ID: bonus_incense_costume_pikachu
 TEXT: Tütsü kostümlü Pikachu’ları çekebilir
+
+RESOURCE ID: bonus_incense_event_sb
+TEXT: Tütsüye gelen etkinlik temalı Pokémon’lar özel arka plana sahip olabilir
 
 RESOURCE ID: bonus_incense_hisui_costume_pikachu
 TEXT: Tütsü, Rei kasketli Pikachu’yu veya Akari bandanalı Pikachu’yu çekebilir
@@ -50772,7 +50776,7 @@ RESOURCE ID: id_potw_2026_tv_description
 TEXT: Doğadan esinlenen Pokémon’lar ortaya çıkıyor! Yerel saatle 10.00-20.00 arasında doğanın en muhteşem desenlerine sahip Pokémon’ları yakalayın. Ayrıntıları blog gönderimizde bulabilirsiniz.
 
 RESOURCE ID: in.fol.2026.bundle_title
-TEXT: Festival of Lights Box
+TEXT: Işık Festivali Kutusu
 
 RESOURCE ID: in_app_label
 TEXT: Oyun İçi
@@ -55625,6 +55629,15 @@ TEXT: Elinizdeki tek {0} gerçekten gönderilsin mi?
 
 RESOURCE ID: last_time_activity_label
 TEXT: Last Time Activity
+
+RESOURCE ID: latam_ddm_2026_event_title
+TEXT: Ölüler Günü 2026
+
+RESOURCE ID: latam_ddm_2026_tr_title
+TEXT: Ölüler Günü 2026 Süreli Araştırması
+
+RESOURCE ID: latam_ddm_2026_tr_desc_title_00
+TEXT: Ölüler Günü 2026 Süreli Araştırması (1/1)
 
 RESOURCE ID: latam_live_op_title
 TEXT: Yeni Bir Latin Amerika Macerası
@@ -60858,10 +60871,10 @@ at SHA 413df5befdbe0d00a543f8a142221526d63b719a
 Pipeline 834428, job 8736424
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-10-23T01:27:44.410532+00:00 for tr-TR
-at SHA 747b7b37f1b
-Pipeline 4045122, job 59638845
-Patch from: 0.433.1-SHA-0f52e3f0-RC1, 0.435.0-SHA-d5d32cc5-RC2
+TEXT: Built at 2026-10-24T00:20:49.016765+00:00 for tr-TR
+at SHA 799aa887df2
+Pipeline 4048116, job 59688838
+Patch from: 0.435.0-SHA-d5d32cc5-RC2, 0.433.1-SHA-0f52e3f0-RC1
 
 RESOURCE ID: meteor_title_1
 TEXT: METEOR YAĞMURU
@@ -109840,6 +109853,21 @@ TEXT: Rio de Janeiro, Brezilya
 
 RESOURCE ID: rally_city_safari_2026_riodejaneiro_rewards_desc_general
 TEXT: Şehri keşfederek ayrıcalıklı bir Rio de Janeiro konum arka planına sahip, kâşif şapkalı Eevee ile karşılaşabilirsiniz.
+
+RESOURCE ID: rally_ddm_cdmx_2026_title
+TEXT: Ölüler Günü – Duskull Damga Toplama
+
+RESOURCE ID: rally_ddm_cdmx_2026_desc
+TEXT: Ölüler Günü – Duskull Damga Toplama etkinliğine hoş geldiniz
+
+RESOURCE ID: rally_ddm_cdmx_2026_desc_detail
+TEXT: Cempasúchil taçlı Duskull ile bir karşılaşma ve Duskull şekeri kazanmak için GO Damga Toplama etkinliğini tamamlayın.
+
+RESOURCE ID: rally_ddm_cdmx_2026_location
+TEXT: Meksiko, Meksika
+
+RESOURCE ID: rally_ddm_cdmx_2026_rewards_desc
+TEXT: Bu damga toplama etkinliğinde konum arka planına sahip cempasúchil taçlı Duskull ile karşılaşabilirsiniz.
 
 RESOURCE ID: rally_expo_2025_title
 TEXT: EXPO 2025 Damga Toplama
