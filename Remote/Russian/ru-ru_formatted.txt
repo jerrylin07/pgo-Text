@@ -19051,6 +19051,9 @@ TEXT: Этернамакс-Этернатус теперь появляется 
 RESOURCE ID: bonus_electric_moves
 TEXT: Твои атаки типа Электро мощнее в Гим-битвах, битвах макс и рейдах
 
+RESOURCE ID: bonus_energy_max_battles
+TEXT: Энергия, собранная во время битв макс, заряжает счётчик быстрее
+
 RESOURCE ID: bonus_event_2023_france_title
 TEXT: Pokémon: Art through the Ages
 
@@ -22082,7 +22085,7 @@ RESOURCE ID: buddy_monodepth_modal_turn_off_button
 TEXT: Отключить AR-платформу Scopely Explore (пробную версию)
 
 RESOURCE ID: buddy_multilplayer_qr_display_header
-TEXT: QR-код Группы Приятелей
+TEXT: 2D-Код Группы Приятелей
 
 RESOURCE ID: buddy_multiplayer_quit
 TEXT: Do you want to quit the session?
@@ -22091,7 +22094,7 @@ RESOURCE ID: buddy_multiplayer_connection_error
 TEXT: Сбой Подключения
 
 RESOURCE ID: buddy_multiplayer_create_session
-TEXT: Создать QR-Код Группы
+TEXT: Создай 2D-Код Группы
 
 RESOURCE ID: buddy_multiplayer_deploy_invalid_position
 TEXT: Try to find a larger flat area.
@@ -22173,7 +22176,7 @@ RESOURCE ID: buddy_multiplayer_lobby_body_peer
 TEXT: Get instructions from the group leader to find the hiding spots!
 
 RESOURCE ID: buddy_multiplayer_mapping_timeout
-TEXT: Настоящая Группа Приятелей закрыта из-за бездействия. Чтобы продолжить, повтори попытку, отсканировав QR-Код Группы.
+TEXT: Настоящая Группа Приятелей закрыта из-за бездействия. Чтобы продолжить, повтори попытку, отсканировав 2D-Код группы.
 
 RESOURCE ID: buddy_multiplayer_peer_cannot_exit_group_photo
 TEXT: {0} сейчас является фото-лидером. Попроси {0} отключить режим Группового Фото.
@@ -22200,7 +22203,7 @@ RESOURCE ID: buddy_multiplayer_player_count_can_join_singular
 TEXT: 1 more Trainer can join
 
 RESOURCE ID: buddy_multiplayer_qr_guidance
-TEXT: Отсканируй QR-Код Группы
+TEXT: Отсканируй 2D-Код Группы
 
 RESOURCE ID: buddy_multiplayer_qr_display_body
 TEXT: If everyone is gathered, tap the GO button.
@@ -22212,7 +22215,7 @@ RESOURCE ID: buddy_multiplayer_safety_warning
 TEXT: While using AR mode, make sure you’re in a safe location and any children are supervised at all times.
 
 RESOURCE ID: buddy_multiplayer_scan_button
-TEXT: Отсканируй QR-Код Группы
+TEXT: Отсканируй 2D-Код Группы
 
 RESOURCE ID: buddy_multiplayer_start_session
 TEXT: Go
@@ -22221,7 +22224,7 @@ RESOURCE ID: buddy_multiplayer_timeout_dialog_title
 TEXT: Группа Приятелей закрылась.
 
 RESOURCE ID: buddy_multiplayer_timeout_dialog_description
-TEXT: Настоящая Группа Приятелей закрыта из-за бездействия. Чтобы продолжить, повтори попытку, отсканировав QR-Код Группы.
+TEXT: Настоящая Группа Приятелей закрыта из-за бездействия. Чтобы продолжить, повтори попытку, отсканировав 2D-Код группы.
 
 RESOURCE ID: buddy_multiplayer_tutorial_0_title
 TEXT: Play in a well-lit area
@@ -30016,7 +30019,7 @@ RESOURCE ID: combat_matchmaking_generic_error
 TEXT: Error finding match.
 
 RESOURCE ID: combat_matchmaking_invalid_qr
-TEXT: Invalid QR Code.
+TEXT: Недействительный 2D-код
 
 RESOURCE ID: combat_matchmaking_match_found_status
 TEXT: Battle starting
@@ -34404,6 +34407,9 @@ RESOURCE ID: event_datetime_range_key_wattsup_jan2026
 TEXT: 10:00 13 января –
 20:00 18 января
 
+RESOURCE ID: event_details_link_gowa_2026
+TEXT: Узнать больше о бонусах этого билета можно <a href="pokemongo.com/gowildarea/global">здесь</a>.
+
 RESOURCE ID: event_evolve_cubone
 TEXT: Кьюбон может эволюционировать в Алольского Маровака
 
@@ -37268,7 +37274,7 @@ RESOURCE ID: filter_key_mega_level
 TEXT: Мега
 
 RESOURCE ID: filter_key_profile_background
-TEXT: profilebackground
+TEXT: фонпрофиля
 
 RESOURCE ID: filter_key_raid_ex
 TEXT: exraid
@@ -50682,16 +50688,16 @@ RESOURCE ID: great_league_championship_series_2026
 TEXT: Кубок Серии Игр Чемпионата GO 2026
 
 RESOURCE ID: great_league_championship_series_2027
-TEXT: 2027 GO Championship Series Cup
+TEXT: Кубок Серии Игр Чемпионата GO 2027
 
 RESOURCE ID: great_league_championship_series_2028
-TEXT: 2028 GO Championship Series Cup
+TEXT: Кубок Серии Игр Чемпионата GO 2028
 
 RESOURCE ID: great_league_championship_series_2029
-TEXT: 2029 GO Championship Series Cup
+TEXT: Кубок Серии Игр Чемпионата GO 2029
 
 RESOURCE ID: great_league_championship_series_2030
-TEXT: 2030 GO Championship Series Cup
+TEXT: Кубок Серии Игр Чемпионата GO 2030
 
 RESOURCE ID: great_league_mega_title
 TEXT: Великая Лига: Вариация Мега
@@ -60595,7 +60601,7 @@ RESOURCE ID: login_choice_screen
 TEXT: Войти в игру с
 
 RESOURCE ID: login_choice_screen_temp
-TEXT: Sign up with {0}
+TEXT: Войти с {0}
 
 RESOURCE ID: login_create_account
 TEXT: Создать аккаунт здесь
@@ -63182,10 +63188,10 @@ at SHA bacc02371739993984570a6f5b31a993cf3b031b
 Pipeline 498004, job 4265729
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-10-24T00:20:49.016765+00:00 for ru-RU
-at SHA 799aa887df2
-Pipeline 4048116, job 59688838
-Patch from: 0.435.0-SHA-d5d32cc5-RC2, 0.433.1-SHA-0f52e3f0-RC1
+TEXT: Built at 2026-10-28T00:34:05.832253+00:00 for ru-RU
+at SHA eb39dfa4ddd
+Pipeline 4056315, job 59806318
+Patch from: 0.435.0-SHA-b075bde4-RC4, 0.437.0-SHA-d1d1a55c-RC2, 0.433.1-SHA-0f52e3f0-RC1
 
 RESOURCE ID: meteor_title_1
 TEXT: МЕТЕОРИТНЫЙ ПОТОК
@@ -69042,7 +69048,7 @@ RESOURCE ID: ominous_wind_base_increased_level_bonus
 TEXT: У Мега-Шанделюра Супер-Максимального Уровня будет усилена его БC с 12:00 PST 2 ноября до 12:00 PST 15 ноября 2026.
 
 RESOURCE ID: ominous_wind_base_power_boost_bonus
-TEXT: Атака Зловещий Ветер+ будет усилена с 12:00 2 ноября до 12:00 15 ноября 2026.
+TEXT: Атака Зловещий Ветер+ будет усилена с 12:00 PST 2 ноября до 12:00 PST 15 ноября 2026.
 
 RESOURCE ID: onboard_accept_tos
 TEXT: Принять
@@ -70137,7 +70143,7 @@ RESOURCE ID: party_play_raid_menu_header
 TEXT: РЕЙДЫ КОМАНДНОЙ ИГРЫ
 
 RESOURCE ID: party_play_scan_qr_code
-TEXT: Отсканируй QR-код команды.
+TEXT: Отсканируй 2D-код команды.
 
 RESOURCE ID: party_play_see_all_activities
 TEXT: Посмотреть всю активность
@@ -84036,7 +84042,7 @@ RESOURCE ID: pokestop_button_manual_input_2
 TEXT: Переключиться на ручной ввод
 
 RESOURCE ID: pokestop_button_read_qr_code
-TEXT: READ QR CODE
+TEXT: ПРОЧИТАЙ 2D-КОД
 
 RESOURCE ID: pokestop_challenge_fr_title
 TEXT: Испытание Покестопы
@@ -84048,8 +84054,8 @@ RESOURCE ID: pokestop_challenge_tr_desc_title_00
 TEXT: Квест на время Испытание Покестопы (1/1)
 
 RESOURCE ID: pokestop_check_in_notice
-TEXT: Welcome to {0}!
-Please use the camera to read the QR Code to check in.
+TEXT: Добро пожаловать в {0}!
+Воспользуйся камерой, чтобы прочитать 2D-код и зарегистрироваться.
 
 RESOURCE ID: pokestop_check_in_succeeded
 TEXT: SUCCESSFULLY CHECKED IN
@@ -85089,7 +85095,7 @@ RESOURCE ID: psychic_type_event
 TEXT: Активизация типа: Психо
 
 RESOURCE ID: ptc_account_creation_prompt
-TEXT: Нет аккаунта Клуба Тренеров Покемонов?
+TEXT: Нет аккаунта Центра Тренеров Покемонов?
 
 RESOURCE ID: ptc_auth_failed
 TEXT: Не удалось выполнить проверку подлинности. Попробуй ещё раз.
@@ -85101,13 +85107,13 @@ RESOURCE ID: ptc_auth_consent_needed
 TEXT: Чтобы продолжить играть, дай Pokémon GO доступ к твоему аккаунту Центра Тренеров Покемонов.
 
 RESOURCE ID: ptc_auth_consent_needed_out
-TEXT: Чтобы продолжить играть, дай Pokémon GO доступ к твоему аккаунту Клуба Тренеров Покемонов.
+TEXT: Чтобы продолжить играть, дай Pokémon GO доступ к твоему аккаунту Центра Тренеров Покемонов.
 
 RESOURCE ID: ptc_auth_link_btn
 TEXT: Привязать
 
 RESOURCE ID: ptc_auth_link_disclaimer
-TEXT: Если аккаунт Клуба Тренеров Покемонов был привязан, отменить эту привязку невозможно.
+TEXT: Если аккаунт Центра Тренеров Покемонов был привязан, отменить эту привязку невозможно.
 
 RESOURCE ID: ptc_auth_link_failed
 TEXT: Не удалось привязать аккаунт
@@ -85116,22 +85122,22 @@ RESOURCE ID: ptc_auth_link_message
 TEXT: Привяжи свой аккаунт Центра Тренеров Покемонов к своему аккаунту Pokémon GO, чтобы заработать этот предмет: {0}.
 
 RESOURCE ID: ptc_auth_link_message_out
-TEXT: Привяжи свой аккаунт Клуба Тренеров Покемонов к своему аккаунту Pokémon GO, чтобы заработать этот предмет: {0}.
+TEXT: Привяжи свой аккаунт Центра Тренеров Покемонов к своему аккаунту Pokémon GO, чтобы заработать этот предмет: {0}.
 
 RESOURCE ID: ptc_auth_link_toggle_disclaimer
 TEXT: Невозможно отменить привязку.
 
 RESOURCE ID: ptc_auth_parent_consent_needed
-TEXT: Нужно, чтобы твой родитель или опекун дали Pokémon GO доступ к твоему аккаунту Клуба Тренеров Покемонов.
+TEXT: Нужно, чтобы твой родитель или опекун дали Pokémon GO доступ к твоему аккаунту Центра Тренеров Покемонов.
 
 RESOURCE ID: ptc_auth_retry_validate
 TEXT: Для подтверждения используйте имя пользователя и пароль от своего аккаунта.
 
 RESOURCE ID: ptc_auth_timed_research_title
-TEXT: Награда Клуба Тренеров Покемонов
+TEXT: Награда Центра Тренеров Покемонов
 
 RESOURCE ID: ptc_auth_timed_research_message
-TEXT: Привяжи или подтверди свой аккаунт Клуба Тренеров Покемонов, зайдя в Настройки Pokémon GO и выбрав раздел Аккаунт.
+TEXT: Привяжи или подтверди свой аккаунт Центра Тренеров Покемонов, зайдя в Настройки Pokémon GO и выбрав раздел Аккаунт.
 
 RESOURCE ID: ptc_auth_validate_title
 TEXT: Квест на время {0}
@@ -85149,10 +85155,10 @@ RESOURCE ID: ptc_auth_validate_footer
 TEXT: Pokémon GO может перезапуститься после успешного подтверждения.
 
 RESOURCE ID: ptc_auth_validate_message
-TEXT: Подтверди свой аккаунт Клуба Тренеров Покемонов, чтобы заработать этот предмет: {0}.
+TEXT: Подтверди свой аккаунт Центра Тренеров Покемонов, чтобы заработать этот предмет: {0}.
 
 RESOURCE ID: ptc_auth_validate_success
-TEXT: Аккаунт Клуба Тренеров Покемонов подтверждён! Приложение Pokémon GO будет перезапущено.
+TEXT: Аккаунт Центра Тренеров Покемонов подтверждён! Приложение Pokémon GO будет перезапущено.
 
 RESOURCE ID: ptc_auth_validate_trainer_name
 TEXT: Привязан к этому имени пользователя: {0}
@@ -85164,7 +85170,7 @@ RESOURCE ID: ptc_claim_reward_msg
 TEXT: Тебе удалось привязать свой аккаунт Центра Тренеров Покемонов и заработать Инкубатор.
 
 RESOURCE ID: ptc_claim_reward_msg_out
-TEXT: Тебе удалось привязать свой аккаунт Клуба Тренеров Покемонов и заработать Инкубатор.
+TEXT: Тебе удалось привязать свой аккаунт Центра Тренеров Покемонов и заработать Инкубатор.
 
 RESOURCE ID: ptc_error_activation_required
 TEXT: Пожалуйста, активируй свой аккаунт, чтобы играть в <i>Pokémon GO</i>.
@@ -85185,16 +85191,16 @@ RESOURCE ID: ptc_login_submit
 TEXT: Войти
 
 RESOURCE ID: ptc_login_button_out
-TEXT: Клуб Тренеров Покемонов
+TEXT: Центр Тренеров Покемонов
 
 RESOURCE ID: ptc_login_server_unreachable
 TEXT: Центр Тренеров Покемонов сейчас недоступен. Приносим извинения за неудобства.
 
 RESOURCE ID: ptc_login_server_unreachable_out
-TEXT: Клуб Тренеров Покемонов сейчас недоступен. Приносим извинения за неудобства.
+TEXT: Центр Тренеров Покемонов сейчас недоступен. Приносим извинения за неудобства.
 
 RESOURCE ID: ptc_login_title_out
-TEXT: Клуб Тренеров Покемонов
+TEXT: Центр Тренеров Покемонов
 
 RESOURCE ID: ptc_login_title_short
 TEXT: Клуб Тренеров
@@ -85284,10 +85290,10 @@ RESOURCE ID: pxp_worlds_event_name_2026
 TEXT: PokémonXP и ЧМ 2026
 
 RESOURCE ID: qr_code_title
-TEXT: Сканировать QR-код
+TEXT: Отсканируй 2D-Код
 
 RESOURCE ID: qr_decode_problem
-TEXT: Не удалось распознать QR-код. Пожалуйста, попробуй ввести его вручную.
+TEXT: Не удалось распознать 2D-код. Пожалуйста, попробуй ввести его вручную.
 
 RESOURCE ID: qualifier_limited _one_event_raid
 TEXT: Примечание: некоторые особые рейды события могут выполняться каждым Тренером только один раз.
@@ -119479,6 +119485,9 @@ TEXT: Выбрать Характеристику
 RESOURCE ID: select_a_pokemon
 TEXT: Выбери Покемона
 
+RESOURCE ID: select_a_paid_gift
+TEXT: Select a paid gift to send to your friend
+
 RESOURCE ID: select_gift_to_delete_prompt
 TEXT: Выбрать подарок для удаления
 
@@ -119520,6 +119529,9 @@ TEXT: Твой друг отказался от получения печате�
 
 RESOURCE ID: send_video_ad_report_button
 TEXT: ОТПРАВИТЬ ЖАЛОБУ
+
+RESOURCE ID: sending_paid_gift_to
+TEXT: You are sending this paid gift to:
 
 RESOURCE ID: sent_friend_error_toast
 TEXT: Тренер достиг дневного лимита Удалённых Битв Макс и Удалённых Рейдов.
@@ -122005,10 +122017,10 @@ RESOURCE ID: social_add_friend_facebook
 TEXT: Import friends from Facebook
 
 RESOURCE ID: social_add_friend_qr
-TEXT: QR Code
+TEXT: 2D-Код
 
 RESOURCE ID: social_add_friend_qr_v2
-TEXT: SCAN QR CODE
+TEXT: ОТСКАНИРУЙ 2D-КОД
 
 RESOURCE ID: social_cancel_friend_request
 TEXT: Отменить запрос
@@ -122020,7 +122032,7 @@ RESOURCE ID: social_my_code
 TEXT: MY TRAINER CODE
 
 RESOURCE ID: social_my_qr_code
-TEXT: My QR Code
+TEXT: Мой 2D-Код
 
 RESOURCE ID: social_no_friends
 TEXT: Play together with your friends to unlock trades, Premier Balls, and power-ups for battle!
@@ -122147,13 +122159,13 @@ RESOURCE ID: social_qr_code_header
 TEXT: MY CODE
 
 RESOURCE ID: social_qr_code_prompt
-TEXT: Scan this QR Code with another Trainer's scanner.
+TEXT: Отсканируй этот 2D-Код с помощью сканера другого Тренера.
 
 RESOURCE ID: social_qr_scan_header
 TEXT: SCAN
 
 RESOURCE ID: social_qr_scan_prompt
-TEXT: Scan a Trainer's QR Code
+TEXT: Отсканируй 2D-Код Тренера
 
 RESOURCE ID: social_remove_friend
 TEXT: Remove Friend

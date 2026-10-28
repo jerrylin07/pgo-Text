@@ -18990,6 +18990,9 @@ TEXT: Eternamax Eternatus now appearing in special Max Battles
 RESOURCE ID: bonus_electric_moves
 TEXT: Your Electric-type attacks are stronger in Gym battles, Max Battles, and raids
 
+RESOURCE ID: bonus_energy_max_battles
+TEXT: Energy collected during Max Battles fills the meter faster
+
 RESOURCE ID: bonus_event_2023_france_title
 TEXT: Pokémon: Art through the Ages
 
@@ -34342,6 +34345,9 @@ July 20, 8:00 p.m.
 RESOURCE ID: event_datetime_range_key_wattsup_jan2026
 TEXT: January 13, 10:00 a.m. –
 January 18, 8:00 p.m.
+
+RESOURCE ID: event_details_link_gowa_2026
+TEXT: Learn more about the ticket bonuses <a href=“pokemongo.com/gowildarea/global”>here</a>.
 
 RESOURCE ID: event_evolve_cubone
 TEXT: Cubone can evolve into Alolan Marowak
@@ -63078,10 +63084,10 @@ at SHA 4d4f3e80cc7fb911006bd14d198c9831ef66d005
 Pipeline 339838, job 2672172
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-10-24T00:20:49.016765+00:00 for en-US
-at SHA 799aa887df2
-Pipeline 4048116, job 59688838
-Patch from: 0.435.0-SHA-d5d32cc5-RC2, 0.433.1-SHA-0f52e3f0-RC1
+TEXT: Built at 2026-10-28T00:34:05.832253+00:00 for en-US
+at SHA eb39dfa4ddd
+Pipeline 4056315, job 59806318
+Patch from: 0.435.0-SHA-b075bde4-RC4, 0.437.0-SHA-d1d1a55c-RC2, 0.433.1-SHA-0f52e3f0-RC1
 
 RESOURCE ID: meteor_title_1
 TEXT: METEOR SHOWER
@@ -119363,6 +119369,9 @@ TEXT: Select Stat
 RESOURCE ID: select_a_pokemon
 TEXT: Select a Pokémon
 
+RESOURCE ID: select_a_paid_gift
+TEXT: Select a paid gift to send to your friend
+
 RESOURCE ID: select_gift_to_delete_prompt
 TEXT: Select Gift to discard
 
@@ -119404,6 +119413,9 @@ TEXT: Your friend has opted out of receiving stamps that come with Gifts. Do you
 
 RESOURCE ID: send_video_ad_report_button
 TEXT: SEND REPORT
+
+RESOURCE ID: sending_paid_gift_to
+TEXT: You are sending this paid gift to:
 
 RESOURCE ID: sent_friend_error_toast
 TEXT: Trainer has reached their daily limit of Remote Max Battles and Remote Raids.
@@ -120714,9 +120726,9 @@ TEXT: A friend may be ineligible to receive paid gifts for the following reasons
 • You do not meet the minimum Friendship level requirement to give this friend a gift.
 
 RESOURCE ID: shop_gift_friend_ineligible_description_temp
-TEXT: You may not be able to send paid gifts—including items, tickets, and event passes—to some friends. This can happen for the following reasons:
+TEXT: You may not be able to send paid gifts—including items, tickets, and GO Pass Deluxes —to some friends. This can happen for the following reasons:
 
-• They already own the ticket or event pass, or someone else sent it to them
+• They already own the ticket or GO Pass Deluxe, or have reached the limit for an item in this gift
 • They may have active or completed research that prevents them from receiving tickets
 • Your friendship level is too low
 • They have disabled paid gifts

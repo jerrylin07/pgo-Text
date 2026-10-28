@@ -19611,6 +19611,9 @@ TEXT: Eternatus Dinamax Infinito está apareciendo en Combates Max especiales
 RESOURCE ID: bonus_electric_moves
 TEXT: Tus ataques de tipo Eléctrico son más potentes en combates de Gimnasio, Combates Max e incursiones
 
+RESOURCE ID: bonus_energy_max_battles
+TEXT: La energía recogida durante los Combates Max carga el contador más rápidamente.
+
 RESOURCE ID: bonus_event_2023_france_title
 TEXT: Pokémon: Art through the Ages
 
@@ -22643,7 +22646,7 @@ RESOURCE ID: buddy_monodepth_modal_turn_off_button
 TEXT: Desactivar Scopely Explore AR Platform (versión de prueba)
 
 RESOURCE ID: buddy_multilplayer_qr_display_header
-TEXT: Código QR de grupo de compañeros
+TEXT: Código 2D de grupo de compañeros
 
 RESOURCE ID: buddy_multiplayer_quit
 TEXT: ¿Quieres salir de la sesión?
@@ -22652,7 +22655,7 @@ RESOURCE ID: buddy_multiplayer_connection_error
 TEXT: Error de conexión
 
 RESOURCE ID: buddy_multiplayer_create_session
-TEXT: Crea un código QR de grupo
+TEXT: Crea un código 2D de grupo
 
 RESOURCE ID: buddy_multiplayer_deploy_invalid_position
 TEXT: Intenta encontrar un área plana más grande.
@@ -22734,7 +22737,7 @@ RESOURCE ID: buddy_multiplayer_lobby_body_peer
 TEXT: ¡Recibe indicaciones del líder del grupo para encontrar los remolinos donde hay escondites!
 
 RESOURCE ID: buddy_multiplayer_mapping_timeout
-TEXT: El grupo de compañeros actual ha cerrado por inactividad. Para continuar, prueba a volver a escanear un código QR de grupo de compañeros.
+TEXT: El grupo de compañeros actual ha cerrado por inactividad. Para continuar, prueba a volver a escanear un código 2D de grupo.
 
 RESOURCE ID: buddy_multiplayer_peer_cannot_exit_group_photo
 TEXT: {0} es ahora el fotógrafo líder. Pídele a {0} que desactive el modo foto de grupo.
@@ -22761,7 +22764,7 @@ RESOURCE ID: buddy_multiplayer_player_count_can_join_singular
 TEXT: Puede unirse 1 Entrenador más
 
 RESOURCE ID: buddy_multiplayer_qr_guidance
-TEXT: Escanea un código QR de grupo
+TEXT: Escanea un código 2D de grupo
 
 RESOURCE ID: buddy_multiplayer_qr_display_body
 TEXT: Si está todo el mundo, toca el botón IR.
@@ -22774,7 +22777,7 @@ TEXT: Cuando estés usando el modo RA, asegúrate de estar en un lugar seguro y
 de que todos los menores estén bajo supervisión en todo momento.
 
 RESOURCE ID: buddy_multiplayer_scan_button
-TEXT: Escanea un código QR de grupo
+TEXT: Escanea un código 2D de grupo
 
 RESOURCE ID: buddy_multiplayer_start_session
 TEXT: Ir
@@ -22783,7 +22786,7 @@ RESOURCE ID: buddy_multiplayer_timeout_dialog_title
 TEXT: Este grupo de compañeros ha cerrado.
 
 RESOURCE ID: buddy_multiplayer_timeout_dialog_description
-TEXT: El grupo de compañeros actual ha cerrado por inactividad. Para continuar, prueba a volver a escanear un código QR de grupo de compañeros.
+TEXT: El grupo de compañeros actual ha cerrado por inactividad. Para continuar, prueba a volver a escanear un código 2D de grupo de compañeros.
 
 RESOURCE ID: buddy_multiplayer_tutorial_0_title
 TEXT: Juega en un área bien iluminada
@@ -30579,7 +30582,7 @@ RESOURCE ID: combat_matchmaking_generic_error
 TEXT: Error al encontrar combate.
 
 RESOURCE ID: combat_matchmaking_invalid_qr
-TEXT: WRONG!
+TEXT: Código 2D no válido.
 
 RESOURCE ID: combat_matchmaking_match_found_status
 TEXT: Comienzo del combate
@@ -32215,7 +32218,7 @@ RESOURCE ID: delete_gift_message
 TEXT: Los regalos no ocupan espacio en la Bolsa.
 
 RESOURCE ID: delete_gift_ok
-TEXT: Discard
+TEXT: Descartar
 
 RESOURCE ID: delete_pokemon_tag_confirmation
 TEXT: Esta etiqueta será eliminada de los Pokémon a los que ha sido asignada. Los Pokémon no serán transferidos al Profesor Willow.
@@ -33699,10 +33702,10 @@ RESOURCE ID: encounter_score_great_throw
 TEXT: Gran lanzamiento
 
 RESOURCE ID: encounter_score_master_ball_throw
-TEXT: Lanzamiento de Master Ball
+TEXT: Bonus de lanzamiento de Master Ball
 
 RESOURCE ID: encounter_score_new_pokemon
-TEXT: Pokémon nuevo
+TEXT: Bonus de nuevo Pokémon capturado
 
 RESOURCE ID: encounter_score_nice_throw
 TEXT: Buen lanzamiento
@@ -34968,6 +34971,9 @@ al 20 de julio a las 20:00.
 RESOURCE ID: event_datetime_range_key_wattsup_jan2026
 TEXT: Del 13 de enero a las 10:00
 al 18 de enero a las 20:00.
+
+RESOURCE ID: event_details_link_gowa_2026
+TEXT: Consulta toda la información sobre los bonus de la entrada <a href="pokemongo.com/gowildarea/global">aquí</a>.
 
 RESOURCE ID: event_evolve_cubone
 TEXT: Cubone puede evolucionar a Marowak de Alola
@@ -63761,10 +63767,10 @@ at SHA 4d4f3e80cc7fb911006bd14d198c9831ef66d005
 Pipeline 339838, job 2672172
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-10-24T00:20:49.016765+00:00 for es-ES
-at SHA 799aa887df2
-Pipeline 4048116, job 59688838
-Patch from: 0.435.0-SHA-d5d32cc5-RC2, 0.433.1-SHA-0f52e3f0-RC1
+TEXT: Built at 2026-10-28T00:34:05.832253+00:00 for es-ES
+at SHA eb39dfa4ddd
+Pipeline 4056315, job 59806318
+Patch from: 0.435.0-SHA-b075bde4-RC4, 0.437.0-SHA-d1d1a55c-RC2, 0.433.1-SHA-0f52e3f0-RC1
 
 RESOURCE ID: meteor_title_1
 TEXT: LLUVIA DE METEORITOS
@@ -70715,7 +70721,7 @@ RESOURCE ID: party_play_raid_menu_header
 TEXT: INCURSIONES EN EQUIPO
 
 RESOURCE ID: party_play_scan_qr_code
-TEXT: Escanea el código QR del equipo.
+TEXT: Escanea el código 2D del equipo.
 
 RESOURCE ID: party_play_see_all_activities
 TEXT: Ver todas las actividades
@@ -84624,7 +84630,7 @@ RESOURCE ID: pokestop_button_manual_input_2
 TEXT: Cambiar a entrada manual
 
 RESOURCE ID: pokestop_button_read_qr_code
-TEXT: LEER CÓDIGO QR
+TEXT: LEER CÓDIGO 2D
 
 RESOURCE ID: pokestop_challenge_fr_title
 TEXT: Desafío de Poképaradas
@@ -84637,7 +84643,7 @@ TEXT: Investigación temporal: Desafío de Poképaradas (1/1)
 
 RESOURCE ID: pokestop_check_in_notice
 TEXT: ¡Te damos la bienvenida a {0}!
-Usa la cámara para leer el código QR para registrarte.
+Usa la cámara para leer el código 2D para registrarte.
 
 RESOURCE ID: pokestop_check_in_succeeded
 TEXT: REGISTRO CON ÉXITO
@@ -85872,10 +85878,10 @@ RESOURCE ID: pxp_worlds_event_name_2026
 TEXT: PokémonXP y Mundial 2026
 
 RESOURCE ID: qr_code_title
-TEXT: Escanear el código QR
+TEXT: Escanea el código 2D
 
 RESOURCE ID: qr_decode_problem
-TEXT: Error en el reconocimiento del código QR. Inténtalo manualmente.
+TEXT: Error en el reconocimiento del código 2D. Inténtalo manualmente.
 
 RESOURCE ID: qualifier_limited _one_event_raid
 TEXT: Nota: Determinadas incursiones especiales solo se pueden completar una vez por cada Entrenador.
@@ -113433,7 +113439,7 @@ RESOURCE ID: record_new_route
 TEXT: REGISTRAR NUEVA RUTA
 
 RESOURCE ID: recycle_dialog_prefix
-TEXT: ¿Tirar
+TEXT: Descartar
 
 RESOURCE ID: recycle_dialog_quantity
 TEXT: CANTIDAD: {0}
@@ -118299,13 +118305,13 @@ RESOURCE ID: score_field_research_singular
 TEXT: Tareas de investigación de campo completadas: 1
 
 RESOURCE ID: score_raids_max_battles_none
-TEXT: Completed 0 Raids or Max Battles
+TEXT: Completado: 0 incursiones o Combates Max
 
 RESOURCE ID: score_raids_max_battles_plural
 TEXT: Completed {0} Raids or Max Battles
 
 RESOURCE ID: score_raids_max_battles_singular
-TEXT: Completed 1 Raid or Max Battle
+TEXT: Completado: 1 incursión o Combate Max
 
 RESOURCE ID: score_send_gift_none
 TEXT: Regalos enviados a amigos: 0
@@ -120081,6 +120087,9 @@ TEXT: Seleccionar estadística
 RESOURCE ID: select_a_pokemon
 TEXT: Elegir Pokémon
 
+RESOURCE ID: select_a_paid_gift
+TEXT: Select a paid gift to send to your friend
+
 RESOURCE ID: select_gift_to_delete_prompt
 TEXT: Selecciona regalos para eliminar
 
@@ -120122,6 +120131,9 @@ TEXT: Tu amistad ha decidido no recibir los sellos de los regalos. ¿Quieres env
 
 RESOURCE ID: send_video_ad_report_button
 TEXT: ENVIAR INFORME
+
+RESOURCE ID: sending_paid_gift_to
+TEXT: You are sending this paid gift to:
 
 RESOURCE ID: sent_friend_error_toast
 TEXT: Esta persona ha alcanzado el límite diario de Combates Max remotos e incursiones remotas.
@@ -122608,10 +122620,10 @@ RESOURCE ID: social_add_friend_facebook
 TEXT: Importa amigos de Facebook.
 
 RESOURCE ID: social_add_friend_qr
-TEXT: Código QR
+TEXT: Código 2D
 
 RESOURCE ID: social_add_friend_qr_v2
-TEXT: SCAN QR CODE
+TEXT: ESCANEAR CÓDIGO 2D
 
 RESOURCE ID: social_cancel_friend_request
 TEXT: Cancel request
@@ -122623,7 +122635,7 @@ RESOURCE ID: social_my_code
 TEXT: CÓDIGO DE ENTRENADOR
 
 RESOURCE ID: social_my_qr_code
-TEXT: Mi código QR
+TEXT: Mi código 2D
 
 RESOURCE ID: social_no_friends
 TEXT: ¡Juega con tus amigos para desbloquear intercambios, Honor Balls y más poder para los combates!
@@ -122750,13 +122762,13 @@ RESOURCE ID: social_qr_code_header
 TEXT: MI CÓDIGO
 
 RESOURCE ID: social_qr_code_prompt
-TEXT: Escanea este código QR en el escáner de tu amigo.
+TEXT: Escanea este código 2D en el escáner de otro Entrenador.
 
 RESOURCE ID: social_qr_scan_header
 TEXT: ESCANEAR
 
 RESOURCE ID: social_qr_scan_prompt
-TEXT: Escanear el código QR de tu amigo
+TEXT: Escanea el código 2D de un Entrenador
 
 RESOURCE ID: social_remove_friend
 TEXT: Eliminar amigo

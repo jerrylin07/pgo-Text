@@ -19209,6 +19209,9 @@ TEXT: Eternatus nella sua forma Dynamax Infinito sta apparendo in speciali Lotte
 RESOURCE ID: bonus_electric_moves
 TEXT: I tuoi attacchi di tipo Elettro sono più potenti nelle sfide in Palestra, nelle Lotte Dynamax e nei raid
 
+RESOURCE ID: bonus_energy_max_battles
+TEXT: L’energia raccolta durante le Lotte Dynamax riempie l’indicatore più velocemente
+
 RESOURCE ID: bonus_event_2023_france_title
 TEXT: Pokémon: Art through the Ages
 
@@ -31813,7 +31816,7 @@ RESOURCE ID: delete_gift_message
 TEXT: I pacchi amicizia non incidono sulla capacità del tuo spazio Borsa.
 
 RESOURCE ID: delete_gift_ok
-TEXT: Discard
+TEXT: Elimina
 
 RESOURCE ID: delete_pokemon_tag_confirmation
 TEXT: Questa etichetta sarà rimossa dai Pokémon a cui è stata assegnata. I Pokémon non saranno trasferiti al Professor Willow.
@@ -33297,10 +33300,10 @@ RESOURCE ID: encounter_score_great_throw
 TEXT: Ottimo tiro
 
 RESOURCE ID: encounter_score_master_ball_throw
-TEXT: Tiro con Master Ball
+TEXT: Bonus tiro con Master Ball
 
 RESOURCE ID: encounter_score_new_pokemon
-TEXT: Nuovo Pokémon
+TEXT: Bonus cattura di un nuovo Pokémon
 
 RESOURCE ID: encounter_score_nice_throw
 TEXT: Bel tiro
@@ -34564,6 +34567,9 @@ al 20 luglio alle 20:00
 RESOURCE ID: event_datetime_range_key_wattsup_jan2026
 TEXT: Dal 13 gennaio alle 10:00
 all’18 gennaio alle 20:00
+
+RESOURCE ID: event_details_link_gowa_2026
+TEXT: Scopri di più sui bonus per il biglietto <a href="pokemongo.com/gowildarea/global">qui</a>.
 
 RESOURCE ID: event_evolve_cubone
 TEXT: Cubone può evolversi in Marowak di Alola
@@ -37438,7 +37444,7 @@ RESOURCE ID: filter_key_mega_level
 TEXT: Mega
 
 RESOURCE ID: filter_key_profile_background
-TEXT: profilebackground
+TEXT: sfondoprofilo
 
 RESOURCE ID: filter_key_raid_ex
 TEXT: raidex
@@ -50840,16 +50846,16 @@ RESOURCE ID: great_league_championship_series_2026
 TEXT: Coppa GO dei Campionati 2026
 
 RESOURCE ID: great_league_championship_series_2027
-TEXT: 2027 GO Championship Series Cup
+TEXT: Coppa GO dei Campionati 2027
 
 RESOURCE ID: great_league_championship_series_2028
-TEXT: 2028 GO Championship Series Cup
+TEXT: Coppa GO dei Campionati 2028
 
 RESOURCE ID: great_league_championship_series_2029
-TEXT: 2029 GO Championship Series Cup
+TEXT: Coppa GO dei Campionati 2029
 
 RESOURCE ID: great_league_championship_series_2030
-TEXT: 2030 GO Championship Series Cup
+TEXT: Coppa GO dei Campionati 2030
 
 RESOURCE ID: great_league_mega_title
 TEXT: Lega Master: edizione Mega
@@ -60755,7 +60761,7 @@ RESOURCE ID: login_choice_screen
 TEXT: Accedi con
 
 RESOURCE ID: login_choice_screen_temp
-TEXT: Sign up with {0}
+TEXT: Accedi con {0}
 
 RESOURCE ID: login_create_account
 TEXT: Creane uno qui
@@ -63341,10 +63347,10 @@ at SHA 4d4f3e80cc7fb911006bd14d198c9831ef66d005
 Pipeline 339838, job 2672172
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-10-24T00:20:49.016765+00:00 for it-IT
-at SHA 799aa887df2
-Pipeline 4048116, job 59688838
-Patch from: 0.435.0-SHA-d5d32cc5-RC2, 0.433.1-SHA-0f52e3f0-RC1
+TEXT: Built at 2026-10-28T00:34:05.832253+00:00 for it-IT
+at SHA eb39dfa4ddd
+Pipeline 4056315, job 59806318
+Patch from: 0.435.0-SHA-b075bde4-RC4, 0.437.0-SHA-d1d1a55c-RC2, 0.433.1-SHA-0f52e3f0-RC1
 
 RESOURCE ID: meteor_title_1
 TEXT: PIOGGIA DI METEORE
@@ -85253,7 +85259,7 @@ RESOURCE ID: psychic_type_event
 TEXT: Invasione di tipo Psico
 
 RESOURCE ID: ptc_account_creation_prompt
-TEXT: Non hai un account del Club Allenatori di Pokémon?
+TEXT: Non hai un account del Centro Allenatori di Pokémon?
 
 RESOURCE ID: ptc_auth_failed
 TEXT: Autenticazione fallita. Riprova.
@@ -85265,13 +85271,13 @@ RESOURCE ID: ptc_auth_consent_needed
 TEXT: Per continuare a giocare devi autorizzare Pokémon GO ad accedere al tuo account del Centro Allenatori di Pokémon.
 
 RESOURCE ID: ptc_auth_consent_needed_out
-TEXT: Per continuare a giocare devi autorizzare Pokémon GO ad accedere al tuo account del Club Allenatori di Pokémon.
+TEXT: Per continuare a giocare devi autorizzare Pokémon GO ad accedere al tuo account del Centro Allenatori di Pokémon.
 
 RESOURCE ID: ptc_auth_link_btn
 TEXT: Collega
 
 RESOURCE ID: ptc_auth_link_disclaimer
-TEXT: Una volta collegato, l’account del Club Allenatori di Pokémon non può essere scollegato.
+TEXT: Una volta collegato, l’account del Centro Allenatori di Pokémon non può essere scollegato.
 
 RESOURCE ID: ptc_auth_link_failed
 TEXT: Collegamento fallito
@@ -85280,22 +85286,22 @@ RESOURCE ID: ptc_auth_link_message
 TEXT: Collega il tuo account del Centro Allenatori di Pokémon al tuo account di Pokémon GO per ottenere questa ricompensa: {0}.
 
 RESOURCE ID: ptc_auth_link_message_out
-TEXT: Collega il tuo account del Club Allenatori di Pokémon al tuo account di Pokémon GO per ottenere questa ricompensa: {0}
+TEXT: Collega il tuo account del Centro Allenatori di Pokémon al tuo account di Pokémon GO per ottenere questa ricompensa: {0}
 
 RESOURCE ID: ptc_auth_link_toggle_disclaimer
 TEXT: Impossibile scollegare.
 
 RESOURCE ID: ptc_auth_parent_consent_needed
-TEXT: Un genitore o tutore deve autorizzare Pokémon GO ad accedere al tuo account del Club Allenatori di Pokémon.
+TEXT: Un genitore o tutore deve autorizzare Pokémon GO ad accedere al tuo account del Centro Allenatori di Pokémon.
 
 RESOURCE ID: ptc_auth_retry_validate
 TEXT: Convalida usando il nome utente e la password collegati al tuo account.
 
 RESOURCE ID: ptc_auth_timed_research_title
-TEXT: Ricompensa del Club Allenatori di Pokémon
+TEXT: Ricompensa del Centro Allenatori di Pokémon
 
 RESOURCE ID: ptc_auth_timed_research_message
-TEXT: Collega o convalida il tuo account del Club Allenatori di Pokémon toccando l’opzione Account nelle impostazioni di Pokémon GO.
+TEXT: Collega o convalida il tuo account del Centro Allenatori di Pokémon toccando l’opzione Account nelle impostazioni di Pokémon GO.
 
 RESOURCE ID: ptc_auth_validate_title
 TEXT: Ricerca a tempo {0}
@@ -85313,10 +85319,10 @@ RESOURCE ID: ptc_auth_validate_footer
 TEXT: A convalida effettuata, Pokémon GO potrebbe riavviarsi.
 
 RESOURCE ID: ptc_auth_validate_message
-TEXT: Convalida il tuo account del Club Allenatori di Pokémon per ottenere questa ricompensa: {0}
+TEXT: Convalida il tuo account del Centro Allenatori di Pokémon per ottenere questa ricompensa: {0}
 
 RESOURCE ID: ptc_auth_validate_success
-TEXT: L’account del Club Allenatori di Pokémon è stato convalidato. Pokémon GO si riavvierà.
+TEXT: L’account del Centro Allenatori di Pokémon è stato convalidato. Pokémon GO si riavvierà.
 
 RESOURCE ID: ptc_auth_validate_trainer_name
 TEXT: Collegato al nome utente: {0}
@@ -85328,7 +85334,7 @@ RESOURCE ID: ptc_claim_reward_msg
 TEXT: Hai collegato il tuo account del Centro Allenatori di Pokémon e ottenuto un’Incubatrice.
 
 RESOURCE ID: ptc_claim_reward_msg_out
-TEXT: Hai collegato il tuo account del Club Allenatori di Pokémon e ottenuto un’Incubatrice.
+TEXT: Hai collegato il tuo account del Centro Allenatori di Pokémon e ottenuto un’Incubatrice.
 
 RESOURCE ID: ptc_error_activation_required
 TEXT: Attiva il tuo account per giocare con <i>Pokémon GO</i>.
@@ -85349,16 +85355,16 @@ RESOURCE ID: ptc_login_submit
 TEXT: Accedi
 
 RESOURCE ID: ptc_login_button_out
-TEXT: Club Allenatori
+TEXT: Centro Allenatori di Pokémon
 
 RESOURCE ID: ptc_login_server_unreachable
 TEXT: Il Centro Allenatori di Pokémon non è al momento disponibile. Ci scusiamo per il disagio.
 
 RESOURCE ID: ptc_login_server_unreachable_out
-TEXT: Il Club Allenatori di Pokémon non è al momento disponibile. Ci scusiamo per il disagio.
+TEXT: Il Centro Allenatori di Pokémon non è al momento disponibile. Ci scusiamo per il disagio.
 
 RESOURCE ID: ptc_login_title_out
-TEXT: Club Allenatori di Pokémon
+TEXT: Centro Allenatori di Pokémon
 
 RESOURCE ID: ptc_login_title_short
 TEXT: Club Allenatori
@@ -117880,13 +117886,13 @@ RESOURCE ID: score_field_research_singular
 TEXT: Hai completato una missione di ricerca sul campo
 
 RESOURCE ID: score_raids_max_battles_none
-TEXT: Completed 0 Raids or Max Battles
+TEXT: Raid o Lotte Dynamax completate: 0
 
 RESOURCE ID: score_raids_max_battles_plural
-TEXT: Completed {0} Raids or Max Battles
+TEXT: Raid o Lotte Dynamax completate: {0}
 
 RESOURCE ID: score_raids_max_battles_singular
-TEXT: Completed 1 Raid or Max Battle
+TEXT: Raid o Lotte Dynamax completate: 1
 
 RESOURCE ID: score_send_gift_none
 TEXT: Pacchi amicizia inviati: 0
@@ -119661,6 +119667,9 @@ TEXT: Seleziona statistica
 RESOURCE ID: select_a_pokemon
 TEXT: Seleziona un Pokémon
 
+RESOURCE ID: select_a_paid_gift
+TEXT: Select a paid gift to send to your friend
+
 RESOURCE ID: select_gift_to_delete_prompt
 TEXT: Scegli i pacchi amicizia da eliminare
 
@@ -119702,6 +119711,9 @@ TEXT: Il tuo amico ha scelto di non ricevere timbri nei pacchi amicizia. Vuoi co
 
 RESOURCE ID: send_video_ad_report_button
 TEXT: INVIA SEGNALAZIONE
+
+RESOURCE ID: sending_paid_gift_to
+TEXT: You are sending this paid gift to:
 
 RESOURCE ID: sent_friend_error_toast
 TEXT: Questo Allenatore ha raggiunto il suo limite giornaliero di Lotte Dynamax da remoto e raid da remoto.

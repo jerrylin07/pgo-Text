@@ -19044,6 +19044,9 @@ TEXT: Eternamaks Eternatus özel Maksi Maçlarda ortaya çıkıyor
 RESOURCE ID: bonus_electric_moves
 TEXT: Spor salonu maçları, Maksi Maçlar ve akınlarda Elektrik türü saldırılarınız daha güçlü olur
 
+RESOURCE ID: bonus_energy_max_battles
+TEXT: Maksi Maçlar sırasında toplanan enerji göstergeyi daha hızlı doldurur
+
 RESOURCE ID: bonus_event_2023_france_title
 TEXT: Pokémon: l’art sous toutes ses formes
 
@@ -29465,7 +29468,7 @@ RESOURCE ID: delete_gift_message
 TEXT: Hediyeler Eşya Çantasında yer kaplamaz.
 
 RESOURCE ID: delete_gift_ok
-TEXT: Discard
+TEXT: Sil
 
 RESOURCE ID: delete_pokemon_tag_confirmation
 TEXT: Bu etiket, atandığı Pokémon’dan kaldırılacak. Pokémon gönderilmeyecek.
@@ -30949,10 +30952,10 @@ RESOURCE ID: encounter_score_great_throw
 TEXT: Süper Atış
 
 RESOURCE ID: encounter_score_master_ball_throw
-TEXT: Usta Top Atışı
+TEXT: Usta Top Atış Bonusu
 
 RESOURCE ID: encounter_score_new_pokemon
-TEXT: Yeni Pokémon
+TEXT: Yeni Pokémon Yakalama Bonusu
 
 RESOURCE ID: encounter_score_nice_throw
 TEXT: İyi Atış
@@ -32211,6 +32214,9 @@ TEXT: 15 Temmuz, 10.00 -
 RESOURCE ID: event_datetime_range_key_wattsup_jan2026
 TEXT: 13 Ocak, 10.00 -
 18 Ocak, 20.00
+
+RESOURCE ID: event_details_link_gowa_2026
+TEXT: Bilet bonusları hakkındaki ayrıntıları <a href="pokemongo.com/gowildarea/global">buradan</a> öğrenebilirsiniz.
 
 RESOURCE ID: event_evolve_cubone
 TEXT: Cubone, Alolalı Marowak’a evrimleşebilir
@@ -35059,7 +35065,7 @@ RESOURCE ID: filter_key_mega_level
 TEXT: Mega
 
 RESOURCE ID: filter_key_profile_background
-TEXT: profilebackground
+TEXT: profilarkaplanı
 
 RESOURCE ID: filter_key_raid_ex
 TEXT: özelakın
@@ -48392,16 +48398,16 @@ RESOURCE ID: great_league_championship_series_2026
 TEXT: 2026 GO Şampiyonası Serisi Kupası
 
 RESOURCE ID: great_league_championship_series_2027
-TEXT: 2027 GO Championship Series Cup
+TEXT: 2027 GO Şampiyonası Serisi Kupası
 
 RESOURCE ID: great_league_championship_series_2028
-TEXT: 2028 GO Championship Series Cup
+TEXT: 2028 GO Şampiyonası Serisi Kupası
 
 RESOURCE ID: great_league_championship_series_2029
-TEXT: 2029 GO Championship Series Cup
+TEXT: 2029 GO Şampiyonası Serisi Kupası
 
 RESOURCE ID: great_league_championship_series_2030
-TEXT: 2030 GO Championship Series Cup
+TEXT: 2030 GO Şampiyonası Serisi Kupası
 
 RESOURCE ID: great_league_mega_title
 TEXT: Süper Lig: Mega
@@ -58300,7 +58306,7 @@ RESOURCE ID: login_choice_screen
 TEXT: Şununla kayıt olun:
 
 RESOURCE ID: login_choice_screen_temp
-TEXT: Sign up with {0}
+TEXT: {0} ile kaydolun
 
 RESOURCE ID: login_create_account
 TEXT: Buradan Hesap Oluştur
@@ -60871,10 +60877,10 @@ at SHA 413df5befdbe0d00a543f8a142221526d63b719a
 Pipeline 834428, job 8736424
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-10-24T00:20:49.016765+00:00 for tr-TR
-at SHA 799aa887df2
-Pipeline 4048116, job 59688838
-Patch from: 0.435.0-SHA-d5d32cc5-RC2, 0.433.1-SHA-0f52e3f0-RC1
+TEXT: Built at 2026-10-28T00:34:05.832253+00:00 for tr-TR
+at SHA eb39dfa4ddd
+Pipeline 4056315, job 59806318
+Patch from: 0.435.0-SHA-b075bde4-RC4, 0.437.0-SHA-d1d1a55c-RC2, 0.433.1-SHA-0f52e3f0-RC1
 
 RESOURCE ID: meteor_title_1
 TEXT: METEOR YAĞMURU
@@ -82714,7 +82720,7 @@ RESOURCE ID: psychic_type_event
 TEXT: Tür Artışı: Psişik
 
 RESOURCE ID: ptc_account_creation_prompt
-TEXT: Pokémon Eğitmen Kulübü hesabınız yok mu?
+TEXT: Pokémon Eğitmen Merkezi hesabınız yok mu?
 
 RESOURCE ID: ptc_auth_failed
 TEXT: Doğrulama başarısız. Lütfen tekrar deneyin.
@@ -82726,13 +82732,13 @@ RESOURCE ID: ptc_auth_consent_needed
 TEXT: Oynamaya devam etmek için Pokémon Eğitmen Merkezi hesabınıza Pokémon GO erişimi vermeniz gerekiyor.
 
 RESOURCE ID: ptc_auth_consent_needed_out
-TEXT: Oynamaya devam etmek için Pokémon Eğitmen Kulübü hesabınıza Pokémon GO erişimi vermeniz gerekiyor.
+TEXT: Oynamaya devam etmek için Pokémon Eğitmen Merkezi hesabınıza Pokémon GO erişimi vermeniz gerekiyor.
 
 RESOURCE ID: ptc_auth_link_btn
 TEXT: Bağla
 
 RESOURCE ID: ptc_auth_link_disclaimer
-TEXT: Bir kez bağlandığında Pokémon Eğitmen Kulübü bağlantısı kaldırılamaz.
+TEXT: Bir kez bağlandığında Pokémon Eğitmen Merkezi bağlantısı kaldırılamaz.
 
 RESOURCE ID: ptc_auth_link_failed
 TEXT: Bağlama başarısız
@@ -82741,22 +82747,22 @@ RESOURCE ID: ptc_auth_link_message
 TEXT: Bir {0} edinmek için Pokémon Eğitmen Merkezi hesabınızı Pokémon GO hesabınıza bağlayın.
 
 RESOURCE ID: ptc_auth_link_message_out
-TEXT: Bir {0} edinmek için Pokémon Eğitmen Kulübü hesabınızı Pokémon GO hesabınıza bağlayın.
+TEXT: Bir {0} edinmek için Pokémon Eğitmen Merkezi hesabınızı Pokémon GO hesabınıza bağlayın.
 
 RESOURCE ID: ptc_auth_link_toggle_disclaimer
 TEXT: Bağlantı kaldırılamadı.
 
 RESOURCE ID: ptc_auth_parent_consent_needed
-TEXT: Bir ebeveyn veya velinin Pokémon Eğitmen Kulübü hesabınıza Pokémon GO erişimi vermesi gerekiyor.
+TEXT: Bir ebeveyn veya velinin Pokémon Eğitmen Merkezi hesabınıza Pokémon GO erişimi vermesi gerekiyor.
 
 RESOURCE ID: ptc_auth_retry_validate
 TEXT: Lütfen hesabınıza bağlı kullanıcı adı ve parolayı kullanarak doğrulayın.
 
 RESOURCE ID: ptc_auth_timed_research_title
-TEXT: Pokémon Eğitmen Kulübü Ödülü
+TEXT: Pokémon Eğitmen Merkezi Ödülü
 
 RESOURCE ID: ptc_auth_timed_research_message
-TEXT: Pokémon Eğitmen Kulübü hesabınızı bağlamak veya doğrulamak için Pokémon GO’nun Ayarlar menüsündeki Hesap seçeneğine dokunun. 
+TEXT: Pokémon Eğitmen Merkezi hesabınızı bağlamak veya doğrulamak için Pokémon GO’nun Ayarlar menüsündeki Hesap seçeneğine dokunun.
 
 RESOURCE ID: ptc_auth_validate_title
 TEXT: {0} Süreli Araştırması
@@ -82774,10 +82780,10 @@ RESOURCE ID: ptc_auth_validate_footer
 TEXT: Başarılı doğrulama sonrası Pokémon GO yeniden başlayabilir.
 
 RESOURCE ID: ptc_auth_validate_message
-TEXT: Bir {0} edinmek için Pokémon Eğitmen Kulübü hesabınızı doğrulayın.
+TEXT: Bir {0}edinmek için Pokémon Eğitmen Merkezi hesabınızı doğrulayın.
 
 RESOURCE ID: ptc_auth_validate_success
-TEXT: Pokémon Eğitmen Kulübü başarıyla doğrulandı! Pokémon GO yeniden başlatılacak.
+TEXT: Pokémon Eğitmen Merkezi başarıyla doğrulandı! Pokémon GO yeniden başlatılacak.
 
 RESOURCE ID: ptc_auth_validate_trainer_name
 TEXT: Bağlanan kullanıcı adı: {0}
@@ -82789,7 +82795,7 @@ RESOURCE ID: ptc_claim_reward_msg
 TEXT: Pokémon Eğitmen Merkezi hesabınızı başarıyla bağlayarak bir Kuluçka Makinesi kazandınız.
 
 RESOURCE ID: ptc_claim_reward_msg_out
-TEXT: Pokémon Eğitmen Kulübü hesabınızı başarıyla bağlayarak bir Kuluçka Makinesi kazandınız.
+TEXT: Pokémon Eğitmen Merkezi hesabınızı başarıyla bağlayarak bir Kuluçka Makinesi kazandınız.
 
 RESOURCE ID: ptc_error_activation_required
 TEXT: Lütfen Pokémon GO oynamak için hesabınızı etkinleştirin.
@@ -82810,16 +82816,16 @@ RESOURCE ID: ptc_login_submit
 TEXT: Oturum aç
 
 RESOURCE ID: ptc_login_button_out
-TEXT: Pokémon Eğitmen Kulübü
+TEXT: Pokémon Eğitmen Merkezi
 
 RESOURCE ID: ptc_login_server_unreachable
 TEXT: Pokémon Eğitmen Merkezi şu anda kullanılamıyor. Verdiğimiz rahatsızlık için özür dileriz.
 
 RESOURCE ID: ptc_login_server_unreachable_out
-TEXT: Pokémon Eğitmen Kulübü şu anda kullanılamıyor. Verdiğimiz rahatsızlık için özür dileriz.
+TEXT: Pokémon Eğitmen Merkezi şu anda kullanılamıyor. Bu aksaklıktan dolayı özür dileriz.
 
 RESOURCE ID: ptc_login_title_out
-TEXT: Pokémon Eğitmen Kulübü
+TEXT: Pokémon Eğitmen Merkezi
 
 RESOURCE ID: ptc_login_title_short
 TEXT: Eğitmen Kulübü
@@ -115201,13 +115207,13 @@ RESOURCE ID: score_field_research_singular
 TEXT: 1 Alan Araştırması görevi tamamlandı
 
 RESOURCE ID: score_raids_max_battles_none
-TEXT: Completed 0 Raids or Max Battles
+TEXT: 0 akın veya Maksi Maç tamamlandı
 
 RESOURCE ID: score_raids_max_battles_plural
-TEXT: Completed {0} Raids or Max Battles
+TEXT: {0} akın veya Maksi Maç tamamlandı
 
 RESOURCE ID: score_raids_max_battles_singular
-TEXT: Completed 1 Raid or Max Battle
+TEXT: 1 akın veya Maksi Maç tamamlandı
 
 RESOURCE ID: score_send_gift_none
 TEXT: Arkadaşlarına 0 Hediye gönderdiniz
@@ -116970,6 +116976,9 @@ TEXT: İstatistik Seç
 RESOURCE ID: select_a_pokemon
 TEXT: Bir Pokémon seçin
 
+RESOURCE ID: select_a_paid_gift
+TEXT: Select a paid gift to send to your friend
+
 RESOURCE ID: select_gift_to_delete_prompt
 TEXT: Atılacak Hediye seç
 
@@ -117011,6 +117020,9 @@ TEXT: Arkadaşınız Hediyelerden çıkan damgaları almamayı seçmiş. Bu Hedi
 
 RESOURCE ID: send_video_ad_report_button
 TEXT: ŞİKÂYETİ GÖNDER
+
+RESOURCE ID: sending_paid_gift_to
+TEXT: You are sending this paid gift to:
 
 RESOURCE ID: sent_friend_error_toast
 TEXT: Eğitmen günlük uzak Maksi Maç ve uzak akın sınırına ulaşmış.

@@ -18842,6 +18842,9 @@ TEXT: 무한다이노(무한다이맥스)가 특별한 맥스배틀에 출현 �
 RESOURCE ID: bonus_electric_moves
 TEXT: 체육관 배틀 , 맥스배틀, 레이드배틀에서 전기타입 기술의 위력 증가
 
+RESOURCE ID: bonus_energy_max_battles
+TEXT: 맥스 배틀 중 게이지가 빨리 채워진다
+
 RESOURCE ID: bonus_event_2023_france_title
 TEXT: Pokémon: Art through the Ages
 
@@ -34190,6 +34193,9 @@ RESOURCE ID: event_datetime_range_key_wattsup_jan2026
 TEXT: 1월 13일 10시~
 1월 18일 20시
 
+RESOURCE ID: event_details_link_gowa_2026
+TEXT: 티켓 보너스에 대한 자세한 내용은 <a href="pokemongo.com/gowildarea/global">여기</a>에서 확인하세요.
+
 RESOURCE ID: event_evolve_cubone
 TEXT: 탕구리는 텅구리(알로라의 모습)에 진화할 수 있다
 
@@ -35102,17 +35108,16 @@ TEXT: GO패스 디럭스: 와일드 위크를 구매하면 다음 리워드를 �
 - 기
 
 RESOURCE ID: event_pass_gowa_2026_event_duration
-TEXT: November 9 –
-November 15
+TEXT: 11월 9일~15일
 
 RESOURCE ID: event_pass_gowa_2026_link_november2026
-TEXT: For more details, visit the <a href="https://pokemongo.com/news/into-the-wild-2026">website</a>.
+TEXT: 자세한 내용은 <a href="https://pokemongo.com/news/into-the-wild-2026">웹사이트</a>에서 확인해 주세요.
 
 RESOURCE ID: event_pass_gowa_2026_upgrade_description
-TEXT: Purchase GO Pass Deluxe: Into the Wild to unlock the following rewards:
+TEXT: GO패스 디럭스: 와일드 위크를 구매하면 다음 리워드를 받을 수 있습니다!
 
-• One <a href="https://pokemongo.com/news/into-the-wild-2026/">Silver Bottle Cap</a>, which can be used to max one stat—Attack, Defense, or HP—on any Pokémon via Hyper Training
-• And much more!
+- 공격, 방어, HP 중 하나를 대단한 특훈으로 올릴  때 사용하는 <a href="https://pokemongo.com/news/into-the-wild-2026/">은색병뚜껑</a> 1개
+- 기타
 
 RESOURCE ID: event_pass_micro_action_modal_title
 TEXT: 포인트 입수 방법
@@ -50261,7 +50266,7 @@ RESOURCE ID: gowa2025_leadup_global_todayview_bonus
 TEXT: 와일드 위크 추가 보너스
 
 RESOURCE ID: gowa2026_leadup_collection_challenge
-TEXT: Into the Wild Collection Challenge
+TEXT: 와일드 위크 컬렉션 챌린지
 
 RESOURCE ID: gowa_supply_balloon_gsb
 TEXT: 매시간 1회 GO사파리볼이 들어 잇는 보급 열기구가 출현
@@ -56115,7 +56120,7 @@ RESOURCE ID: item_mp_name
 TEXT: 맥스 파티클
 
 RESOURCE ID: item_mp_name_plural
-TEXT: Max Particles
+TEXT: 맥스 파티클
 
 RESOURCE ID: item_mp_replenish_desc
 TEXT: {0} 맥스 파티클을 콤팩트한 용기 담은 것
@@ -56684,7 +56689,7 @@ RESOURCE ID: journal_declined_ex_raid_ticket_from_friend
 TEXT: You declined an invitation from {0}.
 
 RESOURCE ID: journal_player_fled
-TEXT: Fled from a raid encounter with {0}.
+TEXT: 레이드에서 만난 {0}에게서 도망쳤다
 
 RESOURCE ID: journal_received_fitness_rewards
 TEXT: Received {0} items from Weekly Adventure Sync Rewards.
@@ -62771,10 +62776,10 @@ at SHA 4d4f3e80cc7fb911006bd14d198c9831ef66d005
 Pipeline 339838, job 2672172
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-10-24T00:20:49.016765+00:00 for ko-KR
-at SHA 799aa887df2
-Pipeline 4048116, job 59688838
-Patch from: 0.435.0-SHA-d5d32cc5-RC2, 0.433.1-SHA-0f52e3f0-RC1
+TEXT: Built at 2026-10-28T00:34:05.832253+00:00 for ko-KR
+at SHA eb39dfa4ddd
+Pipeline 4056315, job 59806318
+Patch from: 0.435.0-SHA-b075bde4-RC4, 0.437.0-SHA-d1d1a55c-RC2, 0.433.1-SHA-0f52e3f0-RC1
 
 RESOURCE ID: meteor_title_1
 TEXT: 유성군
@@ -68650,7 +68655,7 @@ RESOURCE ID: old_friends_description
 TEXT: 프렌드와 새로운 모험- 시간제한 리서치
 
 RESOURCE ID: ominous_wind_base_increased_level_bonus
-TEXT: 메가샹델라의 레벨이 올라갑니다(11월 2일 12시~15일 12시 PST)
+TEXT: 슈퍼 맥스 레벨에 달성한 메가샹델라의 CP가 올라간다(11월 2일 12시~15일 12시 PST)
 
 RESOURCE ID: ominous_wind_base_power_boost_bonus
 TEXT: 괴상한바람의 위력이 증가(11월 2일 12시~ 15일 12시 PST)
@@ -85699,10 +85704,10 @@ RESOURCE ID: quest_catch_darumaka_plural
 TEXT: 달막화를 {0}마리 잡는다
 
 RESOURCE ID: quest_catch_dmax_machop
-TEXT: Catch a Dynamax Machop
+TEXT: 다이맥스 알통몬을 잡는다
 
 RESOURCE ID: quest_catch_dmax_ralts
-TEXT: Catch a Dynamax Ralts
+TEXT: 다이맥스 랄토스를 잡는다
 
 RESOURCE ID: quest_catch_drifloon_plural
 TEXT: 흔들풍손을 {0}마리 잡는다
@@ -86782,7 +86787,7 @@ RESOURCE ID: quest_complete_onboard_sr
 TEXT: Pokémon GO에 오신 걸 환영합니다!
 
 RESOURCE ID: quest_complete_raids_or_max_battles
-TEXT: Complete {0} raids or Max Battles
+TEXT: 레이드배틀 또는 맥스배틀을 {0}번 완료한다
 
 RESOURCE ID: quest_complete_routes_plural
 TEXT: 루트를 {0}번 완료한다
@@ -106199,7 +106204,7 @@ RESOURCE ID: quest_walk_buddy_singular
 TEXT: 파트너와 걸어서 사탕 1개를 얻자
 
 RESOURCE ID: quest_walk_buddy_dragon_plural
-TEXT: Earn {0} Candies exploring with a Dragon-type Pokémon as your buddy
+TEXT: 파트너 드래곤타입 포켓몬과 탐색하여 사탕을 {0}개 받는다
 
 RESOURCE ID: quest_walk_buddy_fairy_plural
 TEXT: 파트너 페어리타입 포켓몬과 탐색하여 사탕을 {0}개 받는다
@@ -106208,7 +106213,7 @@ RESOURCE ID: quest_walk_buddy_fighting_plural
 TEXT: 파트너 격투타입 포켓몬과 탐색하여 사탕을 {0}개 받는다
 
 RESOURCE ID: quest_walk_buddy_steel_plural
-TEXT: Earn {0} Candies exploring with a Steel-type Pokémon as your buddy
+TEXT: 파트너 강철타입 포켓몬과 탐색하여 사탕을 {0}개 받는다
 
 RESOURCE ID: quest_walk_buddy_volcanion_plural
 TEXT: 파트너 볼케니온과 탐색하여 사탕을 {0}개 받는다
@@ -119015,6 +119020,9 @@ TEXT: 결정
 RESOURCE ID: select_a_pokemon
 TEXT: 포켓몬을 선택해주세요
 
+RESOURCE ID: select_a_paid_gift
+TEXT: Select a paid gift to send to your friend
+
 RESOURCE ID: select_gift_to_delete_prompt
 TEXT: 버릴 선물
 
@@ -119056,6 +119064,9 @@ TEXT: 프렌드의 스탬프를 받지 않는다고 설정되어 있습니다. �
 
 RESOURCE ID: send_video_ad_report_button
 TEXT: 보내기
+
+RESOURCE ID: sending_paid_gift_to
+TEXT: You are sending this paid gift to:
 
 RESOURCE ID: sent_friend_error_toast
 TEXT: 프렌드가 리모트 맥스배틀, 레이드배틀 상한에 도달했습니다.

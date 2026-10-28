@@ -19243,6 +19243,9 @@ TEXT: มุเก็นไดนา (มุเก็นไดแมกซ์) �
 RESOURCE ID: bonus_electric_moves
 TEXT: ท่าประเภทไฟฟ้าของคุณจะรุนแรงขึ้นในยิมแบตเทิล, แบตเทิลแมกซ์ และตีบอส
 
+RESOURCE ID: bonus_energy_max_battles
+TEXT: พลังงานที่รวบรวมได้ระหว่างแบตเทิลแมกซ์จะทำให้เกจเต็มเร็วขึ้น
+
 RESOURCE ID: bonus_event_2023_france_title
 TEXT: Pokémon: Art through the Ages
 
@@ -34962,6 +34965,9 @@ TEXT: 15 กรกฎาคม 10:00 น. ถึง
 RESOURCE ID: event_datetime_range_key_wattsup_jan2026
 TEXT: 13 มกราคม 10:00 น. ถึง
 18 มกราคม 20:00 น.
+
+RESOURCE ID: event_details_link_gowa_2026
+TEXT: เรียนรู้เพิ่มเติมเกี่ยวกับโบนัสตั๋วได้<a href="pokemongo.com/gowildarea/global">ที่นี่</a>
 
 RESOURCE ID: event_evolve_cubone
 TEXT: คาระคาระสามารถวิวัฒนาการเป็นการะการะร่างอโลลาได้
@@ -57118,7 +57124,7 @@ RESOURCE ID: item_bag_category_gifts
 TEXT: ของขวัญ
 
 RESOURCE ID: item_bag_category_incubators
-TEXT: Incubators
+TEXT: เครื่องฟักไข่
 
 RESOURCE ID: item_bag_category_lures
 TEXT: Lures
@@ -57139,7 +57145,7 @@ RESOURCE ID: item_bag_category_tm
 TEXT: TMs
 
 RESOURCE ID: item_bag_category_berries_and_poffins
-TEXT: Berries and Poffins
+TEXT: ผลไม้และโปฟฟิน
 
 RESOURCE ID: item_bag_category_key_items
 TEXT: Key Items
@@ -61593,7 +61599,7 @@ RESOURCE ID: journal_declined_ex_raid_ticket_from_friend
 TEXT: คุณได้ปฏิเสธคำเชิญจาก{0}แล้ว
 
 RESOURCE ID: journal_player_fled
-TEXT: Fled from a raid encounter with {0}.
+TEXT: หนีจาก{0}ที่เผชิญหน้าในตีบอสแล้ว
 
 RESOURCE ID: journal_received_fitness_rewards
 TEXT: ได้รับไอเท็ม {0} ชิ้นจากรางวัลแอดเวนเจอร์ซิงค์ประจำสัปดาห์
@@ -68033,10 +68039,10 @@ at SHA da71d231c41a4d4f7aef0d6fd71061652ff15a0a
 Pipeline 441624, job 3600523
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-10-24T00:20:49.016765+00:00 for th-TH
-at SHA 799aa887df2
-Pipeline 4048116, job 59688838
-Patch from: 0.435.0-SHA-d5d32cc5-RC2, 0.433.1-SHA-0f52e3f0-RC1
+TEXT: Built at 2026-10-28T00:34:05.832253+00:00 for th-TH
+at SHA eb39dfa4ddd
+Pipeline 4056315, job 59806318
+Patch from: 0.435.0-SHA-b075bde4-RC4, 0.437.0-SHA-d1d1a55c-RC2, 0.433.1-SHA-0f52e3f0-RC1
 
 RESOURCE ID: meteor_title_1
 TEXT: ฝนดาวตก
@@ -73365,13 +73371,13 @@ RESOURCE ID: nearby_active_reminder_header
 TEXT: นัดเข้าร่วมที่จัดอยู่
 
 RESOURCE ID: nearby_incomplete_raid_header
-TEXT: IN PROGRESS
+TEXT: กำลังดำเนินการ
 
 RESOURCE ID: nearby_incomplete_raid_widget_title
-TEXT: Rejoin the {0} raid
+TEXT: เข้าร่วมตีบอส{0}อีกครั้ง
 
 RESOURCE ID: nearby_incomplete_raid_widget_header
-TEXT: REJOIN
+TEXT: เข้าร่วมอีกครั้ง
 
 RESOURCE ID: nearby_pokemon_clear_button
 TEXT: ลบ
@@ -74050,7 +74056,7 @@ RESOURCE ID: old_friends_description
 TEXT: งานวิจัยแบบจำกัดเวลาเพื่อนเก่า - เรื่องราวใหม่
 
 RESOURCE ID: ominous_wind_base_increased_level_bonus
-TEXT: เพิ่มระดับของเมก้าแชนเดลา (วันที่ 2 พฤศจิกายน เวลา 12.00 น. ถึงวันที่ 15 พฤศจิกายน เวลา 12.00 น. ตามเวลามาตรฐานแปซิฟิก)
+TEXT: เพิ่ม CP ของเมก้าแชนเดลาที่ระดับซูเปอร์แมกซ์ (วันที่ 2 พฤศจิกายน เวลา 12.00 น. ถึงวันที่ 15 พฤศจิกายน เวลา 12.00 น. ตามเวลามาตรฐานแปซิฟิก)
 
 RESOURCE ID: ominous_wind_base_power_boost_bonus
 TEXT: เพิ่มความแรงของ "สายลมบอกเหตุ+" (วันที่ 2 พฤศจิกายน เวลา 12.00 น. ถึงวันที่ 15 พฤศจิกายน เวลา 12.00 น. ตามเวลามาตรฐานแปซิฟิก)
@@ -92516,7 +92522,7 @@ RESOURCE ID: psychic_type_event
 TEXT: ระลอกฉับพลัน: พลังจิต
 
 RESOURCE ID: ptc_account_creation_prompt
-TEXT: ไม่มีบัญชีของ Pokémon Trainer Club?
+TEXT: ไม่มีบัญชีของศูนย์โปเกมอนเทรนเนอร์?
 
 RESOURCE ID: ptc_auth_failed
 TEXT: ไม่สามารถตรวจสอบการเข้าสู่ระบบ โปรดลองอีกครั้ง
@@ -92528,13 +92534,13 @@ RESOURCE ID: ptc_auth_consent_needed
 TEXT: คุณต้องอนุญาตให้ Pokémon GO เข้าถึงบัญชี ศูนย์โปเกมอนเทรนเนอร์ ของคุณเพื่อเล่นต่อ
 
 RESOURCE ID: ptc_auth_consent_needed_out
-TEXT: คุณต้องอนุญาตให้ Pokémon GO เข้าถึงบัญชี Pokémon Trainer Club ของคุณเพื่อเล่นต่อ
+TEXT: คุณต้องอนุญาตให้ Pokémon GO เข้าถึงบัญชีศูนย์โปเกมอนเทรนเนอร์ของคุณเพื่อเล่นต่อ
 
 RESOURCE ID: ptc_auth_link_btn
 TEXT: เชื่อมโยง
 
 RESOURCE ID: ptc_auth_link_disclaimer
-TEXT: หากเชื่อมโยงกับ Pokémon Trainer Club แล้ว จะไม่สามารถยกเลิกการเชื่อมโยงได้
+TEXT: หากเชื่อมโยงกับศูนย์โปเกมอนเทรนเนอร์แล้ว จะไม่สามารถยกเลิกการเชื่อมโยงได้
 
 RESOURCE ID: ptc_auth_link_failed
 TEXT: การเชื่อมโยงล้มเหลว
@@ -92543,22 +92549,22 @@ RESOURCE ID: ptc_auth_link_message
 TEXT: เชื่อมโยงบัญชี ศูนย์โปเกมอนเทรนเนอร์ เข้ากับบัญชี Pokémon GO ของคุณเพื่อรับ{0}
 
 RESOURCE ID: ptc_auth_link_message_out
-TEXT: เชื่อมโยงบัญชี Pokémon Trainer Club เข้ากับบัญชี Pokémon GO ของคุณเพื่อรับ{0}
+TEXT: เชื่อมโยงบัญชีศูนย์โปเกมอนเทรนเนอร์เข้ากับบัญชี Pokémon GO ของคุณเพื่อรับ{0}
 
 RESOURCE ID: ptc_auth_link_toggle_disclaimer
 TEXT: ไม่สามารถยกเลิกการเชื่อมโยงได้
 
 RESOURCE ID: ptc_auth_parent_consent_needed
-TEXT: คุณจำเป็นต้องให้พ่อแม่หรือผู้ปกครองทำการอนุญาตให้ Pokémon GO เข้าถึงบัญชี Pokémon Trainer Club ของคุณ
+TEXT: คุณจำเป็นต้องให้พ่อแม่หรือผู้ปกครองทำการอนุญาตให้ Pokémon GO เข้าถึงบัญชีศูนย์โปเกมอนเทรนเนอร์ของคุณ
 
 RESOURCE ID: ptc_auth_retry_validate
 TEXT: กรุณายืนยันด้วยชื่อผู้ใช้และรหัสผ่านที่เชื่อมโยงกับบัญชีของคุณ
 
 RESOURCE ID: ptc_auth_timed_research_title
-TEXT: รางวัล Pokémon Trainer Club
+TEXT: รางวัลศูนย์โปเกมอนเทรนเนอร์
 
 RESOURCE ID: ptc_auth_timed_research_message
-TEXT: เชื่อมโยงหรือยืนยันบัญชี Pokémon Trainer Club โดยการแตะที่ "บัญชี" ในเมนูการตั้งค่าของ Pokémon GO
+TEXT: เชื่อมโยงหรือยืนยันบัญชีศูนย์โปเกมอนเทรนเนอร์โดยการแตะที่ "บัญชี" ในเมนูการตั้งค่าของ Pokémon GO
 
 RESOURCE ID: ptc_auth_validate_title
 TEXT: งานวิจัยแบบจำกัดเวลา{0}
@@ -92576,10 +92582,10 @@ RESOURCE ID: ptc_auth_validate_footer
 TEXT: Pokémon GO อาจทำการรีสตาร์ทหลังจากยืนยันสำเร็จ
 
 RESOURCE ID: ptc_auth_validate_message
-TEXT: ยืนยันบัญชี Pokémon Trainer Club ของคุณเพื่อรับ{0}
+TEXT: ยืนยันบัญชีศูนย์โปเกมอนเทรนเนอร์ของคุณเพื่อรับ{0}
 
 RESOURCE ID: ptc_auth_validate_success
-TEXT: ยืนยันบัญชี Pokémon Trainer Club สำเร็จแล้ว! Pokémon GO จะรีสตาร์ท
+TEXT: ยืนยันบัญชีศูนย์โปเกมอนเทรนเนอร์สำเร็จแล้ว! Pokémon GO จะรีสตาร์ท
 
 RESOURCE ID: ptc_auth_validate_trainer_name
 TEXT: เชื่อมโยงกับชื่อผู้ใช้: {0}
@@ -92591,7 +92597,7 @@ RESOURCE ID: ptc_claim_reward_msg
 TEXT: คุณเชื่อมต่อบัญชี ศูนย์โปเกมอนเทรนเนอร์ เรียบร้อย และได้รับเครื่องฟักไข่แล้ว
 
 RESOURCE ID: ptc_claim_reward_msg_out
-TEXT: คุณเชื่อมต่อบัญชี Pokémon Trainer Club เรียบร้อย และได้รับเครื่องฟักไข่แล้ว
+TEXT: คุณเชื่อมต่อบัญชีศูนย์โปเกมอนเทรนเนอร์เรียบร้อย และได้รับเครื่องฟักไข่แล้ว
 
 RESOURCE ID: ptc_error_activation_required
 TEXT: กรุณาเปิดใช้งานบัญชีผู้ใช้ของคุณในการเล่นโปเกมอนโก
@@ -92612,16 +92618,16 @@ RESOURCE ID: ptc_login_submit
 TEXT: ลงชื่อเข้าใช้
 
 RESOURCE ID: ptc_login_button_out
-TEXT: Pokémon Trainer Club
+TEXT: ศูนย์โปเกมอนเทรนเนอร์
 
 RESOURCE ID: ptc_login_server_unreachable
 TEXT: ขณะนี้ ศูนย์โปเกมอนเทรนเนอร์ เกิดเหตุขัดข้อง ขออภัยในความไม่สะดวก
 
 RESOURCE ID: ptc_login_server_unreachable_out
-TEXT: ขณะนี้ Pokémon Trainer Club เกิดเหตุขัดข้อง ขออภัยในความไม่สะดวก
+TEXT: ขณะนี้ศูนย์โปเกมอนเทรนเนอร์เกิดเหตุขัดข้อง ขออภัยในความไม่สะดวก
 
 RESOURCE ID: ptc_login_title_out
-TEXT: Pokémon Trainer Club
+TEXT: ศูนย์โปเกมอนเทรนเนอร์
 
 RESOURCE ID: ptc_login_title_short
 TEXT: Trainer Club
@@ -123781,7 +123787,7 @@ RESOURCE ID: recycle_dialog_prefix
 TEXT: ทิ้ง
 
 RESOURCE ID: recycle_dialog_quantity
-TEXT: QUANTITY: {0}
+TEXT: มีอยู่: {0}
 
 RESOURCE ID: recycle_dialog_suffix
 TEXT: {0}?
@@ -130779,6 +130785,9 @@ TEXT: เลือกค่าพลังนี้
 RESOURCE ID: select_a_pokemon
 TEXT: เลือกโปเกมอน
 
+RESOURCE ID: select_a_paid_gift
+TEXT: Select a paid gift to send to your friend
+
 RESOURCE ID: select_gift_to_delete_prompt
 TEXT: เลือกของขวัญที่จะทิ้ง
 
@@ -130825,6 +130834,9 @@ TEXT: เพื่อนของคุณปิดรับแสตมป์�
 
 RESOURCE ID: send_video_ad_report_button
 TEXT: ส่งรายงาน
+
+RESOURCE ID: sending_paid_gift_to
+TEXT: You are sending this paid gift to:
 
 RESOURCE ID: sent_friend_error_toast
 TEXT: จำนวนครั้งตีบอสระยะไกลและแบตเทิลแมกซ์ระยะไกลประจำวันของเทรนเนอร์นี้ถึงขีดจำกัดแล้ว
@@ -143309,10 +143321,10 @@ TEXT: สามารถแลกเปลี่ยนโปเกมอนก�
 เพื่อนแล้วแตะแลกเปลี่ยน
 
 RESOURCE ID: tips_tasks_weather_boost_title
-TEXT: Weather Boosts
+TEXT: บูสต์สภาพอากาศ
 
 RESOURCE ID: tips_tasks_weather_boost_body
-TEXT: Certain Pokémon appear more frequently when the weather matches their type. These Pokémon have higher CP, are stronger in battle, and award extra Stardust when they’re caught.
+TEXT: โปเกมอนที่กำหนดจะปรากฏตัวบ่อยขึ้นเมื่อสภาพอากาศเหมาะกับประเภทของมัน โปเกมอนเหล่านี้มีลักษณะพิเศษ เช่น CP สูง เพิ่มความแข็งแกร่งในการต่อสู้ และจะได้รับสตาร์ดัสต์เพิ่มมากขึ้นเมื่อจับได้
 
 RESOURCE ID: tips_trading_intro_conversation_1
 TEXT: ไง %PLAYERNAME%! รู้ไหมว่าเธอสามารถแลกเปลี่ยน

@@ -19156,6 +19156,9 @@ TEXT: 無極汰那（無極巨化）在特別的極巨對戰中出現了
 RESOURCE ID: bonus_electric_moves
 TEXT: 在道館對戰、極巨對戰及團體戰中使出的電屬性招式威力提升
 
+RESOURCE ID: bonus_energy_max_battles
+TEXT: 在極巨對戰中能量條會累積得更快
+
 RESOURCE ID: bonus_event_2023_france_title
 TEXT: Pokémon: Art Through the Ages
 
@@ -34549,6 +34552,9 @@ TEXT: 7月15日10:00～
 RESOURCE ID: event_datetime_range_key_wattsup_jan2026
 TEXT: 1月13日10:00～
 1月18日20:00
+
+RESOURCE ID: event_details_link_gowa_2026
+TEXT: 關於入場券的獎勵詳情，請參照<a href="https://pokemongo.com/gowildarea/global">此處</a>。
 
 RESOURCE ID: event_evolve_cubone
 TEXT: 卡拉卡拉可進化成阿羅拉嘎啦嘎啦
@@ -63246,10 +63252,10 @@ at SHA 4d4f3e80cc7fb911006bd14d198c9831ef66d005
 Pipeline 339838, job 2672172
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-10-24T00:20:49.016765+00:00 for zh-TW
-at SHA 799aa887df2
-Pipeline 4048116, job 59688838
-Patch from: 0.435.0-SHA-d5d32cc5-RC2, 0.433.1-SHA-0f52e3f0-RC1
+TEXT: Built at 2026-10-28T00:34:05.832253+00:00 for zh-TW
+at SHA eb39dfa4ddd
+Pipeline 4056315, job 59806318
+Patch from: 0.435.0-SHA-b075bde4-RC4, 0.437.0-SHA-d1d1a55c-RC2, 0.433.1-SHA-0f52e3f0-RC1
 
 RESOURCE ID: meteor_title_1
 TEXT: 流星雨
@@ -85286,7 +85292,7 @@ RESOURCE ID: ptc_auth_link_message
 TEXT: 連結寶可夢訓練家中央站帳號以獲得{0}
 
 RESOURCE ID: ptc_auth_link_message_out
-TEXT: 連結寶可夢訓練家中央站帳號以獲得{0}。
+TEXT: 連結寶可夢訓練家中央站帳號以獲得{0}
 
 RESOURCE ID: ptc_auth_link_toggle_disclaimer
 TEXT: 無法解除連結
@@ -85301,7 +85307,7 @@ RESOURCE ID: ptc_auth_timed_research_title
 TEXT: 寶可夢訓練家中央站獎勵
 
 RESOURCE ID: ptc_auth_timed_research_message
-TEXT: 請點擊設定畫面的「帳號」來認證或連結寶可夢訓練家中央站帳號。
+TEXT: 請點擊設定畫面的「帳號」來認證或連結寶可夢訓練家中央站帳號
 
 RESOURCE ID: ptc_auth_validate_title
 TEXT: {0}限時調查
@@ -85319,7 +85325,7 @@ RESOURCE ID: ptc_auth_validate_footer
 TEXT: 認證成功後，有時遊戲會重新啟動
 
 RESOURCE ID: ptc_auth_validate_message
-TEXT: 認證寶可夢訓練家中央站的帳號資訊以獲得{0}。
+TEXT: 認證寶可夢訓練家中央站的帳號資訊以獲得{0}
 
 RESOURCE ID: ptc_auth_validate_success
 TEXT: 認證成功！遊戲即將重新啟動。
@@ -113087,7 +113093,7 @@ RESOURCE ID: recycle_dialog_prefix
 TEXT: 丟棄
 
 RESOURCE ID: recycle_dialog_quantity
-TEXT: 擁有數量：{0}
+TEXT: 持有數量：{0}
 
 RESOURCE ID: recycle_dialog_suffix
 TEXT: {0}？
@@ -119736,6 +119742,9 @@ TEXT: 確定
 RESOURCE ID: select_a_pokemon
 TEXT: 請選擇寶可夢
 
+RESOURCE ID: select_a_paid_gift
+TEXT: Select a paid gift to send to your friend
+
 RESOURCE ID: select_gift_to_delete_prompt
 TEXT: 選擇要丟棄的友情禮物
 
@@ -119777,6 +119786,9 @@ TEXT: 你的朋友已開啟不接收圖章的設定。確定要贈送這個友�
 
 RESOURCE ID: send_video_ad_report_button
 TEXT: 傳送檢舉信
+
+RESOURCE ID: sending_paid_gift_to
+TEXT: You are sending this paid gift to:
 
 RESOURCE ID: sent_friend_error_toast
 TEXT: 對方已達到本日遠距極巨對戰和遠距團體戰參戰次數上限
@@ -130883,7 +130895,7 @@ RESOURCE ID: tips_tasks_weather_boost_title
 TEXT: 天氣優勢
 
 RESOURCE ID: tips_tasks_weather_boost_body
-TEXT: 特定寶可夢在天氣適合其屬性時會更加頻繁地出現。這些寶可夢擁有高CP、在對戰時的威力增強等特徵。捕捉到這些寶可夢時，可以獲得更多星星沙子。
+TEXT: 特定寶可夢在天氣適合其屬性時會更加頻繁地出現。這些寶可夢擁有較高的CP、在對戰時威力會增強等特徵。捕捉到這些寶可夢時，可以獲得更多星星沙子。
 
 RESOURCE ID: tips_trading_intro_conversation_1
 TEXT: 嘿，%PLAYERNAME%！你知道你可以和其他訓練家交換寶可夢嗎？
