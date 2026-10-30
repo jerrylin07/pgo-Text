@@ -85,6 +85,9 @@ TEXT: Investigación temporal prémium de Fiesta del 10.º aniversario
 RESOURCE ID: 30th_anniversary_all_out_event_name
 TEXT: Celebración del 30.º aniversario de Pokémon: A por todas
 
+RESOURCE ID: 30th_anniversary_apac_event_name_bangkok
+TEXT: PokéXciting! Bangkok: ¡Únete a la fiesta Pokémon más grande de la historia!
+
 RESOURCE ID: 30th_anniversary_apac_event_name_malaysia
 TEXT: PokéXciting! Malasia: ¡Únete a la fiesta Pokémon más grande de la historia!
 
@@ -63767,10 +63770,10 @@ at SHA 4d4f3e80cc7fb911006bd14d198c9831ef66d005
 Pipeline 339838, job 2672172
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-10-28T00:34:05.832253+00:00 for es-ES
-at SHA eb39dfa4ddd
-Pipeline 4056315, job 59806318
-Patch from: 0.435.0-SHA-b075bde4-RC4, 0.437.0-SHA-d1d1a55c-RC2, 0.433.1-SHA-0f52e3f0-RC1
+TEXT: Built at 2026-10-30T04:15:50.656594+00:00 for es-ES
+at SHA 6ca489ee17b
+Pipeline 4063968, job 59931656
+Patch from: 0.437.0-SHA-d1d1a55c-RC2, 0.435.0-SHA-d5d32cc5-RC2, 0.433.1-SHA-0f52e3f0-RC1
 
 RESOURCE ID: meteor_title_1
 TEXT: LLUVIA DE METEORITOS
@@ -112715,6 +112718,9 @@ TEXT: Caza de sellos de PokéXciting! (Singapur)
 RESOURCE ID: rally_apac_30_regional_taiwan_title
 TEXT: Caza de sellos de PokéXciting! (Taiwán)
 
+RESOURCE ID: rally_apac_30_regional_thailand_title
+TEXT: Caza de sellos de PokéXciting! (Tailandia)
+
 RESOURCE ID: rally_apac_30_cross_regional_desc
 TEXT: ¡Celebra PokéXciting! en la región Asia-Pacífico!
 
@@ -112763,6 +112769,18 @@ TEXT: Singapur
 RESOURCE ID: rally_apac_30_regional_singapore_reward_desc
 TEXT: Explora Singapur para encontrarte con Pikachu de PokéXciting! (azul) con un fondo de lugar exclusivo de Singapur.
 
+RESOURCE ID: rally_apac_30_regional_tailand_desc
+TEXT: ¡Celebra PokéXciting! en Tailandia!
+
+RESOURCE ID: rally_apac_30_regional_tailand_desc_detail
+TEXT: Encuentra Pikachu de PokéXciting! visitando Poképaradas especiales en Bangkok. Consulta el mapa para obtener más detalles.
+
+RESOURCE ID: rally_apac_30_regional_tailand_location
+TEXT: Bangkok (Tailandia)
+
+RESOURCE ID: rally_apac_30_regional_tailand_reward_desc
+TEXT: Explora Bangkok para encontrarte con Pikachu de PokéXciting! (naranja) con un fondo de lugar exclusivo de Bangkok.
+
 RESOURCE ID: rally_apac_30_regional_taiwan_desc
 TEXT: ¡Celebra PokéXciting! en Taiwán!
 
@@ -112774,6 +112792,21 @@ TEXT: Taipei, Taiwán
 
 RESOURCE ID: rally_apac_30_regional_taiwan_reward_desc
 TEXT: Explora Taipei para encontrarte con Pikachu de PokéXciting! (rosa) con un fondo de lugar exclusivo de Taipei.
+
+RESOURCE ID: rally_cdmx_2026_title
+TEXT: Caza de sellos de Hawlucha (Ciudad de México)
+
+RESOURCE ID: rally_cdmx_2026_desc
+TEXT: Caza de sellos de GO disponible únicamente en Ciudad de México.
+
+RESOURCE ID: rally_cdmx_2026_desc_detail
+TEXT: ¡Colecciona sellos visitando las Poképaradas de la caza de sellos de GO en un histórico recorrido por Ciudad de México!
+
+RESOURCE ID: rally_cdmx_2026_location
+TEXT: Ciudad de México (México)
+
+RESOURCE ID: rally_cdmx_2026_rewards_desc
+TEXT: Encuéntrate con Hawlucha con un fondo de lugar de Ciudad de México durante esta caza de sellos.
 
 RESOURCE ID: rally_city_safari_2025_amsterdam_desc
 TEXT: Bienvenida al Safari de ciudad: ¡Ámsterdam!
@@ -113269,6 +113302,21 @@ TEXT: Una famosa fila de coloridas casas de estilo victoriano.
 
 RESOURCE ID: rally_rewards_desc_general
 TEXT: Completa la Caza de sellos para obtener encuentros y recompensas
+
+RESOURCE ID: rally_sendai_2026_title
+TEXT: Caza de sellos de Lapras (Sendai, Tohoku)
+
+RESOURCE ID: rally_sendai_2026_desc
+TEXT: ¡Caza de sellos exclusiva únicamente disponible en la región de Sendai, Tohoku!
+
+RESOURCE ID: rally_sendai_2026_desc_detail
+TEXT: ¡Colecciona sellos visitando las Poképaradas de la Caza de sellos de GO en un histórico recorrido por la región de Sendai, Tohoku!
+
+RESOURCE ID: rally_sendai_2026_location
+TEXT: Sendai, Tohoku (Japón)
+
+RESOURCE ID: rally_sendai_2026_rewards_desc
+TEXT: Encuéntrate con Lapras con un fondo de lugar de Sendai durante esta caza de sellos.
 
 RESOURCE ID: rally_tokyo_koto_2026_title
 TEXT: Caza de sellos de Koto (Tokio)
@@ -131972,6 +132020,9 @@ TEXT: Investigación temporal de PokéXciting!: Únete a la fiesta en Filipinas 
 RESOURCE ID: tr_30thapac_eventfocus_2026_header_0_sg
 TEXT: Investigación temporal de PokéXciting!: Únete a la fiesta en Singapur (1/3)
 
+RESOURCE ID: tr_30thapac_eventfocus_2026_header_0_th
+TEXT: Investigación temporal de PokéXciting!: Únete a la fiesta en Bangkok (1/3)
+
 RESOURCE ID: tr_30thapac_eventfocus_2026_header_0_tw
 TEXT: Investigación temporal de PokéXciting!: Únete a la fiesta en Taiwán (1/3)
 
@@ -131983,6 +132034,9 @@ TEXT: Investigación temporal de PokéXciting!: Únete a la fiesta en Filipinas 
 
 RESOURCE ID: tr_30thapac_eventfocus_2026_header_1_sg
 TEXT: Investigación temporal de PokéXciting!: Únete a la fiesta en Singapur (2/3)
+
+RESOURCE ID: tr_30thapac_eventfocus_2026_header_1_th
+TEXT: Investigación temporal de PokéXciting!: Únete a la fiesta en Bangkok (2/3)
 
 RESOURCE ID: tr_30thapac_eventfocus_2026_header_1_tw
 TEXT: Investigación temporal de PokéXciting!: Únete a la fiesta en Taiwán (2/3)
@@ -131996,6 +132050,9 @@ TEXT: Investigación temporal de PokéXciting!: Únete a la fiesta en Filipinas 
 RESOURCE ID: tr_30thapac_eventfocus_2026_header_2_sg
 TEXT: Investigación temporal de PokéXciting!: Únete a la fiesta en Singapur (3/3)
 
+RESOURCE ID: tr_30thapac_eventfocus_2026_header_2_th
+TEXT: Investigación temporal de PokéXciting!: Únete a la fiesta en Bangkok (3/3)
+
 RESOURCE ID: tr_30thapac_eventfocus_2026_header_2_tw
 TEXT: Investigación temporal de PokéXciting!: Únete a la fiesta en Taiwán (3/3)
 
@@ -132007,6 +132064,9 @@ TEXT: Investigación temporal de PokéXciting!: Únete a la fiesta en Filipinas
 
 RESOURCE ID: tr_30thapac_eventfocus_2026_header_sg
 TEXT: Investigación temporal de PokéXciting!: Únete a la fiesta en Singapur
+
+RESOURCE ID: tr_30thapac_eventfocus_2026_header_th
+TEXT: Investigación temporal de PokéXciting!: Únete a la fiesta en Bangkok
 
 RESOURCE ID: tr_30thapac_eventfocus_2026_header_tw
 TEXT: Investigación temporal de PokéXciting!: Únete a la fiesta en Taiwán
@@ -132020,6 +132080,9 @@ TEXT: Investigación temporal de PokéXciting!: 30 años de recuerdos en Filipin
 RESOURCE ID: tr_30thapac_longspan_2026_header_0_sg
 TEXT: Investigación temporal de PokéXciting!: 30 años de recuerdos en Singapur (1/10)
 
+RESOURCE ID: tr_30thapac_longspan_2026_header_0_th
+TEXT: Investigación temporal de PokéXciting!: 30 años de recuerdos en Bangkok (1/10)
+
 RESOURCE ID: tr_30thapac_longspan_2026_header_0_tw
 TEXT: Investigación temporal de PokéXciting!: 30 años de recuerdos en Taiwán (1/10)
 
@@ -132031,6 +132094,9 @@ TEXT: Investigación temporal de PokéXciting!: 30 años de recuerdos en Filipin
 
 RESOURCE ID: tr_30thapac_longspan_2026_header_1_sg
 TEXT: Investigación temporal de PokéXciting!: 30 años de recuerdos en Singapur (2/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_1_th
+TEXT: Investigación temporal de PokéXciting!: 30 años de recuerdos en Bangkok (2/10)
 
 RESOURCE ID: tr_30thapac_longspan_2026_header_1_tw
 TEXT: Investigación temporal de PokéXciting!: 30 años de recuerdos en Taiwán (2/10)
@@ -132044,6 +132110,9 @@ TEXT: Investigación temporal de PokéXciting!: 30 años de recuerdos en Filipin
 RESOURCE ID: tr_30thapac_longspan_2026_header_2_sg
 TEXT: Investigación temporal de PokéXciting!: 30 años de recuerdos en Singapur (3/10)
 
+RESOURCE ID: tr_30thapac_longspan_2026_header_2_th
+TEXT: Investigación temporal de PokéXciting!: 30 años de recuerdos en Bangkok (3/10)
+
 RESOURCE ID: tr_30thapac_longspan_2026_header_2_tw
 TEXT: Investigación temporal de PokéXciting!: 30 años de recuerdos en Taiwán (3/10)
 
@@ -132055,6 +132124,9 @@ TEXT: Investigación temporal de PokéXciting!: 30 años de recuerdos en Filipin
 
 RESOURCE ID: tr_30thapac_longspan_2026_header_3_sg
 TEXT: Investigación temporal de PokéXciting!: 30 años de recuerdos en Singapur (4/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_3_th
+TEXT: Investigación temporal de PokéXciting!: 30 años de recuerdos en Bangkok (4/10)
 
 RESOURCE ID: tr_30thapac_longspan_2026_header_3_tw
 TEXT: Investigación temporal de PokéXciting!: 30 años de recuerdos en Taiwán (4/10)
@@ -132068,6 +132140,9 @@ TEXT: Investigación temporal de PokéXciting!: 30 años de recuerdos en Filipin
 RESOURCE ID: tr_30thapac_longspan_2026_header_4_sg
 TEXT: Investigación temporal de PokéXciting!: 30 años de recuerdos en Singapur (5/10)
 
+RESOURCE ID: tr_30thapac_longspan_2026_header_4_th
+TEXT: Investigación temporal de PokéXciting!: 30 años de recuerdos en Bangkok (5/10)
+
 RESOURCE ID: tr_30thapac_longspan_2026_header_4_tw
 TEXT: Investigación temporal de PokéXciting!: 30 años de recuerdos en Taiwán (5/10)
 
@@ -132079,6 +132154,9 @@ TEXT: Investigación temporal de PokéXciting!: 30 años de recuerdos en Filipin
 
 RESOURCE ID: tr_30thapac_longspan_2026_header_5_sg
 TEXT: Investigación temporal de PokéXciting!: 30 años de recuerdos en Singapur (6/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_5_th
+TEXT: Investigación temporal de PokéXciting!: 30 años de recuerdos en Bangkok (6/10)
 
 RESOURCE ID: tr_30thapac_longspan_2026_header_5_tw
 TEXT: Investigación temporal de PokéXciting!: 30 años de recuerdos en Taiwán (6/10)
@@ -132092,6 +132170,9 @@ TEXT: Investigación temporal de PokéXciting!: 30 años de recuerdos en Filipin
 RESOURCE ID: tr_30thapac_longspan_2026_header_6_sg
 TEXT: Investigación temporal de PokéXciting!: 30 años de recuerdos en Singapur (7/10)
 
+RESOURCE ID: tr_30thapac_longspan_2026_header_6_th
+TEXT: Investigación temporal de PokéXciting!: 30 años de recuerdos en Bangkok (7/10)
+
 RESOURCE ID: tr_30thapac_longspan_2026_header_6_tw
 TEXT: Investigación temporal de PokéXciting!: 30 años de recuerdos en Taiwán (7/10)
 
@@ -132103,6 +132184,9 @@ TEXT: Investigación temporal de PokéXciting!: 30 años de recuerdos en Filipin
 
 RESOURCE ID: tr_30thapac_longspan_2026_header_7_sg
 TEXT: Investigación temporal de PokéXciting!: 30 años de recuerdos en Singapur (8/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_7_th
+TEXT: Investigación temporal de PokéXciting!: 30 años de recuerdos en Bangkok (8/10)
 
 RESOURCE ID: tr_30thapac_longspan_2026_header_7_tw
 TEXT: Investigación temporal de PokéXciting!: 30 años de recuerdos en Taiwán (8/10)
@@ -132116,6 +132200,9 @@ TEXT: Investigación temporal de PokéXciting!: 30 años de recuerdos en Filipin
 RESOURCE ID: tr_30thapac_longspan_2026_header_8_sg
 TEXT: Investigación temporal de PokéXciting!: 30 años de recuerdos en Singapur (9/10)
 
+RESOURCE ID: tr_30thapac_longspan_2026_header_8_th
+TEXT: Investigación temporal de PokéXciting!: 30 años de recuerdos en Bangkok (9/10)
+
 RESOURCE ID: tr_30thapac_longspan_2026_header_8_tw
 TEXT: Investigación temporal de PokéXciting!: 30 años de recuerdos en Taiwán (9/10)
 
@@ -132128,6 +132215,9 @@ TEXT: Investigación temporal de PokéXciting!: 30 años de recuerdos en Filipin
 RESOURCE ID: tr_30thapac_longspan_2026_header_9_sg
 TEXT: Investigación temporal de PokéXciting!: 30 años de recuerdos en Singapur (10/10)
 
+RESOURCE ID: tr_30thapac_longspan_2026_header_9_th
+TEXT: Investigación temporal de PokéXciting!: 30 años de recuerdos en Bangkok (10/10)
+
 RESOURCE ID: tr_30thapac_longspan_2026_header_9_tw
 TEXT: Investigación temporal de PokéXciting!: 30 años de recuerdos en Taiwán (10/10)
 
@@ -132139,6 +132229,9 @@ TEXT: Investigación temporal de PokéXciting!: 30 años de recuerdos en Filipin
 
 RESOURCE ID: tr_30thapac_longspan_2026_header_sg
 TEXT: Investigación temporal de PokéXciting!: 30 años de recuerdos en Singapur
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_th
+TEXT: Investigación temporal de PokéXciting!: 30 años de recuerdos en Bangkok
 
 RESOURCE ID: tr_30thapac_longspan_2026_header_tw
 TEXT: Investigación temporal de PokéXciting!: 30 años de recuerdos en Taiwán

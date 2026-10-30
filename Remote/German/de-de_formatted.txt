@@ -85,6 +85,9 @@ TEXT: Befristete Premium-Forschung: Party zum 10. Jubiläum
 RESOURCE ID: 30th_anniversary_all_out_event_name
 TEXT: 30 Jahre Pokémon: Grenzenlos
 
+RESOURCE ID: 30th_anniversary_apac_event_name_bangkok
+TEXT: PokéXciting! Bangkok: Komm zur größten Pokémon-Party aller Zeiten!
+
 RESOURCE ID: 30th_anniversary_apac_event_name_malaysia
 TEXT: PokéXciting! Malaysia: Komm zur größten Pokémon-Party aller Zeiten!
 
@@ -63684,10 +63687,10 @@ at SHA 4d4f3e80cc7fb911006bd14d198c9831ef66d005
 Pipeline 339838, job 2672172
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-10-28T00:34:05.832253+00:00 for de-DE
-at SHA eb39dfa4ddd
-Pipeline 4056315, job 59806318
-Patch from: 0.435.0-SHA-b075bde4-RC4, 0.437.0-SHA-d1d1a55c-RC2, 0.433.1-SHA-0f52e3f0-RC1
+TEXT: Built at 2026-10-30T04:15:50.656594+00:00 for de-DE
+at SHA 6ca489ee17b
+Pipeline 4063968, job 59931656
+Patch from: 0.437.0-SHA-d1d1a55c-RC2, 0.435.0-SHA-d5d32cc5-RC2, 0.433.1-SHA-0f52e3f0-RC1
 
 RESOURCE ID: meteor_title_1
 TEXT: METEORSCHAUER
@@ -112640,6 +112643,9 @@ TEXT: PokéXciting! Stempel-Rallye – Singapur
 RESOURCE ID: rally_apac_30_regional_taiwan_title
 TEXT: PokéXciting! Stempel-Rallye – Taiwan
 
+RESOURCE ID: rally_apac_30_regional_thailand_title
+TEXT: PokéXciting! Stempel-Rallye – Thailand
+
 RESOURCE ID: rally_apac_30_cross_regional_desc
 TEXT: Feiere PokéXciting! in der Asien-Pazifik-Region!
 
@@ -112688,6 +112694,18 @@ TEXT: Singapur
 RESOURCE ID: rally_apac_30_regional_singapore_reward_desc
 TEXT: Erkunde Singapur, um PokéXciting! Pikachu (Blau) mit exklusivem Singapur-Ortshintergrund zu begegnen.
 
+RESOURCE ID: rally_apac_30_regional_tailand_desc
+TEXT: Feiere PokéXciting! in Thailand!
+
+RESOURCE ID: rally_apac_30_regional_tailand_desc_detail
+TEXT: Begegne PokéXciting! Pikachu, indem du besondere PokéStops in Bangkok besuchst. Sieh dir die Karte für weitere Details an.
+
+RESOURCE ID: rally_apac_30_regional_tailand_location
+TEXT: Bangkok, Thailand
+
+RESOURCE ID: rally_apac_30_regional_tailand_reward_desc
+TEXT: Erkunde Bangkok, um PokéXciting! Pikachu (Orange) mit exklusivem Bangkok-Ortshintergrund zu begegnen.
+
 RESOURCE ID: rally_apac_30_regional_taiwan_desc
 TEXT: Feiere PokéXciting! in Taiwan!
 
@@ -112699,6 +112717,21 @@ TEXT: Taipeh, Taiwan
 
 RESOURCE ID: rally_apac_30_regional_taiwan_reward_desc
 TEXT: Erkunde Taipeh, um PokéXciting! Pikachu (Pink) mit exklusivem Taipeh-Ortshintergrund zu begegnen.
+
+RESOURCE ID: rally_cdmx_2026_title
+TEXT: Resladero Stempel-Rallye: Mexiko-Stadt
+
+RESOURCE ID: rally_cdmx_2026_desc
+TEXT: Eine exklusive GO-Stempel-Rallye, die nur in Mexiko-Stadt verfügbar ist.
+
+RESOURCE ID: rally_cdmx_2026_desc_detail
+TEXT: Sammle Stempel, indem du GO-Stempel-Rallye-PokéStops entlang eines historischen Pfads in Mexiko-Stadt besuchst!
+
+RESOURCE ID: rally_cdmx_2026_location
+TEXT: Mexiko-Stadt, Mexiko
+
+RESOURCE ID: rally_cdmx_2026_rewards_desc
+TEXT: Begegne während dieser Rallye einem Resladero mit Mexiko-Stadt-Ortshintergrund.
 
 RESOURCE ID: rally_city_safari_2025_amsterdam_desc
 TEXT: Willkommen bei der Stadt-Safari: Amsterdam!
@@ -113194,6 +113227,21 @@ TEXT: Eine berühmte Reihe farbenfroher viktorianischer Häuser.
 
 RESOURCE ID: rally_rewards_desc_general
 TEXT: Schließe die Stempel-Rallye ab, um Begegnungen als Belohnung zu erhalten.
+
+RESOURCE ID: rally_sendai_2026_title
+TEXT: Lapras Stempel-Rallye: Sendai • Tōhoku
+
+RESOURCE ID: rally_sendai_2026_desc
+TEXT: Exklusive Stempel-Rallye, die nur in der Region Sendai • Tōhoku vefügbar ist!
+
+RESOURCE ID: rally_sendai_2026_desc_detail
+TEXT: Sammle Stempel, indem du GO-Stempel-Rallye-PokéStops entlang eines historischen Pfads in der Region Sendai • Tōhoku besuchst!
+
+RESOURCE ID: rally_sendai_2026_location
+TEXT: Sendai • Tōhoku, Japan
+
+RESOURCE ID: rally_sendai_2026_rewards_desc
+TEXT: Begegne während dieser Rallye einem Lapras mit Sendai-Ortshintergrund.
 
 RESOURCE ID: rally_tokyo_koto_2026_title
 TEXT: Stempel-Rallye: Tokio – Kōtō
@@ -131901,6 +131949,9 @@ TEXT: PokéXciting! Befristete Forschung: Komm zur Party auf den Philippinen (1/
 RESOURCE ID: tr_30thapac_eventfocus_2026_header_0_sg
 TEXT: PokéXciting! Befristete Forschung: Komm zur Party in Singapur (1/3)
 
+RESOURCE ID: tr_30thapac_eventfocus_2026_header_0_th
+TEXT: PokéXciting! Befristete Forschung: Komm zur Party in Bangkok (1/3)
+
 RESOURCE ID: tr_30thapac_eventfocus_2026_header_0_tw
 TEXT: PokéXciting! Befristete Forschung: Komm zur Party in Taiwan (1/3)
 
@@ -131912,6 +131963,9 @@ TEXT: PokéXciting! Befristete Forschung: Komm zur Party auf den Philippinen (2/
 
 RESOURCE ID: tr_30thapac_eventfocus_2026_header_1_sg
 TEXT: PokéXciting! Befristete Forschung: Komm zur Party in Singapur (2/3)
+
+RESOURCE ID: tr_30thapac_eventfocus_2026_header_1_th
+TEXT: PokéXciting! Befristete Forschung: Komm zur Party in Bangkok (2/3)
 
 RESOURCE ID: tr_30thapac_eventfocus_2026_header_1_tw
 TEXT: PokéXciting! Befristete Forschung: Komm zur Party in Taiwan (2/3)
@@ -131925,6 +131979,9 @@ TEXT: PokéXciting! Befristete Forschung: Komm zur Party auf den Philippinen (3/
 RESOURCE ID: tr_30thapac_eventfocus_2026_header_2_sg
 TEXT: PokéXciting! Befristete Forschung: Komm zur Party in Singapur (3/3)
 
+RESOURCE ID: tr_30thapac_eventfocus_2026_header_2_th
+TEXT: PokéXciting! Befristete Forschung: Komm zur Party in Bangkok (3/3)
+
 RESOURCE ID: tr_30thapac_eventfocus_2026_header_2_tw
 TEXT: PokéXciting! Befristete Forschung: Komm zur Party in Taiwan (3/3)
 
@@ -131936,6 +131993,9 @@ TEXT: PokéXciting! Befristete Forschung: Komm zur Party auf den Philippinen
 
 RESOURCE ID: tr_30thapac_eventfocus_2026_header_sg
 TEXT: PokéXciting! Befristete Forschung: Komm zur Party in Singapur
+
+RESOURCE ID: tr_30thapac_eventfocus_2026_header_th
+TEXT: PokéXciting! Befristete Forschung: Komm zur Party in Bangkok
 
 RESOURCE ID: tr_30thapac_eventfocus_2026_header_tw
 TEXT: PokéXciting! Befristete Forschung: Komm zur Party in Taiwan
@@ -131949,6 +132009,9 @@ TEXT: PokéXciting! Befristete Forschung: Erinnerungen aus 30 Jahren auf den Phi
 RESOURCE ID: tr_30thapac_longspan_2026_header_0_sg
 TEXT: PokéXciting! Befristete Forschung: Erinnerungen aus 30 Jahren in Singapur (1/10)
 
+RESOURCE ID: tr_30thapac_longspan_2026_header_0_th
+TEXT: PokéXciting! Befristete Forschung: Erinnerungen aus 30 Jahren in Bangkok (1/10)
+
 RESOURCE ID: tr_30thapac_longspan_2026_header_0_tw
 TEXT: PokéXciting! Befristete Forschung: Erinnerungen aus 30 Jahren in Taiwan (1/10)
 
@@ -131960,6 +132023,9 @@ TEXT: PokéXciting! Befristete Forschung: Erinnerungen aus 30 Jahren auf den Phi
 
 RESOURCE ID: tr_30thapac_longspan_2026_header_1_sg
 TEXT: PokéXciting! Befristete Forschung: Erinnerungen aus 30 Jahren in Singapur (2/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_1_th
+TEXT: PokéXciting! Befristete Forschung: Erinnerungen aus 30 Jahren in Bangkok (2/10)
 
 RESOURCE ID: tr_30thapac_longspan_2026_header_1_tw
 TEXT: PokéXciting! Befristete Forschung: Erinnerungen aus 30 Jahren in Taiwan (2/10)
@@ -131973,6 +132039,9 @@ TEXT: PokéXciting! Befristete Forschung: Erinnerungen aus 30 Jahren auf den Phi
 RESOURCE ID: tr_30thapac_longspan_2026_header_2_sg
 TEXT: PokéXciting! Befristete Forschung: Erinnerungen aus 30 Jahren in Singapur (3/10)
 
+RESOURCE ID: tr_30thapac_longspan_2026_header_2_th
+TEXT: PokéXciting! Befristete Forschung: Erinnerungen aus 30 Jahren in Bangkok (3/10)
+
 RESOURCE ID: tr_30thapac_longspan_2026_header_2_tw
 TEXT: PokéXciting! Befristete Forschung: Erinnerungen aus 30 Jahren in Taiwan (3/10)
 
@@ -131984,6 +132053,9 @@ TEXT: PokéXciting! Befristete Forschung: Erinnerungen aus 30 Jahren auf den Phi
 
 RESOURCE ID: tr_30thapac_longspan_2026_header_3_sg
 TEXT: PokéXciting! Befristete Forschung: Erinnerungen aus 30 Jahren in Singapur (4/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_3_th
+TEXT: PokéXciting! Befristete Forschung: Erinnerungen aus 30 Jahren in Bangkok (4/10)
 
 RESOURCE ID: tr_30thapac_longspan_2026_header_3_tw
 TEXT: PokéXciting! Befristete Forschung: Erinnerungen aus 30 Jahren in Taiwan (4/10)
@@ -131997,6 +132069,9 @@ TEXT: PokéXciting! Befristete Forschung: Erinnerungen aus 30 Jahren auf den Phi
 RESOURCE ID: tr_30thapac_longspan_2026_header_4_sg
 TEXT: PokéXciting! Befristete Forschung: Erinnerungen aus 30 Jahren in Singapur (5/10)
 
+RESOURCE ID: tr_30thapac_longspan_2026_header_4_th
+TEXT: PokéXciting! Befristete Forschung: Erinnerungen aus 30 Jahren in Bangkok (5/10)
+
 RESOURCE ID: tr_30thapac_longspan_2026_header_4_tw
 TEXT: PokéXciting! Befristete Forschung: Erinnerungen aus 30 Jahren in Taiwan (5/10)
 
@@ -132008,6 +132083,9 @@ TEXT: PokéXciting! Befristete Forschung: Erinnerungen aus 30 Jahren auf den Phi
 
 RESOURCE ID: tr_30thapac_longspan_2026_header_5_sg
 TEXT: PokéXciting! Befristete Forschung: Erinnerungen aus 30 Jahren in Singapur (6/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_5_th
+TEXT: PokéXciting! Befristete Forschung: Erinnerungen aus 30 Jahren in Bangkok (6/10)
 
 RESOURCE ID: tr_30thapac_longspan_2026_header_5_tw
 TEXT: PokéXciting! Befristete Forschung: Erinnerungen aus 30 Jahren in Taiwan (6/10)
@@ -132021,6 +132099,9 @@ TEXT: PokéXciting! Befristete Forschung: Erinnerungen aus 30 Jahren auf den Phi
 RESOURCE ID: tr_30thapac_longspan_2026_header_6_sg
 TEXT: PokéXciting! Befristete Forschung: Erinnerungen aus 30 Jahren in Singapur (7/10)
 
+RESOURCE ID: tr_30thapac_longspan_2026_header_6_th
+TEXT: PokéXciting! Befristete Forschung: Erinnerungen aus 30 Jahren in Bangkok (7/10)
+
 RESOURCE ID: tr_30thapac_longspan_2026_header_6_tw
 TEXT: PokéXciting! Befristete Forschung: Erinnerungen aus 30 Jahren in Taiwan (7/10)
 
@@ -132032,6 +132113,9 @@ TEXT: PokéXciting! Befristete Forschung: Erinnerungen aus 30 Jahren auf den Phi
 
 RESOURCE ID: tr_30thapac_longspan_2026_header_7_sg
 TEXT: PokéXciting! Befristete Forschung: Erinnerungen aus 30 Jahren in Singapur (8/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_7_th
+TEXT: PokéXciting! Befristete Forschung: Erinnerungen aus 30 Jahren in Bangkok (8/10)
 
 RESOURCE ID: tr_30thapac_longspan_2026_header_7_tw
 TEXT: PokéXciting! Befristete Forschung: Erinnerungen aus 30 Jahren in Taiwan (8/10)
@@ -132045,6 +132129,9 @@ TEXT: PokéXciting! Befristete Forschung: Erinnerungen aus 30 Jahren auf den Phi
 RESOURCE ID: tr_30thapac_longspan_2026_header_8_sg
 TEXT: PokéXciting! Befristete Forschung: Erinnerungen aus 30 Jahren in Singapur (9/10)
 
+RESOURCE ID: tr_30thapac_longspan_2026_header_8_th
+TEXT: PokéXciting! Befristete Forschung: Erinnerungen aus 30 Jahren in Bangkok (9/10)
+
 RESOURCE ID: tr_30thapac_longspan_2026_header_8_tw
 TEXT: PokéXciting! Befristete Forschung: Erinnerungen aus 30 Jahren in Taiwan (9/10)
 
@@ -132057,6 +132144,9 @@ TEXT: PokéXciting! Befristete Forschung: Erinnerungen aus 30 Jahren auf den Phi
 RESOURCE ID: tr_30thapac_longspan_2026_header_9_sg
 TEXT: PokéXciting! Befristete Forschung: Erinnerungen aus 30 Jahren in Singapur (10/10)
 
+RESOURCE ID: tr_30thapac_longspan_2026_header_9_th
+TEXT: PokéXciting! Befristete Forschung: Erinnerungen aus 30 Jahren in Bangkok (10/10)
+
 RESOURCE ID: tr_30thapac_longspan_2026_header_9_tw
 TEXT: PokéXciting! Befristete Forschung: Erinnerungen aus 30 Jahren in Taiwan (10/10)
 
@@ -132068,6 +132158,9 @@ TEXT: PokéXciting! Befristete Forschung: Erinnerungen aus 30 Jahren auf den Phi
 
 RESOURCE ID: tr_30thapac_longspan_2026_header_sg
 TEXT: PokéXciting! Befristete Forschung: Erinnerungen aus 30 Jahren in Singapur
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_th
+TEXT: PokéXciting! Befristete Forschung: Erinnerungen aus 30 Jahren in Bangkok
 
 RESOURCE ID: tr_30thapac_longspan_2026_header_tw
 TEXT: PokéXciting! Befristete Forschung: Erinnerungen aus 30 Jahren in Taiwan

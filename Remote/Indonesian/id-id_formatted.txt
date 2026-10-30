@@ -85,6 +85,9 @@ TEXT: Penelitian Berwaktu Premium Pesta Hari Jadi ke-10
 RESOURCE ID: 30th_anniversary_all_out_event_name
 TEXT: Perayaan 30 Tahun Pokémon: Pertemuan Besar
 
+RESOURCE ID: 30th_anniversary_apac_event_name_bangkok
+TEXT: PokéXciting! di Bangkok
+
 RESOURCE ID: 30th_anniversary_apac_event_name_malaysia
 TEXT: PokéXciting! di Malaysia
 
@@ -29343,7 +29346,7 @@ RESOURCE ID: delete_gift_message
 TEXT: Hadiah tidak dihitung dalam kapasitas penyimpanan Tas Barang.
 
 RESOURCE ID: delete_gift_ok
-TEXT: Discard
+TEXT: Buang
 
 RESOURCE ID: delete_pokemon_tag_confirmation
 TEXT: Label ini akan dihapus dari Pokémon yang telah ditugaskan. Pokémon tidak akan ditransfer ke Profesor Willow.
@@ -30827,10 +30830,10 @@ RESOURCE ID: encounter_score_great_throw
 TEXT: Great Throw
 
 RESOURCE ID: encounter_score_master_ball_throw
-TEXT: Penggunaan Bola Master
+TEXT: Bonus Lemparan Bola Master
 
 RESOURCE ID: encounter_score_new_pokemon
-TEXT: Pokémon Baru
+TEXT: Bonus Tangkapan Pokémon Baru
 
 RESOURCE ID: encounter_score_nice_throw
 TEXT: Nice Throw
@@ -34917,7 +34920,7 @@ RESOURCE ID: filter_key_mega_level
 TEXT: Mega
 
 RESOURCE ID: filter_key_profile_background
-TEXT: profilebackground
+TEXT: latarbelakangprofil
 
 RESOURCE ID: filter_key_raid_ex
 TEXT: raidex
@@ -48265,16 +48268,16 @@ RESOURCE ID: great_league_championship_series_2026
 TEXT: Piala Seri GO Championship 2026
 
 RESOURCE ID: great_league_championship_series_2027
-TEXT: 2027 GO Championship Series Cup
+TEXT: Piala Seri GO Championship 2027
 
 RESOURCE ID: great_league_championship_series_2028
-TEXT: 2028 GO Championship Series Cup
+TEXT: Piala Seri GO Championship 2028
 
 RESOURCE ID: great_league_championship_series_2029
-TEXT: 2029 GO Championship Series Cup
+TEXT: Piala Seri GO Championship 2029
 
 RESOURCE ID: great_league_championship_series_2030
-TEXT: 2030 GO Championship Series Cup
+TEXT: Piala Seri GO Championship 2030
 
 RESOURCE ID: great_league_mega_title
 TEXT: Liga Great: Edisi Mega
@@ -58173,7 +58176,7 @@ RESOURCE ID: login_choice_screen
 TEXT: Masuk dengan
 
 RESOURCE ID: login_choice_screen_temp
-TEXT: Sign up with {0}
+TEXT: Daftar dengan {0}
 
 RESOURCE ID: login_create_account
 TEXT: Buat Baru
@@ -60725,10 +60728,10 @@ at SHA 12701f1c07ae7f07a5d50583f697320977df7988
 Pipeline 1139111, job 13470914
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-10-28T00:34:05.832253+00:00 for id-ID
-at SHA eb39dfa4ddd
-Pipeline 4056315, job 59806318
-Patch from: 0.435.0-SHA-b075bde4-RC4, 0.437.0-SHA-d1d1a55c-RC2, 0.433.1-SHA-0f52e3f0-RC1
+TEXT: Built at 2026-10-30T04:15:50.656594+00:00 for id-ID
+at SHA 6ca489ee17b
+Pipeline 4063968, job 59931656
+Patch from: 0.437.0-SHA-d1d1a55c-RC2, 0.435.0-SHA-d5d32cc5-RC2, 0.433.1-SHA-0f52e3f0-RC1
 
 RESOURCE ID: meteor_title_1
 TEXT: HUJAN METEOR
@@ -82673,7 +82676,7 @@ RESOURCE ID: ptc_auth_retry_validate
 TEXT: Validasikan dengan nama pengguna dan kata sandi yang tertaut dengan akunmu.
 
 RESOURCE ID: ptc_auth_timed_research_title
-TEXT: Hadiah Pokémon Sentral Pelatih Pokémon
+TEXT: Hadiah Sentral Pelatih Pokémon
 
 RESOURCE ID: ptc_auth_timed_research_message
 TEXT: Tautkan atau validasikan akun Sentral Pelatih Pokémon-mu dengan mengetuk opsi Akun pada menu Pengaturan Pokémon GO.
@@ -82697,7 +82700,7 @@ RESOURCE ID: ptc_auth_validate_message
 TEXT: Validasikan akun Sentral Pelatih Pokémon-mu untuk mendapatkan {0}.
 
 RESOURCE ID: ptc_auth_validate_success
-TEXT: Validasikan akun Sentral Pelatih Pokémon berhasil! Pokémon GO akan dimulai ulang.
+TEXT: Validasi akun Sentral Pelatih Pokémon berhasil! Pokémon GO akan dimulai ulang.
 
 RESOURCE ID: ptc_auth_validate_trainer_name
 TEXT: Tautkan dengan nama pengguna: {0}
@@ -109525,6 +109528,9 @@ TEXT: Reli Stempel PokéXciting! – Singapura
 RESOURCE ID: rally_apac_30_regional_taiwan_title
 TEXT: Reli Stempel PokéXciting! – Taiwan
 
+RESOURCE ID: rally_apac_30_regional_thailand_title
+TEXT: Reli Stempel PokéXciting! – Thailand
+
 RESOURCE ID: rally_apac_30_cross_regional_desc
 TEXT: Rayakan PokéXciting! di kawasan Asia-Pasifik!
 
@@ -109573,6 +109579,18 @@ TEXT: Singapura
 RESOURCE ID: rally_apac_30_regional_singapore_reward_desc
 TEXT: Jelajahi Singapura untuk bertemu dengan Pikachu PokéXciting! (Biru) yang memiliki Latar Belakang Lokasi Singapura eksklusif.
 
+RESOURCE ID: rally_apac_30_regional_tailand_desc
+TEXT: Rayakan PokéXciting! di Thailand!
+
+RESOURCE ID: rally_apac_30_regional_tailand_desc_detail
+TEXT: Temukan Pikachu PokéXciting! dengan mengunjungi PokéStop spesial di sekitar kota Bangkok. Lihat peta untuk detail lebih lanjut.
+
+RESOURCE ID: rally_apac_30_regional_tailand_location
+TEXT: Bangkok, Thailand
+
+RESOURCE ID: rally_apac_30_regional_tailand_reward_desc
+TEXT: Jelajahi Bangkok untuk bertemu dengan Pikachu PokéXciting! (Oranye) yang memiliki Latar Belakang Lokasi Bangkok eksklusif.
+
 RESOURCE ID: rally_apac_30_regional_taiwan_desc
 TEXT: Rayakan PokéXciting! di Taiwan!
 
@@ -109584,6 +109602,21 @@ TEXT: Taipei, Taiwan
 
 RESOURCE ID: rally_apac_30_regional_taiwan_reward_desc
 TEXT: Jelajahi Taipei untuk bertemu dengan Pikachu PokéXciting! (Pink) yang memiliki Latar Belakang Lokasi Taipei eksklusif.
+
+RESOURCE ID: rally_cdmx_2026_title
+TEXT: Reli Stempel Mexico City – Hawlucha
+
+RESOURCE ID: rally_cdmx_2026_desc
+TEXT: Reli Stempel GO eksklusif yang hanya tersedia di Mexico City.
+
+RESOURCE ID: rally_cdmx_2026_desc_detail
+TEXT: Kumpulkan stempel dengan mengunjungi PokéStop Reli Stempel GO di sepanjang jalur bersejarah di Mexico City!
+
+RESOURCE ID: rally_cdmx_2026_location
+TEXT: Mexico City, Mexico
+
+RESOURCE ID: rally_cdmx_2026_rewards_desc
+TEXT: Temui Hawlucha dengan Latar Belakang Lokasi Mexico City selama reli ini.
 
 RESOURCE ID: rally_city_safari_2025_amsterdam_desc
 TEXT: Selamat datang di City Safari: Amsterdam!
@@ -110080,6 +110113,21 @@ TEXT: Deretan rumah bergaya Victoria yang penuh warna dan terkenal.
 RESOURCE ID: rally_rewards_desc_general
 TEXT: Selesaikan Reli Stempel untuk mendapatkan pertemuan dan hadiah
 
+RESOURCE ID: rally_sendai_2026_title
+TEXT: Reli Stempel Sendai – Lapras
+
+RESOURCE ID: rally_sendai_2026_desc
+TEXT: Reli Stempel GO eksklusif yang hanya tersedia di Sendai.
+
+RESOURCE ID: rally_sendai_2026_desc_detail
+TEXT: Kumpulkan stempel dengan mengunjungi PokéStop Reli Stempel GO di sepanjang jalur bersejarah di Sendai!
+
+RESOURCE ID: rally_sendai_2026_location
+TEXT: Sendai, Japan
+
+RESOURCE ID: rally_sendai_2026_rewards_desc
+TEXT: Temui Lapras dengan Latar Belakang Lokasi Sendai selama reli ini.
+
 RESOURCE ID: rally_tokyo_koto_2026_title
 TEXT: Reli Stempel Kota Tokyo: Koto
 
@@ -110252,7 +110300,7 @@ RESOURCE ID: recycle_dialog_prefix
 TEXT: Buang
 
 RESOURCE ID: recycle_dialog_quantity
-TEXT: QUANTITY: {0}
+TEXT: JUMLAH: {0}
 
 RESOURCE ID: recycle_dialog_suffix
 TEXT: {0}?
@@ -115110,13 +115158,13 @@ RESOURCE ID: score_field_research_singular
 TEXT: Completed 1 Field Research task
 
 RESOURCE ID: score_raids_max_battles_none
-TEXT: Completed 0 Raids or Max Battles
+TEXT: Telah menyelesaikan 0 Raid atau Pertarungan Max
 
 RESOURCE ID: score_raids_max_battles_plural
-TEXT: Completed {0} Raids or Max Battles
+TEXT: Telah menyelesaikan {0} Raid atau Pertarungan Max
 
 RESOURCE ID: score_raids_max_battles_singular
-TEXT: Completed 1 Raid or Max Battle
+TEXT: Telah menyelesaikan 1 Raid atau Pertarungan Max
 
 RESOURCE ID: score_send_gift_none
 TEXT: Mengirimkan 0 Hadiah ke teman
@@ -128740,6 +128788,9 @@ TEXT: Penelitian Berwaktu PokéXciting! di Filipina (1/3)
 RESOURCE ID: tr_30thapac_eventfocus_2026_header_0_sg
 TEXT: Penelitian Berwaktu PokéXciting! di Singapura (1/3)
 
+RESOURCE ID: tr_30thapac_eventfocus_2026_header_0_th
+TEXT: Penelitian Berwaktu PokéXciting! di Bangkok (1/3)
+
 RESOURCE ID: tr_30thapac_eventfocus_2026_header_0_tw
 TEXT: Penelitian Berwaktu PokéXciting! di Taiwan (1/3)
 
@@ -128751,6 +128802,9 @@ TEXT: Penelitian Berwaktu PokéXciting! di Filipina (2/3)
 
 RESOURCE ID: tr_30thapac_eventfocus_2026_header_1_sg
 TEXT: Penelitian Berwaktu PokéXciting! di Singapura (2/3)
+
+RESOURCE ID: tr_30thapac_eventfocus_2026_header_1_th
+TEXT: Penelitian Berwaktu PokéXciting! di Bangkok (2/3)
 
 RESOURCE ID: tr_30thapac_eventfocus_2026_header_1_tw
 TEXT: Penelitian Berwaktu PokéXciting! di Taiwan (2/3)
@@ -128764,6 +128818,9 @@ TEXT: Penelitian Berwaktu PokéXciting! di Filipina (3/3)
 RESOURCE ID: tr_30thapac_eventfocus_2026_header_2_sg
 TEXT: Penelitian Berwaktu PokéXciting! di Singapura (3/3)
 
+RESOURCE ID: tr_30thapac_eventfocus_2026_header_2_th
+TEXT: Penelitian Berwaktu PokéXciting! di Bangkok (3/3)
+
 RESOURCE ID: tr_30thapac_eventfocus_2026_header_2_tw
 TEXT: Penelitian Berwaktu PokéXciting! di Taiwan (3/3)
 
@@ -128775,6 +128832,9 @@ TEXT: Penelitian Berwaktu PokéXciting! di Filipina
 
 RESOURCE ID: tr_30thapac_eventfocus_2026_header_sg
 TEXT: Penelitian Berwaktu PokéXciting! di Singapura
+
+RESOURCE ID: tr_30thapac_eventfocus_2026_header_th
+TEXT: Penelitian Berwaktu PokéXciting! di Bangkok
 
 RESOURCE ID: tr_30thapac_eventfocus_2026_header_tw
 TEXT: Penelitian Berwaktu PokéXciting! di Taiwan
@@ -128788,6 +128848,9 @@ TEXT: Penelitian Berwaktu PokéXciting! Kenangan 30 Tahun di Filipina (1/10)
 RESOURCE ID: tr_30thapac_longspan_2026_header_0_sg
 TEXT: Penelitian Berwaktu PokéXciting! Kenangan 30 Tahun di Singapura (1/10)
 
+RESOURCE ID: tr_30thapac_longspan_2026_header_0_th
+TEXT: Penelitian Berwaktu PokéXciting! Kenangan 30 Tahun di Bangkok (1/10)
+
 RESOURCE ID: tr_30thapac_longspan_2026_header_0_tw
 TEXT: Penelitian Berwaktu PokéXciting! Kenangan 30 Tahun di Taiwan (1/10)
 
@@ -128799,6 +128862,9 @@ TEXT: Penelitian Berwaktu PokéXciting! Kenangan 30 Tahun di Filipina (2/10)
 
 RESOURCE ID: tr_30thapac_longspan_2026_header_1_sg
 TEXT: Penelitian Berwaktu PokéXciting! Kenangan 30 Tahun di Singapura (2/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_1_th
+TEXT: Penelitian Berwaktu PokéXciting! Kenangan 30 Tahun di Bangkok (2/10)
 
 RESOURCE ID: tr_30thapac_longspan_2026_header_1_tw
 TEXT: Penelitian Berwaktu PokéXciting! Kenangan 30 Tahun di Taiwan (2/10)
@@ -128812,6 +128878,9 @@ TEXT: Penelitian Berwaktu PokéXciting! Kenangan 30 Tahun di Filipina (3/10)
 RESOURCE ID: tr_30thapac_longspan_2026_header_2_sg
 TEXT: Penelitian Berwaktu PokéXciting! Kenangan 30 Tahun di Singapura (3/10)
 
+RESOURCE ID: tr_30thapac_longspan_2026_header_2_th
+TEXT: Penelitian Berwaktu PokéXciting! Kenangan 30 Tahun di Bangkok (3/10)
+
 RESOURCE ID: tr_30thapac_longspan_2026_header_2_tw
 TEXT: Penelitian Berwaktu PokéXciting! Kenangan 30 Tahun di Taiwan (3/10)
 
@@ -128823,6 +128892,9 @@ TEXT: Penelitian Berwaktu PokéXciting! Kenangan 30 Tahun di Filipina (4/10)
 
 RESOURCE ID: tr_30thapac_longspan_2026_header_3_sg
 TEXT: Penelitian Berwaktu PokéXciting! Kenangan 30 Tahun di Singapura (4/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_3_th
+TEXT: Penelitian Berwaktu PokéXciting! Kenangan 30 Tahun di Bangkok (4/10)
 
 RESOURCE ID: tr_30thapac_longspan_2026_header_3_tw
 TEXT: Penelitian Berwaktu PokéXciting! Kenangan 30 Tahun di Taiwan (4/10)
@@ -128836,6 +128908,9 @@ TEXT: Penelitian Berwaktu PokéXciting! Kenangan 30 Tahun di Filipina (5/10)
 RESOURCE ID: tr_30thapac_longspan_2026_header_4_sg
 TEXT: Penelitian Berwaktu PokéXciting! Kenangan 30 Tahun di Singapura (5/10)
 
+RESOURCE ID: tr_30thapac_longspan_2026_header_4_th
+TEXT: Penelitian Berwaktu PokéXciting! Kenangan 30 Tahun di Bangkok (5/10)
+
 RESOURCE ID: tr_30thapac_longspan_2026_header_4_tw
 TEXT: Penelitian Berwaktu PokéXciting! Kenangan 30 Tahun di Taiwan (5/10)
 
@@ -128847,6 +128922,9 @@ TEXT: Penelitian Berwaktu PokéXciting! Kenangan 30 Tahun di Filipina (6/10)
 
 RESOURCE ID: tr_30thapac_longspan_2026_header_5_sg
 TEXT: Penelitian Berwaktu PokéXciting! Kenangan 30 Tahun di Singapura (6/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_5_th
+TEXT: Penelitian Berwaktu PokéXciting! Kenangan 30 Tahun di Bangkok (6/10)
 
 RESOURCE ID: tr_30thapac_longspan_2026_header_5_tw
 TEXT: Penelitian Berwaktu PokéXciting! Kenangan 30 Tahun di Taiwan (6/10)
@@ -128860,6 +128938,9 @@ TEXT: Penelitian Berwaktu PokéXciting! Kenangan 30 Tahun di Filipina (7/10)
 RESOURCE ID: tr_30thapac_longspan_2026_header_6_sg
 TEXT: Penelitian Berwaktu PokéXciting! Kenangan 30 Tahun di Singapura (7/10)
 
+RESOURCE ID: tr_30thapac_longspan_2026_header_6_th
+TEXT: Penelitian Berwaktu PokéXciting! Kenangan 30 Tahun di Bangkok (7/10)
+
 RESOURCE ID: tr_30thapac_longspan_2026_header_6_tw
 TEXT: Penelitian Berwaktu PokéXciting! Kenangan 30 Tahun di Taiwan (7/10)
 
@@ -128871,6 +128952,9 @@ TEXT: Penelitian Berwaktu PokéXciting! Kenangan 30 Tahun di Filipina (8/10)
 
 RESOURCE ID: tr_30thapac_longspan_2026_header_7_sg
 TEXT: Penelitian Berwaktu PokéXciting! Kenangan 30 Tahun di Singapura (8/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_7_th
+TEXT: Penelitian Berwaktu PokéXciting! Kenangan 30 Tahun di Bangkok (8/10)
 
 RESOURCE ID: tr_30thapac_longspan_2026_header_7_tw
 TEXT: Penelitian Berwaktu PokéXciting! Kenangan 30 Tahun di Taiwan (8/10)
@@ -128884,6 +128968,9 @@ TEXT: Penelitian Berwaktu PokéXciting! Kenangan 30 Tahun di Filipina (9/10)
 RESOURCE ID: tr_30thapac_longspan_2026_header_8_sg
 TEXT: Penelitian Berwaktu PokéXciting! Kenangan 30 Tahun di Singapura (9/10)
 
+RESOURCE ID: tr_30thapac_longspan_2026_header_8_th
+TEXT: Penelitian Berwaktu PokéXciting! Kenangan 30 Tahun di Bangkok (9/10)
+
 RESOURCE ID: tr_30thapac_longspan_2026_header_8_tw
 TEXT: Penelitian Berwaktu PokéXciting! Kenangan 30 Tahun di Taiwan (9/10)
 
@@ -128896,6 +128983,9 @@ TEXT: Penelitian Berwaktu PokéXciting! Kenangan 30 Tahun di Filipina (10/10)
 RESOURCE ID: tr_30thapac_longspan_2026_header_9_sg
 TEXT: Penelitian Berwaktu PokéXciting! Kenangan 30 Tahun di Singapura (10/10)
 
+RESOURCE ID: tr_30thapac_longspan_2026_header_9_th
+TEXT: Penelitian Berwaktu PokéXciting! Kenangan 30 Tahun di Bangkok (10/10)
+
 RESOURCE ID: tr_30thapac_longspan_2026_header_9_tw
 TEXT: Penelitian Berwaktu PokéXciting! Kenangan 30 Tahun di Taiwan (10/10)
 
@@ -128907,6 +128997,9 @@ TEXT: Penelitian Berwaktu PokéXciting! Kenangan 30 Tahun di Filipina
 
 RESOURCE ID: tr_30thapac_longspan_2026_header_sg
 TEXT: Penelitian Berwaktu PokéXciting! Kenangan 30 Tahun di Singapura
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_th
+TEXT: Penelitian Berwaktu PokéXciting! Kenangan 30 Tahun di Bangkok
 
 RESOURCE ID: tr_30thapac_longspan_2026_header_tw
 TEXT: Penelitian Berwaktu PokéXciting! Kenangan 30 Tahun di Taiwan

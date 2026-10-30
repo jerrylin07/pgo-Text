@@ -85,6 +85,9 @@ TEXT: 10वीं एनविर्सरी पार्टी प्रीम
 RESOURCE ID: 30th_anniversary_all_out_event_name
 TEXT: Pokémon 30वीं ऐनिवर्सरी - ऑल आउट
 
+RESOURCE ID: 30th_anniversary_apac_event_name_bangkok
+TEXT: बैंकॉक में PokéXciting! सबसे बड़ी पोकेमॉन पार्टी!
+
 RESOURCE ID: 30th_anniversary_apac_event_name_malaysia
 TEXT: मलेशयिा में PokéXciting! सबसे बड़ी पोकेमॉन पार्टी!
 
@@ -34891,7 +34894,7 @@ RESOURCE ID: filter_key_mega_level
 TEXT: Mega
 
 RESOURCE ID: filter_key_profile_background
-TEXT: profilebackground
+TEXT: प्रोफ़ाइल बैकग्राउंड
 
 RESOURCE ID: filter_key_raid_ex
 TEXT: EX रेड 
@@ -51541,7 +51544,7 @@ RESOURCE ID: item_bag_category_gifts
 TEXT: Gifts
 
 RESOURCE ID: item_bag_category_incubators
-TEXT: Incubators
+TEXT: इन्क्यूबेटर
 
 RESOURCE ID: item_bag_category_lures
 TEXT: Lures
@@ -51562,7 +51565,7 @@ RESOURCE ID: item_bag_category_tm
 TEXT: TMs
 
 RESOURCE ID: item_bag_category_berries_and_poffins
-TEXT: Berries and Poffins
+TEXT: बेरयिाँ और पॉफ़नि
 
 RESOURCE ID: item_bag_category_key_items
 TEXT: Key Items
@@ -58102,7 +58105,7 @@ RESOURCE ID: login_choice_screen
 TEXT: साइन अप के लिए अकाउंट चुनें
 
 RESOURCE ID: login_choice_screen_temp
-TEXT: Sign up with {0}
+TEXT: {0} से साइन अप करें
 
 RESOURCE ID: login_create_account
 TEXT: यहां एक बनाएं
@@ -60654,10 +60657,10 @@ at SHA 12701f1c07ae7f07a5d50583f697320977df7988
 Pipeline 1139111, job 13470914
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-10-28T00:34:05.832253+00:00 for hi-IN
-at SHA eb39dfa4ddd
-Pipeline 4056315, job 59806318
-Patch from: 0.435.0-SHA-b075bde4-RC4, 0.437.0-SHA-d1d1a55c-RC2, 0.433.1-SHA-0f52e3f0-RC1
+TEXT: Built at 2026-10-30T04:15:50.656594+00:00 for hi-IN
+at SHA 6ca489ee17b
+Pipeline 4063968, job 59931656
+Patch from: 0.437.0-SHA-d1d1a55c-RC2, 0.435.0-SHA-d5d32cc5-RC2, 0.433.1-SHA-0f52e3f0-RC1
 
 RESOURCE ID: meteor_title_1
 TEXT: मीटयिोर शावर
@@ -82518,7 +82521,7 @@ RESOURCE ID: psychic_type_event
 TEXT: टाइप सर्ज : साइकिक
 
 RESOURCE ID: ptc_account_creation_prompt
-TEXT: कोई पोकेमॉन ट्रेनर क्लब अकाउंट नहीं है?
+TEXT: कोई पोकेमॉन ट्रेनर सेंट्रल अकाउंट नहीं है?
 
 RESOURCE ID: ptc_auth_failed
 TEXT: पुष्टि नहीं की जा सकी। कृपया फिर से कोशिश करें।
@@ -82530,13 +82533,13 @@ RESOURCE ID: ptc_auth_consent_needed
 TEXT: खेलना जारी रखने के लिए आपको Pokémon GO को अपने पोकेमॉन ट्रेनर पोर्टल अकाउंट का एक्सेस प्रदान करना होगा।
 
 RESOURCE ID: ptc_auth_consent_needed_out
-TEXT: खेलना जारी रखने के लिए आपको Pokémon GO को अपने पोकेमॉन ट्रेनर क्लब अकाउंट का एक्सेस प्रदान करना होगा।
+TEXT: आगे खेलने के लिए आपको Pokémon GO को अपने पोकेमॉन ट्रेनर सेंट्रल अकाउंट का एक्सेस प्रदान करना होगा।
 
 RESOURCE ID: ptc_auth_link_btn
 TEXT: लिंक
 
 RESOURCE ID: ptc_auth_link_disclaimer
-TEXT: एक बार लिंक होने के बाद, पोकेमॉन ट्रेनर क्लब को अनलिंक नहीं किया जा सकता।
+TEXT: एक बार लिंक हो जाने पर, पोकेमॉन ट्रेनर सेंट्रल को अनलिंक नहीं कयिा जा सकता।
 
 RESOURCE ID: ptc_auth_link_failed
 TEXT: लिंक नहीं किया जा सका।
@@ -82545,22 +82548,22 @@ RESOURCE ID: ptc_auth_link_message
 TEXT: {0} प्राप्त करने के लिए पोकेमॉन ट्रेनर पोर्टल अकाउंट को अपने Pokémon GO अकाउंट से लिंक करें।
 
 RESOURCE ID: ptc_auth_link_message_out
-TEXT: {0} प्राप्त करने के लिए पोकेमॉन ट्रेनर क्लब अकाउंट को अपने Pokémon GO अकाउंट से लिंक करें।
+TEXT: {0} प्राप्त करने के लिए पोकेमॉन ट्रेनर सेंट्रल अकाउंट को अपने Pokémon GO अकाउंट से लिंक करें।
 
 RESOURCE ID: ptc_auth_link_toggle_disclaimer
 TEXT: अनलिंक नहीं किया जा सकता।
 
 RESOURCE ID: ptc_auth_parent_consent_needed
-TEXT: Pokémon GO को अपने पोकेमॉन ट्रेनर क्लब अकाउंट का एक्सेस प्रदान करने के लिए आपको अपने माता-पिता या अभिभावक की आवश्यकता होगी।
+TEXT: Pokémon GO को अपने पोकेमॉन ट्रेनर सेंट्रल अकाउंट का एक्सेस प्रदान करने के लिए आपको अपने माता-पतिा या अभभिावक की आवश्यकता होगी।
 
 RESOURCE ID: ptc_auth_retry_validate
 TEXT: कृपया अपने अकाउंट से लिंक हुए यूज़रनेम और पासवर्ड का उपयोग करके वैलिडेट करें।
 
 RESOURCE ID: ptc_auth_timed_research_title
-TEXT: पोकेमॉन ट्रेनर क्लब इनाम
+TEXT: पोकेमॉन ट्रेनर सेंट्रल रविॉर्ड
 
 RESOURCE ID: ptc_auth_timed_research_message
-TEXT: Pokémon GO के सेटिंग मेनू में अकाउंट विकल्प पर टैप करके अपने पोकेमॉन ट्रेनर क्लब अकाउंट को लिंक या वैलिडेट करें।
+TEXT: Pokémon GO के सेटिंग मेनू में अकाउंट वकिल्प पर टैप करके अपने पोकेमॉन ट्रेनर सेंट्रल अकाउंट को लिंक या वैलडिेट करें।
 
 RESOURCE ID: ptc_auth_validate_title
 TEXT: {0} सीमित समय वाली रिसर्च
@@ -82578,10 +82581,10 @@ RESOURCE ID: ptc_auth_validate_footer
 TEXT: सफलतापूर्वक वैलिडेट होने के बाद Pokémon GO रीस्टार्ट हो सकता है।
 
 RESOURCE ID: ptc_auth_validate_message
-TEXT: {0} प्राप्त करने के लिए अपने पोकेमॉन ट्रेनर क्लब एकाउंट को वैलिडेट करें।
+TEXT: {0} प्राप्त करने के लिए अपने पोकेमॉन ट्रेनर सेंट्रल एकाउंट को वैलडिेट करें।
 
 RESOURCE ID: ptc_auth_validate_success
-TEXT: पोकेमॉन ट्रेनर क्लब अकाउंट सफलतापूर्वक वैलिडेट हुआ! Pokémon GO रीस्टार्ट होगा।
+TEXT: पोकेमॉन ट्रेनर सेंट्रल अकाउंट सफलतापूर्वक वैलडिेट हुआ! Pokémon GO रीस्टार्ट होगा।
 
 RESOURCE ID: ptc_auth_validate_trainer_name
 TEXT: यूज़रनेम {0} के साथ लिंक हुआ
@@ -82593,7 +82596,7 @@ RESOURCE ID: ptc_claim_reward_msg
 TEXT: आपने अपने पोकेमॉन ट्रेनर पोर्टल अकाउंट को सफलतापूर्वक लिंक कर एक इन्क्यूबेटर प्राप्त किया है।
 
 RESOURCE ID: ptc_claim_reward_msg_out
-TEXT: आपने अपने पोकेमॉन ट्रेनर क्लब अकाउंट को सफलतापूर्वक लिंक कर एक इन्क्यूबेटर प्राप्त किया है।
+TEXT: आपने अपने पोकेमॉन ट्रेनर सेंट्रल अकाउंट को सफलतापूर्वक लिंक कर एक इन्क्यूबेटर प्राप्त कयिा है।
 
 RESOURCE ID: ptc_error_activation_required
 TEXT: Pokémon GO खेलने के लिए अपना अकाउंट चालू करें।
@@ -82614,16 +82617,16 @@ RESOURCE ID: ptc_login_submit
 TEXT: साइन इन करें
 
 RESOURCE ID: ptc_login_button_out
-TEXT: पोकेमॉन ट्रेनर क्लब
+TEXT: पोकेमॉन ट्रेनर सेंट्रल
 
 RESOURCE ID: ptc_login_server_unreachable
 TEXT: पोकेमॉन ट्रेनर पोर्टल अभी उपलब्ध नहीं है। हम इस असुविधा के लिए माफ़ी चाहते हैं।
 
 RESOURCE ID: ptc_login_server_unreachable_out
-TEXT: पोकेमॉन ट्रेनर क्लब अभी उपलब्ध नहीं है। हम इस असुविधा के लिए माफ़ी चाहते हैं।
+TEXT: पोकेमॉन ट्रेनर सेंट्रल अभी उपलब्ध नहीं है। असुवधिा के लिए हमें खेद है।
 
 RESOURCE ID: ptc_login_title_out
-TEXT: पोकेमॉन ट्रेनर क्लब
+TEXT: पोकेमॉन ट्रेनर सेंट्रल
 
 RESOURCE ID: ptc_login_title_short
 TEXT: ट्रेनर क्लब
@@ -109410,6 +109413,9 @@ TEXT: PokéXciting! स्टैम्प रैली – सिंगापु
 RESOURCE ID: rally_apac_30_regional_taiwan_title
 TEXT: PokéXciting! स्टैम्प रैली – ताइवान
 
+RESOURCE ID: rally_apac_30_regional_thailand_title
+TEXT: PokéXciting! स्टैम्प रैली – थाईलैंड
+
 RESOURCE ID: rally_apac_30_cross_regional_desc
 TEXT: एशयिा-प्रशांत में PokéXciting! का अवसर मनाएँ!
 
@@ -109458,6 +109464,18 @@ TEXT: सिंगापुर
 RESOURCE ID: rally_apac_30_regional_singapore_reward_desc
 TEXT: सिंगापुर को एक्सप्लोर कर, वशिेष सिंगापुर लोकेशन बैकग्राउंड वाले PokéXciting! पकिाचू (नीला) से मुलाकात करें।
 
+RESOURCE ID: rally_apac_30_regional_tailand_desc
+TEXT: थाईलैंड में PokéXciting! का अवसर मनाएँ!
+
+RESOURCE ID: rally_apac_30_regional_tailand_desc_detail
+TEXT: बैंकॉक के कई स्पेशल पोकेस्टॉप पर जाकर PokéXciting! पकिाचू से मुलाकात करें। अधकि जानकारी के लिए मैप देखें।
+
+RESOURCE ID: rally_apac_30_regional_tailand_location
+TEXT: बैंकॉक, थाईलैंड
+
+RESOURCE ID: rally_apac_30_regional_tailand_reward_desc
+TEXT: बैंकॉक को एक्सप्लोर कर, वशिेष बैंकॉक लोकेशन बैकग्राउंड वाले PokéXciting! पकिाचू (नारंगी) से मुलाकात करें।
+
 RESOURCE ID: rally_apac_30_regional_taiwan_desc
 TEXT: ताइवान में PokéXciting! का अवसर मनाएँ!
 
@@ -109469,6 +109487,21 @@ TEXT: ताइपेई, ताइवान
 
 RESOURCE ID: rally_apac_30_regional_taiwan_reward_desc
 TEXT: ताइपेई को एक्सप्लोर कर, वशिेष ताइपेई लोकेशन बैकग्राउंड वाले PokéXciting! पकिाचू (पिंक) से मुलाकात करें।
+
+RESOURCE ID: rally_cdmx_2026_title
+TEXT: मेक्सकिो सटिी – हॉलूचा स्टैम्प रैली
+
+RESOURCE ID: rally_cdmx_2026_desc
+TEXT: केवल मेक्सकिो सटिी में उपलब्ध एक्सक्लूसवि GO स्टैम्प रैली!
+
+RESOURCE ID: rally_cdmx_2026_desc_detail
+TEXT: मेक्सकिो सटिी में एक इतहिासकि पथ पर फैले कई GO स्टैम्प रैली पोकेस्टॉप पर जाएँ और स्टैम्प इकट्ठे करें!
+
+RESOURCE ID: rally_cdmx_2026_location
+TEXT: मेक्सकिो सटिी, मेक्सकिो
+
+RESOURCE ID: rally_cdmx_2026_rewards_desc
+TEXT: इस रैली के चलते समय मेक्सकिो सटिी के लोकेशन बैकग्राउंड वाले हॉलूचा से मुलाकात करें।
 
 RESOURCE ID: rally_city_safari_2025_amsterdam_desc
 TEXT: City Safari - ऐम्स्टर्डैम में आपका स्वागत है!
@@ -109965,6 +109998,21 @@ TEXT: रंग-बरिंगे वक्टिोरयिन घरों �
 RESOURCE ID: rally_rewards_desc_general
 TEXT: मुलाकातें और रिवॉर्ड पाने के लिए स्टैम्प रैली को पूरा करें
 
+RESOURCE ID: rally_sendai_2026_title
+TEXT: सेंदाइ – लैप्रस स्टैम्प रैली
+
+RESOURCE ID: rally_sendai_2026_desc
+TEXT: केवल सेंदाइ में उपलब्ध एक्सक्लूसवि GO स्टैम्प रैली!
+
+RESOURCE ID: rally_sendai_2026_desc_detail
+TEXT: सेंदाइ में एक इतहिासकि पथ पर फैले कई GO स्टैम्प रैली पोकेस्टॉप पर जाएँ और स्टैम्प इकट्ठे करें!
+
+RESOURCE ID: rally_sendai_2026_location
+TEXT: सेंदाइ, जापान
+
+RESOURCE ID: rally_sendai_2026_rewards_desc
+TEXT: इस रैली के चलते समय सेंदाइ के लोकेशन बैकग्राउंड वाले लैप्रस से मुलाकात करें।
+
 RESOURCE ID: rally_tokyo_koto_2026_title
 TEXT: तोक्यो - कोतो सटिी स्टैम्प रैली
 
@@ -110137,7 +110185,7 @@ RESOURCE ID: recycle_dialog_prefix
 TEXT: खारिज करें
 
 RESOURCE ID: recycle_dialog_quantity
-TEXT: QUANTITY: {0}
+TEXT: संख्या: {0}
 
 RESOURCE ID: recycle_dialog_suffix
 TEXT: {0}?
@@ -114994,13 +115042,13 @@ RESOURCE ID: score_field_research_singular
 TEXT: Completed 1 Field Research task
 
 RESOURCE ID: score_raids_max_battles_none
-TEXT: Completed 0 Raids or Max Battles
+TEXT: 0 रेड या मैक्स बैटल पूरे हुए
 
 RESOURCE ID: score_raids_max_battles_plural
-TEXT: Completed {0} Raids or Max Battles
+TEXT: {0} रेड या मैक्स बैटल पूरे हुए
 
 RESOURCE ID: score_raids_max_battles_singular
-TEXT: Completed 1 Raid or Max Battle
+TEXT: 1 रेड या मैक्स बैटल पूरा हुआ
 
 RESOURCE ID: score_send_gift_none
 TEXT: दोस्तों को 0 गिफ़्ट भेजें
@@ -127895,10 +127943,10 @@ RESOURCE ID: tips_tasks_trade_body
 TEXT: किसी दोस्त के साथ ट्रेड करने के लिए आपको उसके पास होना चाहिए। इसके बाद, अपनी फ़्रेंड लिस्ट में उनकी ट्रेनर प्रोफ़ाइल पर जाएं और 'ट्रेड करें' पर टैप करें।
 
 RESOURCE ID: tips_tasks_weather_boost_title
-TEXT: Weather Boosts
+TEXT: मौसम बूस्ट
 
 RESOURCE ID: tips_tasks_weather_boost_body
-TEXT: Certain Pokémon appear more frequently when the weather matches their type. These Pokémon have higher CP, are stronger in battle, and award extra Stardust when they’re caught.
+TEXT: कुछ पोकेमॉन अपने टाइप से मेल खाते मौसम में अधकि बार दखिाई देते हैं। ऐसे पोकेमॉन का CP ऊँचा होता है, वे बैटल में अधकि शक्तशिाली होते हैं, और उन्हें पकड़ने पर अतरिक्ति स्टार-डस्ट मलिता है।
 
 RESOURCE ID: tips_trading_intro_conversation_1
 TEXT: हैलो, %PLAYERNAME%! क्या आपको पता है कि आप दूसरे ट्रेनर्स के साथ पोकेमॉन को ट्रेड कर सकते हैं?
@@ -128621,6 +128669,9 @@ TEXT: फ़लिीपींस में PokéXciting! सीमति सम
 RESOURCE ID: tr_30thapac_eventfocus_2026_header_0_sg
 TEXT: सिंगापुर में PokéXciting! सीमति समय वाली रसिर्च (1/3)
 
+RESOURCE ID: tr_30thapac_eventfocus_2026_header_0_th
+TEXT: बैंकॉक में PokéXciting! सीमति समय वाली रसिर्च (1/3)
+
 RESOURCE ID: tr_30thapac_eventfocus_2026_header_0_tw
 TEXT: ताइवान में PokéXciting! सीमति समय वाली रसिर्च (1/3)
 
@@ -128632,6 +128683,9 @@ TEXT: फ़लिीपींस में PokéXciting! सीमति सम
 
 RESOURCE ID: tr_30thapac_eventfocus_2026_header_1_sg
 TEXT: सिंगापुर में PokéXciting! सीमति समय वाली रसिर्च (2/3)
+
+RESOURCE ID: tr_30thapac_eventfocus_2026_header_1_th
+TEXT: बैंकॉक में PokéXciting! सीमति समय वाली रसिर्च (2/3)
 
 RESOURCE ID: tr_30thapac_eventfocus_2026_header_1_tw
 TEXT: ताइवान में PokéXciting! सीमति समय वाली रसिर्च (2/3)
@@ -128645,6 +128699,9 @@ TEXT: फ़लिीपींस में PokéXciting! सीमति सम
 RESOURCE ID: tr_30thapac_eventfocus_2026_header_2_sg
 TEXT: सिंगापुर में PokéXciting! सीमति समय वाली रसिर्च (3/3)
 
+RESOURCE ID: tr_30thapac_eventfocus_2026_header_2_th
+TEXT: बैंकॉक में PokéXciting! सीमति समय वाली रसिर्च (3/3)
+
 RESOURCE ID: tr_30thapac_eventfocus_2026_header_2_tw
 TEXT: ताइवान में PokéXciting! सीमति समय वाली रसिर्च (3/3)
 
@@ -128656,6 +128713,9 @@ TEXT: फ़लिीपींस में PokéXciting! सीमति सम
 
 RESOURCE ID: tr_30thapac_eventfocus_2026_header_sg
 TEXT: सिंगापुर में PokéXciting! सीमति समय वाली रसिर्च
+
+RESOURCE ID: tr_30thapac_eventfocus_2026_header_th
+TEXT: बैंकॉक में PokéXciting! सीमति समय वाली रसिर्च
 
 RESOURCE ID: tr_30thapac_eventfocus_2026_header_tw
 TEXT: ताइवान में PokéXciting! सीमति समय वाली रसिर्च
@@ -128669,6 +128729,9 @@ TEXT: फ़लिीपींस में PokéXciting! 30 वर्षों 
 RESOURCE ID: tr_30thapac_longspan_2026_header_0_sg
 TEXT: सिंगापुर में PokéXciting! 30 वर्षों की यादें सीमति समय वाली रसिर्च (1/10)
 
+RESOURCE ID: tr_30thapac_longspan_2026_header_0_th
+TEXT: बैंकॉक में PokéXciting! 30 वर्षों की यादें सीमति समय वाली रसिर्च (1/10)
+
 RESOURCE ID: tr_30thapac_longspan_2026_header_0_tw
 TEXT: ताइवान में PokéXciting! 30 वर्षों की यादें सीमति समय वाली रसिर्च (1/10)
 
@@ -128680,6 +128743,9 @@ TEXT: फ़लिीपींस में PokéXciting! 30 वर्षों 
 
 RESOURCE ID: tr_30thapac_longspan_2026_header_1_sg
 TEXT: सिंगापुर में PokéXciting! 30 वर्षों की यादें सीमति समय वाली रसिर्च (2/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_1_th
+TEXT: बैंकॉक में PokéXciting! 30 वर्षों की यादें सीमति समय वाली रसिर्च (2/10)
 
 RESOURCE ID: tr_30thapac_longspan_2026_header_1_tw
 TEXT: ताइवान में PokéXciting! 30 वर्षों की यादें सीमति समय वाली रसिर्च (2/10)
@@ -128693,6 +128759,9 @@ TEXT: फ़लिीपींस में PokéXciting! 30 वर्षों 
 RESOURCE ID: tr_30thapac_longspan_2026_header_2_sg
 TEXT: सिंगापुर में PokéXciting! 30 वर्षों की यादें सीमति समय वाली रसिर्च (3/10)
 
+RESOURCE ID: tr_30thapac_longspan_2026_header_2_th
+TEXT: बैंकॉक में PokéXciting! 30 वर्षों की यादें सीमति समय वाली रसिर्च (3/10)
+
 RESOURCE ID: tr_30thapac_longspan_2026_header_2_tw
 TEXT: ताइवान में PokéXciting! 30 वर्षों की यादें सीमति समय वाली रसिर्च (3/10)
 
@@ -128704,6 +128773,9 @@ TEXT: फ़लिीपींस में PokéXciting! 30 वर्षों 
 
 RESOURCE ID: tr_30thapac_longspan_2026_header_3_sg
 TEXT: सिंगापुर में PokéXciting! 30 वर्षों की यादें सीमति समय वाली रसिर्च (4/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_3_th
+TEXT: बैंकॉक में PokéXciting! 30 वर्षों की यादें सीमति समय वाली रसिर्च (4/10)
 
 RESOURCE ID: tr_30thapac_longspan_2026_header_3_tw
 TEXT: ताइवान में PokéXciting! 30 वर्षों की यादें सीमति समय वाली रसिर्च (4/10)
@@ -128717,6 +128789,9 @@ TEXT: फ़लिीपींस में PokéXciting! 30 वर्षों 
 RESOURCE ID: tr_30thapac_longspan_2026_header_4_sg
 TEXT: सिंगापुर में PokéXciting! 30 वर्षों की यादें सीमति समय वाली रसिर्च (5/10)
 
+RESOURCE ID: tr_30thapac_longspan_2026_header_4_th
+TEXT: बैंकॉक में PokéXciting! 30 वर्षों की यादें सीमति समय वाली रसिर्च (5/10)
+
 RESOURCE ID: tr_30thapac_longspan_2026_header_4_tw
 TEXT: ताइवान में PokéXciting! 30 वर्षों की यादें सीमति समय वाली रसिर्च (5/10)
 
@@ -128728,6 +128803,9 @@ TEXT: फ़लिीपींस में PokéXciting! 30 वर्षों 
 
 RESOURCE ID: tr_30thapac_longspan_2026_header_5_sg
 TEXT: सिंगापुर में PokéXciting! 30 वर्षों की यादें सीमति समय वाली रसिर्च (6/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_5_th
+TEXT: बैंकॉक में PokéXciting! 30 वर्षों की यादें सीमति समय वाली रसिर्च (6/10)
 
 RESOURCE ID: tr_30thapac_longspan_2026_header_5_tw
 TEXT: ताइवान में PokéXciting! 30 वर्षों की यादें सीमति समय वाली रसिर्च (6/10)
@@ -128741,6 +128819,9 @@ TEXT: फ़लिीपींस में PokéXciting! 30 वर्षों 
 RESOURCE ID: tr_30thapac_longspan_2026_header_6_sg
 TEXT: सिंगापुर में PokéXciting! 30 वर्षों की यादें सीमति समय वाली रसिर्च (7/10)
 
+RESOURCE ID: tr_30thapac_longspan_2026_header_6_th
+TEXT: बैंकॉक में PokéXciting! 30 वर्षों की यादें सीमति समय वाली रसिर्च (7/10)
+
 RESOURCE ID: tr_30thapac_longspan_2026_header_6_tw
 TEXT: ताइवान में PokéXciting! 30 वर्षों की यादें सीमति समय वाली रसिर्च (7/10)
 
@@ -128752,6 +128833,9 @@ TEXT: फ़लिीपींस में PokéXciting! 30 वर्षों 
 
 RESOURCE ID: tr_30thapac_longspan_2026_header_7_sg
 TEXT: सिंगापुर में PokéXciting! 30 वर्षों की यादें सीमति समय वाली रसिर्च (8/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_7_th
+TEXT: बैंकॉक में PokéXciting! 30 वर्षों की यादें सीमति समय वाली रसिर्च (8/10)
 
 RESOURCE ID: tr_30thapac_longspan_2026_header_7_tw
 TEXT: ताइवान में PokéXciting! 30 वर्षों की यादें सीमति समय वाली रसिर्च (8/10)
@@ -128765,6 +128849,9 @@ TEXT: फ़लिीपींस में PokéXciting! 30 वर्षों 
 RESOURCE ID: tr_30thapac_longspan_2026_header_8_sg
 TEXT: सिंगापुर में PokéXciting! 30 वर्षों की यादें सीमति समय वाली रसिर्च (9/10)
 
+RESOURCE ID: tr_30thapac_longspan_2026_header_8_th
+TEXT: बैंकॉक में PokéXciting! 30 वर्षों की यादें सीमति समय वाली रसिर्च (9/10)
+
 RESOURCE ID: tr_30thapac_longspan_2026_header_8_tw
 TEXT: ताइवान में PokéXciting! 30 वर्षों की यादें सीमति समय वाली रसिर्च (9/10)
 
@@ -128777,6 +128864,9 @@ TEXT: फ़लिीपींस में PokéXciting! 30 वर्षों 
 RESOURCE ID: tr_30thapac_longspan_2026_header_9_sg
 TEXT: सिंगापुर में PokéXciting! 30 वर्षों की यादें सीमति समय वाली रसिर्च (10/10)
 
+RESOURCE ID: tr_30thapac_longspan_2026_header_9_th
+TEXT: बैंकॉक में PokéXciting! 30 वर्षों की यादें सीमति समय वाली रसिर्च (10/10)
+
 RESOURCE ID: tr_30thapac_longspan_2026_header_9_tw
 TEXT: ताइवान में PokéXciting! 30 वर्षों की यादें सीमति समय वाली रसिर्च (10/10)
 
@@ -128788,6 +128878,9 @@ TEXT: फ़लिीपींस में PokéXciting! 30 वर्षों 
 
 RESOURCE ID: tr_30thapac_longspan_2026_header_sg
 TEXT: सिंगापुर में PokéXciting! 30 वर्षों की यादें सीमति समय वाली रसिर्च
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_th
+TEXT: बैंकॉक में PokéXciting! 30 वर्षों की यादें सीमति समय वाली रसिर्च
 
 RESOURCE ID: tr_30thapac_longspan_2026_header_tw
 TEXT: ताइवान में PokéXciting! 30 वर्षों की यादें सीमति समय वाली रसिर्च
