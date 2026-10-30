@@ -85,6 +85,9 @@ TEXT: งานวิจัยแบบจำกัดเวลาพรีเ�
 RESOURCE ID: 30th_anniversary_all_out_event_name
 TEXT: อีเวนต์ครบรอบ 30 ปีโปเกมอน: รวมพลครั้งใหญ่
 
+RESOURCE ID: 30th_anniversary_apac_event_name_bangkok
+TEXT: PokéXciting! ที่กรุงเทพฯ
+
 RESOURCE ID: 30th_anniversary_apac_event_name_malaysia
 TEXT: PokéXciting! ที่มาเลเซีย
 
@@ -35787,7 +35790,7 @@ RESOURCE ID: event_pass_gofest2025_base_track_title
 TEXT: บัตรผ่าน GO: โบราณหวนคืน
 
 RESOURCE ID: event_pass_gofest2025_event_duration
-TEXT: 23-29 มิถุนายน 
+TEXT: 23 มิถุนายน ถึง 29 มิถุนายน 
 
 RESOURCE ID: event_pass_gofest2025_premium_track_title
 TEXT: บัตรผ่าน GO Deluxe: โบราณหวนคืน
@@ -35822,7 +35825,7 @@ RESOURCE ID: event_pass_gofest2026_base_track_title
 TEXT: บัตรผ่าน GO: รอยเส้นทางอันยิ่งใหญ่
 
 RESOURCE ID: event_pass_gofest2026_event_duration
-TEXT: 6-12 กรกฎาคม
+TEXT: 6 กรกฎาคม ถึง 12 กรกฎาคม
 
 RESOURCE ID: event_pass_gofest2026_finale_base_track_title
 TEXT: บัตรผ่าน GO: เมก้าฟินาเล
@@ -37917,7 +37920,7 @@ RESOURCE ID: filter_key_mega_level
 TEXT: เมก้า
 
 RESOURCE ID: filter_key_profile_background
-TEXT: profilebackground
+TEXT: พื้นหลังโพรไฟล์
 
 RESOURCE ID: filter_key_raid_ex
 TEXT: ตีบอส EX
@@ -53642,16 +53645,16 @@ RESOURCE ID: great_league_championship_series_2026
 TEXT: การแข่งขัน GO Championship 2026
 
 RESOURCE ID: great_league_championship_series_2027
-TEXT: 2027 GO Championship Series Cup
+TEXT: การแข่งขันซีรีส์ 2027 GO Championship
 
 RESOURCE ID: great_league_championship_series_2028
-TEXT: 2028 GO Championship Series Cup
+TEXT: การแข่งขันซีรีส์ 2028 GO Championship
 
 RESOURCE ID: great_league_championship_series_2029
-TEXT: 2029 GO Championship Series Cup
+TEXT: การแข่งขันซีรีส์ 2029 GO Championship
 
 RESOURCE ID: great_league_championship_series_2030
-TEXT: 2030 GO Championship Series Cup
+TEXT: การแข่งขันซีรีส์ 2030 GO Championship
 
 RESOURCE ID: great_league_mega_title
 TEXT: เกรตลีก (ver. เมก้า)
@@ -65184,7 +65187,7 @@ RESOURCE ID: login_choice_screen
 TEXT: สมัครด้วย
 
 RESOURCE ID: login_choice_screen_temp
-TEXT: Sign up with {0}
+TEXT: ลงทะเบียนด้วย {0}
 
 RESOURCE ID: login_create_account
 TEXT: สร้างบัญชีที่นี่
@@ -68039,10 +68042,10 @@ at SHA da71d231c41a4d4f7aef0d6fd71061652ff15a0a
 Pipeline 441624, job 3600523
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-10-28T00:34:05.832253+00:00 for th-TH
-at SHA eb39dfa4ddd
-Pipeline 4056315, job 59806318
-Patch from: 0.435.0-SHA-b075bde4-RC4, 0.437.0-SHA-d1d1a55c-RC2, 0.433.1-SHA-0f52e3f0-RC1
+TEXT: Built at 2026-10-30T04:15:50.656594+00:00 for th-TH
+at SHA 6ca489ee17b
+Pipeline 4063968, job 59931656
+Patch from: 0.437.0-SHA-d1d1a55c-RC2, 0.435.0-SHA-d5d32cc5-RC2, 0.433.1-SHA-0f52e3f0-RC1
 
 RESOURCE ID: meteor_title_1
 TEXT: ฝนดาวตก
@@ -73855,10 +73858,10 @@ RESOURCE ID: not_very_effective_2
 TEXT: ไม่ค่อยได้ผล
 
 RESOURCE ID: notification_candy_found_plural
-TEXT: พบลูกอม{1} {0}เม็ด!
+TEXT: พบลูกอม{1} {0} เม็ด!
 
 RESOURCE ID: notification_candy_found_singular
-TEXT: พบลูกอม{1} 1 เม็ด!
+TEXT: พบลูกอม{0} 1 เม็ด!
 
 RESOURCE ID: notification_from_gym_title
 TEXT: จากยิม
@@ -92597,7 +92600,7 @@ RESOURCE ID: ptc_claim_reward_msg
 TEXT: คุณเชื่อมต่อบัญชี ศูนย์โปเกมอนเทรนเนอร์ เรียบร้อย และได้รับเครื่องฟักไข่แล้ว
 
 RESOURCE ID: ptc_claim_reward_msg_out
-TEXT: คุณเชื่อมต่อบัญชีศูนย์โปเกมอนเทรนเนอร์เรียบร้อย และได้รับเครื่องฟักไข่แล้ว
+TEXT: คุณเชื่อมโยงบัญชีศูนย์โปเกมอนเทรนเนอร์เรียบร้อย และได้รับเครื่องฟักไข่แล้ว
 
 RESOURCE ID: ptc_error_activation_required
 TEXT: กรุณาเปิดใช้งานบัญชีผู้ใช้ของคุณในการเล่นโปเกมอนโก
@@ -123026,6 +123029,9 @@ TEXT: แสตมป์แรลลี PokéXciting! (สิงคโปร์)
 RESOURCE ID: rally_apac_30_regional_taiwan_title
 TEXT: แสตมป์แรลลี PokéXciting! (ไต้หวัน)
 
+RESOURCE ID: rally_apac_30_regional_thailand_title
+TEXT: แสตมป์แรลลี PokéXciting! (ไทย)
+
 RESOURCE ID: rally_apac_30_cross_regional_desc
 TEXT: ฉลอง PokéXciting! ในเอเชีย!
 
@@ -123074,6 +123080,18 @@ TEXT: สิงคโปร์
 RESOURCE ID: rally_apac_30_regional_singapore_reward_desc
 TEXT: เมื่อสะสมแสตมป์ จะได้เผชิญหน้ากับพิคาชู PokéXciting! (สีน้ำเงิน) ที่มีพื้นหลังสถานที่พิเศษเฉพาะสิงคโปร์
 
+RESOURCE ID: rally_apac_30_regional_tailand_desc
+TEXT: ฉลอง PokéXciting! ใน ไทย!
+
+RESOURCE ID: rally_apac_30_regional_tailand_desc_detail
+TEXT: แวะไปเสาโปเกสต็อปที่กำหนดในกรุงเทพฯจัดและสะสมแสตมป์กัน! ตรวจสอบรายละเอียดได้ที่แผนที่แสตมป์แรลลี
+
+RESOURCE ID: rally_apac_30_regional_tailand_location
+TEXT: กรุงเทพฯ, ไทย
+
+RESOURCE ID: rally_apac_30_regional_tailand_reward_desc
+TEXT: เมื่อสะสมแสตมป์ จะได้เผชิญหน้ากับพิคาชู PokéXciting! (สีส้ม) ที่มีพื้นหลังสถานที่พิเศษเฉพาะกรุงเทพฯ
+
 RESOURCE ID: rally_apac_30_regional_taiwan_desc
 TEXT: ฉลอง PokéXciting! ในไต้หวัน!
 
@@ -123085,6 +123103,23 @@ TEXT: ไทเป, ไต้หวัน
 
 RESOURCE ID: rally_apac_30_regional_taiwan_reward_desc
 TEXT: เมื่อสะสมแสตมป์ จะได้เผชิญหน้ากับพิคาชู PokéXciting! (สีชมพู) ที่มีพื้นหลังสถานที่พิเศษเฉพาะไทเป
+
+RESOURCE ID: rally_cdmx_2026_title
+TEXT: แสตมป์แรลลีเม็กซิโกซิตี้ - ลูจาบูล
+
+RESOURCE ID: rally_cdmx_2026_desc
+TEXT: แสตมป์แรลลี GO สุดพิเศษเฉพาะที่เม็กซิโกซิตี้
+
+RESOURCE ID: rally_cdmx_2026_desc_detail
+TEXT: แวะไปเสาโปเกสต็อปที่กำหนดซึ่งตั้งอยู่ตาม
+เส้นทางประวัติศาสตร์ในเม็กซิโกซิตี้
+เพื่อปั๊มแสตมป์!
+
+RESOURCE ID: rally_cdmx_2026_location
+TEXT: เม็กซิโกซิตี้, เม็กซิโก
+
+RESOURCE ID: rally_cdmx_2026_rewards_desc
+TEXT: เผชิญหน้ากับลูจาบูลที่มีพื้นหลังสถานที่เม็กซิโกซิตี้!
 
 RESOURCE ID: rally_city_safari_2025_amsterdam_desc
 TEXT: ยินดีต้อนรับสู่ City Safari: อัมสเตอร์ดัม!
@@ -123596,6 +123631,23 @@ TEXT: บ้านสไตล์วิกตอเรียที่ทาส�
 RESOURCE ID: rally_rewards_desc_general
 TEXT: เมื่อสะสมแสตมป์แรลลี จะได้เผชิญหน้ากับโปเกมอน
 
+RESOURCE ID: rally_sendai_2026_title
+TEXT: แสตมป์แรลลีเซนได - ลาพลาซ
+
+RESOURCE ID: rally_sendai_2026_desc
+TEXT: แสตมป์แรลลี GO สุดพิเศษเฉพาะที่เซนได
+
+RESOURCE ID: rally_sendai_2026_desc_detail
+TEXT: แวะไปเสาโปเกสต็อปที่กำหนดซึ่งตั้งอยู่ตาม
+เส้นทางประวัติศาสตร์ในเซนได
+เพื่อปั๊มแสตมป์!
+
+RESOURCE ID: rally_sendai_2026_location
+TEXT: เซนได, ญี่ปุ่น
+
+RESOURCE ID: rally_sendai_2026_rewards_desc
+TEXT: เผชิญหน้ากับลาพลาซที่มีพื้นหลังสถานที่เซนได!
+
 RESOURCE ID: rally_tokyo_koto_2026_title
 TEXT: แสตมป์แรลลีโตเกียว: เมืองโคโต
 
@@ -123787,7 +123839,7 @@ RESOURCE ID: recycle_dialog_prefix
 TEXT: ทิ้ง
 
 RESOURCE ID: recycle_dialog_quantity
-TEXT: มีอยู่: {0}
+TEXT: มี: {0}
 
 RESOURCE ID: recycle_dialog_suffix
 TEXT: {0}?
@@ -128799,13 +128851,13 @@ RESOURCE ID: score_field_research_singular
 TEXT: ทำภารกิจงานวิจัยภาคสนามเสร็จสิ้น 1 ชิ้น
 
 RESOURCE ID: score_raids_max_battles_none
-TEXT: Completed 0 Raids or Max Battles
+TEXT: ตีบอสหรือแบตเทิลแมกซ์เสร็จสิ้น 0 ครั้ง
 
 RESOURCE ID: score_raids_max_battles_plural
-TEXT: Completed {0} Raids or Max Battles
+TEXT: ตีบอสหรือแบตเทิลแมกซ์เสร็จสิ้น {0} ครั้ง
 
 RESOURCE ID: score_raids_max_battles_singular
-TEXT: Completed 1 Raid or Max Battle
+TEXT: ตีบอสหรือแบตเทิลแมกซ์เสร็จสิ้น 1 ครั้ง
 
 RESOURCE ID: score_send_gift_none
 TEXT: ส่งของขวัญให้เพื่อน 0 ครั้ง
@@ -129714,7 +129766,7 @@ TEXT: ซื้อบัตรผ่าน GO Deluxe: อีเวนต์ค�
 - และอื่น ๆ
 
 RESOURCE ID: season_pass_after_party_2026_event_duration
-TEXT: 21-27 กรกฎาคม
+TEXT: 21 กรกฎาคม ถึง 27 กรกฎาคม
 
 RESOURCE ID: season_pass_after_party_2026_track_upgrade_header_description
 TEXT: รับรางวัลเพิ่มเติมและปลดล็อก<b>อุปกรณ์ปล่อยลัวร์สีทอง</b>ที่ระดับ 30!
@@ -129935,7 +129987,7 @@ TEXT: ซื้อบัตรผ่าน GO Deluxe: ฝูงแมลงบ�
 - และอื่น ๆ
 
 RESOURCE ID: season_pass_candela2026_event_duration
-TEXT: 9-15 มิถุนายน
+TEXT: 9 มิถุนายน ถึง 15 มิถุนายน
 
 RESOURCE ID: season_pass_candela2026_track_upgrade_header_description
 TEXT: รับรางวัลเพิ่มเติมและปลดล็อก<b>โพนีตะติดเครื่องประดับสไตล์แคนเดลา</b>เมื่อถึงระดับ 30!
@@ -130167,7 +130219,7 @@ TEXT: ซื้อบัตรผ่าน GO Deluxe: เทศกาลเก�
 - และอื่น ๆ
 
 RESOURCE ID: season_pass_horizons_fall_2026_event_duration
-TEXT: 16-22 กันยายน
+TEXT: 16 กันยายน ถึง 22 กันยายน
 
 RESOURCE ID: season_pass_horizons_fall_2026_track_upgrade_header_description
 TEXT: รับรางวัลเพิ่มเติมและปลดล็อก<b>การเผชิญหน้ากับอิวังโค</b>ที่ระดับ 60!
@@ -130288,7 +130340,7 @@ TEXT: ซื้อบัตรผ่าน GO Deluxe: พฤษภาคม เ�
 - และอื่น ๆ
 
 RESOURCE ID: season_pass_mega_squads_2026_event_duration
-TEXT: 8-14 กันยายน
+TEXT: 8 กันยายน ถึง 14 กันยายน
 
 RESOURCE ID: season_pass_mega_squads_2026_upgrade_description
 TEXT: ซื้อบัตรผ่าน GO Deluxe: ทีมเมก้า เพื่อปลดล็อกรางวัลต่อไปนี้!
@@ -130367,7 +130419,7 @@ TEXT: ซื้อบัตรผ่าน GO Deluxe: ตุลาคม เพ�
 - และอื่น ๆ
 
 RESOURCE ID: season_pass_pikachu_celebration_2026_event_duration
-TEXT: 13-20 กรกฎาคม
+TEXT: 13 กรกฎาคม ถึง 20 กรกฎาคม
 
 RESOURCE ID: season_pass_pikachu_celebration_2026_track_upgrade_header_description
 TEXT: รับรางวัลเพิ่มเติมและปลดล็อกการเผชิญหน้ากับพิคาชูร็อกสตาร์และพิคาชูไอดอล!
@@ -130636,7 +130688,7 @@ TEXT: ซื้อบัตรผ่าน GO Deluxe: ไฟฟ้าสุด�
 - และอื่น ๆ
 
 RESOURCE ID: season_pass_spring_marathon_2026_event_duration
-TEXT: 12-18 พฤษภาคม
+TEXT: 12 พฤษภาคม ถึง 18 พฤษภาคม
 
 RESOURCE ID: season_pass_spring_marathon_2026_track_upgrade_header_description
 TEXT: รับรางวัลเพิ่มเติมและปลดล็อก<b>รองเท้ามาราธอน</b>ที่ระดับ 15!
@@ -130662,7 +130714,7 @@ TEXT: ซื้อบัตรผ่าน GO Deluxe: ปณิธานเห�
 - และอื่น ๆ
 
 RESOURCE ID: season_pass_summermarathon2026_event_duration
-TEXT: 4-10 สิงหาคม
+TEXT: 4 สิงหาคม ถึง 10 สิงหาคม
 
 RESOURCE ID: season_pass_summermarathon2026_upgrade_description
 TEXT: ซื้อบัตรผ่าน GO Deluxe: การเดินทางไกลช่วงฤดูร้อน เพื่อปลดล็อกรางวัลต่อไปนี้!
@@ -130693,7 +130745,7 @@ RESOURCE ID: season_pass_track_upgrade_header_description_100
 TEXT: รับรางวัลเพิ่มเติมและปลดล็อก<b>เครื่องรางนำโชค</b>ที่ระดับ 100!
 
 RESOURCE ID: season_pass_uu_water_festival_2026_event_duration
-TEXT: 18-24 สิงหาคม
+TEXT: 18 สิงหาคม ถึง 24 สิงหาคม
 
 RESOURCE ID: season_pass_uu_water_festival_2026_track_upgrade_header_description
 TEXT: รับรางวัลเพิ่มเติมและปลดล็อก<b>กระเป๋าเป้สตาร์มี</b>ที่ระดับ 15!
@@ -130702,7 +130754,7 @@ RESOURCE ID: season_pass_uu_water_festival_2026_upgrade_description
 TEXT: ซื้อบัตรผ่าน GO Deluxe: เทศกาลสายน้ำ เพื่อปลดล็อกรางวัลเพิ่มเติม รวมถึงไอเท็มอวาตาร์ธีมอีเวนต์, การเผชิญหน้ากับโปเกมอนธีมอีเวนต์มากขึ้น, อุปกรณ์ปล่อยลัวร์น้ำฝน และอื่น ๆ!
 
 RESOURCE ID: season_pass_wcs_2026_event_duration
-TEXT: 25-30 สิงหาคม
+TEXT: 25 สิงหาคม ถึง 30 สิงหาคม
 
 RESOURCE ID: season_pass_wcs_2026_track_upgrade_header_description
 TEXT: รับรางวัลเพิ่มเติมและปลดล็อก<b>ธันเดอร์</b>ที่ระดับ 30!
@@ -143324,7 +143376,7 @@ RESOURCE ID: tips_tasks_weather_boost_title
 TEXT: บูสต์สภาพอากาศ
 
 RESOURCE ID: tips_tasks_weather_boost_body
-TEXT: โปเกมอนที่กำหนดจะปรากฏตัวบ่อยขึ้นเมื่อสภาพอากาศเหมาะกับประเภทของมัน โปเกมอนเหล่านี้มีลักษณะพิเศษ เช่น CP สูง เพิ่มความแข็งแกร่งในการต่อสู้ และจะได้รับสตาร์ดัสต์เพิ่มมากขึ้นเมื่อจับได้
+TEXT: โปเกมอนที่กำหนดจะปรากฏตัวบ่อยขึ้นในสภาพอากาศที่ตรงกับประเภทของมัน โปเกมอนเหล่านี้มีลักษณะเด่น เช่น มี CP สูง แข็งแกร่งขึ้นในการต่อสู้ และจะได้รับสตาร์ดัสต์มากขึ้นเมื่อจับได้
 
 RESOURCE ID: tips_trading_intro_conversation_1
 TEXT: ไง %PLAYERNAME%! รู้ไหมว่าเธอสามารถแลกเปลี่ยน
@@ -144081,6 +144133,9 @@ TEXT: งานวิจัยแบบจำกัดเวลา PokéXciting!
 RESOURCE ID: tr_30thapac_eventfocus_2026_header_0_sg
 TEXT: งานวิจัยแบบจำกัดเวลา PokéXciting! ที่สิงคโปร์ (1/3)
 
+RESOURCE ID: tr_30thapac_eventfocus_2026_header_0_th
+TEXT: งานวิจัยแบบจำกัดเวลา PokéXciting! ที่กรุงเทพฯ (1/3)
+
 RESOURCE ID: tr_30thapac_eventfocus_2026_header_0_tw
 TEXT: งานวิจัยแบบจำกัดเวลา PokéXciting! ที่ไต้หวัน (1/3)
 
@@ -144092,6 +144147,9 @@ TEXT: งานวิจัยแบบจำกัดเวลา PokéXciting!
 
 RESOURCE ID: tr_30thapac_eventfocus_2026_header_1_sg
 TEXT: งานวิจัยแบบจำกัดเวลา PokéXciting! ที่สิงคโปร์ (2/3)
+
+RESOURCE ID: tr_30thapac_eventfocus_2026_header_1_th
+TEXT: งานวิจัยแบบจำกัดเวลา PokéXciting! ที่กรุงเทพฯ (2/3)
 
 RESOURCE ID: tr_30thapac_eventfocus_2026_header_1_tw
 TEXT: งานวิจัยแบบจำกัดเวลา PokéXciting! ที่ไต้หวัน (2/3)
@@ -144105,6 +144163,9 @@ TEXT: งานวิจัยแบบจำกัดเวลา PokéXciting!
 RESOURCE ID: tr_30thapac_eventfocus_2026_header_2_sg
 TEXT: งานวิจัยแบบจำกัดเวลา PokéXciting! ที่สิงคโปร์ (3/3)
 
+RESOURCE ID: tr_30thapac_eventfocus_2026_header_2_th
+TEXT: งานวิจัยแบบจำกัดเวลา PokéXciting! ที่กรุงเทพฯ (3/3)
+
 RESOURCE ID: tr_30thapac_eventfocus_2026_header_2_tw
 TEXT: งานวิจัยแบบจำกัดเวลา PokéXciting! ที่ไต้หวัน (3/3)
 
@@ -144116,6 +144177,9 @@ TEXT: งานวิจัยแบบจำกัดเวลา PokéXciting!
 
 RESOURCE ID: tr_30thapac_eventfocus_2026_header_sg
 TEXT: งานวิจัยแบบจำกัดเวลา PokéXciting! ที่สิงคโปร์
+
+RESOURCE ID: tr_30thapac_eventfocus_2026_header_th
+TEXT: งานวิจัยแบบจำกัดเวลา PokéXciting! ที่กรุงเทพฯ
 
 RESOURCE ID: tr_30thapac_eventfocus_2026_header_tw
 TEXT: งานวิจัยแบบจำกัดเวลา PokéXciting! ที่ไต้หวัน
@@ -144129,6 +144193,9 @@ TEXT: งานวิจัยแบบจำกัดเวลา 30 ปีท�
 RESOURCE ID: tr_30thapac_longspan_2026_header_0_sg
 TEXT: งานวิจัยแบบจำกัดเวลา 30 ปีที่ผ่านมา PokéXciting! ที่สิงคโปร์ (1/10)
 
+RESOURCE ID: tr_30thapac_longspan_2026_header_0_th
+TEXT: งานวิจัยแบบจำกัดเวลา 30 ปีที่ผ่านมา PokéXciting! ที่กรุงเทพฯ (1/10)
+
 RESOURCE ID: tr_30thapac_longspan_2026_header_0_tw
 TEXT: งานวิจัยแบบจำกัดเวลา 30 ปีที่ผ่านมา PokéXciting! ที่ไต้หวัน (1/10)
 
@@ -144140,6 +144207,9 @@ TEXT: งานวิจัยแบบจำกัดเวลา 30 ปีท�
 
 RESOURCE ID: tr_30thapac_longspan_2026_header_1_sg
 TEXT: งานวิจัยแบบจำกัดเวลา 30 ปีที่ผ่านมา PokéXciting! ที่สิงคโปร์ (2/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_1_th
+TEXT: งานวิจัยแบบจำกัดเวลา 30 ปีที่ผ่านมา PokéXciting! ที่กรุงเทพฯ (2/10)
 
 RESOURCE ID: tr_30thapac_longspan_2026_header_1_tw
 TEXT: งานวิจัยแบบจำกัดเวลา 30 ปีที่ผ่านมา PokéXciting! ที่ไต้หวัน (2/10)
@@ -144153,6 +144223,9 @@ TEXT: งานวิจัยแบบจำกัดเวลา 30 ปีท�
 RESOURCE ID: tr_30thapac_longspan_2026_header_2_sg
 TEXT: งานวิจัยแบบจำกัดเวลา 30 ปีที่ผ่านมา PokéXciting! ที่สิงคโปร์ (3/10)
 
+RESOURCE ID: tr_30thapac_longspan_2026_header_2_th
+TEXT: งานวิจัยแบบจำกัดเวลา 30 ปีที่ผ่านมา PokéXciting! ที่กรุงเทพฯ (3/10)
+
 RESOURCE ID: tr_30thapac_longspan_2026_header_2_tw
 TEXT: งานวิจัยแบบจำกัดเวลา 30 ปีที่ผ่านมา PokéXciting! ที่ไต้หวัน (3/10)
 
@@ -144164,6 +144237,9 @@ TEXT: งานวิจัยแบบจำกัดเวลา 30 ปีท�
 
 RESOURCE ID: tr_30thapac_longspan_2026_header_3_sg
 TEXT: งานวิจัยแบบจำกัดเวลา 30 ปีที่ผ่านมา PokéXciting! ที่สิงคโปร์ (4/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_3_th
+TEXT: งานวิจัยแบบจำกัดเวลา 30 ปีที่ผ่านมา PokéXciting! ที่กรุงเทพฯ (4/10)
 
 RESOURCE ID: tr_30thapac_longspan_2026_header_3_tw
 TEXT: งานวิจัยแบบจำกัดเวลา 30 ปีที่ผ่านมา PokéXciting! ที่ไต้หวัน (4/10)
@@ -144177,6 +144253,9 @@ TEXT: งานวิจัยแบบจำกัดเวลา 30 ปีท�
 RESOURCE ID: tr_30thapac_longspan_2026_header_4_sg
 TEXT: งานวิจัยแบบจำกัดเวลา 30 ปีที่ผ่านมา PokéXciting! ที่สิงคโปร์ (5/10)
 
+RESOURCE ID: tr_30thapac_longspan_2026_header_4_th
+TEXT: งานวิจัยแบบจำกัดเวลา 30 ปีที่ผ่านมา PokéXciting! ที่กรุงเทพฯ (5/10)
+
 RESOURCE ID: tr_30thapac_longspan_2026_header_4_tw
 TEXT: งานวิจัยแบบจำกัดเวลา 30 ปีที่ผ่านมา PokéXciting! ที่ไต้หวัน (5/10)
 
@@ -144188,6 +144267,9 @@ TEXT: งานวิจัยแบบจำกัดเวลา 30 ปีท�
 
 RESOURCE ID: tr_30thapac_longspan_2026_header_5_sg
 TEXT: งานวิจัยแบบจำกัดเวลา 30 ปีที่ผ่านมา PokéXciting! ที่สิงคโปร์ (6/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_5_th
+TEXT: งานวิจัยแบบจำกัดเวลา 30 ปีที่ผ่านมา PokéXciting! ที่กรุงเทพฯ (6/10)
 
 RESOURCE ID: tr_30thapac_longspan_2026_header_5_tw
 TEXT: งานวิจัยแบบจำกัดเวลา 30 ปีที่ผ่านมา PokéXciting! ที่ไต้หวัน (6/10)
@@ -144201,6 +144283,9 @@ TEXT: งานวิจัยแบบจำกัดเวลา 30 ปีท�
 RESOURCE ID: tr_30thapac_longspan_2026_header_6_sg
 TEXT: งานวิจัยแบบจำกัดเวลา 30 ปีที่ผ่านมา PokéXciting! ที่สิงคโปร์ (7/10)
 
+RESOURCE ID: tr_30thapac_longspan_2026_header_6_th
+TEXT: งานวิจัยแบบจำกัดเวลา 30 ปีที่ผ่านมา PokéXciting! ที่กรุงเทพฯ (7/10)
+
 RESOURCE ID: tr_30thapac_longspan_2026_header_6_tw
 TEXT: งานวิจัยแบบจำกัดเวลา 30 ปีที่ผ่านมา PokéXciting! ที่ไต้หวัน (7/10)
 
@@ -144212,6 +144297,9 @@ TEXT: งานวิจัยแบบจำกัดเวลา 30 ปีท�
 
 RESOURCE ID: tr_30thapac_longspan_2026_header_7_sg
 TEXT: งานวิจัยแบบจำกัดเวลา 30 ปีที่ผ่านมา PokéXciting! ที่สิงคโปร์ (8/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_7_th
+TEXT: งานวิจัยแบบจำกัดเวลา 30 ปีที่ผ่านมา PokéXciting! ที่กรุงเทพฯ (8/10)
 
 RESOURCE ID: tr_30thapac_longspan_2026_header_7_tw
 TEXT: งานวิจัยแบบจำกัดเวลา 30 ปีที่ผ่านมา PokéXciting! ที่ไต้หวัน (8/10)
@@ -144225,6 +144313,9 @@ TEXT: งานวิจัยแบบจำกัดเวลา 30 ปีท�
 RESOURCE ID: tr_30thapac_longspan_2026_header_8_sg
 TEXT: งานวิจัยแบบจำกัดเวลา 30 ปีที่ผ่านมา PokéXciting! ที่สิงคโปร์ (9/10)
 
+RESOURCE ID: tr_30thapac_longspan_2026_header_8_th
+TEXT: งานวิจัยแบบจำกัดเวลา 30 ปีที่ผ่านมา PokéXciting! ที่กรุงเทพฯ (9/10)
+
 RESOURCE ID: tr_30thapac_longspan_2026_header_8_tw
 TEXT: งานวิจัยแบบจำกัดเวลา 30 ปีที่ผ่านมา PokéXciting! ที่ไต้หวัน (9/10)
 
@@ -144237,6 +144328,9 @@ TEXT: งานวิจัยแบบจำกัดเวลา 30 ปีท�
 RESOURCE ID: tr_30thapac_longspan_2026_header_9_sg
 TEXT: งานวิจัยแบบจำกัดเวลา 30 ปีที่ผ่านมา PokéXciting! ที่สิงคโปร์ (10/10)
 
+RESOURCE ID: tr_30thapac_longspan_2026_header_9_th
+TEXT: งานวิจัยแบบจำกัดเวลา 30 ปีที่ผ่านมา PokéXciting! ที่กรุงเทพฯ (10/10)
+
 RESOURCE ID: tr_30thapac_longspan_2026_header_9_tw
 TEXT: งานวิจัยแบบจำกัดเวลา 30 ปีที่ผ่านมา PokéXciting! ที่ไต้หวัน (10/10)
 
@@ -144248,6 +144342,9 @@ TEXT: งานวิจัยแบบจำกัดเวลา 30 ปีท�
 
 RESOURCE ID: tr_30thapac_longspan_2026_header_sg
 TEXT: งานวิจัยแบบจำกัดเวลา 30 ปีที่ผ่านมา PokéXciting! ที่สิงคโปร์
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_th
+TEXT: งานวิจัยแบบจำกัดเวลา 30 ปีที่ผ่านมา PokéXciting! ที่กรุงเทพฯ
 
 RESOURCE ID: tr_30thapac_longspan_2026_header_tw
 TEXT: งานวิจัยแบบจำกัดเวลา 30 ปีที่ผ่านมา PokéXciting! ที่ไต้หวัน

@@ -85,6 +85,9 @@ TEXT: Ricerca a tempo premium dedicata alla Festa del 10° anniversario
 RESOURCE ID: 30th_anniversary_all_out_event_name
 TEXT: 30° anniversario di Pokémon: a tutta forza
 
+RESOURCE ID: 30th_anniversary_apac_event_name_bangkok
+TEXT: PokéXciting! a Bangkok: la festa Pokémon più grande della storia!
+
 RESOURCE ID: 30th_anniversary_apac_event_name_malaysia
 TEXT: PokéXciting! in Malesia: la festa Pokémon più grande della storia!
 
@@ -22244,7 +22247,7 @@ RESOURCE ID: buddy_monodepth_modal_turn_off_button
 TEXT: Disattiva Scopely Explore AR Platform (prova)
 
 RESOURCE ID: buddy_multilplayer_qr_display_header
-TEXT: Codice gruppo del compagno
+TEXT: Codice 2D gruppo di compagni
 
 RESOURCE ID: buddy_multiplayer_quit
 TEXT: Vuoi terminare questa sessione?
@@ -22253,7 +22256,7 @@ RESOURCE ID: buddy_multiplayer_connection_error
 TEXT: Errore di connessione
 
 RESOURCE ID: buddy_multiplayer_create_session
-TEXT: Crea un codice QR del gruppo
+TEXT: Crea un codice 2D del gruppo
 
 RESOURCE ID: buddy_multiplayer_deploy_invalid_position
 TEXT: Cerca un luogo in piano più grande.
@@ -22335,7 +22338,7 @@ RESOURCE ID: buddy_multiplayer_lobby_body_peer
 TEXT: Raccogli informazioni dal capogruppo e trova i nascondigli.
 
 RESOURCE ID: buddy_multiplayer_mapping_timeout
-TEXT: Questo gruppo di compagni è stato chiuso per inattività. Per continuare, riprova eseguendo la scansione di un codice QR gruppo di compagni.
+TEXT: Questo gruppo di compagni è stato chiuso per inattività. Per continuare, riprova eseguendo la scansione di un codice 2D gruppo di compagni.
 
 RESOURCE ID: buddy_multiplayer_peer_cannot_exit_group_photo
 TEXT: {0} controlla la foto di gruppo ora. Chiedi a {0} di disattivare la modalità foto di gruppo.
@@ -22362,7 +22365,7 @@ RESOURCE ID: buddy_multiplayer_player_count_can_join_singular
 TEXT: C’è posto per un altro Allenatore
 
 RESOURCE ID: buddy_multiplayer_qr_guidance
-TEXT: Inquadra un codice QR del gruppo
+TEXT: Scansiona un codice 2D del gruppo
 
 RESOURCE ID: buddy_multiplayer_qr_display_body
 TEXT: Una volta che ci sono tutti, tocca il pulsante Via
@@ -22374,7 +22377,7 @@ RESOURCE ID: buddy_multiplayer_safety_warning
 TEXT: Accertati di utilizzare la modalità AR in un luogo sicuro e vigila sull’incolumità dei minori.
 
 RESOURCE ID: buddy_multiplayer_scan_button
-TEXT: Inquadra un codice QR del gruppo
+TEXT: Scansiona un codice 2D del gruppo
 
 RESOURCE ID: buddy_multiplayer_start_session
 TEXT: Via
@@ -22383,7 +22386,7 @@ RESOURCE ID: buddy_multiplayer_timeout_dialog_title
 TEXT: Questo gruppo di compagni è chiuso.
 
 RESOURCE ID: buddy_multiplayer_timeout_dialog_description
-TEXT: Questo gruppo di compagni è stato chiuso per inattività. Per continuare, riprova eseguendo la scansione di un codice gruppo di compagni.
+TEXT: Questo gruppo di compagni è stato chiuso per inattività. Per continuare, riprova eseguendo la scansione di un codice 2D gruppo di compagni.
 
 RESOURCE ID: buddy_multiplayer_tutorial_0_title
 TEXT: Gioca in un luogo ben illuminato
@@ -30178,7 +30181,7 @@ RESOURCE ID: combat_matchmaking_generic_error
 TEXT: Errore nella ricerca delle partite.
 
 RESOURCE ID: combat_matchmaking_invalid_qr
-TEXT: WRONG!
+TEXT: Codice 2D non valido.
 
 RESOURCE ID: combat_matchmaking_match_found_status
 TEXT: Inizio della lotta
@@ -63347,10 +63350,10 @@ at SHA 4d4f3e80cc7fb911006bd14d198c9831ef66d005
 Pipeline 339838, job 2672172
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-10-28T00:34:05.832253+00:00 for it-IT
-at SHA eb39dfa4ddd
-Pipeline 4056315, job 59806318
-Patch from: 0.435.0-SHA-b075bde4-RC4, 0.437.0-SHA-d1d1a55c-RC2, 0.433.1-SHA-0f52e3f0-RC1
+TEXT: Built at 2026-10-30T04:15:50.656594+00:00 for it-IT
+at SHA 6ca489ee17b
+Pipeline 4063968, job 59931656
+Patch from: 0.437.0-SHA-d1d1a55c-RC2, 0.435.0-SHA-d5d32cc5-RC2, 0.433.1-SHA-0f52e3f0-RC1
 
 RESOURCE ID: meteor_title_1
 TEXT: PIOGGIA DI METEORE
@@ -70295,7 +70298,7 @@ RESOURCE ID: party_play_raid_menu_header
 TEXT: PARTECIPA A RAID IN GRUPPO
 
 RESOURCE ID: party_play_scan_qr_code
-TEXT: Fai la scansione del codice QR.
+TEXT: Scansiona il codice 2D.
 
 RESOURCE ID: party_play_see_all_activities
 TEXT: Guarda tutte le attività
@@ -84207,7 +84210,7 @@ RESOURCE ID: pokestop_button_manual_input_2
 TEXT: Passa all’inserimento manuale
 
 RESOURCE ID: pokestop_button_read_qr_code
-TEXT: LEGGI CODICE QR
+TEXT: LEGGI CODICE 2D
 
 RESOURCE ID: pokestop_challenge_fr_title
 TEXT: Sfida Pokéstop
@@ -84220,7 +84223,7 @@ TEXT: Ricerca a tempo della sfida Pokéstop (1/1)
 
 RESOURCE ID: pokestop_check_in_notice
 TEXT: Benvenuto all’evento {0}!
-Usa la tua fotocamera per leggere il codice QR per l’accettazione.
+Usa la tua fotocamera per leggere il codice 2D per l’accettazione.
 
 RESOURCE ID: pokestop_check_in_succeeded
 TEXT: ACCETTAZIONE COMPLETATA
@@ -85454,10 +85457,10 @@ RESOURCE ID: pxp_worlds_event_name_2026
 TEXT: PokémonXP e Mondiali 2026
 
 RESOURCE ID: qr_code_title
-TEXT: Inquadra il codice QR
+TEXT: Scansiona il codice 2D
 
 RESOURCE ID: qr_decode_problem
-TEXT: Il codice QR non è stato riconosciuto. Prova l’inserimento manuale.
+TEXT: Il codice 2D non è stato riconosciuto. Prova a inserirlo manualmente.
 
 RESOURCE ID: qualifier_limited _one_event_raid
 TEXT: Nota: alcuni raid speciali possono essere completati una sola volta da ciascun Allenatore.
@@ -112292,6 +112295,9 @@ TEXT: Collezione di timbri PokéXciting! (Singapore)
 RESOURCE ID: rally_apac_30_regional_taiwan_title
 TEXT: Collezione di timbri PokéXciting! (Taiwan)
 
+RESOURCE ID: rally_apac_30_regional_thailand_title
+TEXT: Collezione di timbri PokéXciting! (Thailandia)
+
 RESOURCE ID: rally_apac_30_cross_regional_desc
 TEXT: Festeggia PokéXciting! nell’Asia Pacifica!
 
@@ -112340,6 +112346,18 @@ TEXT: Singapore
 RESOURCE ID: rally_apac_30_regional_singapore_reward_desc
 TEXT: Esplora Singapore e incontra Pikachu PokéXciting! (blu) con esclusivo Sfondo di posizione della città.
 
+RESOURCE ID: rally_apac_30_regional_tailand_desc
+TEXT: Festeggia PokéXciting! in Thailandia!
+
+RESOURCE ID: rally_apac_30_regional_tailand_desc_detail
+TEXT: Incontra Pikachu PokéXciting! visitando Pokéstop speciali sparsi per Bangkok. Per maggiori informazioni, consulta la mappa.
+
+RESOURCE ID: rally_apac_30_regional_tailand_location
+TEXT: Bangkok, Thailandia
+
+RESOURCE ID: rally_apac_30_regional_tailand_reward_desc
+TEXT: Esplora Bangkok e incontra Pikachu PokéXciting! (arancione) con esclusivo Sfondo di posizione della città.
+
 RESOURCE ID: rally_apac_30_regional_taiwan_desc
 TEXT: Festeggia PokéXciting! a Taiwan!
 
@@ -112351,6 +112369,21 @@ TEXT: Taipei, Taiwan
 
 RESOURCE ID: rally_apac_30_regional_taiwan_reward_desc
 TEXT: Esplora Taipei e incontra Pikachu PokéXciting! (rosa) con esclusivo Sfondo di posizione della città.
+
+RESOURCE ID: rally_cdmx_2026_title
+TEXT: Collezione di timbri Hawlucha a Città del Messico
+
+RESOURCE ID: rally_cdmx_2026_desc
+TEXT: Un’esclusiva collezione di timbri GO disponibile solo a Città del Messico.
+
+RESOURCE ID: rally_cdmx_2026_desc_detail
+TEXT: Colleziona timbri visitando i Pokéstop della collezione di timbri GO in un percorso storico per le strade di Città del Messico!
+
+RESOURCE ID: rally_cdmx_2026_location
+TEXT: Città del Messico, Messico
+
+RESOURCE ID: rally_cdmx_2026_rewards_desc
+TEXT: Incontra Hawlucha con uno Sfondo di posizione di Città del Messico durante questa collezione di timbri.
 
 RESOURCE ID: rally_city_safari_2025_amsterdam_desc
 TEXT: Ti diamo il benvenuto al Safari in città ad Amsterdam!
@@ -112846,6 +112879,21 @@ TEXT: Una celebre fila di case vittoriane coloratissime.
 
 RESOURCE ID: rally_rewards_desc_general
 TEXT: Completa la collezione di timbri per ottenere incontri e ricompense
+
+RESOURCE ID: rally_sendai_2026_title
+TEXT: Collezione di timbri Lapras a Sendai • Tohoku
+
+RESOURCE ID: rally_sendai_2026_desc
+TEXT: Collezione di timbri esclusiva disponibile solo nella regione di Sendai • Tohoku!
+
+RESOURCE ID: rally_sendai_2026_desc_detail
+TEXT: Colleziona timbri visitando i Pokéstop della collezione di timbri GO in un percorso storico per le strade della regione di Sendai • Tohoku!
+
+RESOURCE ID: rally_sendai_2026_location
+TEXT: Sendai • Tohoku, Giappone
+
+RESOURCE ID: rally_sendai_2026_rewards_desc
+TEXT: Incontra un Lapras con uno Sfondo di posizione di Sendai durante questa collezione di timbri.
 
 RESOURCE ID: rally_tokyo_koto_2026_title
 TEXT: Collezione di timbri di Koto a Tokyo
@@ -122202,10 +122250,10 @@ RESOURCE ID: social_add_friend_facebook
 TEXT: Importa amici da Facebook
 
 RESOURCE ID: social_add_friend_qr
-TEXT: Codice QR
+TEXT: Codice 2D
 
 RESOURCE ID: social_add_friend_qr_v2
-TEXT: SCAN QR CODE
+TEXT: SCANSIONA CODICE 2D
 
 RESOURCE ID: social_cancel_friend_request
 TEXT: Annulla richiesta
@@ -122217,7 +122265,7 @@ RESOURCE ID: social_my_code
 TEXT: IL MIO CODICE ALLENATORE
 
 RESOURCE ID: social_my_qr_code
-TEXT: Il mio codice QR
+TEXT: Il mio codice 2D
 
 RESOURCE ID: social_no_friends
 TEXT: Gioca insieme ai tuoi amici per sbloccare scambi, Premier Ball e potenziamenti!
@@ -122344,13 +122392,13 @@ RESOURCE ID: social_qr_code_header
 TEXT: IL MIO CODICE
 
 RESOURCE ID: social_qr_code_prompt
-TEXT: Inquadra questo codice QR con lo scanner di un altro Allenatore.
+TEXT: Scansiona questo codice 2D con lo scanner di un altro Allenatore.
 
 RESOURCE ID: social_qr_scan_header
 TEXT: Leggi
 
 RESOURCE ID: social_qr_scan_prompt
-TEXT: Inquadra il codice QR di un Allenatore
+TEXT: Scansiona il codice 2D di un Allenatore
 
 RESOURCE ID: social_remove_friend
 TEXT: Rimuovi da lista amici
@@ -131559,6 +131607,9 @@ TEXT: Ricerca a tempo “PokéXciting! Festeggia con noi nelle Filippine” (1/3
 RESOURCE ID: tr_30thapac_eventfocus_2026_header_0_sg
 TEXT: Ricerca a tempo “PokéXciting! Festeggia con noi a Singapore” (1/3)
 
+RESOURCE ID: tr_30thapac_eventfocus_2026_header_0_th
+TEXT: Ricerca a tempo “PokéXciting! Festeggia con noi a Bangkok” (1/3)
+
 RESOURCE ID: tr_30thapac_eventfocus_2026_header_0_tw
 TEXT: Ricerca a tempo “PokéXciting! Festeggia con noi a Taiwan” (1/3)
 
@@ -131570,6 +131621,9 @@ TEXT: Ricerca a tempo “PokéXciting! Festeggia con noi nelle Filippine” (2/3
 
 RESOURCE ID: tr_30thapac_eventfocus_2026_header_1_sg
 TEXT: Ricerca a tempo “PokéXciting! Festeggia con noi a Singapore” (2/3)
+
+RESOURCE ID: tr_30thapac_eventfocus_2026_header_1_th
+TEXT: Ricerca a tempo “PokéXciting! Festeggia con noi a Bangkok” (2/3)
 
 RESOURCE ID: tr_30thapac_eventfocus_2026_header_1_tw
 TEXT: Ricerca a tempo “PokéXciting! Festeggia con noi a Taiwan” (2/3)
@@ -131583,6 +131637,9 @@ TEXT: Ricerca a tempo “PokéXciting! Festeggia con noi nelle Filippine” (3/3
 RESOURCE ID: tr_30thapac_eventfocus_2026_header_2_sg
 TEXT: Ricerca a tempo “PokéXciting! Festeggia con noi a Singapore” (3/3)
 
+RESOURCE ID: tr_30thapac_eventfocus_2026_header_2_th
+TEXT: Ricerca a tempo “PokéXciting! Festeggia con noi a Bangkok” (3/3)
+
 RESOURCE ID: tr_30thapac_eventfocus_2026_header_2_tw
 TEXT: Ricerca a tempo “PokéXciting! Festeggia con noi a Taiwan” (3/3)
 
@@ -131594,6 +131651,9 @@ TEXT: Ricerca a tempo “PokéXciting! Festeggia con noi nelle Filippine”
 
 RESOURCE ID: tr_30thapac_eventfocus_2026_header_sg
 TEXT: Ricerca a tempo “PokéXciting! Festeggia con noi a Singapore”
+
+RESOURCE ID: tr_30thapac_eventfocus_2026_header_th
+TEXT: Ricerca a tempo “PokéXciting! Festeggia con noi a Bangkok”
 
 RESOURCE ID: tr_30thapac_eventfocus_2026_header_tw
 TEXT: Ricerca a tempo “PokéXciting! Festeggia con noi a Taiwan”
@@ -131607,6 +131667,9 @@ TEXT: Ricerca a tempo “PokéXciting! 30 anni di ricordi nelle Filippine” (1/
 RESOURCE ID: tr_30thapac_longspan_2026_header_0_sg
 TEXT: Ricerca a tempo “PokéXciting! 30 anni di ricordi a Singapore” (1/10)
 
+RESOURCE ID: tr_30thapac_longspan_2026_header_0_th
+TEXT: Ricerca a tempo “PokéXciting! 30 anni di ricordi a Bangkok” (1/10)
+
 RESOURCE ID: tr_30thapac_longspan_2026_header_0_tw
 TEXT: Ricerca a tempo “PokéXciting! 30 anni di ricordi a Taiwan” (1/10)
 
@@ -131618,6 +131681,9 @@ TEXT: Ricerca a tempo “PokéXciting! 30 anni di ricordi nelle Filippine” (2/
 
 RESOURCE ID: tr_30thapac_longspan_2026_header_1_sg
 TEXT: Ricerca a tempo “PokéXciting! 30 anni di ricordi a Singapore” (2/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_1_th
+TEXT: Ricerca a tempo “PokéXciting! 30 anni di ricordi a Bangkok” (2/10)
 
 RESOURCE ID: tr_30thapac_longspan_2026_header_1_tw
 TEXT: Ricerca a tempo “PokéXciting! 30 anni di ricordi a Taiwan” (2/10)
@@ -131631,6 +131697,9 @@ TEXT: Ricerca a tempo “PokéXciting! 30 anni di ricordi nelle Filippine” (3/
 RESOURCE ID: tr_30thapac_longspan_2026_header_2_sg
 TEXT: Ricerca a tempo “PokéXciting! 30 anni di ricordi a Singapore” (3/10)
 
+RESOURCE ID: tr_30thapac_longspan_2026_header_2_th
+TEXT: Ricerca a tempo “PokéXciting! 30 anni di ricordi a Bangkok” (3/10)
+
 RESOURCE ID: tr_30thapac_longspan_2026_header_2_tw
 TEXT: Ricerca a tempo “PokéXciting! 30 anni di ricordi a Taiwan” (3/10)
 
@@ -131642,6 +131711,9 @@ TEXT: Ricerca a tempo “PokéXciting! 30 anni di ricordi nelle Filippine” (4/
 
 RESOURCE ID: tr_30thapac_longspan_2026_header_3_sg
 TEXT: Ricerca a tempo “PokéXciting! 30 anni di ricordi a Singapore” (4/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_3_th
+TEXT: Ricerca a tempo “PokéXciting! 30 anni di ricordi a Bangkok” (4/10)
 
 RESOURCE ID: tr_30thapac_longspan_2026_header_3_tw
 TEXT: Ricerca a tempo “PokéXciting! 30 anni di ricordi a Taiwan” (4/10)
@@ -131655,6 +131727,9 @@ TEXT: Ricerca a tempo “PokéXciting! 30 anni di ricordi nelle Filippine” (5/
 RESOURCE ID: tr_30thapac_longspan_2026_header_4_sg
 TEXT: Ricerca a tempo “PokéXciting! 30 anni di ricordi a Singapore” (5/10)
 
+RESOURCE ID: tr_30thapac_longspan_2026_header_4_th
+TEXT: Ricerca a tempo “PokéXciting! 30 anni di ricordi a Bangkok” (5/10)
+
 RESOURCE ID: tr_30thapac_longspan_2026_header_4_tw
 TEXT: Ricerca a tempo “PokéXciting! 30 anni di ricordi a Taiwan” (5/10)
 
@@ -131666,6 +131741,9 @@ TEXT: Ricerca a tempo “PokéXciting! 30 anni di ricordi nelle Filippine” (6/
 
 RESOURCE ID: tr_30thapac_longspan_2026_header_5_sg
 TEXT: Ricerca a tempo “PokéXciting! 30 anni di ricordi a Singapore” (6/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_5_th
+TEXT: Ricerca a tempo “PokéXciting! 30 anni di ricordi a Bangkok” (6/10)
 
 RESOURCE ID: tr_30thapac_longspan_2026_header_5_tw
 TEXT: Ricerca a tempo “PokéXciting! 30 anni di ricordi a Taiwan” (6/10)
@@ -131679,6 +131757,9 @@ TEXT: Ricerca a tempo “PokéXciting! 30 anni di ricordi nelle Filippine” (7/
 RESOURCE ID: tr_30thapac_longspan_2026_header_6_sg
 TEXT: Ricerca a tempo “PokéXciting! 30 anni di ricordi a Singapore” (7/10)
 
+RESOURCE ID: tr_30thapac_longspan_2026_header_6_th
+TEXT: Ricerca a tempo “PokéXciting! 30 anni di ricordi a Bangkok” (7/10)
+
 RESOURCE ID: tr_30thapac_longspan_2026_header_6_tw
 TEXT: Ricerca a tempo “PokéXciting! 30 anni di ricordi a Taiwan” (7/10)
 
@@ -131690,6 +131771,9 @@ TEXT: Ricerca a tempo “PokéXciting! 30 anni di ricordi nelle Filippine” (8/
 
 RESOURCE ID: tr_30thapac_longspan_2026_header_7_sg
 TEXT: Ricerca a tempo “PokéXciting! 30 anni di ricordi a Singapore” (8/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_7_th
+TEXT: Ricerca a tempo “PokéXciting! 30 anni di ricordi a Bangkok” (8/10)
 
 RESOURCE ID: tr_30thapac_longspan_2026_header_7_tw
 TEXT: Ricerca a tempo “PokéXciting! 30 anni di ricordi a Taiwan” (8/10)
@@ -131703,6 +131787,9 @@ TEXT: Ricerca a tempo “PokéXciting! 30 anni di ricordi nelle Filippine” (9/
 RESOURCE ID: tr_30thapac_longspan_2026_header_8_sg
 TEXT: Ricerca a tempo “PokéXciting! 30 anni di ricordi a Singapore” (9/10)
 
+RESOURCE ID: tr_30thapac_longspan_2026_header_8_th
+TEXT: Ricerca a tempo “PokéXciting! 30 anni di ricordi a Bangkok” (9/10)
+
 RESOURCE ID: tr_30thapac_longspan_2026_header_8_tw
 TEXT: Ricerca a tempo “PokéXciting! 30 anni di ricordi a Taiwan” (9/10)
 
@@ -131715,6 +131802,9 @@ TEXT: Ricerca a tempo “PokéXciting! 30 anni di ricordi nelle Filippine” (10
 RESOURCE ID: tr_30thapac_longspan_2026_header_9_sg
 TEXT: Ricerca a tempo “PokéXciting! 30 anni di ricordi a Singapore” (10/10)
 
+RESOURCE ID: tr_30thapac_longspan_2026_header_9_th
+TEXT: Ricerca a tempo “PokéXciting! 30 anni di ricordi a Bangkok” (10/10)
+
 RESOURCE ID: tr_30thapac_longspan_2026_header_9_tw
 TEXT: Ricerca a tempo “PokéXciting! 30 anni di ricordi a Taiwan” (10/10)
 
@@ -131726,6 +131816,9 @@ TEXT: Ricerca a tempo “PokéXciting! 30 anni di ricordi nelle Filippine”
 
 RESOURCE ID: tr_30thapac_longspan_2026_header_sg
 TEXT: Ricerca a tempo “PokéXciting! 30 anni di ricordi a Singapore”
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_th
+TEXT: Ricerca a tempo “PokéXciting! 30 anni di ricordi a Bangkok”
 
 RESOURCE ID: tr_30thapac_longspan_2026_header_tw
 TEXT: Ricerca a tempo “PokéXciting! 30 anni di ricordi a Taiwan”

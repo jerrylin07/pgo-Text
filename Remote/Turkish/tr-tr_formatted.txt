@@ -85,6 +85,9 @@ TEXT: 10. Yıl Dönümü Partisi Premium Süreli Araştırması
 RESOURCE ID: 30th_anniversary_all_out_event_name
 TEXT: Pokémon 30. Yıl Dönümü: Hepsi Bir Arada
 
+RESOURCE ID: 30th_anniversary_apac_event_name_bangkok
+TEXT: PokéXciting! Bangkok: En Şahane Pokémon Eğlencesi!
+
 RESOURCE ID: 30th_anniversary_apac_event_name_malaysia
 TEXT: PokéXciting! Malezya: En Şahane Pokémon Eğlencesi!
 
@@ -22079,7 +22082,7 @@ RESOURCE ID: buddy_monodepth_modal_turn_off_button
 TEXT: Scopely Explore AR Platformu'nu (Deneme) kapat
 
 RESOURCE ID: buddy_multilplayer_qr_display_header
-TEXT: Dost Grubu QR Kodu
+TEXT: Dost Grubu 2D Kodu
 
 RESOURCE ID: buddy_multiplayer_quit
 TEXT: Oturumdan ayrılmak istiyor musunuz?
@@ -22088,7 +22091,7 @@ RESOURCE ID: buddy_multiplayer_connection_error
 TEXT: Bağlantı Başarısız
 
 RESOURCE ID: buddy_multiplayer_create_session
-TEXT: Grup QR Kodu oluştur
+TEXT: Grup 2D Kodu Oluştur
 
 RESOURCE ID: buddy_multiplayer_deploy_invalid_position
 TEXT: Daha büyük bir düz alan bulmaya çalış.
@@ -22170,7 +22173,7 @@ RESOURCE ID: buddy_multiplayer_lobby_body_peer
 TEXT: Saklanma yerlerini bulmak için grup liderinden talimat alın!
 
 RESOURCE ID: buddy_multiplayer_mapping_timeout
-TEXT: Mevcut Dost Grubu, hareketsizlik nedeniyle kapandı. Devam etmek için lütfen bir Grup QR Kodunu tarayarak tekrar deneyin.
+TEXT: Mevcut dost grubu hareketsizlik nedeniyle kapandı. Devam etmek için lütfen bir grup 2D kodu tarayarak tekrar deneyin.
 
 RESOURCE ID: buddy_multiplayer_peer_cannot_exit_group_photo
 TEXT: {0} şu anda fotoğraf lideri. {0} adlı kişiye Grup Fotoğrafı modunu kapatmasını söyleyin.
@@ -22197,7 +22200,7 @@ RESOURCE ID: buddy_multiplayer_player_count_can_join_singular
 TEXT: 1 Eğitmen daha katılabilir
 
 RESOURCE ID: buddy_multiplayer_qr_guidance
-TEXT: Grup QR Kodunu tarayın
+TEXT: Bir Grup 2D Kodu Tarayın
 
 RESOURCE ID: buddy_multiplayer_qr_display_body
 TEXT: Herkes toplandıysa BAŞLA düğmesine dokunun.
@@ -22209,7 +22212,7 @@ RESOURCE ID: buddy_multiplayer_safety_warning
 TEXT: AR modunu kullanırken güvenli bir yerde olduğunuzdan ve çocukların her zaman gözetim altında olduğundan emin olun.
 
 RESOURCE ID: buddy_multiplayer_scan_button
-TEXT: Grup QR Kodunu tarayın
+TEXT: Bir Grup 2D Kodu Tarayın
 
 RESOURCE ID: buddy_multiplayer_start_session
 TEXT: Başla
@@ -22218,7 +22221,7 @@ RESOURCE ID: buddy_multiplayer_timeout_dialog_title
 TEXT: Dost Grubu kapalı.
 
 RESOURCE ID: buddy_multiplayer_timeout_dialog_description
-TEXT: Mevcut Dost Grubu, hareketsizlik nedeniyle kapandı. Devam etmek için lütfen bir Grup QR Kodunu tarayarak tekrar deneyin.
+TEXT: Mevcut dost grubu hareketsizlik nedeniyle kapandı. Devam etmek için lütfen bir grup 2D kodu tarayarak tekrar deneyin.
 
 RESOURCE ID: buddy_multiplayer_tutorial_0_title
 TEXT: İyi aydınlatılmış bir yerde oynayın
@@ -27832,7 +27835,7 @@ RESOURCE ID: combat_matchmaking_generic_error
 TEXT: Maç bulunamadı.
 
 RESOURCE ID: combat_matchmaking_invalid_qr
-TEXT: Geçersiz QR Kodu.
+TEXT: Geçersiz 2D kodu.
 
 RESOURCE ID: combat_matchmaking_match_found_status
 TEXT: Maç başlıyor
@@ -60877,10 +60880,10 @@ at SHA 413df5befdbe0d00a543f8a142221526d63b719a
 Pipeline 834428, job 8736424
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-10-28T00:34:05.832253+00:00 for tr-TR
-at SHA eb39dfa4ddd
-Pipeline 4056315, job 59806318
-Patch from: 0.435.0-SHA-b075bde4-RC4, 0.437.0-SHA-d1d1a55c-RC2, 0.433.1-SHA-0f52e3f0-RC1
+TEXT: Built at 2026-10-30T04:15:50.656594+00:00 for tr-TR
+at SHA 6ca489ee17b
+Pipeline 4063968, job 59931656
+Patch from: 0.437.0-SHA-d1d1a55c-RC2, 0.435.0-SHA-d5d32cc5-RC2, 0.433.1-SHA-0f52e3f0-RC1
 
 RESOURCE ID: meteor_title_1
 TEXT: METEOR YAĞMURU
@@ -67820,7 +67823,7 @@ RESOURCE ID: party_play_raid_menu_header
 TEXT: EKİP OYUNU AKINLARI
 
 RESOURCE ID: party_play_scan_qr_code
-TEXT: Ekibin QR kodunu tarayın.
+TEXT: Ekibin 2D kodunu tarayın.
 
 RESOURCE ID: party_play_see_all_activities
 TEXT: Tüm Aktiviteleri Göster
@@ -81670,7 +81673,7 @@ RESOURCE ID: pokestop_button_manual_input_2
 TEXT: Manuel Giriş Yap
 
 RESOURCE ID: pokestop_button_read_qr_code
-TEXT: QR KODU OKUT
+TEXT: 2D KODU OKUT
 
 RESOURCE ID: pokestop_challenge_fr_title
 TEXT: PokéDurak Görevi
@@ -81683,7 +81686,7 @@ TEXT: PokéDurak Görevi Süreli Araştırması (1/1)
 
 RESOURCE ID: pokestop_check_in_notice
 TEXT: {0} PokéDurağına hoş geldiniz!
-Lütfen giriş yapmak için kameranızı kullanarak QR Kodunu okutun.
+Lütfen giriş yapmak için kameranızı kullanarak 2D kodu okutun.
 
 RESOURCE ID: pokestop_check_in_succeeded
 TEXT: BAŞARIYLA GİRİLDİ
@@ -82915,10 +82918,10 @@ RESOURCE ID: pxp_worlds_event_name_2026
 TEXT: PokémonXP ve 2026 Dünya Şampiyonası
 
 RESOURCE ID: qr_code_title
-TEXT: QR Kodu Tarayın
+TEXT: 2D Kodunu Tarayın
 
 RESOURCE ID: qr_decode_problem
-TEXT: QR Kod tanınmadı. Lütfen manuel giriş yapın.
+TEXT: 2D kod tanınmadı. Lütfen manuel giriş yapın.
 
 RESOURCE ID: qualifier_limited _one_event_raid
 TEXT: Not: Bazı özel etkinlik akınları her bir Eğitmen tarafından yalnızca bir kere tamamlanabilir.
@@ -109620,6 +109623,9 @@ TEXT: PokéXciting! Damga Toplama – Singapur
 RESOURCE ID: rally_apac_30_regional_taiwan_title
 TEXT: PokéXciting! Damga Toplama – Tayvan
 
+RESOURCE ID: rally_apac_30_regional_thailand_title
+TEXT: PokéXciting! Damga Toplama – Tayland
+
 RESOURCE ID: rally_apac_30_cross_regional_desc
 TEXT: PokéXciting! kutlaması Asya-Pasifik bölgesinde!
 
@@ -109668,6 +109674,18 @@ TEXT: Singapur
 RESOURCE ID: rally_apac_30_regional_singapore_reward_desc
 TEXT: Singapur’da keşfe çıkarak ayrıcalıklı bir Singapur konum arka planına sahip PokéXciting! Pikachu (Mavi) ile karşılaşın.
 
+RESOURCE ID: rally_apac_30_regional_tailand_desc
+TEXT: PokéXciting! kutlaması Tayland’da!
+
+RESOURCE ID: rally_apac_30_regional_tailand_desc_detail
+TEXT: Bangkok’taki özel PokéDurakları ziyaret ederek PokéXciting! Pikachu ile karşılaşın. Ayrıntıları haritada bulabilirsiniz.
+
+RESOURCE ID: rally_apac_30_regional_tailand_location
+TEXT: Bangkok, Tayland
+
+RESOURCE ID: rally_apac_30_regional_tailand_reward_desc
+TEXT: Bangkok’ta keşfe çıkarak ayrıcalıklı bir Bangkok konum arka planına sahip PokéXciting! Pikachu (Turuncu) ile karşılaşın.
+
 RESOURCE ID: rally_apac_30_regional_taiwan_desc
 TEXT: PokéXciting! kutlaması Tayvan’da!
 
@@ -109679,6 +109697,21 @@ TEXT: Taipei, Tayvan
 
 RESOURCE ID: rally_apac_30_regional_taiwan_reward_desc
 TEXT: Taipei’de keşfe çıkarak ayrıcalıklı bir Taipei konum arka planına sahip PokéXciting! Pikachu (Pembe) ile karşılaşın.
+
+RESOURCE ID: rally_cdmx_2026_title
+TEXT: Meksiko – Hawlucha Damga Toplama
+
+RESOURCE ID: rally_cdmx_2026_desc
+TEXT: Yalnızca Meksiko’dan erişebileceğiniz özel bir GO Damga Toplama etkinliği.
+
+RESOURCE ID: rally_cdmx_2026_desc_detail
+TEXT: Meksiko’nun tarihsel mekânlarında bulunan GO Damga Toplama PokéDuraklarını ziyaret ederek damga toplayın!
+
+RESOURCE ID: rally_cdmx_2026_location
+TEXT: Meksiko, Meksika
+
+RESOURCE ID: rally_cdmx_2026_rewards_desc
+TEXT: Bu damga toplama etkinliği sırasında Meksiko konum arka planlı Hawlucha ile karşılaşın.
 
 RESOURCE ID: rally_city_safari_2025_amsterdam_desc
 TEXT: Şehir Safarisi: Amsterdam’a hoş geldiniz!
@@ -110174,6 +110207,21 @@ TEXT: Viktorya dönemi tarzında renkli evlerden oluşan ünlü bir sokak.
 
 RESOURCE ID: rally_rewards_desc_general
 TEXT: Karşılaşmalar ve ödüller kazanmak için damga toplamayı tamamlayın
+
+RESOURCE ID: rally_sendai_2026_title
+TEXT: Sendai • Tohoku – Lapras Damga Toplama
+
+RESOURCE ID: rally_sendai_2026_desc
+TEXT: Ayrıcalıklı damga toplama sadece Sendai • Tohoku bölgesinde!
+
+RESOURCE ID: rally_sendai_2026_desc_detail
+TEXT: Sendai • Tohoku bölgesinin tarihsel mekânlarında bulunan GO Damga Toplama PokéDuraklarını ziyaret ederek damga toplayın!
+
+RESOURCE ID: rally_sendai_2026_location
+TEXT: Sendai • Tohoku, Japonya
+
+RESOURCE ID: rally_sendai_2026_rewards_desc
+TEXT: Bu damga toplama etkinliği sırasında Sendai konum arka planlı Lapras ile karşılaşın.
 
 RESOURCE ID: rally_tokyo_koto_2026_title
 TEXT: Tokyo: Koto Damga Toplama
@@ -119508,10 +119556,10 @@ RESOURCE ID: social_add_friend_facebook
 TEXT: Facebook arkadaşlarınızı aktarın
 
 RESOURCE ID: social_add_friend_qr
-TEXT: QR Kodu
+TEXT: 2D Kod
 
 RESOURCE ID: social_add_friend_qr_v2
-TEXT: SCAN QR CODE
+TEXT: 2D KODU TARA
 
 RESOURCE ID: social_cancel_friend_request
 TEXT: İsteği iptal et
@@ -119523,7 +119571,7 @@ RESOURCE ID: social_my_code
 TEXT: EĞİTMEN KODUM
 
 RESOURCE ID: social_my_qr_code
-TEXT: QR Kodum
+TEXT: 2D Kodum
 
 RESOURCE ID: social_no_friends
 TEXT: Takas, Prömiyer Top ve maç güçlendirmelerini açmak için arkadaşlarınızla birlikte oynayın!
@@ -119650,13 +119698,13 @@ RESOURCE ID: social_qr_code_header
 TEXT: KODUM
 
 RESOURCE ID: social_qr_code_prompt
-TEXT: Bu QR Kodunu başka bir Eğitmenin tarayıcısıyla tarayın.
+TEXT: Bu 2D kodu başka bir Eğitmenin tarayıcısıyla tarayın.
 
 RESOURCE ID: social_qr_scan_header
 TEXT: TARA
 
 RESOURCE ID: social_qr_scan_prompt
-TEXT: Bir Eğitmenin QR Kodunu tarayın
+TEXT: Bir Eğitmenin 2D Kodunu Tarayın
 
 RESOURCE ID: social_remove_friend
 TEXT: Arkadaşı Sil
@@ -128842,6 +128890,9 @@ TEXT: PokéXciting! Filipinler Eğlencede Süreli Araştırması (1/3)
 RESOURCE ID: tr_30thapac_eventfocus_2026_header_0_sg
 TEXT: PokéXciting! Singapur Eğlencede Süreli Araştırması (1/3)
 
+RESOURCE ID: tr_30thapac_eventfocus_2026_header_0_th
+TEXT: PokéXciting! Bangkok Eğlencede Süreli Araştırması (1/3)
+
 RESOURCE ID: tr_30thapac_eventfocus_2026_header_0_tw
 TEXT: PokéXciting! Tayvan Eğlencede Süreli Araştırması (1/3)
 
@@ -128853,6 +128904,9 @@ TEXT: PokéXciting! Filipinler Eğlencede Süreli Araştırması (2/3)
 
 RESOURCE ID: tr_30thapac_eventfocus_2026_header_1_sg
 TEXT: PokéXciting! Singapur Eğlencede Süreli Araştırması (2/3)
+
+RESOURCE ID: tr_30thapac_eventfocus_2026_header_1_th
+TEXT: PokéXciting! Bangkok Eğlencede Süreli Araştırması (2/3)
 
 RESOURCE ID: tr_30thapac_eventfocus_2026_header_1_tw
 TEXT: PokéXciting! Tayvan Eğlencede Süreli Araştırması (2/3)
@@ -128866,6 +128920,9 @@ TEXT: PokéXciting! Filipinler Eğlencede Süreli Araştırması (3/3)
 RESOURCE ID: tr_30thapac_eventfocus_2026_header_2_sg
 TEXT: PokéXciting! Singapur Eğlencede Süreli Araştırması (3/3)
 
+RESOURCE ID: tr_30thapac_eventfocus_2026_header_2_th
+TEXT: PokéXciting! Bangkok Eğlencede Süreli Araştırması (3/3)
+
 RESOURCE ID: tr_30thapac_eventfocus_2026_header_2_tw
 TEXT: PokéXciting! Tayvan Eğlencede Süreli Araştırması (3/3)
 
@@ -128877,6 +128934,9 @@ TEXT: PokéXciting! Filipinler Eğlencede Süreli Araştırması
 
 RESOURCE ID: tr_30thapac_eventfocus_2026_header_sg
 TEXT: PokéXciting! Singapur Eğlencede Süreli Araştırması
+
+RESOURCE ID: tr_30thapac_eventfocus_2026_header_th
+TEXT: PokéXciting! Bangkok Eğlencede Süreli Araştırması
 
 RESOURCE ID: tr_30thapac_eventfocus_2026_header_tw
 TEXT: PokéXciting! Tayvan Eğlencede Süreli Araştırması
@@ -128890,6 +128950,9 @@ TEXT: PokéXciting! 30 Yılın Hatırası Filipinler Süreli Araştırması (1/1
 RESOURCE ID: tr_30thapac_longspan_2026_header_0_sg
 TEXT: PokéXciting! 30 Yılın Hatırası Singapur Süreli Araştırması (1/10)
 
+RESOURCE ID: tr_30thapac_longspan_2026_header_0_th
+TEXT: PokéXciting! 30 Yılın Hatırası Bangkok Süreli Araştırması (1/10)
+
 RESOURCE ID: tr_30thapac_longspan_2026_header_0_tw
 TEXT: PokéXciting! 30 Yılın Hatırası Tayvan Süreli Araştırması (1/10)
 
@@ -128901,6 +128964,9 @@ TEXT: PokéXciting! 30 Yılın Hatırası Filipinler Süreli Araştırması (2/1
 
 RESOURCE ID: tr_30thapac_longspan_2026_header_1_sg
 TEXT: PokéXciting! 30 Yılın Hatırası Singapur Süreli Araştırması (2/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_1_th
+TEXT: PokéXciting! 30 Yılın Hatırası Bangkok Süreli Araştırması (2/10)
 
 RESOURCE ID: tr_30thapac_longspan_2026_header_1_tw
 TEXT: PokéXciting! 30 Yılın Hatırası Tayvan Süreli Araştırması (2/10)
@@ -128914,6 +128980,9 @@ TEXT: PokéXciting! 30 Yılın Hatırası Filipinler Süreli Araştırması (3/1
 RESOURCE ID: tr_30thapac_longspan_2026_header_2_sg
 TEXT: PokéXciting! 30 Yılın Hatırası Singapur Süreli Araştırması (3/10)
 
+RESOURCE ID: tr_30thapac_longspan_2026_header_2_th
+TEXT: PokéXciting! 30 Yılın Hatırası Bangkok Süreli Araştırması (3/10)
+
 RESOURCE ID: tr_30thapac_longspan_2026_header_2_tw
 TEXT: PokéXciting! 30 Yılın Hatırası Tayvan Süreli Araştırması (3/10)
 
@@ -128925,6 +128994,9 @@ TEXT: PokéXciting! 30 Yılın Hatırası Filipinler Süreli Araştırması (4/1
 
 RESOURCE ID: tr_30thapac_longspan_2026_header_3_sg
 TEXT: PokéXciting! 30 Yılın Hatırası Singapur Süreli Araştırması (4/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_3_th
+TEXT: PokéXciting! 30 Yılın Hatırası Bangkok Süreli Araştırması (4/10)
 
 RESOURCE ID: tr_30thapac_longspan_2026_header_3_tw
 TEXT: PokéXciting! 30 Yılın Hatırası Tayvan Süreli Araştırması (4/10)
@@ -128938,6 +129010,9 @@ TEXT: PokéXciting! 30 Yılın Hatırası Filipinler Süreli Araştırması (5/1
 RESOURCE ID: tr_30thapac_longspan_2026_header_4_sg
 TEXT: PokéXciting! 30 Yılın Hatırası Singapur Süreli Araştırması (5/10)
 
+RESOURCE ID: tr_30thapac_longspan_2026_header_4_th
+TEXT: PokéXciting! 30 Yılın Hatırası Bangkok Süreli Araştırması (5/10)
+
 RESOURCE ID: tr_30thapac_longspan_2026_header_4_tw
 TEXT: PokéXciting! 30 Yılın Hatırası Tayvan Süreli Araştırması (5/10)
 
@@ -128949,6 +129024,9 @@ TEXT: PokéXciting! 30 Yılın Hatırası Filipinler Süreli Araştırması (6/1
 
 RESOURCE ID: tr_30thapac_longspan_2026_header_5_sg
 TEXT: PokéXciting! 30 Yılın Hatırası Singapur Süreli Araştırması (6/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_5_th
+TEXT: PokéXciting! 30 Yılın Hatırası Bangkok Süreli Araştırması (6/10)
 
 RESOURCE ID: tr_30thapac_longspan_2026_header_5_tw
 TEXT: PokéXciting! 30 Yılın Hatırası Tayvan Süreli Araştırması (6/10)
@@ -128962,6 +129040,9 @@ TEXT: PokéXciting! 30 Yılın Hatırası Filipinler Süreli Araştırması (7/1
 RESOURCE ID: tr_30thapac_longspan_2026_header_6_sg
 TEXT: PokéXciting! 30 Yılın Hatırası Singapur Süreli Araştırması (7/10)
 
+RESOURCE ID: tr_30thapac_longspan_2026_header_6_th
+TEXT: PokéXciting! 30 Yılın Hatırası Bangkok Süreli Araştırması (7/10)
+
 RESOURCE ID: tr_30thapac_longspan_2026_header_6_tw
 TEXT: PokéXciting! 30 Yılın Hatırası Tayvan Süreli Araştırması (7/10)
 
@@ -128973,6 +129054,9 @@ TEXT: PokéXciting! 30 Yılın Hatırası Filipinler Süreli Araştırması (8/1
 
 RESOURCE ID: tr_30thapac_longspan_2026_header_7_sg
 TEXT: PokéXciting! 30 Yılın Hatırası Singapur Süreli Araştırması (8/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_7_th
+TEXT: PokéXciting! 30 Yılın Hatırası Bangkok Süreli Araştırması (8/10)
 
 RESOURCE ID: tr_30thapac_longspan_2026_header_7_tw
 TEXT: PokéXciting! 30 Yılın Hatırası Tayvan Süreli Araştırması (8/10)
@@ -128986,6 +129070,9 @@ TEXT: PokéXciting! 30 Yılın Hatırası Filipinler Süreli Araştırması (9/1
 RESOURCE ID: tr_30thapac_longspan_2026_header_8_sg
 TEXT: PokéXciting! 30 Yılın Hatırası Singapur Süreli Araştırması (9/10)
 
+RESOURCE ID: tr_30thapac_longspan_2026_header_8_th
+TEXT: PokéXciting! 30 Yılın Hatırası Bangkok Süreli Araştırması (9/10)
+
 RESOURCE ID: tr_30thapac_longspan_2026_header_8_tw
 TEXT: PokéXciting! 30 Yılın Hatırası Tayvan Süreli Araştırması (9/10)
 
@@ -128998,6 +129085,9 @@ TEXT: PokéXciting! 30 Yılın Hatırası Filipinler Süreli Araştırması (10/
 RESOURCE ID: tr_30thapac_longspan_2026_header_9_sg
 TEXT: PokéXciting! 30 Yılın Hatırası Singapur Süreli Araştırması (10/10)
 
+RESOURCE ID: tr_30thapac_longspan_2026_header_9_th
+TEXT: PokéXciting! 30 Yılın Hatırası Bangkok Süreli Araştırması (10/10)
+
 RESOURCE ID: tr_30thapac_longspan_2026_header_9_tw
 TEXT: PokéXciting! 30 Yılın Hatırası Tayvan Süreli Araştırması (10/10)
 
@@ -129009,6 +129099,9 @@ TEXT: PokéXciting! 30 Yılın Hatırası Filipinler Süreli Araştırması
 
 RESOURCE ID: tr_30thapac_longspan_2026_header_sg
 TEXT: PokéXciting! 30 Yılın Hatırası Singapur Süreli Araştırması
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_th
+TEXT: PokéXciting! 30 Yılın Hatırası Bangkok Süreli Araştırması
 
 RESOURCE ID: tr_30thapac_longspan_2026_header_tw
 TEXT: PokéXciting! 30 Yılın Hatırası Tayvan Süreli Araştırması

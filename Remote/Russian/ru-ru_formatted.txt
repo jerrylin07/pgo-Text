@@ -85,6 +85,9 @@ TEXT: Премиум-Квест на Время 10-летний Юбилей
 RESOURCE ID: 30th_anniversary_all_out_event_name
 TEXT: 30-летний Юбилей Покемон: Все Вместе
 
+RESOURCE ID: 30th_anniversary_apac_event_name_bangkok
+TEXT: PokéXciting! Бангкок: Присоединяйся к Крупнейшей Вечеринке Покемон!
+
 RESOURCE ID: 30th_anniversary_apac_event_name_malaysia
 TEXT: PokéXciting! Малайзия: Присоединяйся к Крупнейшей Вечеринке Покемон!
 
@@ -31653,7 +31656,7 @@ RESOURCE ID: delete_gift_message
 TEXT: Подарки не занимают место в Рюкзаке для Предметов.
 
 RESOURCE ID: delete_gift_ok
-TEXT: Discard
+TEXT: Удалить
 
 RESOURCE ID: delete_pokemon_tag_confirmation
 TEXT: Тег будет удалён с Покемона, которому был присвоен. Покемон не будет отправлен Профессору Уиллоу.
@@ -33137,10 +33140,10 @@ RESOURCE ID: encounter_score_great_throw
 TEXT: Отличный бросок
 
 RESOURCE ID: encounter_score_master_ball_throw
-TEXT: Бросок Мастер-Болла
+TEXT: Бонус Броска Мастер-Болла
 
 RESOURCE ID: encounter_score_new_pokemon
-TEXT: Новый Покемон
+TEXT: Бонус Поимки Нового Покемона
 
 RESOURCE ID: encounter_score_nice_throw
 TEXT: Хороший бросок
@@ -63188,10 +63191,10 @@ at SHA bacc02371739993984570a6f5b31a993cf3b031b
 Pipeline 498004, job 4265729
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-10-28T00:34:05.832253+00:00 for ru-RU
-at SHA eb39dfa4ddd
-Pipeline 4056315, job 59806318
-Patch from: 0.435.0-SHA-b075bde4-RC4, 0.437.0-SHA-d1d1a55c-RC2, 0.433.1-SHA-0f52e3f0-RC1
+TEXT: Built at 2026-10-30T04:15:50.656594+00:00 for ru-RU
+at SHA 6ca489ee17b
+Pipeline 4063968, job 59931656
+Patch from: 0.437.0-SHA-d1d1a55c-RC2, 0.435.0-SHA-d5d32cc5-RC2, 0.433.1-SHA-0f52e3f0-RC1
 
 RESOURCE ID: meteor_title_1
 TEXT: МЕТЕОРИТНЫЙ ПОТОК
@@ -112111,6 +112114,9 @@ TEXT: Марафон Печатей PokéXciting! – Сингапур
 RESOURCE ID: rally_apac_30_regional_taiwan_title
 TEXT: Марафон Печатей PokéXciting! – Тайвань
 
+RESOURCE ID: rally_apac_30_regional_thailand_title
+TEXT: Марафон Печатей PokéXciting! – Таиланд
+
 RESOURCE ID: rally_apac_30_cross_regional_desc
 TEXT: Празднуй PokéXciting! в Азиатско-Тихоокеанском регионе!
 
@@ -112159,6 +112165,18 @@ TEXT: Сингапур
 RESOURCE ID: rally_apac_30_regional_singapore_reward_desc
 TEXT: Исследуй Сингапур, чтобы встретить PokéXciting! Пикачу (Синий) с эксклюзивным Фоном Места Сингапур.
 
+RESOURCE ID: rally_apac_30_regional_tailand_desc
+TEXT: Празднуй PokéXciting! в Таиланде!
+
+RESOURCE ID: rally_apac_30_regional_tailand_desc_detail
+TEXT: Повстречай PokéXciting! Пикачу при посещении специальных Покестопов по всему Бангкоку. Чтобы узнать больше, посмотри на карту.
+
+RESOURCE ID: rally_apac_30_regional_tailand_location
+TEXT: Бангкок, Таиланд
+
+RESOURCE ID: rally_apac_30_regional_tailand_reward_desc
+TEXT: Исследуй Бангкок, чтобы встретить PokéXciting! Пикачу (Оранжевый) с эксклюзивным Фоном Места Бангкок.
+
 RESOURCE ID: rally_apac_30_regional_taiwan_desc
 TEXT: Празднуй PokéXciting! в Тайване!
 
@@ -112170,6 +112188,21 @@ TEXT: Тайбэй, Тайвань
 
 RESOURCE ID: rally_apac_30_regional_taiwan_reward_desc
 TEXT: Исследуй Тайбэй, чтобы встретить PokéXciting! Пикачу (Розовый) с эксклюзивным Фоном Места Тайбэй.
+
+RESOURCE ID: rally_cdmx_2026_title
+TEXT: Мехико – Марафон Печатей Хавлуча
+
+RESOURCE ID: rally_cdmx_2026_desc
+TEXT: Эксклюзивный Марафон Печатей GO доступен только в Мехико.
+
+RESOURCE ID: rally_cdmx_2026_desc_detail
+TEXT: Собирай печати, посещая Покестопы Марафона Печатей GO на историческом пути в Мехико!
+
+RESOURCE ID: rally_cdmx_2026_location
+TEXT: Мехико, Мексика
+
+RESOURCE ID: rally_cdmx_2026_rewards_desc
+TEXT: Повстречай Хавлучу с Фоном Места Мехико во время этого марафона.
 
 RESOURCE ID: rally_city_safari_2025_amsterdam_desc
 TEXT: Добро пожаловать на Городское Сафари: Амстердам!
@@ -112665,6 +112698,21 @@ TEXT: Знаменитый ряд разноцветных викторианс�
 
 RESOURCE ID: rally_rewards_desc_general
 TEXT: Заверши марафон печатей, чтобы заработать встречи и награды
+
+RESOURCE ID: rally_sendai_2026_title
+TEXT: Сендай • Тохоку – Марафон Печатей Лапрас
+
+RESOURCE ID: rally_sendai_2026_desc
+TEXT: Эксклюзивный марафон печатей доступен только в регионе Сендай • Тохоку!
+
+RESOURCE ID: rally_sendai_2026_desc_detail
+TEXT: Собирай печати, посещая Покестопы Марафона Печатей GO на историческом пути в регионе Сендай • Тохоку!
+
+RESOURCE ID: rally_sendai_2026_location
+TEXT: Сендай • Тохоку, Япония
+
+RESOURCE ID: rally_sendai_2026_rewards_desc
+TEXT: Повстречай Лапраса с Фоном Места Сендай во время этого марафона.
 
 RESOURCE ID: rally_tokyo_koto_2026_title
 TEXT: Токио: Марафон Печатей Кото
@@ -117702,13 +117750,13 @@ RESOURCE ID: score_field_research_singular
 TEXT: Выполнено 1 задание полевого квеста
 
 RESOURCE ID: score_raids_max_battles_none
-TEXT: Completed 0 Raids or Max Battles
+TEXT: Завершено 0 рейдов или Битв Макс
 
 RESOURCE ID: score_raids_max_battles_plural
-TEXT: Completed {0} Raids or Max Battles
+TEXT: Завершено рейдов или Битв Макс ×{0}
 
 RESOURCE ID: score_raids_max_battles_singular
-TEXT: Completed 1 Raid or Max Battle
+TEXT: Завершён 1 рейд или Битва Макс
 
 RESOURCE ID: score_send_gift_none
 TEXT: Отправлено 0 подарков друзьям
@@ -131359,6 +131407,9 @@ TEXT: PokéXciting! Квест на Время Присоединяйся к В�
 RESOURCE ID: tr_30thapac_eventfocus_2026_header_0_sg
 TEXT: PokéXciting! Квест на Время Присоединяйся к Вечеринке: Сингапур (1/3)
 
+RESOURCE ID: tr_30thapac_eventfocus_2026_header_0_th
+TEXT: PokéXciting! Квест на Время Присоединяйся к Вечеринке: Бангкок (1/3)
+
 RESOURCE ID: tr_30thapac_eventfocus_2026_header_0_tw
 TEXT: PokéXciting! Квест на Время Присоединяйся к Вечеринке: Тайвань (1/3)
 
@@ -131370,6 +131421,9 @@ TEXT: PokéXciting! Квест на Время Присоединяйся к В�
 
 RESOURCE ID: tr_30thapac_eventfocus_2026_header_1_sg
 TEXT: PokéXciting! Квест на Время Присоединяйся к Вечеринке: Сингапур (2/3)
+
+RESOURCE ID: tr_30thapac_eventfocus_2026_header_1_th
+TEXT: PokéXciting! Квест на Время Присоединяйся к Вечеринке: Бангкок (2/3)
 
 RESOURCE ID: tr_30thapac_eventfocus_2026_header_1_tw
 TEXT: PokéXciting! Квест на Время Присоединяйся к Вечеринке: Тайвань (2/3)
@@ -131383,6 +131437,9 @@ TEXT: PokéXciting! Квест на Время Присоединяйся к В�
 RESOURCE ID: tr_30thapac_eventfocus_2026_header_2_sg
 TEXT: PokéXciting! Квест на Время Присоединяйся к Вечеринке: Сингапур (3/3)
 
+RESOURCE ID: tr_30thapac_eventfocus_2026_header_2_th
+TEXT: PokéXciting! Квест на Время Присоединяйся к Вечеринке: Бангкок (3/3)
+
 RESOURCE ID: tr_30thapac_eventfocus_2026_header_2_tw
 TEXT: PokéXciting! Квест на Время Присоединяйся к Вечеринке: Тайвань (3/3)
 
@@ -131394,6 +131451,9 @@ TEXT: PokéXciting! Квест на Время Присоединяйся к В�
 
 RESOURCE ID: tr_30thapac_eventfocus_2026_header_sg
 TEXT: PokéXciting! Квест на Время Присоединяйся к Вечеринке: Сингапур
+
+RESOURCE ID: tr_30thapac_eventfocus_2026_header_th
+TEXT: PokéXciting! Квест на Время Присоединяйся к Вечеринке: Бангкок
 
 RESOURCE ID: tr_30thapac_eventfocus_2026_header_tw
 TEXT: PokéXciting! Квест на Время Присоединяйся к Вечеринке: Тайвань
@@ -131407,6 +131467,9 @@ TEXT: PokéXciting! Квест на Время Воспоминания за 30 
 RESOURCE ID: tr_30thapac_longspan_2026_header_0_sg
 TEXT: PokéXciting! Квест на Время Воспоминания за 30 Лет: Сингапур (1/10)
 
+RESOURCE ID: tr_30thapac_longspan_2026_header_0_th
+TEXT: PokéXciting! Квест на Время Воспоминания за 30 Лет: Бангкок (1/10)
+
 RESOURCE ID: tr_30thapac_longspan_2026_header_0_tw
 TEXT: PokéXciting! Квест на Время Воспоминания за 30 Лет: Тайвань (1/10)
 
@@ -131418,6 +131481,9 @@ TEXT: PokéXciting! Квест на Время Воспоминания за 30 
 
 RESOURCE ID: tr_30thapac_longspan_2026_header_1_sg
 TEXT: PokéXciting! Квест на Время Воспоминания за 30 Лет: Сингапур (2/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_1_th
+TEXT: PokéXciting! Квест на Время Воспоминания за 30 Лет: Бангкок (2/10)
 
 RESOURCE ID: tr_30thapac_longspan_2026_header_1_tw
 TEXT: PokéXciting! Квест на Время Воспоминания за 30 Лет: Тайвань (2/10)
@@ -131431,6 +131497,9 @@ TEXT: PokéXciting! Квест на Время Воспоминания за 30 
 RESOURCE ID: tr_30thapac_longspan_2026_header_2_sg
 TEXT: PokéXciting! Квест на Время Воспоминания за 30 Лет: Сингапур (3/10)
 
+RESOURCE ID: tr_30thapac_longspan_2026_header_2_th
+TEXT: PokéXciting! Квест на Время Воспоминания за 30 Лет: Бангкок (3/10)
+
 RESOURCE ID: tr_30thapac_longspan_2026_header_2_tw
 TEXT: PokéXciting! Квест на Время Воспоминания за 30 Лет: Тайвань (3/10)
 
@@ -131442,6 +131511,9 @@ TEXT: PokéXciting! Квест на Время Воспоминания за 30 
 
 RESOURCE ID: tr_30thapac_longspan_2026_header_3_sg
 TEXT: PokéXciting! Квест на Время Воспоминания за 30 Лет: Сингапур (4/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_3_th
+TEXT: PokéXciting! Квест на Время Воспоминания за 30 Лет: Бангкок (4/10)
 
 RESOURCE ID: tr_30thapac_longspan_2026_header_3_tw
 TEXT: PokéXciting! Квест на Время Воспоминания за 30 Лет: Тайвань (4/10)
@@ -131455,6 +131527,9 @@ TEXT: PokéXciting! Квест на Время Воспоминания за 30 
 RESOURCE ID: tr_30thapac_longspan_2026_header_4_sg
 TEXT: PokéXciting! Квест на Время Воспоминания за 30 Лет: Сингапур (5/10)
 
+RESOURCE ID: tr_30thapac_longspan_2026_header_4_th
+TEXT: PokéXciting! Квест на Время Воспоминания за 30 Лет: Бангкок (5/10)
+
 RESOURCE ID: tr_30thapac_longspan_2026_header_4_tw
 TEXT: PokéXciting! Квест на Время Воспоминания за 30 Лет: Тайвань (5/10)
 
@@ -131466,6 +131541,9 @@ TEXT: PokéXciting! Квест на Время Воспоминания за 30 
 
 RESOURCE ID: tr_30thapac_longspan_2026_header_5_sg
 TEXT: PokéXciting! Квест на Время Воспоминания за 30 Лет: Сингапур (6/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_5_th
+TEXT: PokéXciting! Квест на Время Воспоминания за 30 Лет: Бангкок (6/10)
 
 RESOURCE ID: tr_30thapac_longspan_2026_header_5_tw
 TEXT: PokéXciting! Квест на Время Воспоминания за 30 Лет: Тайвань (6/10)
@@ -131479,6 +131557,9 @@ TEXT: PokéXciting! Квест на Время Воспоминания за 30 
 RESOURCE ID: tr_30thapac_longspan_2026_header_6_sg
 TEXT: PokéXciting! Квест на Время Воспоминания за 30 Лет: Сингапур (7/10)
 
+RESOURCE ID: tr_30thapac_longspan_2026_header_6_th
+TEXT: PokéXciting! Квест на Время Воспоминания за 30 Лет: Бангкок (7/10)
+
 RESOURCE ID: tr_30thapac_longspan_2026_header_6_tw
 TEXT: PokéXciting! Квест на Время Воспоминания за 30 Лет: Тайвань (7/10)
 
@@ -131490,6 +131571,9 @@ TEXT: PokéXciting! Квест на Время Воспоминания за 30 
 
 RESOURCE ID: tr_30thapac_longspan_2026_header_7_sg
 TEXT: PokéXciting! Квест на Время Воспоминания за 30 Лет: Сингапур (8/10)
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_7_th
+TEXT: PokéXciting! Квест на Время Воспоминания за 30 Лет: Бангкок (8/10)
 
 RESOURCE ID: tr_30thapac_longspan_2026_header_7_tw
 TEXT: PokéXciting! Квест на Время Воспоминания за 30 Лет: Тайвань (8/10)
@@ -131503,6 +131587,9 @@ TEXT: PokéXciting! Квест на Время Воспоминания за 30 
 RESOURCE ID: tr_30thapac_longspan_2026_header_8_sg
 TEXT: PokéXciting! Квест на Время Воспоминания за 30 Лет: Сингапур (9/10)
 
+RESOURCE ID: tr_30thapac_longspan_2026_header_8_th
+TEXT: PokéXciting! Квест на Время Воспоминания за 30 Лет: Бангкок (9/10)
+
 RESOURCE ID: tr_30thapac_longspan_2026_header_8_tw
 TEXT: PokéXciting! Квест на Время Воспоминания за 30 Лет: Тайвань (9/10)
 
@@ -131515,6 +131602,9 @@ TEXT: PokéXciting! Квест на Время Воспоминания за 30 
 RESOURCE ID: tr_30thapac_longspan_2026_header_9_sg
 TEXT: PokéXciting! Квест на Время Воспоминания за 30 Лет: Сингапур (10/10)
 
+RESOURCE ID: tr_30thapac_longspan_2026_header_9_th
+TEXT: PokéXciting! Квест на Время Воспоминания за 30 Лет: Бангкок (10/10)
+
 RESOURCE ID: tr_30thapac_longspan_2026_header_9_tw
 TEXT: PokéXciting! Квест на Время Воспоминания за 30 Лет: Тайвань (10/10)
 
@@ -131526,6 +131616,9 @@ TEXT: PokéXciting! Квест на Время Воспоминания за 30 
 
 RESOURCE ID: tr_30thapac_longspan_2026_header_sg
 TEXT: PokéXciting! Квест на Время Воспоминания за 30 Лет: Сингапур
+
+RESOURCE ID: tr_30thapac_longspan_2026_header_th
+TEXT: PokéXciting! Квест на Время Воспоминания за 30 Лет: Бангкок
 
 RESOURCE ID: tr_30thapac_longspan_2026_header_tw
 TEXT: PokéXciting! Квест на Время Воспоминания за 30 Лет: Тайвань
