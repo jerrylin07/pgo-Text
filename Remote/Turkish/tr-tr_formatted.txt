@@ -30015,6 +30015,9 @@ TEXT: MAKSİ HAREKETLER ETERNATUS’UN MACERA ETKİSİ İLE GÜÇLENDİ
 RESOURCE ID: dynamax_cannon_adventure_effects_mapview_dialog
 TEXT: Muazzam bir güç açığa çıkar ve Maksi Pokémon’larınız ile Eternatus’un Maksi Hareketlerine bir bonus ekler. Maksi seviyedeki hareketler büyük bir bonus alır.
 
+RESOURCE ID: dynamax_cannon_ae_half_cost_bonus
+TEXT: Eternatus’un Dinamaks Topu Macera Etkisini aktifleştirme bedelinde %50 indirim
+
 RESOURCE ID: dynamic_punch+
 TEXT: Dinamik Yumruk+
 
@@ -31458,6 +31461,9 @@ TEXT: Avrupa Uzay Ajansı Etkinliği 2026 Süreli Araştırması (1/2)
 
 RESOURCE ID: esa_2026_tr_02
 TEXT: Avrupa Uzay Ajansı Etkinliği 2026 Süreli Araştırması (2/2)
+
+RESOURCE ID: eternatus_returns_event_title
+TEXT: Eternatus’un Dönüşü
 
 RESOURCE ID: europe_international_championships_bonus_2024
 TEXT: 2024 Pokémon Avrupa Uluslararası Şampiyonası – Bonus
@@ -33013,6 +33019,12 @@ TEXT: Ödül almaya devam edebilirsiniz. Bakalım ne kadar ilerleyeceksiniz!
 RESOURCE ID: event_pass_additional_bonus_rank_divider_header
 TEXT: BONUS RÜTBELER
 
+RESOURCE ID: event_pass_base_track_title_gowa_leadout_2026
+TEXT: GO Bileti: Dinamaks Patikası
+
+RESOURCE ID: event_pass_details_link_gowa_leadout_2026
+TEXT: Ayrıntıları <a href="https://pokemongo.com/news//dynamax-trails-eternamax-eternatus-2026">internet sitemizden</a> öğrenebilirsiniz.
+
 RESOURCE ID: event_pass_event_ended
 TEXT: Etkinlik Sona Erdi
 
@@ -33146,6 +33158,13 @@ TEXT: Lüks GO Bileti: Vahşi Macera’yı satın alarak şu ödüllerin kilidin
 • Hiper Eğitim yoluyla herhangi bir Pokémon’un bir istatistiğini (Saldırı, Savunma veya SP) maksimum yapmak için kullanılabilecek bir <a href="https://pokemongo.com/news/into-the-wild-2026/">Gümüş Şişe Kapağı</a>
 • Ve dahası!
 
+RESOURCE ID: event_pass_gowa_leadout_2026_event_duration
+TEXT: 14 Kasım -
+23 Kasım
+
+RESOURCE ID: event_pass_gowa_leadout_2026_upgrade_description
+TEXT: Lüks GO Bileti: Dinamaks Patikası’nı satın alarak aralarında etkinlik temalı Dinamaks Pokémon’larla karşılaşmalar ve dahasının da bulunduğu ek ödüllerin kilidini açabilirsiniz!
+
 RESOURCE ID: event_pass_micro_action_modal_title
 TEXT: Nasıl Puan Kazanılır?
 
@@ -33232,6 +33251,9 @@ TEXT: Süreli Kuluçka Makinesi
 
 RESOURCE ID: event_pass_premium_reward_banner_top_text
 TEXT: AŞAMA ÖDÜLÜ
+
+RESOURCE ID: event_pass_premium_track_title_gowa_leadout_2026
+TEXT: Lüks GO Bileti: Dinamaks Patikası
 
 RESOURCE ID: event_pass_rank_journal
 TEXT: {0} {1}. rütbesine ulaşıldı.
@@ -35450,6 +35472,9 @@ TEXT: YUMURTALAR
 
 RESOURCE ID: fitness_weekly_goals_label
 TEXT: ÖDÜLLER
+
+RESOURCE ID: five_additional_candy_max_battle_bonus
+TEXT: Tamamlanan Maksi Maçlardan ilave 5 şeker
 
 RESOURCE ID: five_free_raid_passes
 TEXT: Spor Salonlarındaki Fotoğraf Disklerini döndürerek ücretsiz olarak beş adede kadar Akın Bileti alın
@@ -47604,6 +47629,9 @@ TEXT: Zehir
 
 RESOURCE ID: gowa_2025_deluxe_event_pass_track_unlock_plus_points_title
 TEXT: Lüks GO Bileti: Vahşi Macera + 10 Rütbe
+
+RESOURCE ID: gowa_2026_leadout_event_title
+TEXT: Dinamaks Patikası
 
 RESOURCE ID: gowa
 TEXT: Pokémon GO Vahşi Bölgesi
@@ -60880,10 +60908,10 @@ at SHA 413df5befdbe0d00a543f8a142221526d63b719a
 Pipeline 834428, job 8736424
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-10-30T04:15:50.656594+00:00 for tr-TR
-at SHA 6ca489ee17b
-Pipeline 4063968, job 59931656
-Patch from: 0.437.0-SHA-d1d1a55c-RC2, 0.435.0-SHA-d5d32cc5-RC2, 0.433.1-SHA-0f52e3f0-RC1
+TEXT: Built at 2026-11-03T19:34:23.749057+00:00 for tr-TR
+at SHA 534885091ad
+Pipeline 4073493, job 60075419
+Patch from: 0.437.0-SHA-6174fcca-RC4, 0.435.98-SHA-b3319c4b-RC1
 
 RESOURCE ID: meteor_title_1
 TEXT: METEOR YAĞMURU
@@ -62834,6 +62862,9 @@ TEXT: {0} mega evrimleşmişken <b>{1}</b>, <b>{2}</b> veya <b>{3}</b> türü Po
 
 RESOURCE ID: mp_bonus_buff_desc_3
 TEXT: {0} mega evrimleşmişken <b>{1}</b>, <b>{2}</b> veya <b>{3}</b> türü Pokémon’lar yakaladığınızda ekstra şeker ve ekstra TP kazanacak ve büyük şeker alma şansınızı artıracaksınız.
+
+RESOURCE ID: mp_drop_chance_caught_bonus
+TEXT: Etkinlik temalı Pokémon’ları yakalayınca Maksi Parçacık kazanabilirsiniz
 
 RESOURCE ID: mp_explore_quarter
 TEXT: Maksi Parçacık kazanmak için 1/4 macera mesafesi
@@ -69224,6 +69255,9 @@ TEXT: Özel Mülk
 
 RESOURCE ID: poi_contrib_report_reason_school
 TEXT: Okul (K–12)
+
+RESOURCE ID: poi_contrib_report_reason_ai_generated_or_doctored_photo
+TEXT: AI-Generated or Doctored Photo
 
 RESOURCE ID: poi_contrib_report_reason_duplicate_custom
 TEXT: {0} zaten mevcut
@@ -83770,6 +83804,9 @@ TEXT: Ateş, Bitki ya da Yer türünden {0} Pokémon yakalayın
 
 RESOURCE ID: quest_catch_groudon_primal_boosted_types
 TEXT: Ateş, Bitki ya da Yer türünden {0} Pokémon yakalayın
+
+RESOURCE ID: quest_catch_hisuian_sliggoo_singular
+TEXT: Bir Hisuili Sliggoo yakalayın
 
 RESOURCE ID: quest_catch_hoenn_pokemon
 TEXT: İlk olarak Hoenn bölgesinde keşfedilmiş {0} Pokémon yakalayın
@@ -107061,6 +107098,9 @@ TEXT: Ayrılmak istediğinize emin misiniz?
 RESOURCE ID: raid_encounter_flee_warning_modal_body
 TEXT: Bu karşılaşmadan ayrılırsanız bir daha geri dönemezsiniz.
 
+RESOURCE ID: raid_encounter_flee_warning_modal_confirm_button
+TEXT: AYRIL
+
 RESOURCE ID: raid_enter_group_code
 TEXT: ÖZEL GRUP
 
@@ -110285,6 +110325,9 @@ TEXT: Ralts Topluluk Gününün Devamı Süreli Araştırması
 
 RESOURCE ID: rank
 TEXT: RÜTBE
+
+RESOURCE ID: rank_16_event_pass_banner_bottom
+TEXT: 16. Rütbede Verilir
 
 RESOURCE ID: rare_background_disclaimer_text
 TEXT: Bu arka plan yalnızca bu Pokémon’u dostunuz olarak seçtiğinizde Eğitmen profilinizde gösterilebilir.
@@ -119363,6 +119406,9 @@ TEXT: GO Vahşi Bölgesi Çatlatma Kutusu
 RESOURCE ID: sku.name.web-gowa-2024-box-3
 TEXT: GO Vahşi Bölgesi Üst Düzey Kutu
 
+RESOURCE ID: sku.name.web-gowa-2024-box-4
+TEXT: GO Vahşi Bölgesi Yükseltme Kutusu
+
 RESOURCE ID: sleep_duration_hr
 TEXT: 1 hr
 
@@ -127153,6 +127199,9 @@ TEXT: PokéDurakları döndürerek, Hediyeleri açarak veya oyun içi mağazası
 RESOURCE ID: themed_stickers_name
 TEXT: Temalı Çıkartmalar
 
+RESOURCE ID: three_additional_candy_xl_max_battle_bonus
+TEXT: Tamamlanan Maksi Maçlardan ilave 3 büyük şeker
+
 RESOURCE ID: three_free_raid_passes
 TEXT: Spor Salonlarındaki Fotoğraf Disklerini döndürerek ücretsiz olarak üç adede kadar Akın Bileti alın
 
@@ -130783,6 +130832,9 @@ TEXT: Vahşi Takip – Ejderha
 RESOURCE ID: tr_gowa2026_poi_steel
 TEXT: Vahşi Takip – Çelik
 
+RESOURCE ID: tr_gowa2026_power_up_title
+TEXT: GO Vahşi Bölgesi: Gigantamaks Machamp Güçlendirme
+
 RESOURCE ID: tr_hut_hut_title
 TEXT: Amerikan Futbolu Çılgınlığı Bonus Süreli Araştırması
 
@@ -132593,6 +132645,32 @@ TEXT: Takaslar için gereken yıldız tozu bedelinde %25’e varan indirim
 
 RESOURCE ID: twenty_percent_stardust_cost_trade_reduced_bonus
 TEXT: Takaslar için gereken yıldız tozu bedelinde %20’ye varan indirim
+
+RESOURCE ID: twilight_trails_finale_event_name
+TEXT: Akşamüstü Dilekleri
+
+RESOURCE ID: twilight_trails_finale_event_pass_title
+TEXT: GO Bileti: Akşamüstü Dilekleri
+
+RESOURCE ID: twilight_trails_finale_event_pass_duration
+TEXT: 24-30 Kasım
+
+RESOURCE ID: twilight_trails_finale_event_pass_deluxe_title
+TEXT: Lüks GO Bileti: Akşamüstü Dilekleri
+
+RESOURCE ID: twilight_trails_finale_event_pass_plus_six_levels_title
+TEXT: Lüks GO Bileti: Akşamüstü Dilekleri + 6 Rütbe
+
+RESOURCE ID: twilight_trails_finale_event_pass_upgrade_description
+TEXT: Lüks GO Bileti: Akşamüstü Dilekleri’ni satın alarak şu ödüllerin kilidini açabilirsiniz!
+
+ • Yıldız Balon Pozu
+• 4 Premium Maç Bileti
+• 4 Yıldız Parçası
+• Ve dahası!
+
+RESOURCE ID: twilight_trails_finale_event_pass_upgrade_header_description
+TEXT: 16. rütbede ilave ödüller kazanıp Yıldız Balon Pozunun kilidini açabilirsiniz!
 
 RESOURCE ID: two_free_raid_passes
 TEXT: Spor Salonu Fotoğraf Disklerini döndürerek günde iki taneye kadar ücretsiz Akın Bileti
