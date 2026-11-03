@@ -29863,6 +29863,9 @@ TEXT: इटर्नेटस के फ़ील्ड इफ़ेक्ट �
 RESOURCE ID: dynamax_cannon_adventure_effects_mapview_dialog
 TEXT: शक्ति के अचानक रिलीज़ होने से मैक्स पोकेमॉन और इटर्नेटस के मैक्स मूव में बोनस जुड़ेगा। जो मूव मैक्स स्तर पर हैं, उन्हें विशेष रूप से अधिक बोनस मिलेगा।
 
+RESOURCE ID: dynamax_cannon_ae_half_cost_bonus
+TEXT: इटर्नेटस का डायनामैक्स कैनन फ़ील्ड इफ़ेक्ट एक्टीवेट करने की लागत 50% कम
+
 RESOURCE ID: dynamic_punch+
 TEXT: डाइनैमकि पंच+
 
@@ -31306,6 +31309,9 @@ TEXT: यूरोपीय अंतरक्षि एजेंसी ईव�
 
 RESOURCE ID: esa_2026_tr_02
 TEXT: यूरोपीय अंतरक्षि एजेंसी ईवेंट 2026 सीमति समय वाली रसिर्च (2/2)
+
+RESOURCE ID: eternatus_returns_event_title
+TEXT: इटर्नेटस की वापसी
 
 RESOURCE ID: europe_international_championships_bonus_2024
 TEXT: 2024 Pokémon Europe International Championships - बोनस
@@ -32861,6 +32867,12 @@ TEXT: आप रिवॉर्ड प्राप्त करना जार�
 RESOURCE ID: event_pass_additional_bonus_rank_divider_header
 TEXT: बोनस रैंक
 
+RESOURCE ID: event_pass_base_track_title_gowa_leadout_2026
+TEXT: GO पास - डायनामैक्स ट्रेल
+
+RESOURCE ID: event_pass_details_link_gowa_leadout_2026
+TEXT: अधकि जानकारी की लिए <a href="https://pokemongo.com/news//dynamax-trails-eternamax-eternatus-2026">वेबसाइट</a> पर जाएँ।
+
 RESOURCE ID: event_pass_event_ended
 TEXT: इवेंट समाप्त
 
@@ -32994,6 +33006,13 @@ TEXT: GO Pass Deluxe: Into the Wild खरीदें और नीचे द�
 • एक <a href="https://pokemongo.com/news/into-the-wild-2026/">सल्विर बॉटल कैप</a>, जसिका उपयोग हाइपर ट्रेनिंग के माध्यम से कसिी भी पोकेमॉन पर एक स्टैट—अटैक, डफ़िेंस, या HP—को अधकितम करने के लिए कयिा जा सकता है
 • और भी बहुत कुछ!
 
+RESOURCE ID: event_pass_gowa_leadout_2026_event_duration
+TEXT: 14 नवंबर –
+23 नवंबर
+
+RESOURCE ID: event_pass_gowa_leadout_2026_upgrade_description
+TEXT: GO पास डीलक्स - डायनामैक्स ट्रेल खरीदें और अन्य रविॉर्ड अनलॉक करें, जैसे कि ईवेंट कि थीम वाले डायनामैक्स पोकेमॉन से मुलाकातें और और-भी बहुत कुछ! 
+
 RESOURCE ID: event_pass_micro_action_modal_title
 TEXT: पॉइंट प्राप्त करने का तरीका
 
@@ -33079,6 +33098,9 @@ TEXT: समयबद्ध इन्क्यूबेटर
 
 RESOURCE ID: event_pass_premium_reward_banner_top_text
 TEXT: माइलस्टोन रिवॉर्ड
+
+RESOURCE ID: event_pass_premium_track_title_gowa_leadout_2026
+TEXT: GO पास डीलक्स - डायनामैक्स ट्रेल
 
 RESOURCE ID: event_pass_rank_journal
 TEXT: {0} की रैंक {1} प्राप्त हुई।
@@ -35276,6 +35298,9 @@ TEXT: अंडे
 
 RESOURCE ID: fitness_weekly_goals_label
 TEXT: रिवॉर्ड
+
+RESOURCE ID: five_additional_candy_max_battle_bonus
+TEXT: मैक्स बैटल पूरा करने पर पाँच अतरिक्ति कैंडी XL
 
 RESOURCE ID: five_free_raid_passes
 TEXT: जिम की फ़ोटो डिस्क स्पिन करके, बिना किसी शुल्क के पांच रेड पास तक पाएं
@@ -47407,6 +47432,9 @@ TEXT: पाइज़न
 RESOURCE ID: gowa_2025_deluxe_event_pass_track_unlock_plus_points_title
 TEXT: GO पास डीलक्स : इन्टू द वाइल्ड + 10 रैंक
 
+RESOURCE ID: gowa_2026_leadout_event_title
+TEXT: डायनामैक्स ट्रेल
+
 RESOURCE ID: gowa
 TEXT: Pokémon GO वाइल्ड एरिया
 
@@ -48203,16 +48231,16 @@ RESOURCE ID: great_league_championship_series_2026
 TEXT: 2026 GO चैंपियनशिप सीरीज़ कप
 
 RESOURCE ID: great_league_championship_series_2027
-TEXT: 2027 GO Championship Series Cup
+TEXT: 2027 GO चैंपयिनशपि सीरीज़ कप
 
 RESOURCE ID: great_league_championship_series_2028
-TEXT: 2028 GO Championship Series Cup
+TEXT: 2028 GO चैंपयिनशपि सीरीज़ कप
 
 RESOURCE ID: great_league_championship_series_2029
-TEXT: 2029 GO Championship Series Cup
+TEXT: 2029 GO चैंपयिनशपि सीरीज़ कप
 
 RESOURCE ID: great_league_championship_series_2030
-TEXT: 2030 GO Championship Series Cup
+TEXT: 2030 GO चैंपयिनशपि सीरीज़ कप
 
 RESOURCE ID: great_league_mega_title
 TEXT: ग्रेट लीग : मेगा एडशिन
@@ -60657,10 +60685,10 @@ at SHA 12701f1c07ae7f07a5d50583f697320977df7988
 Pipeline 1139111, job 13470914
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-10-30T04:15:50.656594+00:00 for hi-IN
-at SHA 6ca489ee17b
-Pipeline 4063968, job 59931656
-Patch from: 0.437.0-SHA-d1d1a55c-RC2, 0.435.0-SHA-d5d32cc5-RC2, 0.433.1-SHA-0f52e3f0-RC1
+TEXT: Built at 2026-11-03T19:34:23.749057+00:00 for hi-IN
+at SHA 534885091ad
+Pipeline 4073493, job 60075419
+Patch from: 0.437.0-SHA-6174fcca-RC4, 0.435.98-SHA-b3319c4b-RC1
 
 RESOURCE ID: meteor_title_1
 TEXT: मीटयिोर शावर
@@ -62611,6 +62639,9 @@ TEXT: While {0} is Mega Evolved, you’ll earn extra Candy, extra XP, and have a
 
 RESOURCE ID: mp_bonus_buff_desc_3
 TEXT: While {0} is Mega Evolved, you’ll earn extra Candy, extra XP, and have an increased chance of receiving Candy XL when you catch <b>{1}</b>-, <b>{2}</b>-, or <b>{3}</b>-type Pokémon.
+
+RESOURCE ID: mp_drop_chance_caught_bonus
+TEXT: इवेंट की थीम वाले पोकेमॉन पकड़ने पर मैक्स पार्टकिल मलि सकते हैं
 
 RESOURCE ID: mp_explore_quarter
 TEXT: मैक्स पार्टिकल प्राप्त करने के लिए 1/4 एडवेंचर दूरी
@@ -69037,6 +69068,9 @@ TEXT: निजी रिहायशी संपत्ति
 
 RESOURCE ID: poi_contrib_report_reason_school
 TEXT: स्कूल (K–12)
+
+RESOURCE ID: poi_contrib_report_reason_ai_generated_or_doctored_photo
+TEXT: AI-Generated or Doctored Photo
 
 RESOURCE ID: poi_contrib_report_reason_duplicate_custom
 TEXT: डुप्लिकेट {0}
@@ -83566,6 +83600,9 @@ TEXT: {0} फ़ायर-, ग्रास- या ग्राउंड टा
 
 RESOURCE ID: quest_catch_groudon_primal_boosted_types
 TEXT: Catch {0} Fire-, Grass-, or Ground-type Pokémon
+
+RESOURCE ID: quest_catch_hisuian_sliggoo_singular
+TEXT: हसिुई स्लगिू पकड़ें
 
 RESOURCE ID: quest_catch_hoenn_pokemon
 TEXT: Catch {0} Pokémon originally discovered in the Hoenn region
@@ -106853,6 +106890,9 @@ TEXT: क्या आप सच में भागना चाहते ह�
 RESOURCE ID: raid_encounter_flee_warning_modal_body
 TEXT: इस पोकेमॉन से भागने पर, आप वापस नहीं आ पाएँगे।
 
+RESOURCE ID: raid_encounter_flee_warning_modal_confirm_button
+TEXT: FLEE
+
 RESOURCE ID: raid_enter_group_code
 TEXT: प्राइवेट ग्रुप
 
@@ -110075,6 +110115,9 @@ TEXT: रॉल्ट्स कम्युनिटी डे कंटिन�
 
 RESOURCE ID: rank
 TEXT: रैंक
+
+RESOURCE ID: rank_16_event_pass_banner_bottom
+TEXT: रैक 16 पर प्रदान
 
 RESOURCE ID: rare_background_disclaimer_text
 TEXT: इस पोकेमॉन को अपना पार्टनर बनाकर, आप इस बैकग्राउंड को अपनी ट्रेनर प्रोफ़ाइल पर दखिा सकते हैं
@@ -119150,6 +119193,9 @@ TEXT: GO वाइल्ड एरिया हैचर बॉक्स
 RESOURCE ID: sku.name.web-gowa-2024-box-3
 TEXT: GO वाइल्ड एरिया अल्टीमेट बॉक्स
 
+RESOURCE ID: sku.name.web-gowa-2024-box-4
+TEXT: GO वाइल्ड एरयिा बूस्टर बॉक्स
+
 RESOURCE ID: sleep_duration_hr
 TEXT: 1 hr
 
@@ -126944,6 +126990,9 @@ TEXT: You’ll be able to get themed stickers by spinning PokéStops, opening Gi
 RESOURCE ID: themed_stickers_name
 TEXT: Themed Stickers
 
+RESOURCE ID: three_additional_candy_xl_max_battle_bonus
+TEXT: मैक्स बैटल पूरा करने पर 3 अतरिक्ति कैंडी XL
+
 RESOURCE ID: three_free_raid_passes
 TEXT: जिम की फ़ोटो डिस्क को स्पिन करके तीन रेड पास तक पाएं, वह भी बिल्कुल मुफ़्त
 
@@ -130570,6 +130619,9 @@ TEXT: वाइल्ड एंड ड्रैगन स्पनि
 RESOURCE ID: tr_gowa2026_poi_steel
 TEXT: वाइल्ड एंड स्टील स्पनि
 
+RESOURCE ID: tr_gowa2026_power_up_title
+TEXT: GO वाइल्ड एरयिा - जायगैंटामैक्स मचैम्प पावर अप
+
 RESOURCE ID: tr_hut_hut_title
 TEXT: गेट, सेट, गो! बोनस सीमित समय वाली रिसर्च
 
@@ -132380,6 +132432,32 @@ TEXT: ट्रेड के लिए स्टारडस्ट की ला
 
 RESOURCE ID: twenty_percent_stardust_cost_trade_reduced_bonus
 TEXT: ट्रेड में स्टारडस्ट की लागत पर 20% तक की छूट
+
+RESOURCE ID: twilight_trails_finale_event_name
+TEXT: साँझ की इच्छा
+
+RESOURCE ID: twilight_trails_finale_event_pass_title
+TEXT: GO पास - साँझ की इच्छा
+
+RESOURCE ID: twilight_trails_finale_event_pass_duration
+TEXT: 24 नवंबर – 30 नवंबर
+
+RESOURCE ID: twilight_trails_finale_event_pass_deluxe_title
+TEXT: GO पास डीलक्स - साँझ की इच्छा
+
+RESOURCE ID: twilight_trails_finale_event_pass_plus_six_levels_title
+TEXT: GO पास डीलक्स - साँझ की इच्छा + 6 रैंक
+
+RESOURCE ID: twilight_trails_finale_event_pass_upgrade_description
+TEXT: GO पास डीलक्स - साँझ की इच्छा खरीदें और ये रविॉर्ड अनलॉक करें!
+
+• तारा बलून पोज़
+• 4 प्रीमयिम बैटल पास
+• 4 स्टार पीस
+• और भी बहुत कुछ!
+
+RESOURCE ID: twilight_trails_finale_event_pass_upgrade_header_description
+TEXT: रैंक 16 पर अतरिक्ति रविॉर्ड पाएँ और तारा बलून पोज़ अनलॉक करें!
 
 RESOURCE ID: two_free_raid_passes
 TEXT: पोकेस्टॉप स्पिन से पक्के गिफ़्ट

@@ -21960,7 +21960,7 @@ RESOURCE ID: buddy_monodepth_modal_turn_off_button
 TEXT: Nonaktifkan Scopely Explore AR Platform (Percobaan)
 
 RESOURCE ID: buddy_multilplayer_qr_display_header
-TEXT: Kode QR Partner Grup
+TEXT: Kode 2D Grup Partner
 
 RESOURCE ID: buddy_multiplayer_quit
 TEXT: Keluar dari sesi?
@@ -21969,7 +21969,7 @@ RESOURCE ID: buddy_multiplayer_connection_error
 TEXT: Koneksi Gagal
 
 RESOURCE ID: buddy_multiplayer_create_session
-TEXT: Buat Grup Kode QR
+TEXT: Buat Kode 2D Grup
 
 RESOURCE ID: buddy_multiplayer_deploy_invalid_position
 TEXT: Carilah area datar yang lebih luas.
@@ -22051,7 +22051,7 @@ RESOURCE ID: buddy_multiplayer_lobby_body_peer
 TEXT: Dapatkan instruksi dari pemimpin grup untuk menemukan titik persembunyian!
 
 RESOURCE ID: buddy_multiplayer_mapping_timeout
-TEXT: Grup Partner saat ini ditutup karena sedang tidak aktif. Untuk melanjutkan, coba lagi dengan memindai Kode QR Grup.
+TEXT: Grup Partner saat ini ditutup karena sedang tidak aktif. Untuk melanjutkan, coba lagi dengan memindai kode 2D grup.
 
 RESOURCE ID: buddy_multiplayer_peer_cannot_exit_group_photo
 TEXT: {0} adalah pemimpin foto. Minta {0} untuk mematikan mode Foto Grup.
@@ -22078,7 +22078,7 @@ RESOURCE ID: buddy_multiplayer_player_count_can_join_singular
 TEXT: 1 Pelatih lagi dapat bergabung
 
 RESOURCE ID: buddy_multiplayer_qr_guidance
-TEXT: Pindai Kode QR Grup
+TEXT: Pindai Kode 2D Grup
 
 RESOURCE ID: buddy_multiplayer_qr_display_body
 TEXT: Jika semuanya berkumpul, ketuk tombol GO.
@@ -22090,7 +22090,7 @@ RESOURCE ID: buddy_multiplayer_safety_warning
 TEXT: Pastikan untuk menggunakan mode AR di lokasi yang aman dan selalu awasi anak-anak.
 
 RESOURCE ID: buddy_multiplayer_scan_button
-TEXT: Pindai Kode QR Grup
+TEXT: Pindai Kode 2D Grup
 
 RESOURCE ID: buddy_multiplayer_start_session
 TEXT: GO
@@ -22099,7 +22099,7 @@ RESOURCE ID: buddy_multiplayer_timeout_dialog_title
 TEXT: Grup Partner sudah ditutup.
 
 RESOURCE ID: buddy_multiplayer_timeout_dialog_description
-TEXT: Grup Partner saat ini ditutup karena sedang tidak aktif. Untuk melanjutkan, coba lagi dengan memindai Kode QR Grup.
+TEXT: Grup Partner saat ini ditutup karena sedang tidak aktif. Untuk melanjutkan, coba lagi dengan memindai kode 2D grup.
 
 RESOURCE ID: buddy_multiplayer_tutorial_0_title
 TEXT: Mainkan di area yang terang
@@ -27710,7 +27710,7 @@ RESOURCE ID: combat_matchmaking_generic_error
 TEXT: Kesalahan saat pencocokan.
 
 RESOURCE ID: combat_matchmaking_invalid_qr
-TEXT: Kode QR tidak valid.
+TEXT: Kode 2D tidak valid.
 
 RESOURCE ID: combat_matchmaking_match_found_status
 TEXT: Pertarungan akan dimulai
@@ -29890,6 +29890,9 @@ TEXT: JURUS MAX DIPERKUAT OLEH EFEK PETUALANGAN ETERNATUS
 RESOURCE ID: dynamax_cannon_adventure_effects_mapview_dialog
 TEXT: Lonjakan kekuatan memancar dan menambahkan bonus ke Jurus Max dari Pokémon Max-mu dan Eternatus. Jurus Level Maks. akan menerima bonus signifikan.
 
+RESOURCE ID: dynamax_cannon_ae_half_cost_bonus
+TEXT: Pengurangan biaya hingga 50% untuk mengaktifkan Efek Petualangan Dynamax Cannon Eternatus
+
 RESOURCE ID: dynamic_punch+
 TEXT: Pukulan Peledak+
 
@@ -31333,6 +31336,9 @@ TEXT: Penelitian Berwaktu Event Badan Antariksa Eropa 2026 (1/2)
 
 RESOURCE ID: esa_2026_tr_02
 TEXT: Penelitian Berwaktu Event Badan Antariksa Eropa 2026 (2/2)
+
+RESOURCE ID: eternatus_returns_event_title
+TEXT: Kembalinya Eternatus
 
 RESOURCE ID: europe_international_championships_bonus_2024
 TEXT: Pokémon Europe International Championships 2024 – Bonus
@@ -32889,6 +32895,12 @@ TEXT: Kamu dapat melanjutkan untuk mendapatkan hadiah. Coba tantang sampai sejau
 RESOURCE ID: event_pass_additional_bonus_rank_divider_header
 TEXT: RANK BONUS
 
+RESOURCE ID: event_pass_base_track_title_gowa_leadout_2026
+TEXT: Tiket GO: Jejak Dynamax
+
+RESOURCE ID: event_pass_details_link_gowa_leadout_2026
+TEXT: Untuk detail lebih lanjut, kunjungi <a href="https://pokemongo.com/news//dynamax-trails-eternamax-eternatus-2026">situs web</a>.
+
 RESOURCE ID: event_pass_event_ended
 TEXT: Event Berakhir
 
@@ -33021,6 +33033,13 @@ TEXT: Beli Tiket GO Luks: Menuju Alam Liar untuk membuka hadiah berikut!
 • 1 <a href="https://pokemongo.com/news/into-the-wild-2026/">Tutup Botol Perak</a> yang bisa digunakan untuk memaksimumkan satu statistik—Serangan, Pertahanan, atau HP—dari Pokémon apa pun melalui Latihan Luar Biasa
 • Dan masih banyak lagi!
 
+RESOURCE ID: event_pass_gowa_leadout_2026_event_duration
+TEXT: 14 November –
+23 November
+
+RESOURCE ID: event_pass_gowa_leadout_2026_upgrade_description
+TEXT: Beli Tiket GO Luks: Jejak Dynamax untuk membuka hadiah tambahan, termasuk pertemuan dengan Pokémon Dynamax bertema event dan masih banyak lagi!
+
 RESOURCE ID: event_pass_micro_action_modal_title
 TEXT: Cara Mendapatkan Poin
 
@@ -33104,6 +33123,9 @@ TEXT: Mesin Penetas Berwaktu
 
 RESOURCE ID: event_pass_premium_reward_banner_top_text
 TEXT: HADIAH MILESTONE
+
+RESOURCE ID: event_pass_premium_track_title_gowa_leadout_2026
+TEXT: Tiket GO Luks: Jejak Dynamax
 
 RESOURCE ID: event_pass_rank_journal
 TEXT: {0} Rank {1} tercapai.
@@ -35303,6 +35325,9 @@ TEXT: TELUR
 
 RESOURCE ID: fitness_weekly_goals_label
 TEXT: HADIAH
+
+RESOURCE ID: five_additional_candy_max_battle_bonus
+TEXT: 5 Permen tambahan dengan menyelesaikan Pertarungan Max
 
 RESOURCE ID: five_free_raid_passes
 TEXT: Dapatkan hingga lima Tiket Raid gratis dengan memutar Disk Foto di Gym
@@ -47471,6 +47496,9 @@ TEXT: Racun
 
 RESOURCE ID: gowa_2025_deluxe_event_pass_track_unlock_plus_points_title
 TEXT: Tiket GO Luks: Menuju Alam Liar + 10 Rank
+
+RESOURCE ID: gowa_2026_leadout_event_title
+TEXT: Jejak Dynamax
 
 RESOURCE ID: gowa
 TEXT: Pokémon GO Wild Area
@@ -60728,10 +60756,10 @@ at SHA 12701f1c07ae7f07a5d50583f697320977df7988
 Pipeline 1139111, job 13470914
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-10-30T04:15:50.656594+00:00 for id-ID
-at SHA 6ca489ee17b
-Pipeline 4063968, job 59931656
-Patch from: 0.437.0-SHA-d1d1a55c-RC2, 0.435.0-SHA-d5d32cc5-RC2, 0.433.1-SHA-0f52e3f0-RC1
+TEXT: Built at 2026-11-03T19:34:23.749057+00:00 for id-ID
+at SHA 534885091ad
+Pipeline 4073493, job 60075419
+Patch from: 0.437.0-SHA-6174fcca-RC4, 0.435.98-SHA-b3319c4b-RC1
 
 RESOURCE ID: meteor_title_1
 TEXT: HUJAN METEOR
@@ -62682,6 +62710,9 @@ TEXT: Ketika {0} berevolusi Mega, kamu akan mendapatkan Permen ekstra, XP ekstra
 
 RESOURCE ID: mp_bonus_buff_desc_3
 TEXT: Ketika {0} berevolusi Mega, kamu akan mendapatkan Permen ekstra, XP ekstra, dan peluang mendapatkan Permen XL meningkat saat menangkap Pokémon tipe <b>{1}</b>, <b>{2}</b>, atau <b>{3}</b>.
+
+RESOURCE ID: mp_drop_chance_caught_bonus
+TEXT: Menangkap Pokémon bertema event mungkin dapat menghadiahkan Partikel Max
 
 RESOURCE ID: mp_explore_quarter
 TEXT: 1/4 Jarak untuk mengumpulkan Partikel Max
@@ -67729,7 +67760,7 @@ RESOURCE ID: party_play_raid_menu_header
 TEXT: GRUP BERMAIN RAID
 
 RESOURCE ID: party_play_scan_qr_code
-TEXT: Pindai Kode QR Grup
+TEXT: Pindai kode 2D tim.
 
 RESOURCE ID: party_play_see_all_activities
 TEXT: Lihat Semua Aktivitas
@@ -69130,6 +69161,9 @@ TEXT: Properti Hunian Pribadi
 
 RESOURCE ID: poi_contrib_report_reason_school
 TEXT: Sekolah (TK–SMA)
+
+RESOURCE ID: poi_contrib_report_reason_ai_generated_or_doctored_photo
+TEXT: AI-Generated or Doctored Photo
 
 RESOURCE ID: poi_contrib_report_reason_duplicate_custom
 TEXT: Duplikasikan {0}
@@ -81590,7 +81624,7 @@ RESOURCE ID: pokestop_button_manual_input_2
 TEXT: Beralih ke Input Manual
 
 RESOURCE ID: pokestop_button_read_qr_code
-TEXT: PINDAI KODE QR
+TEXT: BACA KODE 2D
 
 RESOURCE ID: pokestop_challenge_fr_title
 TEXT: Tantangan PokéStop
@@ -81603,7 +81637,7 @@ TEXT: Penelitian Berwaktu Tantangan PokéStop (1/1)
 
 RESOURCE ID: pokestop_check_in_notice
 TEXT: Selamat datang di {0}!
-Mohon gunakan kamera untuk memindai Kode QR agar bisa masuk.
+Mohon gunakan kamera untuk memindai Kode 2D guna melakukan check-in.
 
 RESOURCE ID: pokestop_check_in_succeeded
 TEXT: BERHASIL MASUK
@@ -82832,10 +82866,10 @@ RESOURCE ID: pxp_worlds_event_name_2026
 TEXT: PokémonXP & 2026 Worlds
 
 RESOURCE ID: qr_code_title
-TEXT: Pindai Kode QR
+TEXT: Pindai Kode 2D
 
 RESOURCE ID: qr_decode_problem
-TEXT: Pemindaian Kode QR gagal. Coba input secara manual.
+TEXT: Pengenalan kode 2D gagal. Silakan coba masukkan secara manual.
 
 RESOURCE ID: qualifier_limited _one_event_raid
 TEXT: Catatan: Raid event spesial tertentu hanya bisa diselesaikan oleh setiap Pelatih satu kali.
@@ -83684,6 +83718,9 @@ TEXT: Tangkap {0} Pokémon tipe Api, Daun, atau Tanah
 
 RESOURCE ID: quest_catch_groudon_primal_boosted_types
 TEXT: Tangkap {0} Pokémon Tipe Tanah, Api, atau Daun
+
+RESOURCE ID: quest_catch_hisuian_sliggoo_singular
+TEXT: Tangkap Hisuian Sliggoo
 
 RESOURCE ID: quest_catch_hoenn_pokemon
 TEXT: Tangkap {0} Pokémon yang pertama kali ditemukan di Daerah Hoenn
@@ -106969,6 +107006,9 @@ TEXT: Yakin ingin mundur?
 RESOURCE ID: raid_encounter_flee_warning_modal_body
 TEXT: Jika kamu mundur dari Pokémon ini, kamu tidak akan bisa kembali lagi.
 
+RESOURCE ID: raid_encounter_flee_warning_modal_confirm_button
+TEXT: FLEE
+
 RESOURCE ID: raid_enter_group_code
 TEXT: GRUP PRIVAT
 
@@ -110114,16 +110154,16 @@ RESOURCE ID: rally_rewards_desc_general
 TEXT: Selesaikan Reli Stempel untuk mendapatkan pertemuan dan hadiah
 
 RESOURCE ID: rally_sendai_2026_title
-TEXT: Reli Stempel Sendai – Lapras
+TEXT: Reli Stempel Sendai • Tohoku – Lapras
 
 RESOURCE ID: rally_sendai_2026_desc
-TEXT: Reli Stempel GO eksklusif yang hanya tersedia di Sendai.
+TEXT: Reli Stempel eksklusif yang hanya tersedia di wilayah Sendai • Tohoku.
 
 RESOURCE ID: rally_sendai_2026_desc_detail
-TEXT: Kumpulkan stempel dengan mengunjungi PokéStop Reli Stempel GO di sepanjang jalur bersejarah di Sendai!
+TEXT: Kumpulkan stempel dengan mengunjungi PokéStop Reli Stempel GO di sepanjang jalur bersejarah di wilayah Sendai • Tohoku!
 
 RESOURCE ID: rally_sendai_2026_location
-TEXT: Sendai, Japan
+TEXT: Sendai • Tohoku, Jepang
 
 RESOURCE ID: rally_sendai_2026_rewards_desc
 TEXT: Temui Lapras dengan Latar Belakang Lokasi Sendai selama reli ini.
@@ -110190,6 +110230,9 @@ TEXT: Penelitian Berwaktu Kelanjutan Hari Komunitas Ralts
 
 RESOURCE ID: rank
 TEXT: RANK
+
+RESOURCE ID: rank_16_event_pass_banner_bottom
+TEXT: Diterima di Rank 16
 
 RESOURCE ID: rare_background_disclaimer_text
 TEXT: Latar belakang ini dapat ditampilkan pada profil Pelatih-mu jika Pokémon ini dijadikan partnermu.
@@ -119279,6 +119322,9 @@ TEXT: Kotak Penetasan GO Wild Area
 RESOURCE ID: sku.name.web-gowa-2024-box-3
 TEXT: Kotak Unggulan GO Wild Area
 
+RESOURCE ID: sku.name.web-gowa-2024-box-4
+TEXT: Kotak Pemacu GO Wild Area
+
 RESOURCE ID: sleep_duration_hr
 TEXT: 1 jam
 
@@ -119472,10 +119518,10 @@ RESOURCE ID: social_add_friend_facebook
 TEXT: Sambungkan teman dari Facebook
 
 RESOURCE ID: social_add_friend_qr
-TEXT: Kode QR
+TEXT: Kode 2D
 
 RESOURCE ID: social_add_friend_qr_v2
-TEXT: PINDAI KODE QR
+TEXT: PINDAI KODE 2D
 
 RESOURCE ID: social_cancel_friend_request
 TEXT: Batalkan Permintaan
@@ -119487,7 +119533,7 @@ RESOURCE ID: social_my_code
 TEXT: KODE PELATIHKU
 
 RESOURCE ID: social_my_qr_code
-TEXT: Kode QR-ku
+TEXT: Kode 2D-ku
 
 RESOURCE ID: social_no_friends
 TEXT: Bermainlah bersama teman untuk membuka Pertukaran, Bola Premier, dan peningkatan kekuatan untuk pertempuran!
@@ -119614,13 +119660,13 @@ RESOURCE ID: social_qr_code_header
 TEXT: KODEKU
 
 RESOURCE ID: social_qr_code_prompt
-TEXT: Pindai kode QR dengan perangkat Pelatih lain.
+TEXT: Pindai kode 2D dengan perangkat Pelatih lain.
 
 RESOURCE ID: social_qr_scan_header
 TEXT: PINDAI
 
 RESOURCE ID: social_qr_scan_prompt
-TEXT: Pindai kode QR Pelatih
+TEXT: Pindai kode 2D Pelatih
 
 RESOURCE ID: social_remove_friend
 TEXT: Hapus Teman
@@ -127063,6 +127109,9 @@ TEXT: You’ll be able to get themed stickers by spinning PokéStops, opening Gi
 RESOURCE ID: themed_stickers_name
 TEXT: Themed Stickers
 
+RESOURCE ID: three_additional_candy_xl_max_battle_bonus
+TEXT: 3 Permen XL tambahan dengan menyelesaikan Pertarungan Max
+
 RESOURCE ID: three_free_raid_passes
 TEXT: Dapatkan hingga tiga Tiket Raid gratis dengan memutar Disk Foto di Gym
 
@@ -130681,6 +130730,9 @@ TEXT: Pengejaran Liar - Naga
 RESOURCE ID: tr_gowa2026_poi_steel
 TEXT: Pengejaran Liar - Logam
 
+RESOURCE ID: tr_gowa2026_power_up_title
+TEXT: GO Wild Area: Perkuat Machamp Gigantamax!
+
 RESOURCE ID: tr_hut_hut_title
 TEXT: Bonus Penelitian Berwaktu Hut, Hut, Hike!
 
@@ -132492,6 +132544,32 @@ TEXT: Pengurangan biaya Debu Bintang untuk pertukaran hingga 25%
 
 RESOURCE ID: twenty_percent_stardust_cost_trade_reduced_bonus
 TEXT: Pengurangan biaya Debu Bintang untuk pertukaran hingga 20% 
+
+RESOURCE ID: twilight_trails_finale_event_name
+TEXT: Angan-Angan Senja
+
+RESOURCE ID: twilight_trails_finale_event_pass_title
+TEXT: Tiket GO: Angan-Angan Senja
+
+RESOURCE ID: twilight_trails_finale_event_pass_duration
+TEXT: 24 November – 30 November
+
+RESOURCE ID: twilight_trails_finale_event_pass_deluxe_title
+TEXT: Tiket GO Luks: Angan-Angan Senja
+
+RESOURCE ID: twilight_trails_finale_event_pass_plus_six_levels_title
+TEXT: Tiket GO Luks: Angan-Angan Senja + 6 Rank
+
+RESOURCE ID: twilight_trails_finale_event_pass_upgrade_description
+TEXT: Beli Tiket GO Luks: Angan-Angan Senja untuk membuka hadiah berikut!
+
+ • Pose Balon Bintang
+• 4 Tiket Pertarungan Premium
+• 4 Serpihan Bintang
+• Dan masih banyak lagi!
+
+RESOURCE ID: twilight_trails_finale_event_pass_upgrade_header_description
+TEXT: Dapatkan hadiah tambahan dan buka Pose Balon Bintang di Rank 16!
 
 RESOURCE ID: two_free_raid_passes
 TEXT: Hingga dua Tiket Raid gratis setipa harinya dengan memutar Disk Foto Gym

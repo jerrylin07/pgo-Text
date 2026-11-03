@@ -32142,6 +32142,9 @@ TEXT: MAX MOVES ARE POWERED UP BY ETERNATUS’S ADVENTURE EFFECT
 RESOURCE ID: dynamax_cannon_adventure_effects_mapview_dialog
 TEXT: A surge of power emanates, adding a bonus to Max Moves of your Max Pokémon and Eternatus. Moves at Max Level will receive a significant bonus.
 
+RESOURCE ID: dynamax_cannon_ae_half_cost_bonus
+TEXT: 50% reduced cost to activate Eternatus’s Dynamax Cannon Adventure Effect
+
 RESOURCE ID: dynamic_punch+
 TEXT: Dynamic Punch+
 
@@ -33586,6 +33589,9 @@ TEXT: European Space Agency Event 2026 Timed Research (1/2)
 RESOURCE ID: esa_2026_tr_02
 TEXT: European Space Agency Event 2026 Timed Research (2/2)
 
+RESOURCE ID: eternatus_returns_event_title
+TEXT: Eternatus Returns
+
 RESOURCE ID: europe_international_championships_bonus_2024
 TEXT: 2024 Pokémon Europe International Championships – Bonus
 
@@ -34350,7 +34356,7 @@ TEXT: January 13, 10:00 a.m. –
 January 18, 8:00 p.m.
 
 RESOURCE ID: event_details_link_gowa_2026
-TEXT: Learn more about the ticket bonuses <a href=“https://pokemongo.com/gowildarea/global”>here</a>.
+TEXT: Learn more about the ticket bonuses <a href="https://pokemongo.com/gowildarea/global">here</a>.
 
 RESOURCE ID: event_evolve_cubone
 TEXT: Cubone can evolve into Alolan Marowak
@@ -35144,6 +35150,12 @@ TEXT: You can continue earning rewards. Let’s see how far you can get!
 RESOURCE ID: event_pass_additional_bonus_rank_divider_header
 TEXT: BONUS RANKS
 
+RESOURCE ID: event_pass_base_track_title_gowa_leadout_2026
+TEXT: GO Pass: Dynamax Trails
+
+RESOURCE ID: event_pass_details_link_gowa_leadout_2026
+TEXT: For more details, visit the <a href="https://pokemongo.com/news//dynamax-trails-eternamax-eternatus-2026">website</a>.
+
 RESOURCE ID: event_pass_event_ended
 TEXT: Event Ended
 
@@ -35276,6 +35288,13 @@ TEXT: Purchase GO Pass Deluxe: Into the Wild to unlock the following rewards:
 • One <a href="https://pokemongo.com/news/into-the-wild-2026/">Silver Bottle Cap</a>, which can be used to max one stat—Attack, Defense, or HP—on any Pokémon via Hyper Training
 • And much more!
 
+RESOURCE ID: event_pass_gowa_leadout_2026_event_duration
+TEXT: November 14 –
+November 23
+
+RESOURCE ID: event_pass_gowa_leadout_2026_upgrade_description
+TEXT: Purchase GO Pass Deluxe: Dynamax Trails to unlock additional rewards, including encounters with event-themed Dynamax Pokémon and more!
+
 RESOURCE ID: event_pass_micro_action_modal_title
 TEXT: How to Earn Points
 
@@ -35361,6 +35380,9 @@ TEXT: Timed Incubator
 
 RESOURCE ID: event_pass_premium_reward_banner_top_text
 TEXT: MILESTONE REWARD
+
+RESOURCE ID: event_pass_premium_track_title_gowa_leadout_2026
+TEXT: GO Pass Deluxe: Dynamax Trails
 
 RESOURCE ID: event_pass_rank_journal
 TEXT: {0} Rank {1} achieved.
@@ -37604,6 +37626,9 @@ TEXT: EGGS
 
 RESOURCE ID: fitness_weekly_goals_label
 TEXT: REWARDS
+
+RESOURCE ID: five_additional_candy_max_battle_bonus
+TEXT: Five additional Candy for completing Max Battles
 
 RESOURCE ID: five_free_raid_passes
 TEXT: Receive up to five Raid Passes at no cost by spinning Photo Discs at Gyms
@@ -49792,6 +49817,9 @@ TEXT: Poison
 
 RESOURCE ID: gowa_2025_deluxe_event_pass_track_unlock_plus_points_title
 TEXT: GO Pass Deluxe: Into the Wild + 10 Ranks
+
+RESOURCE ID: gowa_2026_leadout_event_title
+TEXT: Dynamax Trails
 
 RESOURCE ID: gowa
 TEXT: Pokémon GO Wild Area
@@ -63087,10 +63115,10 @@ at SHA 4d4f3e80cc7fb911006bd14d198c9831ef66d005
 Pipeline 339838, job 2672172
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-10-30T04:15:50.656594+00:00 for en-US
-at SHA 6ca489ee17b
-Pipeline 4063968, job 59931656
-Patch from: 0.437.0-SHA-d1d1a55c-RC2, 0.435.0-SHA-d5d32cc5-RC2, 0.433.1-SHA-0f52e3f0-RC1
+TEXT: Built at 2026-11-03T19:34:23.749057+00:00 for en-US
+at SHA 534885091ad
+Pipeline 4073493, job 60075419
+Patch from: 0.437.0-SHA-6174fcca-RC4, 0.435.98-SHA-b3319c4b-RC1
 
 RESOURCE ID: meteor_title_1
 TEXT: METEOR SHOWER
@@ -65041,6 +65069,9 @@ TEXT: While {0} is Mega Evolved, you’ll earn extra Candy, extra XP, and have a
 
 RESOURCE ID: mp_bonus_buff_desc_3
 TEXT: While {0} is Mega Evolved, you’ll earn extra Candy, extra XP, and have an increased chance of receiving Candy XL when you catch <b>{1}</b>-, <b>{2}</b>-, or <b>{3}</b>-type Pokémon.
+
+RESOURCE ID: mp_drop_chance_caught_bonus
+TEXT: Catching event-themed Pokémon may award Max Particles
 
 RESOURCE ID: mp_explore_quarter
 TEXT: 1/4 Adventuring distance to earn Max Particles
@@ -71455,6 +71486,9 @@ TEXT: Private Residential Property
 
 RESOURCE ID: poi_contrib_report_reason_school
 TEXT: School (K–12)
+
+RESOURCE ID: poi_contrib_report_reason_ai_generated_or_doctored_photo
+TEXT: AI-Generated or Doctored Photo
 
 RESOURCE ID: poi_contrib_report_reason_duplicate_custom
 TEXT: Duplicate {0}
@@ -86040,6 +86074,9 @@ TEXT: Catch {0} Fire-, Grass-, or Ground-type Pokémon
 
 RESOURCE ID: quest_catch_groudon_primal_boosted_types
 TEXT: Catch {0} Fire-, Grass-, or Ground-type Pokémon
+
+RESOURCE ID: quest_catch_hisuian_sliggoo_singular
+TEXT: Catch a Hisuian Sliggoo
 
 RESOURCE ID: quest_catch_hoenn_pokemon
 TEXT: Catch {0} Pokémon originally discovered in the Hoenn region
@@ -109437,6 +109474,9 @@ TEXT: Are you sure you want to flee?
 RESOURCE ID: raid_encounter_flee_warning_modal_body
 TEXT: If you flee from this Pokémon, you won’t be able to return.
 
+RESOURCE ID: raid_encounter_flee_warning_modal_confirm_button
+TEXT: FLEE
+
 RESOURCE ID: raid_enter_group_code
 TEXT: PRIVATE GROUP
 
@@ -112661,6 +112701,9 @@ TEXT: Ralts Community Day Continued Timed Research
 
 RESOURCE ID: rank
 TEXT: RANK
+
+RESOURCE ID: rank_16_event_pass_banner_bottom
+TEXT: Awarded at Rank 16
 
 RESOURCE ID: rare_background_disclaimer_text
 TEXT: This background can be displayed on your Trainer profile if this Pokémon is set as your buddy.
@@ -120774,14 +120817,14 @@ TEXT: A friend may be ineligible to receive paid gifts for the following reasons
 • You do not meet the minimum Friendship level requirement to give this friend a gift.
 
 RESOURCE ID: shop_gift_friend_ineligible_description_temp
-TEXT: You may not be able to send paid gifts—including items, tickets, and GO Pass Deluxes —to some friends. This can happen for the following reasons:
-
-• They already own the ticket or GO Pass Deluxe, or have reached the limit for an item in this gift
-• They may have active or completed research that prevents them from receiving tickets
-• Your friendship level is too low
-• They have disabled paid gifts
-• Their account is not eligible due to restrictions
-• Cross-currency gifting is not supported
+TEXT: You cannot send a paid gift if the recipient:
+• Already owns the ticket or GO Pass Deluxe
+• Has reached the limit for the item
+• Has active or completed research that prevents them from receiving the ticket
+• Is below the Friendship level requirement
+• Has disabled paid gifts
+• Has restrictions that make them ineligible
+• Uses a different currency; cross-currency gifting is not supported
 
 RESOURCE ID: shop_gift_invitation_title
 TEXT: INVITATION
@@ -121758,6 +121801,9 @@ TEXT: GO Wild Area Hatcher Box
 
 RESOURCE ID: sku.name.web-gowa-2024-box-3
 TEXT: GO Wild Area Ultimate Box
+
+RESOURCE ID: sku.name.web-gowa-2024-box-4
+TEXT: GO Wild Area Boost Box
 
 RESOURCE ID: sleep_duration_hr
 TEXT: 1 hr
@@ -129561,6 +129607,9 @@ TEXT: You’ll be able to get themed stickers by spinning PokéStops, opening Gi
 RESOURCE ID: themed_stickers_name
 TEXT: Themed Stickers
 
+RESOURCE ID: three_additional_candy_xl_max_battle_bonus
+TEXT: Three additional Candy XL for completing Max Battles
+
 RESOURCE ID: three_free_raid_passes
 TEXT: Receive up to three Raid Passes at no cost by spinning Photo Discs at Gyms
 
@@ -133220,6 +133269,9 @@ TEXT: A Wild Pursuit – Dragon
 RESOURCE ID: tr_gowa2026_poi_steel
 TEXT: A Wild Pursuit – Steel
 
+RESOURCE ID: tr_gowa2026_power_up_title
+TEXT: GO Wild Area: Gigantamax Machamp Power Up!
+
 RESOURCE ID: tr_hut_hut_title
 TEXT: Hut, Hut, Hike! Bonus Timed Research
 
@@ -135030,6 +135082,32 @@ TEXT: Up to 25% reduced Stardust cost for trades
 
 RESOURCE ID: twenty_percent_stardust_cost_trade_reduced_bonus
 TEXT: Up to 20% reduced Stardust cost for trades
+
+RESOURCE ID: twilight_trails_finale_event_name
+TEXT: Twilight Wishes
+
+RESOURCE ID: twilight_trails_finale_event_pass_title
+TEXT: GO Pass: Twilight Wishes
+
+RESOURCE ID: twilight_trails_finale_event_pass_duration
+TEXT: November 24 – November 30
+
+RESOURCE ID: twilight_trails_finale_event_pass_deluxe_title
+TEXT: GO Pass Deluxe: Twilight Wishes
+
+RESOURCE ID: twilight_trails_finale_event_pass_plus_six_levels_title
+TEXT: GO Pass Deluxe: Twilight Wishes + 6 Ranks
+
+RESOURCE ID: twilight_trails_finale_event_pass_upgrade_description
+TEXT: Purchase GO Pass Deluxe: Twilight Wishes to unlock the following rewards!
+
+ • Star Balloon Pose
+• 4 Premium Battle Passes
+• 4 Star Pieces
+• And much more!
+
+RESOURCE ID: twilight_trails_finale_event_pass_upgrade_header_description
+TEXT: Earn additional rewards and unlock the Star Balloon Pose at Rank 16!
 
 RESOURCE ID: two_free_raid_passes
 TEXT: Up to two free Raid Passes per day by spinning Gym Photo Discs

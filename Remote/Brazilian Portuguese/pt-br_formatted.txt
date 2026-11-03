@@ -32396,6 +32396,9 @@ TEXT: MOVIMENTOS MAX SÃO FORTALECIDOS PELO EFEITO DE AVENTURA DE ETERNATUS
 RESOURCE ID: dynamax_cannon_adventure_effects_mapview_dialog
 TEXT: Uma onda de energia emana, adicionando um bônus aos Movimentos Max dos seus Pokémon Max e Eternatus. Movimentos no Nível Máximo receberão um bônus significativo.
 
+RESOURCE ID: dynamax_cannon_ae_half_cost_bonus
+TEXT: Custo 50% menor para ativar o Efeito de Aventura Canhão Dinamax de Eternatus
+
 RESOURCE ID: dynamic_punch+
 TEXT: Soco Dinâmico+
 
@@ -33839,6 +33842,9 @@ TEXT: Pesquisa Temporária do Evento da Agência Espacial Europeia 2026 (1/2)
 
 RESOURCE ID: esa_2026_tr_02
 TEXT: Pesquisa Temporária do Evento da Agência Espacial Europeia 2026 (2/2)
+
+RESOURCE ID: eternatus_returns_event_title
+TEXT: O Retorno de Eternatus
 
 RESOURCE ID: europe_international_championships_bonus_2024
 TEXT: Campeonato Internacional Pokémon da Europa 2024: Bônus
@@ -35398,6 +35404,12 @@ TEXT: Você pode continuar recebendo recompensas. Vamos ver até onde você cons
 RESOURCE ID: event_pass_additional_bonus_rank_divider_header
 TEXT: RANQUES BÔNUS
 
+RESOURCE ID: event_pass_base_track_title_gowa_leadout_2026
+TEXT: Passe GO: Trilhas Dinamax
+
+RESOURCE ID: event_pass_details_link_gowa_leadout_2026
+TEXT: Para mais informações, visite o <a href="https://pokemongo.com/news//dynamax-trails-eternamax-eternatus-2026">site</a>.
+
 RESOURCE ID: event_pass_event_ended
 TEXT: Evento encerrado
 
@@ -35530,6 +35542,13 @@ TEXT: Compre o Passe GO Deluxe: Natureza Selvagem para desbloquear as seguintes 
 • Uma <a href="https://pokemongo.com/news/into-the-wild-2026/">Tampinha Prateada</a>, que pode ser usada para aumentar ao máximo um dado, Ataque, Defesa ou PS, de qualquer Pokémon por meio do Hipertreinamento
 • E muito mais!
 
+RESOURCE ID: event_pass_gowa_leadout_2026_event_duration
+TEXT: 14 de novembro –
+23 de novembro
+
+RESOURCE ID: event_pass_gowa_leadout_2026_upgrade_description
+TEXT: Compre o Passe GO Deluxe: Trilhas Dinamax para desbloquear recompensas adicionais, incluindo encontros com Pokémon Dinamax temáticos do evento e muito mais!
+
 RESOURCE ID: event_pass_micro_action_modal_title
 TEXT: Como ganhar pontos
 
@@ -35615,6 +35634,9 @@ TEXT: Incubadora Temporária
 
 RESOURCE ID: event_pass_premium_reward_banner_top_text
 TEXT: RECOMPENSA POR CONQUISTA
+
+RESOURCE ID: event_pass_premium_track_title_gowa_leadout_2026
+TEXT: Passe GO Deluxe: Trilhas Dinamax
 
 RESOURCE ID: event_pass_rank_journal
 TEXT: Ranque {1} de {0} alcançado.
@@ -37876,6 +37898,9 @@ TEXT: EGGS
 
 RESOURCE ID: fitness_weekly_goals_label
 TEXT: RECOMPENSAS
+
+RESOURCE ID: five_additional_candy_max_battle_bonus
+TEXT: 5 Doces adicionais por completar Batalhas Max
 
 RESOURCE ID: five_free_raid_passes
 TEXT: Receba até cinco Passes de Reide grátis ao girar fotodiscos de Ginásios.
@@ -50086,6 +50111,9 @@ TEXT: Venenoso
 
 RESOURCE ID: gowa_2025_deluxe_event_pass_track_unlock_plus_points_title
 TEXT: Passe GO Deluxe: Natureza Selvagem + 10 Ranques
+
+RESOURCE ID: gowa_2026_leadout_event_title
+TEXT: Trilhas Dinamax
 
 RESOURCE ID: gowa
 TEXT: Área Selvagem do Pokémon GO
@@ -63392,10 +63420,10 @@ at SHA 4d4f3e80cc7fb911006bd14d198c9831ef66d005
 Pipeline 339838, job 2672172
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-10-30T04:15:50.656594+00:00 for pt-BR
-at SHA 6ca489ee17b
-Pipeline 4063968, job 59931656
-Patch from: 0.437.0-SHA-d1d1a55c-RC2, 0.435.0-SHA-d5d32cc5-RC2, 0.433.1-SHA-0f52e3f0-RC1
+TEXT: Built at 2026-11-03T19:34:23.749057+00:00 for pt-BR
+at SHA 534885091ad
+Pipeline 4073493, job 60075419
+Patch from: 0.437.0-SHA-6174fcca-RC4, 0.435.98-SHA-b3319c4b-RC1
 
 RESOURCE ID: meteor_title_1
 TEXT: CHUVA DE METEOROS
@@ -65346,6 +65374,9 @@ TEXT: Enquanto {0} estiver Megaevoluído, você receberá doces e PE extras e au
 
 RESOURCE ID: mp_bonus_buff_desc_3
 TEXT: Enquanto {0} estiver Megaevoluído, você receberá doces e PE extras e aumentará sua chance de receber doces GG ao capturar Pokémon de tipo  <b>{1}</b>-, <b>{2}</b>- ou <b>{3}</b>-.
+
+RESOURCE ID: mp_drop_chance_caught_bonus
+TEXT: Pegar Pokémon temáticos de evento pode conceder Partículas Max
 
 RESOURCE ID: mp_explore_quarter
 TEXT: 1/4 da distância para receber Partículas Max
@@ -71770,6 +71801,9 @@ TEXT: Propriedade privada residencial
 
 RESOURCE ID: poi_contrib_report_reason_school
 TEXT: Escola
+
+RESOURCE ID: poi_contrib_report_reason_ai_generated_or_doctored_photo
+TEXT: AI-Generated or Doctored Photo
 
 RESOURCE ID: poi_contrib_report_reason_duplicate_custom
 TEXT: {0} já existe
@@ -86356,6 +86390,9 @@ TEXT: Pegar {0} Pokémon de tipo Fogo, Planta ou Terrestre.
 
 RESOURCE ID: quest_catch_groudon_primal_boosted_types
 TEXT: Pegar {0} Pokémon de tipo Fogo, Planta ou Terrestre.
+
+RESOURCE ID: quest_catch_hisuian_sliggoo_singular
+TEXT: Pegar um Sliggoo de Hisui.
 
 RESOURCE ID: quest_catch_hoenn_pokemon
 TEXT: Pegar {0} Pokémon originalmente descobertos na região de Hoenn.
@@ -109779,6 +109816,9 @@ TEXT: Tem certeza de que deseja fugir?
 RESOURCE ID: raid_encounter_flee_warning_modal_body
 TEXT: Se você fugir deste Pokémon, não poderá voltar.
 
+RESOURCE ID: raid_encounter_flee_warning_modal_confirm_button
+TEXT: FUGIR
+
 RESOURCE ID: raid_enter_group_code
 TEXT: Grupo Privado
 
@@ -113003,6 +113043,9 @@ TEXT: Continuação do Dia Comunitário (Pesquisa Temporária) de Ralts
 
 RESOURCE ID: rank
 TEXT: RANQUE
+
+RESOURCE ID: rank_16_event_pass_banner_bottom
+TEXT: Concedida no Ranque 16
 
 RESOURCE ID: rare_background_disclaimer_text
 TEXT: Este fundo pode ser exibido no seu perfil de Treinador se este Pokémon for escolhido como seu companheiro.
@@ -122099,6 +122142,9 @@ TEXT: Combo de Incubadoras da Área Selvagem GO
 RESOURCE ID: sku.name.web-gowa-2024-box-3
 TEXT: Combo Supremo da Área Selvagem GO
 
+RESOURCE ID: sku.name.web-gowa-2024-box-4
+TEXT: Combo de Apoio da Área Selvagem GO
+
 RESOURCE ID: sleep_duration_hr
 TEXT: 1 hr
 
@@ -129897,6 +129943,9 @@ TEXT: Você poderá obter adesivos temáticos de eventos girando Poképaradas, a
 RESOURCE ID: themed_stickers_name
 TEXT: Adesivos temáticos
 
+RESOURCE ID: three_additional_candy_xl_max_battle_bonus
+TEXT: 3 Doces GG adicionais por completar Batalhas Max
+
 RESOURCE ID: three_free_raid_passes
 TEXT: Receba até três Passes de Reide grátis ao girar fotodiscos de Ginásios.
 
@@ -133544,6 +133593,9 @@ TEXT: Perseguição Selvagem – Dragão
 RESOURCE ID: tr_gowa2026_poi_steel
 TEXT: Perseguição Selvagem – Aço
 
+RESOURCE ID: tr_gowa2026_power_up_title
+TEXT: Área Selvagem GO: Fortalecimento de Machamp Gigamax
+
 RESOURCE ID: tr_hut_hut_title
 TEXT: Pesquisa Temporária Bônus de Kickoff
 
@@ -135353,6 +135405,32 @@ TEXT: Até 25% de redução no custo de Poeira Estelar para trocas
 
 RESOURCE ID: twenty_percent_stardust_cost_trade_reduced_bonus
 TEXT: Até 20% de redução no custo de Poeira Estelar para trocas
+
+RESOURCE ID: twilight_trails_finale_event_name
+TEXT: Chamados do Crepúsculo
+
+RESOURCE ID: twilight_trails_finale_event_pass_title
+TEXT: Passe GO: Chamados do Crepúsculo
+
+RESOURCE ID: twilight_trails_finale_event_pass_duration
+TEXT: 24 de novembro – 30 de novembro
+
+RESOURCE ID: twilight_trails_finale_event_pass_deluxe_title
+TEXT: Passe GO Deluxe: Chamados do Crepúsculo
+
+RESOURCE ID: twilight_trails_finale_event_pass_plus_six_levels_title
+TEXT: Passe GO Deluxe: Chamados do Crepúsculo + 6 Ranques
+
+RESOURCE ID: twilight_trails_finale_event_pass_upgrade_description
+TEXT: Compre o Passe GO Deluxe: Chamados do Crepúsculo para desbloquear as seguintes recompensas!
+
+ • Pose com Balão de Estrela
+• 4 Passes de Batalha Premium
+• 4 Pedaços de Estrela
+• E muito mais!
+
+RESOURCE ID: twilight_trails_finale_event_pass_upgrade_header_description
+TEXT: Ganhe recompensas adicionais e desbloqueie a Pose com Balão de Estrela no Ranque 16!
 
 RESOURCE ID: two_free_raid_passes
 TEXT: Até 2 Passes de Reide gratuitos por dia ao girar fotodiscos de Ginásios
