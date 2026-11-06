@@ -32313,7 +32313,7 @@ RESOURCE ID: downloading_avatar_assets_warning_body
 TEXT: Si è verificato un problema durante il download delle risorse. Assicurati di avere una connessione di rete stabile e riavvia il gioco.
 
 RESOURCE ID: dragon_poi_spin_plural
-TEXT: Fai girare i dischi di {0} Pokéstop a tema Pokémon di tipo Drago
+TEXT: Fai girare i dischi di {0} diversi Pokéstop a tema Pokémon di tipo Drago
 
 RESOURCE ID: dragon_poi_spin_singular
 TEXT: Fai girare il disco di un Pokéstop a tema Pokémon di tipo Drago
@@ -63378,10 +63378,10 @@ at SHA 4d4f3e80cc7fb911006bd14d198c9831ef66d005
 Pipeline 339838, job 2672172
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-11-03T19:34:23.749057+00:00 for it-IT
-at SHA 534885091ad
-Pipeline 4073493, job 60075419
-Patch from: 0.437.0-SHA-6174fcca-RC4, 0.435.98-SHA-b3319c4b-RC1
+TEXT: Built at 2026-11-06T00:56:32.081142+00:00 for it-IT
+at SHA c36620063aca
+Pipeline 4080589, job 60204301
+Patch from: 0.437.0-SHA-2396e31c-RC3, 0.435.98-SHA-b3319c4b-RC1
 
 RESOURCE ID: meteor_title_1
 TEXT: PIOGGIA DI METEORE
@@ -69506,6 +69506,9 @@ TEXT: VAI ALLA BORSA
 RESOURCE ID: paid_gift_already_purchased_modal_message
 TEXT: Puoi inviarlo dalla tua Borsa.
 
+RESOURCE ID: paid_gift_friend_ineligible_learn_more_url
+TEXT: https://scopelyexplore.helpshift.com/hc/faq/2591-how-can-i-purchase-items-as-gifts-for-friends/
+
 RESOURCE ID: paid_gift_regift_no_longer_available_modal_title
 TEXT: Errore nell’invio del regalo
 
@@ -71755,7 +71758,7 @@ RESOURCE ID: poi_contrib_report_reason_school
 TEXT: Scuola
 
 RESOURCE ID: poi_contrib_report_reason_ai_generated_or_doctored_photo
-TEXT: AI-Generated or Doctored Photo
+TEXT: Foto generata o manipolata con l’IA
 
 RESOURCE ID: poi_contrib_report_reason_duplicate_custom
 TEXT: {0} già esistente
@@ -125973,7 +125976,7 @@ RESOURCE ID: steel_and_scales_event_name
 TEXT: Sblocco dell’ultrabonus dell’evento “Squame e acciaio”
 
 RESOURCE ID: steel_poi_spin_plural
-TEXT: Fai girare i dischi di {0} Pokéstop a tema Pokémon di tipo Acciaio
+TEXT: Fai girare i dischi di {0} diversi Pokéstop a tema Pokémon di tipo Acciaio
 
 RESOURCE ID: steel_poi_spin_singular
 TEXT: Fai girare il disco di un Pokéstop a tema Pokémon di tipo Acciaio

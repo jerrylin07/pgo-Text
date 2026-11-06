@@ -30057,7 +30057,7 @@ RESOURCE ID: downloading_avatar_assets_warning_body
 TEXT: Hubo un problema al descargar los archivos. Asegúrate de tener una conexión de red estable y reinicia el juego.
 
 RESOURCE ID: dragon_poi_spin_plural
-TEXT: Gira {0} fotodiscos en una Poképarada con temática de tipo Dragón
+TEXT: Gira {0} fotodiscos diferentes en Poképaradas con temática de tipo Dragón
 
 RESOURCE ID: dragon_poi_spin_singular
 TEXT: Gira un fotodisco en una Poképarada con temática de tipo Dragón
@@ -60919,10 +60919,10 @@ at SHA 0b3915937aff7
 Pipeline 2177475, job 26434025
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-11-03T19:34:23.749057+00:00 for es-MX
-at SHA 534885091ad
-Pipeline 4073493, job 60075419
-Patch from: 0.437.0-SHA-6174fcca-RC4, 0.435.98-SHA-b3319c4b-RC1
+TEXT: Built at 2026-11-06T00:56:32.081142+00:00 for es-MX
+at SHA c36620063aca
+Pipeline 4080589, job 60204301
+Patch from: 0.437.0-SHA-2396e31c-RC3, 0.435.98-SHA-b3319c4b-RC1
 
 RESOURCE ID: meteor_title_1
 TEXT: LLUVIA DE METEOROS
@@ -66994,6 +66994,9 @@ TEXT: IR A LA BOLSA
 
 RESOURCE ID: paid_gift_already_purchased_modal_message
 TEXT: Puedes enviarlo desde tu Bolsa.
+
+RESOURCE ID: paid_gift_friend_ineligible_learn_more_url
+TEXT: https://scopelyexplore.helpshift.com/hc/faq/2591-how-can-i-purchase-items-as-gifts-for-friends/
 
 RESOURCE ID: paid_gift_regift_no_longer_available_modal_title
 TEXT: Error en el regalo
@@ -110203,7 +110206,7 @@ RESOURCE ID: rally_sendai_2026_desc_detail
 TEXT: ¡Colecciona sellos visitando las Poképaradas de la Búsqueda de sellos GO en un histórico recorrido por la región de Sendai • Tohoku!
 
 RESOURCE ID: rally_sendai_2026_location
-TEXT: Sendai, Tohoku, Japón
+TEXT: Sendai • Tohoku, Japón
 
 RESOURCE ID: rally_sendai_2026_rewards_desc
 TEXT: Encuéntrate con Lapras con un fondo de la ubicación de Sendai durante esta Búsqueda de sellos.
@@ -122774,7 +122777,7 @@ RESOURCE ID: steel_and_scales_event_name
 TEXT: Ultrabonificación: Acero y escamas
 
 RESOURCE ID: steel_poi_spin_plural
-TEXT: Gira {0} fotodiscos en una Poképarada con temática de tipo Acero
+TEXT: Gira {0} fotodiscos diferentes en Poképaradas con temática de tipo Acero
 
 RESOURCE ID: steel_poi_spin_singular
 TEXT: Gira un fotodisco en una Poképarada con temática de tipo Acero

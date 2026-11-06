@@ -32370,7 +32370,7 @@ RESOURCE ID: downloading_avatar_assets_warning_body
 TEXT: アセットのダウンロード中に問題が発生しました。通信状態を確認してゲームを再起動してください。
 
 RESOURCE ID: dragon_poi_spin_plural
-TEXT: ドラゴンタイプテーマのポケストップ{0}個を回す
+TEXT: 違うドラゴンタイプテーマのポケストップ{0}個を回す
 
 RESOURCE ID: dragon_poi_spin_singular
 TEXT: ドラゴンタイプテーマのポケストップを回す
@@ -63361,10 +63361,10 @@ at SHA 4d4f3e80cc7fb911006bd14d198c9831ef66d005
 Pipeline 339838, job 2672172
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-11-03T19:34:23.749057+00:00 for ja-JP
-at SHA 534885091ad
-Pipeline 4073493, job 60075419
-Patch from: 0.437.0-SHA-6174fcca-RC4, 0.435.98-SHA-b3319c4b-RC1
+TEXT: Built at 2026-11-06T00:56:32.081142+00:00 for ja-JP
+at SHA c36620063aca
+Pipeline 4080589, job 60204301
+Patch from: 0.437.0-SHA-2396e31c-RC3, 0.435.98-SHA-b3319c4b-RC1
 
 RESOURCE ID: meteor_title_1
 TEXT: 流星群
@@ -69612,6 +69612,9 @@ TEXT: 道具バッグへ
 RESOURCE ID: paid_gift_already_purchased_modal_message
 TEXT: 道具バッグから送ることができます
 
+RESOURCE ID: paid_gift_friend_ineligible_learn_more_url
+TEXT: https://scopelyexplore.helpshift.com/hc/faq/2591-how-can-i-purchase-items-as-gifts-for-friends/
+
 RESOURCE ID: paid_gift_regift_no_longer_available_modal_title
 TEXT: エラー発生
 
@@ -70616,7 +70619,7 @@ RESOURCE ID: pause_gift_list_prompt_title
 TEXT: 有料プレゼント受領を停止しますか？
 
 RESOURCE ID: pause_gift_list_prompt_desc
-TEXT: 以下のフレンドはあなたに有料ギフトを送ることができなくなります。あとからいつでも再開できます。
+TEXT: 以下のフレンドはあなたに有料プレゼントを送ることができなくなります。あとからいつでも再開できます。
 
 RESOURCE ID: pause_gift_list_prompt_button_label
 TEXT: はい、停止します
@@ -109849,7 +109852,7 @@ RESOURCE ID: raid_encounter_flee_warning_modal_body
 TEXT: このポケモンから逃げると、戻って捕まえることはできません。
 
 RESOURCE ID: raid_encounter_flee_warning_modal_confirm_button
-TEXT: FLEE
+TEXT: 逃げる
 
 RESOURCE ID: raid_enter_group_code
 TEXT: グループコード入力
@@ -121205,21 +121208,23 @@ RESOURCE ID: shop_gift_friend_ineligible_title
 TEXT: チケットが贈れません
 
 RESOURCE ID: shop_gift_friend_ineligible_description
-TEXT: 以下の理由でフレンドが有料ギフトを受け取ることができないことがあります。
-• すでにチケットを持っている
-• 他の人がチケットを贈った
-•ギフトを贈るための仲良し度に達していない
+TEXT: 以下の理由でフレンドが有料プレゼントを受け取ることができないことがあります。
+・すでにチケットを持っている
+・対象リサーチやチャレンジを進行中か完了している
+ ・他の人がチケットを贈った
+・仲良し度が低い
+・有料プレゼントを受け取らない設定にしている
 
 RESOURCE ID: shop_gift_friend_ineligible_description_temp
 TEXT: 贈る相手が以下の理由によりプレゼントを受け取れない場合があります。
 
 ・チケットやGOパスデラックスを自分で購入している
-・上限に達していて追加できない
+・上限まで保持しているアイテム
 ・進行中または完了済みリサーチなどに関連して受け取れない
 ・仲良し度が低い
-・有料ギフトの受領をオフにしている
+・有料プレゼントの受領をオフにしている
 ・制限のかかったアカウントである
-・異なる貨幣をまたぐ贈答ができない
+・異なる貨幣をまたぐ贈答
 
 RESOURCE ID: shop_gift_invitation_title
 TEXT: 招待
@@ -121280,19 +121285,19 @@ RESOURCE ID: shop_gift_purchase_select_friend
 TEXT: フレンドを選ぶ
 
 RESOURCE ID: shop_gift_purchase_user_limit_title
-TEXT: 有料ギフト上限
+TEXT: 有料プレゼント上限
 
 RESOURCE ID: shop_gift_purchase_user_limit_description
-TEXT: 一日に贈ることができる有料ギフトは{0}個です。明日また贈ることができます。
+TEXT: 一日に贈ることができる有料プレゼントは{0}個です。明日また贈ることができます。
 
-過剰な贈答や偽造ギフトを防ぐため上限を設けています。
+ 過剰な贈答や偽造ギフトを防ぐため上限を設けています。
 
 RESOURCE ID: shop_gift_purchase_user_max_limit_title
-TEXT: 有料ギフト上限
+TEXT: 有料プレゼント上限
 
 RESOURCE ID: shop_gift_purchase_user_max_limit_description
 TEXT: このイベントのプレゼント用チケットを{0}枚まで購入できます。
-過剰な贈答や偽造ギフトを防ぐため上限を設けています。
+ 過剰な贈答や偽造プレゼントを防ぐため上限を設けています。
 
 RESOURCE ID: shop_gift_received_notification
 TEXT: {0}さんからイベントチケットのプレゼントが届きました！
@@ -121308,14 +121313,14 @@ RESOURCE ID: shop_gifting_policy_modal_title
 TEXT: 贈答ポリシー
 
 RESOURCE ID: shop_gifting_policy_modal_description
-TEXT: •フレンドのために購入したギフトは返金の対象外です。
-• 贈ったあとにキャンセルできません。
-• 有料ギフトの一日の上限数は{0}個です。
+TEXT: •フレンドのために購入したプレゼントは返金の対象外です。
+ • 贈ったあとにキャンセルできません。
+ • 有料プレゼントの一日の上限数は{0}個です。
 
 RESOURCE ID: shop_gifting_policy_modal_description_limited
-TEXT: •フレンドのために購入したギフトは返金できません。
-•贈ったあとにキャンセルできません。
-•贈ることができるこのイベントの有料ギフト上限数は{0}個です。
+TEXT: •フレンドのために購入したプレゼントは返金の対象外です。
+ •贈ったあとにキャンセルできません。
+ •贈ることができるこのイベントの有料プレゼント上限数は{0}個です。
 
 RESOURCE ID: shop_inventory_full
 TEXT: 道具がいっぱいです！
@@ -126088,7 +126093,7 @@ RESOURCE ID: steel_and_scales_event_name
 TEXT: ウルトラアンロック：ハガネ＆ウロコ
 
 RESOURCE ID: steel_poi_spin_plural
-TEXT: はがねタイプテーマのポケストップ{0}個を回す
+TEXT: 違うはがねタイプテーマのポケストップ{0}個を回す
 
 RESOURCE ID: steel_poi_spin_singular
 TEXT: ハガネタイプテーマのポケストップを回す

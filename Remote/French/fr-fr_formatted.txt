@@ -32302,7 +32302,7 @@ RESOURCE ID: downloading_avatar_assets_warning_body
 TEXT: Une erreur s'est produite en téléchargeant les ressources. Assure-toi que ta connexion est stable et redémarre le jeu.
 
 RESOURCE ID: dragon_poi_spin_plural
-TEXT: Fais tourner {0} PokéStops sur le thème des Pokémon de type Dragon
+TEXT: Fais tourner {0} PokéStops différents sur le thème des Pokémon de type Dragon
 
 RESOURCE ID: dragon_poi_spin_singular
 TEXT: Fais tourner un PokéStop sur le thème des Pokémon de type Dragon
@@ -63365,10 +63365,10 @@ at SHA 4d4f3e80cc7fb911006bd14d198c9831ef66d005
 Pipeline 339838, job 2672172
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-11-03T19:34:23.749057+00:00 for fr-FR
-at SHA 534885091ad
-Pipeline 4073493, job 60075419
-Patch from: 0.437.0-SHA-6174fcca-RC4, 0.435.98-SHA-b3319c4b-RC1
+TEXT: Built at 2026-11-06T00:56:32.081142+00:00 for fr-FR
+at SHA c36620063aca
+Pipeline 4080589, job 60204301
+Patch from: 0.437.0-SHA-2396e31c-RC3, 0.435.98-SHA-b3319c4b-RC1
 
 RESOURCE ID: meteor_title_1
 TEXT: PLUIE DE MÉTÉORES
@@ -69495,6 +69495,9 @@ TEXT: OUVRIR LE SAC D’OBJETS
 RESOURCE ID: paid_gift_already_purchased_modal_message
 TEXT: Tu peux l’envoyer depuis ton sac d’objets.
 
+RESOURCE ID: paid_gift_friend_ineligible_learn_more_url
+TEXT: https://scopelyexplore.helpshift.com/hc/faq/2591-how-can-i-purchase-items-as-gifts-for-friends/
+
 RESOURCE ID: paid_gift_regift_no_longer_available_modal_title
 TEXT: Erreur
 
@@ -71744,7 +71747,7 @@ RESOURCE ID: poi_contrib_report_reason_school
 TEXT: École (maternelle – lycée)
 
 RESOURCE ID: poi_contrib_report_reason_ai_generated_or_doctored_photo
-TEXT: AI-Generated or Doctored Photo
+TEXT: Photo générée ou altérée par l’IA
 
 RESOURCE ID: poi_contrib_report_reason_duplicate_custom
 TEXT: {0} en double
@@ -125957,7 +125960,7 @@ RESOURCE ID: steel_and_scales_event_name
 TEXT: Ultra Bonus : D'acier et d’écailles
 
 RESOURCE ID: steel_poi_spin_plural
-TEXT: Fais tourner {0} PokéStops sur le thème des Pokémon de type Acier
+TEXT: Fais tourner {0} PokéStops différents sur le thème des Pokémon de type Acier
 
 RESOURCE ID: steel_poi_spin_singular
 TEXT: Fais tourner un PokéStop sur le thème des Pokémon de type Acier

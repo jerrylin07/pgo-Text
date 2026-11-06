@@ -32632,7 +32632,7 @@ RESOURCE ID: downloading_avatar_assets_warning_body
 TEXT: Es gab ein Problem beim Herunterladen der Inhalte. Bitte überprüfe deine Internetverbindung und starte das Spiel neu.
 
 RESOURCE ID: dragon_poi_spin_plural
-TEXT: Drehe {0} Drachen-PokéStops.
+TEXT: Drehe {0} verschiedene Drachen-PokéStops.
 
 RESOURCE ID: dragon_poi_spin_singular
 TEXT: Drehe einen Drachen-PokéStop.
@@ -34124,10 +34124,10 @@ RESOURCE ID: esa_2026_tr_title
 TEXT: Befristete Forschung: European Space Agency Event 2026
 
 RESOURCE ID: esa_2026_tr_01
-TEXT: Befristete Forschung: European Space Agency Event 2026 (1/ 2)
+TEXT: Befristete Forschung: European Space Agency Event 2026 (1/2)
 
 RESOURCE ID: esa_2026_tr_02
-TEXT: Befristete Forschung: European Space Agency Event 2026 (2/ 2)
+TEXT: Befristete Forschung: European Space Agency Event 2026 (2/2)
 
 RESOURCE ID: eternatus_returns_event_title
 TEXT: Endynalos kehrt zurück
@@ -63714,10 +63714,10 @@ at SHA 4d4f3e80cc7fb911006bd14d198c9831ef66d005
 Pipeline 339838, job 2672172
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-11-03T19:34:23.749057+00:00 for de-DE
-at SHA 534885091ad
-Pipeline 4073493, job 60075419
-Patch from: 0.437.0-SHA-6174fcca-RC4, 0.435.98-SHA-b3319c4b-RC1
+TEXT: Built at 2026-11-06T00:56:32.081142+00:00 for de-DE
+at SHA c36620063aca
+Pipeline 4080589, job 60204301
+Patch from: 0.437.0-SHA-2396e31c-RC3, 0.435.98-SHA-b3319c4b-RC1
 
 RESOURCE ID: meteor_title_1
 TEXT: METEORSCHAUER
@@ -69847,6 +69847,9 @@ TEXT: ZUM INVENTAR
 RESOURCE ID: paid_gift_already_purchased_modal_message
 TEXT: Du kannst es aus deinem Inventar verschicken.
 
+RESOURCE ID: paid_gift_friend_ineligible_learn_more_url
+TEXT: https://scopelyexplore.helpshift.com/hc/faq/2591-how-can-i-purchase-items-as-gifts-for-friends/
+
 RESOURCE ID: paid_gift_regift_no_longer_available_modal_title
 TEXT: Geschenke-Problem
 
@@ -72096,7 +72099,7 @@ RESOURCE ID: poi_contrib_report_reason_school
 TEXT: Schule (K–12)
 
 RESOURCE ID: poi_contrib_report_reason_ai_generated_or_doctored_photo
-TEXT: AI-Generated or Doctored Photo
+TEXT: KI-generiertes oder manipuliertes Foto
 
 RESOURCE ID: poi_contrib_report_reason_duplicate_custom
 TEXT: {0} duplizieren
@@ -120101,7 +120104,7 @@ RESOURCE ID: select_a_pokemon
 TEXT: Wähle ein Pokémon
 
 RESOURCE ID: select_a_paid_gift
-TEXT: Select a paid gift to send to your friend
+TEXT: Wähle ein gekauftes Geschenk aus, das du deinem Freund schicken möchtest.
 
 RESOURCE ID: select_gift_to_delete_prompt
 TEXT: Wähle Geschenke zum Entfernen aus.
@@ -120146,7 +120149,7 @@ RESOURCE ID: send_video_ad_report_button
 TEXT: MELDUNG EINREICHEN
 
 RESOURCE ID: sending_paid_gift_to
-TEXT: You are sending this paid gift to:
+TEXT: Du schickst dieses gekaufte Geschenk an:
 
 RESOURCE ID: sent_friend_error_toast
 TEXT: Der Trainer hat das tägliche Limit an Fern-Dyna-Kämpfen und Fern-Raids erreicht.
@@ -121458,14 +121461,14 @@ TEXT: Einige Freunde können eventuell aus folgenden Gründen keine bezahlten Ge
 • Du erfüllst nicht den erforderlichen Freundschaftslevel, um diesem Freund ein Geschenk zu kaufen.
 
 RESOURCE ID: shop_gift_friend_ineligible_description_temp
-TEXT: Du kannst einigen Freunden möglicherweise keine gekauften Geschenke wie Items, Tickets und Event-Pässe schicken. Dies kann folgende Gründe haben:
-
-• Dein Freund besitzt das Ticket oder den Event-Pass bereits oder hat das Geschenk bereits von jemand anderem erhalten.
-• Dein Freund hat möglicherweise eine aktive oder abgeschlossene Forschung, die den Erhalt von Tickets verhindert.
-• Der Freundschaftslevel ist zu niedrig.
-• Dein Freund hat gekaufte Geschenke deaktiviert.
-• Das Konto deines Freundes ist aufgrund von Einschränkungen nicht berechtigt.
-• Das Verschenken zwischen verschiedenen Währungen wird nicht unterstützt.
+TEXT: Du kannst kein gekauftes Geschenk versenden, wenn der Empfänger:
+• das Ticket oder den GO-Pass-Deluxe bereits besitzt
+• das Limit für dieses Item erreicht hat
+• eine Forschung hat, die den Erhalt von Tickets verhindert
+• den Freundschaftslevel noch nicht erreicht hat
+• gekaufte Geschenke deaktiviert hat
+• Einschränkungen hat, die ihn nicht berechtigen
+• eine andere Währung verwendet (nicht unterstützt)
 
 RESOURCE ID: shop_gift_invitation_title
 TEXT: EINLADUNG
@@ -126314,7 +126317,7 @@ RESOURCE ID: steel_and_scales_event_name
 TEXT: Hyperbonus: Stahl und Schuppen
 
 RESOURCE ID: steel_poi_spin_plural
-TEXT: Drehe {0} Stahl-PokéStops.
+TEXT: Drehe {0} verschiedene Stahl-PokéStops.
 
 RESOURCE ID: steel_poi_spin_singular
 TEXT: Drehe einen Stahl-PokéStop.

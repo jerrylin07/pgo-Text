@@ -32092,7 +32092,7 @@ RESOURCE ID: downloading_avatar_assets_warning_body
 TEXT: There was an issue downloading assets. Please ensure you have stable network access and restart the game.
 
 RESOURCE ID: dragon_poi_spin_plural
-TEXT: Spin {0} Dragon type–themed PokéStops
+TEXT: Spin {0} different Dragon type–themed PokéStops
 
 RESOURCE ID: dragon_poi_spin_singular
 TEXT: Spin a Dragon type–themed PokéStop
@@ -63115,10 +63115,10 @@ at SHA 4d4f3e80cc7fb911006bd14d198c9831ef66d005
 Pipeline 339838, job 2672172
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-11-03T19:34:23.749057+00:00 for en-US
-at SHA 534885091ad
-Pipeline 4073493, job 60075419
-Patch from: 0.437.0-SHA-6174fcca-RC4, 0.435.98-SHA-b3319c4b-RC1
+TEXT: Built at 2026-11-06T00:56:32.081142+00:00 for en-US
+at SHA c36620063aca
+Pipeline 4080589, job 60204301
+Patch from: 0.437.0-SHA-2396e31c-RC3, 0.435.98-SHA-b3319c4b-RC1
 
 RESOURCE ID: meteor_title_1
 TEXT: METEOR SHOWER
@@ -69240,6 +69240,9 @@ TEXT: GO TO INVENTORY
 
 RESOURCE ID: paid_gift_already_purchased_modal_message
 TEXT: You can send it from your inventory.
+
+RESOURCE ID: paid_gift_friend_ineligible_learn_more_url
+TEXT: https://scopelyexplore.helpshift.com/hc/faq/2591-how-can-i-purchase-items-as-gifts-for-friends/
 
 RESOURCE ID: paid_gift_regift_no_longer_available_modal_title
 TEXT: Gifting Error
@@ -125679,7 +125682,7 @@ RESOURCE ID: steel_and_scales_event_name
 TEXT: Ultra Unlock: Steel and Scales
 
 RESOURCE ID: steel_poi_spin_plural
-TEXT: Spin {0} Steel type–themed PokéStops
+TEXT: Spin {0} different Steel type–themed PokéStops
 
 RESOURCE ID: steel_poi_spin_singular
 TEXT: Spin a Steel type–themed PokéStop

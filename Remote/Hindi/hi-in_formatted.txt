@@ -21935,7 +21935,7 @@ RESOURCE ID: buddy_monodepth_modal_turn_off_button
 TEXT: Scopely Explore AR Platform (ट्रायल) को बंद करें
 
 RESOURCE ID: buddy_multilplayer_qr_display_header
-TEXT: पार्टनर ग्रुप QR कोड
+TEXT: पार्टनर ग्रुप 2D कोड
 
 RESOURCE ID: buddy_multiplayer_quit
 TEXT: क्या आपको यह सेशन छोड़कर जाना है?
@@ -21944,7 +21944,7 @@ RESOURCE ID: buddy_multiplayer_connection_error
 TEXT: कनेक्शन नहीं हो सका
 
 RESOURCE ID: buddy_multiplayer_create_session
-TEXT: ग्रुप QR कोड बनाएं
+TEXT: ग्रुप का 2D कोड बनाएं
 
 RESOURCE ID: buddy_multiplayer_deploy_invalid_position
 TEXT: ज़्यादा बड़ी सपाट जगह ढूंढने की कोशिश करें।
@@ -22026,7 +22026,7 @@ RESOURCE ID: buddy_multiplayer_lobby_body_peer
 TEXT: ग्रुप लीडर से छिपने की जगह ढूंढने का निर्देश लें।
 
 RESOURCE ID: buddy_multiplayer_mapping_timeout
-TEXT: कोई एक्टिविटी न होने की वजह से मौजूदा पार्टनर ग्रुप बंद हो गया है। जारी रखने के लिए, कृपया ग्रुप QR कोड स्कैन करके फिर से कोशिश करें।
+TEXT: कोई गतविधिि न होने के कारण यह पार्टनर ग्रुप बंद हो गया है। जारी रखने के लिए, कृपया ग्रुप का 2D कोड स्कैन करके फरि से प्रयास करें।
 
 RESOURCE ID: buddy_multiplayer_peer_cannot_exit_group_photo
 TEXT: {0} इस समय फ़ोटो लीडर हैं। {0} से ग्रुप फ़ोटो मोड बंद करने के लिए कहें।
@@ -22053,7 +22053,7 @@ RESOURCE ID: buddy_multiplayer_player_count_can_join_singular
 TEXT: 1 और ट्रेनर शामिल हो सकते हैं
 
 RESOURCE ID: buddy_multiplayer_qr_guidance
-TEXT: ग्रुप QR कोड स्कैन करें
+TEXT: ग्रुप का 2D कोड स्कैन करें
 
 RESOURCE ID: buddy_multiplayer_qr_display_body
 TEXT: सबके इकट्ठा हो जाने पर, GO बटन को टैप करें।
@@ -22065,7 +22065,7 @@ RESOURCE ID: buddy_multiplayer_safety_warning
 TEXT: AR मोड का इस्तेमाल करते समय, यह पक्का कर लें कि आप एक सुरक्षित लोकेशन पर हैं और बच्चे हमेशा निगरानी में हैं।
 
 RESOURCE ID: buddy_multiplayer_scan_button
-TEXT: ग्रुप QR कोड स्कैन करें
+TEXT: ग्रुप 2D कोड स्कैन करें
 
 RESOURCE ID: buddy_multiplayer_start_session
 TEXT: GO
@@ -22074,7 +22074,7 @@ RESOURCE ID: buddy_multiplayer_timeout_dialog_title
 TEXT: पार्टनर ग्रुप बंद हो गया है।
 
 RESOURCE ID: buddy_multiplayer_timeout_dialog_description
-TEXT: कोई एक्टिविटी न होने की वजह से मौजूदा पार्टनर ग्रुप बंद हो गया है। जारी रखने के लिए, कृपया ग्रुप QR कोड स्कैन करके फिर से कोशिश करें।
+TEXT: कोई गतविधिि न होने के कारण यह पार्टनर ग्रुप बंद हो गया है। जारी रखने के लिए, कृपया ग्रुप का 2D कोड स्कैन करके फरि से प्रयास करें।
 
 RESOURCE ID: buddy_multiplayer_tutorial_0_title
 TEXT: अच्छी रोशनी वाली जगह पर खेलें
@@ -27685,7 +27685,7 @@ RESOURCE ID: combat_matchmaking_generic_error
 TEXT: मैच ढूंढते हुए एरर हो गया।
 
 RESOURCE ID: combat_matchmaking_invalid_qr
-TEXT: QR कोड मान्य नहीं है
+TEXT: 2D कोड मान्य नहीं है
 
 RESOURCE ID: combat_matchmaking_match_found_status
 TEXT: बैटल शुरू हो रही है
@@ -29319,7 +29319,7 @@ RESOURCE ID: delete_gift_message
 TEXT: गफ़्टि, आइटम बैग की स्टोरेज क्षमता में नहीं गनिे जाते।
 
 RESOURCE ID: delete_gift_ok
-TEXT: Discard
+TEXT: नष्ट करें
 
 RESOURCE ID: delete_pokemon_tag_confirmation
 TEXT: इस टैग को उस पोकेमॉन से हटा दिया जाएगा जिसे यह लगाया गया था। प्रोफ़ेसर विलो को पोकेमॉन ट्रांसफ़र नहीं होगा।
@@ -30806,7 +30806,7 @@ RESOURCE ID: encounter_score_great_throw
 TEXT: ग्रेट थ्रो
 
 RESOURCE ID: encounter_score_master_ball_throw
-TEXT: Master Ball Throw
+TEXT: मास्टर बॉल थ्रो बोनस
 
 RESOURCE ID: encounter_score_new_pokemon
 TEXT: नया पोकेमॉन
@@ -60685,10 +60685,10 @@ at SHA 12701f1c07ae7f07a5d50583f697320977df7988
 Pipeline 1139111, job 13470914
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-11-03T19:34:23.749057+00:00 for hi-IN
-at SHA 534885091ad
-Pipeline 4073493, job 60075419
-Patch from: 0.437.0-SHA-6174fcca-RC4, 0.435.98-SHA-b3319c4b-RC1
+TEXT: Built at 2026-11-06T00:56:32.081142+00:00 for hi-IN
+at SHA c36620063aca
+Pipeline 4080589, job 60204301
+Patch from: 0.437.0-SHA-2396e31c-RC3, 0.435.98-SHA-b3319c4b-RC1
 
 RESOURCE ID: meteor_title_1
 TEXT: मीटयिोर शावर
@@ -66845,6 +66845,9 @@ TEXT: इन्वेंट्री में जाएँ
 RESOURCE ID: paid_gift_already_purchased_modal_message
 TEXT: आप इसे अपनी इन्वेंट्री से भेज सकते हैं।
 
+RESOURCE ID: paid_gift_friend_ineligible_learn_more_url
+TEXT: https://scopelyexplore.helpshift.com/hc/faq/2591-how-can-i-purchase-items-as-gifts-for-friends/
+
 RESOURCE ID: paid_gift_regift_no_longer_available_modal_title
 TEXT: गफ़्टि एरर
 
@@ -67668,7 +67671,7 @@ RESOURCE ID: party_play_raid_menu_header
 TEXT: टीम प्ले रेड
 
 RESOURCE ID: party_play_scan_qr_code
-TEXT: टीम का QR कोड स्कैन करें
+TEXT: टीम का 2D कोड स्कैन करें
 
 RESOURCE ID: party_play_see_all_activities
 TEXT: सभी ऐक्टिविटी देखें
@@ -81508,7 +81511,7 @@ RESOURCE ID: pokestop_button_manual_input_2
 TEXT: मैन्यूअल इनपुट पर स्विच करें
 
 RESOURCE ID: pokestop_button_read_qr_code
-TEXT: QR कोड पढ़ें
+TEXT: 2D कोड पढ़ें
 
 RESOURCE ID: pokestop_challenge_fr_title
 TEXT: पोकेस्टॉप चैलेंज
@@ -81521,7 +81524,7 @@ TEXT: पोकेस्टॉप चैलेंज सीमित समय �
 
 RESOURCE ID: pokestop_check_in_notice
 TEXT: {0} में आपका स्वागत है!
-चेक इन करने के लिए, कृपया कैमरे का इस्तेमाल करके QR कोड पढ़ें।
+चेक इन करने के लिए, कृपया कैमरे से 2D कोड स्कैन करें।
 
 RESOURCE ID: pokestop_check_in_succeeded
 TEXT: चेक इन हो गया है
@@ -82750,10 +82753,10 @@ RESOURCE ID: pxp_worlds_event_name_2026
 TEXT: पोकेमॉन XP एंड 2026 वर्ल्ड चैंपयिनशपि
 
 RESOURCE ID: qr_code_title
-TEXT: QR कोड स्कैन करें
+TEXT: 2D कोड स्कैन करें
 
 RESOURCE ID: qr_decode_problem
-TEXT: QR कोड की पहचान नहीं की जा सकी। कृपया मैन्यूअल इनपुट से कोशिश करें।
+TEXT: 2D कोड स्कैन नहीं हो सका। कृपया मैनुअल इनपुट से प्रयास करें।
 
 RESOURCE ID: qualifier_limited _one_event_raid
 TEXT: ध्यान दें - कुछ वशिेष इवेंट रेड को हर ट्रेनर केवल एक बार ही पूरा कर सकते हैं।
@@ -119389,10 +119392,10 @@ RESOURCE ID: social_add_friend_facebook
 TEXT: Facebook से दोस्तों को इंपोर्ट करें
 
 RESOURCE ID: social_add_friend_qr
-TEXT: QR कोड
+TEXT: 2D कोड
 
 RESOURCE ID: social_add_friend_qr_v2
-TEXT: SCAN QR CODE
+TEXT: 2D कोड स्कैन करें
 
 RESOURCE ID: social_cancel_friend_request
 TEXT: Cancel request
@@ -119404,7 +119407,7 @@ RESOURCE ID: social_my_code
 TEXT: मेरा ट्रेनर कोड
 
 RESOURCE ID: social_my_qr_code
-TEXT: मेरा QR कोड
+TEXT: मेरा 2D कोड
 
 RESOURCE ID: social_no_friends
 TEXT: ट्रेड, प्रीमियर बॉल और बैटल के लिए पावर-अप अनलॉक करने के लिए अपने दोस्तों के साथ मिलकर खेलें।
@@ -119531,13 +119534,13 @@ RESOURCE ID: social_qr_code_header
 TEXT: मेरा कोड
 
 RESOURCE ID: social_qr_code_prompt
-TEXT: किसी दूसरे ट्रेनर के स्कैनर से यह QR कोड स्कैन करें।
+TEXT: कसिी दूसरे ट्रेनर के स्कैनर से यह 2D कोड स्कैन करें।
 
 RESOURCE ID: social_qr_scan_header
 TEXT: स्कैन करें
 
 RESOURCE ID: social_qr_scan_prompt
-TEXT: ट्रेनर का QR कोड स्कैन करें
+TEXT: ट्रेनर का 2D कोड स्कैन करें
 
 RESOURCE ID: social_remove_friend
 TEXT: दोस्त को हटाएं

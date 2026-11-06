@@ -60756,10 +60756,10 @@ at SHA 12701f1c07ae7f07a5d50583f697320977df7988
 Pipeline 1139111, job 13470914
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-11-03T19:34:23.749057+00:00 for id-ID
-at SHA 534885091ad
-Pipeline 4073493, job 60075419
-Patch from: 0.437.0-SHA-6174fcca-RC4, 0.435.98-SHA-b3319c4b-RC1
+TEXT: Built at 2026-11-06T00:56:32.081142+00:00 for id-ID
+at SHA c36620063aca
+Pipeline 4080589, job 60204301
+Patch from: 0.437.0-SHA-2396e31c-RC3, 0.435.98-SHA-b3319c4b-RC1
 
 RESOURCE ID: meteor_title_1
 TEXT: HUJAN METEOR
@@ -66937,6 +66937,9 @@ TEXT: KE TAS ITEM
 RESOURCE ID: paid_gift_already_purchased_modal_message
 TEXT: Kamu bisa mengirimkannya dari Tas Item.
 
+RESOURCE ID: paid_gift_friend_ineligible_learn_more_url
+TEXT: https://scopelyexplore.helpshift.com/hc/faq/2591-how-can-i-purchase-items-as-gifts-for-friends/
+
 RESOURCE ID: paid_gift_regift_no_longer_available_modal_title
 TEXT: Eror Pengiriman Hadiah
 
@@ -69163,7 +69166,7 @@ RESOURCE ID: poi_contrib_report_reason_school
 TEXT: Sekolah (TK–SMA)
 
 RESOURCE ID: poi_contrib_report_reason_ai_generated_or_doctored_photo
-TEXT: AI-Generated or Doctored Photo
+TEXT: Foto Buatan AI atau Hasil Rekayasa
 
 RESOURCE ID: poi_contrib_report_reason_duplicate_custom
 TEXT: Duplikasikan {0}
@@ -81393,7 +81396,7 @@ RESOURCE ID: pokemon_run_2026_taiwan_title
 TEXT: Pokémon RUN 30: Taiwan
 
 RESOURCE ID: pokemon_run_2026_thailand_title
-TEXT: Pokémon RUN 30: Thailand
+TEXT: Pokémon RUN 30: Tailan
 
 RESOURCE ID: pokemon_shiny_info_transfer_to_professor_confirmation
 TEXT: Yakin ingin mentransfer Pokémon Bersinar ini?
@@ -107007,7 +107010,7 @@ RESOURCE ID: raid_encounter_flee_warning_modal_body
 TEXT: Jika kamu mundur dari Pokémon ini, kamu tidak akan bisa kembali lagi.
 
 RESOURCE ID: raid_encounter_flee_warning_modal_confirm_button
-TEXT: FLEE
+TEXT: MUNDUR
 
 RESOURCE ID: raid_enter_group_code
 TEXT: GRUP PRIVAT
@@ -109569,7 +109572,7 @@ RESOURCE ID: rally_apac_30_regional_taiwan_title
 TEXT: Reli Stempel PokéXciting! – Taiwan
 
 RESOURCE ID: rally_apac_30_regional_thailand_title
-TEXT: Reli Stempel PokéXciting! – Thailand
+TEXT: Reli Stempel PokéXciting! – Tailan
 
 RESOURCE ID: rally_apac_30_cross_regional_desc
 TEXT: Rayakan PokéXciting! di kawasan Asia-Pasifik!
@@ -109620,13 +109623,13 @@ RESOURCE ID: rally_apac_30_regional_singapore_reward_desc
 TEXT: Jelajahi Singapura untuk bertemu dengan Pikachu PokéXciting! (Biru) yang memiliki Latar Belakang Lokasi Singapura eksklusif.
 
 RESOURCE ID: rally_apac_30_regional_tailand_desc
-TEXT: Rayakan PokéXciting! di Thailand!
+TEXT: Rayakan PokéXciting! di Tailan!
 
 RESOURCE ID: rally_apac_30_regional_tailand_desc_detail
 TEXT: Temukan Pikachu PokéXciting! dengan mengunjungi PokéStop spesial di sekitar kota Bangkok. Lihat peta untuk detail lebih lanjut.
 
 RESOURCE ID: rally_apac_30_regional_tailand_location
-TEXT: Bangkok, Thailand
+TEXT: Bangkok, Tailan
 
 RESOURCE ID: rally_apac_30_regional_tailand_reward_desc
 TEXT: Jelajahi Bangkok untuk bertemu dengan Pikachu PokéXciting! (Oranye) yang memiliki Latar Belakang Lokasi Bangkok eksklusif.
@@ -109677,7 +109680,7 @@ RESOURCE ID: rally_city_safari_2025_bangkok_desc_detail
 TEXT: Temukan hingga 8 Eevee per hari event bertiket dengan mengunjungi PokéStop spesial di sekitar kota Bangkok. Lihat peta untuk detail lebih lanjut.
 
 RESOURCE ID: rally_city_safari_2025_bangkok_location
-TEXT: Bangkok, Thailand
+TEXT: Bangkok, Tailan
 
 RESOURCE ID: rally_city_safari_2025_bangkok_rewards_desc_general
 TEXT: Berjelajahlah untuk bertemu dengan Eevee bertopi safari dengan Latar Belakang Lokasi Bangkok eksklusif.
@@ -110157,7 +110160,7 @@ RESOURCE ID: rally_sendai_2026_title
 TEXT: Reli Stempel Sendai • Tohoku – Lapras
 
 RESOURCE ID: rally_sendai_2026_desc
-TEXT: Reli Stempel eksklusif yang hanya tersedia di wilayah Sendai • Tohoku.
+TEXT: Reli Stempel eksklusif yang hanya tersedia di wilayah Sendai • Tohoku!
 
 RESOURCE ID: rally_sendai_2026_desc_detail
 TEXT: Kumpulkan stempel dengan mengunjungi PokéStop Reli Stempel GO di sepanjang jalur bersejarah di wilayah Sendai • Tohoku!
@@ -116983,7 +116986,7 @@ RESOURCE ID: select_a_pokemon
 TEXT: Pilih Pokémon
 
 RESOURCE ID: select_a_paid_gift
-TEXT: Select a paid gift to send to your friend
+TEXT: Pilih hadiah berbayar untuk dikirimkan kepada temanmu.
 
 RESOURCE ID: select_gift_to_delete_prompt
 TEXT: Pilih Hadiah yang dihapus
@@ -117028,7 +117031,7 @@ RESOURCE ID: send_video_ad_report_button
 TEXT: KIRIM LAPORAN
 
 RESOURCE ID: sending_paid_gift_to
-TEXT: You are sending this paid gift to:
+TEXT: Kamu mengirim hadiah berbayar ini ke:
 
 RESOURCE ID: sent_friend_error_toast
 TEXT: Pelatih ini telah mencapai batas harian partisipasi Pertarungan Max Jarak Jauh dan Raid Jarak Jauh.
@@ -118337,14 +118340,14 @@ TEXT: A friend may be ineligible to receive paid gifts for the following reasons
 • You do not meet the minimum Friendship level requirement to give this friend a gift.
 
 RESOURCE ID: shop_gift_friend_ineligible_description_temp
-TEXT: Kamu mungkin tidak dapat mengirim hadiah berbayar—termasuk item, tiket, dan tiket event—kepada beberapa teman. Hal ini dapat terjadi karena alasan berikut:
-
-• Mereka sudah memiliki tiket atau tiket event terkait, atau orang lain telah mengirimkannya kepada mereka
-• Mereka mungkin memiliki penelitian yang aktif atau telah selesai yang menghalangi mereka menerima tiket
-• Tingkat pertemananmu terlalu rendah
-• Mereka telah menonaktifkan fitur hadiah berbayar
-• Akun mereka tidak memenuhi syarat karena adanya pembatasan
-• Pengiriman hadiah lintas mata uang tidak didukung
+TEXT: Kamu tidak dapat mengirim hadiah berbayar jika penerimanya:
+• Telah memiliki tiket atau Tiket GO Luks
+• Telah mencapai batas untuk item tersebut
+• Memiliki penelitian yang sedang berlangsung atau telah selesai yang mencegah mereka menerima tiket tersebut
+• Belum memenuhi persyaratan Level Pertemanan
+• Telah menonaktifkan penerimaan hadiah berbayar
+• Memiliki batasan yang membuat mereka tidak memenuhi syarat
+• Menggunakan mata uang yang berbeda; pengiriman hadiah lintas mata uang tidak didukung
 
 RESOURCE ID: shop_gift_invitation_title
 TEXT: INVITATION
@@ -119660,7 +119663,7 @@ RESOURCE ID: social_qr_code_header
 TEXT: KODEKU
 
 RESOURCE ID: social_qr_code_prompt
-TEXT: Pindai kode 2D dengan perangkat Pelatih lain.
+TEXT: Pindai kode 2D ini dengan perangkat Pelatih lain.
 
 RESOURCE ID: social_qr_scan_header
 TEXT: PINDAI

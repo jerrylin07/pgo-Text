@@ -22451,7 +22451,7 @@ RESOURCE ID: buddy_monodepth_modal_turn_off_button
 TEXT: ปิดการใช้งาน Scopely Explore AR Platform (ทดลอง)
 
 RESOURCE ID: buddy_multilplayer_qr_display_header
-TEXT: คิวอาร์โค้ดกลุ่มคู่หู
+TEXT: บาร์โค้ด 2 มิติกลุ่มคู่หู
 
 RESOURCE ID: buddy_multiplayer_quit
 TEXT: คุณต้องการจะออกจากการรวมกลุ่มนี้หรือไม่?
@@ -22460,7 +22460,7 @@ RESOURCE ID: buddy_multiplayer_connection_error
 TEXT: การเชื่อมต่อล้มเหลว
 
 RESOURCE ID: buddy_multiplayer_create_session
-TEXT: สร้างคิวอาร์โค้ดกลุ่ม
+TEXT: สร้างโค้ดกลุ่ม
 
 RESOURCE ID: buddy_multiplayer_deploy_invalid_position
 TEXT: ลองหาพื้นที่ราบที่กว้างกว่านี้
@@ -22542,7 +22542,7 @@ RESOURCE ID: buddy_multiplayer_lobby_body_peer
 TEXT: ฟังคำแนะนำจากผู้นำกลุ่มเพื่อค้นหาจุดซ่อนตัว!
 
 RESOURCE ID: buddy_multiplayer_mapping_timeout
-TEXT: กลุ่มคู่หูนี้ปิดลงแล้วเนื่องจากไม่มีการเคลื่อนไหว กรุณาสแกนคิวอาร์โค้ดกลุ่มอีกครั้งเพื่อดำเนินการต่อ
+TEXT: กลุ่มคู่หูนี้ปิดลงแล้วเนื่องจากไม่มีการเคลื่อนไหว กรุณาเริ่มใหม่อีกครั้งจากการสแกนโค้ดกลุ่ม
 
 RESOURCE ID: buddy_multiplayer_peer_cannot_exit_group_photo
 TEXT: {0}คือผู้นำในการถ่ายภาพอยู่ในขณะนี้ ขอ{0}เพื่อปิดการใช้งานโหมดถ่ายภาพหมู่
@@ -22569,7 +22569,7 @@ RESOURCE ID: buddy_multiplayer_player_count_can_join_singular
 TEXT: เทรนเนอร์สามารถเข้าร่วมได้อีก 1 คน
 
 RESOURCE ID: buddy_multiplayer_qr_guidance
-TEXT: สแกนคิวอาร์โค้ดกลุ่ม
+TEXT: สแกนโค้ดกลุ่ม
 
 RESOURCE ID: buddy_multiplayer_qr_display_body
 TEXT: หากทุกคนมารวมตัวกันครบแล้ว กดที่ปุ่ม “ไป”
@@ -22584,7 +22584,7 @@ TEXT: กรุณาดูให้แน่ใจว่าคุณอยู�
 อยู่ในความดูแลตลอดเวลา
 
 RESOURCE ID: buddy_multiplayer_scan_button
-TEXT: สแกนคิวอาร์โค้ดกลุ่ม
+TEXT: สแกนโค้ดกลุ่ม
 
 RESOURCE ID: buddy_multiplayer_start_session
 TEXT: ไป
@@ -22593,7 +22593,7 @@ RESOURCE ID: buddy_multiplayer_timeout_dialog_title
 TEXT: กลุ่มคู่หูนี้ปิดลงแล้ว
 
 RESOURCE ID: buddy_multiplayer_timeout_dialog_description
-TEXT: กลุ่มคู่หูนี้ปิดลงแล้วเนื่องจากไม่มีการเคลื่อนไหว กรุณาสแกนคิวอาร์โค้ดกลุ่มอีกครั้งเพื่อดำเนินการต่อ
+TEXT: กลุ่มคู่หูนี้ปิดลงแล้วเนื่องจากไม่มีการเคลื่อนไหว กรุณาเริ่มใหม่อีกครั้งจากการสแกนโค้ดกลุ่ม
 
 RESOURCE ID: buddy_multiplayer_tutorial_0_title
 TEXT: เล่นในพื้นที่ที่มีแสงสว่างเพียงพอ
@@ -30447,7 +30447,7 @@ RESOURCE ID: combat_matchmaking_generic_error
 TEXT: เกิดข้อผิดพลาดในการค้นหาแมตช์
 
 RESOURCE ID: combat_matchmaking_invalid_qr
-TEXT: คิวอาร์โค้ดไม่ถูกต้อง
+TEXT: โค้ดไม่ถูกต้อง
 
 RESOURCE ID: combat_matchmaking_match_found_status
 TEXT: การแบตเทิลกำลังจะเริ่ม
@@ -32119,7 +32119,7 @@ RESOURCE ID: delete_gift_message
 TEXT: ของขวัญจะไม่ถูกนับเป็นไอเท็มในกระเป๋าเก็บไอเท็ม
 
 RESOURCE ID: delete_gift_ok
-TEXT: Discard
+TEXT: ทิ้ง
 
 RESOURCE ID: delete_pokemon_tag_confirmation
 TEXT: แท็กนี้จะถูกนำออกจากโปเกมอนที่
@@ -32631,7 +32631,7 @@ RESOURCE ID: downloading_avatar_assets_warning_body
 TEXT: พบปัญหาในการดาวน์โหลดทรัพยากร โปรดตรวจสอบให้แน่ใจว่าคุณมีการเชื่อมต่อเครือข่ายที่เสถียรแล้วรีสตาร์ทเกม
 
 RESOURCE ID: dragon_poi_spin_plural
-TEXT: หมุนเสาโปเกสต็อปธีมประเภทมังกร {0} แห่ง
+TEXT: หมุนเสาโปเกสต็อปธีมประเภทมังกรที่ไม่ซ้ำกัน {0} ครั้ง
 
 RESOURCE ID: dragon_poi_spin_singular
 TEXT: หมุนเสาโปเกสต็อปธีมประเภทมังกร
@@ -33689,10 +33689,10 @@ RESOURCE ID: encounter_score_great_throw
 TEXT: ขว้างได้เยี่ยม
 
 RESOURCE ID: encounter_score_master_ball_throw
-TEXT: ใช้มาสเตอร์บอล
+TEXT: โบนัสจากการใช้มาสเตอร์บอล
 
 RESOURCE ID: encounter_score_new_pokemon
-TEXT: โปเกมอนใหม่
+TEXT: โบนัสจากการจับโปเกมอนใหม่
 
 RESOURCE ID: encounter_score_nice_throw
 TEXT: ขว้างได้ดี
@@ -68070,10 +68070,10 @@ at SHA da71d231c41a4d4f7aef0d6fd71061652ff15a0a
 Pipeline 441624, job 3600523
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-11-03T19:34:23.749057+00:00 for th-TH
-at SHA 534885091ad
-Pipeline 4073493, job 60075419
-Patch from: 0.437.0-SHA-6174fcca-RC4, 0.435.98-SHA-b3319c4b-RC1
+TEXT: Built at 2026-11-06T00:56:32.081142+00:00 for th-TH
+at SHA c36620063aca
+Pipeline 4080589, job 60204301
+Patch from: 0.437.0-SHA-2396e31c-RC3, 0.435.98-SHA-b3319c4b-RC1
 
 RESOURCE ID: meteor_title_1
 TEXT: ฝนดาวตก
@@ -74363,6 +74363,9 @@ TEXT: ไปยังกระเป๋า
 RESOURCE ID: paid_gift_already_purchased_modal_message
 TEXT: สามารถส่งได้จากกระเป๋า
 
+RESOURCE ID: paid_gift_friend_ineligible_learn_more_url
+TEXT: https://scopelyexplore.helpshift.com/hc/faq/2591-how-can-i-purchase-items-as-gifts-for-friends/
+
 RESOURCE ID: paid_gift_regift_no_longer_available_modal_title
 TEXT: เกิดข้อผิดพลาด
 
@@ -75204,7 +75207,7 @@ RESOURCE ID: party_play_raid_menu_header
 TEXT: ตีบอสในการเล่นแบบปาร์ตี้
 
 RESOURCE ID: party_play_scan_qr_code
-TEXT: สแกนคิวอาร์โค้ดของปาร์ตี้
+TEXT: สแกนบาร์โค้ด 2 มิติของปาร์ตี้
 
 RESOURCE ID: party_play_see_all_activities
 TEXT: ดูกิจกรรมทั้งหมด
@@ -91427,7 +91430,7 @@ RESOURCE ID: pokestop_button_manual_input_2
 TEXT: เปลี่ยนไปป้อนข้อมูลด้วยตนเอง
 
 RESOURCE ID: pokestop_button_read_qr_code
-TEXT: อ่านคิวอาร์โค้ด
+TEXT: สแกนบาร์โค้ด 2 มิติ
 
 RESOURCE ID: pokestop_challenge_fr_title
 TEXT: คำท้าเสาโปเกสต็อป
@@ -91440,7 +91443,7 @@ TEXT: งานวิจัยแบบจำกัดเวลาคำท้�
 
 RESOURCE ID: pokestop_check_in_notice
 TEXT: ยินดีต้อนรับสู่{0}!
-กรุณาใช้กล้องถ่ายรูปอ่านคิวอาร์โค้ดเพื่อเช็กอิน
+กรุณาใช้กล้องถ่ายรูปอ่านบาร์โค้ด 2 มิติเพื่อเช็กอิน
 
 RESOURCE ID: pokestop_check_in_succeeded
 TEXT: เช็กอินสำเร็จแล้ว
@@ -92754,10 +92757,10 @@ RESOURCE ID: pxp_worlds_event_name_2026
 TEXT: โปเกมอน XP & WCS 2026
 
 RESOURCE ID: qr_code_title
-TEXT: สแกนคิวอาร์โค้ด
+TEXT: สแกนบาร์โค้ด 2 มิติ
 
 RESOURCE ID: qr_decode_problem
-TEXT: การอ่านค่าคิวอาร์โค้ดล้มเหลว กรุณาป้อนข้อมูลด้วยตนเอง
+TEXT: การสแกนบาร์โค้ด 2 มิติล้มเหลว กรุณากรอกข้อมูลด้วยตนเอง
 
 RESOURCE ID: qualifier_limited _one_event_raid
 TEXT: หมายเหตุ: ตีบอสพิเศษบางรายการสามารถเข้าร่วมได้เพียงครั้งเดียว
@@ -133530,10 +133533,10 @@ RESOURCE ID: social_add_friend_facebook
 TEXT: นำเข้ารายชื่อเพื่อนจาก Facebook
 
 RESOURCE ID: social_add_friend_qr
-TEXT: คิวอาร์โค้ด
+TEXT: บาร์โค้ด 2 มิติ
 
 RESOURCE ID: social_add_friend_qr_v2
-TEXT: SCAN QR CODE
+TEXT: สแกนบาร์โค้ด 2 มิติ
 
 RESOURCE ID: social_cancel_friend_request
 TEXT: Cancel request
@@ -133545,7 +133548,7 @@ RESOURCE ID: social_my_code
 TEXT: รหัสเทรนเนอร์ของฉัน
 
 RESOURCE ID: social_my_qr_code
-TEXT: คิวอาร์โค้ดของฉัน
+TEXT: บาร์โค้ด 2 มิติ
 
 RESOURCE ID: social_no_friends
 TEXT: เล่นด้วยกันกับเพื่อนเพื่อปลดล็อกการแลกเปลี่ยน พรีเมียร์บอล และพาวเวอร์อัปสำหรับการแบตเทิล!
@@ -133672,13 +133675,13 @@ RESOURCE ID: social_qr_code_header
 TEXT: โค้ดของฉัน
 
 RESOURCE ID: social_qr_code_prompt
-TEXT: ให้เทรนเนอร์คนอื่นสแกนคิวอาร์โค้ดนี้
+TEXT: ใช้อุปกรณ์ของเพื่อนสแกนโค้ด
 
 RESOURCE ID: social_qr_scan_header
 TEXT: สแกน
 
 RESOURCE ID: social_qr_scan_prompt
-TEXT: สแกนคิวอาร์โค้ดของเทรนเนอร์
+TEXT: สแกนโค้ดของเพื่อน
 
 RESOURCE ID: social_remove_friend
 TEXT: ลบเพื่อน
@@ -137663,7 +137666,7 @@ RESOURCE ID: steel_and_scales_event_name
 TEXT: ปลดล็อกอัลตร้า: เกล็ดและเหล็กกล้า
 
 RESOURCE ID: steel_poi_spin_plural
-TEXT: หมุนเสาโปเกสต็อปธีมประเภทโลหะ {0} แห่ง
+TEXT: หมุนเสาโปเกสต็อปธีมประเภทโลหะที่ไม่ซ้ำกัน {0} ครั้ง
 
 RESOURCE ID: steel_poi_spin_singular
 TEXT: หมุนเสาโปเกสต็อปธีมประเภทโลหะ

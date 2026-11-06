@@ -32346,7 +32346,7 @@ RESOURCE ID: downloading_avatar_assets_warning_body
 TEXT: Ocorreu um problema ao baixar os arquivos. Certifique-se de ter uma conexão de rede estável e reinicie o jogo.
 
 RESOURCE ID: dragon_poi_spin_plural
-TEXT: Girar {0} Poképaradas temáticas de tipo Dragão.
+TEXT: Girar {0} Poképaradas temáticas de tipo Dragão diferentes.
 
 RESOURCE ID: dragon_poi_spin_singular
 TEXT: Girar 1 Poképarada temática de tipo Dragão.
@@ -63420,10 +63420,10 @@ at SHA 4d4f3e80cc7fb911006bd14d198c9831ef66d005
 Pipeline 339838, job 2672172
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-11-03T19:34:23.749057+00:00 for pt-BR
-at SHA 534885091ad
-Pipeline 4073493, job 60075419
-Patch from: 0.437.0-SHA-6174fcca-RC4, 0.435.98-SHA-b3319c4b-RC1
+TEXT: Built at 2026-11-06T00:56:32.081142+00:00 for pt-BR
+at SHA c36620063aca
+Pipeline 4080589, job 60204301
+Patch from: 0.437.0-SHA-2396e31c-RC3, 0.435.98-SHA-b3319c4b-RC1
 
 RESOURCE ID: meteor_title_1
 TEXT: CHUVA DE METEOROS
@@ -69554,6 +69554,9 @@ TEXT: IR PARA O INVENTÁRIO
 RESOURCE ID: paid_gift_already_purchased_modal_message
 TEXT: Você pode enviá-lo pelo seu inventário.
 
+RESOURCE ID: paid_gift_friend_ineligible_learn_more_url
+TEXT: https://scopelyexplore.helpshift.com/hc/faq/2591-how-can-i-purchase-items-as-gifts-for-friends/
+
 RESOURCE ID: paid_gift_regift_no_longer_available_modal_title
 TEXT: Erro ao enviar presente
 
@@ -71803,7 +71806,7 @@ RESOURCE ID: poi_contrib_report_reason_school
 TEXT: Escola
 
 RESOURCE ID: poi_contrib_report_reason_ai_generated_or_doctored_photo
-TEXT: AI-Generated or Doctored Photo
+TEXT: Foto gerada ou editada por IA
 
 RESOURCE ID: poi_contrib_report_reason_duplicate_custom
 TEXT: {0} já existe
@@ -119801,7 +119804,7 @@ RESOURCE ID: select_a_pokemon
 TEXT: Escolha um Pokémon
 
 RESOURCE ID: select_a_paid_gift
-TEXT: Select a paid gift to send to your friend
+TEXT: Selecione um presente pago para enviar ao seu amigo
 
 RESOURCE ID: select_gift_to_delete_prompt
 TEXT: Selecione presentes para descartar
@@ -119846,7 +119849,7 @@ RESOURCE ID: send_video_ad_report_button
 TEXT: ENVIAR DENÚNCIA
 
 RESOURCE ID: sending_paid_gift_to
-TEXT: You are sending this paid gift to:
+TEXT: Você está enviando este presente pago para:
 
 RESOURCE ID: sent_friend_error_toast
 TEXT: Treinador atingiu o limite diário de Batalhas Max a Distância e Reides a Distância.
@@ -121157,14 +121160,14 @@ TEXT: Alguns amigos podem não ser elegíveis para receber presentes pagos pelos
 • Você não cumpre o requisito mínimo de nível de amizade para comprar um presente para esse amigo.
 
 RESOURCE ID: shop_gift_friend_ineligible_description_temp
-TEXT: Talvez você não consiga enviar presentes pagos, como itens, ingressos e passes de evento, para alguns amigos. Isso pode acontecer pelos seguintes motivos:
-
-• Eles já têm o ingresso ou passe de evento, ou outra pessoa já o enviou para eles
-• Eles podem ter uma pesquisa ativa ou completa que os impede de receber ingressos
-• Seu nível de amizade é muito baixo
-• Eles desativaram os presentes pagos
-• A conta deles não é elegível devido a restrições
-• O envio de presentes entre moedas diferentes não é compatível
+TEXT: Você não pode enviar um presente pago se o destinatário:
+• Já tiver o ingresso ou o Passe GO Deluxe
+• Tiver atingido o limite para o item
+• Tiver pesquisa ativa ou completada que impeça o recebimento do ingresso
+• Estiver abaixo do nível de Amizade exigido
+• Tiver desativado o recebimento de presentes pagos
+• Tiver alguma restrição que torne a conta inelegível
+• Usar uma moeda diferente; não é possível enviar presentes em moedas diferentes
 
 RESOURCE ID: shop_gift_invitation_title
 TEXT: CONVITE
@@ -126015,7 +126018,7 @@ RESOURCE ID: steel_and_scales_event_name
 TEXT: Ultrabônus: Aço e Escamas
 
 RESOURCE ID: steel_poi_spin_plural
-TEXT: Girar {0} Poképaradas temáticas de tipo Aço.
+TEXT: Girar {0} Poképaradas temáticas de tipo Aço diferentes.
 
 RESOURCE ID: steel_poi_spin_singular
 TEXT: Girar 1 Poképarada temática de tipo Aço.

@@ -29965,7 +29965,7 @@ RESOURCE ID: downloading_avatar_assets_warning_body
 TEXT: Varlıklar indirilirken bir sorun oluştu. Lütfen istikrarlı bir ağ erişiminiz olduğundan emin olun ve oyunu tekrar başlatın.
 
 RESOURCE ID: dragon_poi_spin_plural
-TEXT: Ejderha türü temalı {0} PokéDurak döndürün
+TEXT: Ejderha türü temalı {0} farklı PokéDurak döndürün
 
 RESOURCE ID: dragon_poi_spin_singular
 TEXT: Ejderha türü temalı bir PokéDurak döndürün
@@ -60908,10 +60908,10 @@ at SHA 413df5befdbe0d00a543f8a142221526d63b719a
 Pipeline 834428, job 8736424
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-11-03T19:34:23.749057+00:00 for tr-TR
-at SHA 534885091ad
-Pipeline 4073493, job 60075419
-Patch from: 0.437.0-SHA-6174fcca-RC4, 0.435.98-SHA-b3319c4b-RC1
+TEXT: Built at 2026-11-06T00:56:32.081142+00:00 for tr-TR
+at SHA c36620063aca
+Pipeline 4080589, job 60204301
+Patch from: 0.437.0-SHA-2396e31c-RC3, 0.435.98-SHA-b3319c4b-RC1
 
 RESOURCE ID: meteor_title_1
 TEXT: METEOR YAĞMURU
@@ -67031,6 +67031,9 @@ TEXT: ENVANTERE GİT
 RESOURCE ID: paid_gift_already_purchased_modal_message
 TEXT: Envanterinizden gönderebilirsiniz.
 
+RESOURCE ID: paid_gift_friend_ineligible_learn_more_url
+TEXT: https://scopelyexplore.helpshift.com/hc/faq/2591-how-can-i-purchase-items-as-gifts-for-friends/
+
 RESOURCE ID: paid_gift_regift_no_longer_available_modal_title
 TEXT: Hediye Gönderim Hatası
 
@@ -69257,7 +69260,7 @@ RESOURCE ID: poi_contrib_report_reason_school
 TEXT: Okul (K–12)
 
 RESOURCE ID: poi_contrib_report_reason_ai_generated_or_doctored_photo
-TEXT: AI-Generated or Doctored Photo
+TEXT: Yapay Zekâyla Oluşturulmuş veya Değiştirilmiş Fotoğraf
 
 RESOURCE ID: poi_contrib_report_reason_duplicate_custom
 TEXT: {0} zaten mevcut
@@ -117068,7 +117071,7 @@ RESOURCE ID: select_a_pokemon
 TEXT: Bir Pokémon seçin
 
 RESOURCE ID: select_a_paid_gift
-TEXT: Select a paid gift to send to your friend
+TEXT: Arkadaşınıza göndermek üzere bir ücretli hediye seçin
 
 RESOURCE ID: select_gift_to_delete_prompt
 TEXT: Atılacak Hediye seç
@@ -117113,7 +117116,7 @@ RESOURCE ID: send_video_ad_report_button
 TEXT: ŞİKÂYETİ GÖNDER
 
 RESOURCE ID: sending_paid_gift_to
-TEXT: You are sending this paid gift to:
+TEXT: Bu ücretli hediyenin alıcısı:
 
 RESOURCE ID: sent_friend_error_toast
 TEXT: Eğitmen günlük uzak Maksi Maç ve uzak akın sınırına ulaşmış.
@@ -118421,14 +118424,14 @@ TEXT: Bazı arkadaşlarınız şu sebeplerden dolayı ücretli hediye kabul edem
 • Bu arkadaşa hediye göndermek için gereken minimum arkadaşlık seviyesinin altındasınız.
 
 RESOURCE ID: shop_gift_friend_ineligible_description_temp
-TEXT: Bazı arkadaşlarınıza ücretli hediye (eşyalar, biletler ve etkinlik biletleri de dahil olmak üzere) gönderemezsiniz. Bunun nedenleri şunlar olabilir:
-
-• Halihazırda o bilete veya etkinlik biletine sahip veya bir başkası onlara bu biletleri halihazırda göndermiş olabilir
-• Bilet kapsamındaki araştırmayı halihazırda yapıyor veya tamamlamış olduklarından biletleri alamıyor olabilirler
-• Arkadaşlık seviyeniz çok düşük olabilir
-• Ücretli hediye özelliğini kapatmış olabilirler
-• Birtakım kısıtlamalardan dolayı hesapları ücretli hediye almaya uygun olmayabilir
-• Başka bir para birimiyle hediye alışverişi desteklenmemektedir
+TEXT: Şu nedenlerden dolayı ücretli hediye gönderemeyebilirsiniz:
+• Arkadaşınız halihazırda o bilete veya GO Lüks Biletine sahip olabilir
+• O eşyanın envanter sınırına ulaşmış olabilir
+• Bilet kapsamındaki araştırmayı halihazırda yapıyor veya tamamlamış olabilir
+• Gerekli arkadaşlık seviyesinin altında olabilir
+• Ücretli hediye özelliğini kapatmış olabilir
+• Hesabının birtakım kısıtlamaları olabilir
+• Farklı bir para birimi kullanıyor olabilir
 
 RESOURCE ID: shop_gift_invitation_title
 TEXT: DAVETİYE
@@ -123279,7 +123282,7 @@ RESOURCE ID: steel_and_scales_event_name
 TEXT: Ultra Kilit Açma: Çelik ve Pul
 
 RESOURCE ID: steel_poi_spin_plural
-TEXT: Çelik türü temalı {0} PokéDurak döndürün
+TEXT: Çelik türü temalı {0} farklı PokéDurak döndürün
 
 RESOURCE ID: steel_poi_spin_singular
 TEXT: Çelik türü temalı bir PokéDurak döndürün
