@@ -29135,6 +29135,30 @@ TEXT: 岡谷市
 RESOURCE ID: city_manhole_485
 TEXT: 木祖村
 
+RESOURCE ID: city_manhole_486
+TEXT: 渋川市
+
+RESOURCE ID: city_manhole_487
+TEXT: 芸西村
+
+RESOURCE ID: city_manhole_488
+TEXT: 佐川町
+
+RESOURCE ID: city_manhole_489
+TEXT: 土佐市
+
+RESOURCE ID: city_manhole_490
+TEXT: 長野原町
+
+RESOURCE ID: city_manhole_491
+TEXT: 沼田市
+
+RESOURCE ID: city_manhole_492
+TEXT: 四万十市
+
+RESOURCE ID: city_manhole_493
+TEXT: いの町
+
 RESOURCE ID: city_manhole_4(ibusuki)_d64e
 TEXT: 指宿市
 
@@ -63361,10 +63385,10 @@ at SHA 4d4f3e80cc7fb911006bd14d198c9831ef66d005
 Pipeline 339838, job 2672172
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-11-06T00:56:32.081142+00:00 for ja-JP
-at SHA c36620063aca
-Pipeline 4080589, job 60204301
-Patch from: 0.437.0-SHA-2396e31c-RC3, 0.435.98-SHA-b3319c4b-RC1
+TEXT: Built at 2026-11-07T00:39:18.752246+00:00 for ja-JP
+at SHA 25bcca1ef84
+Pipeline 4083835, job 60265410
+Patch from: 0.437.0-SHA-17709004-RC5, 0.435.98-SHA-b3319c4b-RC1
 
 RESOURCE ID: meteor_title_1
 TEXT: 流星群
@@ -116959,7 +116983,7 @@ RESOURCE ID: sa_parent_dashboard_url
 TEXT: https://app.parents.scopelyexplore.com/portal/ja/login
 
 RESOURCE ID: sa_registration_url
-TEXT: https://scopelyexplore-sso.kws.superawesome.tv/ja/register
+TEXT: https://sso.scopelyexplore.kidswebservices.com/ja/register
 
 RESOURCE ID: sableye_drop_mega_energy
 TEXT: ヤミラミを捕まえるとヤミラミのメガエナジーが手に入ることがある
@@ -130001,6 +130025,15 @@ TEXT: ワールド・オブ・ワンダーズ：占拠(2/2)
 RESOURCE ID: tgr_takeover_s13_event_name
 TEXT: 盗まれた宝
 
+RESOURCE ID: th_poke_center_bangkok_title
+TEXT: Pokémon Center BANGKOK Opens!
+
+RESOURCE ID: th_poke_center_bangkok_bonus_0
+TEXT: Receive themed stickers when you spin PokéStops in Thailand
+
+RESOURCE ID: th_poke_center_bangkok_tv_desc
+TEXT: The Pokémon Center in Bangkok is now open! Timed Research offers rewards and stickers, with more stickers available from PokéStop spins. Visit the blog for details.
+
 RESOURCE ID: thai
 TEXT: ภาษาไทย
 
@@ -134499,6 +134532,24 @@ TEXT: ツーストライク...
 
 RESOURCE ID: tr_pitch_perfect_desc_02
 TEXT: スリーストライク！アウト！
+
+RESOURCE ID: tr_poke_center_bgk_2026
+TEXT: Pokémon Center BANGKOK Opens! Timed Research
+
+RESOURCE ID: tr_poke_center_bgk_2026_id_1_header
+TEXT: Pokémon Center BANGKOK Opens! Timed Research (1/5)
+
+RESOURCE ID: tr_poke_center_bgk_2026_id_2_header
+TEXT: Pokémon Center BANGKOK Opens! Timed Research (2/5)
+
+RESOURCE ID: tr_poke_center_bgk_2026_id_3_header
+TEXT: Pokémon Center BANGKOK Opens! Timed Research (3/5)
+
+RESOURCE ID: tr_poke_center_bgk_2026_id_4_header
+TEXT: Pokémon Center BANGKOK Opens! Timed Research (4/5)
+
+RESOURCE ID: tr_poke_center_bgk_2026_id_5_header
+TEXT: Pokémon Center BANGKOK Opens! Timed Research (5/5)
 
 RESOURCE ID: tr_pokemon_go_lab_jul2026_header
 TEXT: わくわく！Pokémon GO Lab.

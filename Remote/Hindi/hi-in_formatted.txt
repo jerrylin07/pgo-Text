@@ -26604,6 +26604,30 @@ TEXT: ओकाया
 RESOURCE ID: city_manhole_485
 TEXT: कीसो
 
+RESOURCE ID: city_manhole_486
+TEXT: Shibukawa
+
+RESOURCE ID: city_manhole_487
+TEXT: Geisei
+
+RESOURCE ID: city_manhole_488
+TEXT: Sakawa
+
+RESOURCE ID: city_manhole_489
+TEXT: Tosa
+
+RESOURCE ID: city_manhole_490
+TEXT: Naganohara
+
+RESOURCE ID: city_manhole_491
+TEXT: Numata
+
+RESOURCE ID: city_manhole_492
+TEXT: Shimanto
+
+RESOURCE ID: city_manhole_493
+TEXT: Ino
+
 RESOURCE ID: city_manhole_4(ibusuki)_d64e
 TEXT: इबुसुकि
 
@@ -29813,7 +29837,7 @@ RESOURCE ID: downloading_avatar_assets_warning_body
 TEXT: एसेट डाउनलोड करने में त्रुटि हुई। कृपया यह सुनिश्चित करें कि आपका नेटवर्क कनेक्शन स्थिर है, और गेम को फिर से शुरू करें।
 
 RESOURCE ID: dragon_poi_spin_plural
-TEXT: ड्रैगन टाइप थीम वाले {0} पोकेस्टॉप स्पनि करें
+TEXT: ड्रैगन टाइप-थीम वाले {0} अलग-अलग पोकेस्टॉप स्पनि करें
 
 RESOURCE ID: dragon_poi_spin_singular
 TEXT: ड्रैगन टाइप थीम वाला पोकेस्टॉप स्पनि करें
@@ -60685,10 +60709,10 @@ at SHA 12701f1c07ae7f07a5d50583f697320977df7988
 Pipeline 1139111, job 13470914
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-11-06T00:56:32.081142+00:00 for hi-IN
-at SHA c36620063aca
-Pipeline 4080589, job 60204301
-Patch from: 0.437.0-SHA-2396e31c-RC3, 0.435.98-SHA-b3319c4b-RC1
+TEXT: Built at 2026-11-07T00:39:18.752246+00:00 for hi-IN
+at SHA 25bcca1ef84
+Pipeline 4083835, job 60265410
+Patch from: 0.437.0-SHA-17709004-RC5, 0.435.98-SHA-b3319c4b-RC1
 
 RESOURCE ID: meteor_title_1
 TEXT: मीटयिोर शावर
@@ -110042,16 +110066,16 @@ RESOURCE ID: rally_rewards_desc_general
 TEXT: मुलाकातें और रिवॉर्ड पाने के लिए स्टैम्प रैली को पूरा करें
 
 RESOURCE ID: rally_sendai_2026_title
-TEXT: सेंदाइ – लैप्रस स्टैम्प रैली
+TEXT: सेंदाई・तोहोकु – लैप्रस स्टैम्प रैली
 
 RESOURCE ID: rally_sendai_2026_desc
-TEXT: केवल सेंदाइ में उपलब्ध एक्सक्लूसवि GO स्टैम्प रैली!
+TEXT: केवल सेंदाई・तोहोकु क्षेत्र में उपलब्ध एक्सक्लूसवि GO स्टैम्प रैली!
 
 RESOURCE ID: rally_sendai_2026_desc_detail
-TEXT: सेंदाइ में एक इतहिासकि पथ पर फैले कई GO स्टैम्प रैली पोकेस्टॉप पर जाएँ और स्टैम्प इकट्ठे करें!
+TEXT: सेंदाई・तोहोकु क्षेत्र में एक इतहिासकि पथ पर फैले कई GO स्टैम्प रैली पोकेस्टॉप पर जाएँ और स्टैम्प इकट्ठे करें!
 
 RESOURCE ID: rally_sendai_2026_location
-TEXT: सेंदाइ, जापान
+TEXT: सेंदाई・तोहोकु, जापान
 
 RESOURCE ID: rally_sendai_2026_rewards_desc
 TEXT: इस रैली के चलते समय सेंदाइ के लोकेशन बैकग्राउंड वाले लैप्रस से मुलाकात करें।
@@ -113989,7 +114013,7 @@ RESOURCE ID: sa_parent_dashboard_url
 TEXT: https://app.parents.scopelyexplore.com/portal/hi/login
 
 RESOURCE ID: sa_registration_url
-TEXT: https://scopelyexplore-sso.kws.superawesome.tv/hi/register
+TEXT: https://sso.scopelyexplore.kidswebservices.com/en/register
 
 RESOURCE ID: sableye_drop_mega_energy
 TEXT: कालज़र पकड़ने पर सेबलआई मेगा एनर्जि मिलने की संभावना होगी
@@ -123073,7 +123097,7 @@ RESOURCE ID: steel_and_scales_event_name
 TEXT: अल्ट्रा अनलॉक - स्टील और स्केल्स
 
 RESOURCE ID: steel_poi_spin_plural
-TEXT: स्टील टाइप थीम वाले {0} पोकेस्टॉप स्पनि करें
+TEXT: स्टील टाइप-थीम वाले {0} अलग-अलग पोकेस्टॉप स्पनि करें
 
 RESOURCE ID: steel_poi_spin_singular
 TEXT: स्टील टाइप थीम वाला पोकेस्टॉप स्पनि करें
@@ -126977,6 +127001,15 @@ TEXT: अजूबों से भरी दुनिया - टेक ओव�
 
 RESOURCE ID: tgr_takeover_s13_event_name
 TEXT: लूटा खज़ाना
+
+RESOURCE ID: th_poke_center_bangkok_title
+TEXT: Pokémon Center BANGKOK Opens!
+
+RESOURCE ID: th_poke_center_bangkok_bonus_0
+TEXT: Receive themed stickers when you spin PokéStops in Thailand
+
+RESOURCE ID: th_poke_center_bangkok_tv_desc
+TEXT: The Pokémon Center in Bangkok is now open! Timed Research offers rewards and stickers, with more stickers available from PokéStop spins. Visit the blog for details.
 
 RESOURCE ID: thai
 TEXT: ภาษาไทย
@@ -131293,6 +131326,24 @@ TEXT: दो...
 
 RESOURCE ID: tr_pitch_perfect_desc_02
 TEXT: तीन स्ट्राइक! आप आउट हो गए!
+
+RESOURCE ID: tr_poke_center_bgk_2026
+TEXT: Pokémon Center BANGKOK Opens! Timed Research
+
+RESOURCE ID: tr_poke_center_bgk_2026_id_1_header
+TEXT: Pokémon Center BANGKOK Opens! Timed Research (1/5)
+
+RESOURCE ID: tr_poke_center_bgk_2026_id_2_header
+TEXT: Pokémon Center BANGKOK Opens! Timed Research (2/5)
+
+RESOURCE ID: tr_poke_center_bgk_2026_id_3_header
+TEXT: Pokémon Center BANGKOK Opens! Timed Research (3/5)
+
+RESOURCE ID: tr_poke_center_bgk_2026_id_4_header
+TEXT: Pokémon Center BANGKOK Opens! Timed Research (4/5)
+
+RESOURCE ID: tr_poke_center_bgk_2026_id_5_header
+TEXT: Pokémon Center BANGKOK Opens! Timed Research (5/5)
 
 RESOURCE ID: tr_pokemon_go_lab_jul2026_header
 TEXT: Pokémon GO Lab ...बड़ा एडवेंचर! सीमति समय वाली रसिर्च

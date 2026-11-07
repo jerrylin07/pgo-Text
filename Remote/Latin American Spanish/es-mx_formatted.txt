@@ -26851,6 +26851,30 @@ TEXT: Okaya
 RESOURCE ID: city_manhole_485
 TEXT: Kiso
 
+RESOURCE ID: city_manhole_486
+TEXT: Shibukawa
+
+RESOURCE ID: city_manhole_487
+TEXT: Geisei
+
+RESOURCE ID: city_manhole_488
+TEXT: Sakawa
+
+RESOURCE ID: city_manhole_489
+TEXT: Tosa
+
+RESOURCE ID: city_manhole_490
+TEXT: Naganohara
+
+RESOURCE ID: city_manhole_491
+TEXT: Numata
+
+RESOURCE ID: city_manhole_492
+TEXT: Shimanto
+
+RESOURCE ID: city_manhole_493
+TEXT: Ino
+
 RESOURCE ID: city_manhole_4(ibusuki)_d64e
 TEXT: Ibusuki
 
@@ -60919,10 +60943,10 @@ at SHA 0b3915937aff7
 Pipeline 2177475, job 26434025
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-11-06T00:56:32.081142+00:00 for es-MX
-at SHA c36620063aca
-Pipeline 4080589, job 60204301
-Patch from: 0.437.0-SHA-2396e31c-RC3, 0.435.98-SHA-b3319c4b-RC1
+TEXT: Built at 2026-11-07T00:39:18.752246+00:00 for es-MX
+at SHA 25bcca1ef84
+Pipeline 4083835, job 60265410
+Patch from: 0.437.0-SHA-17709004-RC5, 0.435.98-SHA-b3319c4b-RC1
 
 RESOURCE ID: meteor_title_1
 TEXT: LLUVIA DE METEOROS
@@ -69228,7 +69252,7 @@ RESOURCE ID: poi_contrib_report_reason_school
 TEXT: Escuela
 
 RESOURCE ID: poi_contrib_report_reason_ai_generated_or_doctored_photo
-TEXT: AI-Generated or Doctored Photo
+TEXT: Foto generada o editada con IA
 
 RESOURCE ID: poi_contrib_report_reason_duplicate_custom
 TEXT: {0} ya existente
@@ -113731,7 +113755,7 @@ RESOURCE ID: sa_parent_dashboard_url
 TEXT: https://app.parents.scopelyexplore.com/portal/es/login
 
 RESOURCE ID: sa_registration_url
-TEXT: https://scopelyexplore-sso.kws.superawesome.tv/es/register
+TEXT: https://sso.scopelyexplore.kidswebservices.com/es/register
 
 RESOURCE ID: sableye_drop_mega_energy
 TEXT: Puedes recibir Megaenergía Sableye al atrapar Sableye
@@ -126665,6 +126689,15 @@ TEXT: Mundo de las Maravillas: Invasión (2/2)
 RESOURCE ID: tgr_takeover_s13_event_name
 TEXT: Tesoros saqueados
 
+RESOURCE ID: th_poke_center_bangkok_title
+TEXT: Pokémon Center BANGKOK Opens!
+
+RESOURCE ID: th_poke_center_bangkok_bonus_0
+TEXT: Receive themed stickers when you spin PokéStops in Thailand
+
+RESOURCE ID: th_poke_center_bangkok_tv_desc
+TEXT: The Pokémon Center in Bangkok is now open! Timed Research offers rewards and stickers, with more stickers available from PokéStop spins. Visit the blog for details.
+
 RESOURCE ID: thai
 TEXT: ภาษาไทย
 
@@ -130971,6 +131004,24 @@ TEXT: Dos…
 
 RESOURCE ID: tr_pitch_perfect_desc_02
 TEXT: ¡Tres strikes! ¡Estás fuera!
+
+RESOURCE ID: tr_poke_center_bgk_2026
+TEXT: Pokémon Center BANGKOK Opens! Timed Research
+
+RESOURCE ID: tr_poke_center_bgk_2026_id_1_header
+TEXT: Pokémon Center BANGKOK Opens! Timed Research (1/5)
+
+RESOURCE ID: tr_poke_center_bgk_2026_id_2_header
+TEXT: Pokémon Center BANGKOK Opens! Timed Research (2/5)
+
+RESOURCE ID: tr_poke_center_bgk_2026_id_3_header
+TEXT: Pokémon Center BANGKOK Opens! Timed Research (3/5)
+
+RESOURCE ID: tr_poke_center_bgk_2026_id_4_header
+TEXT: Pokémon Center BANGKOK Opens! Timed Research (4/5)
+
+RESOURCE ID: tr_poke_center_bgk_2026_id_5_header
+TEXT: Pokémon Center BANGKOK Opens! Timed Research (5/5)
 
 RESOURCE ID: tr_pokemon_go_lab_jul2026_header
 TEXT: Investigación Temporal de Una gran aventura en Pokémon GO Lab.

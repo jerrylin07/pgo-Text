@@ -29097,6 +29097,30 @@ TEXT: Okaya
 RESOURCE ID: city_manhole_485
 TEXT: Kiso
 
+RESOURCE ID: city_manhole_486
+TEXT: Shibukawa
+
+RESOURCE ID: city_manhole_487
+TEXT: Geisei
+
+RESOURCE ID: city_manhole_488
+TEXT: Sakawa
+
+RESOURCE ID: city_manhole_489
+TEXT: Tosa
+
+RESOURCE ID: city_manhole_490
+TEXT: Naganohara
+
+RESOURCE ID: city_manhole_491
+TEXT: Numata
+
+RESOURCE ID: city_manhole_492
+TEXT: Shimanto
+
+RESOURCE ID: city_manhole_493
+TEXT: Ino
+
 RESOURCE ID: city_manhole_4(ibusuki)_d64e
 TEXT: Ibusuki
 
@@ -63378,10 +63402,10 @@ at SHA 4d4f3e80cc7fb911006bd14d198c9831ef66d005
 Pipeline 339838, job 2672172
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-11-06T00:56:32.081142+00:00 for it-IT
-at SHA c36620063aca
-Pipeline 4080589, job 60204301
-Patch from: 0.437.0-SHA-2396e31c-RC3, 0.435.98-SHA-b3319c4b-RC1
+TEXT: Built at 2026-11-07T00:39:18.752246+00:00 for it-IT
+at SHA 25bcca1ef84
+Pipeline 4083835, job 60265410
+Patch from: 0.437.0-SHA-17709004-RC5, 0.435.98-SHA-b3319c4b-RC1
 
 RESOURCE ID: meteor_title_1
 TEXT: PIOGGIA DI METEORE
@@ -116878,7 +116902,7 @@ RESOURCE ID: sa_parent_dashboard_url
 TEXT: https://app.parents.scopelyexplore.com/portal/it/login
 
 RESOURCE ID: sa_registration_url
-TEXT: https://scopelyexplore-sso.kws.superawesome.tv/it/register
+TEXT: https://sso.scopelyexplore.kidswebservices.com/it/register
 
 RESOURCE ID: sableye_drop_mega_energy
 TEXT: Catturando Sableye potresti ricevere Megaenergie Sableye
@@ -119762,7 +119786,7 @@ RESOURCE ID: select_a_pokemon
 TEXT: Seleziona un Pokémon
 
 RESOURCE ID: select_a_paid_gift
-TEXT: Select a paid gift to send to your friend
+TEXT: Seleziona un regalo a pagamento da inviare al tuo amico
 
 RESOURCE ID: select_gift_to_delete_prompt
 TEXT: Scegli i pacchi amicizia da eliminare
@@ -119807,7 +119831,7 @@ RESOURCE ID: send_video_ad_report_button
 TEXT: INVIA SEGNALAZIONE
 
 RESOURCE ID: sending_paid_gift_to
-TEXT: You are sending this paid gift to:
+TEXT: Stai inviando questo regalo a pagamento a:
 
 RESOURCE ID: sent_friend_error_toast
 TEXT: Questo Allenatore ha raggiunto il suo limite giornaliero di Lotte Dynamax da remoto e raid da remoto.
@@ -121118,14 +121142,14 @@ TEXT: Uno dei tuoi amici potrebbere non avere i requisiti per ricevere biglietti
 • Non possiedi il livello minimo di amicizia richiesto per inviare un biglietto in regalo a questo amico.
 
 RESOURCE ID: shop_gift_friend_ineligible_description_temp
-TEXT: Potresti non essere in grado di inviare regali a pagamento, come strumenti e biglietti, ad alcuni amici. Il motivo può essere uno tra questi:
-
-• L’amico possiede già il biglietto che vuoi regalargli, oppure qualcun altro gliel’ha già inviato
-• L’amico potrebbe avere una ricerca attiva o completa che gli impedisce di ricevere biglietti
-• Il livello di amicizia non è abbastanza alto
-• L’amico non ha attivato i regali a pagamento
-• Il suo account non è idoneo a causa di determinate restrizioni
-• Gli scambi in valute diverse non sono supportati
+TEXT: Non puoi inviare un regalo a pagamento se il ricevente:
+• Possiede già il biglietto o il biglietto GO deluxe
+• Ha raggiunto il limite massimo per lo strumento in questione
+• Ha delle ricerche attive o completate che gli impediscono di ricevere il biglietto
+• Non ha raggiunto il livello di amicizia richiesto
+• Ha disattivato i regali a pagamento
+• Ha delle restrizioni che lo rendono inidoneo
+• Usa un’altra valuta; i regali tra valute diverse non sono supportati
 
 RESOURCE ID: shop_gift_invitation_title
 TEXT: INVITO
@@ -129889,6 +129913,15 @@ TEXT: Attacco del Mondo di meraviglie (2/2)
 RESOURCE ID: tgr_takeover_s13_event_name
 TEXT: Tesori saccheggiati
 
+RESOURCE ID: th_poke_center_bangkok_title
+TEXT: Pokémon Center BANGKOK Opens!
+
+RESOURCE ID: th_poke_center_bangkok_bonus_0
+TEXT: Receive themed stickers when you spin PokéStops in Thailand
+
+RESOURCE ID: th_poke_center_bangkok_tv_desc
+TEXT: The Pokémon Center in Bangkok is now open! Timed Research offers rewards and stickers, with more stickers available from PokéStop spins. Visit the blog for details.
+
 RESOURCE ID: thai
 TEXT: ภาษาไทย
 
@@ -134223,6 +134256,24 @@ TEXT: Due...
 
 RESOURCE ID: tr_pitch_perfect_desc_02
 TEXT: Tre strike! Sei fuori!
+
+RESOURCE ID: tr_poke_center_bgk_2026
+TEXT: Pokémon Center BANGKOK Opens! Timed Research
+
+RESOURCE ID: tr_poke_center_bgk_2026_id_1_header
+TEXT: Pokémon Center BANGKOK Opens! Timed Research (1/5)
+
+RESOURCE ID: tr_poke_center_bgk_2026_id_2_header
+TEXT: Pokémon Center BANGKOK Opens! Timed Research (2/5)
+
+RESOURCE ID: tr_poke_center_bgk_2026_id_3_header
+TEXT: Pokémon Center BANGKOK Opens! Timed Research (3/5)
+
+RESOURCE ID: tr_poke_center_bgk_2026_id_4_header
+TEXT: Pokémon Center BANGKOK Opens! Timed Research (4/5)
+
+RESOURCE ID: tr_poke_center_bgk_2026_id_5_header
+TEXT: Pokémon Center BANGKOK Opens! Timed Research (5/5)
 
 RESOURCE ID: tr_pokemon_go_lab_jul2026_header
 TEXT: Ricerca a tempo “Pokémon GO Lab... una grande avventura!”

@@ -28728,6 +28728,30 @@ TEXT: 오카야
 RESOURCE ID: city_manhole_485
 TEXT: 키소
 
+RESOURCE ID: city_manhole_486
+TEXT: Shibukawa
+
+RESOURCE ID: city_manhole_487
+TEXT: Geisei
+
+RESOURCE ID: city_manhole_488
+TEXT: Sakawa
+
+RESOURCE ID: city_manhole_489
+TEXT: Tosa
+
+RESOURCE ID: city_manhole_490
+TEXT: Naganohara
+
+RESOURCE ID: city_manhole_491
+TEXT: Numata
+
+RESOURCE ID: city_manhole_492
+TEXT: Shimanto
+
+RESOURCE ID: city_manhole_493
+TEXT: Ino
+
 RESOURCE ID: city_manhole_4(ibusuki)_d64e
 TEXT: 이부스키
 
@@ -31942,7 +31966,7 @@ RESOURCE ID: downloading_avatar_assets_warning_body
 TEXT: 에셋 다운로드 중 문제가 발생했습니다. 통신 상태를 확인 후 게임을 다시 시작해 주십시오.
 
 RESOURCE ID: dragon_poi_spin_plural
-TEXT: 드래곤타입 테마 포켓스톱을 {0}개 돌린다
+TEXT: 다르 드래곤타입 테마 포켓스톱을 {0}개 돌린다
 
 RESOURCE ID: dragon_poi_spin_singular
 TEXT: 드래곤타입 테마 포켓스톱을 1개 돌린다
@@ -62806,10 +62830,10 @@ at SHA 4d4f3e80cc7fb911006bd14d198c9831ef66d005
 Pipeline 339838, job 2672172
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-11-06T00:56:32.081142+00:00 for ko-KR
-at SHA c36620063aca
-Pipeline 4080589, job 60204301
-Patch from: 0.437.0-SHA-2396e31c-RC3, 0.435.98-SHA-b3319c4b-RC1
+TEXT: Built at 2026-11-07T00:39:18.752246+00:00 for ko-KR
+at SHA 25bcca1ef84
+Pipeline 4083835, job 60265410
+Patch from: 0.437.0-SHA-17709004-RC5, 0.435.98-SHA-b3319c4b-RC1
 
 RESOURCE ID: meteor_title_1
 TEXT: 유성군
@@ -116234,7 +116258,7 @@ RESOURCE ID: sa_parent_dashboard_url
 TEXT: https://app.parents.scopelyexplore.com/portal/ko/login
 
 RESOURCE ID: sa_registration_url
-TEXT: https://scopelyexplore-sso.kws.superawesome.tv/ko/register
+TEXT: https://sso.scopelyexplore.kidswebservices.com/ko/register
 
 RESOURCE ID: sableye_drop_mega_energy
 TEXT: 깜까미를 잡으면 깜까미의 메가 에너지를 손에 넣을 수도 있다
@@ -125331,7 +125355,7 @@ RESOURCE ID: steel_and_scales_event_name
 TEXT: 울트라 언록: 강철과 비늘
 
 RESOURCE ID: steel_poi_spin_plural
-TEXT: 강철타입 테마 포켓스톱을 {0}개 돌린다
+TEXT: 다른 강철타입 테마 포켓스톱을 {0}개 돌린다
 
 RESOURCE ID: steel_poi_spin_singular
 TEXT: 강철타입 테마 포켓스톱을 1개 돌린다
@@ -129216,6 +129240,15 @@ TEXT: 월드 오브 원더즈: 점령(2/2)
 
 RESOURCE ID: tgr_takeover_s13_event_name
 TEXT: 도둑맞은 보물
+
+RESOURCE ID: th_poke_center_bangkok_title
+TEXT: Pokémon Center BANGKOK Opens!
+
+RESOURCE ID: th_poke_center_bangkok_bonus_0
+TEXT: Receive themed stickers when you spin PokéStops in Thailand
+
+RESOURCE ID: th_poke_center_bangkok_tv_desc
+TEXT: The Pokémon Center in Bangkok is now open! Timed Research offers rewards and stickers, with more stickers available from PokéStop spins. Visit the blog for details.
 
 RESOURCE ID: thai
 TEXT: ภาษาไทย
@@ -133552,6 +133585,24 @@ TEXT: 투스트라이크...
 
 RESOURCE ID: tr_pitch_perfect_desc_02
 TEXT: 쓰리스트라이크! 아웃!
+
+RESOURCE ID: tr_poke_center_bgk_2026
+TEXT: Pokémon Center BANGKOK Opens! Timed Research
+
+RESOURCE ID: tr_poke_center_bgk_2026_id_1_header
+TEXT: Pokémon Center BANGKOK Opens! Timed Research (1/5)
+
+RESOURCE ID: tr_poke_center_bgk_2026_id_2_header
+TEXT: Pokémon Center BANGKOK Opens! Timed Research (2/5)
+
+RESOURCE ID: tr_poke_center_bgk_2026_id_3_header
+TEXT: Pokémon Center BANGKOK Opens! Timed Research (3/5)
+
+RESOURCE ID: tr_poke_center_bgk_2026_id_4_header
+TEXT: Pokémon Center BANGKOK Opens! Timed Research (4/5)
+
+RESOURCE ID: tr_poke_center_bgk_2026_id_5_header
+TEXT: Pokémon Center BANGKOK Opens! Timed Research (5/5)
 
 RESOURCE ID: tr_pokemon_go_lab_jul2026_header
 TEXT: 두근 두근! Pokémon GO Lab 대조사 시간제한 리서치
