@@ -37499,6 +37499,9 @@ TEXT: 리모트 레이드패스가 들어 있는 박스가 숍에 등장
 RESOURCE ID: flavoredlure_bundle_title
 TEXT: 루어모듈 박스
 
+RESOURCE ID: flip_to_dim_settings_description
+TEXT: Dims the screen when you hold your phone upside down to help save battery.
+
 RESOURCE ID: flock_together_rd_may24_event_title
 TEXT: 비행 리서치데이
 
@@ -52000,6 +52003,24 @@ TEXT: 패스 완료로 보너스 랭크를 해제
 RESOURCE ID: hide_bonus_ranks_earn_additional_rewards
 TEXT: 추가 리워드 획득!
 
+RESOURCE ID: high_refresh_rate_prompt_title
+TEXT: Update Your Refresh Rate
+
+RESOURCE ID: high_refresh_rate_prompt_body
+TEXT: Get smoother visuals and more responsive gameplay, which may affect battery life. You can change this anytime in Settings.
+
+RESOURCE ID: high_refresh_rate_prompt_dismiss_button
+TEXT: MAYBE LATER
+
+RESOURCE ID: high_refresh_rate_prompt_enable_button
+TEXT: TURN ON
+
+RESOURCE ID: high_refresh_rate_settings_title
+TEXT: Improve Visuals and Animations
+
+RESOURCE ID: high_refresh_rate_settings_description
+TEXT: Get smoother visuals and more responsive gameplay. This may affect battery life.
+
 RESOURCE ID: high_voltage_event_nme
 TEXT: 하이볼티지
 
@@ -62177,6 +62198,9 @@ TEXT: 메가진화
 RESOURCE ID: mega_evolve
 TEXT: 메가진화
 
+RESOURCE ID: mega_2026_missing_raid_entry_toast
+TEXT: 리모트 레이드패스가 없습니다!
+
 RESOURCE ID: mega2026_ditto_cant_break_shields
 TEXT: 메타몽은 변신을 사용해도 실드를 깰 수 없습니다
 
@@ -62830,10 +62854,10 @@ at SHA 4d4f3e80cc7fb911006bd14d198c9831ef66d005
 Pipeline 339838, job 2672172
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-11-07T00:39:18.752246+00:00 for ko-KR
-at SHA 25bcca1ef84
-Pipeline 4083835, job 60265410
-Patch from: 0.437.0-SHA-17709004-RC5, 0.435.98-SHA-b3319c4b-RC1
+TEXT: Built at 2026-11-08T23:43:43.146817+00:00 for ko-KR
+at SHA d7b5f22335d
+Pipeline 4086232, job 60300249
+Patch from: 0.437.0-SHA-17709004-RC5, 0.435.2-SHA-64391288-RC1, 0.439.0-SHA-310604ba-RC1
 
 RESOURCE ID: meteor_title_1
 TEXT: 유성군
@@ -119708,6 +119732,39 @@ TEXT: Allow Post-Raid Friend Requests
 
 RESOURCE ID: settings_raid_friend_requests_tip
 TEXT: Only applies to in-person and nearby raids.
+
+RESOURCE ID: settings_refresh_rate_balanced
+TEXT: Balanced
+
+RESOURCE ID: settings_refresh_rate_high
+TEXT: High
+
+RESOURCE ID: settings_refresh_rate_low
+TEXT: Low
+
+RESOURCE ID: settings_refresh_rate_name
+TEXT: Refresh Rate
+
+RESOURCE ID: settings_refresh_rate_balanced_recommended
+TEXT: Balanced (Recommended)
+
+RESOURCE ID: settings_refresh_rate_high_recommended
+TEXT: High (Recommended)
+
+RESOURCE ID: settings_refresh_rate_incompatible_device
+TEXT: This device is not compatible for higher refresh rates.
+
+RESOURCE ID: settings_refresh_rate_low_recommended
+TEXT: Low (Recommended)
+
+RESOURCE ID: settings_refresh_rate_updated_balanced
+TEXT: Refresh Rate updated to Balanced.
+
+RESOURCE ID: settings_refresh_rate_updated_high
+TEXT: Refresh Rate updated to High.
+
+RESOURCE ID: settings_refresh_rate_updated_low
+TEXT: Refresh Rate updated to Low.
 
 RESOURCE ID: settings_remember_last_pokeball
 TEXT: 마지막에 사용한 볼 기억하기

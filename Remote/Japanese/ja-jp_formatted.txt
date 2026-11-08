@@ -32370,7 +32370,7 @@ RESOURCE ID: download_all_assets_progress_description
 TEXT: 設定から停止したダウンロードをいつでも再開できます。
 
 RESOURCE ID: download_all_assets_progress_indicator
-TEXT: {1}のうち{0}MBダウンロード済
+TEXT: {1}MBのうち{0}MBをダウンロード済み
 
 RESOURCE ID: download_all_assets_storage_full
 TEXT: デバイスのストレージがいっぱいのためダウンロード完了できませんでした。空き容量を増やしてから再度お試しください。
@@ -37981,6 +37981,9 @@ TEXT: リモートレイドパス入りボックスがショップに登場
 
 RESOURCE ID: flavoredlure_bundle_title
 TEXT: ルアーモジュールボックス
+
+RESOURCE ID: flip_to_dim_settings_description
+TEXT: 端末を逆さにすると、画面明度が低下して省電力モードになる
 
 RESOURCE ID: flock_together_rd_may24_event_title
 TEXT: ひこうリサーチデイ
@@ -52490,6 +52493,24 @@ TEXT: パス完了でボーナスランクをアンロック
 RESOURCE ID: hide_bonus_ranks_earn_additional_rewards
 TEXT: 追加リワードをゲット！
 
+RESOURCE ID: high_refresh_rate_prompt_title
+TEXT: リフレッシュレートの変更
+
+RESOURCE ID: high_refresh_rate_prompt_body
+TEXT: Get smoother visuals and more responsive gameplay, which may affect battery life. You can change this anytime in Settings.
+
+RESOURCE ID: high_refresh_rate_prompt_dismiss_button
+TEXT: MAYBE LATER
+
+RESOURCE ID: high_refresh_rate_prompt_enable_button
+TEXT: TURN ON
+
+RESOURCE ID: high_refresh_rate_settings_title
+TEXT: Improve Visuals and Animations
+
+RESOURCE ID: high_refresh_rate_settings_description
+TEXT: Get smoother visuals and more responsive gameplay. This may affect battery life.
+
 RESOURCE ID: high_voltage_event_nme
 TEXT: ハイボルテージ
 
@@ -62723,6 +62744,9 @@ TEXT: メガシンカ
 RESOURCE ID: mega_evolve
 TEXT: メガシンカ
 
+RESOURCE ID: mega_2026_missing_raid_entry_toast
+TEXT: リモートレイドパスを持っていません！
+
 RESOURCE ID: mega2026_ditto_cant_break_shields
 TEXT: メタモンはへんしんを使ってもシールドを破れません
 
@@ -63385,10 +63409,10 @@ at SHA 4d4f3e80cc7fb911006bd14d198c9831ef66d005
 Pipeline 339838, job 2672172
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-11-07T00:39:18.752246+00:00 for ja-JP
-at SHA 25bcca1ef84
-Pipeline 4083835, job 60265410
-Patch from: 0.437.0-SHA-17709004-RC5, 0.435.98-SHA-b3319c4b-RC1
+TEXT: Built at 2026-11-08T23:43:43.146817+00:00 for ja-JP
+at SHA d7b5f22335d
+Pipeline 4086232, job 60300249
+Patch from: 0.437.0-SHA-17709004-RC5, 0.435.2-SHA-64391288-RC1, 0.439.0-SHA-310604ba-RC1
 
 RESOURCE ID: meteor_title_1
 TEXT: 流星群
@@ -120448,6 +120472,39 @@ TEXT: レイドからフレンド申請
 RESOURCE ID: settings_raid_friend_requests_tip
 TEXT: 現地参加と近くのレイドでのみ可能
 
+RESOURCE ID: settings_refresh_rate_balanced
+TEXT: 中
+
+RESOURCE ID: settings_refresh_rate_high
+TEXT: 高
+
+RESOURCE ID: settings_refresh_rate_low
+TEXT: 低
+
+RESOURCE ID: settings_refresh_rate_name
+TEXT: リフレッシュレート
+
+RESOURCE ID: settings_refresh_rate_balanced_recommended
+TEXT: 中（推奨）
+
+RESOURCE ID: settings_refresh_rate_high_recommended
+TEXT: 高い（推奨）
+
+RESOURCE ID: settings_refresh_rate_incompatible_device
+TEXT: このデバイスは高リフレッシュレートに適しません
+
+RESOURCE ID: settings_refresh_rate_low_recommended
+TEXT: 低（推奨）
+
+RESOURCE ID: settings_refresh_rate_updated_balanced
+TEXT: リフレッシュレートを中に設定しました
+
+RESOURCE ID: settings_refresh_rate_updated_high
+TEXT: リフレッシュレートを高に設定しました
+
+RESOURCE ID: settings_refresh_rate_updated_low
+TEXT: リフレッシュレートを低に設定しました
+
 RESOURCE ID: settings_remember_last_pokeball
 TEXT: 最後に使ったボールを記憶
 
@@ -120617,7 +120674,7 @@ RESOURCE ID: settings_unlock_base_framerate
 TEXT: ネイティブリフレッシュレート
 
 RESOURCE ID: settings_unlock_base_framerate_description
-TEXT: なめらかなビジュアル（バッテリーを多く消費する場合があります）
+TEXT: 滑らかなビジュアル（バッテリーを多く消費する場合があります）
 
 RESOURCE ID: settings_unlock_base_framerate_description_off
 TEXT: より高いフレームレートで表示させるため、デバイスのネイティブリフレッシュレートをオンにします
@@ -130026,13 +130083,13 @@ RESOURCE ID: tgr_takeover_s13_event_name
 TEXT: 盗まれた宝
 
 RESOURCE ID: th_poke_center_bangkok_title
-TEXT: Pokémon Center BANGKOK Opens!
+TEXT: Pokémon Center BANGKOK開店記念
 
 RESOURCE ID: th_poke_center_bangkok_bonus_0
-TEXT: Receive themed stickers when you spin PokéStops in Thailand
+TEXT: タイのポケストップを回すとテーマステッカーが出る
 
 RESOURCE ID: th_poke_center_bangkok_tv_desc
-TEXT: The Pokémon Center in Bangkok is now open! Timed Research offers rewards and stickers, with more stickers available from PokéStop spins. Visit the blog for details.
+TEXT: Pokémon Center BANGKOKが開店！タイムチャレンジ完了でステッカーゲット。ポケストップを回してもらえるステッカーも増えます。詳細はブログで。
 
 RESOURCE ID: thai
 TEXT: ภาษาไทย
@@ -134534,22 +134591,22 @@ RESOURCE ID: tr_pitch_perfect_desc_02
 TEXT: スリーストライク！アウト！
 
 RESOURCE ID: tr_poke_center_bgk_2026
-TEXT: Pokémon Center BANGKOK Opens! Timed Research
+TEXT: Pokémon Center BANGKOK開店記念タイムチャレンジ
 
 RESOURCE ID: tr_poke_center_bgk_2026_id_1_header
-TEXT: Pokémon Center BANGKOK Opens! Timed Research (1/5)
+TEXT: Pokémon Center BANGKOK開店記念タイムチャレンジ(1/5)
 
 RESOURCE ID: tr_poke_center_bgk_2026_id_2_header
-TEXT: Pokémon Center BANGKOK Opens! Timed Research (2/5)
+TEXT: Pokémon Center BANGKOK開店記念タイムチャレンジ(2/5)
 
 RESOURCE ID: tr_poke_center_bgk_2026_id_3_header
-TEXT: Pokémon Center BANGKOK Opens! Timed Research (3/5)
+TEXT: Pokémon Center BANGKOK開店記念タイムチャレンジ(3/5)
 
 RESOURCE ID: tr_poke_center_bgk_2026_id_4_header
-TEXT: Pokémon Center BANGKOK Opens! Timed Research (4/5)
+TEXT: Pokémon Center BANGKOK開店記念タイムチャレンジ(4/5)
 
 RESOURCE ID: tr_poke_center_bgk_2026_id_5_header
-TEXT: Pokémon Center BANGKOK Opens! Timed Research (5/5)
+TEXT: Pokémon Center BANGKOK開店記念タイムチャレンジ(5/5)
 
 RESOURCE ID: tr_pokemon_go_lab_jul2026_header
 TEXT: わくわく！Pokémon GO Lab.
