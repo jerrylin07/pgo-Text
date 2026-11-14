@@ -62920,10 +62920,10 @@ at SHA 4d4f3e80cc7fb911006bd14d198c9831ef66d005
 Pipeline 339838, job 2672172
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-11-13T02:26:46.307191+00:00 for ko-KR
-at SHA 75857a8ba20
-Pipeline 4097987, job 60494265
-Patch from: 0.437.0-SHA-2396e31c-RC3, 0.435.2-SHA-18494160-RC2, 0.439.0-SHA-3df493e8-RC2
+TEXT: Built at 2026-11-14T02:11:58.044648+00:00 for ko-KR
+at SHA 2ffc79505f7
+Pipeline 4101628, job 60546289
+Patch from: 0.437.0-SHA-0699286a-RC6, 0.439.0-SHA-3df493e8-RC2, 0.435.98-SHA-b3319c4b-RC1
 
 RESOURCE ID: meteor_title_1
 TEXT: 유성군
@@ -85038,20 +85038,23 @@ TEXT: 트레이너 클럽
 RESOURCE ID: ptc_need_to_register_button
 TEXT: 등록하기
 
-RESOURCE ID: ptr_2026_section_1_title
+RESOURCE ID: ptr_2026_section_0_title
 TEXT: 듀오링고 시간제한 리서치
 
+RESOURCE ID: ptr_2026_section_1_title
+TEXT: 듀오링고 시간제한 리서치(1/5)
+
 RESOURCE ID: ptr_2026_section_2_title
-TEXT: 듀오링고 시간제한 리서치(1/4): 첫 마디를 캐치!
+TEXT: 듀오링고 시간제한 리서치(2/5): 첫 마디를 캐치!
 
 RESOURCE ID: ptr_2026_section_3_title
-TEXT: 듀오링고 시간제한 리서치(2/4): 세계를 탐색
+TEXT: 듀오링고 시간제한 리서치(3/5): 세계를 탐색
 
 RESOURCE ID: ptr_2026_section_4_title
-TEXT: 듀오링고 시간제한 리서치(3/4): 배움과 성장
+TEXT: 듀오링고 시간제한 리서치(4/5): 배움과 성장
 
 RESOURCE ID: ptr_2026_section_5_title
-TEXT: 듀오링고 시간제한 리서치(4/4): 리뷰타임
+TEXT: 듀오링고 시간제한 리서치(5/5): 리뷰타임
 
 RESOURCE ID: ptr_2026_section_6_title
 TEXT: 듀오링고 시간제한 리서치: 잘하고 있어요!
@@ -121275,7 +121278,6 @@ TEXT: 상대가 다음 이유로 선물을 못 받을 수 있습니다.
 - 유료 선물 수령 기능이 꺼져있다.
 - 제한이 걸려 있는 계정이다.
 - 다른 화폐를 넘나드는 선물인 경우.
-
 
 RESOURCE ID: shop_gift_invitation_title
 TEXT: 초대
