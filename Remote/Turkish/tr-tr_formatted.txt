@@ -26776,13 +26776,13 @@ RESOURCE ID: city_manhole_485
 TEXT: Kiso
 
 RESOURCE ID: city_manhole_486
-TEXT: Shibukawa
+TEXT: Şibukava
 
 RESOURCE ID: city_manhole_487
 TEXT: Geisei
 
 RESOURCE ID: city_manhole_488
-TEXT: Sakawa
+TEXT: Sakava
 
 RESOURCE ID: city_manhole_489
 TEXT: Tosa
@@ -26794,7 +26794,7 @@ RESOURCE ID: city_manhole_491
 TEXT: Numata
 
 RESOURCE ID: city_manhole_492
-TEXT: Shimanto
+TEXT: Şimanto
 
 RESOURCE ID: city_manhole_493
 TEXT: Ino
@@ -27257,6 +27257,9 @@ TEXT: Dünya Şampiyonası Toplama Görevi
 
 RESOURCE ID: collection_wcs2024_irl_bonus
 TEXT: Şampiyonun Buketi Toplama Görevi
+
+RESOURCE ID: collections_filter_group_key
+TEXT: Collections
 
 RESOURCE ID: color_cup_great_title
 TEXT: Renk Kupası: Süper Lig
@@ -33765,6 +33768,9 @@ TEXT: Evrim Etkinliği
 RESOURCE ID: evolution_item_use
 TEXT: Bu eşyayı Pokémon'unuzda kullanın!
 
+RESOURCE ID: evolutions_filter_group_key
+TEXT: Evolutions
+
 RESOURCE ID: evolve_best_buddy_confirmation
 TEXT: En İyi Dostunuz {0} evrimleştirilsin mi?
 
@@ -35017,6 +35023,9 @@ TEXT: mesafe
 RESOURCE ID: filter_key_dough
 TEXT: gigantamaks
 
+RESOURCE ID: filter_key_event
+TEXT: event
+
 RESOURCE ID: filter_key_evolvemega
 TEXT: megaevrim
 
@@ -35140,6 +35149,12 @@ TEXT: konumarkaplanı
 RESOURCE ID: filter_key_mega_level
 TEXT: Mega
 
+RESOURCE ID: filter_key_more_than
+TEXT: morethan
+
+RESOURCE ID: filter_key_new_pokedex_entry
+TEXT: newpokedexentry
+
 RESOURCE ID: filter_key_profile_background
 TEXT: profilarkaplanı
 
@@ -35203,6 +35218,9 @@ TEXT: Parlak
 RESOURCE ID: filter_label_traded
 TEXT: Takaslanan
 
+RESOURCE ID: filter_label_100
+TEXT: ★ 100%
+
 RESOURCE ID: filter_label_appraisal_0
 TEXT: 0 Yıldız
 
@@ -35250,6 +35268,12 @@ TEXT: Konum Kartlı
 
 RESOURCE ID: filter_label_max_pokemon
 TEXT: Maksi Pokémon
+
+RESOURCE ID: filter_label_more_than_one
+TEXT: More Than 1
+
+RESOURCE ID: filter_label_new_pokedex_entry
+TEXT: New Pokédex Entry
 
 RESOURCE ID: filter_legwear_socks
 TEXT: Çorap
@@ -61022,10 +61046,10 @@ at SHA 413df5befdbe0d00a543f8a142221526d63b719a
 Pipeline 834428, job 8736424
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-11-14T02:11:58.044648+00:00 for tr-TR
-at SHA 2ffc79505f7
-Pipeline 4101628, job 60546289
-Patch from: 0.437.0-SHA-0699286a-RC6, 0.439.0-SHA-3df493e8-RC2, 0.435.98-SHA-b3319c4b-RC1
+TEXT: Built at 2026-11-17T23:15:34.939095+00:00 for tr-TR
+at SHA f4b280cc27d
+Pipeline 4110836, job 60669493
+Patch from: 0.439.0-SHA-310604ba-RC1, 0.435.2-SHA-18494160-RC2, 0.437.0-SHA-17709004-RC5
 
 RESOURCE ID: meteor_title_1
 TEXT: METEOR YAĞMURU
@@ -61367,7 +61391,7 @@ RESOURCE ID: month_september
 TEXT: Eylül
 
 RESOURCE ID: moonblast_base_increased_level_bonus
-TEXT: 30 Kasım 2026, Pasifik saatiyle 12.00 (GMT -8) - 13 Aralık 2026, Pasifik saatiyle 12.00 (GMT -8) arasında Mega Clefable’in seviyesi artacak.
+TEXT: 30 Kasım 2026, Pasifik saatiyle 12.00 (GMT -8) - 13 Aralık 2026, Pasifik saatiyle 12.00 (GMT -8) arasında süper maksi seviyedeki Mega Clefable’ların DG’si yükselecek.
 
 RESOURCE ID: moonblast_base_power_boost_bonus
 TEXT: 30 Kasım 2026, Pasifik saatiyle 12.00 (GMT -8) - 13 Aralık 2026, Pasifik saatiyle 12.00 (GMT -8) arasında Ay Patlaması+ gücünü artıracak.
@@ -68337,6 +68361,9 @@ TEXT: Sinyal zayıf. Cihaza yakınlaşın.
 RESOURCE ID: phantump_mastery_sep2026
 TEXT: Yakalama Ustalığı: Phantump
 
+RESOURCE ID: phenomenaandeffects_filter_group_key
+TEXT: Phenomena and Effects
+
 RESOURCE ID: photo_saved
 TEXT: Fotoğraf kaydedildi
 
@@ -68997,6 +69024,9 @@ TEXT: {0} ve diğer {1} arkadaşınız kartpostallarınızı kaydetti!
 
 RESOURCE ID: plural_friend_sent_you_gift_notification
 TEXT: {0} ve {1} diğer arkadaşınız size Hediye gönderdi!
+
+RESOURCE ID: plus_ranks
+TEXT: +{0} RANKS
 
 RESOURCE ID: plus_symbol_number_icons
 TEXT: +{0}
@@ -78025,6 +78055,9 @@ TEXT: Pokémon Deponuz Dolu
 RESOURCE ID: pokemon_inventory_remove_favorites
 TEXT: Bu arama sorgusunu Favorilerden kaldırmak istediğinizden emin misiniz?
 
+RESOURCE ID: pokemon_inventory_see_all
+TEXT: SEE ALL ({0})
+
 RESOURCE ID: pokemon_inventory_select_all
 TEXT: TÜMÜNÜ SEÇİN
 
@@ -78039,6 +78072,9 @@ TEXT: Bonus Depo Bilgisi
 
 RESOURCE ID: pokemon_inventory_special_eggs_title
 TEXT: Bonus Depo
+
+RESOURCE ID: pokemon_inventory_storage_full_banner_subtitle
+TEXT: Upgrade?
 
 RESOURCE ID: pokemon_inventory_too_many_favorites
 TEXT: Favorilere eklediğiniz çok fazla arama sorgusu var. Daha fazlasını eklemek için bir arama sorgusunu Favorilerinden kaldırmalısınız.
@@ -81655,6 +81691,9 @@ TEXT: Pokémon RUN 30: Tayvan
 RESOURCE ID: pokemon_run_2026_thailand_title
 TEXT: Pokémon RUN 30: Tayland
 
+RESOURCE ID: pokemon_search_did_you_mean
+TEXT: Did you mean...
+
 RESOURCE ID: pokemon_shiny_info_transfer_to_professor_confirmation
 TEXT: Bu Parlak Pokémon gerçekten gönderilsin mi?
 
@@ -83254,11 +83293,17 @@ TEXT: PokéDurak Taraması Nedir?
 RESOURCE ID: pups_tutorial_p3_body
 TEXT: Bu özellik sayesinde gerçek dünyadaki konumların etrafında dolaşarak ve akıllı cihazınızla video kaydederek PokéDurakları ve Spor Salonlarını tarayabilirsiniz. Taramalar, bu konumların 3 boyutlu haritalarının oluşturulmasına katkıda bulunur.
 
+RESOURCE ID: purchase_includes
+TEXT: Purchase Includes:
+
 RESOURCE ID: purchase_limit_one
 TEXT: TEK SEFERLİK
 
 RESOURCE ID: purchase_on_web_store_string_key
 TEXT: SATIN AL – İNTERNET MAĞAZASI
+
+RESOURCE ID: purchase_options_with_number
+TEXT: PURCHASE OPTIONS ({0})
 
 RESOURCE ID: purchases_remaining_text
 TEXT: KALAN {0}
@@ -119700,6 +119745,9 @@ TEXT: Devasa Cevherler Toplama Görevi
 RESOURCE ID: sizeable_surprises_event_name
 TEXT: Küçüklü Büyüklü Sürprizler
 
+RESOURCE ID: sizes_filter_group_key
+TEXT: Sizes
+
 RESOURCE ID: skiddo_o_clock
 TEXT: Skiddo Vakti
 
@@ -126296,6 +126344,9 @@ TEXT: Hadi, takımıma katıl!
 
 RESOURCE ID: team_yellow_intro|5
 TEXT: Sezgilerine güvenirsen asla kaybetmezsin!
+
+RESOURCE ID: teamgorocket_filter_group_key
+TEXT: Team GO Rocket
 
 RESOURCE ID: teammedallion_title
 TEXT: Takım Madalyonu
@@ -135756,6 +135807,9 @@ TEXT: Hava durumu uyarısı
 
 RESOURCE ID: weather_week_event_name
 TEXT: Hava Durumu Haftası
+
+RESOURCE ID: web_includes
+TEXT: WEB INCLUDES:
 
 RESOURCE ID: web_store_homepage_url_key
 TEXT: https://store.pokemongo.com/?utm_source=PGO&utm_medium=in-game-shop&utm_campaign=pgo_webstore_linkout&utm_content=webstore_icon

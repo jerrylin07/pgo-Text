@@ -29070,28 +29070,28 @@ RESOURCE ID: city_manhole_485
 TEXT: 木祖村
 
 RESOURCE ID: city_manhole_486
-TEXT: Shibukawa
+TEXT: 澀川市
 
 RESOURCE ID: city_manhole_487
-TEXT: Geisei
+TEXT: 藝西村
 
 RESOURCE ID: city_manhole_488
-TEXT: Sakawa
+TEXT: 佐川町
 
 RESOURCE ID: city_manhole_489
-TEXT: Tosa
+TEXT: 土佐市
 
 RESOURCE ID: city_manhole_490
-TEXT: Naganohara
+TEXT: 長野原町
 
 RESOURCE ID: city_manhole_491
-TEXT: Numata
+TEXT: 沼田市
 
 RESOURCE ID: city_manhole_492
-TEXT: Shimanto
+TEXT: 四萬十市
 
 RESOURCE ID: city_manhole_493
-TEXT: Ino
+TEXT: 伊野町
 
 RESOURCE ID: city_manhole_4(ibusuki)_d64e
 TEXT: 指宿市
@@ -29557,6 +29557,9 @@ TEXT: WCS收藏家挑戰
 
 RESOURCE ID: collection_wcs2024_irl_bonus
 TEXT: 冠軍花束收藏家挑戰
+
+RESOURCE ID: collections_filter_group_key
+TEXT: Collections
 
 RESOURCE ID: color_cup_great_title
 TEXT: 四色盃：超級聯盟版
@@ -36100,6 +36103,9 @@ TEXT: 進化活動
 RESOURCE ID: evolution_item_use
 TEXT: 對寶可夢用用看這個道具吧！
 
+RESOURCE ID: evolutions_filter_group_key
+TEXT: Evolutions
+
 RESOURCE ID: evolve_best_buddy_confirmation
 TEXT: 你要讓正港好夥伴 {0} 進化嗎？
 
@@ -37375,6 +37381,9 @@ TEXT: distance
 RESOURCE ID: filter_key_dough
 TEXT: 超極巨化
 
+RESOURCE ID: filter_key_event
+TEXT: event
+
 RESOURCE ID: filter_key_evolvemega
 TEXT: 超級進化
 
@@ -37498,6 +37507,12 @@ TEXT: 紀念背卡
 RESOURCE ID: filter_key_mega_level
 TEXT: 超級
 
+RESOURCE ID: filter_key_more_than
+TEXT: morethan
+
+RESOURCE ID: filter_key_new_pokedex_entry
+TEXT: newpokedexentry
+
 RESOURCE ID: filter_key_profile_background
 TEXT: 個人檔案背卡
 
@@ -37561,6 +37576,9 @@ TEXT: 異色
 RESOURCE ID: filter_label_traded
 TEXT: 交換
 
+RESOURCE ID: filter_label_100
+TEXT: ★ 100%
+
 RESOURCE ID: filter_label_appraisal_0
 TEXT: 0 Stars
 
@@ -37608,6 +37626,12 @@ TEXT: 紀念背卡
 
 RESOURCE ID: filter_label_max_pokemon
 TEXT: 極巨寶可夢
+
+RESOURCE ID: filter_label_more_than_one
+TEXT: More Than 1
+
+RESOURCE ID: filter_label_new_pokedex_entry
+TEXT: New Pokédex Entry
 
 RESOURCE ID: filter_legwear_socks
 TEXT: 襪子
@@ -63396,10 +63420,10 @@ at SHA 4d4f3e80cc7fb911006bd14d198c9831ef66d005
 Pipeline 339838, job 2672172
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-11-14T02:11:58.044648+00:00 for zh-TW
-at SHA 2ffc79505f7
-Pipeline 4101628, job 60546289
-Patch from: 0.437.0-SHA-0699286a-RC6, 0.439.0-SHA-3df493e8-RC2, 0.435.98-SHA-b3319c4b-RC1
+TEXT: Built at 2026-11-17T23:15:34.939095+00:00 for zh-TW
+at SHA f4b280cc27d
+Pipeline 4110836, job 60669493
+Patch from: 0.439.0-SHA-310604ba-RC1, 0.435.2-SHA-18494160-RC2, 0.437.0-SHA-17709004-RC5
 
 RESOURCE ID: meteor_title_1
 TEXT: 流星雨
@@ -63741,7 +63765,7 @@ RESOURCE ID: month_september
 TEXT: 9月
 
 RESOURCE ID: moonblast_base_increased_level_bonus
-TEXT: 超級皮可西等級提升（太平洋標準時間11月30日12:00～12月13日12:00）
+TEXT: 達到超級頂尖級的超級皮可西的CP提升（太平洋標準時間11月30日12:00～12月13日12:00）
 
 RESOURCE ID: moonblast_base_power_boost_bonus
 TEXT: 「月亮之力+」威力增強（太平洋標準時間11月30日12:00～12月13日12:00）
@@ -70826,6 +70850,9 @@ TEXT: 訊號微弱。請將Pokémon GO Plus移至行動裝置附近
 RESOURCE ID: phantump_mastery_sep2026
 TEXT: 捕捉達人：小木靈
 
+RESOURCE ID: phenomenaandeffects_filter_group_key
+TEXT: Phenomena and Effects
+
 RESOURCE ID: photo_saved
 TEXT: 照片已儲存
 
@@ -71484,6 +71511,9 @@ TEXT: {0}和其他 {1} 幾位朋友儲存了你的明信片！
 
 RESOURCE ID: plural_friend_sent_you_gift_notification
 TEXT: 收到來自 {0} 和其他 {1} 位朋友的友情禮物了！
+
+RESOURCE ID: plus_ranks
+TEXT: +{0} RANKS
 
 RESOURCE ID: plus_symbol_number_icons
 TEXT: +{0}
@@ -80572,6 +80602,9 @@ TEXT: 寶可夢盒已經滿了！
 RESOURCE ID: pokemon_inventory_remove_favorites
 TEXT: 確定要將此搜尋條件從常用搜尋中刪除嗎？
 
+RESOURCE ID: pokemon_inventory_see_all
+TEXT: SEE ALL ({0})
+
 RESOURCE ID: pokemon_inventory_select_all
 TEXT: 全選
 
@@ -80586,6 +80619,9 @@ TEXT: 什麼是「獎勵儲存空間」？
 
 RESOURCE ID: pokemon_inventory_special_eggs_title
 TEXT: 獎勵儲存空間
+
+RESOURCE ID: pokemon_inventory_storage_full_banner_subtitle
+TEXT: Upgrade?
 
 RESOURCE ID: pokemon_inventory_too_many_favorites
 TEXT: 可儲存的常用搜尋條件已滿，無法新增。請先刪除先前儲存的常用搜尋條件再嘗試新增。
@@ -84202,6 +84238,9 @@ TEXT: Pokémon RUN 30: 台灣
 RESOURCE ID: pokemon_run_2026_thailand_title
 TEXT: Pokémon RUN 30: 泰國
 
+RESOURCE ID: pokemon_search_did_you_mean
+TEXT: Did you mean...
+
 RESOURCE ID: pokemon_shiny_info_transfer_to_professor_confirmation
 TEXT: 確定要傳送這隻異色寶可夢嗎？
 
@@ -85798,11 +85837,17 @@ TEXT: What Is PokéStop Scanning?
 RESOURCE ID: pups_tutorial_p3_body
 TEXT: 在寶可補給站和道館散步時，可使用裝置拍攝動畫。動畫將被用來製作該地的3D地圖。
 
+RESOURCE ID: purchase_includes
+TEXT: Purchase Includes:
+
 RESOURCE ID: purchase_limit_one
 TEXT: 限購1次
 
 RESOURCE ID: purchase_on_web_store_string_key
 TEXT: 到WEB STORE購買
+
+RESOURCE ID: purchase_options_with_number
+TEXT: PURCHASE OPTIONS ({0})
 
 RESOURCE ID: purchases_remaining_text
 TEXT: 可再買 {0} 個
@@ -122471,6 +122516,9 @@ TEXT: 特大號收藏家挑戰
 RESOURCE ID: sizeable_surprises_event_name
 TEXT: 尺寸驚喜
 
+RESOURCE ID: sizes_filter_group_key
+TEXT: Sizes
+
 RESOURCE ID: skiddo_o_clock
 TEXT: 坐騎小羊時刻
 
@@ -129080,6 +129128,9 @@ TEXT: 來參加我的隊伍吧！
 RESOURCE ID: team_yellow_intro|5
 TEXT: 相信你的直覺，就能百戰百勝！
 
+RESOURCE ID: teamgorocket_filter_group_key
+TEXT: Team GO Rocket
+
 RESOURCE ID: teammedallion_title
 TEXT: 轉隊獎章
 
@@ -130770,10 +130821,10 @@ RESOURCE ID: th_poke_center_bangkok_title
 TEXT: Pokémon Center BANGKOK開張紀念
 
 RESOURCE ID: th_poke_center_bangkok_bonus_0
-TEXT: 旋轉泰國的寶可補給站會出現活動貼圖
+TEXT: 旋轉泰國的寶可補給站轉盤會出現主題貼圖
 
 RESOURCE ID: th_poke_center_bangkok_tv_desc
-TEXT: Pokémon Center BANGKOK開張了！可透過完成限時調查來獲得貼圖。旋轉寶可補給站時可獲得的貼圖也會增加。詳情請至官方部落格確認。
+TEXT: Pokémon Center BANGKOK開張了！完成限時調查即可獲得貼圖。旋轉寶可補給站轉盤時可獲得的貼圖也會增加。詳情請至官方部落格確認。
 
 RESOURCE ID: thai
 TEXT: ภาษาไทย
@@ -138722,6 +138773,9 @@ TEXT: 天氣警告
 
 RESOURCE ID: weather_week_event_name
 TEXT: 氣象週
+
+RESOURCE ID: web_includes
+TEXT: WEB INCLUDES:
 
 RESOURCE ID: web_store_homepage_url_key
 TEXT: https://store.pokemongo.com/?utm_source=PGO&utm_medium=in-game-shop&utm_campaign=pgo_webstore_linkout&utm_content=webstore_icon

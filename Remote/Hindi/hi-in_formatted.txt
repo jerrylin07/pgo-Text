@@ -27108,6 +27108,9 @@ TEXT: World Championships Collection Challenge
 RESOURCE ID: collection_wcs2024_irl_bonus
 TEXT: चैंपियन का गुलदस्ता कलेक्शन चैलेंज
 
+RESOURCE ID: collections_filter_group_key
+TEXT: Collections
+
 RESOURCE ID: color_cup_great_title
 TEXT: Color Cup: Great League Edition
 
@@ -33612,6 +33615,9 @@ TEXT: एवोलूशन इवेंट
 RESOURCE ID: evolution_item_use
 TEXT: अपने पोकेमॉन पर यह आइटम इस्तेमाल करें!
 
+RESOURCE ID: evolutions_filter_group_key
+TEXT: Evolutions
+
 RESOURCE ID: evolve_best_buddy_confirmation
 TEXT: क्या आप अपने सबसे अच्छे पार्टनर {0}को विकसित करना चाहते हैं?
 
@@ -34843,6 +34849,9 @@ TEXT: दूरी
 RESOURCE ID: filter_key_dough
 TEXT: जायगैंटामैक्स
 
+RESOURCE ID: filter_key_event
+TEXT: event
+
 RESOURCE ID: filter_key_evolvemega
 TEXT: मेगा एवॉल्व
 
@@ -34966,6 +34975,12 @@ TEXT: लोकेशनबैकग्राउंड
 RESOURCE ID: filter_key_mega_level
 TEXT: Mega
 
+RESOURCE ID: filter_key_more_than
+TEXT: morethan
+
+RESOURCE ID: filter_key_new_pokedex_entry
+TEXT: newpokedexentry
+
 RESOURCE ID: filter_key_profile_background
 TEXT: प्रोफ़ाइल बैकग्राउंड
 
@@ -35029,6 +35044,9 @@ TEXT: शाइनी
 RESOURCE ID: filter_label_traded
 TEXT: ट्रेड किया गया
 
+RESOURCE ID: filter_label_100
+TEXT: ★ 100%
+
 RESOURCE ID: filter_label_appraisal_0
 TEXT: 0 स्टार
 
@@ -35076,6 +35094,12 @@ TEXT: लोकेशन कार्ड है
 
 RESOURCE ID: filter_label_max_pokemon
 TEXT: मैक्स पोकेमॉन
+
+RESOURCE ID: filter_label_more_than_one
+TEXT: More Than 1
+
+RESOURCE ID: filter_label_new_pokedex_entry
+TEXT: New Pokédex Entry
 
 RESOURCE ID: filter_legwear_socks
 TEXT: जुराबें
@@ -35363,7 +35387,7 @@ RESOURCE ID: flavoredlure_bundle_title
 TEXT: अट्रैक्ट मॉड्यूल बॉक्स
 
 RESOURCE ID: flip_to_dim_settings_description
-TEXT: Dims the screen when you hold your phone upside down to help save battery.
+TEXT: बैटरी बचाने के लिए, फ़ोन को उल्टा पकड़ने पर स्क्रीन की चमक कम कर देता है।
 
 RESOURCE ID: flock_together_rd_may24_event_title
 TEXT: फ़्लाइंग रिसर्च दिवस
@@ -49960,22 +49984,22 @@ RESOURCE ID: hide_bonus_ranks_earn_additional_rewards
 TEXT: अतिरिक्त रिवॉर्ड पाएँ!
 
 RESOURCE ID: high_refresh_rate_prompt_title
-TEXT: Update Your Refresh Rate
+TEXT: अपना रफ़्रिेश रेट बदलें
 
 RESOURCE ID: high_refresh_rate_prompt_body
-TEXT: Get smoother visuals and more responsive gameplay, which may affect battery life. You can change this anytime in Settings.
+TEXT: अधकि स्मूद वज़िुअल और रस्पिॉन्सवि गेमप्ले पाएँ। इससे बैटरी लाइफ़ पर प्रभाव पड़ सकता है। आप इसे सेटिंग्स में कभी भी बदल सकते हैं।
 
 RESOURCE ID: high_refresh_rate_prompt_dismiss_button
-TEXT: MAYBE LATER
+TEXT: बाद में
 
 RESOURCE ID: high_refresh_rate_prompt_enable_button
-TEXT: TURN ON
+TEXT: चालू करें
 
 RESOURCE ID: high_refresh_rate_settings_title
-TEXT: Improve Visuals and Animations
+TEXT: वज़िुअल और एनमिेशन को और बढ़यिा बनाएँ
 
 RESOURCE ID: high_refresh_rate_settings_description
-TEXT: Get smoother visuals and more responsive gameplay. This may affect battery life.
+TEXT: अधकि स्मूद वज़िुअल और रस्पिॉन्सवि गेमप्ले पाएँ। इससे बैटरी लाइफ़ पर प्रभाव पड़ सकता है।
 
 RESOURCE ID: high_voltage_event_nme
 TEXT: हाई वोल्टेज
@@ -60799,10 +60823,10 @@ at SHA 12701f1c07ae7f07a5d50583f697320977df7988
 Pipeline 1139111, job 13470914
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-11-14T02:11:58.044648+00:00 for hi-IN
-at SHA 2ffc79505f7
-Pipeline 4101628, job 60546289
-Patch from: 0.437.0-SHA-0699286a-RC6, 0.439.0-SHA-3df493e8-RC2, 0.435.98-SHA-b3319c4b-RC1
+TEXT: Built at 2026-11-17T23:15:34.939095+00:00 for hi-IN
+at SHA f4b280cc27d
+Pipeline 4110836, job 60669493
+Patch from: 0.439.0-SHA-310604ba-RC1, 0.435.2-SHA-18494160-RC2, 0.437.0-SHA-17709004-RC5
 
 RESOURCE ID: meteor_title_1
 TEXT: मीटयिोर शावर
@@ -68151,6 +68175,9 @@ TEXT: सिग्नल कमज़ोर है। डिवाइस के 
 RESOURCE ID: phantump_mastery_sep2026
 TEXT: कैच मास्टरी - फ़ैंटम्प
 
+RESOURCE ID: phenomenaandeffects_filter_group_key
+TEXT: Phenomena and Effects
+
 RESOURCE ID: photo_saved
 TEXT: फ़ोटो सेव हो गई
 
@@ -68810,6 +68837,9 @@ TEXT: {0} and {1} other friends have saved your Postcards!
 
 RESOURCE ID: plural_friend_sent_you_gift_notification
 TEXT: {0} और {1} दूसरे दोस्तों ने आपको गिफ़्ट भेजे हैं!
+
+RESOURCE ID: plus_ranks
+TEXT: +{0} RANKS
 
 RESOURCE ID: plus_symbol_number_icons
 TEXT: +{0}
@@ -77825,6 +77855,9 @@ TEXT: आपका पोकेमॉन स्टोरेज फ़ुल ह�
 RESOURCE ID: pokemon_inventory_remove_favorites
 TEXT: क्या आप वाकई इस सर्च को अपने पसंदीदा सेक्शन से हटाना चाहते हैं?
 
+RESOURCE ID: pokemon_inventory_see_all
+TEXT: SEE ALL ({0})
+
 RESOURCE ID: pokemon_inventory_select_all
 TEXT: सभी चुनें
 
@@ -77839,6 +77872,9 @@ TEXT: बोनस स्टोरेज की जानकारी
 
 RESOURCE ID: pokemon_inventory_special_eggs_title
 TEXT: बोनस स्टोरेज
+
+RESOURCE ID: pokemon_inventory_storage_full_banner_subtitle
+TEXT: Upgrade?
 
 RESOURCE ID: pokemon_inventory_too_many_favorites
 TEXT: आपने बहुत ज़्यादा सर्च को पसंद कर रखा है। और जोड़ने के लिए आपको अपने पसंदीदा सेक्शन से एक सर्च हटानी होगी।
@@ -81456,6 +81492,9 @@ TEXT: Pokémon RUN 30 - ताइवान एडशिन
 RESOURCE ID: pokemon_run_2026_thailand_title
 TEXT: Pokémon RUN 30 - थाईलैंड एडशिन
 
+RESOURCE ID: pokemon_search_did_you_mean
+TEXT: Did you mean...
+
 RESOURCE ID: pokemon_shiny_info_transfer_to_professor_confirmation
 TEXT: क्या आप वाकई इस शाइनी पोकेमॉन को ट्रांसफ़र करना चाहते हैं?
 
@@ -83052,11 +83091,17 @@ TEXT: पोकेस्टॉप स्कैन क्या होता ह�
 RESOURCE ID: pups_tutorial_p3_body
 TEXT: इस सुविधा की मदद से, आप पोकेस्टॉप और जिम की असल दुनिया वाली लोकेशन के आस-पास घूमकर और अपने स्मार्ट डिवाइस की मदद से वीडियो रिकॉर्ड करके, उन्हें स्कैन कर सकते हैं। यह स्कैन उन लोकेशन के 3D मैप बनाने में काम आएंगे।
 
+RESOURCE ID: purchase_includes
+TEXT: Purchase Includes:
+
 RESOURCE ID: purchase_limit_one
 TEXT: सिर्फ़ एक बार
 
 RESOURCE ID: purchase_on_web_store_string_key
 TEXT: WEB STORE पर खरीदें
+
+RESOURCE ID: purchase_options_with_number
+TEXT: PURCHASE OPTIONS ({0})
 
 RESOURCE ID: purchases_remaining_text
 TEXT: {0} बचे हैं
@@ -117860,7 +117905,7 @@ RESOURCE ID: settings_advanced_privacy_title
 TEXT: गोपनीयता
 
 RESOURCE ID: settings_advanced_quality_title
-TEXT: Quality
+TEXT: परफ़ॉर्मेंस
 
 RESOURCE ID: settings_advanced_sharing_title
 TEXT: Sharing
@@ -118187,37 +118232,37 @@ RESOURCE ID: settings_raid_friend_requests_tip
 TEXT: सिर्फ़ इन-पर्सन और आस-पास की रेड पर लागू होता है।
 
 RESOURCE ID: settings_refresh_rate_balanced
-TEXT: Balanced
+TEXT: संतुलति
 
 RESOURCE ID: settings_refresh_rate_high
-TEXT: High
+TEXT: अधकि
 
 RESOURCE ID: settings_refresh_rate_low
-TEXT: Low
+TEXT: कम
 
 RESOURCE ID: settings_refresh_rate_name
-TEXT: Refresh Rate
+TEXT: रफ़्रिेश रेट
 
 RESOURCE ID: settings_refresh_rate_balanced_recommended
-TEXT: Balanced (Recommended)
+TEXT: संतुलति (सुझाया गया)
 
 RESOURCE ID: settings_refresh_rate_high_recommended
-TEXT: High (Recommended)
+TEXT: अधकि (सुझाया गया)
 
 RESOURCE ID: settings_refresh_rate_incompatible_device
-TEXT: This device is not compatible for higher refresh rates.
+TEXT: यह डविाइस अधकि रफ़्रिेश रेट सपोर्ट नहीं करता।
 
 RESOURCE ID: settings_refresh_rate_low_recommended
-TEXT: Low (Recommended)
+TEXT: कम (सुझाया गया)
 
 RESOURCE ID: settings_refresh_rate_updated_balanced
-TEXT: Refresh Rate updated to Balanced.
+TEXT: रफ़्रिेश रेट "संतुलति" पर सेट कर दयिा गया।
 
 RESOURCE ID: settings_refresh_rate_updated_high
-TEXT: Refresh Rate updated to High.
+TEXT: रफ़्रिेश रेट "अधकि" पर सेट कर दयिा गया।
 
 RESOURCE ID: settings_refresh_rate_updated_low
-TEXT: Refresh Rate updated to Low.
+TEXT: रफ़्रिेश रेट "कम" पर सेट कर दयिा गया।
 
 RESOURCE ID: settings_remember_last_pokeball
 TEXT: Remember Last-Used Poké Ball
@@ -118387,7 +118432,7 @@ RESOURCE ID: settings_unlock_base_framerate
 TEXT: नेटिव रिफ़्रेश रेट
 
 RESOURCE ID: settings_unlock_base_framerate_description
-TEXT:  बेहतर और रिस्पॉन्सिव विज़ुअल आपकी बैटरी लाइफ़ को प्रभावित कर सकते हैं।
+TEXT: अधकि स्मूद और रस्पिॉन्सवि वज़िुअल चालू करें। इससे बैटरी लाइफ़ पर प्रभाव पड़ सकता है।
 
 RESOURCE ID: settings_unlock_base_framerate_description_off
 TEXT: ज़्यादा FPS के लिए अपने डिवाइस का नेटिव रिफ़्रेश रेट अनलॉक करें।
@@ -119486,6 +119531,9 @@ TEXT: बड़ा धमाका कलेक्शन चैलेंज
 
 RESOURCE ID: sizeable_surprises_event_name
 TEXT: साइज़ सरप्राइज़
+
+RESOURCE ID: sizes_filter_group_key
+TEXT: Sizes
 
 RESOURCE ID: skiddo_o_clock
 TEXT: स्किडू ही स्किडू
@@ -126080,6 +126128,9 @@ TEXT: आएं और मेरी टीम में शामिल हो�
 
 RESOURCE ID: team_yellow_intro|5
 TEXT: अपने दिल पर भरोसा करने पर आप कभी नहीं हारोगे!
+
+RESOURCE ID: teamgorocket_filter_group_key
+TEXT: Team GO Rocket
 
 RESOURCE ID: teammedallion_title
 TEXT: टीम मेडालियन
@@ -135543,6 +135594,9 @@ TEXT: मौसम की चेतावनी
 
 RESOURCE ID: weather_week_event_name
 TEXT: वेदर वीक
+
+RESOURCE ID: web_includes
+TEXT: WEB INCLUDES:
 
 RESOURCE ID: web_store_homepage_url_key
 TEXT: https://store.pokemongo.com/?utm_source=PGO&utm_medium=in-game-shop&utm_campaign=pgo_webstore_linkout&utm_content=webstore_icon

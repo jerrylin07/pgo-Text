@@ -29595,6 +29595,9 @@ TEXT: Défi de collection Championnats du Monde
 RESOURCE ID: collection_wcs2024_irl_bonus
 TEXT: Défi de collection Bouquet de Champion
 
+RESOURCE ID: collections_filter_group_key
+TEXT: Collections
+
 RESOURCE ID: color_cup_great_title
 TEXT: Coupe Couleur : Édition Ligue Super
 
@@ -36103,6 +36106,9 @@ TEXT: Évènement Évolution
 RESOURCE ID: evolution_item_use
 TEXT: Utilise l'objet sur ton Pokémon.
 
+RESOURCE ID: evolutions_filter_group_key
+TEXT: Evolutions
+
 RESOURCE ID: evolve_best_buddy_confirmation
 TEXT: Veux-tu faire évoluer ton Meilleur Copain {0} ?
 
@@ -37386,6 +37392,9 @@ TEXT: distance
 RESOURCE ID: filter_key_dough
 TEXT: gigamax
 
+RESOURCE ID: filter_key_event
+TEXT: event
+
 RESOURCE ID: filter_key_evolvemega
 TEXT: mégaévolue
 
@@ -37509,6 +37518,12 @@ TEXT: fonddelieu
 RESOURCE ID: filter_key_mega_level
 TEXT: Méga
 
+RESOURCE ID: filter_key_more_than
+TEXT: morethan
+
+RESOURCE ID: filter_key_new_pokedex_entry
+TEXT: newpokedexentry
+
 RESOURCE ID: filter_key_profile_background
 TEXT: fonddeprofil
 
@@ -37572,6 +37587,9 @@ TEXT: Chromatiques
 RESOURCE ID: filter_label_traded
 TEXT: Échangés
 
+RESOURCE ID: filter_label_100
+TEXT: ★ 100%
+
 RESOURCE ID: filter_label_appraisal_0
 TEXT: Pas d’étoiles
 
@@ -37619,6 +37637,12 @@ TEXT: Avec une Carte de lieu
 
 RESOURCE ID: filter_label_max_pokemon
 TEXT: Pokémon Max
+
+RESOURCE ID: filter_label_more_than_one
+TEXT: More Than 1
+
+RESOURCE ID: filter_label_new_pokedex_entry
+TEXT: New Pokédex Entry
 
 RESOURCE ID: filter_legwear_socks
 TEXT: Chaussettes
@@ -63479,10 +63503,10 @@ at SHA 4d4f3e80cc7fb911006bd14d198c9831ef66d005
 Pipeline 339838, job 2672172
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-11-14T02:11:58.044648+00:00 for fr-FR
-at SHA 2ffc79505f7
-Pipeline 4101628, job 60546289
-Patch from: 0.437.0-SHA-0699286a-RC6, 0.439.0-SHA-3df493e8-RC2, 0.435.98-SHA-b3319c4b-RC1
+TEXT: Built at 2026-11-17T23:15:34.939095+00:00 for fr-FR
+at SHA f4b280cc27d
+Pipeline 4110836, job 60669493
+Patch from: 0.439.0-SHA-310604ba-RC1, 0.435.2-SHA-18494160-RC2, 0.437.0-SHA-17709004-RC5
 
 RESOURCE ID: meteor_title_1
 TEXT: PLUIE DE MÉTÉORES
@@ -63825,7 +63849,7 @@ RESOURCE ID: month_september
 TEXT: Septembre
 
 RESOURCE ID: moonblast_base_increased_level_bonus
-TEXT: Le niveau de Méga-Mélodelfe sera augmenté du 30 novembre à midi au 13 décembre 2026 à midi PST.
+TEXT: Les PC de Méga-Mélodelfe ayant atteint le Super Niveau Max seront augmentés du 30 novembre à midi au 13 décembre 2026 à midi PST.
 
 RESOURCE ID: moonblast_base_power_boost_bonus
 TEXT: L’attaque Pouvoir Lunaire + sera plus puissante du 30 novembre à midi au 13 décembre 2026 à midi PST.
@@ -70801,6 +70825,9 @@ TEXT: Signal faible. Approche-toi de l’appareil.
 RESOURCE ID: phantump_mastery_sep2026
 TEXT: Maîtrise de capture : Brocélôme
 
+RESOURCE ID: phenomenaandeffects_filter_group_key
+TEXT: Phenomena and Effects
+
 RESOURCE ID: photo_saved
 TEXT: Photo enregistrée
 
@@ -71463,6 +71490,9 @@ TEXT: {0} et {1} autres amis ont enregistré tes Cartes postales.
 
 RESOURCE ID: plural_friend_sent_you_gift_notification
 TEXT: {0} et {1} autres amis t’ont envoyé un Cadeau.
+
+RESOURCE ID: plus_ranks
+TEXT: +{0} RANKS
 
 RESOURCE ID: plus_symbol_number_icons
 TEXT: +{0}
@@ -80551,6 +80581,9 @@ TEXT: Ton espace de stockage de Pokémon est plein
 RESOURCE ID: pokemon_inventory_remove_favorites
 TEXT: Veux-tu vraiment supprimer cette recherche de tes favoris ?
 
+RESOURCE ID: pokemon_inventory_see_all
+TEXT: SEE ALL ({0})
+
 RESOURCE ID: pokemon_inventory_select_all
 TEXT: TOUT SÉLECTIONNER
 
@@ -80565,6 +80598,9 @@ TEXT: Espace de stockage bonus : informations
 
 RESOURCE ID: pokemon_inventory_special_eggs_title
 TEXT: Espace de stockage bonus
+
+RESOURCE ID: pokemon_inventory_storage_full_banner_subtitle
+TEXT: Upgrade?
 
 RESOURCE ID: pokemon_inventory_too_many_favorites
 TEXT: Tu as trop de recherches enregistrées dans tes favoris. Tu dois d’abord supprimer une recherche avant d’en ajouter une autre.
@@ -84181,6 +84217,9 @@ TEXT: Pokémon RUN 30 : Édition Taïwan
 RESOURCE ID: pokemon_run_2026_thailand_title
 TEXT: Pokémon RUN 30 : Édition Thaïlande
 
+RESOURCE ID: pokemon_search_did_you_mean
+TEXT: Did you mean...
+
 RESOURCE ID: pokemon_shiny_info_transfer_to_professor_confirmation
 TEXT: Veux-tu vraiment transférer ce Pokémon chromatique ?
 
@@ -85783,11 +85822,17 @@ TEXT: Pourquoi scanner un PokéStop ?
 RESOURCE ID: pups_tutorial_p3_body
 TEXT: Avec cette fonctionnalité, tu peux scanner des PokéStops et des Arènes en te baladant à leur emplacement dans le monde réel et en prenant des vidéos avec un appareil intelligent. Ces scans permettent la création de cartes 3D de ces emplacements.
 
+RESOURCE ID: purchase_includes
+TEXT: Purchase Includes:
+
 RESOURCE ID: purchase_limit_one
 TEXT: UN SEUL ACHAT
 
 RESOURCE ID: purchase_on_web_store_string_key
 TEXT: ACHETER - MAGASIN EN LIGNE
+
+RESOURCE ID: purchase_options_with_number
+TEXT: PURCHASE OPTIONS ({0})
 
 RESOURCE ID: purchases_remaining_text
 TEXT: PLUS QUE : {0}
@@ -122378,6 +122423,9 @@ TEXT: Défi de collection Gemmes géantes
 RESOURCE ID: sizeable_surprises_event_name
 TEXT: Surprises de taille
 
+RESOURCE ID: sizes_filter_group_key
+TEXT: Sizes
+
 RESOURCE ID: skiddo_o_clock
 TEXT: Heure de Cabriolaine
 
@@ -128976,6 +129024,9 @@ TEXT: Viens rejoindre mon équipe !
 
 RESOURCE ID: team_yellow_intro|5
 TEXT: Tu ne perdras pas si tu suis ton instinct !
+
+RESOURCE ID: teamgorocket_filter_group_key
+TEXT: Team GO Rocket
 
 RESOURCE ID: teammedallion_title
 TEXT: Médaillon d’équipe
@@ -138466,6 +138517,9 @@ TEXT: Alerte météo
 
 RESOURCE ID: weather_week_event_name
 TEXT: Semaine météo
+
+RESOURCE ID: web_includes
+TEXT: WEB INCLUDES:
 
 RESOURCE ID: web_store_homepage_url_key
 TEXT: https://store.pokemongo.com/?utm_source=PGO&utm_medium=in-game-shop&utm_campaign=pgo_webstore_linkout&utm_content=webstore_icon

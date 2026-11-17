@@ -27133,6 +27133,9 @@ TEXT: Tantangan Koleksi Pokémon World Championship
 RESOURCE ID: collection_wcs2024_irl_bonus
 TEXT: Tantangan Koleksi Buket Champion
 
+RESOURCE ID: collections_filter_group_key
+TEXT: Collections
+
 RESOURCE ID: color_cup_great_title
 TEXT: Kejuaraan Warna: Edisi Liga Great
 
@@ -33637,6 +33640,9 @@ TEXT: Event Evolusi
 RESOURCE ID: evolution_item_use
 TEXT: Gunakan item ini pada Pokémonmu!
 
+RESOURCE ID: evolutions_filter_group_key
+TEXT: Evolutions
+
 RESOURCE ID: evolve_best_buddy_confirmation
 TEXT: Evolusikan Partner Terbaikmu {0}?
 
@@ -34869,6 +34875,9 @@ TEXT: Jarak
 RESOURCE ID: filter_key_dough
 TEXT: gigantamax
 
+RESOURCE ID: filter_key_event
+TEXT: event
+
 RESOURCE ID: filter_key_evolvemega
 TEXT: evolusimega
 
@@ -34992,6 +35001,12 @@ TEXT: latarbelakanglokasi
 RESOURCE ID: filter_key_mega_level
 TEXT: Mega
 
+RESOURCE ID: filter_key_more_than
+TEXT: morethan
+
+RESOURCE ID: filter_key_new_pokedex_entry
+TEXT: newpokedexentry
+
 RESOURCE ID: filter_key_profile_background
 TEXT: latarbelakangprofil
 
@@ -35055,6 +35070,9 @@ TEXT: Bersinar
 RESOURCE ID: filter_label_traded
 TEXT: Ditukarkan
 
+RESOURCE ID: filter_label_100
+TEXT: ★ 100%
+
 RESOURCE ID: filter_label_appraisal_0
 TEXT: Bintang 0
 
@@ -35102,6 +35120,12 @@ TEXT: Dengan Kartu Lokasi
 
 RESOURCE ID: filter_label_max_pokemon
 TEXT: Pokémon Max
+
+RESOURCE ID: filter_label_more_than_one
+TEXT: More Than 1
+
+RESOURCE ID: filter_label_new_pokedex_entry
+TEXT: New Pokédex Entry
 
 RESOURCE ID: filter_legwear_socks
 TEXT: Kaus Kaki
@@ -35390,7 +35414,7 @@ RESOURCE ID: flavoredlure_bundle_title
 TEXT: Kotak Modul Umpan
 
 RESOURCE ID: flip_to_dim_settings_description
-TEXT: Dims the screen when you hold your phone upside down to help save battery.
+TEXT: Meredupkan layar saat kamu memegang ponsel dalam posisi terbalik untuk membantu menghemat baterai.
 
 RESOURCE ID: flock_together_rd_may24_event_title
 TEXT: Hari Penelitian Terbang Bersama
@@ -50025,22 +50049,22 @@ RESOURCE ID: hide_bonus_ranks_earn_additional_rewards
 TEXT: Dapatkan hadiah tambahan!
 
 RESOURCE ID: high_refresh_rate_prompt_title
-TEXT: Update Your Refresh Rate
+TEXT: Perbarui Laju Penyegaran
 
 RESOURCE ID: high_refresh_rate_prompt_body
-TEXT: Get smoother visuals and more responsive gameplay, which may affect battery life. You can change this anytime in Settings.
+TEXT: Dapatkan visual yang lebih mulus dan pengalaman bermain yang lebih responsif (dapat memengaruhi daya tahan baterai). Kamu dapat mengubah pengaturan ini kapan saja di menu Pengaturan.
 
 RESOURCE ID: high_refresh_rate_prompt_dismiss_button
-TEXT: MAYBE LATER
+TEXT: LAIN KALI
 
 RESOURCE ID: high_refresh_rate_prompt_enable_button
-TEXT: TURN ON
+TEXT: AKTIFKAN
 
 RESOURCE ID: high_refresh_rate_settings_title
-TEXT: Improve Visuals and Animations
+TEXT: Tingkatkan Visual dan Animasi
 
 RESOURCE ID: high_refresh_rate_settings_description
-TEXT: Get smoother visuals and more responsive gameplay. This may affect battery life.
+TEXT: Dapatkan visual yang lebih mulus dan pengalaman bermain yang lebih responsif. Pengaturan ini dapat memengaruhi daya tahan baterai.
 
 RESOURCE ID: high_voltage_event_nme
 TEXT: Voltase Tinggi
@@ -60870,10 +60894,10 @@ at SHA 12701f1c07ae7f07a5d50583f697320977df7988
 Pipeline 1139111, job 13470914
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-11-14T02:11:58.044648+00:00 for id-ID
-at SHA 2ffc79505f7
-Pipeline 4101628, job 60546289
-Patch from: 0.437.0-SHA-0699286a-RC6, 0.439.0-SHA-3df493e8-RC2, 0.435.98-SHA-b3319c4b-RC1
+TEXT: Built at 2026-11-17T23:15:34.939095+00:00 for id-ID
+at SHA f4b280cc27d
+Pipeline 4110836, job 60669493
+Patch from: 0.439.0-SHA-310604ba-RC1, 0.435.2-SHA-18494160-RC2, 0.437.0-SHA-17709004-RC5
 
 RESOURCE ID: meteor_title_1
 TEXT: HUJAN METEOR
@@ -61215,7 +61239,7 @@ RESOURCE ID: month_september
 TEXT: September
 
 RESOURCE ID: moonblast_base_increased_level_bonus
-TEXT: Level Mega Clefable akan ditingkatkan mulai 30 November pukul 12.00 s.d. 13 Desember 2026 pukul 12.00 (PST).
+TEXT: Mega Clefable pada Level Maks. Super akan mendapatkan peningkatan CP mulai 30 November pukul 12.00 s.d. 13 Desember 2026 pukul 12.00 (PST).
 
 RESOURCE ID: moonblast_base_power_boost_bonus
 TEXT: Moon Force+ akan ditingkatkan kekuatannya mulai 30 November pukul 12.00 s.d. 13 Desember 2026 pukul 12.00 (PST).
@@ -68243,6 +68267,9 @@ TEXT: Sinyal lemah. Dekatkan ke perangkat.
 RESOURCE ID: phantump_mastery_sep2026
 TEXT: Master Menangkap: Phantump
 
+RESOURCE ID: phenomenaandeffects_filter_group_key
+TEXT: Phenomena and Effects
+
 RESOURCE ID: photo_saved
 TEXT: Foto disimpan
 
@@ -68903,6 +68930,9 @@ TEXT: {0} and {1} other friends have saved your Postcards!
 
 RESOURCE ID: plural_friend_sent_you_gift_notification
 TEXT: {0} dan {1} teman lainnya mengirimkan Hadiah!
+
+RESOURCE ID: plus_ranks
+TEXT: +{0} RANKS
 
 RESOURCE ID: plus_symbol_number_icons
 TEXT: +{0}
@@ -77942,6 +77972,9 @@ TEXT: Tempat penyimpanan Pokémonmu penuh
 RESOURCE ID: pokemon_inventory_remove_favorites
 TEXT: Yakin ingin menghapus kueri penelusuran ini dari Favorit?
 
+RESOURCE ID: pokemon_inventory_see_all
+TEXT: SEE ALL ({0})
+
 RESOURCE ID: pokemon_inventory_select_all
 TEXT: PILIH SEMUA
 
@@ -77956,6 +77989,9 @@ TEXT: Informasi Bonus Ruang
 
 RESOURCE ID: pokemon_inventory_special_eggs_title
 TEXT: Bonus Ruang
+
+RESOURCE ID: pokemon_inventory_storage_full_banner_subtitle
+TEXT: Upgrade?
 
 RESOURCE ID: pokemon_inventory_too_many_favorites
 TEXT: Terlalu banyak kueri penelusuran yang difavoritkan. Hapus kueri penelusuran dari Favorit untuk menambahkan kueri lainnya.
@@ -81572,6 +81608,9 @@ TEXT: Pokémon RUN 30: Taiwan
 RESOURCE ID: pokemon_run_2026_thailand_title
 TEXT: Pokémon RUN 30: Tailan
 
+RESOURCE ID: pokemon_search_did_you_mean
+TEXT: Did you mean...
+
 RESOURCE ID: pokemon_shiny_info_transfer_to_professor_confirmation
 TEXT: Yakin ingin mentransfer Pokémon Bersinar ini?
 
@@ -83168,11 +83207,17 @@ TEXT: Apa itu Pindaian PokéStop?
 RESOURCE ID: pups_tutorial_p3_body
 TEXT: Dengan fitur ini, kamu dapat memindai PokéStops dan Gym dengan berjalan di sekitar lokasi pada dunia nyata dan merekam video dengan perangkat pintarmu. Pindaian ini akan berkontribusi pada pembuatan peta 3D dari lokasi tersebut.
 
+RESOURCE ID: purchase_includes
+TEXT: Purchase Includes:
+
 RESOURCE ID: purchase_limit_one
 TEXT: HANYA SEKALI
 
 RESOURCE ID: purchase_on_web_store_string_key
 TEXT: BELI DI WEB STORE
+
+RESOURCE ID: purchase_options_with_number
+TEXT: PURCHASE OPTIONS ({0})
 
 RESOURCE ID: purchases_remaining_text
 TEXT: TERSISA {0}
@@ -117989,7 +118034,7 @@ RESOURCE ID: settings_advanced_privacy_title
 TEXT: Privasi
 
 RESOURCE ID: settings_advanced_quality_title
-TEXT: Quality
+TEXT: Performa
 
 RESOURCE ID: settings_advanced_sharing_title
 TEXT: Sharing
@@ -118316,37 +118361,37 @@ RESOURCE ID: settings_raid_friend_requests_tip
 TEXT: Hanya berlaku ke pemain yang mengikuti Raid terdekat dan secara langsung.
 
 RESOURCE ID: settings_refresh_rate_balanced
-TEXT: Balanced
+TEXT: Seimbang
 
 RESOURCE ID: settings_refresh_rate_high
-TEXT: High
+TEXT: Tinggi
 
 RESOURCE ID: settings_refresh_rate_low
-TEXT: Low
+TEXT: Rendah
 
 RESOURCE ID: settings_refresh_rate_name
-TEXT: Refresh Rate
+TEXT: Laju Penyegaran
 
 RESOURCE ID: settings_refresh_rate_balanced_recommended
-TEXT: Balanced (Recommended)
+TEXT: Seimbang (Disarankan)
 
 RESOURCE ID: settings_refresh_rate_high_recommended
-TEXT: High (Recommended)
+TEXT: Tinggi (Disarankan)
 
 RESOURCE ID: settings_refresh_rate_incompatible_device
-TEXT: This device is not compatible for higher refresh rates.
+TEXT: Perangkat ini tidak mendukung laju penyegaran yang lebih tinggi.
 
 RESOURCE ID: settings_refresh_rate_low_recommended
-TEXT: Low (Recommended)
+TEXT: Rendah (Disarankan)
 
 RESOURCE ID: settings_refresh_rate_updated_balanced
-TEXT: Refresh Rate updated to Balanced.
+TEXT: Laju Penyegaran telah diatur ke Seimbang.
 
 RESOURCE ID: settings_refresh_rate_updated_high
-TEXT: Refresh Rate updated to High.
+TEXT: Laju Penyegaran telah diatur ke Tinggi.
 
 RESOURCE ID: settings_refresh_rate_updated_low
-TEXT: Refresh Rate updated to Low.
+TEXT: Laju Penyegaran telah diatur ke Rendah.
 
 RESOURCE ID: settings_remember_last_pokeball
 TEXT: Remember Last-Used Poké Ball
@@ -118516,7 +118561,7 @@ RESOURCE ID: settings_unlock_base_framerate
 TEXT: Kecepatan Refresh Bawaan
 
 RESOURCE ID: settings_unlock_base_framerate_description
-TEXT: Visual lebih responsif dan lancar yang mungkin memengaruhi daya baterai.
+TEXT: Menghadirkan visual yang lebih mulus dan responsif (dapat memengaruhi daya tahan baterai).
 
 RESOURCE ID: settings_unlock_base_framerate_description_off
 TEXT: Buka kecepatan refresh bawaan perangkatmu untuk FPS yang lebih tinggi.
@@ -119615,6 +119660,9 @@ TEXT: Tantangan Koleksi Permata Raksasa
 
 RESOURCE ID: sizeable_surprises_event_name
 TEXT: Kejutan Terukur
+
+RESOURCE ID: sizes_filter_group_key
+TEXT: Sizes
 
 RESOURCE ID: skiddo_o_clock
 TEXT: Saatnya Skiddo
@@ -126205,6 +126253,9 @@ TEXT: Ayo, gabung ke timku!
 
 RESOURCE ID: team_yellow_intro|5
 TEXT: Kamu tidak akan pernah kalah saat percaya pada insting!
+
+RESOURCE ID: teamgorocket_filter_group_key
+TEXT: Team GO Rocket
 
 RESOURCE ID: teammedallion_title
 TEXT: Tim Medallion
@@ -135655,6 +135706,9 @@ TEXT: Peringatan cuaca
 
 RESOURCE ID: weather_week_event_name
 TEXT: Minggu Cuaca
+
+RESOURCE ID: web_includes
+TEXT: WEB INCLUDES:
 
 RESOURCE ID: web_store_homepage_url_key
 TEXT: https://store.pokemongo.com/?utm_source=PGO&utm_medium=in-game-shop&utm_campaign=pgo_webstore_linkout&utm_content=webstore_icon

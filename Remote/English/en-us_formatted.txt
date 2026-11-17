@@ -29385,6 +29385,9 @@ TEXT: World Championships Collection Challenge
 RESOURCE ID: collection_wcs2024_irl_bonus
 TEXT: Champion’s Bouquet Collection Challenge
 
+RESOURCE ID: collections_filter_group_key
+TEXT: Collections
+
 RESOURCE ID: color_cup_great_title
 TEXT: Color Cup: Great League Edition
 
@@ -35895,6 +35898,9 @@ TEXT: Evolution Event
 RESOURCE ID: evolution_item_use
 TEXT: Use this item on your Pokémon!
 
+RESOURCE ID: evolutions_filter_group_key
+TEXT: Evolutions
+
 RESOURCE ID: evolve_best_buddy_confirmation
 TEXT: Do you want to evolve your Best Buddy {0}?
 
@@ -37171,6 +37177,9 @@ TEXT: distance
 RESOURCE ID: filter_key_dough
 TEXT: gigantamax
 
+RESOURCE ID: filter_key_event
+TEXT: event
+
 RESOURCE ID: filter_key_evolvemega
 TEXT: megaevolve
 
@@ -37294,6 +37303,12 @@ TEXT: locationbackground
 RESOURCE ID: filter_key_mega_level
 TEXT: Mega
 
+RESOURCE ID: filter_key_more_than
+TEXT: morethan
+
+RESOURCE ID: filter_key_new_pokedex_entry
+TEXT: newpokedexentry
+
 RESOURCE ID: filter_key_profile_background
 TEXT: profilebackground
 
@@ -37357,6 +37372,9 @@ TEXT: Shiny
 RESOURCE ID: filter_label_traded
 TEXT: Traded
 
+RESOURCE ID: filter_label_100
+TEXT: ★ 100%
+
 RESOURCE ID: filter_label_appraisal_0
 TEXT: 0 Stars
 
@@ -37404,6 +37422,12 @@ TEXT: Has Location Card
 
 RESOURCE ID: filter_label_max_pokemon
 TEXT: Max Pokémon
+
+RESOURCE ID: filter_label_more_than_one
+TEXT: More Than 1
+
+RESOURCE ID: filter_label_new_pokedex_entry
+TEXT: New Pokédex Entry
 
 RESOURCE ID: filter_legwear_socks
 TEXT: Socks
@@ -63229,10 +63253,10 @@ at SHA 4d4f3e80cc7fb911006bd14d198c9831ef66d005
 Pipeline 339838, job 2672172
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-11-14T02:11:58.044648+00:00 for en-US
-at SHA 2ffc79505f7
-Pipeline 4101628, job 60546289
-Patch from: 0.437.0-SHA-0699286a-RC6, 0.439.0-SHA-3df493e8-RC2, 0.435.98-SHA-b3319c4b-RC1
+TEXT: Built at 2026-11-17T23:15:34.939095+00:00 for en-US
+at SHA f4b280cc27d
+Pipeline 4110836, job 60669493
+Patch from: 0.439.0-SHA-310604ba-RC1, 0.435.2-SHA-18494160-RC2, 0.437.0-SHA-17709004-RC5
 
 RESOURCE ID: meteor_title_1
 TEXT: METEOR SHOWER
@@ -70547,6 +70571,9 @@ TEXT: Weak signal. Get closer to the device.
 RESOURCE ID: phantump_mastery_sep2026
 TEXT: Catch Mastery: Phantump
 
+RESOURCE ID: phenomenaandeffects_filter_group_key
+TEXT: Phenomena and Effects
+
 RESOURCE ID: photo_saved
 TEXT: Photo saved
 
@@ -71207,6 +71234,9 @@ TEXT: {0} and {1} other friends have saved your Postcards!
 
 RESOURCE ID: plural_friend_sent_you_gift_notification
 TEXT: {0} and {1} other friends sent you Gifts!
+
+RESOURCE ID: plus_ranks
+TEXT: +{0} RANKS
 
 RESOURCE ID: plus_symbol_number_icons
 TEXT: +{0}
@@ -80292,6 +80322,9 @@ TEXT: Your Pokémon Storage Is Full
 RESOURCE ID: pokemon_inventory_remove_favorites
 TEXT: Are you sure you want to remove this search query from your Favorites?
 
+RESOURCE ID: pokemon_inventory_see_all
+TEXT: SEE ALL ({0})
+
 RESOURCE ID: pokemon_inventory_select_all
 TEXT: SELECT ALL
 
@@ -80306,6 +80339,9 @@ TEXT: Bonus Storage Information
 
 RESOURCE ID: pokemon_inventory_special_eggs_title
 TEXT: Bonus Storage
+
+RESOURCE ID: pokemon_inventory_storage_full_banner_subtitle
+TEXT: Upgrade?
 
 RESOURCE ID: pokemon_inventory_too_many_favorites
 TEXT: You have too many search queries favorited. You must remove a search query from your Favorites to add more.
@@ -83922,6 +83958,9 @@ TEXT: Pokémon RUN 30: Taiwan Edition
 RESOURCE ID: pokemon_run_2026_thailand_title
 TEXT: Pokémon RUN 30: Thailand Edition
 
+RESOURCE ID: pokemon_search_did_you_mean
+TEXT: Did you mean...
+
 RESOURCE ID: pokemon_shiny_info_transfer_to_professor_confirmation
 TEXT: Do you really want to transfer this Shiny Pokémon?
 
@@ -85524,11 +85563,17 @@ TEXT: What Is PokéStop Scanning?
 RESOURCE ID: pups_tutorial_p3_body
 TEXT: With this feature, you can scan PokéStops and Gyms by walking around their real-world locations and recording videos with your smart device. These scans will contribute to the creation of 3D maps of those locations.
 
+RESOURCE ID: purchase_includes
+TEXT: Purchase Includes:
+
 RESOURCE ID: purchase_limit_one
 TEXT: ONE TIME ONLY
 
 RESOURCE ID: purchase_on_web_store_string_key
 TEXT: BUY – WEB STORE
+
+RESOURCE ID: purchase_options_with_number
+TEXT: PURCHASE OPTIONS ({0})
 
 RESOURCE ID: purchases_remaining_text
 TEXT: {0} REMAINING
@@ -122096,6 +122141,9 @@ TEXT: Giant Gems Collection Challenge
 RESOURCE ID: sizeable_surprises_event_name
 TEXT: Sizeable Surprises
 
+RESOURCE ID: sizes_filter_group_key
+TEXT: Sizes
+
 RESOURCE ID: skiddo_o_clock
 TEXT: Skiddo O’Clock
 
@@ -128698,6 +128746,9 @@ TEXT: Come on and join my team!
 
 RESOURCE ID: team_yellow_intro|5
 TEXT: You never lose when you trust your instincts!
+
+RESOURCE ID: teamgorocket_filter_group_key
+TEXT: Team GO Rocket
 
 RESOURCE ID: teammedallion_title
 TEXT: Team Medallion
@@ -138205,6 +138256,9 @@ TEXT: Weather warning
 
 RESOURCE ID: weather_week_event_name
 TEXT: Weather Week
+
+RESOURCE ID: web_includes
+TEXT: WEB INCLUDES:
 
 RESOURCE ID: web_store_homepage_url_key
 TEXT: https://store.pokemongo.com/?utm_source=PGO&utm_medium=in-game-shop&utm_campaign=pgo_webstore_linkout&utm_content=webstore_icon

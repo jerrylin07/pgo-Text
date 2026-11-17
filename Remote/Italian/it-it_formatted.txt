@@ -29604,6 +29604,9 @@ TEXT: Sfida di collezione dei Campionati Mondiali
 RESOURCE ID: collection_wcs2024_irl_bonus
 TEXT: Sfida di collezione “Bouquet da campioni”
 
+RESOURCE ID: collections_filter_group_key
+TEXT: Collections
+
 RESOURCE ID: color_cup_great_title
 TEXT: Coppa Colore: edizione Lega Mega
 
@@ -36116,6 +36119,9 @@ TEXT: Evento Evoluzione
 RESOURCE ID: evolution_item_use
 TEXT: Usa lo strumento su questo Pokémon.
 
+RESOURCE ID: evolutions_filter_group_key
+TEXT: Evolutions
+
 RESOURCE ID: evolve_best_buddy_confirmation
 TEXT: Vuoi far evolvere il tuo miglior compagno {0}?
 
@@ -37396,6 +37402,9 @@ TEXT: distanza
 RESOURCE ID: filter_key_dough
 TEXT: gigamax
 
+RESOURCE ID: filter_key_event
+TEXT: event
+
 RESOURCE ID: filter_key_evolvemega
 TEXT: megaevoluzione
 
@@ -37519,6 +37528,12 @@ TEXT: sfondodiposizione
 RESOURCE ID: filter_key_mega_level
 TEXT: Mega
 
+RESOURCE ID: filter_key_more_than
+TEXT: morethan
+
+RESOURCE ID: filter_key_new_pokedex_entry
+TEXT: newpokedexentry
+
 RESOURCE ID: filter_key_profile_background
 TEXT: sfondoprofilo
 
@@ -37582,6 +37597,9 @@ TEXT: Cromatici
 RESOURCE ID: filter_label_traded
 TEXT: Scambiati
 
+RESOURCE ID: filter_label_100
+TEXT: ★ 100%
+
 RESOURCE ID: filter_label_appraisal_0
 TEXT: 0 stelle
 
@@ -37629,6 +37647,12 @@ TEXT: Con scheda ricordo
 
 RESOURCE ID: filter_label_max_pokemon
 TEXT: Pokémon Max
+
+RESOURCE ID: filter_label_more_than_one
+TEXT: More Than 1
+
+RESOURCE ID: filter_label_new_pokedex_entry
+TEXT: New Pokédex Entry
 
 RESOURCE ID: filter_legwear_socks
 TEXT: Calzini
@@ -37916,7 +37940,7 @@ RESOURCE ID: flavoredlure_bundle_title
 TEXT: Pacco moduli esca
 
 RESOURCE ID: flip_to_dim_settings_description
-TEXT: Dims the screen when you hold your phone upside down to help save battery.
+TEXT: Oscura lo schermo quando tieni il telefono capovolto, per agevolare il risparmio batteria.
 
 RESOURCE ID: flock_together_rd_may24_event_title
 TEXT: Giornata di ricerca svolazzante
@@ -52606,22 +52630,22 @@ RESOURCE ID: hide_bonus_ranks_earn_additional_rewards
 TEXT: Ottieni ancora più ricompense!
 
 RESOURCE ID: high_refresh_rate_prompt_title
-TEXT: Update Your Refresh Rate
+TEXT: Migliora la frequenza di aggiornamento
 
 RESOURCE ID: high_refresh_rate_prompt_body
-TEXT: Get smoother visuals and more responsive gameplay, which may affect battery life. You can change this anytime in Settings.
+TEXT: Ottieni effetti visivi più fluidi e un’esperienza di gioco più reattiva. Queste impostazioni possono incidere sulla durata della batteria. Puoi modificare la tua scelta in qualsiasi momento nelle Impostazioni.
 
 RESOURCE ID: high_refresh_rate_prompt_dismiss_button
-TEXT: MAYBE LATER
+TEXT: NON ADESSO
 
 RESOURCE ID: high_refresh_rate_prompt_enable_button
-TEXT: TURN ON
+TEXT: ATTIVA
 
 RESOURCE ID: high_refresh_rate_settings_title
-TEXT: Improve Visuals and Animations
+TEXT: Migliora effetti visivi e animazioni
 
 RESOURCE ID: high_refresh_rate_settings_description
-TEXT: Get smoother visuals and more responsive gameplay. This may affect battery life.
+TEXT: Ottieni effetti visivi più fluidi e un’esperienza di gioco più reattiva. Queste impostazioni possono incidere sulla durata della batteria.
 
 RESOURCE ID: high_voltage_event_nme
 TEXT: Alta tensione
@@ -63492,10 +63516,10 @@ at SHA 4d4f3e80cc7fb911006bd14d198c9831ef66d005
 Pipeline 339838, job 2672172
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-11-14T02:11:58.044648+00:00 for it-IT
-at SHA 2ffc79505f7
-Pipeline 4101628, job 60546289
-Patch from: 0.437.0-SHA-0699286a-RC6, 0.439.0-SHA-3df493e8-RC2, 0.435.98-SHA-b3319c4b-RC1
+TEXT: Built at 2026-11-17T23:15:34.939095+00:00 for it-IT
+at SHA f4b280cc27d
+Pipeline 4110836, job 60669493
+Patch from: 0.439.0-SHA-310604ba-RC1, 0.435.2-SHA-18494160-RC2, 0.437.0-SHA-17709004-RC5
 
 RESOURCE ID: meteor_title_1
 TEXT: PIOGGIA DI METEORE
@@ -63838,7 +63862,7 @@ RESOURCE ID: month_september
 TEXT: Settembre
 
 RESOURCE ID: moonblast_base_increased_level_bonus
-TEXT: Il livello di MegaClefable sarà aumentato dal 30 novembre alle 12:00 fino al 13 dicembre 2026 alla stessa ora (GMT -8).
+TEXT: I PL di MegaClefable al super livello massimo saranno aumentati dal 30 novembre alle 12:00 PST (GMT -8) fino al 13 dicembre 2026 alla stessa ora.
 
 RESOURCE ID: moonblast_base_power_boost_bonus
 TEXT: La potenza di Forza Lunare+ sarà aumentata dal 30 novembre alle 12:00 fino al 13 dicembre 2026 alla stessa ora (GMT -8).
@@ -70812,6 +70836,9 @@ TEXT: Il segnale è debole. Avvicinati al dispositivo.
 RESOURCE ID: phantump_mastery_sep2026
 TEXT: Obiettivo cattura: Phantump
 
+RESOURCE ID: phenomenaandeffects_filter_group_key
+TEXT: Phenomena and Effects
+
 RESOURCE ID: photo_saved
 TEXT: Foto salvata
 
@@ -71474,6 +71501,9 @@ TEXT: {0} e altri {1} amici hanno salvato le tue cartoline!
 
 RESOURCE ID: plural_friend_sent_you_gift_notification
 TEXT: {0} e altri {1} amici ti hanno inviato dei regali!
+
+RESOURCE ID: plus_ranks
+TEXT: +{0} RANKS
 
 RESOURCE ID: plus_symbol_number_icons
 TEXT: +{0}
@@ -80562,6 +80592,9 @@ TEXT: Il tuo spazio Pokémon è pieno
 RESOURCE ID: pokemon_inventory_remove_favorites
 TEXT: Vuoi davvero rimuovere questa query di ricerca dai preferiti?
 
+RESOURCE ID: pokemon_inventory_see_all
+TEXT: SEE ALL ({0})
+
 RESOURCE ID: pokemon_inventory_select_all
 TEXT: SELEZIONA TUTTO
 
@@ -80576,6 +80609,9 @@ TEXT: Informazioni sullo spazio bonus
 
 RESOURCE ID: pokemon_inventory_special_eggs_title
 TEXT: Spazio bonus
+
+RESOURCE ID: pokemon_inventory_storage_full_banner_subtitle
+TEXT: Upgrade?
 
 RESOURCE ID: pokemon_inventory_too_many_favorites
 TEXT: Hai troppe query di ricerca tra i preferiti. È necessario rimuovere una query di ricerca dai preferiti per aggiungerne altre.
@@ -84192,6 +84228,9 @@ TEXT: Pokémon RUN 30: edizione Taiwan
 RESOURCE ID: pokemon_run_2026_thailand_title
 TEXT: Pokémon RUN 30: edizione Tailandia
 
+RESOURCE ID: pokemon_search_did_you_mean
+TEXT: Did you mean...
+
 RESOURCE ID: pokemon_shiny_info_transfer_to_professor_confirmation
 TEXT: Vuoi davvero trasferire questo Pokémon cromatico?
 
@@ -85793,11 +85832,17 @@ TEXT: Che cos’è la scansione dei Pokéstop?
 RESOURCE ID: pups_tutorial_p3_body
 TEXT: Questa funzionalità ti permette di scansionare i Pokéstop e le Palestre che incontri mentre sei in giro nel mondo reale e di realizzare dei video con il tuo smart phone. Queste scansioni serviranno a creare mappe di quei luoghi in 3D.
 
+RESOURCE ID: purchase_includes
+TEXT: Purchase Includes:
+
 RESOURCE ID: purchase_limit_one
 TEXT: LIMITE: UN ACQUISTO
 
 RESOURCE ID: purchase_on_web_store_string_key
 TEXT: ACQUISTA - STORE ONLINE
+
+RESOURCE ID: purchase_options_with_number
+TEXT: PURCHASE OPTIONS ({0})
 
 RESOURCE ID: purchases_remaining_text
 TEXT: RIMANENTI: {0}
@@ -120765,7 +120810,7 @@ RESOURCE ID: settings_advanced_privacy_title
 TEXT: Privacy
 
 RESOURCE ID: settings_advanced_quality_title
-TEXT: Qualità
+TEXT: Prestazioni
 
 RESOURCE ID: settings_advanced_sharing_title
 TEXT: Condivisione
@@ -121092,37 +121137,37 @@ RESOURCE ID: settings_raid_friend_requests_tip
 TEXT: Si applica solo a raid dal vivo e nelle vicinanze.
 
 RESOURCE ID: settings_refresh_rate_balanced
-TEXT: Balanced
+TEXT: Bilanciata
 
 RESOURCE ID: settings_refresh_rate_high
-TEXT: High
+TEXT: Alta
 
 RESOURCE ID: settings_refresh_rate_low
-TEXT: Low
+TEXT: Basso
 
 RESOURCE ID: settings_refresh_rate_name
-TEXT: Refresh Rate
+TEXT: Frequenza di aggiornamento
 
 RESOURCE ID: settings_refresh_rate_balanced_recommended
-TEXT: Balanced (Recommended)
+TEXT: Bilanciata (consigliata)
 
 RESOURCE ID: settings_refresh_rate_high_recommended
-TEXT: High (Recommended)
+TEXT: Alta (consigliata)
 
 RESOURCE ID: settings_refresh_rate_incompatible_device
-TEXT: This device is not compatible for higher refresh rates.
+TEXT: Questo dispositivo non è compatibile con frequenze di aggiornamento più alte.
 
 RESOURCE ID: settings_refresh_rate_low_recommended
-TEXT: Low (Recommended)
+TEXT: Bassa (consigliata)
 
 RESOURCE ID: settings_refresh_rate_updated_balanced
-TEXT: Refresh Rate updated to Balanced.
+TEXT: Frequenza di aggiornamento impostata su bilanciata.
 
 RESOURCE ID: settings_refresh_rate_updated_high
-TEXT: Refresh Rate updated to High.
+TEXT: Frequenza di aggiornamento impostata su alta.
 
 RESOURCE ID: settings_refresh_rate_updated_low
-TEXT: Refresh Rate updated to Low.
+TEXT: Frequenza di aggiornamento impostata su bassa.
 
 RESOURCE ID: settings_remember_last_pokeball
 TEXT: Ricorda l'ultima Poké Ball usata
@@ -121294,7 +121339,7 @@ RESOURCE ID: settings_unlock_base_framerate
 TEXT: Frequenza di aggiornamento nativa
 
 RESOURCE ID: settings_unlock_base_framerate_description
-TEXT: Effetti visivi più fluidi e tempi di risposta migliorati. Queste impostazioni possono incidere sulla durata della batteria.
+TEXT: Abilita effetti visivi più fluidi e reattivi. Queste impostazioni possono incidere sulla durata della batteria.
 
 RESOURCE ID: settings_unlock_base_framerate_description_off
 TEXT: Sblocca la frequenza di aggiornamento nativa del tuo dispositivo per ottenere FPS più alti.
@@ -122393,6 +122438,9 @@ TEXT: Sfida di collezione Grandi gemme
 
 RESOURCE ID: sizeable_surprises_event_name
 TEXT: Piccole e grandi sorprese
+
+RESOURCE ID: sizes_filter_group_key
+TEXT: Sizes
 
 RESOURCE ID: skiddo_o_clock
 TEXT: È il tuo momento, Skiddo!
@@ -128997,6 +129045,9 @@ TEXT: Che aspetti, entra a far parte della mia squadra!
 RESOURCE ID: team_yellow_intro|5
 TEXT: Non puoi mai perdere quando segui l’istinto!
 
+RESOURCE ID: teamgorocket_filter_group_key
+TEXT: Team GO Rocket
+
 RESOURCE ID: teammedallion_title
 TEXT: Medaglione delle squadre
 
@@ -130695,13 +130746,13 @@ RESOURCE ID: tgr_takeover_s13_event_name
 TEXT: Tesori saccheggiati
 
 RESOURCE ID: th_poke_center_bangkok_title
-TEXT: Pokémon Center BANGKOK Opens!
+TEXT: Apertura del Pokémon Center a BANGKOK!
 
 RESOURCE ID: th_poke_center_bangkok_bonus_0
-TEXT: Receive themed stickers when you spin PokéStops in Thailand
+TEXT: Ottieni adesivi a tema facendo girare i dischi dei Pokéstop situati in Thailandia.
 
 RESOURCE ID: th_poke_center_bangkok_tv_desc
-TEXT: The Pokémon Center in Bangkok is now open! Timed Research offers rewards and stickers, with more stickers available from PokéStop spins. Visit the blog for details.
+TEXT: Il Pokémon Center di Bangkok ha aperto i battenti! La ricerca a tempo offre ricompense e adesivi. Adesivi aggiuntivi sono disponibili facendo girare i dischi dei Pokéstop. Leggi il nostro blog per ulteriori dettagli.
 
 RESOURCE ID: thai
 TEXT: ภาษาไทย
@@ -135039,22 +135090,22 @@ RESOURCE ID: tr_pitch_perfect_desc_02
 TEXT: Tre strike! Sei fuori!
 
 RESOURCE ID: tr_poke_center_bgk_2026
-TEXT: Pokémon Center BANGKOK Opens! Timed Research
+TEXT: Ricerca a tempo dell’Apertura del Pokémon Center a BANGKOK!
 
 RESOURCE ID: tr_poke_center_bgk_2026_id_1_header
-TEXT: Pokémon Center BANGKOK Opens! Timed Research (1/5)
+TEXT: Ricerca a tempo dell’Apertura del Pokémon Center a BANGKOK! (1/5)
 
 RESOURCE ID: tr_poke_center_bgk_2026_id_2_header
-TEXT: Pokémon Center BANGKOK Opens! Timed Research (2/5)
+TEXT: Ricerca a tempo dell’Apertura del Pokémon Center a BANGKOK! (2/5)
 
 RESOURCE ID: tr_poke_center_bgk_2026_id_3_header
-TEXT: Pokémon Center BANGKOK Opens! Timed Research (3/5)
+TEXT: Ricerca a tempo dell’Apertura del Pokémon Center a BANGKOK! (3/5)
 
 RESOURCE ID: tr_poke_center_bgk_2026_id_4_header
-TEXT: Pokémon Center BANGKOK Opens! Timed Research (4/5)
+TEXT: Ricerca a tempo dell’Apertura del Pokémon Center a BANGKOK! (4/5)
 
 RESOURCE ID: tr_poke_center_bgk_2026_id_5_header
-TEXT: Pokémon Center BANGKOK Opens! Timed Research (5/5)
+TEXT: Ricerca a tempo dell’Apertura del Pokémon Center a BANGKOK! (5/5)
 
 RESOURCE ID: tr_pokemon_go_lab_jul2026_header
 TEXT: Ricerca a tempo “Pokémon GO Lab... una grande avventura!”
@@ -138485,6 +138536,9 @@ TEXT: Allerta meteo
 
 RESOURCE ID: weather_week_event_name
 TEXT: Settimana del clima
+
+RESOURCE ID: web_includes
+TEXT: WEB INCLUDES:
 
 RESOURCE ID: web_store_homepage_url_key
 TEXT: https://store.pokemongo.com/?utm_source=PGO&utm_medium=in-game-shop&utm_campaign=pgo_webstore_linkout&utm_content=webstore_icon

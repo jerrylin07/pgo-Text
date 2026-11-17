@@ -29866,6 +29866,9 @@ TEXT: คำท้านักสะสม WCS
 RESOURCE ID: collection_wcs2024_irl_bonus
 TEXT: คำท้านักสะสมช่อดอกไม้ของแชมเปี้ยน
 
+RESOURCE ID: collections_filter_group_key
+TEXT: Collections
+
 RESOURCE ID: color_cup_great_title
 TEXT: การแข่งขัน 4 สี (ver. เกรตลีก)
 
@@ -36562,6 +36565,9 @@ TEXT: อีเวนต์วิวัฒนาการ
 RESOURCE ID: evolution_item_use
 TEXT: ใช้ไอเท็มนี้กับโปเกมอนของคุณ!
 
+RESOURCE ID: evolutions_filter_group_key
+TEXT: Evolutions
+
 RESOURCE ID: evolve_best_buddy_confirmation
 TEXT: ต้องการวิวัฒนาการคู่หูมิตรแท้
 {0}หรือไม่?
@@ -37869,6 +37875,9 @@ TEXT: ระยะทาง
 RESOURCE ID: filter_key_dough
 TEXT: กิกะแมกซ์
 
+RESOURCE ID: filter_key_event
+TEXT: event
+
 RESOURCE ID: filter_key_evolvemega
 TEXT: วิวัฒนาการเมก้า
 
@@ -37992,6 +38001,12 @@ TEXT: พื้นหลังสถานที่
 RESOURCE ID: filter_key_mega_level
 TEXT: เมก้า
 
+RESOURCE ID: filter_key_more_than
+TEXT: morethan
+
+RESOURCE ID: filter_key_new_pokedex_entry
+TEXT: newpokedexentry
+
 RESOURCE ID: filter_key_profile_background
 TEXT: พื้นหลังโพรไฟล์
 
@@ -38055,6 +38070,9 @@ TEXT: สีแตกต่าง
 RESOURCE ID: filter_label_traded
 TEXT: แลกเปลี่ยน
 
+RESOURCE ID: filter_label_100
+TEXT: ★ 100%
+
 RESOURCE ID: filter_label_appraisal_0
 TEXT: 0 Stars
 
@@ -38102,6 +38120,12 @@ TEXT: มีการ์ดสถานที่
 
 RESOURCE ID: filter_label_max_pokemon
 TEXT: โปเกมอนแมกซ์
+
+RESOURCE ID: filter_label_more_than_one
+TEXT: More Than 1
+
+RESOURCE ID: filter_label_new_pokedex_entry
+TEXT: New Pokédex Entry
 
 RESOURCE ID: filter_legwear_socks
 TEXT: ถุงเท้า
@@ -61854,7 +61878,7 @@ RESOURCE ID: jp_jleague_collab_2026_tr_name_2
 TEXT: งานวิจัยแบบจำกัดเวลา Pokémon J.League Festival (2/3)
 
 RESOURCE ID: jp_jleague_collab_2026_tr_name_2_desc
-TEXT: GO! ตรึ่งหลัง
+TEXT: GO! ครึ่งหลัง
 
 RESOURCE ID: jp_jleague_collab_2026_tr_name_3
 TEXT: งานวิจัยแบบจำกัดเวลา Pokémon J.League Festival (3/3)
@@ -68189,10 +68213,10 @@ at SHA da71d231c41a4d4f7aef0d6fd71061652ff15a0a
 Pipeline 441624, job 3600523
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-11-14T02:11:58.044648+00:00 for th-TH
-at SHA 2ffc79505f7
-Pipeline 4101628, job 60546289
-Patch from: 0.437.0-SHA-0699286a-RC6, 0.439.0-SHA-3df493e8-RC2, 0.435.98-SHA-b3319c4b-RC1
+TEXT: Built at 2026-11-17T23:15:34.939095+00:00 for th-TH
+at SHA f4b280cc27d
+Pipeline 4110836, job 60669493
+Patch from: 0.439.0-SHA-310604ba-RC1, 0.435.2-SHA-18494160-RC2, 0.437.0-SHA-17709004-RC5
 
 RESOURCE ID: meteor_title_1
 TEXT: ฝนดาวตก
@@ -75695,6 +75719,9 @@ TEXT: สัญญาณอ่อน กรุณาเข้าไปใกล�
 RESOURCE ID: phantump_mastery_sep2026
 TEXT: ผู้เชี่ยวชาญการจับ: โบคุเร
 
+RESOURCE ID: phenomenaandeffects_filter_group_key
+TEXT: Phenomena and Effects
+
 RESOURCE ID: photo_saved
 TEXT: บันทึกรูปภาพแล้ว
 
@@ -76333,6 +76360,9 @@ TEXT: {0} และเพื่อนอีก {1} คนบันทึกโ�
 
 RESOURCE ID: plural_friend_sent_you_gift_notification
 TEXT: {0} และเพื่อนอีก {1} คนส่งของขวัญมาให้คุณ!
+
+RESOURCE ID: plus_ranks
+TEXT: +{0} RANKS
 
 RESOURCE ID: plus_symbol_number_icons
 TEXT: +{0}
@@ -87737,6 +87767,9 @@ TEXT: ที่เก็บโปเกมอนของคุณเต็ม
 RESOURCE ID: pokemon_inventory_remove_favorites
 TEXT: คุณแน่ใจหรือไม่ว่าจะลบการค้นหานี้ออกจากรายการโปรดของคุณ?
 
+RESOURCE ID: pokemon_inventory_see_all
+TEXT: SEE ALL ({0})
+
 RESOURCE ID: pokemon_inventory_select_all
 TEXT: เลือกทั้งหมด
 
@@ -87754,6 +87787,9 @@ TEXT: ข้อมูลที่เก็บพิเศษ
 
 RESOURCE ID: pokemon_inventory_special_eggs_title
 TEXT: ที่เก็บพิเศษ
+
+RESOURCE ID: pokemon_inventory_storage_full_banner_subtitle
+TEXT: Upgrade?
 
 RESOURCE ID: pokemon_inventory_too_many_favorites
 TEXT: คุณมีรายการค้นหาโปรดอยู่มากเกินไป จำเป็นต้องลบการค้นหาส่วนหนึ่งออกจากรายการโปรดก่อน จึงจะบันทึกเพิ่มได้
@@ -91378,6 +91414,9 @@ TEXT: Pokémon RUN 30: Taiwan Edition
 RESOURCE ID: pokemon_run_2026_thailand_title
 TEXT: Pokémon RUN 30: Thailand Edition
 
+RESOURCE ID: pokemon_search_did_you_mean
+TEXT: Did you mean...
+
 RESOURCE ID: pokemon_shiny_info_transfer_to_professor_confirmation
 TEXT: คุณแน่ใจใช่ไหมว่าต้องการถ่ายโอน
 โปเกมอนสีแตกต่าง?
@@ -93096,11 +93135,17 @@ TEXT: การสแกนเสาโปเกสต็อปคืออะ�
 RESOURCE ID: pups_tutorial_p3_body
 TEXT: ด้วยระบบนี้ คุณสามารถสแกนเสาโปเกสต็อปและยิมด้วยการเดินไปรอบ ๆ สถานที่จริงในขณะที่ถ่ายวิดีโอด้วยอุปกรณ์ของคุณ วิดีโอเหล่านี้จะช่วยในการพัฒนาแผนที่ 3 มิติของสถานที่ดังกล่าว
 
+RESOURCE ID: purchase_includes
+TEXT: Purchase Includes:
+
 RESOURCE ID: purchase_limit_one
 TEXT: ครั้งเดียวเท่านั้น
 
 RESOURCE ID: purchase_on_web_store_string_key
 TEXT: ซื้อที่ WEB STORE
+
+RESOURCE ID: purchase_options_with_number
+TEXT: PURCHASE OPTIONS ({0})
 
 RESOURCE ID: purchases_remaining_text
 TEXT: เหลืออีก {0} ครั้ง
@@ -131936,7 +131981,7 @@ RESOURCE ID: settings_advanced_privacy_title
 TEXT: ความเป็นส่วนตัว
 
 RESOURCE ID: settings_advanced_quality_title
-TEXT: คุณภาพ
+TEXT: ประสิทธิภาพ
 
 RESOURCE ID: settings_advanced_sharing_title
 TEXT: แชร์
@@ -132273,22 +132318,22 @@ RESOURCE ID: settings_raid_friend_requests_tip
 TEXT: Only applies to in-person and nearby raids.
 
 RESOURCE ID: settings_refresh_rate_balanced
-TEXT: Balanced
+TEXT: สมดุล
 
 RESOURCE ID: settings_refresh_rate_high
-TEXT: High
+TEXT: สูง
 
 RESOURCE ID: settings_refresh_rate_low
 TEXT: Low
 
 RESOURCE ID: settings_refresh_rate_name
-TEXT: Refresh Rate
+TEXT: อัตราการรีเฟรช
 
 RESOURCE ID: settings_refresh_rate_balanced_recommended
 TEXT: Balanced (Recommended)
 
 RESOURCE ID: settings_refresh_rate_high_recommended
-TEXT: High (Recommended)
+TEXT: สูง (แนะนำ)
 
 RESOURCE ID: settings_refresh_rate_incompatible_device
 TEXT: This device is not compatible for higher refresh rates.
@@ -133668,6 +133713,9 @@ TEXT: คำท้านักสะสมการค้นพบไซส์�
 
 RESOURCE ID: sizeable_surprises_event_name
 TEXT: ไซส์สุดเซอร์ไพรส์
+
+RESOURCE ID: sizes_filter_group_key
+TEXT: Sizes
 
 RESOURCE ID: skiddo_o_clock
 TEXT: เมเคิลต้นชั่วโมง
@@ -141228,6 +141276,9 @@ TEXT: มาเข้าร่วมทีมของฉันสิ!
 RESOURCE ID: team_yellow_intro|5
 TEXT: คุณจะไม่มีวันแพ้หากเชื่อในสัญชาตญาณของตัวเอง!
 
+RESOURCE ID: teamgorocket_filter_group_key
+TEXT: Team GO Rocket
+
 RESOURCE ID: teammedallion_title
 TEXT: เหรียญรางวัลเปลี่ยนทีม
 
@@ -143094,13 +143145,13 @@ RESOURCE ID: tgr_takeover_s13_event_name
 TEXT: สมบัติที่ถูกขโมย
 
 RESOURCE ID: th_poke_center_bangkok_title
-TEXT: Pokémon Center BANGKOK Opens!
+TEXT: ฉลองเปิด Pokémon Center BANGKOK
 
 RESOURCE ID: th_poke_center_bangkok_bonus_0
-TEXT: Receive themed stickers when you spin PokéStops in Thailand
+TEXT: รับสติกเกอร์ตามธีมจากการหมุนเสาโปเกสต็อปในประเทศไทย
 
 RESOURCE ID: th_poke_center_bangkok_tv_desc
-TEXT: The Pokémon Center in Bangkok is now open! Timed Research offers rewards and stickers, with more stickers available from PokéStop spins. Visit the blog for details.
+TEXT: Pokémon Center BANGKOK เปิดแล้ว! ทำงานวิจัยแบบจำกัดเวลาให้เสร็จสิ้นเพื่อรับสติกเกอร์ สติกเกอร์ที่ได้รับจากการหมุนเสาโปเกสต็อปก็เพิ่มขึ้นด้วย ดูรายละเอียดเพิ่มเติมได้ที่บล็อก
 
 RESOURCE ID: thai
 TEXT: ภาษาไทย
@@ -147930,22 +147981,22 @@ RESOURCE ID: tr_pitch_perfect_desc_02
 TEXT: สามสไตรค์! เอาต์!
 
 RESOURCE ID: tr_poke_center_bgk_2026
-TEXT: Pokémon Center BANGKOK Opens! Timed Research
+TEXT: งานวิจัยแบบจำกัดเวลาฉลองเปิด Pokémon Center BANGKOK
 
 RESOURCE ID: tr_poke_center_bgk_2026_id_1_header
-TEXT: Pokémon Center BANGKOK Opens! Timed Research (1/5)
+TEXT: งานวิจัยแบบจำกัดเวลาฉลองเปิด Pokémon Center BANGKOK (1/5)
 
 RESOURCE ID: tr_poke_center_bgk_2026_id_2_header
-TEXT: Pokémon Center BANGKOK Opens! Timed Research (2/5)
+TEXT: งานวิจัยแบบจำกัดเวลาฉลองเปิด Pokémon Center BANGKOK (2/5)
 
 RESOURCE ID: tr_poke_center_bgk_2026_id_3_header
-TEXT: Pokémon Center BANGKOK Opens! Timed Research (3/5)
+TEXT: งานวิจัยแบบจำกัดเวลาฉลองเปิด Pokémon Center BANGKOK (3/5)
 
 RESOURCE ID: tr_poke_center_bgk_2026_id_4_header
-TEXT: Pokémon Center BANGKOK Opens! Timed Research (4/5)
+TEXT: งานวิจัยแบบจำกัดเวลาฉลองเปิด Pokémon Center BANGKOK (4/5)
 
 RESOURCE ID: tr_poke_center_bgk_2026_id_5_header
-TEXT: Pokémon Center BANGKOK Opens! Timed Research (5/5)
+TEXT: งานวิจัยแบบจำกัดเวลาฉลองเปิด Pokémon Center BANGKOK (5/5)
 
 RESOURCE ID: tr_pokemon_go_lab_jul2026_header
 TEXT: งานวิจัยแบบจำกัดเวลาตื่นเต้น! การสำรวจครั้งใหญ่ที่ Pokémon GO Lab.
@@ -151556,6 +151607,9 @@ TEXT: สภาพอากาศแปรปรวน
 
 RESOURCE ID: weather_week_event_name
 TEXT: สัปดาห์สภาพอากาศ
+
+RESOURCE ID: web_includes
+TEXT: WEB INCLUDES:
 
 RESOURCE ID: web_store_homepage_url_key
 TEXT: https://store.pokemongo.com/?utm_source=PGO&utm_medium=in-game-shop&utm_campaign=pgo_webstore_linkout&utm_content=webstore_icon

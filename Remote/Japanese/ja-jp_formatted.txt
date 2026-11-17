@@ -29643,6 +29643,9 @@ TEXT: ポケモンワールドチャンピオンシップスコレクション�
 RESOURCE ID: collection_wcs2024_irl_bonus
 TEXT: チャンピオンの花束コレクションチャレンジ
 
+RESOURCE ID: collections_filter_group_key
+TEXT: コレクション
+
 RESOURCE ID: color_cup_great_title
 TEXT: 4色カップ：
 スーパーリーグバージョン
@@ -36211,6 +36214,9 @@ TEXT: 進化ウィーク
 RESOURCE ID: evolution_item_use
 TEXT: 使ってみよう！
 
+RESOURCE ID: evolutions_filter_group_key
+TEXT: 進化に関連
+
 RESOURCE ID: evolve_best_buddy_confirmation
 TEXT: 最高の相棒{0}を進化させますか？
 
@@ -37490,6 +37496,9 @@ TEXT: きょり
 RESOURCE ID: filter_key_dough
 TEXT: きょだいまっくす
 
+RESOURCE ID: filter_key_event
+TEXT: 衣装・特殊
+
 RESOURCE ID: filter_key_evolvemega
 TEXT: めがしんか
 
@@ -37613,6 +37622,12 @@ TEXT: ろけーしょんはいけい
 RESOURCE ID: filter_key_mega_level
 TEXT: メガ
 
+RESOURCE ID: filter_key_more_than
+TEXT: より多い
+
+RESOURCE ID: filter_key_new_pokedex_entry
+TEXT: 新登録
+
 RESOURCE ID: filter_key_profile_background
 TEXT: プロフィール背景
 
@@ -37676,6 +37691,9 @@ TEXT: いろちがい
 RESOURCE ID: filter_label_traded
 TEXT: こうかん
 
+RESOURCE ID: filter_label_100
+TEXT: ★ 100%
+
 RESOURCE ID: filter_label_appraisal_0
 TEXT: 星なし
 
@@ -37723,6 +37741,12 @@ TEXT: 背景
 
 RESOURCE ID: filter_label_max_pokemon
 TEXT: マックスポケモン
+
+RESOURCE ID: filter_label_more_than_one
+TEXT: 1匹より多い
+
+RESOURCE ID: filter_label_new_pokedex_entry
+TEXT: 新登録
 
 RESOURCE ID: filter_legwear_socks
 TEXT: 靴下
@@ -63475,10 +63499,10 @@ at SHA 4d4f3e80cc7fb911006bd14d198c9831ef66d005
 Pipeline 339838, job 2672172
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-11-14T02:11:58.044648+00:00 for ja-JP
-at SHA 2ffc79505f7
-Pipeline 4101628, job 60546289
-Patch from: 0.437.0-SHA-0699286a-RC6, 0.439.0-SHA-3df493e8-RC2, 0.435.98-SHA-b3319c4b-RC1
+TEXT: Built at 2026-11-17T23:15:34.939095+00:00 for ja-JP
+at SHA f4b280cc27d
+Pipeline 4110836, job 60669493
+Patch from: 0.439.0-SHA-310604ba-RC1, 0.435.2-SHA-18494160-RC2, 0.437.0-SHA-17709004-RC5
 
 RESOURCE ID: meteor_title_1
 TEXT: 流星群
@@ -70948,6 +70972,9 @@ TEXT: 通信電波が弱くなっています。スマートデバイスとPoké
 RESOURCE ID: phantump_mastery_sep2026
 TEXT: マスタリーシリーズ：ボクレー
 
+RESOURCE ID: phenomenaandeffects_filter_group_key
+TEXT: 変化・効果など
+
 RESOURCE ID: photo_saved
 TEXT: 写真を保存しました
 
@@ -71604,6 +71631,9 @@ TEXT: {0}さん他{1}人のフレンドがポストカードを保存しまし�
 
 RESOURCE ID: plural_friend_sent_you_gift_notification
 TEXT: {0}さんと{1}人のフレンドからギフトが贈られてきました！
+
+RESOURCE ID: plus_ranks
+TEXT: +{0}ランク
 
 RESOURCE ID: plus_symbol_number_icons
 TEXT: +{0}
@@ -80703,6 +80733,9 @@ TEXT: ボックスがいっぱいです！
 RESOURCE ID: pokemon_inventory_remove_favorites
 TEXT: この検索をよく使う検索から削除しますか？
 
+RESOURCE ID: pokemon_inventory_see_all
+TEXT: 同じポケモンを見る({0})
+
 RESOURCE ID: pokemon_inventory_select_all
 TEXT: すべて選択
 
@@ -80717,6 +80750,9 @@ TEXT: ボーナススペースとは？
 
 RESOURCE ID: pokemon_inventory_special_eggs_title
 TEXT: ボーナススペース
+
+RESOURCE ID: pokemon_inventory_storage_full_banner_subtitle
+TEXT: アップグレードしますか？
 
 RESOURCE ID: pokemon_inventory_too_many_favorites
 TEXT: 追加できませんでした。検索名を一つ削除してください。
@@ -84333,6 +84369,9 @@ TEXT: ポケモンラン30：台湾バージョン
 RESOURCE ID: pokemon_run_2026_thailand_title
 TEXT: ポケモンラン30：タイバージョン
 
+RESOURCE ID: pokemon_search_did_you_mean
+TEXT: もしかして：
+
 RESOURCE ID: pokemon_shiny_info_transfer_to_professor_confirmation
 TEXT: 色違いのポケモンを送りますか？
 
@@ -85933,11 +85972,17 @@ TEXT: ポケストップスキャンとは？
 RESOURCE ID: pups_tutorial_p3_body
 TEXT: ポケストップ・ジムの周りを歩き、お使いの端末で動画を撮る機能です。その場所の3Dマップを作成するために使用されます。
 
+RESOURCE ID: purchase_includes
+TEXT: Purchase Includes:
+
 RESOURCE ID: purchase_limit_one
 TEXT: 1回限定
 
 RESOURCE ID: purchase_on_web_store_string_key
 TEXT: WEB STOREで購入
+
+RESOURCE ID: purchase_options_with_number
+TEXT: オプション({0})
 
 RESOURCE ID: purchases_remaining_text
 TEXT: 残り{0}個
@@ -122491,6 +122536,9 @@ TEXT: ジャンボコレクションチャレンジ
 RESOURCE ID: sizeable_surprises_event_name
 TEXT: サイズサプライズ
 
+RESOURCE ID: sizes_filter_group_key
+TEXT: サイズ
+
 RESOURCE ID: skiddo_o_clock
 TEXT: メェークル大量発生
 
@@ -129120,6 +129168,9 @@ TEXT: オレのチームにジョインしなよ！
 
 RESOURCE ID: team_yellow_intro|5
 TEXT: 直感を信じれば百戦百勝だ！
+
+RESOURCE ID: teamgorocket_filter_group_key
+TEXT: GOロケット団
 
 RESOURCE ID: teammedallion_title
 TEXT: チームへんこう メダリオン
@@ -138770,6 +138821,9 @@ TEXT: 天候に注意！
 
 RESOURCE ID: weather_week_event_name
 TEXT: ウェザーウィーク
+
+RESOURCE ID: web_includes
+TEXT: ウェブ購入の場合：
 
 RESOURCE ID: web_store_homepage_url_key
 TEXT: https://store.pokemongo.com/?utm_source=PGO&utm_medium=in-game-shop&utm_campaign=pgo_webstore_linkout&utm_content=webstore_icon
