@@ -21227,7 +21227,7 @@ RESOURCE ID: bread_ball_power_up
 TEXT: Poké Ball rechargée !
 
 RESOURCE ID: bread_battle_remaining
-TEXT: Reste :
+TEXT: Pokémon
 
 RESOURCE ID: bread_battle_ability_cheer
 TEXT: ENCOURAGER
@@ -50961,6 +50961,9 @@ RESOURCE ID: great_league_championship_series_2026
 TEXT: Coupe des Championnats de GO 2026
 
 RESOURCE ID: great_league_championship_series_2027
+TEXT: Coupe GO CIE 2027 : Édition Ligue Super
+
+RESOURCE ID: great_league_championship_series_2027_out
 TEXT: Coupe des Championnats de GO 2027
 
 RESOURCE ID: great_league_championship_series_2028
@@ -63503,10 +63506,10 @@ at SHA 4d4f3e80cc7fb911006bd14d198c9831ef66d005
 Pipeline 339838, job 2672172
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-11-17T23:15:34.939095+00:00 for fr-FR
-at SHA f4b280cc27d
-Pipeline 4110836, job 60669493
-Patch from: 0.439.0-SHA-310604ba-RC1, 0.435.2-SHA-18494160-RC2, 0.437.0-SHA-17709004-RC5
+TEXT: Built at 2026-11-19T01:43:47.361024+00:00 for fr-FR
+at SHA 22ac39e9aa2
+Pipeline 4115441, job 60743354
+Patch from: 0.435.2-SHA-18494160-RC2, 0.437.0-SHA-0699286a-RC6, 0.439.0-SHA-6e900373-RC3
 
 RESOURCE ID: meteor_title_1
 TEXT: PLUIE DE MÉTÉORES
