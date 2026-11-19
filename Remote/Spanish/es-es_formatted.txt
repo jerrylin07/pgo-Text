@@ -30009,7 +30009,7 @@ RESOURCE ID: collection_wcs2024_irl_bonus
 TEXT: Desafío de colección: Flores de campeón
 
 RESOURCE ID: collections_filter_group_key
-TEXT: Collections
+TEXT: Colecciones
 
 RESOURCE ID: color_cup_great_title
 TEXT: Copa Color: Edición Liga Super Ball
@@ -36531,7 +36531,7 @@ RESOURCE ID: evolution_item_use
 TEXT: ¡Dale a tu Pokémon el objeto!
 
 RESOURCE ID: evolutions_filter_group_key
-TEXT: Evolutions
+TEXT: Evoluciones
 
 RESOURCE ID: evolve_best_buddy_confirmation
 TEXT: ¿Quieres que tu mejor compañero {0} evolucione?
@@ -37819,7 +37819,7 @@ RESOURCE ID: filter_key_dough
 TEXT: gigamax
 
 RESOURCE ID: filter_key_event
-TEXT: event
+TEXT: evento
 
 RESOURCE ID: filter_key_evolvemega
 TEXT: megaevoluciona
@@ -37945,10 +37945,10 @@ RESOURCE ID: filter_key_mega_level
 TEXT: Mega
 
 RESOURCE ID: filter_key_more_than
-TEXT: morethan
+TEXT: másde
 
 RESOURCE ID: filter_key_new_pokedex_entry
-TEXT: newpokedexentry
+TEXT: nuevaentradapokedex
 
 RESOURCE ID: filter_key_profile_background
 TEXT: fondodeperfil
@@ -38014,7 +38014,7 @@ RESOURCE ID: filter_label_traded
 TEXT: Intercambiados
 
 RESOURCE ID: filter_label_100
-TEXT: ★ 100%
+TEXT: ★ 100 %
 
 RESOURCE ID: filter_label_appraisal_0
 TEXT: 0 estrellas
@@ -38065,10 +38065,10 @@ RESOURCE ID: filter_label_max_pokemon
 TEXT: Pokémon Max
 
 RESOURCE ID: filter_label_more_than_one
-TEXT: More Than 1
+TEXT: Más de 1
 
 RESOURCE ID: filter_label_new_pokedex_entry
-TEXT: New Pokédex Entry
+TEXT: Nueva entrada de la Pokédex
 
 RESOURCE ID: filter_legwear_socks
 TEXT: Medias
@@ -51392,6 +51392,9 @@ RESOURCE ID: great_league_championship_series_2026
 TEXT: Copa Serie de Campeonatos de GO 2026
 
 RESOURCE ID: great_league_championship_series_2027
+TEXT: Copa EUIC de GO 2027: Edición Liga Super Ball
+
+RESOURCE ID: great_league_championship_series_2027_out
 TEXT: Copa Serie de Campeonatos de GO 2027
 
 RESOURCE ID: great_league_championship_series_2028
@@ -63936,10 +63939,10 @@ at SHA 4d4f3e80cc7fb911006bd14d198c9831ef66d005
 Pipeline 339838, job 2672172
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-11-17T23:15:34.939095+00:00 for es-ES
-at SHA f4b280cc27d
-Pipeline 4110836, job 60669493
-Patch from: 0.439.0-SHA-310604ba-RC1, 0.435.2-SHA-18494160-RC2, 0.437.0-SHA-17709004-RC5
+TEXT: Built at 2026-11-19T01:43:47.361024+00:00 for es-ES
+at SHA 22ac39e9aa2
+Pipeline 4115441, job 60743354
+Patch from: 0.435.2-SHA-18494160-RC2, 0.437.0-SHA-0699286a-RC6, 0.439.0-SHA-6e900373-RC3
 
 RESOURCE ID: meteor_title_1
 TEXT: LLUVIA DE METEORITOS
@@ -71267,7 +71270,7 @@ RESOURCE ID: phantump_mastery_sep2026
 TEXT: Objetivo de captura: Phantump
 
 RESOURCE ID: phenomenaandeffects_filter_group_key
-TEXT: Phenomena and Effects
+TEXT: Fenómenos y efectos
 
 RESOURCE ID: photo_saved
 TEXT: Foto guardada
@@ -71931,7 +71934,7 @@ RESOURCE ID: plural_friend_sent_you_gift_notification
 TEXT: ¡{0} y otras {1} personas te han enviado regalos!
 
 RESOURCE ID: plus_ranks
-TEXT: +{0} RANKS
+TEXT: +{0} NIVELES
 
 RESOURCE ID: plus_symbol_number_icons
 TEXT: +{0}
@@ -81016,7 +81019,7 @@ RESOURCE ID: pokemon_inventory_remove_favorites
 TEXT: ¿Quieres eliminar esta búsqueda de favoritos?
 
 RESOURCE ID: pokemon_inventory_see_all
-TEXT: SEE ALL ({0})
+TEXT: VER TODOS {{0}}
 
 RESOURCE ID: pokemon_inventory_select_all
 TEXT: SELECCIONAR TODO
@@ -81034,7 +81037,7 @@ RESOURCE ID: pokemon_inventory_special_eggs_title
 TEXT: Bonus de almacenamiento
 
 RESOURCE ID: pokemon_inventory_storage_full_banner_subtitle
-TEXT: Upgrade?
+TEXT: ¿Mejorar?
 
 RESOURCE ID: pokemon_inventory_too_many_favorites
 TEXT: No se ha podido añadir la búsqueda a favoritos. Por favor, borra una búsqueda de favoritos.
@@ -84652,7 +84655,7 @@ RESOURCE ID: pokemon_run_2026_thailand_title
 TEXT: Pokémon RUN 30: Edición Tailandia
 
 RESOURCE ID: pokemon_search_did_you_mean
-TEXT: Did you mean...
+TEXT: ¿Querías decir...?
 
 RESOURCE ID: pokemon_shiny_info_transfer_to_professor_confirmation
 TEXT: ¿De verdad quieres transferir este Pokémon variocolor?
@@ -86257,7 +86260,7 @@ RESOURCE ID: pups_tutorial_p3_body
 TEXT: Con esta función, puedes escanear Poképaradas y Gimnasios caminando por sus ubicaciones del mundo real y grabando vídeos con tu dispositivo inteligente. Estos escaneos contribuirán a la creación de mapas en 3D de esas ubicaciones.
 
 RESOURCE ID: purchase_includes
-TEXT: Purchase Includes:
+TEXT: La compra incluye:
 
 RESOURCE ID: purchase_limit_one
 TEXT: SOLO UNA VEZ
@@ -86266,7 +86269,7 @@ RESOURCE ID: purchase_on_web_store_string_key
 TEXT: COMPRAR (TIENDA EN LÍNEA)
 
 RESOURCE ID: purchase_options_with_number
-TEXT: PURCHASE OPTIONS ({0})
+TEXT: OPCIONES DE COMPRA ({0})
 
 RESOURCE ID: purchases_remaining_text
 TEXT: QUEDAN {0}
@@ -122860,7 +122863,7 @@ RESOURCE ID: sizeable_surprises_event_name
 TEXT: Tamaña sorpresa
 
 RESOURCE ID: sizes_filter_group_key
-TEXT: Sizes
+TEXT: Tamaños
 
 RESOURCE ID: skiddo_o_clock
 TEXT: Las Skiddo en punto
@@ -138952,7 +138955,7 @@ RESOURCE ID: weather_week_event_name
 TEXT: Semana Meteorológica
 
 RESOURCE ID: web_includes
-TEXT: WEB INCLUDES:
+TEXT: LA WEB INCLUYE:
 
 RESOURCE ID: web_store_homepage_url_key
 TEXT: https://store.pokemongo.com/?utm_source=PGO&utm_medium=in-game-shop&utm_campaign=pgo_webstore_linkout&utm_content=webstore_icon

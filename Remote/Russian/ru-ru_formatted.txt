@@ -29447,7 +29447,7 @@ RESOURCE ID: collection_wcs2024_irl_bonus
 TEXT: Коллекционное испытание Букет чемпиона
 
 RESOURCE ID: collections_filter_group_key
-TEXT: Collections
+TEXT: Коллекции
 
 RESOURCE ID: color_cup_great_title
 TEXT: ‎Кубок красок: Великая Лига
@@ -35961,7 +35961,7 @@ RESOURCE ID: evolution_item_use
 TEXT: Используй предмет на своём Покемоне!
 
 RESOURCE ID: evolutions_filter_group_key
-TEXT: Evolutions
+TEXT: Эволюции
 
 RESOURCE ID: evolve_best_buddy_confirmation
 TEXT: Ты хочешь эволюционировать своего лучшего приятеля: {0}?
@@ -37234,7 +37234,7 @@ RESOURCE ID: filter_key_dough
 TEXT: гигантамакс
 
 RESOURCE ID: filter_key_event
-TEXT: event
+TEXT: ивент
 
 RESOURCE ID: filter_key_evolvemega
 TEXT: мегаэволюция
@@ -37360,10 +37360,10 @@ RESOURCE ID: filter_key_mega_level
 TEXT: Мега
 
 RESOURCE ID: filter_key_more_than
-TEXT: morethan
+TEXT: больше
 
 RESOURCE ID: filter_key_new_pokedex_entry
-TEXT: newpokedexentry
+TEXT: новыевпокедексе
 
 RESOURCE ID: filter_key_profile_background
 TEXT: фонпрофиля
@@ -37482,10 +37482,10 @@ RESOURCE ID: filter_label_max_pokemon
 TEXT: Макс
 
 RESOURCE ID: filter_label_more_than_one
-TEXT: More Than 1
+TEXT: Больше 1
 
 RESOURCE ID: filter_label_new_pokedex_entry
-TEXT: New Pokédex Entry
+TEXT: Новые в Покедексе
 
 RESOURCE ID: filter_legwear_socks
 TEXT: Носки
@@ -50822,6 +50822,9 @@ RESOURCE ID: great_league_championship_series_2026
 TEXT: Кубок Серии Игр Чемпионата GO 2026
 
 RESOURCE ID: great_league_championship_series_2027
+TEXT: Кубок Международного Чемпионата GO в Европе 2027: Вариация Великая Лига
+
+RESOURCE ID: great_league_championship_series_2027_out
 TEXT: Кубок Серии Игр Чемпионата GO 2027
 
 RESOURCE ID: great_league_championship_series_2028
@@ -63359,10 +63362,10 @@ at SHA bacc02371739993984570a6f5b31a993cf3b031b
 Pipeline 498004, job 4265729
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-11-17T23:15:34.939095+00:00 for ru-RU
-at SHA f4b280cc27d
-Pipeline 4110836, job 60669493
-Patch from: 0.439.0-SHA-310604ba-RC1, 0.435.2-SHA-18494160-RC2, 0.437.0-SHA-17709004-RC5
+TEXT: Built at 2026-11-19T01:43:47.361024+00:00 for ru-RU
+at SHA 22ac39e9aa2
+Pipeline 4115441, job 60743354
+Patch from: 0.435.2-SHA-18494160-RC2, 0.437.0-SHA-0699286a-RC6, 0.439.0-SHA-6e900373-RC3
 
 RESOURCE ID: meteor_title_1
 TEXT: МЕТЕОРИТНЫЙ ПОТОК
@@ -70687,7 +70690,7 @@ RESOURCE ID: phantump_mastery_sep2026
 TEXT: Мастерство Поимки: Фантамп
 
 RESOURCE ID: phenomenaandeffects_filter_group_key
-TEXT: Phenomena and Effects
+TEXT: Феномены и Эффекты
 
 RESOURCE ID: photo_saved
 TEXT: Фото сохранено
@@ -71351,7 +71354,7 @@ RESOURCE ID: plural_friend_sent_you_gift_notification
 TEXT: {0} and {1} other friends sent you Gifts!
 
 RESOURCE ID: plus_ranks
-TEXT: +{0} RANKS
+TEXT: + РАНГИ ({0})
 
 RESOURCE ID: plus_symbol_number_icons
 TEXT: +{0}
@@ -80426,7 +80429,7 @@ RESOURCE ID: pokemon_inventory_remove_favorites
 TEXT: Are you sure you want to remove this search query from your Favorites?
 
 RESOURCE ID: pokemon_inventory_see_all
-TEXT: SEE ALL ({0})
+TEXT: ПОСМОТРЕТЬ ВСЕХ ({0})
 
 RESOURCE ID: pokemon_inventory_select_all
 TEXT: SELECT ALL
@@ -80444,7 +80447,7 @@ RESOURCE ID: pokemon_inventory_special_eggs_title
 TEXT: Дополнительное хранилище
 
 RESOURCE ID: pokemon_inventory_storage_full_banner_subtitle
-TEXT: Upgrade?
+TEXT: Увеличить?
 
 RESOURCE ID: pokemon_inventory_too_many_favorites
 TEXT: You have too many Favorite search queries. You must remove a search query from your Favorites to add more.
@@ -84064,7 +84067,7 @@ RESOURCE ID: pokemon_run_2026_thailand_title
 TEXT: Pokémon RUN 30: Таиланд
 
 RESOURCE ID: pokemon_search_did_you_mean
-TEXT: Did you mean...
+TEXT: Возможно, имелось в виду...
 
 RESOURCE ID: pokemon_shiny_info_transfer_to_professor_confirmation
 TEXT: Ты действительно хочешь передать этого Сияющего Покемона?
@@ -85671,7 +85674,7 @@ RESOURCE ID: pups_tutorial_p3_body
 TEXT: Эта функция позволяет сканировать Покестопы и Гимы, обходя вокруг реальных объектов и снимая видео при помощи твоего устройства. Сканирование помогает создавать 3D-карты локаций.
 
 RESOURCE ID: purchase_includes
-TEXT: Purchase Includes:
+TEXT: Покупка включает:
 
 RESOURCE ID: purchase_limit_one
 TEXT: ТОЛЬКО ОДИН РАЗ
@@ -85680,7 +85683,7 @@ RESOURCE ID: purchase_on_web_store_string_key
 TEXT: КУПИТЬ – ОНЛАЙН-МАГАЗИН
 
 RESOURCE ID: purchase_options_with_number
-TEXT: PURCHASE OPTIONS ({0})
+TEXT: ВАРИАНТЫ ПОКУПКИ ({0})
 
 RESOURCE ID: purchases_remaining_text
 TEXT: ОСТАЛОСЬ {0}
@@ -122260,7 +122263,7 @@ RESOURCE ID: sizeable_surprises_event_name
 TEXT: Сюрпризы большие и маленькие
 
 RESOURCE ID: sizes_filter_group_key
-TEXT: Sizes
+TEXT: Размеры
 
 RESOURCE ID: skiddo_o_clock
 TEXT: Скиддо-час
@@ -128866,7 +128869,7 @@ RESOURCE ID: team_yellow_intro|5
 TEXT: Если ты доверяешь своим инстинктам, ты никогда не проиграешь!
 
 RESOURCE ID: teamgorocket_filter_group_key
-TEXT: Team GO Rocket
+TEXT: Команда Ракета GO
 
 RESOURCE ID: teammedallion_title
 TEXT: Командный медальон
@@ -138341,7 +138344,7 @@ RESOURCE ID: weather_week_event_name
 TEXT: Погодная неделя
 
 RESOURCE ID: web_includes
-TEXT: WEB INCLUDES:
+TEXT: ОНЛАЙН-ПОКУПКА ВКЛЮЧАЕТ:
 
 RESOURCE ID: web_store_homepage_url_key
 TEXT: https://store.pokemongo.com/?utm_source=PGO&utm_medium=in-game-shop&utm_campaign=pgo_webstore_linkout&utm_content=webstore_icon

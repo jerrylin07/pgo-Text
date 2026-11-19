@@ -29376,28 +29376,28 @@ RESOURCE ID: city_manhole_485
 TEXT: คิโสะ
 
 RESOURCE ID: city_manhole_486
-TEXT: Shibukawa
+TEXT: ชิบุกาวะ
 
 RESOURCE ID: city_manhole_487
-TEXT: Geisei
+TEXT: เกเซ
 
 RESOURCE ID: city_manhole_488
-TEXT: Sakawa
+TEXT: ซากาวะ
 
 RESOURCE ID: city_manhole_489
-TEXT: Tosa
+TEXT: โทสะ
 
 RESOURCE ID: city_manhole_490
-TEXT: Naganohara
+TEXT: นางาโนฮาระ
 
 RESOURCE ID: city_manhole_491
-TEXT: Numata
+TEXT: นุมาตะ
 
 RESOURCE ID: city_manhole_492
-TEXT: Shimanto
+TEXT: ชิมันโตะ
 
 RESOURCE ID: city_manhole_493
-TEXT: Ino
+TEXT: อิโนะ
 
 RESOURCE ID: city_manhole_4(ibusuki)_d64e
 TEXT: อิบุสุกิ
@@ -38416,7 +38416,7 @@ RESOURCE ID: flavoredlure_bundle_title
 TEXT: กล่องอุปกรณ์ปล่อยลัวร์
 
 RESOURCE ID: flip_to_dim_settings_description
-TEXT: Dims the screen when you hold your phone upside down to help save battery.
+TEXT: เมื่อหันด้านบนของอุปกรณ์ลง หน้าจอจะลดความสว่างลงและเข้าสู่โหมดประหยัดพลังงาน
 
 RESOURCE ID: flock_together_rd_may24_event_title
 TEXT: วันวิจัยโบยบินพร้อมหน้า
@@ -53775,6 +53775,9 @@ RESOURCE ID: great_league_championship_series_2026
 TEXT: การแข่งขัน GO Championship 2026
 
 RESOURCE ID: great_league_championship_series_2027
+TEXT: การแข่งขัน GO EUIC 2027 (ver. เกรตลีก)
+
+RESOURCE ID: great_league_championship_series_2027_out
 TEXT: การแข่งขันซีรีส์ 2027 GO Championship
 
 RESOURCE ID: great_league_championship_series_2028
@@ -55469,22 +55472,22 @@ RESOURCE ID: hide_bonus_ranks_earn_additional_rewards
 TEXT: รับรางวัลเพิ่มเติม!
 
 RESOURCE ID: high_refresh_rate_prompt_title
-TEXT: Update Your Refresh Rate
+TEXT: เปลี่ยนอัตราการรีเฟรช
 
 RESOURCE ID: high_refresh_rate_prompt_body
-TEXT: Get smoother visuals and more responsive gameplay, which may affect battery life. You can change this anytime in Settings.
+TEXT: อาจช่วยให้การแสดงผลบนหน้าจอลื่นไหลยิ่งขึ้น และตอบสนองได้รวดเร็วยิ่งขึ้น แต่การเพิ่มอัตราการรีเฟรชก็จะทำให้ใช้แบตเตอรี่มากขึ้นเช่นกัน สามารถเปลี่ยนการตั้งค่าได้ทุกเมื่อ
 
 RESOURCE ID: high_refresh_rate_prompt_dismiss_button
-TEXT: MAYBE LATER
+TEXT: ไว้ทีหลัง
 
 RESOURCE ID: high_refresh_rate_prompt_enable_button
-TEXT: TURN ON
+TEXT: เปิด
 
 RESOURCE ID: high_refresh_rate_settings_title
-TEXT: Improve Visuals and Animations
+TEXT: การแสดงผลบนหน้าจอที่ลื่นไหลยิ่งขึ้น
 
 RESOURCE ID: high_refresh_rate_settings_description
-TEXT: Get smoother visuals and more responsive gameplay. This may affect battery life.
+TEXT: ทำให้แสดงผลหน้าจอได้ลื่นไหลและตอบสนองได้รวดเร็วยิ่งขึ้น (อาจใช้แบตเตอรี่มากขึ้น)
 
 RESOURCE ID: high_voltage_event_nme
 TEXT: ไฟฟ้าแรงดันสูง
@@ -68213,10 +68216,10 @@ at SHA da71d231c41a4d4f7aef0d6fd71061652ff15a0a
 Pipeline 441624, job 3600523
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-11-17T23:15:34.939095+00:00 for th-TH
-at SHA f4b280cc27d
-Pipeline 4110836, job 60669493
-Patch from: 0.439.0-SHA-310604ba-RC1, 0.435.2-SHA-18494160-RC2, 0.437.0-SHA-17709004-RC5
+TEXT: Built at 2026-11-19T01:43:47.361024+00:00 for th-TH
+at SHA 22ac39e9aa2
+Pipeline 4115441, job 60743354
+Patch from: 0.435.2-SHA-18494160-RC2, 0.437.0-SHA-0699286a-RC6, 0.439.0-SHA-6e900373-RC3
 
 RESOURCE ID: meteor_title_1
 TEXT: ฝนดาวตก
@@ -68589,7 +68592,7 @@ RESOURCE ID: month_september
 TEXT: กันยายน
 
 RESOURCE ID: moonblast_base_increased_level_bonus
-TEXT: เพิ่มระดับของเมก้าปิคซี (วันที่ 30 พฤศจิกายน เวลา 12.00 น. ถึงวันที่ 13 ธันวาคม เวลา 12.00 น. ตามเวลามาตรฐานแปซิฟิก)
+TEXT: เพิ่ม CP ของเมก้าปิคซีที่ระดับซูเปอร์แมกซ์ (วันที่ 30 พฤศจิกายน เวลา 12.00 น. ถึงวันที่ 13 ธันวาคม เวลา 12.00 น. ตามเวลามาตรฐานแปซิฟิก)
 
 RESOURCE ID: moonblast_base_power_boost_bonus
 TEXT: เพิ่มความแรงของ "มูนฟอร์ซ+" (วันที่ 30 พฤศจิกายน เวลา 12.00 น. ถึงวันที่ 13 ธันวาคม เวลา 12.00 น. ตามเวลามาตรฐานแปซิฟิก)
@@ -132324,31 +132327,31 @@ RESOURCE ID: settings_refresh_rate_high
 TEXT: สูง
 
 RESOURCE ID: settings_refresh_rate_low
-TEXT: Low
+TEXT: ต่ำ
 
 RESOURCE ID: settings_refresh_rate_name
 TEXT: อัตราการรีเฟรช
 
 RESOURCE ID: settings_refresh_rate_balanced_recommended
-TEXT: Balanced (Recommended)
+TEXT: สมดุล (แนะนำ)
 
 RESOURCE ID: settings_refresh_rate_high_recommended
 TEXT: สูง (แนะนำ)
 
 RESOURCE ID: settings_refresh_rate_incompatible_device
-TEXT: This device is not compatible for higher refresh rates.
+TEXT: อุปกรณ์นี้ไม่เหมาะสำหรับอัตราการรีเฟรชสูง
 
 RESOURCE ID: settings_refresh_rate_low_recommended
-TEXT: Low (Recommended)
+TEXT: ต่ำ (แนะนำ)
 
 RESOURCE ID: settings_refresh_rate_updated_balanced
-TEXT: Refresh Rate updated to Balanced.
+TEXT: ตั้งค่าอัตราการรีเฟรชเป็นสมดุลแล้ว
 
 RESOURCE ID: settings_refresh_rate_updated_high
-TEXT: Refresh Rate updated to High.
+TEXT: ตั้งค่าอัตราการรีเฟรชเป็นสูงแล้ว
 
 RESOURCE ID: settings_refresh_rate_updated_low
-TEXT: Refresh Rate updated to Low.
+TEXT: ตั้งค่าอัตราการรีเฟรชเป็นต่ำแล้ว
 
 RESOURCE ID: settings_remember_last_pokeball
 TEXT: จดจำมอนสเตอร์บอลล่าสุดที่เลือก
@@ -132524,9 +132527,8 @@ RESOURCE ID: settings_unlock_base_framerate
 TEXT: อัตราการรีเฟรชดั้งเดิม
 
 RESOURCE ID: settings_unlock_base_framerate_description
-TEXT: ภาพที่ราบรื่นและตอบสนองยิ่งขึ้น
-ซึ่งอาจส่งผลต่ออายุการใช้งาน
-แบตเตอรี่
+TEXT: หน้าจอที่ลื่นไหลและตอบสนอง
+รวดเร็วยิ่งขึ้น (อาจใช้แบตเตอรี่มากขึ้น)
 
 RESOURCE ID: settings_unlock_base_framerate_description_off
 TEXT: เปิดใช้งานอัตราการรีเฟรชดั้งเดิมของอุปกรณ์

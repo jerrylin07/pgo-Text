@@ -48333,6 +48333,9 @@ RESOURCE ID: great_league_championship_series_2026
 TEXT: 2026 GO चैंपियनशिप सीरीज़ कप
 
 RESOURCE ID: great_league_championship_series_2027
+TEXT: 2027 GO EUIC कप - ग्रेट लीग एडशिन
+
+RESOURCE ID: great_league_championship_series_2027_out
 TEXT: 2027 GO चैंपयिनशपि सीरीज़ कप
 
 RESOURCE ID: great_league_championship_series_2028
@@ -60823,10 +60826,10 @@ at SHA 12701f1c07ae7f07a5d50583f697320977df7988
 Pipeline 1139111, job 13470914
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-11-17T23:15:34.939095+00:00 for hi-IN
-at SHA f4b280cc27d
-Pipeline 4110836, job 60669493
-Patch from: 0.439.0-SHA-310604ba-RC1, 0.435.2-SHA-18494160-RC2, 0.437.0-SHA-17709004-RC5
+TEXT: Built at 2026-11-19T01:43:47.361024+00:00 for hi-IN
+at SHA 22ac39e9aa2
+Pipeline 4115441, job 60743354
+Patch from: 0.435.2-SHA-18494160-RC2, 0.437.0-SHA-0699286a-RC6, 0.439.0-SHA-6e900373-RC3
 
 RESOURCE ID: meteor_title_1
 TEXT: मीटयिोर शावर

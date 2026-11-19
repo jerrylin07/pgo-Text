@@ -37497,7 +37497,7 @@ RESOURCE ID: filter_key_dough
 TEXT: きょだいまっくす
 
 RESOURCE ID: filter_key_event
-TEXT: 衣装・特殊
+TEXT: 衣装＆特殊
 
 RESOURCE ID: filter_key_evolvemega
 TEXT: めがしんか
@@ -50915,6 +50915,9 @@ RESOURCE ID: great_league_championship_series_2026
 TEXT: 2026GOチャンピオンシップカップ
 
 RESOURCE ID: great_league_championship_series_2027
+TEXT: 2027GOチャンピオンシップEUカップ：スーパーリーグバージョン
+
+RESOURCE ID: great_league_championship_series_2027_out
 TEXT: 2027GOチャンピオンシップカップ
 
 RESOURCE ID: great_league_championship_series_2028
@@ -63499,10 +63502,10 @@ at SHA 4d4f3e80cc7fb911006bd14d198c9831ef66d005
 Pipeline 339838, job 2672172
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-11-17T23:15:34.939095+00:00 for ja-JP
-at SHA f4b280cc27d
-Pipeline 4110836, job 60669493
-Patch from: 0.439.0-SHA-310604ba-RC1, 0.435.2-SHA-18494160-RC2, 0.437.0-SHA-17709004-RC5
+TEXT: Built at 2026-11-19T01:43:47.361024+00:00 for ja-JP
+at SHA 22ac39e9aa2
+Pipeline 4115441, job 60743354
+Patch from: 0.435.2-SHA-18494160-RC2, 0.437.0-SHA-0699286a-RC6, 0.439.0-SHA-6e900373-RC3
 
 RESOURCE ID: meteor_title_1
 TEXT: 流星群
@@ -85973,7 +85976,7 @@ RESOURCE ID: pups_tutorial_p3_body
 TEXT: ポケストップ・ジムの周りを歩き、お使いの端末で動画を撮る機能です。その場所の3Dマップを作成するために使用されます。
 
 RESOURCE ID: purchase_includes
-TEXT: Purchase Includes:
+TEXT: 購入に含む：
 
 RESOURCE ID: purchase_limit_one
 TEXT: 1回限定
@@ -138823,7 +138826,7 @@ RESOURCE ID: weather_week_event_name
 TEXT: ウェザーウィーク
 
 RESOURCE ID: web_includes
-TEXT: ウェブ購入の場合：
+TEXT: ウェブ購入：
 
 RESOURCE ID: web_store_homepage_url_key
 TEXT: https://store.pokemongo.com/?utm_source=PGO&utm_medium=in-game-shop&utm_campaign=pgo_webstore_linkout&utm_content=webstore_icon
