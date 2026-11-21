@@ -19482,6 +19482,9 @@ TEXT: Peningkatan CP untuk semua Pokémon hasil Evolusi Mega
 RESOURCE ID: bonus_mega_duration_72hr
 TEXT: Durasi Evolusi Mega 72 jam
 
+RESOURCE ID: bonus_mega_duration_96hr
+TEXT: Durasi Evolusi Mega 96 jam
+
 RESOURCE ID: bonus_mega_energy_gible
 TEXT: Dapatkan 300 Energi Mega Garchomp dengan menyelesaikan Tantangan Koleksi Gible
 
@@ -27134,7 +27137,7 @@ RESOURCE ID: collection_wcs2024_irl_bonus
 TEXT: Tantangan Koleksi Buket Champion
 
 RESOURCE ID: collections_filter_group_key
-TEXT: Collections
+TEXT: Koleksi
 
 RESOURCE ID: color_cup_great_title
 TEXT: Kejuaraan Warna: Edisi Liga Great
@@ -33641,7 +33644,7 @@ RESOURCE ID: evolution_item_use
 TEXT: Gunakan item ini pada Pokémonmu!
 
 RESOURCE ID: evolutions_filter_group_key
-TEXT: Evolutions
+TEXT: Evolusi
 
 RESOURCE ID: evolve_best_buddy_confirmation
 TEXT: Evolusikan Partner Terbaikmu {0}?
@@ -35002,10 +35005,10 @@ RESOURCE ID: filter_key_mega_level
 TEXT: Mega
 
 RESOURCE ID: filter_key_more_than
-TEXT: morethan
+TEXT: lebihdari
 
 RESOURCE ID: filter_key_new_pokedex_entry
-TEXT: newpokedexentry
+TEXT: entripokedexbaru
 
 RESOURCE ID: filter_key_profile_background
 TEXT: latarbelakangprofil
@@ -35071,7 +35074,7 @@ RESOURCE ID: filter_label_traded
 TEXT: Ditukarkan
 
 RESOURCE ID: filter_label_100
-TEXT: ★ 100%
+TEXT: ★ 100%
 
 RESOURCE ID: filter_label_appraisal_0
 TEXT: Bintang 0
@@ -35122,10 +35125,10 @@ RESOURCE ID: filter_label_max_pokemon
 TEXT: Pokémon Max
 
 RESOURCE ID: filter_label_more_than_one
-TEXT: More Than 1
+TEXT: Lebih dari 1
 
 RESOURCE ID: filter_label_new_pokedex_entry
-TEXT: New Pokédex Entry
+TEXT: Entri Pokédex Baru
 
 RESOURCE ID: filter_legwear_socks
 TEXT: Kaus Kaki
@@ -60897,10 +60900,10 @@ at SHA 12701f1c07ae7f07a5d50583f697320977df7988
 Pipeline 1139111, job 13470914
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-11-19T01:43:47.361024+00:00 for id-ID
-at SHA 22ac39e9aa2
-Pipeline 4115441, job 60743354
-Patch from: 0.435.2-SHA-18494160-RC2, 0.437.0-SHA-0699286a-RC6, 0.439.0-SHA-6e900373-RC3
+TEXT: Built at 2026-11-20T22:50:47.903523+00:00 for id-ID
+at SHA 2cc35f23581
+Pipeline 4122771, job 60854325
+Patch from: 0.437.0-SHA-6174fcca-RC4, 0.439.0-SHA-6e900373-RC3, 0.435.2-SHA-64391288-RC1
 
 RESOURCE ID: meteor_title_1
 TEXT: HUJAN METEOR
@@ -68935,7 +68938,7 @@ RESOURCE ID: plural_friend_sent_you_gift_notification
 TEXT: {0} dan {1} teman lainnya mengirimkan Hadiah!
 
 RESOURCE ID: plus_ranks
-TEXT: +{0} RANKS
+TEXT: +{0} RANK
 
 RESOURCE ID: plus_symbol_number_icons
 TEXT: +{0}
@@ -77976,7 +77979,7 @@ RESOURCE ID: pokemon_inventory_remove_favorites
 TEXT: Yakin ingin menghapus kueri penelusuran ini dari Favorit?
 
 RESOURCE ID: pokemon_inventory_see_all
-TEXT: SEE ALL ({0})
+TEXT: LIHAT SEMUA ({0})
 
 RESOURCE ID: pokemon_inventory_select_all
 TEXT: PILIH SEMUA
@@ -77994,7 +77997,7 @@ RESOURCE ID: pokemon_inventory_special_eggs_title
 TEXT: Bonus Ruang
 
 RESOURCE ID: pokemon_inventory_storage_full_banner_subtitle
-TEXT: Upgrade?
+TEXT: Tingkatkan?
 
 RESOURCE ID: pokemon_inventory_too_many_favorites
 TEXT: Terlalu banyak kueri penelusuran yang difavoritkan. Hapus kueri penelusuran dari Favorit untuk menambahkan kueri lainnya.
@@ -81612,7 +81615,7 @@ RESOURCE ID: pokemon_run_2026_thailand_title
 TEXT: Pokémon RUN 30: Tailan
 
 RESOURCE ID: pokemon_search_did_you_mean
-TEXT: Did you mean...
+TEXT: Mungkin maksudmu...
 
 RESOURCE ID: pokemon_shiny_info_transfer_to_professor_confirmation
 TEXT: Yakin ingin mentransfer Pokémon Bersinar ini?
@@ -83211,7 +83214,7 @@ RESOURCE ID: pups_tutorial_p3_body
 TEXT: Dengan fitur ini, kamu dapat memindai PokéStops dan Gym dengan berjalan di sekitar lokasi pada dunia nyata dan merekam video dengan perangkat pintarmu. Pindaian ini akan berkontribusi pada pembuatan peta 3D dari lokasi tersebut.
 
 RESOURCE ID: purchase_includes
-TEXT: Purchase Includes:
+TEXT: Pembelian Mencakup:
 
 RESOURCE ID: purchase_limit_one
 TEXT: HANYA SEKALI
@@ -83220,7 +83223,7 @@ RESOURCE ID: purchase_on_web_store_string_key
 TEXT: BELI DI WEB STORE
 
 RESOURCE ID: purchase_options_with_number
-TEXT: PURCHASE OPTIONS ({0})
+TEXT: PILIHAN PEMBELIAN ({0})
 
 RESOURCE ID: purchases_remaining_text
 TEXT: TERSISA {0}
@@ -119665,7 +119668,7 @@ RESOURCE ID: sizeable_surprises_event_name
 TEXT: Kejutan Terukur
 
 RESOURCE ID: sizes_filter_group_key
-TEXT: Sizes
+TEXT: Ukuran
 
 RESOURCE ID: skiddo_o_clock
 TEXT: Saatnya Skiddo
@@ -126258,7 +126261,7 @@ RESOURCE ID: team_yellow_intro|5
 TEXT: Kamu tidak akan pernah kalah saat percaya pada insting!
 
 RESOURCE ID: teamgorocket_filter_group_key
-TEXT: Team GO Rocket
+TEXT: Tim Roket GO
 
 RESOURCE ID: teammedallion_title
 TEXT: Tim Medallion
@@ -135711,7 +135714,7 @@ RESOURCE ID: weather_week_event_name
 TEXT: Minggu Cuaca
 
 RESOURCE ID: web_includes
-TEXT: WEB INCLUDES:
+TEXT: SITUS MENCAKUP:
 
 RESOURCE ID: web_store_homepage_url_key
 TEXT: https://store.pokemongo.com/?utm_source=PGO&utm_medium=in-game-shop&utm_campaign=pgo_webstore_linkout&utm_content=webstore_icon
@@ -135745,6 +135748,12 @@ TEXT: Tidak dapat mengakses kamera perangkat. Periksa izin kamera.
 
 RESOURCE ID: website_error
 TEXT: Terjadi kesalahan saat memuat laman
+
+RESOURCE ID: webstore_auto_refill_notification
+TEXT: Pengisian otomatis PokéCoin milikmu telah dimulai. {0} PokéCoin telah ditambahkan ke saldomu.
+
+RESOURCE ID: webstore_auto_refill_failed_notification
+TEXT: Terjadi masalah saat memproses pengisian ulang. Silakan periksa pengaturanmu di toko web.
 
 RESOURCE ID: webstore_linkout_description
 TEXT: Beli PokéCoin di toko web untuk menerima bonus PokéCoin dan dua kali lipat Poin Hadiah.

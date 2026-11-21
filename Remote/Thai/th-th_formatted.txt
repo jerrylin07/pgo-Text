@@ -19803,6 +19803,9 @@ TEXT: เพิ่ม CP สำหรับโปเกมอนที่วิ�
 RESOURCE ID: bonus_mega_duration_72hr
 TEXT: ระยะเวลาวิวัฒนาการเมก้า 72 ชั่วโมง
 
+RESOURCE ID: bonus_mega_duration_96hr
+TEXT: ระยะเวลาวิวัฒนาการเมก้า 96 ชั่วโมง
+
 RESOURCE ID: bonus_mega_energy_gible
 TEXT: รับ 300 พลังงานเมก้าของกาเบรียสได้โดยการทำคำท้านักสะสมฟุคามารุให้เสร็จสิ้น
 
@@ -68216,10 +68219,10 @@ at SHA da71d231c41a4d4f7aef0d6fd71061652ff15a0a
 Pipeline 441624, job 3600523
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-11-19T01:43:47.361024+00:00 for th-TH
-at SHA 22ac39e9aa2
-Pipeline 4115441, job 60743354
-Patch from: 0.435.2-SHA-18494160-RC2, 0.437.0-SHA-0699286a-RC6, 0.439.0-SHA-6e900373-RC3
+TEXT: Built at 2026-11-20T22:50:47.903523+00:00 for th-TH
+at SHA 2cc35f23581
+Pipeline 4122771, job 60854325
+Patch from: 0.437.0-SHA-6174fcca-RC4, 0.439.0-SHA-6e900373-RC3, 0.435.2-SHA-64391288-RC1
 
 RESOURCE ID: meteor_title_1
 TEXT: ฝนดาวตก
@@ -151645,6 +151648,12 @@ TEXT: ไม่สามารถเข้าถึงกล้องในอ�
 
 RESOURCE ID: website_error
 TEXT: เกิดข้อผิดพลาดในการโหลดเว็บไซต์
+
+RESOURCE ID: webstore_auto_refill_notification
+TEXT: เริ่มการเติมอัตโนมัติ และเติม {0} โปเกคอยน์แล้ว
+
+RESOURCE ID: webstore_auto_refill_failed_notification
+TEXT: พบข้อผิดพลาดขณะกำลังเติม กรุณาตรวจสอบการตั้งค่าที่ Web Store
 
 RESOURCE ID: webstore_linkout_description
 TEXT: หากซื้อโปเกคอยน์ทาง Web Store จะมีสิทธิพิเศษเป็นโปเกคอยน์โบนัสและแต้มรางวัล 2 เท่า

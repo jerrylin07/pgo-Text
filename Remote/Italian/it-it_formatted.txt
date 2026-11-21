@@ -19768,6 +19768,9 @@ TEXT: Aumento dei PL per tutti i Pokémon megaevoluti
 RESOURCE ID: bonus_mega_duration_72hr
 TEXT: La megaevoluzione durerà 72 ore
 
+RESOURCE ID: bonus_mega_duration_96hr
+TEXT: La megaevoluzione durerà 96 ore
+
 RESOURCE ID: bonus_mega_energy_gible
 TEXT: Completa la sfida di collezione dedicata a Gible per ottenere 300 Megaenergie Garchomp
 
@@ -29605,7 +29608,7 @@ RESOURCE ID: collection_wcs2024_irl_bonus
 TEXT: Sfida di collezione “Bouquet da campioni”
 
 RESOURCE ID: collections_filter_group_key
-TEXT: Collections
+TEXT: Collezioni
 
 RESOURCE ID: color_cup_great_title
 TEXT: Coppa Colore: edizione Lega Mega
@@ -36120,7 +36123,7 @@ RESOURCE ID: evolution_item_use
 TEXT: Usa lo strumento su questo Pokémon.
 
 RESOURCE ID: evolutions_filter_group_key
-TEXT: Evolutions
+TEXT: Evoluzioni
 
 RESOURCE ID: evolve_best_buddy_confirmation
 TEXT: Vuoi far evolvere il tuo miglior compagno {0}?
@@ -37403,7 +37406,7 @@ RESOURCE ID: filter_key_dough
 TEXT: gigamax
 
 RESOURCE ID: filter_key_event
-TEXT: event
+TEXT: evento
 
 RESOURCE ID: filter_key_evolvemega
 TEXT: megaevoluzione
@@ -37529,10 +37532,10 @@ RESOURCE ID: filter_key_mega_level
 TEXT: Mega
 
 RESOURCE ID: filter_key_more_than
-TEXT: morethan
+TEXT: piudiu
 
 RESOURCE ID: filter_key_new_pokedex_entry
-TEXT: newpokedexentry
+TEXT: nuovaaggiuntapokedex
 
 RESOURCE ID: filter_key_profile_background
 TEXT: sfondoprofilo
@@ -37649,10 +37652,10 @@ RESOURCE ID: filter_label_max_pokemon
 TEXT: Pokémon Max
 
 RESOURCE ID: filter_label_more_than_one
-TEXT: More Than 1
+TEXT: Più di uno
 
 RESOURCE ID: filter_label_new_pokedex_entry
-TEXT: New Pokédex Entry
+TEXT: Nuova aggiunta al Pokédex
 
 RESOURCE ID: filter_legwear_socks
 TEXT: Calzini
@@ -50979,7 +50982,7 @@ RESOURCE ID: great_league_championship_series_2026
 TEXT: Coppa GO dei Campionati 2026
 
 RESOURCE ID: great_league_championship_series_2027
-TEXT: Coppa GO dei EUIC 2027: edizione Lega Mega
+TEXT: Coppa GO degli EUIC 2027: edizione Lega Mega
 
 RESOURCE ID: great_league_championship_series_2027_out
 TEXT: Coppa GO dei Campionati 2027
@@ -63519,10 +63522,10 @@ at SHA 4d4f3e80cc7fb911006bd14d198c9831ef66d005
 Pipeline 339838, job 2672172
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-11-19T01:43:47.361024+00:00 for it-IT
-at SHA 22ac39e9aa2
-Pipeline 4115441, job 60743354
-Patch from: 0.435.2-SHA-18494160-RC2, 0.437.0-SHA-0699286a-RC6, 0.439.0-SHA-6e900373-RC3
+TEXT: Built at 2026-11-20T22:50:47.903523+00:00 for it-IT
+at SHA 2cc35f23581
+Pipeline 4122771, job 60854325
+Patch from: 0.437.0-SHA-6174fcca-RC4, 0.439.0-SHA-6e900373-RC3, 0.435.2-SHA-64391288-RC1
 
 RESOURCE ID: meteor_title_1
 TEXT: PIOGGIA DI METEORE
@@ -70840,7 +70843,7 @@ RESOURCE ID: phantump_mastery_sep2026
 TEXT: Obiettivo cattura: Phantump
 
 RESOURCE ID: phenomenaandeffects_filter_group_key
-TEXT: Phenomena and Effects
+TEXT: Fenomeni ed effetti
 
 RESOURCE ID: photo_saved
 TEXT: Foto salvata
@@ -71506,7 +71509,7 @@ RESOURCE ID: plural_friend_sent_you_gift_notification
 TEXT: {0} e altri {1} amici ti hanno inviato dei regali!
 
 RESOURCE ID: plus_ranks
-TEXT: +{0} RANKS
+TEXT: +{0} LIVELLI
 
 RESOURCE ID: plus_symbol_number_icons
 TEXT: +{0}
@@ -80596,7 +80599,7 @@ RESOURCE ID: pokemon_inventory_remove_favorites
 TEXT: Vuoi davvero rimuovere questa query di ricerca dai preferiti?
 
 RESOURCE ID: pokemon_inventory_see_all
-TEXT: SEE ALL ({0})
+TEXT: VEDI TUTTI ({0})
 
 RESOURCE ID: pokemon_inventory_select_all
 TEXT: SELEZIONA TUTTO
@@ -80614,7 +80617,7 @@ RESOURCE ID: pokemon_inventory_special_eggs_title
 TEXT: Spazio bonus
 
 RESOURCE ID: pokemon_inventory_storage_full_banner_subtitle
-TEXT: Upgrade?
+TEXT: Amplia?
 
 RESOURCE ID: pokemon_inventory_too_many_favorites
 TEXT: Hai troppe query di ricerca tra i preferiti. È necessario rimuovere una query di ricerca dai preferiti per aggiungerne altre.
@@ -84232,7 +84235,7 @@ RESOURCE ID: pokemon_run_2026_thailand_title
 TEXT: Pokémon RUN 30: edizione Tailandia
 
 RESOURCE ID: pokemon_search_did_you_mean
-TEXT: Did you mean...
+TEXT: Forse volevi dire...
 
 RESOURCE ID: pokemon_shiny_info_transfer_to_professor_confirmation
 TEXT: Vuoi davvero trasferire questo Pokémon cromatico?
@@ -85836,7 +85839,7 @@ RESOURCE ID: pups_tutorial_p3_body
 TEXT: Questa funzionalità ti permette di scansionare i Pokéstop e le Palestre che incontri mentre sei in giro nel mondo reale e di realizzare dei video con il tuo smart phone. Queste scansioni serviranno a creare mappe di quei luoghi in 3D.
 
 RESOURCE ID: purchase_includes
-TEXT: Purchase Includes:
+TEXT: L’acquisto include:
 
 RESOURCE ID: purchase_limit_one
 TEXT: LIMITE: UN ACQUISTO
@@ -85845,7 +85848,7 @@ RESOURCE ID: purchase_on_web_store_string_key
 TEXT: ACQUISTA - STORE ONLINE
 
 RESOURCE ID: purchase_options_with_number
-TEXT: PURCHASE OPTIONS ({0})
+TEXT: OPZIONI D’ACQUISTO ({0})
 
 RESOURCE ID: purchases_remaining_text
 TEXT: RIMANENTI: {0}
@@ -122443,7 +122446,7 @@ RESOURCE ID: sizeable_surprises_event_name
 TEXT: Piccole e grandi sorprese
 
 RESOURCE ID: sizes_filter_group_key
-TEXT: Sizes
+TEXT: Dimensioni
 
 RESOURCE ID: skiddo_o_clock
 TEXT: È il tuo momento, Skiddo!
@@ -138541,7 +138544,7 @@ RESOURCE ID: weather_week_event_name
 TEXT: Settimana del clima
 
 RESOURCE ID: web_includes
-TEXT: WEB INCLUDES:
+TEXT: INCLUSO ONLINE:
 
 RESOURCE ID: web_store_homepage_url_key
 TEXT: https://store.pokemongo.com/?utm_source=PGO&utm_medium=in-game-shop&utm_campaign=pgo_webstore_linkout&utm_content=webstore_icon
@@ -138575,6 +138578,12 @@ TEXT: Impossibile accedere alla fotocamera del tuo dispositivo. Controlla le rel
 
 RESOURCE ID: website_error
 TEXT: Errore durante il caricamento del sito
+
+RESOURCE ID: webstore_auto_refill_notification
+TEXT: La ricarica automatica delle tue Pokémonete è stata avviata. {0} Pokémonete sono state aggiunte al tuo saldo.
+
+RESOURCE ID: webstore_auto_refill_failed_notification
+TEXT: Si è verificato un problema durante l’elaborazione della ricarica. Controlla le impostazioni nello store online.
 
 RESOURCE ID: webstore_linkout_description
 TEXT: Acquista Pokémonete nello store online per ricevere Pokémonete aggiuntive e raddoppiare i punti ricompensa.

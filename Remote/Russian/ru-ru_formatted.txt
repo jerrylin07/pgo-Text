@@ -3300,7 +3300,7 @@ TEXT: Кепка с Дрифлуном
 
 RESOURCE ID: avatar_f_hat_drpikachu_00_bundle_icon
 TEXT: Ободок
-Пикачу-чёный
+Пикачу-Учёный
 
 RESOURCE ID: avatar_f_hat_dusclopsmummy_00_bundle_icon
 TEXT: Повязка Дасклопс
@@ -5788,7 +5788,7 @@ TEXT: Кепка с Дрифлуном
 
 RESOURCE ID: avatar_m_hat_drpikachu_00_bundle_icon
 TEXT: Ободок
-Пикачу-чёный
+Пикачу-Учёный
 
 RESOURCE ID: avatar_m_hat_dusclopsmummy_00_bundle_icon
 TEXT: Повязка Дасклопс
@@ -19610,6 +19610,9 @@ TEXT: Усиленная БС для всех прошедших Мегаэво�
 
 RESOURCE ID: bonus_mega_duration_72hr
 TEXT: 72-часовое действие Мегаэволюции
+
+RESOURCE ID: bonus_mega_duration_96hr
+TEXT: 96-часовое действие Мегаэволюции
 
 RESOURCE ID: bonus_mega_energy_gible
 TEXT: Заработай 300 Мегаэнергии Гарчомп, завершив Коллекционное Испытание Гибл
@@ -63362,10 +63365,10 @@ at SHA bacc02371739993984570a6f5b31a993cf3b031b
 Pipeline 498004, job 4265729
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-11-19T01:43:47.361024+00:00 for ru-RU
-at SHA 22ac39e9aa2
-Pipeline 4115441, job 60743354
-Patch from: 0.435.2-SHA-18494160-RC2, 0.437.0-SHA-0699286a-RC6, 0.439.0-SHA-6e900373-RC3
+TEXT: Built at 2026-11-20T22:50:47.903523+00:00 for ru-RU
+at SHA 2cc35f23581
+Pipeline 4122771, job 60854325
+Patch from: 0.437.0-SHA-6174fcca-RC4, 0.439.0-SHA-6e900373-RC3, 0.435.2-SHA-64391288-RC1
 
 RESOURCE ID: meteor_title_1
 TEXT: МЕТЕОРИТНЫЙ ПОТОК
@@ -138378,6 +138381,12 @@ TEXT: Не удаётся получить доступ к камере твое
 
 RESOURCE ID: website_error
 TEXT: Ошибка при загрузке сайта
+
+RESOURCE ID: webstore_auto_refill_notification
+TEXT: Было инициировано автоматическое пополнение Покемонет. Твой баланс пополнился на {0} Покемонет.
+
+RESOURCE ID: webstore_auto_refill_failed_notification
+TEXT: При обработке пополнения произошла ошибка. Проверь настройки в онлайн-магазине.
 
 RESOURCE ID: webstore_linkout_description
 TEXT: Покупай Покемонеты в Онлайн-Магазине и получай дополнительный бонус и в два раза больше Призовых Очков

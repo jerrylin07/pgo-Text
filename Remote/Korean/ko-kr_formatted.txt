@@ -19401,6 +19401,9 @@ TEXT: 메가진화한 모든 포켓몬의 CP증가
 RESOURCE ID: bonus_mega_duration_72hr
 TEXT: 메가진화 72시간 지속
 
+RESOURCE ID: bonus_mega_duration_96hr
+TEXT: 메가진화 96시간 지속
+
 RESOURCE ID: bonus_mega_energy_gible
 TEXT: 딥상어동 컬렉션 챌린지 완료로 한카리아스 메가 에너지 300을 받을 수 있다
 
@@ -28750,28 +28753,28 @@ RESOURCE ID: city_manhole_485
 TEXT: 키소
 
 RESOURCE ID: city_manhole_486
-TEXT: Shibukawa
+TEXT: 시부카와
 
 RESOURCE ID: city_manhole_487
-TEXT: Geisei
+TEXT: 게이세이
 
 RESOURCE ID: city_manhole_488
-TEXT: Sakawa
+TEXT: 사카와
 
 RESOURCE ID: city_manhole_489
-TEXT: Tosa
+TEXT: 토사
 
 RESOURCE ID: city_manhole_490
-TEXT: Naganohara
+TEXT: 나가노하라
 
 RESOURCE ID: city_manhole_491
-TEXT: Numata
+TEXT: 누마타
 
 RESOURCE ID: city_manhole_492
-TEXT: Shimanto
+TEXT: 시만토
 
 RESOURCE ID: city_manhole_493
-TEXT: Ino
+TEXT: 이노
 
 RESOURCE ID: city_manhole_4(ibusuki)_d64e
 TEXT: 이부스키
@@ -37551,7 +37554,7 @@ RESOURCE ID: flavoredlure_bundle_title
 TEXT: 루어모듈 박스
 
 RESOURCE ID: flip_to_dim_settings_description
-TEXT: Dims the screen when you hold your phone upside down to help save battery.
+TEXT: 핸드폰을 거꾸로 하면 화면 밝기가 낮아져서 절전 모드가 된다
 
 RESOURCE ID: flock_together_rd_may24_event_title
 TEXT: 비행 리서치데이
@@ -38679,7 +38682,7 @@ RESOURCE ID: fossil_evergreen_tr_jun26_explore_title
 TEXT: 화석 분석 시간제한 리서치
 
 RESOURCE ID: fossil_museum_bonus_event_title
-TEXT: 포켓몬 화석박물관
+TEXT: 포켓몬 화석 박물관
 
 RESOURCE ID: fossil_museum_collection_challenge_01
 TEXT: 발굴 컬렉션 챌린지
@@ -38703,10 +38706,10 @@ RESOURCE ID: fossil_museum_collection_challenge_07
 TEXT: 발굴 컬렉션 챌린지
 
 RESOURCE ID: fossil_museum_tr_title_01
-TEXT: 포켓몬 화석박물관(1/2)
+TEXT: 포켓몬 화석 박물관(1/2)
 
 RESOURCE ID: fossil_museum_tr_title_02
-TEXT: 포켓몬 화석박물관(2/2)
+TEXT: 포켓몬 화석 박물관(2/2)
 
 RESOURCE ID: fossil_research_day_event_name
 TEXT: 화석 리서치데이
@@ -52082,22 +52085,22 @@ RESOURCE ID: hide_bonus_ranks_earn_additional_rewards
 TEXT: 추가 리워드 획득!
 
 RESOURCE ID: high_refresh_rate_prompt_title
-TEXT: Update Your Refresh Rate
+TEXT: 새로고침 빈도 변경
 
 RESOURCE ID: high_refresh_rate_prompt_body
-TEXT: Get smoother visuals and more responsive gameplay, which may affect battery life. You can change this anytime in Settings.
+TEXT: 더 부드러운 화면의 움직임과 빠른 반응의 조작성을 실현할 수 있으나 새로고침 빈도를 올리면 배터리 소모도 증가합니다. 언제라도 설정에서 변경할 수 있습니다.
 
 RESOURCE ID: high_refresh_rate_prompt_dismiss_button
-TEXT: MAYBE LATER
+TEXT: 다음에 한다
 
 RESOURCE ID: high_refresh_rate_prompt_enable_button
-TEXT: TURN ON
+TEXT: 설정한다
 
 RESOURCE ID: high_refresh_rate_settings_title
-TEXT: Improve Visuals and Animations
+TEXT: 더 부드러운 화면의 움직임
 
 RESOURCE ID: high_refresh_rate_settings_description
-TEXT: Get smoother visuals and more responsive gameplay. This may affect battery life.
+TEXT: 더 부드러운 화면과 더 높은 반응속도를 실현(배터리 소모가 많을 수 있습니다)
 
 RESOURCE ID: high_voltage_event_nme
 TEXT: 하이볼티지
@@ -62947,10 +62950,10 @@ at SHA 4d4f3e80cc7fb911006bd14d198c9831ef66d005
 Pipeline 339838, job 2672172
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-11-19T01:43:47.361024+00:00 for ko-KR
-at SHA 22ac39e9aa2
-Pipeline 4115441, job 60743354
-Patch from: 0.435.2-SHA-18494160-RC2, 0.437.0-SHA-0699286a-RC6, 0.439.0-SHA-6e900373-RC3
+TEXT: Built at 2026-11-20T22:50:47.903523+00:00 for ko-KR
+at SHA 2cc35f23581
+Pipeline 4122771, job 60854325
+Patch from: 0.437.0-SHA-6174fcca-RC4, 0.439.0-SHA-6e900373-RC3, 0.435.2-SHA-64391288-RC1
 
 RESOURCE ID: meteor_title_1
 TEXT: 유성군
@@ -63292,7 +63295,7 @@ RESOURCE ID: month_september
 TEXT: 9월
 
 RESOURCE ID: moonblast_base_increased_level_bonus
-TEXT: 메가 픽시의 레벨이 올라갑니다(11월 30일 12시~12월 13일 12시 PST)
+TEXT: 슈퍼 맥스 레벨이 된 메가픽시의 CP가 올라갑니다(11월 30일 12시~12월 13일 12시 PST)
 
 RESOURCE ID: moonblast_base_power_boost_bonus
 TEXT: 문포스의 위력이 증가(11월 30일 12시~ 12월 13일 12시 PST)
@@ -120169,7 +120172,7 @@ RESOURCE ID: settings_advanced_privacy_title
 TEXT: 프라이버시
 
 RESOURCE ID: settings_advanced_quality_title
-TEXT: 품질
+TEXT: 성능
 
 RESOURCE ID: settings_advanced_sharing_title
 TEXT: 공유
@@ -120496,37 +120499,37 @@ RESOURCE ID: settings_raid_friend_requests_tip
 TEXT: Only applies to in-person and nearby raids.
 
 RESOURCE ID: settings_refresh_rate_balanced
-TEXT: Balanced
+TEXT: 중간
 
 RESOURCE ID: settings_refresh_rate_high
-TEXT: High
+TEXT: 높음
 
 RESOURCE ID: settings_refresh_rate_low
-TEXT: Low
+TEXT: 낮음
 
 RESOURCE ID: settings_refresh_rate_name
-TEXT: Refresh Rate
+TEXT: 새로고침
 
 RESOURCE ID: settings_refresh_rate_balanced_recommended
-TEXT: Balanced (Recommended)
+TEXT: 중간(권장)
 
 RESOURCE ID: settings_refresh_rate_high_recommended
-TEXT: High (Recommended)
+TEXT: 높음(권장)
 
 RESOURCE ID: settings_refresh_rate_incompatible_device
-TEXT: This device is not compatible for higher refresh rates.
+TEXT: 이 디바이스는 높은 새로고침에 적합아지 않습니다
 
 RESOURCE ID: settings_refresh_rate_low_recommended
-TEXT: Low (Recommended)
+TEXT: 낮음(권장)
 
 RESOURCE ID: settings_refresh_rate_updated_balanced
-TEXT: Refresh Rate updated to Balanced.
+TEXT: 개로고침 빈도를 중간으로 설정했습니다
 
 RESOURCE ID: settings_refresh_rate_updated_high
-TEXT: Refresh Rate updated to High.
+TEXT: 새로고침 빈도를 높음으로 설정했습니다
 
 RESOURCE ID: settings_refresh_rate_updated_low
-TEXT: Refresh Rate updated to Low.
+TEXT: 새로고침 빈도를 낮음으로 설정했습니다
 
 RESOURCE ID: settings_remember_last_pokeball
 TEXT: 마지막에 사용한 볼 기억하기
@@ -120698,7 +120701,7 @@ RESOURCE ID: settings_unlock_base_framerate
 TEXT: 기본 화면 재생 빈도
 
 RESOURCE ID: settings_unlock_base_framerate_description
-TEXT: 부드러운 비주얼(배터리 소모 증가 가능성 있음)
+TEXT: 더 부드럽고 빠른 반응의 화면(배터리 소모가 많을 수 있습니다)
 
 RESOURCE ID: settings_unlock_base_framerate_description_off
 TEXT: 더 높은 FPS를 위해 디바이스의 화면 재생 빈도를 켭니다.
@@ -137898,6 +137901,12 @@ TEXT: 카메라를 설정에 실패했습니다
 
 RESOURCE ID: website_error
 TEXT: 웹사이트 로딩 에러
+
+RESOURCE ID: webstore_auto_refill_notification
+TEXT: 자동 충전을 시작하여 {0}포켓코인이 추가되었습니다.
+
+RESOURCE ID: webstore_auto_refill_failed_notification
+TEXT: 충전 처리 에러입니다. web store 설정을 확인해 주세요.
 
 RESOURCE ID: webstore_linkout_description
 TEXT: Web Store에서 포켓코인을 구매하면 보너스 포켓코인, 리워드 포인트가 2배가 되는 특전 있음

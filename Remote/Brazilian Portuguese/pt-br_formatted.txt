@@ -19802,6 +19802,9 @@ TEXT: PC aumentado para todos Pokémon Megaevoluídos
 RESOURCE ID: bonus_mega_duration_72hr
 TEXT: 72 horas de duração da Megaevolução
 
+RESOURCE ID: bonus_mega_duration_96hr
+TEXT: 96 horas de duração da Megaevolução
+
 RESOURCE ID: bonus_mega_energy_gible
 TEXT: Receba 300 Megaenergias de Garchomp ao completar o Desafio de Coleção de Gible
 
@@ -29640,7 +29643,7 @@ RESOURCE ID: collection_wcs2024_irl_bonus
 TEXT: Desafio de Coleção Buquê do Campeão
 
 RESOURCE ID: collections_filter_group_key
-TEXT: Collections
+TEXT: Coleções
 
 RESOURCE ID: color_cup_great_title
 TEXT: Copa das Cores: edição da Grande Liga
@@ -36159,7 +36162,7 @@ RESOURCE ID: evolution_item_use
 TEXT: Dê este item ao seu Pokémon!
 
 RESOURCE ID: evolutions_filter_group_key
-TEXT: Evolutions
+TEXT: Evoluções
 
 RESOURCE ID: evolve_best_buddy_confirmation
 TEXT: Você quer evoluir seu melhor companheiro {0}?
@@ -37449,7 +37452,7 @@ RESOURCE ID: filter_key_dough
 TEXT: gigamax
 
 RESOURCE ID: filter_key_event
-TEXT: event
+TEXT: evento
 
 RESOURCE ID: filter_key_evolvemega
 TEXT: megaevolui
@@ -37575,10 +37578,10 @@ RESOURCE ID: filter_key_mega_level
 TEXT: Mega
 
 RESOURCE ID: filter_key_more_than
-TEXT: morethan
+TEXT: maisde
 
 RESOURCE ID: filter_key_new_pokedex_entry
-TEXT: newpokedexentry
+TEXT: novoregistropokedex
 
 RESOURCE ID: filter_key_profile_background
 TEXT: fundodeperfil
@@ -37696,10 +37699,10 @@ RESOURCE ID: filter_label_max_pokemon
 TEXT: Pokémon Max
 
 RESOURCE ID: filter_label_more_than_one
-TEXT: More Than 1
+TEXT: Mais de 1
 
 RESOURCE ID: filter_label_new_pokedex_entry
-TEXT: New Pokédex Entry
+TEXT: Novo registro no Pokédex
 
 RESOURCE ID: filter_legwear_socks
 TEXT: Meias
@@ -63561,10 +63564,10 @@ at SHA 4d4f3e80cc7fb911006bd14d198c9831ef66d005
 Pipeline 339838, job 2672172
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-11-19T01:43:47.361024+00:00 for pt-BR
-at SHA 22ac39e9aa2
-Pipeline 4115441, job 60743354
-Patch from: 0.435.2-SHA-18494160-RC2, 0.437.0-SHA-0699286a-RC6, 0.439.0-SHA-6e900373-RC3
+TEXT: Built at 2026-11-20T22:50:47.903523+00:00 for pt-BR
+at SHA 2cc35f23581
+Pipeline 4122771, job 60854325
+Patch from: 0.437.0-SHA-6174fcca-RC4, 0.439.0-SHA-6e900373-RC3, 0.435.2-SHA-64391288-RC1
 
 RESOURCE ID: meteor_title_1
 TEXT: CHUVA DE METEOROS
@@ -70888,7 +70891,7 @@ RESOURCE ID: phantump_mastery_sep2026
 TEXT: Mestre da Captura: Phantump
 
 RESOURCE ID: phenomenaandeffects_filter_group_key
-TEXT: Phenomena and Effects
+TEXT: Fenômenos e efeitos
 
 RESOURCE ID: photo_saved
 TEXT: Foto salva
@@ -71554,7 +71557,7 @@ RESOURCE ID: plural_friend_sent_you_gift_notification
 TEXT: {0} e outras {1} pessoas enviaram presentes para você!
 
 RESOURCE ID: plus_ranks
-TEXT: +{0} RANKS
+TEXT: +{0} RANQUES
 
 RESOURCE ID: plus_symbol_number_icons
 TEXT: +{0}
@@ -80639,7 +80642,7 @@ RESOURCE ID: pokemon_inventory_remove_favorites
 TEXT: Tem certeza de que quer apagar esta busca dos seus favoritos?
 
 RESOURCE ID: pokemon_inventory_see_all
-TEXT: SEE ALL ({0})
+TEXT: VER TODOS ({0})
 
 RESOURCE ID: pokemon_inventory_select_all
 TEXT: SELECIONAR TUDO
@@ -80657,7 +80660,7 @@ RESOURCE ID: pokemon_inventory_special_eggs_title
 TEXT: Estoque bônus
 
 RESOURCE ID: pokemon_inventory_storage_full_banner_subtitle
-TEXT: Upgrade?
+TEXT: Fazer upgrade?
 
 RESOURCE ID: pokemon_inventory_too_many_favorites
 TEXT: Você tem muitas buscas de favoritos. Você deve remover uma busca de favoritos para poder adicionar buscas novas.
@@ -84275,7 +84278,7 @@ RESOURCE ID: pokemon_run_2026_thailand_title
 TEXT: Pokémon RUN 30: Edição Tailândia
 
 RESOURCE ID: pokemon_search_did_you_mean
-TEXT: Did you mean...
+TEXT: Você quis dizer...
 
 RESOURCE ID: pokemon_shiny_info_transfer_to_professor_confirmation
 TEXT: Quer mesmo transferir este Pokémon Brilhante?
@@ -85883,7 +85886,7 @@ RESOURCE ID: pups_tutorial_p3_body
 TEXT: Com esse recurso, você pode escanear Poképaradas e Ginásios ao caminhar por suas localizações do mundo real e gravar vídeos com seu dispositivo. Esses scans contribuirão para a criação de mapas 3D dessas localizações.
 
 RESOURCE ID: purchase_includes
-TEXT: Purchase Includes:
+TEXT: A compra inclui:
 
 RESOURCE ID: purchase_limit_one
 TEXT: APENAS 1 COMPRA
@@ -85892,7 +85895,7 @@ RESOURCE ID: purchase_on_web_store_string_key
 TEXT: COMPRAR (LOJA ONLINE)
 
 RESOURCE ID: purchase_options_with_number
-TEXT: PURCHASE OPTIONS ({0})
+TEXT: OPÇÕES DE COMPRA ({0})
 
 RESOURCE ID: purchases_remaining_text
 TEXT: RESTAM: {0}
@@ -122485,7 +122488,7 @@ RESOURCE ID: sizeable_surprises_event_name
 TEXT: Pequenas e Grandes Surpresas
 
 RESOURCE ID: sizes_filter_group_key
-TEXT: Sizes
+TEXT: Tamanhos
 
 RESOURCE ID: skiddo_o_clock
 TEXT: Hora de Skiddo
@@ -129087,7 +129090,7 @@ RESOURCE ID: team_yellow_intro|5
 TEXT: Você nunca perde quando segue seus instintos!
 
 RESOURCE ID: teamgorocket_filter_group_key
-TEXT: Team GO Rocket
+TEXT: Equipe GO Rocket
 
 RESOURCE ID: teammedallion_title
 TEXT: Medalhão de Equipe
@@ -138584,7 +138587,7 @@ RESOURCE ID: weather_week_event_name
 TEXT: Semana climática
 
 RESOURCE ID: web_includes
-TEXT: WEB INCLUDES:
+TEXT: A COMPRA ONLINE INCLUI:
 
 RESOURCE ID: web_store_homepage_url_key
 TEXT: https://store.pokemongo.com/?utm_source=PGO&utm_medium=in-game-shop&utm_campaign=pgo_webstore_linkout&utm_content=webstore_icon
@@ -138618,6 +138621,12 @@ TEXT: Não é possível acessar a câmera do seu dispositivo. Verificar permiss�
 
 RESOURCE ID: website_error
 TEXT: Erro ao carregar o site
+
+RESOURCE ID: webstore_auto_refill_notification
+TEXT:  A sua recarga automática de Pokémoedas foi iniciada. {0} Pokémoedas foram adicionadas ao seu saldo.
+
+RESOURCE ID: webstore_auto_refill_failed_notification
+TEXT: Ocorreu um erro ao processar sua recarga. Verifique suas configurações na loja online.
 
 RESOURCE ID: webstore_linkout_description
 TEXT: Compre Pokémoedas na loja online para receber Pokémoedas bônus e o dobro de Pontos de Recompensa.

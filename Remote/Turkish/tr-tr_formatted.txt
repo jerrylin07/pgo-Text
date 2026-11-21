@@ -19603,6 +19603,9 @@ TEXT: Tüm mega evrimleşmiş Pokémon’lar için artırılmış DG
 RESOURCE ID: bonus_mega_duration_72hr
 TEXT: 72 saatlik mega evrim süresi
 
+RESOURCE ID: bonus_mega_duration_96hr
+TEXT: 96 saatlik mega evrim süresi
+
 RESOURCE ID: bonus_mega_energy_gible
 TEXT: Gible toplama görevini tamamlayarak 300 Garchomp mega enerjisi kazanın
 
@@ -61049,10 +61052,10 @@ at SHA 413df5befdbe0d00a543f8a142221526d63b719a
 Pipeline 834428, job 8736424
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-11-19T01:43:47.361024+00:00 for tr-TR
-at SHA 22ac39e9aa2
-Pipeline 4115441, job 60743354
-Patch from: 0.435.2-SHA-18494160-RC2, 0.437.0-SHA-0699286a-RC6, 0.439.0-SHA-6e900373-RC3
+TEXT: Built at 2026-11-20T22:50:47.903523+00:00 for tr-TR
+at SHA 2cc35f23581
+Pipeline 4122771, job 60854325
+Patch from: 0.437.0-SHA-6174fcca-RC4, 0.439.0-SHA-6e900373-RC3, 0.435.2-SHA-64391288-RC1
 
 RESOURCE ID: meteor_title_1
 TEXT: METEOR YAĞMURU
@@ -135846,6 +135849,12 @@ TEXT: Cihaz kamerasına erişilemiyor. Kamera izinlerinizi kontrol edin.
 
 RESOURCE ID: website_error
 TEXT: Site yüklenirken hata oluştu
+
+RESOURCE ID: webstore_auto_refill_notification
+TEXT: Otomatik PokéPara yükleme başlatıldı. Hesabınıza {0} PokéPara eklendi.
+
+RESOURCE ID: webstore_auto_refill_failed_notification
+TEXT: Otomatik yüklemede bir sorun oluştu. Lütfen İnternet Mağazasından ayarlarınızı kontrol edin.
 
 RESOURCE ID: webstore_linkout_description
 TEXT: PokéParalarınızı İnternet Mağazasından satın alarak ilave bonuslar ve iki kat ödül puanı kazanın

@@ -19759,6 +19759,9 @@ TEXT: Boost de PC pour tous les Pokémon méga-évolués
 RESOURCE ID: bonus_mega_duration_72hr
 TEXT: La Méga-Évolution dure 72 heures
 
+RESOURCE ID: bonus_mega_duration_96hr
+TEXT: La Méga-Évolution dure 96 heures
+
 RESOURCE ID: bonus_mega_energy_gible
 TEXT: Gagne 300 Méga-Énergies Carchacrok en terminant le Défi de collection Griknot
 
@@ -37393,7 +37396,7 @@ RESOURCE ID: filter_key_dough
 TEXT: gigamax
 
 RESOURCE ID: filter_key_event
-TEXT: event
+TEXT: évènement
 
 RESOURCE ID: filter_key_evolvemega
 TEXT: mégaévolue
@@ -37519,10 +37522,10 @@ RESOURCE ID: filter_key_mega_level
 TEXT: Méga
 
 RESOURCE ID: filter_key_more_than
-TEXT: morethan
+TEXT: plusde
 
 RESOURCE ID: filter_key_new_pokedex_entry
-TEXT: newpokedexentry
+TEXT: nouvelleentréedepokédex
 
 RESOURCE ID: filter_key_profile_background
 TEXT: fonddeprofil
@@ -37588,7 +37591,7 @@ RESOURCE ID: filter_label_traded
 TEXT: Échangés
 
 RESOURCE ID: filter_label_100
-TEXT: ★ 100%
+TEXT: ★ 100 %
 
 RESOURCE ID: filter_label_appraisal_0
 TEXT: Pas d’étoiles
@@ -37639,10 +37642,10 @@ RESOURCE ID: filter_label_max_pokemon
 TEXT: Pokémon Max
 
 RESOURCE ID: filter_label_more_than_one
-TEXT: More Than 1
+TEXT: Plus d’un
 
 RESOURCE ID: filter_label_new_pokedex_entry
-TEXT: New Pokédex Entry
+TEXT: Nouvelle entrée de Pokédex
 
 RESOURCE ID: filter_legwear_socks
 TEXT: Chaussettes
@@ -63506,10 +63509,10 @@ at SHA 4d4f3e80cc7fb911006bd14d198c9831ef66d005
 Pipeline 339838, job 2672172
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-11-19T01:43:47.361024+00:00 for fr-FR
-at SHA 22ac39e9aa2
-Pipeline 4115441, job 60743354
-Patch from: 0.435.2-SHA-18494160-RC2, 0.437.0-SHA-0699286a-RC6, 0.439.0-SHA-6e900373-RC3
+TEXT: Built at 2026-11-20T22:50:47.903523+00:00 for fr-FR
+at SHA 2cc35f23581
+Pipeline 4122771, job 60854325
+Patch from: 0.437.0-SHA-6174fcca-RC4, 0.439.0-SHA-6e900373-RC3, 0.435.2-SHA-64391288-RC1
 
 RESOURCE ID: meteor_title_1
 TEXT: PLUIE DE MÉTÉORES
@@ -70829,7 +70832,7 @@ RESOURCE ID: phantump_mastery_sep2026
 TEXT: Maîtrise de capture : Brocélôme
 
 RESOURCE ID: phenomenaandeffects_filter_group_key
-TEXT: Phenomena and Effects
+TEXT: Phénomènes et Effets
 
 RESOURCE ID: photo_saved
 TEXT: Photo enregistrée
@@ -71495,7 +71498,7 @@ RESOURCE ID: plural_friend_sent_you_gift_notification
 TEXT: {0} et {1} autres amis t’ont envoyé un Cadeau.
 
 RESOURCE ID: plus_ranks
-TEXT: +{0} RANKS
+TEXT: + {0} RANGS
 
 RESOURCE ID: plus_symbol_number_icons
 TEXT: +{0}
@@ -80585,7 +80588,7 @@ RESOURCE ID: pokemon_inventory_remove_favorites
 TEXT: Veux-tu vraiment supprimer cette recherche de tes favoris ?
 
 RESOURCE ID: pokemon_inventory_see_all
-TEXT: SEE ALL ({0})
+TEXT: VOIR TOUS ({0})
 
 RESOURCE ID: pokemon_inventory_select_all
 TEXT: TOUT SÉLECTIONNER
@@ -80603,7 +80606,7 @@ RESOURCE ID: pokemon_inventory_special_eggs_title
 TEXT: Espace de stockage bonus
 
 RESOURCE ID: pokemon_inventory_storage_full_banner_subtitle
-TEXT: Upgrade?
+TEXT: Améliorer ?
 
 RESOURCE ID: pokemon_inventory_too_many_favorites
 TEXT: Tu as trop de recherches enregistrées dans tes favoris. Tu dois d’abord supprimer une recherche avant d’en ajouter une autre.
@@ -84221,7 +84224,7 @@ RESOURCE ID: pokemon_run_2026_thailand_title
 TEXT: Pokémon RUN 30 : Édition Thaïlande
 
 RESOURCE ID: pokemon_search_did_you_mean
-TEXT: Did you mean...
+TEXT: Tu voulais dire...
 
 RESOURCE ID: pokemon_shiny_info_transfer_to_professor_confirmation
 TEXT: Veux-tu vraiment transférer ce Pokémon chromatique ?
@@ -85826,7 +85829,7 @@ RESOURCE ID: pups_tutorial_p3_body
 TEXT: Avec cette fonctionnalité, tu peux scanner des PokéStops et des Arènes en te baladant à leur emplacement dans le monde réel et en prenant des vidéos avec un appareil intelligent. Ces scans permettent la création de cartes 3D de ces emplacements.
 
 RESOURCE ID: purchase_includes
-TEXT: Purchase Includes:
+TEXT: L’achat contient :
 
 RESOURCE ID: purchase_limit_one
 TEXT: UN SEUL ACHAT
@@ -85835,7 +85838,7 @@ RESOURCE ID: purchase_on_web_store_string_key
 TEXT: ACHETER - MAGASIN EN LIGNE
 
 RESOURCE ID: purchase_options_with_number
-TEXT: PURCHASE OPTIONS ({0})
+TEXT: OPTIONS D’ACHAT ({0})
 
 RESOURCE ID: purchases_remaining_text
 TEXT: PLUS QUE : {0}
@@ -122427,7 +122430,7 @@ RESOURCE ID: sizeable_surprises_event_name
 TEXT: Surprises de taille
 
 RESOURCE ID: sizes_filter_group_key
-TEXT: Sizes
+TEXT: Tailles
 
 RESOURCE ID: skiddo_o_clock
 TEXT: Heure de Cabriolaine
@@ -138522,7 +138525,7 @@ RESOURCE ID: weather_week_event_name
 TEXT: Semaine météo
 
 RESOURCE ID: web_includes
-TEXT: WEB INCLUDES:
+TEXT: MAGASIN EN LIGNE :
 
 RESOURCE ID: web_store_homepage_url_key
 TEXT: https://store.pokemongo.com/?utm_source=PGO&utm_medium=in-game-shop&utm_campaign=pgo_webstore_linkout&utm_content=webstore_icon
@@ -138556,6 +138559,12 @@ TEXT: Impossible d'accéder à l'appareil photo. Vérifie les autorisations de l
 
 RESOURCE ID: website_error
 TEXT: Erreur lors du chargement du site Web
+
+RESOURCE ID: webstore_auto_refill_notification
+TEXT: Le rechargement automatique de tes PokéPièces est en cours. {0} PokéPièces ont été ajoutées à ton compte.
+
+RESOURCE ID: webstore_auto_refill_failed_notification
+TEXT: Un problème s’est produit lors du rechargement. Vérifie tes paramètres sur le magasin en ligne.
 
 RESOURCE ID: webstore_linkout_description
 TEXT: Achète des PokéPièces dans le magasin en ligne pour obtenir un bonus de PokéPièces et le double de Points de récompenses.

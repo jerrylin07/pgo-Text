@@ -20170,6 +20170,9 @@ TEXT: PC potenciados para todos los Pokémon megaevolucionados
 RESOURCE ID: bonus_mega_duration_72hr
 TEXT: 72 horas de duración de la megaevolución
 
+RESOURCE ID: bonus_mega_duration_96hr
+TEXT: 96 horas de duración de la megaevolución
+
 RESOURCE ID: bonus_mega_energy_gible
 TEXT: Consigue 300 Megaenergías Garchomp al completar el desafío de colección de Gible
 
@@ -63939,10 +63942,10 @@ at SHA 4d4f3e80cc7fb911006bd14d198c9831ef66d005
 Pipeline 339838, job 2672172
 
 RESOURCE ID: metadata_patch
-TEXT: Built at 2026-11-19T01:43:47.361024+00:00 for es-ES
-at SHA 22ac39e9aa2
-Pipeline 4115441, job 60743354
-Patch from: 0.435.2-SHA-18494160-RC2, 0.437.0-SHA-0699286a-RC6, 0.439.0-SHA-6e900373-RC3
+TEXT: Built at 2026-11-20T22:50:47.903523+00:00 for es-ES
+at SHA 2cc35f23581
+Pipeline 4122771, job 60854325
+Patch from: 0.437.0-SHA-6174fcca-RC4, 0.439.0-SHA-6e900373-RC3, 0.435.2-SHA-64391288-RC1
 
 RESOURCE ID: meteor_title_1
 TEXT: LLUVIA DE METEORITOS
@@ -138989,6 +138992,12 @@ TEXT: No se puede acceder a la cámara de tu dispositivo. Verifica los permisos 
 
 RESOURCE ID: website_error
 TEXT: Error al cargar el sitio web
+
+RESOURCE ID: webstore_auto_refill_notification
+TEXT: Se ha iniciado tu recarga automática de Pokémonedas. Se han añadido {0} Pokémonedas a tu cuenta.
+
+RESOURCE ID: webstore_auto_refill_failed_notification
+TEXT: Se ha producido un error al procesar tu recarga. Comprueba tus ajustes en la tienda en línea.
 
 RESOURCE ID: webstore_linkout_description
 TEXT: Compra Pokémonedas en la tienda en línea para recibir Pokémonedas adicionales y el doble de puntos de recompensa.
